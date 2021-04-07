@@ -1,0 +1,2 @@
+abrir youtube; google-chrome https://www.youtube.com/; abriendo youtube
+abrir code; code; abriendo visual studio code
