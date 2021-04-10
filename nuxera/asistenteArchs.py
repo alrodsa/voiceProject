@@ -3,6 +3,7 @@
 import argparse
 import os
 import queue
+from typing import OrderedDict
 import sounddevice as sd
 import vosk
 import sys
@@ -23,6 +24,7 @@ dictPalabras = {}
 '''
 acciones = []
 
+
 def int_or_str(text):
     """Helper function for argument parsing."""
     try:
@@ -37,32 +39,25 @@ def callback(indata, frames, time, status):
         print(status, file=sys.stderr)
     q.put(bytes(indata))
 
+'''
+    Definiendo flags para el programa
+'''
 
 parser = argparse.ArgumentParser(add_help=False)
 parser.add_argument(
     '-l', '--list-devices', action='store_true',
-    help='show list of audio devices and exit')
+    help='show list of audio devices and exit')    
 args, remaining = parser.parse_known_args()
 if args.list_devices:
     print(sd.query_devices())
     parser.exit(0)
-parser = argparse.ArgumentParser(
-    description=__doc__,
-    formatter_class=argparse.RawDescriptionHelpFormatter,
-    parents=[parser])
-parser.add_argument(
-    '-f', '--filename', type=str, metavar='FILENAME',
-    help='audio file to store recording to')
-parser.add_argument(
-    '-m', '--model', type=str, metavar='MODEL_PATH',
-    help='Path to the model')
-parser.add_argument(
-    '-d', '--device', type=int_or_str,
-    help='input device (numeric ID or substring)')
-parser.add_argument(
-    '-r', '--samplerate', type=int, help='sampling rate')
+parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter, parents=[parser])
+parser.add_argument('-f', '--filename', type=str, metavar='FILENAME', help='audio file to store recording to')
+parser.add_argument('-m', '--model', type=str, metavar='MODEL_PATH', help='Path to the model')
+parser.add_argument('-d', '--device', type=int_or_str, help='input device (numeric ID or substring)')
+parser.add_argument('-r', '--samplerate', type=int, help='sampling rate')
+parser.add_argument( '-i', '--instructions', action='store_true', help =  "This flag is used to add instructions to the actions file")
 args = parser.parse_args(remaining)
-
 '''
     Filtramos la cadena que nos venga del microfono introduciendo las palabras
     en el diccionario
@@ -94,7 +89,7 @@ def realizarAccion(speech):
 
         if continuar:
             os.system(vector[1])
-            print(vector[2])
+            print(vector[2]) #este print será dictado si no es un blanco
         continuar = False
 
     sleep(1)
@@ -104,9 +99,8 @@ def rellenar():
     file = open("./acciones.txt", "r")
     print(".. Rellenando acciones ..")
     for vector in file:
-        print(".", end='')
-        acciones.append(vector.split(';'))
-    print()
+        print("-", end='')
+        acciones.append(vector.split('; '))
 
 def cabecera():
     os.system('clear')
@@ -116,9 +110,44 @@ def cabecera():
     print('='*52)
 
 
+def start():
+    print("Estaria dentro")
+    os.system('clear')
+    cabecera()
+    print('-'*52)
+    print(" \nNow you are going to create or add instructions, follow the steps that will be indicated\n")
+    print('-'*52)
+    sleep(2)
+    file = open("./acciones.txt", "a")
+    seguir = True
+    while seguir:
+        os.system('clear')
+        cabecera()
+        print("\nWrite the instructions you want to say to the assistant")
+        orden = input()
+        sleep(1)
+        print("\nWrite the order to execute the action, remember that it will be executed in Bash")
+        accion = input()
+        sleep(1)
+        print("\nWrite what you want the assistant to answer you or press [ENTER]")
+        contestacion = input()
+        sleep(1)
+        file.write(orden + '; ' + accion + '; ' + contestacion + ' \n')
+        sleep(1)
+        print("\nDo you want to add another action?[y/n]", end='')
+        yesNo = input()
+        if yesNo == 'n':
+            file.close()
+            exit(0)
+        
+        
+
 try:
     cabecera()
+    if not os.path.isfile("acciones.txt") or args.instructions:
+        start()
     rellenar()
+
     for i in tqdm(range(100)):
         sleep(0.05)
 
