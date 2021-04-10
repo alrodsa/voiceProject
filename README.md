@@ -13,7 +13,7 @@ En este proyecto puedes encontrar un asistente básico hecho con VOSK, [completa
 
 Este programas y sus respectivos script de instalacion están destinados a ser ejecutados en Ubuntu 20.04 💻, por tanto no se asegura el funcionamiento en otras distros o sistemas operativos, os invitamos a hacer un pull-request añadiendo los cambios para vuestro sistema.
 
-Para hacerse con todo el código ejecuta la siguiente orden en tu sistem:
+Para hacerse con todo el código ejecuta la siguiente orden en tu sistema:
 
 ```Bash
 > git clone https://github.com/UzuRodri95/voiceProject
