@@ -1,3 +1,4 @@
+change to english version [🇬🇧](https://github.com/UzuRodri95/voiceProject/blob/main/README_en.md)
 # VoiceProject🔊
 
 VoiceProject en un proyecto de la asignatura Sistemas multimedia interactivos e inmersivos (SMII), optativa de cuarto curso de Ingenieria Informatica de la UPV. Este proyecto pretende ser una demostración de diferentes usos de librerías de reconocimiento y síntesis de voz 🔊.
