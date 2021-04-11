@@ -427,7 +427,7 @@ Copyright (C) 2012 Free Software Foundation, Inc.
 This config.status script is free software; the Free Software Foundation
 gives unlimited permission to copy, distribute and modify it."
 
-ac_pwd='/home/uzumaki/Desktop/voiceProject/SuperMarioVoice'
+ac_pwd='/home/sergio/Documents/Smi/Trabajo/voiceProject/SuperMarioVoice'
 srcdir='./snes9x/unix'
 test -n "$AWK" || AWK=awk
 # The default lists apply if the user does not specify any file.
@@ -583,23 +583,23 @@ echo 'BEGIN {' >"$ac_tmp/subs1.awk" &&
 cat >>"$ac_tmp/subs1.awk" <<\_ACAWK &&
 S["LTLIBOBJS"]=""
 S["LIBOBJS"]=""
-S["S9X_SYSTEM_ZIP"]="SYSTEM_ZIP=1"
+S["S9X_SYSTEM_ZIP"]="#SYSTEM_ZIP=1"
 S["S9XJMA"]="S9XJMA=1"
-S["S9XZIP"]="S9XZIP=1"
+S["S9XZIP"]="#S9XZIP=1"
 S["S9XNETPLAY"]="S9XNETPLAY=1"
 S["S9XDEBUGGER"]="#S9XDEBUGGER=1"
 S["S9XXVIDEO"]=""
-S["S9XLIBS"]="-lz -lminizip -lpng -lSM -lICE -lX11 -lXext -lXv -lXinerama -lpthread"
-S["S9XDEFS"]="-DJOYSTICK_SUPPORT -DNETPLAY_SUPPORT -DZLIB -DUNZIP_SUPPORT -DSYSTEM_ZIP -DJMA_SUPPORT -DHAVE_LIBPNG -DHAVE_MKSTEMP -DHAVE_STRINGS_H -DHAVE_SYS_IOCT"\
-"L_H -DHAVE_STDINT_H -DRIGHTSHIFT_IS_SAR -DUSE_XVIDEO -DUSE_XINERAMA -DUSE_THREADS"
+S["S9XLIBS"]="-lz -lpng -lSM -lICE -lX11 -lXext -lXv -lXinerama -lpthread"
+S["S9XDEFS"]="-DJOYSTICK_SUPPORT -DNETPLAY_SUPPORT -DZLIB -DJMA_SUPPORT -DHAVE_LIBPNG -DHAVE_MKSTEMP -DHAVE_STRINGS_H -DHAVE_SYS_IOCTL_H -DHAVE_STDINT_H -DRIGHTSH"\
+"IFT_IS_SAR -DUSE_XVIDEO -DUSE_XINERAMA -DUSE_THREADS"
 S["S9XFLGS"]="-g -O2 -O3 -fomit-frame-pointer -fno-exceptions -fno-rtti -pedantic -Wall -W -Wno-unused-parameter "
 S["X_EXTRA_LIBS"]=""
 S["X_LIBS"]=""
 S["X_PRE_LIBS"]=" -lSM -lICE"
 S["X_CFLAGS"]=""
 S["XMKMF"]=""
-S["SYSTEM_ZIP_LIBS"]="-lminizip"
-S["SYSTEM_ZIP_CFLAGS"]="-I/usr/include/minizip"
+S["SYSTEM_ZIP_LIBS"]=""
+S["SYSTEM_ZIP_CFLAGS"]=""
 S["PKG_CONFIG_LIBDIR"]=""
 S["PKG_CONFIG_PATH"]=""
 S["PKG_CONFIG"]="/usr/bin/pkg-config"

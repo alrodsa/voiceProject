@@ -1,8 +1,8 @@
 #S9XDEBUGGER=1
 S9XNETPLAY=1
-S9XZIP=1
+#S9XZIP=1
 S9XJMA=1
-SYSTEM_ZIP=1
+#SYSTEM_ZIP=1
 
 # Fairly good and special-char-safe descriptor of the os being built on.
 OS         = `uname -s -r -m|sed \"s/ /-/g\"|tr \"[A-Z]\" \"[a-z]\"|tr \"/()\" \"___\"`
@@ -36,7 +36,7 @@ CC         = gcc
 GASM       = g++
 INCLUDES   += -I. -I.. -I../apu/ -I../apu/bapu -I../jma/ -I../filter/
 
-CCFLAGS    = -g -O2 -O3 -fomit-frame-pointer -fno-exceptions -fno-rtti -pedantic -Wall -W -Wno-unused-parameter  -DJOYSTICK_SUPPORT -DNETPLAY_SUPPORT -DZLIB -DUNZIP_SUPPORT -DSYSTEM_ZIP -DJMA_SUPPORT -DHAVE_LIBPNG -DHAVE_MKSTEMP -DHAVE_STRINGS_H -DHAVE_SYS_IOCTL_H -DHAVE_STDINT_H -DRIGHTSHIFT_IS_SAR -DUSE_XVIDEO -DUSE_XINERAMA -DUSE_THREADS $(DEFS)
+CCFLAGS    = -g -O2 -O3 -fomit-frame-pointer -fno-exceptions -fno-rtti -pedantic -Wall -W -Wno-unused-parameter  -DJOYSTICK_SUPPORT -DNETPLAY_SUPPORT -DZLIB -DJMA_SUPPORT -DHAVE_LIBPNG -DHAVE_MKSTEMP -DHAVE_STRINGS_H -DHAVE_SYS_IOCTL_H -DHAVE_STDINT_H -DRIGHTSHIFT_IS_SAR -DUSE_XVIDEO -DUSE_XINERAMA -DUSE_THREADS $(DEFS)
 CFLAGS     = $(CCFLAGS)
 
 .SUFFIXES: .o .cpp .c .cc .h .m .i .s .obj
@@ -52,7 +52,7 @@ configure: configure.ac
 	exit 1
 
 snes9x: $(OBJECTS)
-	$(CCC) $(LDFLAGS) $(INCLUDES) -o $@ $(OBJECTS) -lm -lz -lminizip -lpng -lSM -lICE -lX11 -lXext -lXv -lXinerama -lpthread
+	$(CCC) $(LDFLAGS) $(INCLUDES) -o $@ $(OBJECTS) -lm -lz -lpng -lSM -lICE -lX11 -lXext -lXv -lXinerama -lpthread
 
 ../jma/s9x-jma.o: ../jma/s9x-jma.cpp
 	$(CCC) $(INCLUDES) -c $(CCFLAGS) -fexceptions $*.cpp -o $@
