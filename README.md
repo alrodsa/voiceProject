@@ -52,7 +52,7 @@ Pasos para su ejecución
 
 * **Sergio Benlloch**  - [sg1o](https://github.com/sg1o)
 * **Álvaro Rodríguez**  - [UzuRodri95](https://github.com/UzuRodri95)
-* **Dimitar Todorov** 
+* **Dimitar Todorov**  - [enmitko1](https://github.com/enmitko1)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/UzuRodri95/voiceProject/contributors) que han participado en este proyecto. 
 
@@ -64,3 +64,5 @@ Este proyecto es totalmente libre, puedes usarlo y modificarlo a tu gusto. Para 
 
 Si quieres ponerte en contacto con nosotros puedes hacerlo a traves de:
 * serbenl1@inf.upv.es
+* alrodsa2@inf.upv.es
+* ditodel@inf.upv.es
