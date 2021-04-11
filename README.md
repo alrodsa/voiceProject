@@ -25,7 +25,7 @@ A continuación se indican los pasos para la instalación de un proyecto. Cada p
 
 Pasos para su ejecución
 
-#Ej: Nuxera, un asistente básico de voz.
+# Nuxera, un asistente básico de voz para GNU/Linux.
 
 1º Paso, instalación de dependenciar
 
