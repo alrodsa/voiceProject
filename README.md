@@ -60,5 +60,7 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 Este proyecto es totalmente libre, puedes usarlo y modificarlo a tu gusto. Para mas detalles sobre la licencia lee [LICENSE](https://github.com/UzuRodri95/voiceProject/blob/main/LICENSE)
 
+## Contacto 📫
+
 Si quieres ponerte en contacto con nosotros puedes hacerlo a traves de:
 * serbenl1@inf.upv.es
