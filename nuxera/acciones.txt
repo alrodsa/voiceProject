@@ -1,5 +1,3 @@
-abrir youtube; google-chrome https://www.youtube.com/;  
-abrir code; code; abiendo code 
-abrir wikipedia; google-chrome https://es.wikipedia.org/wiki/Wikipedia:Portada; abriendo wikipedia 
-abrir web universidad; google-chrome www.upv.es; abriendo web upv 
-hola; echo 'hola'; hola 
+hola; echo 'hola, soy nuxera'; hola, soy nuxera; 
+abrir youtube; google-chrome https://www.youtube.com/; ; 
+abrir code; code; abriendo visual studio code; 

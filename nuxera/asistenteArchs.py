@@ -10,6 +10,10 @@ import sys
 from time import sleep
 from subprocess import call
 from tqdm import tqdm
+import subprocess, platform
+from gtts import gTTS
+import pyttsx3
+from playsound import playsound
 
 q = queue.Queue()
 
@@ -62,7 +66,48 @@ args = parser.parse_args(remaining)
     Filtramos la cadena que nos venga del microfono introduciendo las palabras
     en el diccionario
 '''
+#Funcion principal
+def text_to_speech(texto):
+    hay_web = pingOk("google.es")
+    
+    #para pruebas con pyttsx
+    #hay_web = pingOk("no_hay_web.es")
+    
+    if (hay_web):
+        speech_google(texto)
+    else:
+        speech_pyttsx(texto)
 
+#Funcion para comprobar si hay conexión
+def pingOk(sHost):
+    try:
+        output = subprocess.check_output("ping -{} 1 {}".format('n' if platform.system().lower()=="windows" else 'c', sHost), shell=True)
+
+    except Exception:
+        #print("No hay conexión.")
+        return False
+
+    #print("Hay conexión.")
+    return True
+
+
+#Funcion para convertir texto a voz con libreria Gtts de Google
+def speech_google(texto):
+    
+    tts = gTTS(texto, lang = 'es', tld= 'es')
+    tts.save("speaked.mp3")
+    playsound("speaked.mp3")
+    #Para borrar el archivo que ha creado Gtts
+    os.remove("speaked.mp3")
+    
+
+#Funcion para convertir texto a voz con libreria pyttsx
+def speech_pyttsx(texto):
+    
+    engine = pyttsx3.init()
+    engine.setProperty('voice', "spanish")
+    engine.say(texto)
+    engine.runAndWait();
 
 def filtrarPartialSpeech(partial_speech):
     partial_speech = partial_speech.replace("\"", "").replace(
@@ -89,7 +134,10 @@ def realizarAccion(speech):
 
         if continuar:
             os.system(vector[1])
-            print(vector[2]) #este print será dictado si no es un blanco
+            texto = vector[2]
+            print(texto)
+            if texto:
+                text_to_speech(texto)
         continuar = False
 
     sleep(1)
@@ -97,7 +145,9 @@ def realizarAccion(speech):
 
 def rellenar():
     file = open("./acciones.txt", "r")
-    print(".. Rellenando acciones ..")
+    print()
+    print("                  .. Rellenando acciones ..                    ")
+    print()
     for vector in file:
         print("-", end='')
         acciones.append(vector.split('; '))
@@ -111,7 +161,6 @@ def cabecera():
 
 
 def start():
-    print("Estaria dentro")
     os.system('clear')
     cabecera()
     print('-'*52)
@@ -132,80 +181,86 @@ def start():
         print("\nWrite what you want the assistant to answer you or press [ENTER]")
         contestacion = input()
         sleep(1)
-        file.write(orden + '; ' + accion + '; ' + contestacion + ' \n')
+        file.write(orden + '; ' + accion + '; ' + contestacion + '; \n')
         sleep(1)
         print("\nDo you want to add another action?[y/n]", end='')
         yesNo = input()
         if yesNo == 'n':
             file.close()
             exit(0)
+
+
         
         
+def main():
+    try:
+        cabecera()
+        if not os.path.isfile("acciones.txt") or args.instructions:
+            start()
+        rellenar()
 
-try:
-    cabecera()
-    if not os.path.isfile("acciones.txt") or args.instructions:
-        start()
-    rellenar()
+        for i in tqdm(range(100)):
+            sleep(0.05)
 
-    for i in tqdm(range(100)):
-        sleep(0.05)
+        if args.model is None:
+            args.model = "model"
+        if not os.path.exists(args.model):
+            print("Please download a model for your language from https://alphacephei.com/vosk/models")
+            print("and unpack as 'model' in the current folder.")
+            parser.exit(0)
+        if args.samplerate is None:
+            device_info = sd.query_devices(args.device, 'input')
+            # soundfile expects an int, sounddevice provides a float:
+            args.samplerate = int(device_info['default_samplerate'])
 
-    if args.model is None:
-        args.model = "model"
-    if not os.path.exists(args.model):
-        print("Please download a model for your language from https://alphacephei.com/vosk/models")
-        print("and unpack as 'model' in the current folder.")
-        parser.exit(0)
-    if args.samplerate is None:
-        device_info = sd.query_devices(args.device, 'input')
-        # soundfile expects an int, sounddevice provides a float:
-        args.samplerate = int(device_info['default_samplerate'])
+        model = vosk.Model(args.model)
 
-    model = vosk.Model(args.model)
+        if args.filename:
+            dump_fn = open(args.filename, "wb")
+        else:
+            dump_fn = None
 
-    if args.filename:
-        dump_fn = open(args.filename, "wb")
-    else:
-        dump_fn = None
+        with sd.RawInputStream(samplerate=args.samplerate, blocksize=8000, device=args.device, dtype='int16',
+                                channels=1, callback=callback):
+            print('#' * 80)
+            print('Press Ctrl+C to stop the recording')
+            print('#' * 80)
+            sleep(1)
 
-    with sd.RawInputStream(samplerate=args.samplerate, blocksize=8000, device=args.device, dtype='int16',
-                            channels=1, callback=callback):
-        print('#' * 80)
-        print('Press Ctrl+C to stop the recording')
-        print('#' * 80)
+            rec = vosk.KaldiRecognizer(model, args.samplerate)
+            os.system('clear')
 
-        rec = vosk.KaldiRecognizer(model, args.samplerate)
-        os.system('clear')
+            while True:
+                cabecera()
+                data = q.get()
+                if rec.AcceptWaveform(data):
+                    os.system('clear')
+                    '''Cuando el speech parcial termine, vendra aqui'''
+                    speech = rec.Result()
 
-        while True:
-            cabecera()
-            data = q.get()
-            if rec.AcceptWaveform(data):
-                os.system('clear')
-                '''Cuando el speech parcial termine, vendra aqui'''
-                speech = rec.Result()
-
-                '''
-                        Sacamos las palabras del diccionario y las pasamos 
-                        a la funcion para realizar alguna funcion
                     '''
-                palabras = dictPalabras.keys()
-                realizarAccion(palabras)
+                            Sacamos las palabras del diccionario y las pasamos 
+                            a la funcion para realizar alguna funcion
+                        '''
+                    palabras = dictPalabras.keys()
+                    realizarAccion(palabras)
 
-                '''Borramos el diccionario para escucharl la nueva entrada'''
-                dictPalabras.clear()
-            else:
-                '''Aqui vamos metiendo palabras del speech parcial'''
-                partial_speech = rec.PartialResult()
-                filtrarPartialSpeech(partial_speech)
+                    '''Borramos el diccionario para escucharl la nueva entrada'''
+                    dictPalabras.clear()
+                else:
+                    '''Aqui vamos metiendo palabras del speech parcial'''
+                    partial_speech = rec.PartialResult()
+                    filtrarPartialSpeech(partial_speech)
 
-            if dump_fn is not None:
-                dump_fn.write(data)
+                if dump_fn is not None:
+                    dump_fn.write(data)
 
 
-except KeyboardInterrupt:
-    print('\nDone')
-    parser.exit(0)
-except Exception as e:
-    parser.exit(type(e).__name__ + ': ' + str(e))
+    except KeyboardInterrupt:
+        print('\nDone')
+        parser.exit(0)
+    except Exception as e:
+        parser.exit(type(e).__name__ + ': ' + str(e))
+
+if __name__ == "__main__":
+    main()

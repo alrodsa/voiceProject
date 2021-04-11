@@ -1,0 +1,21 @@
+se deben instalar:
+
+Gtts, Pyttsx
+
+    pip3 install gtts
+
+    pip3 install pyttsx3
+
+
+    
+Para pyttsx es necesario instalar ademas la libreria libespeak, mediante el comando:
+
+    sudo apt install libespeak1
+
+Para Gtts se debe instalar Playsound para que se reproduzca el audio
+
+    pip3 install playsound
+
+Para Playsound es necesario instalar una libería adicional para que funcione en sistemas Linux:
+
+    sudo apt install python3-gst-1.0
