@@ -1,17 +1,14 @@
-# voiceProject
+# VoiceProject🔊
 
-VoiceProject en un proyecto de la asignatura Sistemas multimedia interactivos e inmersivos (SMII), optativa de cuarto curso del Ingenieria Informatica de la UPV. Este proyecto pretende ser una demostración de diferentes usos de librerías de reconocimiento y síntesis de voz 🔊.
-
-En este proyecto puedes encontrar un asistente básico hecho con VOSK, [completar según vaya avanzando el proyecto]
+VoiceProject en un proyecto de la asignatura Sistemas multimedia interactivos e inmersivos (SMII), optativa de cuarto curso de Ingenieria Informatica de la UPV. Este proyecto pretende ser una demostración de diferentes usos de librerías de reconocimiento y síntesis de voz 🔊.
 
 ## ¿Qué puedes encontrar en este repo? 🚀
 
-En este proyecto puedes encontrar un asistente básico hecho con VOSK, [completar según vaya avanzando el proyecto]
-
+En este proyecto puedes encontrar un asistente básico hecho con VOSK llamado [Nuxera](https://github.com/UzuRodri95/voiceProject/tree/main/nuxera), una automatización para jugar con la voz de [SuperMario](https://github.com/UzuRodri95/voiceProject/tree/main/SuperMarioVoice) para SNES o un Eliza con voz entre otros.
 
 ### Pre-requisitos 📋
 
-Este programas y sus respectivos script de instalacion están destinados a ser ejecutados en Ubuntu 20.04 💻, por tanto no se asegura el funcionamiento en otras distros o sistemas operativos, os invitamos a hacer un pull-request añadiendo los cambios para vuestro sistema.
+Estos programas y sus respectivos script de instalacion están destinados a ser ejecutados en Ubuntu 20.04 💻, por tanto no se asegura el funcionamiento en otras distros o sistemas operativos, os invitamos a hacer un pull-request añadiendo los cambios para vuestros sistemas.
 
 Para hacerse con todo el código ejecuta la siguiente orden en tu sistema:
 
@@ -27,24 +24,22 @@ Pasos para su ejecución
 
 ### »Nuxera, un asistente básico de voz para GNU/Linux.
 
-1º Paso, instalación de dependenciar
+* Instalación de dependenciar
 
 ```Bash
 > chmod +x installNuxera.sh
 > sudo ./installNuxera.sh
 ```
 
-Una vez instaladas las dependencias, simplemente ejecuta con Python 3 el programa deseado
+* Una vez instaladas las dependencias, simplemente ejecuta con Python 3 el programa deseado:
 
 ```Bash 
 > python3 asistenteArch.py
 ```
-
-_Y repite con los demás proyectos y sus dependencias_
+	
+* Por último, asegurate de tener la carpeta *model* en el mismo directorio del programa, la puedes encontrar en la carpeta de cada proyecto o descargarla desde la documentación de [vosk](https://alphacephei.com/vosk/models), puedes elegir el idioma que desees y descargar el modelo de ese idioma.
 
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Vosk](https://alphacephei.com/vosk/) - La librería de voz usada
 * [Python 3](https://docs.python.org/3/) - El lenguaje de programación usado
@@ -58,11 +53,11 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * **Álvaro Rodríguez**  - [UzuRodri95](https://github.com/UzuRodri95)
 * **Dimitar Todorov** 
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/UzuRodri95/voiceProject/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/UzuRodri95/voiceProject/contributors) que han participado en este proyecto. 
 
 ## Licencia 📄
 
-Este proyecto es totalmente kibre, puedes usarlo y modificarlo a tu gusto.
+Este proyecto es totalmente libre, puedes usarlo y modificarlo a tu gusto. Para mas detalles sobre la licencia lee [LICENSE](https://github.com/UzuRodri95/voiceProject/blob/main/LICENSE)
 
 Si quieres ponerte en contacto con nosotros puedes hacerlo a traves de:
 * serbenl1@inf.upv.es
