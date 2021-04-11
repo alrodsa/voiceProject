@@ -52,7 +52,7 @@ Steps for its execution
 
 * **Sergio Benlloch**  - [sg1o](https://github.com/sg1o)
 * **Álvaro Rodríguez**  - [UzuRodri95](https://github.com/UzuRodri95)
-* **Dimitar Todorov** 
+* **Dimitar Todorov**  - [enmitko1](https://github.com/enmitko1)
 
 You can also look at the list of all [contributors](https://github.com/UzuRodri95/voiceProject/contributors) who have participated in this project.
 
@@ -63,3 +63,5 @@ This project is totally free, you can use it and modify it to your liking. For m
 ## Contact  📫
 If you want to get in touch with us you can do it through:
 * serbenl1@inf.upv.es
+* alrodsa2@inf.upv.es
+* ditodel@inf.upv.es
