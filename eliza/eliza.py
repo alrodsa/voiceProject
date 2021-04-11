@@ -4,9 +4,9 @@
 # ----------------------------------------------------------------------
 #  eliza.py
 #
-# Eliza hecho a patir de la wesion en ingles de jezhiggins y de la version en castellano en python2 de marcobaturan
-# se puede encontrar en https://github.com/jezhiggins/eliza.py/blob/main/eliza.py version en ingles
-# https://github.com/marcobaturan/Eliza/blob/master/simphaty.py version en castellano
+# Eliza hecho a partir de la version en inglés de jezhiggins y de la versión en castellano en python2 de marcobaturan
+# la version en inglés se puede encontrar en https://github.com/jezhiggins/eliza.py/blob/main/eliza.py
+# y la de castellano en https://github.com/marcobaturan/Eliza/blob/master/simphaty.py 
 # ----------------------------------------------------------------------
 
 import string
