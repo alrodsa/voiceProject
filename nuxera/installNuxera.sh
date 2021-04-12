@@ -52,6 +52,41 @@ fi
 
 sleep 0.2s
 
+gst='python3-gst-1.0'
+
+dpkg -s $gst &> /dev/null
+
+if [ $? -ne 0 ] 
+    then 
+        echo "[!]GST no satisfecho, se va a instalar" 
+        sudo apt-get install $gst
+        dpkg -s $gst &> /dev/null && echo "[*]GST instalado exitosamente"
+        
+    else 
+        echo "[!]GST satisfecho" 
+    
+fi
+
+sleep 0.2s
+
+speak='libespeak1'
+
+dpkg -s $speak &> /dev/null
+
+if [ $? -ne 0 ] 
+    then 
+        echo "[!]SPEAK1 no satisfecho, se va a instalar" 
+        sudo apt-get install $speak
+        dpkg -s $speak &> /dev/null && echo "[*]SPEAK1 instalado exitosamente"
+        
+    else 
+        echo "[!]SPEAK1 satisfecho" 
+    
+fi
+
+sleep 0.2s
+
+
 echo "[*]Comprobando dependencias PIP3"
 
 sleep 0.2s
@@ -91,8 +126,42 @@ if [ "$cargas" ]
         pip3 install tqdm
 fi
 
+sleep 0.2s
+
+gtts=$(pip3 list | grep gTTS)
+
+if [ "$gtts" ]
+    then
+        echo "[!] GTTS satisfecho"
+    else
+        echo "[!]GTTS no satisfecho, se va a instalar"
+        pip3 install gtts
+fi
+
+sleep 0.2s
+
+pytts=$(pip3 list | grep pyttsx3)
+
+if [ "$pytts" ]
+    then
+        echo "[!] PYTTS satisfecho"
+    else
+        echo "[!] PYTTS no satisfecho, se va a instalar"
+        pip3 install pyttsx3
+fi
+
+playsound=$(pip3 list | grep playsound)
+
+if [ "$playsound" ]
+    then
+        echo "[!] Playsound satisfecho"
+    else
+        echo "[!] Playsound no satisfecho, se va a instalar"
+        pip3 install playsound
+fi
 
 sleep 0.5s
+
 
 printf "========================================================================\n"
 printf '=====================Dependencias instaladas============================\n'
