@@ -1,3 +1,5 @@
 hola; echo 'hola, soy nuxera'; hola, soy nuxera; 
 abrir youtube; google-chrome https://www.youtube.com/; ; 
 abrir code; code; abriendo visual studio code; 
+abrir web universidad; google-chrome www.upv.es; Abriendo web de la UPV; 
+quién eres; echo 'soy nuxera, tu asistente virtual, ¿te puedo ayudar en algo?'; Soy nuxera tu asistente virtual, ¿Te puedo ayudar en algo?; 
