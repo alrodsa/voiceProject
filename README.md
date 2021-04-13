@@ -25,7 +25,7 @@ Pasos para su ejecución
 
 ### »Nuxera, un asistente básico de voz para GNU/Linux.
 
-* Instalación de dependenciar
+* Instalación de dependencias
 
 ```Bash
 > chmod +x installNuxera.sh
@@ -37,7 +37,21 @@ Pasos para su ejecución
 ```Bash 
 > python3 asistenteArch.py
 ```
-	
+
+### »Super Mario Voice, mítico juego de Super Mario World de la SNES pero jugado mediante voz.
+![Texto alternativo](https://miro.medium.com/max/1012/1*bN5k5RVQnXGHb-UvdOB9IA.gif "Título alternativo")
+* Instalación de dependencias
+
+```Bash
+> chmod +x installSMV.sh
+> sudo ./installSMV.sh
+```
+
+* Una vez instaladas las dependencias, simplemente ejecuta con Python 3 el programa deseado:
+
+```Bash 
+> python3 asistenteSMV.py
+```
 * Por último, asegurate de tener la carpeta *model* en el mismo directorio del programa, la puedes encontrar en la carpeta de cada proyecto o descargarla desde la documentación de [vosk](https://alphacephei.com/vosk/models), puedes elegir el idioma que desees y descargar el modelo de ese idioma.
 
 ## Construido con 🛠️
