@@ -1,9 +1,9 @@
 CC=gcc
 CCACHE_DIR=/home/sergio/.cache/Nuitka/ccache
-CCACHE_LOGFILE=/home/sergio/Documents/Smi/Trabajo/voiceProject/nuxera/asistenteArchswtoTtS.build/ccache-76688.txt
+CCACHE_LOGFILE=/home/sergio/Documents/Smi/Trabajo/voiceProject/nuxera/deploy-nui/asistenteArchswtoTtS.build/ccache-100000.txt
 CCCOM=$CC -o $TARGET -c $CFLAGS $CCFLAGS $_CCCOMCOM $SOURCES
 CFILESUFFIX=.c
-CPPDEFINES=['__NUITKA_NO_ASSERT__', '_NUITKA_CONSTANTS_FROM_INCBIN', '_NUITKA_FROZEN=0', '_NUITKA_EXE']
+CPPDEFINES=['_NUITKA_STANDALONE', '__NUITKA_NO_ASSERT__', '_NUITKA_CONSTANTS_FROM_INCBIN', '_NUITKA_FROZEN=163', '_NUITKA_EXE']
 CPPDEFPREFIX=-D
 CPPDEFSUFFIX=
 CPPPATH=['/usr/include/python3.8', '.', '/home/sergio/.local/lib/python3.8/site-packages/nuitka/build/include', '/home/sergio/.local/lib/python3.8/site-packages/nuitka/build/static_src']

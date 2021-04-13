@@ -65,13 +65,13 @@ void checkModuleConstants_matplotlib$tri$tripcolor(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_e5e86bad29b125c6b5cdea58bc0d7cf9;
-static PyCodeObject *codeobj_85eebfa421e786cc2197c975c3ca2748;
+static PyCodeObject *codeobj_eee232708a0ff68d92bd90dc1669ae0b;
+static PyCodeObject *codeobj_ffca77f848b0c4cf9ca6618c0b167895;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[61]; CHECK_OBJECT(module_filename_obj);
-    codeobj_e5e86bad29b125c6b5cdea58bc0d7cf9 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[78], NULL, NULL, 0, 0, 0);
-    codeobj_85eebfa421e786cc2197c975c3ca2748 = MAKE_CODEOBJECT(module_filename_obj, 9, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[77], mod_consts[79], NULL, 1, 7, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[77]); CHECK_OBJECT(module_filename_obj);
+    codeobj_eee232708a0ff68d92bd90dc1669ae0b = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[78], NULL, NULL, 0, 0, 0);
+    codeobj_ffca77f848b0c4cf9ca6618c0b167895 = MAKE_CODEOBJECT(module_filename_obj, 9, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[76], mod_consts[79], NULL, 1, 7, 0);
 }
 
 // The module function declarations.
@@ -119,7 +119,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__element_3 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_85eebfa421e786cc2197c975c3ca2748;
+    struct Nuitka_FrameObject *frame_ffca77f848b0c4cf9ca6618c0b167895;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -138,7 +138,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     bool tmp_result;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_85eebfa421e786cc2197c975c3ca2748 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_ffca77f848b0c4cf9ca6618c0b167895 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -146,31 +146,31 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_85eebfa421e786cc2197c975c3ca2748)) {
-        Py_XDECREF(cache_frame_85eebfa421e786cc2197c975c3ca2748);
+    if (isFrameUnusable(cache_frame_ffca77f848b0c4cf9ca6618c0b167895)) {
+        Py_XDECREF(cache_frame_ffca77f848b0c4cf9ca6618c0b167895);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_85eebfa421e786cc2197c975c3ca2748 == NULL) {
+        if (cache_frame_ffca77f848b0c4cf9ca6618c0b167895 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_85eebfa421e786cc2197c975c3ca2748 = MAKE_FUNCTION_FRAME(codeobj_85eebfa421e786cc2197c975c3ca2748, module_matplotlib$tri$tripcolor, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_ffca77f848b0c4cf9ca6618c0b167895 = MAKE_FUNCTION_FRAME(codeobj_ffca77f848b0c4cf9ca6618c0b167895, module_matplotlib$tri$tripcolor, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_85eebfa421e786cc2197c975c3ca2748->m_type_description == NULL);
-    frame_85eebfa421e786cc2197c975c3ca2748 = cache_frame_85eebfa421e786cc2197c975c3ca2748;
+    assert(cache_frame_ffca77f848b0c4cf9ca6618c0b167895->m_type_description == NULL);
+    frame_ffca77f848b0c4cf9ca6618c0b167895 = cache_frame_ffca77f848b0c4cf9ca6618c0b167895;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_85eebfa421e786cc2197c975c3ca2748);
+    pushFrameStack(frame_ffca77f848b0c4cf9ca6618c0b167895);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_85eebfa421e786cc2197c975c3ca2748) == 2); // Frame stack
+    assert(Py_REFCNT(frame_ffca77f848b0c4cf9ca6618c0b167895) == 2); // Frame stack
 
     // Framed code:
     {
@@ -215,7 +215,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         tmp_kwargs_name_1 = _PyDict_NewPresized( 1 );
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 47;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 47;
         tmp_call_result_1 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -587,7 +587,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
             type_description_1 = "ooooooooooooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 57;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 57;
         tmp_assign_source_9 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_1);
@@ -1074,7 +1074,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[15];
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 70;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 70;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -1124,7 +1124,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         PyObject *tmp_ass_subscript_1;
         CHECK_OBJECT(par_kwargs);
         tmp_called_instance_1 = par_kwargs;
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 78;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 78;
         tmp_ass_subvalue_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_1,
             mod_consts[18],
@@ -1190,7 +1190,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         tmp_args_element_name_2 = mod_consts[21];
         CHECK_OBJECT(var_linewidths);
         tmp_args_element_name_3 = var_linewidths;
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 79;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 79;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_call_result_2 = CALL_METHOD_WITH_ARGS2(
@@ -1274,7 +1274,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         }
 
         tmp_called_instance_3 = par_kwargs;
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 83;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 83;
         tmp_ass_subvalue_2 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_3,
             mod_consts[18],
@@ -1340,7 +1340,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         tmp_args_element_name_4 = mod_consts[26];
         CHECK_OBJECT(var_edgecolors);
         tmp_args_element_name_5 = var_edgecolors;
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 84;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 84;
         {
             PyObject *call_args[] = {tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_assign_source_13 = CALL_METHOD_WITH_ARGS2(
@@ -1418,7 +1418,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         }
 
         tmp_called_instance_5 = par_kwargs;
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 87;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 87;
         tmp_ass_subvalue_3 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_5,
             mod_consts[18],
@@ -1510,7 +1510,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         and_right_6:;
         CHECK_OBJECT(var_ec);
         tmp_called_instance_6 = var_ec;
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 88;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 88;
         tmp_compexpr_left_14 = CALL_METHOD_NO_ARGS(tmp_called_instance_6, mod_consts[30]);
         if (tmp_compexpr_left_14 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1662,7 +1662,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         PyObject *tmp_raise_type_2;
         PyObject *tmp_make_exception_arg_2;
         tmp_make_exception_arg_2 = mod_consts[31];
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 93;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 93;
         tmp_raise_type_2 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_2);
         assert(!(tmp_raise_type_2 == NULL));
         exception_type = tmp_raise_type_2;
@@ -1757,7 +1757,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         PyObject *tmp_raise_type_3;
         PyObject *tmp_make_exception_arg_3;
         tmp_make_exception_arg_3 = mod_consts[32];
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 96;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 96;
         tmp_raise_type_3 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_3);
         assert(!(tmp_raise_type_3 == NULL));
         exception_type = tmp_raise_type_3;
@@ -1855,7 +1855,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         }
 
         tmp_called_instance_7 = var_tri;
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 102;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 102;
         tmp_assign_source_15 = CALL_METHOD_NO_ARGS(tmp_called_instance_7, mod_consts[34]);
         if (tmp_assign_source_15 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2003,7 +2003,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         tmp_args_name_2 = PyTuple_New(1);
         PyTuple_SET_ITEM(tmp_args_name_2, 0, tmp_tuple_element_2);
         tmp_kwargs_name_2 = PyDict_Copy(mod_consts[37]);
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 103;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 103;
         tmp_assign_source_16 = CALL_FUNCTION(tmp_called_name_3, tmp_args_name_2, tmp_kwargs_name_2);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_name_2);
@@ -2082,7 +2082,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
             goto frame_exception_exit_1;
         }
         tmp_kwargs_name_3 = PyDict_Copy(mod_consts[39]);
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 108;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 108;
         tmp_assign_source_17 = CALL_FUNCTION_WITH_KEYARGS(tmp_called_name_4, tmp_kwargs_name_3);
         Py_DECREF(tmp_called_name_4);
         Py_DECREF(tmp_kwargs_name_3);
@@ -2288,7 +2288,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         tmp_called_instance_8 = var_collection;
         CHECK_OBJECT(par_alpha);
         tmp_args_element_name_6 = par_alpha;
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 115;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 115;
         tmp_call_result_3 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_8, mod_consts[42], tmp_args_element_name_6);
         if (tmp_call_result_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2344,7 +2344,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         }
 
         tmp_args_element_name_7 = var_C;
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 116;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 116;
         tmp_call_result_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_5);
         if (tmp_call_result_4 == NULL) {
@@ -2424,7 +2424,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         tmp_kwargs_name_4 = _PyDict_NewPresized( 1 );
         tmp_res = PyDict_SetItem(tmp_kwargs_name_4, tmp_dict_key_2, tmp_dict_value_2);
         assert(!(tmp_res != 0));
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 117;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 117;
         tmp_call_result_5 = CALL_FUNCTION(tmp_called_name_6, tmp_args_name_3, tmp_kwargs_name_4);
         Py_DECREF(tmp_called_name_6);
         Py_DECREF(tmp_args_name_3);
@@ -2460,7 +2460,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         tmp_called_instance_9 = var_collection;
         CHECK_OBJECT(par_cmap);
         tmp_args_element_name_8 = par_cmap;
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 118;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 118;
         tmp_call_result_6 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_9, mod_consts[48], tmp_args_element_name_8);
         if (tmp_call_result_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2516,7 +2516,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         }
 
         tmp_args_element_name_9 = par_norm;
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 119;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 119;
         tmp_call_result_7 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_7, tmp_args_element_name_9);
         Py_DECREF(tmp_called_name_7);
         if (tmp_call_result_7 == NULL) {
@@ -2579,7 +2579,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         tmp_args_element_name_11 = par_vmin;
         CHECK_OBJECT(par_vmax);
         tmp_args_element_name_12 = par_vmax;
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 120;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 120;
         {
             PyObject *call_args[] = {tmp_args_element_name_10, tmp_args_element_name_11, tmp_args_element_name_12};
             tmp_call_result_8 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_8, call_args);
@@ -2603,7 +2603,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         PyObject *tmp_call_result_9;
         CHECK_OBJECT(par_ax);
         tmp_called_instance_10 = par_ax;
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 121;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 121;
         tmp_call_result_9 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_10,
             mod_consts[51],
@@ -2650,7 +2650,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
             type_description_1 = "ooooooooooooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 123;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 123;
         tmp_assign_source_20 = CALL_METHOD_NO_ARGS(tmp_called_instance_11, mod_consts[53]);
         Py_DECREF(tmp_called_instance_11);
         if (tmp_assign_source_20 == NULL) {
@@ -2694,7 +2694,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
             type_description_1 = "ooooooooooooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 124;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 124;
         tmp_assign_source_21 = CALL_METHOD_NO_ARGS(tmp_called_instance_12, mod_consts[54]);
         Py_DECREF(tmp_called_instance_12);
         if (tmp_assign_source_21 == NULL) {
@@ -2738,7 +2738,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
             type_description_1 = "ooooooooooooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 125;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 125;
         tmp_assign_source_22 = CALL_METHOD_NO_ARGS(tmp_called_instance_13, mod_consts[53]);
         Py_DECREF(tmp_called_instance_13);
         if (tmp_assign_source_22 == NULL) {
@@ -2782,7 +2782,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
             type_description_1 = "ooooooooooooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 126;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 126;
         tmp_assign_source_23 = CALL_METHOD_NO_ARGS(tmp_called_instance_14, mod_consts[54]);
         Py_DECREF(tmp_called_instance_14);
         if (tmp_assign_source_23 == NULL) {
@@ -2844,7 +2844,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         tmp_called_instance_15 = par_ax;
         CHECK_OBJECT(var_corners);
         tmp_args_element_name_13 = var_corners;
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 128;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 128;
         tmp_call_result_10 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_15, mod_consts[56], tmp_args_element_name_13);
         if (tmp_call_result_10 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2874,7 +2874,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         }
 
         tmp_called_instance_16 = par_ax;
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 129;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 129;
         tmp_call_result_11 = CALL_METHOD_NO_ARGS(tmp_called_instance_16, mod_consts[57]);
         if (tmp_call_result_11 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2930,7 +2930,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
         }
 
         tmp_args_element_name_14 = var_collection;
-        frame_85eebfa421e786cc2197c975c3ca2748->m_frame.f_lineno = 130;
+        frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame.f_lineno = 130;
         tmp_call_result_12 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_9, tmp_args_element_name_14);
         Py_DECREF(tmp_called_name_9);
         if (tmp_call_result_12 == NULL) {
@@ -2962,7 +2962,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
     goto frame_return_exit_1;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_85eebfa421e786cc2197c975c3ca2748);
+    RESTORE_FRAME_EXCEPTION(frame_ffca77f848b0c4cf9ca6618c0b167895);
 #endif
 
     // Put the previous frame back on top.
@@ -2972,7 +2972,7 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_85eebfa421e786cc2197c975c3ca2748);
+    RESTORE_FRAME_EXCEPTION(frame_ffca77f848b0c4cf9ca6618c0b167895);
 #endif
 
     // Put the previous frame back on top.
@@ -2983,18 +2983,18 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_85eebfa421e786cc2197c975c3ca2748);
+    RESTORE_FRAME_EXCEPTION(frame_ffca77f848b0c4cf9ca6618c0b167895);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_85eebfa421e786cc2197c975c3ca2748, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_85eebfa421e786cc2197c975c3ca2748->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_85eebfa421e786cc2197c975c3ca2748, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_ffca77f848b0c4cf9ca6618c0b167895, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_ffca77f848b0c4cf9ca6618c0b167895->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_ffca77f848b0c4cf9ca6618c0b167895, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_85eebfa421e786cc2197c975c3ca2748,
+        frame_ffca77f848b0c4cf9ca6618c0b167895,
         type_description_1,
         par_ax,
         par_alpha,
@@ -3023,17 +3023,17 @@ static PyObject *impl_matplotlib$tri$tripcolor$$$function__1_tripcolor(struct Nu
 
 
     // Release cached frame if used for exception.
-    if (frame_85eebfa421e786cc2197c975c3ca2748 == cache_frame_85eebfa421e786cc2197c975c3ca2748) {
+    if (frame_ffca77f848b0c4cf9ca6618c0b167895 == cache_frame_ffca77f848b0c4cf9ca6618c0b167895) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_85eebfa421e786cc2197c975c3ca2748);
-        cache_frame_85eebfa421e786cc2197c975c3ca2748 = NULL;
+        Py_DECREF(cache_frame_ffca77f848b0c4cf9ca6618c0b167895);
+        cache_frame_ffca77f848b0c4cf9ca6618c0b167895 = NULL;
     }
 
-    assertFrameObject(frame_85eebfa421e786cc2197c975c3ca2748);
+    assertFrameObject(frame_ffca77f848b0c4cf9ca6618c0b167895);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -3191,11 +3191,11 @@ function_return_exit:
 static PyObject *MAKE_FUNCTION_matplotlib$tri$tripcolor$$$function__1_tripcolor(PyObject *kw_defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$tri$tripcolor$$$function__1_tripcolor,
-        mod_consts[77],
+        mod_consts[76],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_85eebfa421e786cc2197c975c3ca2748,
+        codeobj_ffca77f848b0c4cf9ca6618c0b167895,
         NULL,
 #if PYTHON_VERSION >= 0x300
         kw_defaults,
@@ -3584,7 +3584,7 @@ PyObject *modulecode_matplotlib$tri$tripcolor(PyObject *module, struct Nuitka_Me
 
     // Temp variables if any
     PyObject *tmp_import_from_1__module = NULL;
-    struct Nuitka_FrameObject *frame_e5e86bad29b125c6b5cdea58bc0d7cf9;
+    struct Nuitka_FrameObject *frame_eee232708a0ff68d92bd90dc1669ae0b;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -3604,30 +3604,30 @@ PyObject *modulecode_matplotlib$tri$tripcolor(PyObject *module, struct Nuitka_Me
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[61];
-        UPDATE_STRING_DICT0(moduledict_matplotlib$tri$tripcolor, (Nuitka_StringObject *)mod_consts[62], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_matplotlib$tri$tripcolor, (Nuitka_StringObject *)mod_consts[61], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_e5e86bad29b125c6b5cdea58bc0d7cf9 = MAKE_MODULE_FRAME(codeobj_e5e86bad29b125c6b5cdea58bc0d7cf9, module_matplotlib$tri$tripcolor);
+    frame_eee232708a0ff68d92bd90dc1669ae0b = MAKE_MODULE_FRAME(codeobj_eee232708a0ff68d92bd90dc1669ae0b, module_matplotlib$tri$tripcolor);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_e5e86bad29b125c6b5cdea58bc0d7cf9);
-    assert(Py_REFCNT(frame_e5e86bad29b125c6b5cdea58bc0d7cf9) == 2);
+    pushFrameStack(frame_eee232708a0ff68d92bd90dc1669ae0b);
+    assert(Py_REFCNT(frame_eee232708a0ff68d92bd90dc1669ae0b) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[61];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri$tripcolor, (Nuitka_StringObject *)mod_consts[63]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri$tripcolor, (Nuitka_StringObject *)mod_consts[62]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[63]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[62]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[64], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[63], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -3643,14 +3643,14 @@ PyObject *modulecode_matplotlib$tri$tripcolor(PyObject *module, struct Nuitka_Me
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri$tripcolor, (Nuitka_StringObject *)mod_consts[63]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri$tripcolor, (Nuitka_StringObject *)mod_consts[62]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[63]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[62]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[65], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[64], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -3665,7 +3665,7 @@ PyObject *modulecode_matplotlib$tri$tripcolor(PyObject *module, struct Nuitka_Me
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_matplotlib$tri$tripcolor, (Nuitka_StringObject *)mod_consts[66], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_matplotlib$tri$tripcolor, (Nuitka_StringObject *)mod_consts[65], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -3674,12 +3674,12 @@ PyObject *modulecode_matplotlib$tri$tripcolor(PyObject *module, struct Nuitka_Me
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[67];
+        tmp_name_name_1 = mod_consts[66];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_matplotlib$tri$tripcolor;
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = Py_None;
         tmp_level_name_1 = mod_consts[9];
-        frame_e5e86bad29b125c6b5cdea58bc0d7cf9->m_frame.f_lineno = 1;
+        frame_eee232708a0ff68d92bd90dc1669ae0b->m_frame.f_lineno = 1;
         tmp_assign_source_4 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3701,12 +3701,12 @@ PyObject *modulecode_matplotlib$tri$tripcolor(PyObject *module, struct Nuitka_Me
         PyObject *tmp_locals_arg_name_2;
         PyObject *tmp_fromlist_name_2;
         PyObject *tmp_level_name_2;
-        tmp_name_name_2 = mod_consts[68];
+        tmp_name_name_2 = mod_consts[67];
         tmp_globals_arg_name_2 = (PyObject *)moduledict_matplotlib$tri$tripcolor;
         tmp_locals_arg_name_2 = Py_None;
-        tmp_fromlist_name_2 = mod_consts[69];
+        tmp_fromlist_name_2 = mod_consts[68];
         tmp_level_name_2 = mod_consts[9];
-        frame_e5e86bad29b125c6b5cdea58bc0d7cf9->m_frame.f_lineno = 3;
+        frame_eee232708a0ff68d92bd90dc1669ae0b->m_frame.f_lineno = 3;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3749,12 +3749,12 @@ PyObject *modulecode_matplotlib$tri$tripcolor(PyObject *module, struct Nuitka_Me
         PyObject *tmp_locals_arg_name_3;
         PyObject *tmp_fromlist_name_3;
         PyObject *tmp_level_name_3;
-        tmp_name_name_3 = mod_consts[70];
+        tmp_name_name_3 = mod_consts[69];
         tmp_globals_arg_name_3 = (PyObject *)moduledict_matplotlib$tri$tripcolor;
         tmp_locals_arg_name_3 = Py_None;
-        tmp_fromlist_name_3 = mod_consts[71];
+        tmp_fromlist_name_3 = mod_consts[70];
         tmp_level_name_3 = mod_consts[9];
-        frame_e5e86bad29b125c6b5cdea58bc0d7cf9->m_frame.f_lineno = 4;
+        frame_eee232708a0ff68d92bd90dc1669ae0b->m_frame.f_lineno = 4;
         tmp_assign_source_6 = IMPORT_MODULE5(tmp_name_name_3, tmp_globals_arg_name_3, tmp_locals_arg_name_3, tmp_fromlist_name_3, tmp_level_name_3);
         if (tmp_assign_source_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3861,12 +3861,12 @@ PyObject *modulecode_matplotlib$tri$tripcolor(PyObject *module, struct Nuitka_Me
         PyObject *tmp_locals_arg_name_4;
         PyObject *tmp_fromlist_name_4;
         PyObject *tmp_level_name_4;
-        tmp_name_name_4 = mod_consts[72];
+        tmp_name_name_4 = mod_consts[71];
         tmp_globals_arg_name_4 = (PyObject *)moduledict_matplotlib$tri$tripcolor;
         tmp_locals_arg_name_4 = Py_None;
-        tmp_fromlist_name_4 = mod_consts[73];
+        tmp_fromlist_name_4 = mod_consts[72];
         tmp_level_name_4 = mod_consts[9];
-        frame_e5e86bad29b125c6b5cdea58bc0d7cf9->m_frame.f_lineno = 5;
+        frame_eee232708a0ff68d92bd90dc1669ae0b->m_frame.f_lineno = 5;
         tmp_import_name_from_4 = IMPORT_MODULE5(tmp_name_name_4, tmp_globals_arg_name_4, tmp_locals_arg_name_4, tmp_fromlist_name_4, tmp_level_name_4);
         if (tmp_import_name_from_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3910,12 +3910,12 @@ PyObject *modulecode_matplotlib$tri$tripcolor(PyObject *module, struct Nuitka_Me
         PyObject *tmp_locals_arg_name_5;
         PyObject *tmp_fromlist_name_5;
         PyObject *tmp_level_name_5;
-        tmp_name_name_5 = mod_consts[74];
+        tmp_name_name_5 = mod_consts[73];
         tmp_globals_arg_name_5 = (PyObject *)moduledict_matplotlib$tri$tripcolor;
         tmp_locals_arg_name_5 = Py_None;
-        tmp_fromlist_name_5 = mod_consts[75];
+        tmp_fromlist_name_5 = mod_consts[74];
         tmp_level_name_5 = mod_consts[9];
-        frame_e5e86bad29b125c6b5cdea58bc0d7cf9->m_frame.f_lineno = 6;
+        frame_eee232708a0ff68d92bd90dc1669ae0b->m_frame.f_lineno = 6;
         tmp_import_name_from_5 = IMPORT_MODULE5(tmp_name_name_5, tmp_globals_arg_name_5, tmp_locals_arg_name_5, tmp_fromlist_name_5, tmp_level_name_5);
         if (tmp_import_name_from_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3954,23 +3954,23 @@ PyObject *modulecode_matplotlib$tri$tripcolor(PyObject *module, struct Nuitka_Me
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e5e86bad29b125c6b5cdea58bc0d7cf9);
+    RESTORE_FRAME_EXCEPTION(frame_eee232708a0ff68d92bd90dc1669ae0b);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_e5e86bad29b125c6b5cdea58bc0d7cf9);
+    assertFrameObject(frame_eee232708a0ff68d92bd90dc1669ae0b);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e5e86bad29b125c6b5cdea58bc0d7cf9);
+    RESTORE_FRAME_EXCEPTION(frame_eee232708a0ff68d92bd90dc1669ae0b);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_e5e86bad29b125c6b5cdea58bc0d7cf9, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_e5e86bad29b125c6b5cdea58bc0d7cf9->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_e5e86bad29b125c6b5cdea58bc0d7cf9, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_eee232708a0ff68d92bd90dc1669ae0b, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_eee232708a0ff68d92bd90dc1669ae0b->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_eee232708a0ff68d92bd90dc1669ae0b, exception_lineno);
     }
 
     // Put the previous frame back on top.
@@ -3983,12 +3983,12 @@ PyObject *modulecode_matplotlib$tri$tripcolor(PyObject *module, struct Nuitka_Me
     {
         PyObject *tmp_assign_source_11;
         PyObject *tmp_kw_defaults_1;
-        tmp_kw_defaults_1 = PyDict_Copy(mod_consts[76]);
+        tmp_kw_defaults_1 = PyDict_Copy(mod_consts[75]);
 
 
         tmp_assign_source_11 = MAKE_FUNCTION_matplotlib$tri$tripcolor$$$function__1_tripcolor(tmp_kw_defaults_1);
 
-        UPDATE_STRING_DICT1(moduledict_matplotlib$tri$tripcolor, (Nuitka_StringObject *)mod_consts[77], tmp_assign_source_11);
+        UPDATE_STRING_DICT1(moduledict_matplotlib$tri$tripcolor, (Nuitka_StringObject *)mod_consts[76], tmp_assign_source_11);
     }
 
     return module_matplotlib$tri$tripcolor;

@@ -65,157 +65,157 @@ void checkModuleConstants_matplotlib$projections$geo(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_f94733532f7452e32521170ca8949a16;
-static PyCodeObject *codeobj_67c88fccc8a8de1716fc035708bb98a0;
-static PyCodeObject *codeobj_2a0cdc9955a3063f892abd88751d21c7;
-static PyCodeObject *codeobj_7dab06e840629fd828d257754b98f343;
-static PyCodeObject *codeobj_0e9f6abc479d50343b61f34fdbb146b8;
-static PyCodeObject *codeobj_1d52cbff2437984756991a10a742e6ad;
-static PyCodeObject *codeobj_0d535f73673155a7c2e6e6de6c710885;
-static PyCodeObject *codeobj_bc120287255739b30f5b28852284969d;
-static PyCodeObject *codeobj_880306e0caf691c42a5112f48b1cb363;
-static PyCodeObject *codeobj_7cfcf3466f7cd7d267a7f672b629fb26;
-static PyCodeObject *codeobj_95d7759476a32af7ce5820074abd4568;
-static PyCodeObject *codeobj_ef57356d2ace4173ee5bda8124e31fbf;
-static PyCodeObject *codeobj_2adcd9007575412f87659a0a4d53c146;
-static PyCodeObject *codeobj_7db75fae5068676263613d3e42d76b0d;
-static PyCodeObject *codeobj_e61eaa68a4dff166d0e2a435cf6f200a;
-static PyCodeObject *codeobj_f71268d30ed3d9cd312c50e6870ca713;
-static PyCodeObject *codeobj_c25e49772f18188a91b722381630917f;
-static PyCodeObject *codeobj_871d3433cd77644a22767ce8cad38150;
-static PyCodeObject *codeobj_3d2911a6327caa1a5c54d2105914ce1d;
-static PyCodeObject *codeobj_f964d210e610cb3c572419630a9a1081;
-static PyCodeObject *codeobj_ff652025f64ffc224f7f3567f1dd260a;
-static PyCodeObject *codeobj_238400c3b186af6b8b9357cb881eb973;
-static PyCodeObject *codeobj_625c1b9af3688e37dbad3b696ee76bf7;
-static PyCodeObject *codeobj_55425009fbb2456af7adb3fec57fa3d2;
-static PyCodeObject *codeobj_152a027990375ced5b04d0a97e5c420b;
-static PyCodeObject *codeobj_82bb66253de5363653198f5259f0cc96;
-static PyCodeObject *codeobj_d3eb5199d73c6723f5c3eb02afa5a648;
-static PyCodeObject *codeobj_4829a652657d1aa408f87c61f0cb17e9;
-static PyCodeObject *codeobj_5a809a2b22a46f63a1ee144c61457123;
-static PyCodeObject *codeobj_ac89ebe634bf47b226db5dcc6b097e46;
-static PyCodeObject *codeobj_0d8ab0ab4969b3be787edd76463f4660;
-static PyCodeObject *codeobj_59173313a32203864c9dcef83f34cf31;
-static PyCodeObject *codeobj_dbf0e39eb314216910aba859e769b725;
-static PyCodeObject *codeobj_a8bd5d36b2a2e3790b4b3650701e12e2;
-static PyCodeObject *codeobj_d770aa706dcd4781c336125de437b06d;
-static PyCodeObject *codeobj_c1c389583f7433436c172901d17d6ae3;
-static PyCodeObject *codeobj_87e7c016fde5b8aaf0121e5d5eb158e0;
-static PyCodeObject *codeobj_75591405ae5bfa1cf5e4f942f19b34af;
-static PyCodeObject *codeobj_aff12ee520b8ea1ff77193faf9b972e8;
-static PyCodeObject *codeobj_a8f5bc0a10af96d5969e3b731ec11e5c;
-static PyCodeObject *codeobj_382c37f6455ee6c5b02d71a8e0a295d4;
-static PyCodeObject *codeobj_1d3bdb0b89ea25b27e86073a5a04c651;
-static PyCodeObject *codeobj_b9bd975ffc9478afa480c09a49115c58;
-static PyCodeObject *codeobj_fb00308d5d06ef1cf9d6d7898f131d34;
-static PyCodeObject *codeobj_450a2350cb4b372921afb4cbd5be96a9;
-static PyCodeObject *codeobj_977d199eea7219189e311846ee7b29f0;
-static PyCodeObject *codeobj_001ad14a63d9fd6d647fe6876dda6801;
-static PyCodeObject *codeobj_f9fbbc4c3e483ea1c63ac9c1c7381b62;
-static PyCodeObject *codeobj_66e55b2a5d196c6b6555a0001e01e72c;
-static PyCodeObject *codeobj_177d7e628f5ddf76952314d5d498f876;
-static PyCodeObject *codeobj_24460a1cdc260a3f0aad4fe812d6795a;
-static PyCodeObject *codeobj_b89609fc85dd2fd8b78d0cbcf88857e2;
-static PyCodeObject *codeobj_01018f550e6cba3bbbba3b04c8404767;
-static PyCodeObject *codeobj_426bef112ca4c681223013402bd2ce53;
-static PyCodeObject *codeobj_01bab939eac31e0287ed1eb4001764e6;
-static PyCodeObject *codeobj_905fee73f303545cc6c8f63772c5942a;
-static PyCodeObject *codeobj_99f29dd7e8993a9c73b4497a09af2350;
-static PyCodeObject *codeobj_48b3baa1e9c70d3ed0b0e9aa8903e4a0;
-static PyCodeObject *codeobj_14181f5ae20682e4bc6a3419d65f3942;
-static PyCodeObject *codeobj_e40ed3eb2a6918f1af0e1d16e475ae4c;
-static PyCodeObject *codeobj_0452b1a213f8a1de7afc95f72dcc81c6;
-static PyCodeObject *codeobj_d5cbf4ee60196e12fa289953b7c1fb95;
-static PyCodeObject *codeobj_32bc7e671a2d6efa5564313ffcbcb90b;
-static PyCodeObject *codeobj_c6bc8a9f8b74972c74ae78ab3010ef6a;
-static PyCodeObject *codeobj_8a52a6e54def235afa297953107cf82f;
-static PyCodeObject *codeobj_638df801b72a20c571fdd7b8ce6e6952;
-static PyCodeObject *codeobj_9ee611a205285ddec2fe1bea5365f6db;
-static PyCodeObject *codeobj_6da51018c1f660a374d47f3ca8fd9462;
-static PyCodeObject *codeobj_1f64add7dd60d34c4ccebc9ffdf79c33;
-static PyCodeObject *codeobj_2a3cf4c4b2258fed3e81c08cfe52975f;
-static PyCodeObject *codeobj_97e9d349f04f3c453c512d6b174b47ba;
-static PyCodeObject *codeobj_c900be58fe82adc90c6091f2751b353d;
-static PyCodeObject *codeobj_87c08cd9feb495b3f83112761937980d;
-static PyCodeObject *codeobj_5c8e06b01de2642fc08448b1745f3808;
+static PyCodeObject *codeobj_10c0ea44966d5b64acb650720d0c71f4;
+static PyCodeObject *codeobj_00986626272dc64c8ce2ec7dd8f75d85;
+static PyCodeObject *codeobj_58a83f5da7acd0fc5474c0aacf6e11ce;
+static PyCodeObject *codeobj_6c56f39ce6dfe66f351e1622fc5d4dc8;
+static PyCodeObject *codeobj_b0fa7c07ce7eec7ee2b5ec0a8074bc89;
+static PyCodeObject *codeobj_df636bb22fdbac67f9533e3664d67a4b;
+static PyCodeObject *codeobj_87cc90693688baa6c8bd6e595f3de305;
+static PyCodeObject *codeobj_c8c70f375d0b118e063be3c53ce58fb1;
+static PyCodeObject *codeobj_05f5091306fe100bfe7acb16addccbbe;
+static PyCodeObject *codeobj_fe972da23b8cf12d1a3dc72ee5750fcf;
+static PyCodeObject *codeobj_2588698ae371250ef3932b86b1d830b0;
+static PyCodeObject *codeobj_01abe8a26ff5368a7c6caaede2189824;
+static PyCodeObject *codeobj_de20da3b8f4fa9df37e2dc758c19c903;
+static PyCodeObject *codeobj_749859f6769bcac3633947d8ba2cd081;
+static PyCodeObject *codeobj_c2d315eb78b0015843285c02086a5444;
+static PyCodeObject *codeobj_84f6c7bbf3a8420fc3826993d8ef9568;
+static PyCodeObject *codeobj_d63f1bb4f0fb4674bbc66747a3ed7dfb;
+static PyCodeObject *codeobj_41707ec5668853b4c3968fe624434d99;
+static PyCodeObject *codeobj_3ddede410be3f253d79665ce77990321;
+static PyCodeObject *codeobj_6abf445697c11b0309e572b34289041e;
+static PyCodeObject *codeobj_bada0a37aa1720a2b687e1f30de31337;
+static PyCodeObject *codeobj_642e2a1c643f267089731f35979baea7;
+static PyCodeObject *codeobj_1c749feec7c9a46ea3a74296abacd43b;
+static PyCodeObject *codeobj_8d8e5615fcc7389d974758b7aa6bf357;
+static PyCodeObject *codeobj_2b276bcbfb70e1711e542a19e6218b10;
+static PyCodeObject *codeobj_564b85529107c29f6c212bc07100b201;
+static PyCodeObject *codeobj_afaf921c43a915a235d5291e74b0b0d3;
+static PyCodeObject *codeobj_c0de4d8fe1cb35e4950b4c433a798754;
+static PyCodeObject *codeobj_812fb5c48b4b5c145477b902c5f4f079;
+static PyCodeObject *codeobj_0de57aa91dc426b416de4a01b2b391c0;
+static PyCodeObject *codeobj_6dc435a0d843afb505997fc558a3a91e;
+static PyCodeObject *codeobj_f9d024d7dbf1c7a7492f8e3cde23dea0;
+static PyCodeObject *codeobj_41b13f84c55f78b500ffd6b77f5989a6;
+static PyCodeObject *codeobj_f816c40b5c5d207ed338c467ba2c6848;
+static PyCodeObject *codeobj_ca816d43e88e12a195e7c8d682c19c25;
+static PyCodeObject *codeobj_c1d34b70102c3bcf0d86413dadca2213;
+static PyCodeObject *codeobj_ce1ab3ba97744bf86ff8ec6e0d1f235e;
+static PyCodeObject *codeobj_220337c914553d53865065174d72b3d6;
+static PyCodeObject *codeobj_e746ee3366f3bfb319b7690197f0a48e;
+static PyCodeObject *codeobj_4ad34cd0ff38e695306b95e56979bc39;
+static PyCodeObject *codeobj_30d7b7bdb99a3a2355c978cc5d18ad47;
+static PyCodeObject *codeobj_4432ecdd64c6e5204f0380d30315fb35;
+static PyCodeObject *codeobj_ac0ba8fc1e7ce4606cd0acb296aa6520;
+static PyCodeObject *codeobj_91d00f9a0e426500f7037b1f9fdb60e3;
+static PyCodeObject *codeobj_7c9fda066c96110bccd5c68708db063c;
+static PyCodeObject *codeobj_95087b34a10751cbf182fc5f23df8dd4;
+static PyCodeObject *codeobj_bf4d489b1fc9248e6d8cd9e6d2bd0b2d;
+static PyCodeObject *codeobj_54f8ea900846ef62006d3e6c5f504bd3;
+static PyCodeObject *codeobj_d9209d16ab277b61f5498ae6c39b7568;
+static PyCodeObject *codeobj_9ebc1e0d841f32f7e81b9e06fa01516d;
+static PyCodeObject *codeobj_dd2b90fc01f155e97e17cceca6f88d6c;
+static PyCodeObject *codeobj_c11ae94e8bf34b8cde8648552d532cdf;
+static PyCodeObject *codeobj_52b4b5143d4584229a6ab6e0c9de4889;
+static PyCodeObject *codeobj_94dc5502a6857874ebd32d9119e4acd0;
+static PyCodeObject *codeobj_720462abf65680ea71946e7edca32dbb;
+static PyCodeObject *codeobj_fd594da1736f437f2cac20d36cf72e4c;
+static PyCodeObject *codeobj_29299121cf0d4119de54586ce989fcbe;
+static PyCodeObject *codeobj_8691383b73094649d6a0a8ec98fcfc74;
+static PyCodeObject *codeobj_fa06e5972ae6dcf5d25df23286926b40;
+static PyCodeObject *codeobj_2e073de8eb19259b5c3dea247469c1d5;
+static PyCodeObject *codeobj_0a38fcd35148c15d7eed464bd11b53a4;
+static PyCodeObject *codeobj_b7f2f8d1588a2283a3ba7e39b93f18df;
+static PyCodeObject *codeobj_9b936720bcba1cdd30abb38885667a89;
+static PyCodeObject *codeobj_4a6e5afffd79225a95b7e3f6923f1508;
+static PyCodeObject *codeobj_82f5d31f96768a5f136113a3148df6da;
+static PyCodeObject *codeobj_7ba8112f6bc3c1b46d82733fc41c19ef;
+static PyCodeObject *codeobj_dc34e88ea318b0d3cdbe651f840d4545;
+static PyCodeObject *codeobj_3c3cbacdfa106c01c88e566cf651e811;
+static PyCodeObject *codeobj_128c74618124632fa46078afca4640ce;
+static PyCodeObject *codeobj_e3de962db046ce8e527857f8d57f70fb;
+static PyCodeObject *codeobj_a089e4e85c4545da2a99d14e0b23d456;
+static PyCodeObject *codeobj_baee270ef88f989fccfbfc56d337ac33;
+static PyCodeObject *codeobj_0eff3c495021f39b5d32a5ea0a02eabd;
+static PyCodeObject *codeobj_2beed6603f46347aa50148728a6bdd5c;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[208]; CHECK_OBJECT(module_filename_obj);
-    codeobj_f94733532f7452e32521170ca8949a16 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[349], NULL, NULL, 0, 0, 0);
-    codeobj_67c88fccc8a8de1716fc035708bb98a0 = MAKE_CODEOBJECT(module_filename_obj, 252, CO_NOFREE, mod_consts[137], mod_consts[350], NULL, 0, 0, 0);
-    codeobj_2a0cdc9955a3063f892abd88751d21c7 = MAKE_CODEOBJECT(module_filename_obj, 255, CO_NOFREE, mod_consts[139], mod_consts[350], NULL, 0, 0, 0);
-    codeobj_7dab06e840629fd828d257754b98f343 = MAKE_CODEOBJECT(module_filename_obj, 14, CO_NOFREE, mod_consts[140], mod_consts[350], NULL, 0, 0, 0);
-    codeobj_0e9f6abc479d50343b61f34fdbb146b8 = MAKE_CODEOBJECT(module_filename_obj, 301, CO_NOFREE, mod_consts[147], mod_consts[350], NULL, 0, 0, 0);
-    codeobj_1d52cbff2437984756991a10a742e6ad = MAKE_CODEOBJECT(module_filename_obj, 304, CO_NOFREE, mod_consts[155], mod_consts[350], NULL, 0, 0, 0);
-    codeobj_0d535f73673155a7c2e6e6de6c710885 = MAKE_CODEOBJECT(module_filename_obj, 280, CO_NOFREE, mod_consts[138], mod_consts[350], NULL, 0, 0, 0);
-    codeobj_bc120287255739b30f5b28852284969d = MAKE_CODEOBJECT(module_filename_obj, 322, CO_NOFREE, mod_consts[148], mod_consts[350], NULL, 0, 0, 0);
-    codeobj_880306e0caf691c42a5112f48b1cb363 = MAKE_CODEOBJECT(module_filename_obj, 458, CO_NOFREE, mod_consts[196], mod_consts[350], NULL, 0, 0, 0);
-    codeobj_7cfcf3466f7cd7d267a7f672b629fb26 = MAKE_CODEOBJECT(module_filename_obj, 390, CO_NOFREE, mod_consts[180], mod_consts[350], NULL, 0, 0, 0);
-    codeobj_95d7759476a32af7ce5820074abd4568 = MAKE_CODEOBJECT(module_filename_obj, 416, CO_NOFREE, mod_consts[195], mod_consts[350], NULL, 0, 0, 0);
-    codeobj_ef57356d2ace4173ee5bda8124e31fbf = MAKE_CODEOBJECT(module_filename_obj, 419, CO_NOFREE, mod_consts[203], mod_consts[350], NULL, 0, 0, 0);
-    codeobj_2adcd9007575412f87659a0a4d53c146 = MAKE_CODEOBJECT(module_filename_obj, 346, CO_NOFREE, mod_consts[179], mod_consts[350], NULL, 0, 0, 0);
-    codeobj_7db75fae5068676263613d3e42d76b0d = MAKE_CODEOBJECT(module_filename_obj, 349, CO_NOFREE, mod_consts[182], mod_consts[350], NULL, 0, 0, 0);
-    codeobj_e61eaa68a4dff166d0e2a435cf6f200a = MAKE_CODEOBJECT(module_filename_obj, 17, CO_NOFREE, mod_consts[103], mod_consts[350], NULL, 0, 0, 0);
-    codeobj_f71268d30ed3d9cd312c50e6870ca713 = MAKE_CODEOBJECT(module_filename_obj, 229, CO_NOFREE, mod_consts[183], mod_consts[350], NULL, 0, 0, 0);
-    codeobj_c25e49772f18188a91b722381630917f = MAKE_CODEOBJECT(module_filename_obj, 25, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[246], mod_consts[351], NULL, 3, 0, 0);
-    codeobj_871d3433cd77644a22767ce8cad38150 = MAKE_CODEOBJECT(module_filename_obj, 291, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[115], mod_consts[352], NULL, 1, 0, 0);
-    codeobj_3d2911a6327caa1a5c54d2105914ce1d = MAKE_CODEOBJECT(module_filename_obj, 336, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[115], mod_consts[352], NULL, 1, 0, 0);
-    codeobj_f964d210e610cb3c572419630a9a1081 = MAKE_CODEOBJECT(module_filename_obj, 406, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[115], mod_consts[352], NULL, 1, 0, 0);
-    codeobj_ff652025f64ffc224f7f3567f1dd260a = MAKE_CODEOBJECT(module_filename_obj, 489, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[115], mod_consts[353], NULL, 1, 2, 0);
-    codeobj_238400c3b186af6b8b9357cb881eb973 = MAKE_CODEOBJECT(module_filename_obj, 422, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[115], mod_consts[354], NULL, 4, 0, 0);
-    codeobj_625c1b9af3688e37dbad3b696ee76bf7 = MAKE_CODEOBJECT(module_filename_obj, 460, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[115], mod_consts[354], NULL, 4, 0, 0);
-    codeobj_55425009fbb2456af7adb3fec57fa3d2 = MAKE_CODEOBJECT(module_filename_obj, 233, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[115], mod_consts[355], NULL, 2, 0, 0);
-    codeobj_152a027990375ced5b04d0a97e5c420b = MAKE_CODEOBJECT(module_filename_obj, 22, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[115], mod_consts[356], NULL, 2, 0, 0);
-    codeobj_82bb66253de5363653198f5259f0cc96 = MAKE_CODEOBJECT(module_filename_obj, 243, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[297], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_d3eb5199d73c6723f5c3eb02afa5a648 = MAKE_CODEOBJECT(module_filename_obj, 137, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[269], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_4829a652657d1aa408f87c61f0cb17e9 = MAKE_CODEOBJECT(module_filename_obj, 140, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[271], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_5a809a2b22a46f63a1ee144c61457123 = MAKE_CODEOBJECT(module_filename_obj, 507, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[38], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_ac89ebe634bf47b226db5dcc6b097e46 = MAKE_CODEOBJECT(module_filename_obj, 109, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[38], mod_consts[358], NULL, 1, 0, 0);
-    codeobj_0d8ab0ab4969b3be787edd76463f4660 = MAKE_CODEOBJECT(module_filename_obj, 297, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[35], mod_consts[355], NULL, 2, 0, 0);
-    codeobj_59173313a32203864c9dcef83f34cf31 = MAKE_CODEOBJECT(module_filename_obj, 342, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[35], mod_consts[355], NULL, 2, 0, 0);
-    codeobj_dbf0e39eb314216910aba859e769b725 = MAKE_CODEOBJECT(module_filename_obj, 412, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[35], mod_consts[355], NULL, 2, 0, 0);
-    codeobj_a8bd5d36b2a2e3790b4b3650701e12e2 = MAKE_CODEOBJECT(module_filename_obj, 501, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[35], mod_consts[355], NULL, 2, 0, 0);
-    codeobj_d770aa706dcd4781c336125de437b06d = MAKE_CODEOBJECT(module_filename_obj, 31, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[250], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_c1c389583f7433436c172901d17d6ae3 = MAKE_CODEOBJECT(module_filename_obj, 58, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[253], mod_consts[359], NULL, 1, 0, 0);
-    codeobj_87e7c016fde5b8aaf0121e5d5eb158e0 = MAKE_CODEOBJECT(module_filename_obj, 211, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[286], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_75591405ae5bfa1cf5e4f942f19b34af = MAKE_CODEOBJECT(module_filename_obj, 203, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[284], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_aff12ee520b8ea1ff77193faf9b972e8 = MAKE_CODEOBJECT(module_filename_obj, 39, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[15], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_a8f5bc0a10af96d5969e3b731ec11e5c = MAKE_CODEOBJECT(module_filename_obj, 497, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[15], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_382c37f6455ee6c5b02d71a8e0a295d4 = MAKE_CODEOBJECT(module_filename_obj, 354, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[156], mod_consts[360], mod_consts[361], 1, 0, 0);
-    codeobj_1d3bdb0b89ea25b27e86073a5a04c651 = MAKE_CODEOBJECT(module_filename_obj, 225, CO_NOFREE, mod_consts[292], mod_consts[362], NULL, 5, 0, 0);
-    codeobj_b9bd975ffc9478afa480c09a49115c58 = MAKE_CODEOBJECT(module_filename_obj, 222, CO_NOFREE, mod_consts[290], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_fb00308d5d06ef1cf9d6d7898f131d34 = MAKE_CODEOBJECT(module_filename_obj, 155, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[277], mod_consts[363], NULL, 3, 0, 0);
-    codeobj_450a2350cb4b372921afb4cbd5be96a9 = MAKE_CODEOBJECT(module_filename_obj, 197, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[282], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_977d199eea7219189e311846ee7b29f0 = MAKE_CODEOBJECT(module_filename_obj, 121, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[259], mod_consts[364], NULL, 2, 0, 0);
-    codeobj_001ad14a63d9fd6d647fe6876dda6801 = MAKE_CODEOBJECT(module_filename_obj, 124, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[261], mod_consts[364], NULL, 2, 0, 0);
-    codeobj_f9fbbc4c3e483ea1c63ac9c1c7381b62 = MAKE_CODEOBJECT(module_filename_obj, 117, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[257], mod_consts[365], NULL, 2, 0, 0);
-    codeobj_66e55b2a5d196c6b6555a0001e01e72c = MAKE_CODEOBJECT(module_filename_obj, 131, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[265], mod_consts[364], NULL, 2, 0, 0);
-    codeobj_177d7e628f5ddf76952314d5d498f876 = MAKE_CODEOBJECT(module_filename_obj, 134, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[267], mod_consts[364], NULL, 2, 0, 0);
-    codeobj_24460a1cdc260a3f0aad4fe812d6795a = MAKE_CODEOBJECT(module_filename_obj, 127, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[263], mod_consts[365], NULL, 2, 0, 0);
-    codeobj_b89609fc85dd2fd8b78d0cbcf88857e2 = MAKE_CODEOBJECT(module_filename_obj, 276, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[307], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_01018f550e6cba3bbbba3b04c8404767 = MAKE_CODEOBJECT(module_filename_obj, 287, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[307], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_426bef112ca4c681223013402bd2ce53 = MAKE_CODEOBJECT(module_filename_obj, 318, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[307], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_01bab939eac31e0287ed1eb4001764e6 = MAKE_CODEOBJECT(module_filename_obj, 332, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[307], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_905fee73f303545cc6c8f63772c5942a = MAKE_CODEOBJECT(module_filename_obj, 386, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[307], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_99f29dd7e8993a9c73b4497a09af2350 = MAKE_CODEOBJECT(module_filename_obj, 402, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[307], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_48b3baa1e9c70d3ed0b0e9aa8903e4a0 = MAKE_CODEOBJECT(module_filename_obj, 451, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[307], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_14181f5ae20682e4bc6a3419d65f3942 = MAKE_CODEOBJECT(module_filename_obj, 482, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[307], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_e40ed3eb2a6918f1af0e1d16e475ae4c = MAKE_CODEOBJECT(module_filename_obj, 178, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[18], mod_consts[366], NULL, 2, 0, 0);
-    codeobj_0452b1a213f8a1de7afc95f72dcc81c6 = MAKE_CODEOBJECT(module_filename_obj, 169, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[16], mod_consts[366], NULL, 2, 0, 0);
-    codeobj_d5cbf4ee60196e12fa289953b7c1fb95 = MAKE_CODEOBJECT(module_filename_obj, 187, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[20], mod_consts[367], NULL, 2, 0, 0);
-    codeobj_32bc7e671a2d6efa5564313ffcbcb90b = MAKE_CODEOBJECT(module_filename_obj, 149, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[31], mod_consts[352], NULL, 1, 0, 0);
-    codeobj_c6bc8a9f8b74972c74ae78ab3010ef6a = MAKE_CODEOBJECT(module_filename_obj, 143, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[273], mod_consts[352], NULL, 1, 0, 0);
-    codeobj_8a52a6e54def235afa297953107cf82f = MAKE_CODEOBJECT(module_filename_obj, 219, CO_NOFREE, mod_consts[288], mod_consts[368], NULL, 4, 0, 0);
-    codeobj_638df801b72a20c571fdd7b8ce6e6952 = MAKE_CODEOBJECT(module_filename_obj, 352, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[305], mod_consts[369], NULL, 2, 0, 0);
-    codeobj_9ee611a205285ddec2fe1bea5365f6db = MAKE_CODEOBJECT(module_filename_obj, 432, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[305], mod_consts[370], NULL, 2, 0, 0);
-    codeobj_6da51018c1f660a374d47f3ca8fd9462 = MAKE_CODEOBJECT(module_filename_obj, 258, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[305], mod_consts[371], NULL, 2, 0, 0);
-    codeobj_1f64add7dd60d34c4ccebc9ffdf79c33 = MAKE_CODEOBJECT(module_filename_obj, 307, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[305], mod_consts[372], NULL, 2, 0, 0);
-    codeobj_2a3cf4c4b2258fed3e81c08cfe52975f = MAKE_CODEOBJECT(module_filename_obj, 282, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[305], mod_consts[373], NULL, 2, 0, 0);
-    codeobj_97e9d349f04f3c453c512d6b174b47ba = MAKE_CODEOBJECT(module_filename_obj, 465, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[305], mod_consts[374], NULL, 2, 0, 0);
-    codeobj_c900be58fe82adc90c6091f2751b353d = MAKE_CODEOBJECT(module_filename_obj, 392, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[305], mod_consts[375], NULL, 2, 0, 0);
-    codeobj_87c08cd9feb495b3f83112761937980d = MAKE_CODEOBJECT(module_filename_obj, 324, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[305], mod_consts[376], NULL, 2, 0, 0);
-    codeobj_5c8e06b01de2642fc08448b1745f3808 = MAKE_CODEOBJECT(module_filename_obj, 246, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[299], mod_consts[377], NULL, 2, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[348]); CHECK_OBJECT(module_filename_obj);
+    codeobj_10c0ea44966d5b64acb650720d0c71f4 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[349], NULL, NULL, 0, 0, 0);
+    codeobj_00986626272dc64c8ce2ec7dd8f75d85 = MAKE_CODEOBJECT(module_filename_obj, 252, CO_NOFREE, mod_consts[137], mod_consts[350], NULL, 0, 0, 0);
+    codeobj_58a83f5da7acd0fc5474c0aacf6e11ce = MAKE_CODEOBJECT(module_filename_obj, 255, CO_NOFREE, mod_consts[139], mod_consts[350], NULL, 0, 0, 0);
+    codeobj_6c56f39ce6dfe66f351e1622fc5d4dc8 = MAKE_CODEOBJECT(module_filename_obj, 14, CO_NOFREE, mod_consts[140], mod_consts[350], NULL, 0, 0, 0);
+    codeobj_b0fa7c07ce7eec7ee2b5ec0a8074bc89 = MAKE_CODEOBJECT(module_filename_obj, 301, CO_NOFREE, mod_consts[147], mod_consts[350], NULL, 0, 0, 0);
+    codeobj_df636bb22fdbac67f9533e3664d67a4b = MAKE_CODEOBJECT(module_filename_obj, 304, CO_NOFREE, mod_consts[155], mod_consts[350], NULL, 0, 0, 0);
+    codeobj_87cc90693688baa6c8bd6e595f3de305 = MAKE_CODEOBJECT(module_filename_obj, 280, CO_NOFREE, mod_consts[138], mod_consts[350], NULL, 0, 0, 0);
+    codeobj_c8c70f375d0b118e063be3c53ce58fb1 = MAKE_CODEOBJECT(module_filename_obj, 322, CO_NOFREE, mod_consts[148], mod_consts[350], NULL, 0, 0, 0);
+    codeobj_05f5091306fe100bfe7acb16addccbbe = MAKE_CODEOBJECT(module_filename_obj, 458, CO_NOFREE, mod_consts[196], mod_consts[350], NULL, 0, 0, 0);
+    codeobj_fe972da23b8cf12d1a3dc72ee5750fcf = MAKE_CODEOBJECT(module_filename_obj, 390, CO_NOFREE, mod_consts[180], mod_consts[350], NULL, 0, 0, 0);
+    codeobj_2588698ae371250ef3932b86b1d830b0 = MAKE_CODEOBJECT(module_filename_obj, 416, CO_NOFREE, mod_consts[195], mod_consts[350], NULL, 0, 0, 0);
+    codeobj_01abe8a26ff5368a7c6caaede2189824 = MAKE_CODEOBJECT(module_filename_obj, 419, CO_NOFREE, mod_consts[203], mod_consts[350], NULL, 0, 0, 0);
+    codeobj_de20da3b8f4fa9df37e2dc758c19c903 = MAKE_CODEOBJECT(module_filename_obj, 346, CO_NOFREE, mod_consts[179], mod_consts[350], NULL, 0, 0, 0);
+    codeobj_749859f6769bcac3633947d8ba2cd081 = MAKE_CODEOBJECT(module_filename_obj, 349, CO_NOFREE, mod_consts[182], mod_consts[350], NULL, 0, 0, 0);
+    codeobj_c2d315eb78b0015843285c02086a5444 = MAKE_CODEOBJECT(module_filename_obj, 17, CO_NOFREE, mod_consts[103], mod_consts[350], NULL, 0, 0, 0);
+    codeobj_84f6c7bbf3a8420fc3826993d8ef9568 = MAKE_CODEOBJECT(module_filename_obj, 229, CO_NOFREE, mod_consts[183], mod_consts[350], NULL, 0, 0, 0);
+    codeobj_d63f1bb4f0fb4674bbc66747a3ed7dfb = MAKE_CODEOBJECT(module_filename_obj, 25, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[245], mod_consts[351], NULL, 3, 0, 0);
+    codeobj_41707ec5668853b4c3968fe624434d99 = MAKE_CODEOBJECT(module_filename_obj, 291, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[115], mod_consts[352], NULL, 1, 0, 0);
+    codeobj_3ddede410be3f253d79665ce77990321 = MAKE_CODEOBJECT(module_filename_obj, 336, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[115], mod_consts[352], NULL, 1, 0, 0);
+    codeobj_6abf445697c11b0309e572b34289041e = MAKE_CODEOBJECT(module_filename_obj, 406, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[115], mod_consts[352], NULL, 1, 0, 0);
+    codeobj_bada0a37aa1720a2b687e1f30de31337 = MAKE_CODEOBJECT(module_filename_obj, 489, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[115], mod_consts[353], NULL, 1, 2, 0);
+    codeobj_642e2a1c643f267089731f35979baea7 = MAKE_CODEOBJECT(module_filename_obj, 422, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[115], mod_consts[354], NULL, 4, 0, 0);
+    codeobj_1c749feec7c9a46ea3a74296abacd43b = MAKE_CODEOBJECT(module_filename_obj, 460, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[115], mod_consts[354], NULL, 4, 0, 0);
+    codeobj_8d8e5615fcc7389d974758b7aa6bf357 = MAKE_CODEOBJECT(module_filename_obj, 233, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[115], mod_consts[355], NULL, 2, 0, 0);
+    codeobj_2b276bcbfb70e1711e542a19e6218b10 = MAKE_CODEOBJECT(module_filename_obj, 22, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[115], mod_consts[356], NULL, 2, 0, 0);
+    codeobj_564b85529107c29f6c212bc07100b201 = MAKE_CODEOBJECT(module_filename_obj, 243, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[296], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_afaf921c43a915a235d5291e74b0b0d3 = MAKE_CODEOBJECT(module_filename_obj, 137, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[268], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_c0de4d8fe1cb35e4950b4c433a798754 = MAKE_CODEOBJECT(module_filename_obj, 140, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[270], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_812fb5c48b4b5c145477b902c5f4f079 = MAKE_CODEOBJECT(module_filename_obj, 507, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[38], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_0de57aa91dc426b416de4a01b2b391c0 = MAKE_CODEOBJECT(module_filename_obj, 109, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[38], mod_consts[358], NULL, 1, 0, 0);
+    codeobj_6dc435a0d843afb505997fc558a3a91e = MAKE_CODEOBJECT(module_filename_obj, 297, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[35], mod_consts[355], NULL, 2, 0, 0);
+    codeobj_f9d024d7dbf1c7a7492f8e3cde23dea0 = MAKE_CODEOBJECT(module_filename_obj, 342, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[35], mod_consts[355], NULL, 2, 0, 0);
+    codeobj_41b13f84c55f78b500ffd6b77f5989a6 = MAKE_CODEOBJECT(module_filename_obj, 412, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[35], mod_consts[355], NULL, 2, 0, 0);
+    codeobj_f816c40b5c5d207ed338c467ba2c6848 = MAKE_CODEOBJECT(module_filename_obj, 501, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[35], mod_consts[355], NULL, 2, 0, 0);
+    codeobj_ca816d43e88e12a195e7c8d682c19c25 = MAKE_CODEOBJECT(module_filename_obj, 31, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[249], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_c1d34b70102c3bcf0d86413dadca2213 = MAKE_CODEOBJECT(module_filename_obj, 58, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[252], mod_consts[359], NULL, 1, 0, 0);
+    codeobj_ce1ab3ba97744bf86ff8ec6e0d1f235e = MAKE_CODEOBJECT(module_filename_obj, 211, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[285], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_220337c914553d53865065174d72b3d6 = MAKE_CODEOBJECT(module_filename_obj, 203, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[283], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_e746ee3366f3bfb319b7690197f0a48e = MAKE_CODEOBJECT(module_filename_obj, 39, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[15], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_4ad34cd0ff38e695306b95e56979bc39 = MAKE_CODEOBJECT(module_filename_obj, 497, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[15], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_30d7b7bdb99a3a2355c978cc5d18ad47 = MAKE_CODEOBJECT(module_filename_obj, 354, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[156], mod_consts[360], mod_consts[361], 1, 0, 0);
+    codeobj_4432ecdd64c6e5204f0380d30315fb35 = MAKE_CODEOBJECT(module_filename_obj, 225, CO_NOFREE, mod_consts[291], mod_consts[362], NULL, 5, 0, 0);
+    codeobj_ac0ba8fc1e7ce4606cd0acb296aa6520 = MAKE_CODEOBJECT(module_filename_obj, 222, CO_NOFREE, mod_consts[289], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_91d00f9a0e426500f7037b1f9fdb60e3 = MAKE_CODEOBJECT(module_filename_obj, 155, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[276], mod_consts[363], NULL, 3, 0, 0);
+    codeobj_7c9fda066c96110bccd5c68708db063c = MAKE_CODEOBJECT(module_filename_obj, 197, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[281], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_95087b34a10751cbf182fc5f23df8dd4 = MAKE_CODEOBJECT(module_filename_obj, 121, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[258], mod_consts[364], NULL, 2, 0, 0);
+    codeobj_bf4d489b1fc9248e6d8cd9e6d2bd0b2d = MAKE_CODEOBJECT(module_filename_obj, 124, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[260], mod_consts[364], NULL, 2, 0, 0);
+    codeobj_54f8ea900846ef62006d3e6c5f504bd3 = MAKE_CODEOBJECT(module_filename_obj, 117, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[256], mod_consts[365], NULL, 2, 0, 0);
+    codeobj_d9209d16ab277b61f5498ae6c39b7568 = MAKE_CODEOBJECT(module_filename_obj, 131, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[264], mod_consts[364], NULL, 2, 0, 0);
+    codeobj_9ebc1e0d841f32f7e81b9e06fa01516d = MAKE_CODEOBJECT(module_filename_obj, 134, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[266], mod_consts[364], NULL, 2, 0, 0);
+    codeobj_dd2b90fc01f155e97e17cceca6f88d6c = MAKE_CODEOBJECT(module_filename_obj, 127, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[262], mod_consts[365], NULL, 2, 0, 0);
+    codeobj_c11ae94e8bf34b8cde8648552d532cdf = MAKE_CODEOBJECT(module_filename_obj, 276, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[306], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_52b4b5143d4584229a6ab6e0c9de4889 = MAKE_CODEOBJECT(module_filename_obj, 287, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[306], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_94dc5502a6857874ebd32d9119e4acd0 = MAKE_CODEOBJECT(module_filename_obj, 318, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[306], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_720462abf65680ea71946e7edca32dbb = MAKE_CODEOBJECT(module_filename_obj, 332, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[306], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_fd594da1736f437f2cac20d36cf72e4c = MAKE_CODEOBJECT(module_filename_obj, 386, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[306], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_29299121cf0d4119de54586ce989fcbe = MAKE_CODEOBJECT(module_filename_obj, 402, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[306], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_8691383b73094649d6a0a8ec98fcfc74 = MAKE_CODEOBJECT(module_filename_obj, 451, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[306], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_fa06e5972ae6dcf5d25df23286926b40 = MAKE_CODEOBJECT(module_filename_obj, 482, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[306], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_2e073de8eb19259b5c3dea247469c1d5 = MAKE_CODEOBJECT(module_filename_obj, 178, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[18], mod_consts[366], NULL, 2, 0, 0);
+    codeobj_0a38fcd35148c15d7eed464bd11b53a4 = MAKE_CODEOBJECT(module_filename_obj, 169, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[16], mod_consts[366], NULL, 2, 0, 0);
+    codeobj_b7f2f8d1588a2283a3ba7e39b93f18df = MAKE_CODEOBJECT(module_filename_obj, 187, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[20], mod_consts[367], NULL, 2, 0, 0);
+    codeobj_9b936720bcba1cdd30abb38885667a89 = MAKE_CODEOBJECT(module_filename_obj, 149, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[31], mod_consts[352], NULL, 1, 0, 0);
+    codeobj_4a6e5afffd79225a95b7e3f6923f1508 = MAKE_CODEOBJECT(module_filename_obj, 143, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[272], mod_consts[352], NULL, 1, 0, 0);
+    codeobj_82f5d31f96768a5f136113a3148df6da = MAKE_CODEOBJECT(module_filename_obj, 219, CO_NOFREE, mod_consts[287], mod_consts[368], NULL, 4, 0, 0);
+    codeobj_7ba8112f6bc3c1b46d82733fc41c19ef = MAKE_CODEOBJECT(module_filename_obj, 352, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[304], mod_consts[369], NULL, 2, 0, 0);
+    codeobj_dc34e88ea318b0d3cdbe651f840d4545 = MAKE_CODEOBJECT(module_filename_obj, 432, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[304], mod_consts[370], NULL, 2, 0, 0);
+    codeobj_3c3cbacdfa106c01c88e566cf651e811 = MAKE_CODEOBJECT(module_filename_obj, 258, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[304], mod_consts[371], NULL, 2, 0, 0);
+    codeobj_128c74618124632fa46078afca4640ce = MAKE_CODEOBJECT(module_filename_obj, 307, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[304], mod_consts[372], NULL, 2, 0, 0);
+    codeobj_e3de962db046ce8e527857f8d57f70fb = MAKE_CODEOBJECT(module_filename_obj, 282, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[304], mod_consts[373], NULL, 2, 0, 0);
+    codeobj_a089e4e85c4545da2a99d14e0b23d456 = MAKE_CODEOBJECT(module_filename_obj, 465, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[304], mod_consts[374], NULL, 2, 0, 0);
+    codeobj_baee270ef88f989fccfbfc56d337ac33 = MAKE_CODEOBJECT(module_filename_obj, 392, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[304], mod_consts[375], NULL, 2, 0, 0);
+    codeobj_0eff3c495021f39b5d32a5ea0a02eabd = MAKE_CODEOBJECT(module_filename_obj, 324, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[304], mod_consts[376], NULL, 2, 0, 0);
+    codeobj_2beed6603f46347aa50148728a6bdd5c = MAKE_CODEOBJECT(module_filename_obj, 246, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[298], mod_consts[377], NULL, 2, 0, 0);
 }
 
 // The module function declarations.
@@ -409,14 +409,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__1___init__(struct N
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_round_to = python_pars[1];
-    struct Nuitka_FrameObject *frame_152a027990375ced5b04d0a97e5c420b;
+    struct Nuitka_FrameObject *frame_2b276bcbfb70e1711e542a19e6218b10;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_152a027990375ced5b04d0a97e5c420b = NULL;
+    static struct Nuitka_FrameObject *cache_frame_2b276bcbfb70e1711e542a19e6218b10 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -425,31 +425,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__1___init__(struct N
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_152a027990375ced5b04d0a97e5c420b)) {
-        Py_XDECREF(cache_frame_152a027990375ced5b04d0a97e5c420b);
+    if (isFrameUnusable(cache_frame_2b276bcbfb70e1711e542a19e6218b10)) {
+        Py_XDECREF(cache_frame_2b276bcbfb70e1711e542a19e6218b10);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_152a027990375ced5b04d0a97e5c420b == NULL) {
+        if (cache_frame_2b276bcbfb70e1711e542a19e6218b10 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_152a027990375ced5b04d0a97e5c420b = MAKE_FUNCTION_FRAME(codeobj_152a027990375ced5b04d0a97e5c420b, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
+        cache_frame_2b276bcbfb70e1711e542a19e6218b10 = MAKE_FUNCTION_FRAME(codeobj_2b276bcbfb70e1711e542a19e6218b10, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_152a027990375ced5b04d0a97e5c420b->m_type_description == NULL);
-    frame_152a027990375ced5b04d0a97e5c420b = cache_frame_152a027990375ced5b04d0a97e5c420b;
+    assert(cache_frame_2b276bcbfb70e1711e542a19e6218b10->m_type_description == NULL);
+    frame_2b276bcbfb70e1711e542a19e6218b10 = cache_frame_2b276bcbfb70e1711e542a19e6218b10;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_152a027990375ced5b04d0a97e5c420b);
+    pushFrameStack(frame_2b276bcbfb70e1711e542a19e6218b10);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_152a027990375ced5b04d0a97e5c420b) == 2); // Frame stack
+    assert(Py_REFCNT(frame_2b276bcbfb70e1711e542a19e6218b10) == 2); // Frame stack
 
     // Framed code:
     {
@@ -473,7 +473,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__1___init__(struct N
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_152a027990375ced5b04d0a97e5c420b);
+    RESTORE_FRAME_EXCEPTION(frame_2b276bcbfb70e1711e542a19e6218b10);
 #endif
 
     // Put the previous frame back on top.
@@ -484,18 +484,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__1___init__(struct N
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_152a027990375ced5b04d0a97e5c420b);
+    RESTORE_FRAME_EXCEPTION(frame_2b276bcbfb70e1711e542a19e6218b10);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_152a027990375ced5b04d0a97e5c420b, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_152a027990375ced5b04d0a97e5c420b->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_152a027990375ced5b04d0a97e5c420b, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_2b276bcbfb70e1711e542a19e6218b10, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_2b276bcbfb70e1711e542a19e6218b10->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_2b276bcbfb70e1711e542a19e6218b10, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_152a027990375ced5b04d0a97e5c420b,
+        frame_2b276bcbfb70e1711e542a19e6218b10,
         type_description_1,
         par_self,
         par_round_to
@@ -503,17 +503,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__1___init__(struct N
 
 
     // Release cached frame if used for exception.
-    if (frame_152a027990375ced5b04d0a97e5c420b == cache_frame_152a027990375ced5b04d0a97e5c420b) {
+    if (frame_2b276bcbfb70e1711e542a19e6218b10 == cache_frame_2b276bcbfb70e1711e542a19e6218b10) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_152a027990375ced5b04d0a97e5c420b);
-        cache_frame_152a027990375ced5b04d0a97e5c420b = NULL;
+        Py_DECREF(cache_frame_2b276bcbfb70e1711e542a19e6218b10);
+        cache_frame_2b276bcbfb70e1711e542a19e6218b10 = NULL;
     }
 
-    assertFrameObject(frame_152a027990375ced5b04d0a97e5c420b);
+    assertFrameObject(frame_2b276bcbfb70e1711e542a19e6218b10);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -594,14 +594,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__2___call__(struct N
     PyObject *par_x = python_pars[1];
     PyObject *par_pos = python_pars[2];
     PyObject *var_degrees = NULL;
-    struct Nuitka_FrameObject *frame_c25e49772f18188a91b722381630917f;
+    struct Nuitka_FrameObject *frame_d63f1bb4f0fb4674bbc66747a3ed7dfb;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_c25e49772f18188a91b722381630917f = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d63f1bb4f0fb4674bbc66747a3ed7dfb = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -609,31 +609,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__2___call__(struct N
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_c25e49772f18188a91b722381630917f)) {
-        Py_XDECREF(cache_frame_c25e49772f18188a91b722381630917f);
+    if (isFrameUnusable(cache_frame_d63f1bb4f0fb4674bbc66747a3ed7dfb)) {
+        Py_XDECREF(cache_frame_d63f1bb4f0fb4674bbc66747a3ed7dfb);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_c25e49772f18188a91b722381630917f == NULL) {
+        if (cache_frame_d63f1bb4f0fb4674bbc66747a3ed7dfb == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_c25e49772f18188a91b722381630917f = MAKE_FUNCTION_FRAME(codeobj_c25e49772f18188a91b722381630917f, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_d63f1bb4f0fb4674bbc66747a3ed7dfb = MAKE_FUNCTION_FRAME(codeobj_d63f1bb4f0fb4674bbc66747a3ed7dfb, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_c25e49772f18188a91b722381630917f->m_type_description == NULL);
-    frame_c25e49772f18188a91b722381630917f = cache_frame_c25e49772f18188a91b722381630917f;
+    assert(cache_frame_d63f1bb4f0fb4674bbc66747a3ed7dfb->m_type_description == NULL);
+    frame_d63f1bb4f0fb4674bbc66747a3ed7dfb = cache_frame_d63f1bb4f0fb4674bbc66747a3ed7dfb;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_c25e49772f18188a91b722381630917f);
+    pushFrameStack(frame_d63f1bb4f0fb4674bbc66747a3ed7dfb);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_c25e49772f18188a91b722381630917f) == 2); // Frame stack
+    assert(Py_REFCNT(frame_d63f1bb4f0fb4674bbc66747a3ed7dfb) == 2); // Frame stack
 
     // Framed code:
     {
@@ -668,7 +668,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__2___call__(struct N
         }
         CHECK_OBJECT(par_x);
         tmp_args_element_name_2 = par_x;
-        frame_c25e49772f18188a91b722381630917f->m_frame.f_lineno = 26;
+        frame_d63f1bb4f0fb4674bbc66747a3ed7dfb->m_frame.f_lineno = 26;
         tmp_left_name_2 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[3], tmp_args_element_name_2);
         if (tmp_left_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -706,7 +706,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__2___call__(struct N
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c25e49772f18188a91b722381630917f->m_frame.f_lineno = 26;
+        frame_d63f1bb4f0fb4674bbc66747a3ed7dfb->m_frame.f_lineno = 26;
         tmp_left_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_left_name_1 == NULL) {
@@ -798,7 +798,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__2___call__(struct N
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c25e49772f18188a91b722381630917f);
+    RESTORE_FRAME_EXCEPTION(frame_d63f1bb4f0fb4674bbc66747a3ed7dfb);
 #endif
 
     // Put the previous frame back on top.
@@ -808,7 +808,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__2___call__(struct N
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c25e49772f18188a91b722381630917f);
+    RESTORE_FRAME_EXCEPTION(frame_d63f1bb4f0fb4674bbc66747a3ed7dfb);
 #endif
 
     // Put the previous frame back on top.
@@ -819,18 +819,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__2___call__(struct N
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c25e49772f18188a91b722381630917f);
+    RESTORE_FRAME_EXCEPTION(frame_d63f1bb4f0fb4674bbc66747a3ed7dfb);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_c25e49772f18188a91b722381630917f, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_c25e49772f18188a91b722381630917f->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_c25e49772f18188a91b722381630917f, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d63f1bb4f0fb4674bbc66747a3ed7dfb, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d63f1bb4f0fb4674bbc66747a3ed7dfb->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d63f1bb4f0fb4674bbc66747a3ed7dfb, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_c25e49772f18188a91b722381630917f,
+        frame_d63f1bb4f0fb4674bbc66747a3ed7dfb,
         type_description_1,
         par_self,
         par_x,
@@ -840,17 +840,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__2___call__(struct N
 
 
     // Release cached frame if used for exception.
-    if (frame_c25e49772f18188a91b722381630917f == cache_frame_c25e49772f18188a91b722381630917f) {
+    if (frame_d63f1bb4f0fb4674bbc66747a3ed7dfb == cache_frame_d63f1bb4f0fb4674bbc66747a3ed7dfb) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_c25e49772f18188a91b722381630917f);
-        cache_frame_c25e49772f18188a91b722381630917f = NULL;
+        Py_DECREF(cache_frame_d63f1bb4f0fb4674bbc66747a3ed7dfb);
+        cache_frame_d63f1bb4f0fb4674bbc66747a3ed7dfb = NULL;
     }
 
-    assertFrameObject(frame_c25e49772f18188a91b722381630917f);
+    assertFrameObject(frame_d63f1bb4f0fb4674bbc66747a3ed7dfb);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -932,7 +932,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__3__init_axis(struct
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_d770aa706dcd4781c336125de437b06d;
+    struct Nuitka_FrameObject *frame_ca816d43e88e12a195e7c8d682c19c25;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -940,7 +940,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__3__init_axis(struct
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_d770aa706dcd4781c336125de437b06d = NULL;
+    static struct Nuitka_FrameObject *cache_frame_ca816d43e88e12a195e7c8d682c19c25 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -949,31 +949,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__3__init_axis(struct
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_d770aa706dcd4781c336125de437b06d)) {
-        Py_XDECREF(cache_frame_d770aa706dcd4781c336125de437b06d);
+    if (isFrameUnusable(cache_frame_ca816d43e88e12a195e7c8d682c19c25)) {
+        Py_XDECREF(cache_frame_ca816d43e88e12a195e7c8d682c19c25);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_d770aa706dcd4781c336125de437b06d == NULL) {
+        if (cache_frame_ca816d43e88e12a195e7c8d682c19c25 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_d770aa706dcd4781c336125de437b06d = MAKE_FUNCTION_FRAME(codeobj_d770aa706dcd4781c336125de437b06d, module_matplotlib$projections$geo, sizeof(void *));
+        cache_frame_ca816d43e88e12a195e7c8d682c19c25 = MAKE_FUNCTION_FRAME(codeobj_ca816d43e88e12a195e7c8d682c19c25, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_d770aa706dcd4781c336125de437b06d->m_type_description == NULL);
-    frame_d770aa706dcd4781c336125de437b06d = cache_frame_d770aa706dcd4781c336125de437b06d;
+    assert(cache_frame_ca816d43e88e12a195e7c8d682c19c25->m_type_description == NULL);
+    frame_ca816d43e88e12a195e7c8d682c19c25 = cache_frame_ca816d43e88e12a195e7c8d682c19c25;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_d770aa706dcd4781c336125de437b06d);
+    pushFrameStack(frame_ca816d43e88e12a195e7c8d682c19c25);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_d770aa706dcd4781c336125de437b06d) == 2); // Frame stack
+    assert(Py_REFCNT(frame_ca816d43e88e12a195e7c8d682c19c25) == 2); // Frame stack
 
     // Framed code:
     {
@@ -999,7 +999,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__3__init_axis(struct
         }
         CHECK_OBJECT(par_self);
         tmp_args_element_name_1 = par_self;
-        frame_d770aa706dcd4781c336125de437b06d->m_frame.f_lineno = 32;
+        frame_ca816d43e88e12a195e7c8d682c19c25->m_frame.f_lineno = 32;
         tmp_assattr_name_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[9], tmp_args_element_name_1);
         if (tmp_assattr_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1083,7 +1083,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__3__init_axis(struct
         }
 
         tmp_args_element_name_2 = par_self;
-        frame_d770aa706dcd4781c336125de437b06d->m_frame.f_lineno = 33;
+        frame_ca816d43e88e12a195e7c8d682c19c25->m_frame.f_lineno = 33;
         tmp_assattr_name_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_1);
         if (tmp_assattr_name_2 == NULL) {
@@ -1138,7 +1138,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__3__init_axis(struct
         }
 
         tmp_called_instance_2 = par_self;
-        frame_d770aa706dcd4781c336125de437b06d->m_frame.f_lineno = 37;
+        frame_ca816d43e88e12a195e7c8d682c19c25->m_frame.f_lineno = 37;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[13]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1154,7 +1154,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__3__init_axis(struct
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d770aa706dcd4781c336125de437b06d);
+    RESTORE_FRAME_EXCEPTION(frame_ca816d43e88e12a195e7c8d682c19c25);
 #endif
 
     // Put the previous frame back on top.
@@ -1165,35 +1165,35 @@ static PyObject *impl_matplotlib$projections$geo$$$function__3__init_axis(struct
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d770aa706dcd4781c336125de437b06d);
+    RESTORE_FRAME_EXCEPTION(frame_ca816d43e88e12a195e7c8d682c19c25);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_d770aa706dcd4781c336125de437b06d, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_d770aa706dcd4781c336125de437b06d->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_d770aa706dcd4781c336125de437b06d, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_ca816d43e88e12a195e7c8d682c19c25, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_ca816d43e88e12a195e7c8d682c19c25->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_ca816d43e88e12a195e7c8d682c19c25, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_d770aa706dcd4781c336125de437b06d,
+        frame_ca816d43e88e12a195e7c8d682c19c25,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_d770aa706dcd4781c336125de437b06d == cache_frame_d770aa706dcd4781c336125de437b06d) {
+    if (frame_ca816d43e88e12a195e7c8d682c19c25 == cache_frame_ca816d43e88e12a195e7c8d682c19c25) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_d770aa706dcd4781c336125de437b06d);
-        cache_frame_d770aa706dcd4781c336125de437b06d = NULL;
+        Py_DECREF(cache_frame_ca816d43e88e12a195e7c8d682c19c25);
+        cache_frame_ca816d43e88e12a195e7c8d682c19c25 = NULL;
     }
 
-    assertFrameObject(frame_d770aa706dcd4781c336125de437b06d);
+    assertFrameObject(frame_ca816d43e88e12a195e7c8d682c19c25);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1263,14 +1263,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_aff12ee520b8ea1ff77193faf9b972e8;
+    struct Nuitka_FrameObject *frame_e746ee3366f3bfb319b7690197f0a48e;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_aff12ee520b8ea1ff77193faf9b972e8 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_e746ee3366f3bfb319b7690197f0a48e = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -1279,31 +1279,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_aff12ee520b8ea1ff77193faf9b972e8)) {
-        Py_XDECREF(cache_frame_aff12ee520b8ea1ff77193faf9b972e8);
+    if (isFrameUnusable(cache_frame_e746ee3366f3bfb319b7690197f0a48e)) {
+        Py_XDECREF(cache_frame_e746ee3366f3bfb319b7690197f0a48e);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_aff12ee520b8ea1ff77193faf9b972e8 == NULL) {
+        if (cache_frame_e746ee3366f3bfb319b7690197f0a48e == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_aff12ee520b8ea1ff77193faf9b972e8 = MAKE_FUNCTION_FRAME(codeobj_aff12ee520b8ea1ff77193faf9b972e8, module_matplotlib$projections$geo, sizeof(void *));
+        cache_frame_e746ee3366f3bfb319b7690197f0a48e = MAKE_FUNCTION_FRAME(codeobj_e746ee3366f3bfb319b7690197f0a48e, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_aff12ee520b8ea1ff77193faf9b972e8->m_type_description == NULL);
-    frame_aff12ee520b8ea1ff77193faf9b972e8 = cache_frame_aff12ee520b8ea1ff77193faf9b972e8;
+    assert(cache_frame_e746ee3366f3bfb319b7690197f0a48e->m_type_description == NULL);
+    frame_e746ee3366f3bfb319b7690197f0a48e = cache_frame_e746ee3366f3bfb319b7690197f0a48e;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_aff12ee520b8ea1ff77193faf9b972e8);
+    pushFrameStack(frame_e746ee3366f3bfb319b7690197f0a48e);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_aff12ee520b8ea1ff77193faf9b972e8) == 2); // Frame stack
+    assert(Py_REFCNT(frame_e746ee3366f3bfb319b7690197f0a48e) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1328,7 +1328,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
         }
         CHECK_OBJECT(par_self);
         tmp_args_element_name_1 = par_self;
-        frame_aff12ee520b8ea1ff77193faf9b972e8->m_frame.f_lineno = 40;
+        frame_e746ee3366f3bfb319b7690197f0a48e->m_frame.f_lineno = 40;
         tmp_call_result_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[15], tmp_args_element_name_1);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1358,7 +1358,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
         }
 
         tmp_called_instance_2 = par_self;
-        frame_aff12ee520b8ea1ff77193faf9b972e8->m_frame.f_lineno = 42;
+        frame_e746ee3366f3bfb319b7690197f0a48e->m_frame.f_lineno = 42;
         tmp_call_result_2 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_2,
             mod_consts[16],
@@ -1393,7 +1393,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
         }
 
         tmp_called_instance_3 = par_self;
-        frame_aff12ee520b8ea1ff77193faf9b972e8->m_frame.f_lineno = 43;
+        frame_e746ee3366f3bfb319b7690197f0a48e->m_frame.f_lineno = 43;
         tmp_call_result_3 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_3,
             mod_consts[18],
@@ -1428,7 +1428,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
         }
 
         tmp_called_instance_4 = par_self;
-        frame_aff12ee520b8ea1ff77193faf9b972e8->m_frame.f_lineno = 44;
+        frame_e746ee3366f3bfb319b7690197f0a48e->m_frame.f_lineno = 44;
         tmp_call_result_4 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_4,
             mod_consts[20],
@@ -1506,7 +1506,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_aff12ee520b8ea1ff77193faf9b972e8->m_frame.f_lineno = 45;
+        frame_e746ee3366f3bfb319b7690197f0a48e->m_frame.f_lineno = 45;
         tmp_args_element_name_2 = CALL_FUNCTION_NO_ARGS(tmp_called_name_2);
         if (tmp_args_element_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1518,7 +1518,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_aff12ee520b8ea1ff77193faf9b972e8->m_frame.f_lineno = 45;
+        frame_e746ee3366f3bfb319b7690197f0a48e->m_frame.f_lineno = 45;
         tmp_call_result_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_2);
@@ -1593,7 +1593,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_aff12ee520b8ea1ff77193faf9b972e8->m_frame.f_lineno = 46;
+        frame_e746ee3366f3bfb319b7690197f0a48e->m_frame.f_lineno = 46;
         tmp_args_element_name_3 = CALL_FUNCTION_NO_ARGS(tmp_called_name_4);
         if (tmp_args_element_name_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1605,7 +1605,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_aff12ee520b8ea1ff77193faf9b972e8->m_frame.f_lineno = 46;
+        frame_e746ee3366f3bfb319b7690197f0a48e->m_frame.f_lineno = 46;
         tmp_call_result_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_3);
@@ -1649,7 +1649,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_aff12ee520b8ea1ff77193faf9b972e8->m_frame.f_lineno = 47;
+        frame_e746ee3366f3bfb319b7690197f0a48e->m_frame.f_lineno = 47;
         tmp_call_result_7 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_5,
             mod_consts[24],
@@ -1697,7 +1697,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_aff12ee520b8ea1ff77193faf9b972e8->m_frame.f_lineno = 48;
+        frame_e746ee3366f3bfb319b7690197f0a48e->m_frame.f_lineno = 48;
         tmp_call_result_8 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_6,
             mod_consts[24],
@@ -1760,7 +1760,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
             goto frame_exception_exit_1;
         }
         tmp_kwargs_name_1 = PyDict_Copy(mod_consts[27]);
-        frame_aff12ee520b8ea1ff77193faf9b972e8->m_frame.f_lineno = 49;
+        frame_e746ee3366f3bfb319b7690197f0a48e->m_frame.f_lineno = 49;
         tmp_call_result_9 = CALL_FUNCTION_WITH_KEYARGS(tmp_called_name_5, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_5);
         Py_DECREF(tmp_kwargs_name_1);
@@ -1835,7 +1835,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_aff12ee520b8ea1ff77193faf9b972e8->m_frame.f_lineno = 53;
+        frame_e746ee3366f3bfb319b7690197f0a48e->m_frame.f_lineno = 53;
         tmp_call_result_10 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_6);
         Py_DECREF(tmp_args_element_name_4);
@@ -1969,7 +1969,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_aff12ee520b8ea1ff77193faf9b972e8->m_frame.f_lineno = 55;
+        frame_e746ee3366f3bfb319b7690197f0a48e->m_frame.f_lineno = 55;
         {
             PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6, tmp_args_element_name_7};
             tmp_call_result_11 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_7, call_args);
@@ -2139,7 +2139,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_aff12ee520b8ea1ff77193faf9b972e8->m_frame.f_lineno = 56;
+        frame_e746ee3366f3bfb319b7690197f0a48e->m_frame.f_lineno = 56;
         {
             PyObject *call_args[] = {tmp_args_element_name_8, tmp_args_element_name_9, tmp_args_element_name_10};
             tmp_call_result_12 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_8, call_args);
@@ -2162,7 +2162,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_aff12ee520b8ea1ff77193faf9b972e8);
+    RESTORE_FRAME_EXCEPTION(frame_e746ee3366f3bfb319b7690197f0a48e);
 #endif
 
     // Put the previous frame back on top.
@@ -2173,35 +2173,35 @@ static PyObject *impl_matplotlib$projections$geo$$$function__4_cla(struct Nuitka
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_aff12ee520b8ea1ff77193faf9b972e8);
+    RESTORE_FRAME_EXCEPTION(frame_e746ee3366f3bfb319b7690197f0a48e);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_aff12ee520b8ea1ff77193faf9b972e8, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_aff12ee520b8ea1ff77193faf9b972e8->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_aff12ee520b8ea1ff77193faf9b972e8, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_e746ee3366f3bfb319b7690197f0a48e, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_e746ee3366f3bfb319b7690197f0a48e->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_e746ee3366f3bfb319b7690197f0a48e, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_aff12ee520b8ea1ff77193faf9b972e8,
+        frame_e746ee3366f3bfb319b7690197f0a48e,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_aff12ee520b8ea1ff77193faf9b972e8 == cache_frame_aff12ee520b8ea1ff77193faf9b972e8) {
+    if (frame_e746ee3366f3bfb319b7690197f0a48e == cache_frame_e746ee3366f3bfb319b7690197f0a48e) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_aff12ee520b8ea1ff77193faf9b972e8);
-        cache_frame_aff12ee520b8ea1ff77193faf9b972e8 = NULL;
+        Py_DECREF(cache_frame_e746ee3366f3bfb319b7690197f0a48e);
+        cache_frame_e746ee3366f3bfb319b7690197f0a48e = NULL;
     }
 
-    assertFrameObject(frame_aff12ee520b8ea1ff77193faf9b972e8);
+    assertFrameObject(frame_e746ee3366f3bfb319b7690197f0a48e);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2274,14 +2274,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
     PyObject *var_yaxis_stretch = NULL;
     PyObject *var_yaxis_space = NULL;
     PyObject *var_yaxis_text_base = NULL;
-    struct Nuitka_FrameObject *frame_c1c389583f7433436c172901d17d6ae3;
+    struct Nuitka_FrameObject *frame_c1d34b70102c3bcf0d86413dadca2213;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_c1c389583f7433436c172901d17d6ae3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_c1d34b70102c3bcf0d86413dadca2213 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -2290,31 +2290,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_c1c389583f7433436c172901d17d6ae3)) {
-        Py_XDECREF(cache_frame_c1c389583f7433436c172901d17d6ae3);
+    if (isFrameUnusable(cache_frame_c1d34b70102c3bcf0d86413dadca2213)) {
+        Py_XDECREF(cache_frame_c1d34b70102c3bcf0d86413dadca2213);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_c1c389583f7433436c172901d17d6ae3 == NULL) {
+        if (cache_frame_c1d34b70102c3bcf0d86413dadca2213 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_c1c389583f7433436c172901d17d6ae3 = MAKE_FUNCTION_FRAME(codeobj_c1c389583f7433436c172901d17d6ae3, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_c1d34b70102c3bcf0d86413dadca2213 = MAKE_FUNCTION_FRAME(codeobj_c1d34b70102c3bcf0d86413dadca2213, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_c1c389583f7433436c172901d17d6ae3->m_type_description == NULL);
-    frame_c1c389583f7433436c172901d17d6ae3 = cache_frame_c1c389583f7433436c172901d17d6ae3;
+    assert(cache_frame_c1d34b70102c3bcf0d86413dadca2213->m_type_description == NULL);
+    frame_c1d34b70102c3bcf0d86413dadca2213 = cache_frame_c1d34b70102c3bcf0d86413dadca2213;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_c1c389583f7433436c172901d17d6ae3);
+    pushFrameStack(frame_c1d34b70102c3bcf0d86413dadca2213);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_c1c389583f7433436c172901d17d6ae3) == 2); // Frame stack
+    assert(Py_REFCNT(frame_c1d34b70102c3bcf0d86413dadca2213) == 2); // Frame stack
 
     // Framed code:
     {
@@ -2361,7 +2361,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 60;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 60;
         tmp_assattr_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -2418,7 +2418,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
         }
 
         tmp_called_instance_1 = par_self;
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 62;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 62;
         tmp_assattr_name_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[38]);
         if (tmp_assattr_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2502,7 +2502,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 64;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 64;
         tmp_assattr_name_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_args_element_name_2);
         if (tmp_assattr_name_3 == NULL) {
@@ -2708,7 +2708,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 75;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 75;
         tmp_expression_name_8 = CALL_FUNCTION_NO_ARGS(tmp_called_name_5);
         if (tmp_expression_name_8 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2770,7 +2770,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 75;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 75;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_expression_name_7 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -2837,7 +2837,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 75;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 75;
         {
             PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_assattr_name_5 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -3003,7 +3003,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 82;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 82;
         tmp_called_instance_2 = CALL_FUNCTION_NO_ARGS(tmp_called_name_6);
         if (tmp_called_instance_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3015,7 +3015,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 82;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 82;
         tmp_left_name_6 = CALL_METHOD_WITH_ARGS2(
             tmp_called_instance_2,
             mod_consts[45],
@@ -3086,7 +3086,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 84;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 84;
         tmp_called_instance_3 = CALL_FUNCTION_NO_ARGS(tmp_called_name_7);
         if (tmp_called_instance_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3098,7 +3098,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 84;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 84;
         tmp_right_name_6 = CALL_METHOD_WITH_ARGS2(
             tmp_called_instance_3,
             mod_consts[49],
@@ -3183,7 +3183,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 86;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 86;
         tmp_called_instance_4 = CALL_FUNCTION_NO_ARGS(tmp_called_name_8);
         if (tmp_called_instance_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3195,7 +3195,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 86;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 86;
         tmp_left_name_8 = CALL_METHOD_WITH_ARGS2(
             tmp_called_instance_4,
             mod_consts[45],
@@ -3266,7 +3266,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 88;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 88;
         tmp_called_instance_5 = CALL_FUNCTION_NO_ARGS(tmp_called_name_9);
         if (tmp_called_instance_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3278,7 +3278,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 88;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 88;
         tmp_right_name_8 = CALL_METHOD_WITH_ARGS2(
             tmp_called_instance_5,
             mod_consts[49],
@@ -3367,7 +3367,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 91;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 91;
         tmp_expression_name_16 = CALL_FUNCTION_NO_ARGS(tmp_called_name_12);
         if (tmp_expression_name_16 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3432,7 +3432,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             goto frame_exception_exit_1;
         }
         tmp_args_element_name_8 = mod_consts[46];
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 91;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 91;
         {
             PyObject *call_args[] = {tmp_args_element_name_7, tmp_args_element_name_8};
             tmp_expression_name_15 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_11, call_args);
@@ -3502,7 +3502,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             goto frame_exception_exit_1;
         }
         tmp_args_element_name_10 = mod_consts[50];
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 91;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 91;
         {
             PyObject *call_args[] = {tmp_args_element_name_9, tmp_args_element_name_10};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_10, call_args);
@@ -3543,7 +3543,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 92;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 92;
         tmp_called_instance_6 = CALL_FUNCTION_NO_ARGS(tmp_called_name_13);
         if (tmp_called_instance_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3555,7 +3555,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 92;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 92;
         tmp_assign_source_2 = CALL_METHOD_WITH_ARGS2(
             tmp_called_instance_6,
             mod_consts[45],
@@ -3826,7 +3826,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 104;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 104;
         tmp_called_instance_7 = CALL_FUNCTION_NO_ARGS(tmp_called_name_14);
         if (tmp_called_instance_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3838,7 +3838,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 104;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 104;
         tmp_right_name_15 = CALL_METHOD_WITH_ARGS2(
             tmp_called_instance_7,
             mod_consts[49],
@@ -3930,7 +3930,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 107;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 107;
         tmp_called_instance_8 = CALL_FUNCTION_NO_ARGS(tmp_called_name_15);
         if (tmp_called_instance_8 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3942,7 +3942,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_c1c389583f7433436c172901d17d6ae3->m_frame.f_lineno = 107;
+        frame_c1d34b70102c3bcf0d86413dadca2213->m_frame.f_lineno = 107;
         tmp_right_name_16 = CALL_METHOD_WITH_ARGS2(
             tmp_called_instance_8,
             mod_consts[49],
@@ -4000,7 +4000,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c1c389583f7433436c172901d17d6ae3);
+    RESTORE_FRAME_EXCEPTION(frame_c1d34b70102c3bcf0d86413dadca2213);
 #endif
 
     // Put the previous frame back on top.
@@ -4011,18 +4011,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c1c389583f7433436c172901d17d6ae3);
+    RESTORE_FRAME_EXCEPTION(frame_c1d34b70102c3bcf0d86413dadca2213);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_c1c389583f7433436c172901d17d6ae3, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_c1c389583f7433436c172901d17d6ae3->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_c1c389583f7433436c172901d17d6ae3, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_c1d34b70102c3bcf0d86413dadca2213, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_c1d34b70102c3bcf0d86413dadca2213->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_c1d34b70102c3bcf0d86413dadca2213, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_c1c389583f7433436c172901d17d6ae3,
+        frame_c1d34b70102c3bcf0d86413dadca2213,
         type_description_1,
         par_self,
         var_yaxis_stretch,
@@ -4032,17 +4032,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__5__set_lim_and_tran
 
 
     // Release cached frame if used for exception.
-    if (frame_c1c389583f7433436c172901d17d6ae3 == cache_frame_c1c389583f7433436c172901d17d6ae3) {
+    if (frame_c1d34b70102c3bcf0d86413dadca2213 == cache_frame_c1d34b70102c3bcf0d86413dadca2213) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_c1c389583f7433436c172901d17d6ae3);
-        cache_frame_c1c389583f7433436c172901d17d6ae3 = NULL;
+        Py_DECREF(cache_frame_c1d34b70102c3bcf0d86413dadca2213);
+        cache_frame_c1d34b70102c3bcf0d86413dadca2213 = NULL;
     }
 
-    assertFrameObject(frame_c1c389583f7433436c172901d17d6ae3);
+    assertFrameObject(frame_c1d34b70102c3bcf0d86413dadca2213);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -4134,7 +4134,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__6__get_affine_trans
     PyObject *tmp_tuple_unpack_2__element_1 = NULL;
     PyObject *tmp_tuple_unpack_2__element_2 = NULL;
     PyObject *tmp_tuple_unpack_2__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_ac89ebe634bf47b226db5dcc6b097e46;
+    struct Nuitka_FrameObject *frame_0de57aa91dc426b416de4a01b2b391c0;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -4158,7 +4158,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__6__get_affine_trans
     PyTracebackObject *exception_keeper_tb_4;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_4;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_ac89ebe634bf47b226db5dcc6b097e46 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_0de57aa91dc426b416de4a01b2b391c0 = NULL;
     PyObject *exception_keeper_type_5;
     PyObject *exception_keeper_value_5;
     PyTracebackObject *exception_keeper_tb_5;
@@ -4166,31 +4166,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__6__get_affine_trans
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ac89ebe634bf47b226db5dcc6b097e46)) {
-        Py_XDECREF(cache_frame_ac89ebe634bf47b226db5dcc6b097e46);
+    if (isFrameUnusable(cache_frame_0de57aa91dc426b416de4a01b2b391c0)) {
+        Py_XDECREF(cache_frame_0de57aa91dc426b416de4a01b2b391c0);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ac89ebe634bf47b226db5dcc6b097e46 == NULL) {
+        if (cache_frame_0de57aa91dc426b416de4a01b2b391c0 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ac89ebe634bf47b226db5dcc6b097e46 = MAKE_FUNCTION_FRAME(codeobj_ac89ebe634bf47b226db5dcc6b097e46, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_0de57aa91dc426b416de4a01b2b391c0 = MAKE_FUNCTION_FRAME(codeobj_0de57aa91dc426b416de4a01b2b391c0, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ac89ebe634bf47b226db5dcc6b097e46->m_type_description == NULL);
-    frame_ac89ebe634bf47b226db5dcc6b097e46 = cache_frame_ac89ebe634bf47b226db5dcc6b097e46;
+    assert(cache_frame_0de57aa91dc426b416de4a01b2b391c0->m_type_description == NULL);
+    frame_0de57aa91dc426b416de4a01b2b391c0 = cache_frame_0de57aa91dc426b416de4a01b2b391c0;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ac89ebe634bf47b226db5dcc6b097e46);
+    pushFrameStack(frame_0de57aa91dc426b416de4a01b2b391c0);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ac89ebe634bf47b226db5dcc6b097e46) == 2); // Frame stack
+    assert(Py_REFCNT(frame_0de57aa91dc426b416de4a01b2b391c0) == 2); // Frame stack
 
     // Framed code:
     {
@@ -4198,7 +4198,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__6__get_affine_trans
         PyObject *tmp_called_instance_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_ac89ebe634bf47b226db5dcc6b097e46->m_frame.f_lineno = 110;
+        frame_0de57aa91dc426b416de4a01b2b391c0->m_frame.f_lineno = 110;
         tmp_assign_source_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_1,
             mod_consts[35],
@@ -4271,7 +4271,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__6__get_affine_trans
         PyTuple_SET_ITEM(tmp_args_element_name_1, 0, tmp_tuple_element_1);
         tmp_tuple_element_1 = mod_consts[50];
         PyTuple_SET_ITEM0(tmp_args_element_name_1, 1, tmp_tuple_element_1);
-        frame_ac89ebe634bf47b226db5dcc6b097e46->m_frame.f_lineno = 111;
+        frame_0de57aa91dc426b416de4a01b2b391c0->m_frame.f_lineno = 111;
         tmp_iter_arg_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -4551,7 +4551,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__6__get_affine_trans
         goto try_except_handler_4;
         // Finished with no exception for tuple_build:
         tuple_build_noexception_1:;
-        frame_ac89ebe634bf47b226db5dcc6b097e46->m_frame.f_lineno = 112;
+        frame_0de57aa91dc426b416de4a01b2b391c0->m_frame.f_lineno = 112;
         tmp_iter_arg_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_2);
@@ -4774,7 +4774,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__6__get_affine_trans
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_ac89ebe634bf47b226db5dcc6b097e46->m_frame.f_lineno = 113;
+        frame_0de57aa91dc426b416de4a01b2b391c0->m_frame.f_lineno = 113;
         tmp_expression_name_5 = CALL_FUNCTION_NO_ARGS(tmp_called_name_4);
         if (tmp_expression_name_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4827,7 +4827,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__6__get_affine_trans
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_ac89ebe634bf47b226db5dcc6b097e46->m_frame.f_lineno = 113;
+        frame_0de57aa91dc426b416de4a01b2b391c0->m_frame.f_lineno = 113;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_called_instance_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -4846,7 +4846,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__6__get_affine_trans
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_ac89ebe634bf47b226db5dcc6b097e46->m_frame.f_lineno = 113;
+        frame_0de57aa91dc426b416de4a01b2b391c0->m_frame.f_lineno = 113;
         tmp_return_value = CALL_METHOD_WITH_ARGS2(
             tmp_called_instance_2,
             mod_consts[49],
@@ -4868,7 +4868,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__6__get_affine_trans
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ac89ebe634bf47b226db5dcc6b097e46);
+    RESTORE_FRAME_EXCEPTION(frame_0de57aa91dc426b416de4a01b2b391c0);
 #endif
 
     // Put the previous frame back on top.
@@ -4878,7 +4878,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__6__get_affine_trans
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ac89ebe634bf47b226db5dcc6b097e46);
+    RESTORE_FRAME_EXCEPTION(frame_0de57aa91dc426b416de4a01b2b391c0);
 #endif
 
     // Put the previous frame back on top.
@@ -4889,18 +4889,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__6__get_affine_trans
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ac89ebe634bf47b226db5dcc6b097e46);
+    RESTORE_FRAME_EXCEPTION(frame_0de57aa91dc426b416de4a01b2b391c0);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ac89ebe634bf47b226db5dcc6b097e46, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ac89ebe634bf47b226db5dcc6b097e46->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ac89ebe634bf47b226db5dcc6b097e46, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_0de57aa91dc426b416de4a01b2b391c0, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_0de57aa91dc426b416de4a01b2b391c0->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_0de57aa91dc426b416de4a01b2b391c0, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ac89ebe634bf47b226db5dcc6b097e46,
+        frame_0de57aa91dc426b416de4a01b2b391c0,
         type_description_1,
         par_self,
         var_transform,
@@ -4911,17 +4911,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__6__get_affine_trans
 
 
     // Release cached frame if used for exception.
-    if (frame_ac89ebe634bf47b226db5dcc6b097e46 == cache_frame_ac89ebe634bf47b226db5dcc6b097e46) {
+    if (frame_0de57aa91dc426b416de4a01b2b391c0 == cache_frame_0de57aa91dc426b416de4a01b2b391c0) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ac89ebe634bf47b226db5dcc6b097e46);
-        cache_frame_ac89ebe634bf47b226db5dcc6b097e46 = NULL;
+        Py_DECREF(cache_frame_0de57aa91dc426b416de4a01b2b391c0);
+        cache_frame_0de57aa91dc426b416de4a01b2b391c0 = NULL;
     }
 
-    assertFrameObject(frame_ac89ebe634bf47b226db5dcc6b097e46);
+    assertFrameObject(frame_0de57aa91dc426b416de4a01b2b391c0);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5006,7 +5006,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__7_get_xaxis_transfo
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_which = python_pars[1];
-    struct Nuitka_FrameObject *frame_f9fbbc4c3e483ea1c63ac9c1c7381b62;
+    struct Nuitka_FrameObject *frame_54f8ea900846ef62006d3e6c5f504bd3;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -5015,7 +5015,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__7_get_xaxis_transfo
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_f9fbbc4c3e483ea1c63ac9c1c7381b62 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_54f8ea900846ef62006d3e6c5f504bd3 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -5023,31 +5023,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__7_get_xaxis_transfo
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_f9fbbc4c3e483ea1c63ac9c1c7381b62)) {
-        Py_XDECREF(cache_frame_f9fbbc4c3e483ea1c63ac9c1c7381b62);
+    if (isFrameUnusable(cache_frame_54f8ea900846ef62006d3e6c5f504bd3)) {
+        Py_XDECREF(cache_frame_54f8ea900846ef62006d3e6c5f504bd3);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_f9fbbc4c3e483ea1c63ac9c1c7381b62 == NULL) {
+        if (cache_frame_54f8ea900846ef62006d3e6c5f504bd3 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_f9fbbc4c3e483ea1c63ac9c1c7381b62 = MAKE_FUNCTION_FRAME(codeobj_f9fbbc4c3e483ea1c63ac9c1c7381b62, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
+        cache_frame_54f8ea900846ef62006d3e6c5f504bd3 = MAKE_FUNCTION_FRAME(codeobj_54f8ea900846ef62006d3e6c5f504bd3, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_f9fbbc4c3e483ea1c63ac9c1c7381b62->m_type_description == NULL);
-    frame_f9fbbc4c3e483ea1c63ac9c1c7381b62 = cache_frame_f9fbbc4c3e483ea1c63ac9c1c7381b62;
+    assert(cache_frame_54f8ea900846ef62006d3e6c5f504bd3->m_type_description == NULL);
+    frame_54f8ea900846ef62006d3e6c5f504bd3 = cache_frame_54f8ea900846ef62006d3e6c5f504bd3;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_f9fbbc4c3e483ea1c63ac9c1c7381b62);
+    pushFrameStack(frame_54f8ea900846ef62006d3e6c5f504bd3);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_f9fbbc4c3e483ea1c63ac9c1c7381b62) == 2); // Frame stack
+    assert(Py_REFCNT(frame_54f8ea900846ef62006d3e6c5f504bd3) == 2); // Frame stack
 
     // Framed code:
     {
@@ -5092,7 +5092,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__7_get_xaxis_transfo
         tmp_kwargs_name_1 = _PyDict_NewPresized( 1 );
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_f9fbbc4c3e483ea1c63ac9c1c7381b62->m_frame.f_lineno = 118;
+        frame_54f8ea900846ef62006d3e6c5f504bd3->m_frame.f_lineno = 118;
         tmp_call_result_1 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -5128,7 +5128,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__7_get_xaxis_transfo
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f9fbbc4c3e483ea1c63ac9c1c7381b62);
+    RESTORE_FRAME_EXCEPTION(frame_54f8ea900846ef62006d3e6c5f504bd3);
 #endif
 
     // Put the previous frame back on top.
@@ -5138,7 +5138,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__7_get_xaxis_transfo
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f9fbbc4c3e483ea1c63ac9c1c7381b62);
+    RESTORE_FRAME_EXCEPTION(frame_54f8ea900846ef62006d3e6c5f504bd3);
 #endif
 
     // Put the previous frame back on top.
@@ -5149,18 +5149,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__7_get_xaxis_transfo
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f9fbbc4c3e483ea1c63ac9c1c7381b62);
+    RESTORE_FRAME_EXCEPTION(frame_54f8ea900846ef62006d3e6c5f504bd3);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_f9fbbc4c3e483ea1c63ac9c1c7381b62, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_f9fbbc4c3e483ea1c63ac9c1c7381b62->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_f9fbbc4c3e483ea1c63ac9c1c7381b62, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_54f8ea900846ef62006d3e6c5f504bd3, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_54f8ea900846ef62006d3e6c5f504bd3->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_54f8ea900846ef62006d3e6c5f504bd3, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_f9fbbc4c3e483ea1c63ac9c1c7381b62,
+        frame_54f8ea900846ef62006d3e6c5f504bd3,
         type_description_1,
         par_self,
         par_which
@@ -5168,17 +5168,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__7_get_xaxis_transfo
 
 
     // Release cached frame if used for exception.
-    if (frame_f9fbbc4c3e483ea1c63ac9c1c7381b62 == cache_frame_f9fbbc4c3e483ea1c63ac9c1c7381b62) {
+    if (frame_54f8ea900846ef62006d3e6c5f504bd3 == cache_frame_54f8ea900846ef62006d3e6c5f504bd3) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_f9fbbc4c3e483ea1c63ac9c1c7381b62);
-        cache_frame_f9fbbc4c3e483ea1c63ac9c1c7381b62 = NULL;
+        Py_DECREF(cache_frame_54f8ea900846ef62006d3e6c5f504bd3);
+        cache_frame_54f8ea900846ef62006d3e6c5f504bd3 = NULL;
     }
 
-    assertFrameObject(frame_f9fbbc4c3e483ea1c63ac9c1c7381b62);
+    assertFrameObject(frame_54f8ea900846ef62006d3e6c5f504bd3);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5250,14 +5250,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__8_get_xaxis_text1_t
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_pad = python_pars[1];
-    struct Nuitka_FrameObject *frame_977d199eea7219189e311846ee7b29f0;
+    struct Nuitka_FrameObject *frame_95087b34a10751cbf182fc5f23df8dd4;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_977d199eea7219189e311846ee7b29f0 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_95087b34a10751cbf182fc5f23df8dd4 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -5265,31 +5265,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__8_get_xaxis_text1_t
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_977d199eea7219189e311846ee7b29f0)) {
-        Py_XDECREF(cache_frame_977d199eea7219189e311846ee7b29f0);
+    if (isFrameUnusable(cache_frame_95087b34a10751cbf182fc5f23df8dd4)) {
+        Py_XDECREF(cache_frame_95087b34a10751cbf182fc5f23df8dd4);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_977d199eea7219189e311846ee7b29f0 == NULL) {
+        if (cache_frame_95087b34a10751cbf182fc5f23df8dd4 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_977d199eea7219189e311846ee7b29f0 = MAKE_FUNCTION_FRAME(codeobj_977d199eea7219189e311846ee7b29f0, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
+        cache_frame_95087b34a10751cbf182fc5f23df8dd4 = MAKE_FUNCTION_FRAME(codeobj_95087b34a10751cbf182fc5f23df8dd4, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_977d199eea7219189e311846ee7b29f0->m_type_description == NULL);
-    frame_977d199eea7219189e311846ee7b29f0 = cache_frame_977d199eea7219189e311846ee7b29f0;
+    assert(cache_frame_95087b34a10751cbf182fc5f23df8dd4->m_type_description == NULL);
+    frame_95087b34a10751cbf182fc5f23df8dd4 = cache_frame_95087b34a10751cbf182fc5f23df8dd4;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_977d199eea7219189e311846ee7b29f0);
+    pushFrameStack(frame_95087b34a10751cbf182fc5f23df8dd4);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_977d199eea7219189e311846ee7b29f0) == 2); // Frame stack
+    assert(Py_REFCNT(frame_95087b34a10751cbf182fc5f23df8dd4) == 2); // Frame stack
 
     // Framed code:
     {
@@ -5318,7 +5318,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__8_get_xaxis_text1_t
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_977d199eea7219189e311846ee7b29f0);
+    RESTORE_FRAME_EXCEPTION(frame_95087b34a10751cbf182fc5f23df8dd4);
 #endif
 
     // Put the previous frame back on top.
@@ -5328,7 +5328,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__8_get_xaxis_text1_t
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_977d199eea7219189e311846ee7b29f0);
+    RESTORE_FRAME_EXCEPTION(frame_95087b34a10751cbf182fc5f23df8dd4);
 #endif
 
     // Put the previous frame back on top.
@@ -5339,18 +5339,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__8_get_xaxis_text1_t
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_977d199eea7219189e311846ee7b29f0);
+    RESTORE_FRAME_EXCEPTION(frame_95087b34a10751cbf182fc5f23df8dd4);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_977d199eea7219189e311846ee7b29f0, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_977d199eea7219189e311846ee7b29f0->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_977d199eea7219189e311846ee7b29f0, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_95087b34a10751cbf182fc5f23df8dd4, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_95087b34a10751cbf182fc5f23df8dd4->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_95087b34a10751cbf182fc5f23df8dd4, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_977d199eea7219189e311846ee7b29f0,
+        frame_95087b34a10751cbf182fc5f23df8dd4,
         type_description_1,
         par_self,
         par_pad
@@ -5358,17 +5358,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__8_get_xaxis_text1_t
 
 
     // Release cached frame if used for exception.
-    if (frame_977d199eea7219189e311846ee7b29f0 == cache_frame_977d199eea7219189e311846ee7b29f0) {
+    if (frame_95087b34a10751cbf182fc5f23df8dd4 == cache_frame_95087b34a10751cbf182fc5f23df8dd4) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_977d199eea7219189e311846ee7b29f0);
-        cache_frame_977d199eea7219189e311846ee7b29f0 = NULL;
+        Py_DECREF(cache_frame_95087b34a10751cbf182fc5f23df8dd4);
+        cache_frame_95087b34a10751cbf182fc5f23df8dd4 = NULL;
     }
 
-    assertFrameObject(frame_977d199eea7219189e311846ee7b29f0);
+    assertFrameObject(frame_95087b34a10751cbf182fc5f23df8dd4);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5442,14 +5442,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__9_get_xaxis_text2_t
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_pad = python_pars[1];
-    struct Nuitka_FrameObject *frame_001ad14a63d9fd6d647fe6876dda6801;
+    struct Nuitka_FrameObject *frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_001ad14a63d9fd6d647fe6876dda6801 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -5457,31 +5457,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__9_get_xaxis_text2_t
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_001ad14a63d9fd6d647fe6876dda6801)) {
-        Py_XDECREF(cache_frame_001ad14a63d9fd6d647fe6876dda6801);
+    if (isFrameUnusable(cache_frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d)) {
+        Py_XDECREF(cache_frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_001ad14a63d9fd6d647fe6876dda6801 == NULL) {
+        if (cache_frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_001ad14a63d9fd6d647fe6876dda6801 = MAKE_FUNCTION_FRAME(codeobj_001ad14a63d9fd6d647fe6876dda6801, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
+        cache_frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d = MAKE_FUNCTION_FRAME(codeobj_bf4d489b1fc9248e6d8cd9e6d2bd0b2d, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_001ad14a63d9fd6d647fe6876dda6801->m_type_description == NULL);
-    frame_001ad14a63d9fd6d647fe6876dda6801 = cache_frame_001ad14a63d9fd6d647fe6876dda6801;
+    assert(cache_frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d->m_type_description == NULL);
+    frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d = cache_frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_001ad14a63d9fd6d647fe6876dda6801);
+    pushFrameStack(frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_001ad14a63d9fd6d647fe6876dda6801) == 2); // Frame stack
+    assert(Py_REFCNT(frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d) == 2); // Frame stack
 
     // Framed code:
     {
@@ -5510,7 +5510,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__9_get_xaxis_text2_t
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_001ad14a63d9fd6d647fe6876dda6801);
+    RESTORE_FRAME_EXCEPTION(frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d);
 #endif
 
     // Put the previous frame back on top.
@@ -5520,7 +5520,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__9_get_xaxis_text2_t
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_001ad14a63d9fd6d647fe6876dda6801);
+    RESTORE_FRAME_EXCEPTION(frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d);
 #endif
 
     // Put the previous frame back on top.
@@ -5531,18 +5531,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__9_get_xaxis_text2_t
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_001ad14a63d9fd6d647fe6876dda6801);
+    RESTORE_FRAME_EXCEPTION(frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_001ad14a63d9fd6d647fe6876dda6801, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_001ad14a63d9fd6d647fe6876dda6801->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_001ad14a63d9fd6d647fe6876dda6801, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_001ad14a63d9fd6d647fe6876dda6801,
+        frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d,
         type_description_1,
         par_self,
         par_pad
@@ -5550,17 +5550,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__9_get_xaxis_text2_t
 
 
     // Release cached frame if used for exception.
-    if (frame_001ad14a63d9fd6d647fe6876dda6801 == cache_frame_001ad14a63d9fd6d647fe6876dda6801) {
+    if (frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d == cache_frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_001ad14a63d9fd6d647fe6876dda6801);
-        cache_frame_001ad14a63d9fd6d647fe6876dda6801 = NULL;
+        Py_DECREF(cache_frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d);
+        cache_frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d = NULL;
     }
 
-    assertFrameObject(frame_001ad14a63d9fd6d647fe6876dda6801);
+    assertFrameObject(frame_bf4d489b1fc9248e6d8cd9e6d2bd0b2d);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5634,7 +5634,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__10_get_yaxis_transf
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_which = python_pars[1];
-    struct Nuitka_FrameObject *frame_24460a1cdc260a3f0aad4fe812d6795a;
+    struct Nuitka_FrameObject *frame_dd2b90fc01f155e97e17cceca6f88d6c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -5643,7 +5643,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__10_get_yaxis_transf
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_24460a1cdc260a3f0aad4fe812d6795a = NULL;
+    static struct Nuitka_FrameObject *cache_frame_dd2b90fc01f155e97e17cceca6f88d6c = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -5651,31 +5651,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__10_get_yaxis_transf
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_24460a1cdc260a3f0aad4fe812d6795a)) {
-        Py_XDECREF(cache_frame_24460a1cdc260a3f0aad4fe812d6795a);
+    if (isFrameUnusable(cache_frame_dd2b90fc01f155e97e17cceca6f88d6c)) {
+        Py_XDECREF(cache_frame_dd2b90fc01f155e97e17cceca6f88d6c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_24460a1cdc260a3f0aad4fe812d6795a == NULL) {
+        if (cache_frame_dd2b90fc01f155e97e17cceca6f88d6c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_24460a1cdc260a3f0aad4fe812d6795a = MAKE_FUNCTION_FRAME(codeobj_24460a1cdc260a3f0aad4fe812d6795a, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
+        cache_frame_dd2b90fc01f155e97e17cceca6f88d6c = MAKE_FUNCTION_FRAME(codeobj_dd2b90fc01f155e97e17cceca6f88d6c, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_24460a1cdc260a3f0aad4fe812d6795a->m_type_description == NULL);
-    frame_24460a1cdc260a3f0aad4fe812d6795a = cache_frame_24460a1cdc260a3f0aad4fe812d6795a;
+    assert(cache_frame_dd2b90fc01f155e97e17cceca6f88d6c->m_type_description == NULL);
+    frame_dd2b90fc01f155e97e17cceca6f88d6c = cache_frame_dd2b90fc01f155e97e17cceca6f88d6c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_24460a1cdc260a3f0aad4fe812d6795a);
+    pushFrameStack(frame_dd2b90fc01f155e97e17cceca6f88d6c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_24460a1cdc260a3f0aad4fe812d6795a) == 2); // Frame stack
+    assert(Py_REFCNT(frame_dd2b90fc01f155e97e17cceca6f88d6c) == 2); // Frame stack
 
     // Framed code:
     {
@@ -5720,7 +5720,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__10_get_yaxis_transf
         tmp_kwargs_name_1 = _PyDict_NewPresized( 1 );
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_24460a1cdc260a3f0aad4fe812d6795a->m_frame.f_lineno = 128;
+        frame_dd2b90fc01f155e97e17cceca6f88d6c->m_frame.f_lineno = 128;
         tmp_call_result_1 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -5756,7 +5756,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__10_get_yaxis_transf
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_24460a1cdc260a3f0aad4fe812d6795a);
+    RESTORE_FRAME_EXCEPTION(frame_dd2b90fc01f155e97e17cceca6f88d6c);
 #endif
 
     // Put the previous frame back on top.
@@ -5766,7 +5766,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__10_get_yaxis_transf
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_24460a1cdc260a3f0aad4fe812d6795a);
+    RESTORE_FRAME_EXCEPTION(frame_dd2b90fc01f155e97e17cceca6f88d6c);
 #endif
 
     // Put the previous frame back on top.
@@ -5777,18 +5777,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__10_get_yaxis_transf
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_24460a1cdc260a3f0aad4fe812d6795a);
+    RESTORE_FRAME_EXCEPTION(frame_dd2b90fc01f155e97e17cceca6f88d6c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_24460a1cdc260a3f0aad4fe812d6795a, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_24460a1cdc260a3f0aad4fe812d6795a->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_24460a1cdc260a3f0aad4fe812d6795a, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_dd2b90fc01f155e97e17cceca6f88d6c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_dd2b90fc01f155e97e17cceca6f88d6c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_dd2b90fc01f155e97e17cceca6f88d6c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_24460a1cdc260a3f0aad4fe812d6795a,
+        frame_dd2b90fc01f155e97e17cceca6f88d6c,
         type_description_1,
         par_self,
         par_which
@@ -5796,17 +5796,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__10_get_yaxis_transf
 
 
     // Release cached frame if used for exception.
-    if (frame_24460a1cdc260a3f0aad4fe812d6795a == cache_frame_24460a1cdc260a3f0aad4fe812d6795a) {
+    if (frame_dd2b90fc01f155e97e17cceca6f88d6c == cache_frame_dd2b90fc01f155e97e17cceca6f88d6c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_24460a1cdc260a3f0aad4fe812d6795a);
-        cache_frame_24460a1cdc260a3f0aad4fe812d6795a = NULL;
+        Py_DECREF(cache_frame_dd2b90fc01f155e97e17cceca6f88d6c);
+        cache_frame_dd2b90fc01f155e97e17cceca6f88d6c = NULL;
     }
 
-    assertFrameObject(frame_24460a1cdc260a3f0aad4fe812d6795a);
+    assertFrameObject(frame_dd2b90fc01f155e97e17cceca6f88d6c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5878,14 +5878,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__11_get_yaxis_text1_
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_pad = python_pars[1];
-    struct Nuitka_FrameObject *frame_66e55b2a5d196c6b6555a0001e01e72c;
+    struct Nuitka_FrameObject *frame_d9209d16ab277b61f5498ae6c39b7568;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_66e55b2a5d196c6b6555a0001e01e72c = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d9209d16ab277b61f5498ae6c39b7568 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -5893,31 +5893,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__11_get_yaxis_text1_
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_66e55b2a5d196c6b6555a0001e01e72c)) {
-        Py_XDECREF(cache_frame_66e55b2a5d196c6b6555a0001e01e72c);
+    if (isFrameUnusable(cache_frame_d9209d16ab277b61f5498ae6c39b7568)) {
+        Py_XDECREF(cache_frame_d9209d16ab277b61f5498ae6c39b7568);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_66e55b2a5d196c6b6555a0001e01e72c == NULL) {
+        if (cache_frame_d9209d16ab277b61f5498ae6c39b7568 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_66e55b2a5d196c6b6555a0001e01e72c = MAKE_FUNCTION_FRAME(codeobj_66e55b2a5d196c6b6555a0001e01e72c, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
+        cache_frame_d9209d16ab277b61f5498ae6c39b7568 = MAKE_FUNCTION_FRAME(codeobj_d9209d16ab277b61f5498ae6c39b7568, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_66e55b2a5d196c6b6555a0001e01e72c->m_type_description == NULL);
-    frame_66e55b2a5d196c6b6555a0001e01e72c = cache_frame_66e55b2a5d196c6b6555a0001e01e72c;
+    assert(cache_frame_d9209d16ab277b61f5498ae6c39b7568->m_type_description == NULL);
+    frame_d9209d16ab277b61f5498ae6c39b7568 = cache_frame_d9209d16ab277b61f5498ae6c39b7568;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_66e55b2a5d196c6b6555a0001e01e72c);
+    pushFrameStack(frame_d9209d16ab277b61f5498ae6c39b7568);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_66e55b2a5d196c6b6555a0001e01e72c) == 2); // Frame stack
+    assert(Py_REFCNT(frame_d9209d16ab277b61f5498ae6c39b7568) == 2); // Frame stack
 
     // Framed code:
     {
@@ -5946,7 +5946,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__11_get_yaxis_text1_
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_66e55b2a5d196c6b6555a0001e01e72c);
+    RESTORE_FRAME_EXCEPTION(frame_d9209d16ab277b61f5498ae6c39b7568);
 #endif
 
     // Put the previous frame back on top.
@@ -5956,7 +5956,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__11_get_yaxis_text1_
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_66e55b2a5d196c6b6555a0001e01e72c);
+    RESTORE_FRAME_EXCEPTION(frame_d9209d16ab277b61f5498ae6c39b7568);
 #endif
 
     // Put the previous frame back on top.
@@ -5967,18 +5967,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__11_get_yaxis_text1_
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_66e55b2a5d196c6b6555a0001e01e72c);
+    RESTORE_FRAME_EXCEPTION(frame_d9209d16ab277b61f5498ae6c39b7568);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_66e55b2a5d196c6b6555a0001e01e72c, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_66e55b2a5d196c6b6555a0001e01e72c->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_66e55b2a5d196c6b6555a0001e01e72c, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d9209d16ab277b61f5498ae6c39b7568, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d9209d16ab277b61f5498ae6c39b7568->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d9209d16ab277b61f5498ae6c39b7568, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_66e55b2a5d196c6b6555a0001e01e72c,
+        frame_d9209d16ab277b61f5498ae6c39b7568,
         type_description_1,
         par_self,
         par_pad
@@ -5986,17 +5986,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__11_get_yaxis_text1_
 
 
     // Release cached frame if used for exception.
-    if (frame_66e55b2a5d196c6b6555a0001e01e72c == cache_frame_66e55b2a5d196c6b6555a0001e01e72c) {
+    if (frame_d9209d16ab277b61f5498ae6c39b7568 == cache_frame_d9209d16ab277b61f5498ae6c39b7568) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_66e55b2a5d196c6b6555a0001e01e72c);
-        cache_frame_66e55b2a5d196c6b6555a0001e01e72c = NULL;
+        Py_DECREF(cache_frame_d9209d16ab277b61f5498ae6c39b7568);
+        cache_frame_d9209d16ab277b61f5498ae6c39b7568 = NULL;
     }
 
-    assertFrameObject(frame_66e55b2a5d196c6b6555a0001e01e72c);
+    assertFrameObject(frame_d9209d16ab277b61f5498ae6c39b7568);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -6070,14 +6070,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__12_get_yaxis_text2_
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_pad = python_pars[1];
-    struct Nuitka_FrameObject *frame_177d7e628f5ddf76952314d5d498f876;
+    struct Nuitka_FrameObject *frame_9ebc1e0d841f32f7e81b9e06fa01516d;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_177d7e628f5ddf76952314d5d498f876 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_9ebc1e0d841f32f7e81b9e06fa01516d = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -6085,31 +6085,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__12_get_yaxis_text2_
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_177d7e628f5ddf76952314d5d498f876)) {
-        Py_XDECREF(cache_frame_177d7e628f5ddf76952314d5d498f876);
+    if (isFrameUnusable(cache_frame_9ebc1e0d841f32f7e81b9e06fa01516d)) {
+        Py_XDECREF(cache_frame_9ebc1e0d841f32f7e81b9e06fa01516d);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_177d7e628f5ddf76952314d5d498f876 == NULL) {
+        if (cache_frame_9ebc1e0d841f32f7e81b9e06fa01516d == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_177d7e628f5ddf76952314d5d498f876 = MAKE_FUNCTION_FRAME(codeobj_177d7e628f5ddf76952314d5d498f876, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
+        cache_frame_9ebc1e0d841f32f7e81b9e06fa01516d = MAKE_FUNCTION_FRAME(codeobj_9ebc1e0d841f32f7e81b9e06fa01516d, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_177d7e628f5ddf76952314d5d498f876->m_type_description == NULL);
-    frame_177d7e628f5ddf76952314d5d498f876 = cache_frame_177d7e628f5ddf76952314d5d498f876;
+    assert(cache_frame_9ebc1e0d841f32f7e81b9e06fa01516d->m_type_description == NULL);
+    frame_9ebc1e0d841f32f7e81b9e06fa01516d = cache_frame_9ebc1e0d841f32f7e81b9e06fa01516d;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_177d7e628f5ddf76952314d5d498f876);
+    pushFrameStack(frame_9ebc1e0d841f32f7e81b9e06fa01516d);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_177d7e628f5ddf76952314d5d498f876) == 2); // Frame stack
+    assert(Py_REFCNT(frame_9ebc1e0d841f32f7e81b9e06fa01516d) == 2); // Frame stack
 
     // Framed code:
     {
@@ -6138,7 +6138,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__12_get_yaxis_text2_
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_177d7e628f5ddf76952314d5d498f876);
+    RESTORE_FRAME_EXCEPTION(frame_9ebc1e0d841f32f7e81b9e06fa01516d);
 #endif
 
     // Put the previous frame back on top.
@@ -6148,7 +6148,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__12_get_yaxis_text2_
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_177d7e628f5ddf76952314d5d498f876);
+    RESTORE_FRAME_EXCEPTION(frame_9ebc1e0d841f32f7e81b9e06fa01516d);
 #endif
 
     // Put the previous frame back on top.
@@ -6159,18 +6159,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__12_get_yaxis_text2_
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_177d7e628f5ddf76952314d5d498f876);
+    RESTORE_FRAME_EXCEPTION(frame_9ebc1e0d841f32f7e81b9e06fa01516d);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_177d7e628f5ddf76952314d5d498f876, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_177d7e628f5ddf76952314d5d498f876->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_177d7e628f5ddf76952314d5d498f876, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_9ebc1e0d841f32f7e81b9e06fa01516d, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_9ebc1e0d841f32f7e81b9e06fa01516d->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_9ebc1e0d841f32f7e81b9e06fa01516d, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_177d7e628f5ddf76952314d5d498f876,
+        frame_9ebc1e0d841f32f7e81b9e06fa01516d,
         type_description_1,
         par_self,
         par_pad
@@ -6178,17 +6178,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__12_get_yaxis_text2_
 
 
     // Release cached frame if used for exception.
-    if (frame_177d7e628f5ddf76952314d5d498f876 == cache_frame_177d7e628f5ddf76952314d5d498f876) {
+    if (frame_9ebc1e0d841f32f7e81b9e06fa01516d == cache_frame_9ebc1e0d841f32f7e81b9e06fa01516d) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_177d7e628f5ddf76952314d5d498f876);
-        cache_frame_177d7e628f5ddf76952314d5d498f876 = NULL;
+        Py_DECREF(cache_frame_9ebc1e0d841f32f7e81b9e06fa01516d);
+        cache_frame_9ebc1e0d841f32f7e81b9e06fa01516d = NULL;
     }
 
-    assertFrameObject(frame_177d7e628f5ddf76952314d5d498f876);
+    assertFrameObject(frame_9ebc1e0d841f32f7e81b9e06fa01516d);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -6261,14 +6261,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__13__gen_axes_patch(
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_d3eb5199d73c6723f5c3eb02afa5a648;
+    struct Nuitka_FrameObject *frame_afaf921c43a915a235d5291e74b0b0d3;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_d3eb5199d73c6723f5c3eb02afa5a648 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_afaf921c43a915a235d5291e74b0b0d3 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -6276,31 +6276,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__13__gen_axes_patch(
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_d3eb5199d73c6723f5c3eb02afa5a648)) {
-        Py_XDECREF(cache_frame_d3eb5199d73c6723f5c3eb02afa5a648);
+    if (isFrameUnusable(cache_frame_afaf921c43a915a235d5291e74b0b0d3)) {
+        Py_XDECREF(cache_frame_afaf921c43a915a235d5291e74b0b0d3);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_d3eb5199d73c6723f5c3eb02afa5a648 == NULL) {
+        if (cache_frame_afaf921c43a915a235d5291e74b0b0d3 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_d3eb5199d73c6723f5c3eb02afa5a648 = MAKE_FUNCTION_FRAME(codeobj_d3eb5199d73c6723f5c3eb02afa5a648, module_matplotlib$projections$geo, sizeof(void *));
+        cache_frame_afaf921c43a915a235d5291e74b0b0d3 = MAKE_FUNCTION_FRAME(codeobj_afaf921c43a915a235d5291e74b0b0d3, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_d3eb5199d73c6723f5c3eb02afa5a648->m_type_description == NULL);
-    frame_d3eb5199d73c6723f5c3eb02afa5a648 = cache_frame_d3eb5199d73c6723f5c3eb02afa5a648;
+    assert(cache_frame_afaf921c43a915a235d5291e74b0b0d3->m_type_description == NULL);
+    frame_afaf921c43a915a235d5291e74b0b0d3 = cache_frame_afaf921c43a915a235d5291e74b0b0d3;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_d3eb5199d73c6723f5c3eb02afa5a648);
+    pushFrameStack(frame_afaf921c43a915a235d5291e74b0b0d3);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_d3eb5199d73c6723f5c3eb02afa5a648) == 2); // Frame stack
+    assert(Py_REFCNT(frame_afaf921c43a915a235d5291e74b0b0d3) == 2); // Frame stack
 
     // Framed code:
     {
@@ -6321,7 +6321,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__13__gen_axes_patch(
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_d3eb5199d73c6723f5c3eb02afa5a648->m_frame.f_lineno = 138;
+        frame_afaf921c43a915a235d5291e74b0b0d3->m_frame.f_lineno = 138;
         tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, &PyTuple_GET_ITEM(mod_consts[81], 0));
 
         if (tmp_return_value == NULL) {
@@ -6338,7 +6338,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__13__gen_axes_patch(
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d3eb5199d73c6723f5c3eb02afa5a648);
+    RESTORE_FRAME_EXCEPTION(frame_afaf921c43a915a235d5291e74b0b0d3);
 #endif
 
     // Put the previous frame back on top.
@@ -6348,7 +6348,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__13__gen_axes_patch(
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d3eb5199d73c6723f5c3eb02afa5a648);
+    RESTORE_FRAME_EXCEPTION(frame_afaf921c43a915a235d5291e74b0b0d3);
 #endif
 
     // Put the previous frame back on top.
@@ -6359,35 +6359,35 @@ static PyObject *impl_matplotlib$projections$geo$$$function__13__gen_axes_patch(
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d3eb5199d73c6723f5c3eb02afa5a648);
+    RESTORE_FRAME_EXCEPTION(frame_afaf921c43a915a235d5291e74b0b0d3);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_d3eb5199d73c6723f5c3eb02afa5a648, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_d3eb5199d73c6723f5c3eb02afa5a648->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_d3eb5199d73c6723f5c3eb02afa5a648, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_afaf921c43a915a235d5291e74b0b0d3, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_afaf921c43a915a235d5291e74b0b0d3->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_afaf921c43a915a235d5291e74b0b0d3, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_d3eb5199d73c6723f5c3eb02afa5a648,
+        frame_afaf921c43a915a235d5291e74b0b0d3,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_d3eb5199d73c6723f5c3eb02afa5a648 == cache_frame_d3eb5199d73c6723f5c3eb02afa5a648) {
+    if (frame_afaf921c43a915a235d5291e74b0b0d3 == cache_frame_afaf921c43a915a235d5291e74b0b0d3) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_d3eb5199d73c6723f5c3eb02afa5a648);
-        cache_frame_d3eb5199d73c6723f5c3eb02afa5a648 = NULL;
+        Py_DECREF(cache_frame_afaf921c43a915a235d5291e74b0b0d3);
+        cache_frame_afaf921c43a915a235d5291e74b0b0d3 = NULL;
     }
 
-    assertFrameObject(frame_d3eb5199d73c6723f5c3eb02afa5a648);
+    assertFrameObject(frame_afaf921c43a915a235d5291e74b0b0d3);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -6456,7 +6456,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__14__gen_axes_spines
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_4829a652657d1aa408f87c61f0cb17e9;
+    struct Nuitka_FrameObject *frame_c0de4d8fe1cb35e4950b4c433a798754;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
@@ -6464,7 +6464,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__14__gen_axes_spines
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
-    static struct Nuitka_FrameObject *cache_frame_4829a652657d1aa408f87c61f0cb17e9 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_c0de4d8fe1cb35e4950b4c433a798754 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -6472,31 +6472,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__14__gen_axes_spines
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_4829a652657d1aa408f87c61f0cb17e9)) {
-        Py_XDECREF(cache_frame_4829a652657d1aa408f87c61f0cb17e9);
+    if (isFrameUnusable(cache_frame_c0de4d8fe1cb35e4950b4c433a798754)) {
+        Py_XDECREF(cache_frame_c0de4d8fe1cb35e4950b4c433a798754);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_4829a652657d1aa408f87c61f0cb17e9 == NULL) {
+        if (cache_frame_c0de4d8fe1cb35e4950b4c433a798754 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_4829a652657d1aa408f87c61f0cb17e9 = MAKE_FUNCTION_FRAME(codeobj_4829a652657d1aa408f87c61f0cb17e9, module_matplotlib$projections$geo, sizeof(void *));
+        cache_frame_c0de4d8fe1cb35e4950b4c433a798754 = MAKE_FUNCTION_FRAME(codeobj_c0de4d8fe1cb35e4950b4c433a798754, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_4829a652657d1aa408f87c61f0cb17e9->m_type_description == NULL);
-    frame_4829a652657d1aa408f87c61f0cb17e9 = cache_frame_4829a652657d1aa408f87c61f0cb17e9;
+    assert(cache_frame_c0de4d8fe1cb35e4950b4c433a798754->m_type_description == NULL);
+    frame_c0de4d8fe1cb35e4950b4c433a798754 = cache_frame_c0de4d8fe1cb35e4950b4c433a798754;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_4829a652657d1aa408f87c61f0cb17e9);
+    pushFrameStack(frame_c0de4d8fe1cb35e4950b4c433a798754);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_4829a652657d1aa408f87c61f0cb17e9) == 2); // Frame stack
+    assert(Py_REFCNT(frame_c0de4d8fe1cb35e4950b4c433a798754) == 2); // Frame stack
 
     // Framed code:
     {
@@ -6539,7 +6539,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__14__gen_axes_spines
         tmp_args_element_name_1 = par_self;
         tmp_args_element_name_2 = mod_consts[70];
         tmp_args_element_name_3 = mod_consts[69];
-        frame_4829a652657d1aa408f87c61f0cb17e9->m_frame.f_lineno = 141;
+        frame_c0de4d8fe1cb35e4950b4c433a798754->m_frame.f_lineno = 141;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_dict_value_1 = CALL_METHOD_WITH_ARGS3(
@@ -6568,7 +6568,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__14__gen_axes_spines
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4829a652657d1aa408f87c61f0cb17e9);
+    RESTORE_FRAME_EXCEPTION(frame_c0de4d8fe1cb35e4950b4c433a798754);
 #endif
 
     // Put the previous frame back on top.
@@ -6578,7 +6578,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__14__gen_axes_spines
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4829a652657d1aa408f87c61f0cb17e9);
+    RESTORE_FRAME_EXCEPTION(frame_c0de4d8fe1cb35e4950b4c433a798754);
 #endif
 
     // Put the previous frame back on top.
@@ -6589,35 +6589,35 @@ static PyObject *impl_matplotlib$projections$geo$$$function__14__gen_axes_spines
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4829a652657d1aa408f87c61f0cb17e9);
+    RESTORE_FRAME_EXCEPTION(frame_c0de4d8fe1cb35e4950b4c433a798754);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_4829a652657d1aa408f87c61f0cb17e9, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_4829a652657d1aa408f87c61f0cb17e9->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_4829a652657d1aa408f87c61f0cb17e9, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_c0de4d8fe1cb35e4950b4c433a798754, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_c0de4d8fe1cb35e4950b4c433a798754->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_c0de4d8fe1cb35e4950b4c433a798754, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_4829a652657d1aa408f87c61f0cb17e9,
+        frame_c0de4d8fe1cb35e4950b4c433a798754,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_4829a652657d1aa408f87c61f0cb17e9 == cache_frame_4829a652657d1aa408f87c61f0cb17e9) {
+    if (frame_c0de4d8fe1cb35e4950b4c433a798754 == cache_frame_c0de4d8fe1cb35e4950b4c433a798754) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_4829a652657d1aa408f87c61f0cb17e9);
-        cache_frame_4829a652657d1aa408f87c61f0cb17e9 = NULL;
+        Py_DECREF(cache_frame_c0de4d8fe1cb35e4950b4c433a798754);
+        cache_frame_c0de4d8fe1cb35e4950b4c433a798754 = NULL;
     }
 
-    assertFrameObject(frame_4829a652657d1aa408f87c61f0cb17e9);
+    assertFrameObject(frame_c0de4d8fe1cb35e4950b4c433a798754);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -6686,13 +6686,13 @@ static PyObject *impl_matplotlib$projections$geo$$$function__15_set_yscale(struc
     PyObject *par_self = python_pars[0];
     PyObject *par_args = python_pars[1];
     PyObject *par_kwargs = python_pars[2];
-    struct Nuitka_FrameObject *frame_c6bc8a9f8b74972c74ae78ab3010ef6a;
+    struct Nuitka_FrameObject *frame_4a6e5afffd79225a95b7e3f6923f1508;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_c6bc8a9f8b74972c74ae78ab3010ef6a = NULL;
+    static struct Nuitka_FrameObject *cache_frame_4a6e5afffd79225a95b7e3f6923f1508 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -6701,31 +6701,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__15_set_yscale(struc
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_c6bc8a9f8b74972c74ae78ab3010ef6a)) {
-        Py_XDECREF(cache_frame_c6bc8a9f8b74972c74ae78ab3010ef6a);
+    if (isFrameUnusable(cache_frame_4a6e5afffd79225a95b7e3f6923f1508)) {
+        Py_XDECREF(cache_frame_4a6e5afffd79225a95b7e3f6923f1508);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_c6bc8a9f8b74972c74ae78ab3010ef6a == NULL) {
+        if (cache_frame_4a6e5afffd79225a95b7e3f6923f1508 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_c6bc8a9f8b74972c74ae78ab3010ef6a = MAKE_FUNCTION_FRAME(codeobj_c6bc8a9f8b74972c74ae78ab3010ef6a, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_4a6e5afffd79225a95b7e3f6923f1508 = MAKE_FUNCTION_FRAME(codeobj_4a6e5afffd79225a95b7e3f6923f1508, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_c6bc8a9f8b74972c74ae78ab3010ef6a->m_type_description == NULL);
-    frame_c6bc8a9f8b74972c74ae78ab3010ef6a = cache_frame_c6bc8a9f8b74972c74ae78ab3010ef6a;
+    assert(cache_frame_4a6e5afffd79225a95b7e3f6923f1508->m_type_description == NULL);
+    frame_4a6e5afffd79225a95b7e3f6923f1508 = cache_frame_4a6e5afffd79225a95b7e3f6923f1508;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_c6bc8a9f8b74972c74ae78ab3010ef6a);
+    pushFrameStack(frame_4a6e5afffd79225a95b7e3f6923f1508);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_c6bc8a9f8b74972c74ae78ab3010ef6a) == 2); // Frame stack
+    assert(Py_REFCNT(frame_4a6e5afffd79225a95b7e3f6923f1508) == 2); // Frame stack
 
     // Framed code:
     {
@@ -6796,7 +6796,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__15_set_yscale(struc
     branch_no_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c6bc8a9f8b74972c74ae78ab3010ef6a);
+    RESTORE_FRAME_EXCEPTION(frame_4a6e5afffd79225a95b7e3f6923f1508);
 #endif
 
     // Put the previous frame back on top.
@@ -6807,18 +6807,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__15_set_yscale(struc
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c6bc8a9f8b74972c74ae78ab3010ef6a);
+    RESTORE_FRAME_EXCEPTION(frame_4a6e5afffd79225a95b7e3f6923f1508);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_c6bc8a9f8b74972c74ae78ab3010ef6a, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_c6bc8a9f8b74972c74ae78ab3010ef6a->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_c6bc8a9f8b74972c74ae78ab3010ef6a, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_4a6e5afffd79225a95b7e3f6923f1508, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_4a6e5afffd79225a95b7e3f6923f1508->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_4a6e5afffd79225a95b7e3f6923f1508, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_c6bc8a9f8b74972c74ae78ab3010ef6a,
+        frame_4a6e5afffd79225a95b7e3f6923f1508,
         type_description_1,
         par_self,
         par_args,
@@ -6827,17 +6827,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__15_set_yscale(struc
 
 
     // Release cached frame if used for exception.
-    if (frame_c6bc8a9f8b74972c74ae78ab3010ef6a == cache_frame_c6bc8a9f8b74972c74ae78ab3010ef6a) {
+    if (frame_4a6e5afffd79225a95b7e3f6923f1508 == cache_frame_4a6e5afffd79225a95b7e3f6923f1508) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_c6bc8a9f8b74972c74ae78ab3010ef6a);
-        cache_frame_c6bc8a9f8b74972c74ae78ab3010ef6a = NULL;
+        Py_DECREF(cache_frame_4a6e5afffd79225a95b7e3f6923f1508);
+        cache_frame_4a6e5afffd79225a95b7e3f6923f1508 = NULL;
     }
 
-    assertFrameObject(frame_c6bc8a9f8b74972c74ae78ab3010ef6a);
+    assertFrameObject(frame_4a6e5afffd79225a95b7e3f6923f1508);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -6923,13 +6923,13 @@ static PyObject *impl_matplotlib$projections$geo$$$function__16_set_xlim(struct 
     PyObject *par_self = python_pars[0];
     PyObject *par_args = python_pars[1];
     PyObject *par_kwargs = python_pars[2];
-    struct Nuitka_FrameObject *frame_32bc7e671a2d6efa5564313ffcbcb90b;
+    struct Nuitka_FrameObject *frame_9b936720bcba1cdd30abb38885667a89;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_32bc7e671a2d6efa5564313ffcbcb90b = NULL;
+    static struct Nuitka_FrameObject *cache_frame_9b936720bcba1cdd30abb38885667a89 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -6937,38 +6937,38 @@ static PyObject *impl_matplotlib$projections$geo$$$function__16_set_xlim(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_32bc7e671a2d6efa5564313ffcbcb90b)) {
-        Py_XDECREF(cache_frame_32bc7e671a2d6efa5564313ffcbcb90b);
+    if (isFrameUnusable(cache_frame_9b936720bcba1cdd30abb38885667a89)) {
+        Py_XDECREF(cache_frame_9b936720bcba1cdd30abb38885667a89);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_32bc7e671a2d6efa5564313ffcbcb90b == NULL) {
+        if (cache_frame_9b936720bcba1cdd30abb38885667a89 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_32bc7e671a2d6efa5564313ffcbcb90b = MAKE_FUNCTION_FRAME(codeobj_32bc7e671a2d6efa5564313ffcbcb90b, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_9b936720bcba1cdd30abb38885667a89 = MAKE_FUNCTION_FRAME(codeobj_9b936720bcba1cdd30abb38885667a89, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_32bc7e671a2d6efa5564313ffcbcb90b->m_type_description == NULL);
-    frame_32bc7e671a2d6efa5564313ffcbcb90b = cache_frame_32bc7e671a2d6efa5564313ffcbcb90b;
+    assert(cache_frame_9b936720bcba1cdd30abb38885667a89->m_type_description == NULL);
+    frame_9b936720bcba1cdd30abb38885667a89 = cache_frame_9b936720bcba1cdd30abb38885667a89;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_32bc7e671a2d6efa5564313ffcbcb90b);
+    pushFrameStack(frame_9b936720bcba1cdd30abb38885667a89);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_32bc7e671a2d6efa5564313ffcbcb90b) == 2); // Frame stack
+    assert(Py_REFCNT(frame_9b936720bcba1cdd30abb38885667a89) == 2); // Frame stack
 
     // Framed code:
     {
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[87];
-        frame_32bc7e671a2d6efa5564313ffcbcb90b->m_frame.f_lineno = 150;
+        frame_9b936720bcba1cdd30abb38885667a89->m_frame.f_lineno = 150;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -6979,7 +6979,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__16_set_xlim(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_32bc7e671a2d6efa5564313ffcbcb90b);
+    RESTORE_FRAME_EXCEPTION(frame_9b936720bcba1cdd30abb38885667a89);
 #endif
 
     // Put the previous frame back on top.
@@ -6990,18 +6990,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__16_set_xlim(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_32bc7e671a2d6efa5564313ffcbcb90b);
+    RESTORE_FRAME_EXCEPTION(frame_9b936720bcba1cdd30abb38885667a89);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_32bc7e671a2d6efa5564313ffcbcb90b, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_32bc7e671a2d6efa5564313ffcbcb90b->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_32bc7e671a2d6efa5564313ffcbcb90b, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_9b936720bcba1cdd30abb38885667a89, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_9b936720bcba1cdd30abb38885667a89->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_9b936720bcba1cdd30abb38885667a89, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_32bc7e671a2d6efa5564313ffcbcb90b,
+        frame_9b936720bcba1cdd30abb38885667a89,
         type_description_1,
         par_self,
         par_args,
@@ -7010,17 +7010,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__16_set_xlim(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_32bc7e671a2d6efa5564313ffcbcb90b == cache_frame_32bc7e671a2d6efa5564313ffcbcb90b) {
+    if (frame_9b936720bcba1cdd30abb38885667a89 == cache_frame_9b936720bcba1cdd30abb38885667a89) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_32bc7e671a2d6efa5564313ffcbcb90b);
-        cache_frame_32bc7e671a2d6efa5564313ffcbcb90b = NULL;
+        Py_DECREF(cache_frame_9b936720bcba1cdd30abb38885667a89);
+        cache_frame_9b936720bcba1cdd30abb38885667a89 = NULL;
     }
 
-    assertFrameObject(frame_32bc7e671a2d6efa5564313ffcbcb90b);
+    assertFrameObject(frame_9b936720bcba1cdd30abb38885667a89);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -7087,7 +7087,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__17_format_coord(str
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_fb00308d5d06ef1cf9d6d7898f131d34;
+    struct Nuitka_FrameObject *frame_91d00f9a0e426500f7037b1f9fdb60e3;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -7103,7 +7103,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__17_format_coord(str
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_fb00308d5d06ef1cf9d6d7898f131d34 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_91d00f9a0e426500f7037b1f9fdb60e3 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -7111,31 +7111,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__17_format_coord(str
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_fb00308d5d06ef1cf9d6d7898f131d34)) {
-        Py_XDECREF(cache_frame_fb00308d5d06ef1cf9d6d7898f131d34);
+    if (isFrameUnusable(cache_frame_91d00f9a0e426500f7037b1f9fdb60e3)) {
+        Py_XDECREF(cache_frame_91d00f9a0e426500f7037b1f9fdb60e3);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_fb00308d5d06ef1cf9d6d7898f131d34 == NULL) {
+        if (cache_frame_91d00f9a0e426500f7037b1f9fdb60e3 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_fb00308d5d06ef1cf9d6d7898f131d34 = MAKE_FUNCTION_FRAME(codeobj_fb00308d5d06ef1cf9d6d7898f131d34, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_91d00f9a0e426500f7037b1f9fdb60e3 = MAKE_FUNCTION_FRAME(codeobj_91d00f9a0e426500f7037b1f9fdb60e3, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_fb00308d5d06ef1cf9d6d7898f131d34->m_type_description == NULL);
-    frame_fb00308d5d06ef1cf9d6d7898f131d34 = cache_frame_fb00308d5d06ef1cf9d6d7898f131d34;
+    assert(cache_frame_91d00f9a0e426500f7037b1f9fdb60e3->m_type_description == NULL);
+    frame_91d00f9a0e426500f7037b1f9fdb60e3 = cache_frame_91d00f9a0e426500f7037b1f9fdb60e3;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_fb00308d5d06ef1cf9d6d7898f131d34);
+    pushFrameStack(frame_91d00f9a0e426500f7037b1f9fdb60e3);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_fb00308d5d06ef1cf9d6d7898f131d34) == 2); // Frame stack
+    assert(Py_REFCNT(frame_91d00f9a0e426500f7037b1f9fdb60e3) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -7168,7 +7168,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__17_format_coord(str
         CHECK_OBJECT(par_lat);
         tmp_list_element_1 = par_lat;
         PyList_SET_ITEM0(tmp_args_element_name_1, 1, tmp_list_element_1);
-        frame_fb00308d5d06ef1cf9d6d7898f131d34->m_frame.f_lineno = 157;
+        frame_91d00f9a0e426500f7037b1f9fdb60e3->m_frame.f_lineno = 157;
         tmp_iter_arg_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[3], tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_iter_arg_1 == NULL) {
@@ -7519,7 +7519,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__17_format_coord(str
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_fb00308d5d06ef1cf9d6d7898f131d34);
+    RESTORE_FRAME_EXCEPTION(frame_91d00f9a0e426500f7037b1f9fdb60e3);
 #endif
 
     // Put the previous frame back on top.
@@ -7529,7 +7529,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__17_format_coord(str
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_fb00308d5d06ef1cf9d6d7898f131d34);
+    RESTORE_FRAME_EXCEPTION(frame_91d00f9a0e426500f7037b1f9fdb60e3);
 #endif
 
     // Put the previous frame back on top.
@@ -7540,18 +7540,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__17_format_coord(str
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_fb00308d5d06ef1cf9d6d7898f131d34);
+    RESTORE_FRAME_EXCEPTION(frame_91d00f9a0e426500f7037b1f9fdb60e3);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_fb00308d5d06ef1cf9d6d7898f131d34, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_fb00308d5d06ef1cf9d6d7898f131d34->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_fb00308d5d06ef1cf9d6d7898f131d34, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_91d00f9a0e426500f7037b1f9fdb60e3, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_91d00f9a0e426500f7037b1f9fdb60e3->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_91d00f9a0e426500f7037b1f9fdb60e3, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_fb00308d5d06ef1cf9d6d7898f131d34,
+        frame_91d00f9a0e426500f7037b1f9fdb60e3,
         type_description_1,
         par_self,
         par_lon,
@@ -7562,17 +7562,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__17_format_coord(str
 
 
     // Release cached frame if used for exception.
-    if (frame_fb00308d5d06ef1cf9d6d7898f131d34 == cache_frame_fb00308d5d06ef1cf9d6d7898f131d34) {
+    if (frame_91d00f9a0e426500f7037b1f9fdb60e3 == cache_frame_91d00f9a0e426500f7037b1f9fdb60e3) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_fb00308d5d06ef1cf9d6d7898f131d34);
-        cache_frame_fb00308d5d06ef1cf9d6d7898f131d34 = NULL;
+        Py_DECREF(cache_frame_91d00f9a0e426500f7037b1f9fdb60e3);
+        cache_frame_91d00f9a0e426500f7037b1f9fdb60e3 = NULL;
     }
 
-    assertFrameObject(frame_fb00308d5d06ef1cf9d6d7898f131d34);
+    assertFrameObject(frame_91d00f9a0e426500f7037b1f9fdb60e3);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -7661,14 +7661,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__18_set_longitude_gr
     PyObject *par_self = python_pars[0];
     PyObject *par_degrees = python_pars[1];
     PyObject *var_grid = NULL;
-    struct Nuitka_FrameObject *frame_0452b1a213f8a1de7afc95f72dcc81c6;
+    struct Nuitka_FrameObject *frame_0a38fcd35148c15d7eed464bd11b53a4;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_0452b1a213f8a1de7afc95f72dcc81c6 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_0a38fcd35148c15d7eed464bd11b53a4 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -7677,31 +7677,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__18_set_longitude_gr
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_0452b1a213f8a1de7afc95f72dcc81c6)) {
-        Py_XDECREF(cache_frame_0452b1a213f8a1de7afc95f72dcc81c6);
+    if (isFrameUnusable(cache_frame_0a38fcd35148c15d7eed464bd11b53a4)) {
+        Py_XDECREF(cache_frame_0a38fcd35148c15d7eed464bd11b53a4);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_0452b1a213f8a1de7afc95f72dcc81c6 == NULL) {
+        if (cache_frame_0a38fcd35148c15d7eed464bd11b53a4 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_0452b1a213f8a1de7afc95f72dcc81c6 = MAKE_FUNCTION_FRAME(codeobj_0452b1a213f8a1de7afc95f72dcc81c6, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_0a38fcd35148c15d7eed464bd11b53a4 = MAKE_FUNCTION_FRAME(codeobj_0a38fcd35148c15d7eed464bd11b53a4, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_0452b1a213f8a1de7afc95f72dcc81c6->m_type_description == NULL);
-    frame_0452b1a213f8a1de7afc95f72dcc81c6 = cache_frame_0452b1a213f8a1de7afc95f72dcc81c6;
+    assert(cache_frame_0a38fcd35148c15d7eed464bd11b53a4->m_type_description == NULL);
+    frame_0a38fcd35148c15d7eed464bd11b53a4 = cache_frame_0a38fcd35148c15d7eed464bd11b53a4;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_0452b1a213f8a1de7afc95f72dcc81c6);
+    pushFrameStack(frame_0a38fcd35148c15d7eed464bd11b53a4);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_0452b1a213f8a1de7afc95f72dcc81c6) == 2); // Frame stack
+    assert(Py_REFCNT(frame_0a38fcd35148c15d7eed464bd11b53a4) == 2); // Frame stack
 
     // Framed code:
     {
@@ -7769,7 +7769,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__18_set_longitude_gr
         }
 
         tmp_args_element_name_3 = par_degrees;
-        frame_0452b1a213f8a1de7afc95f72dcc81c6->m_frame.f_lineno = 174;
+        frame_0a38fcd35148c15d7eed464bd11b53a4->m_frame.f_lineno = 174;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_1, call_args);
@@ -7859,7 +7859,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__18_set_longitude_gr
         }
         CHECK_OBJECT(var_grid);
         tmp_args_element_name_6 = var_grid;
-        frame_0452b1a213f8a1de7afc95f72dcc81c6->m_frame.f_lineno = 175;
+        frame_0a38fcd35148c15d7eed464bd11b53a4->m_frame.f_lineno = 175;
         tmp_args_element_name_5 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[101], tmp_args_element_name_6);
         if (tmp_args_element_name_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -7871,7 +7871,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__18_set_longitude_gr
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_0452b1a213f8a1de7afc95f72dcc81c6->m_frame.f_lineno = 175;
+        frame_0a38fcd35148c15d7eed464bd11b53a4->m_frame.f_lineno = 175;
         tmp_args_element_name_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_5);
         Py_DECREF(tmp_args_element_name_5);
         if (tmp_args_element_name_4 == NULL) {
@@ -7884,7 +7884,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__18_set_longitude_gr
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_0452b1a213f8a1de7afc95f72dcc81c6->m_frame.f_lineno = 175;
+        frame_0a38fcd35148c15d7eed464bd11b53a4->m_frame.f_lineno = 175;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_4);
@@ -7983,7 +7983,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__18_set_longitude_gr
         }
 
         tmp_args_element_name_8 = par_degrees;
-        frame_0452b1a213f8a1de7afc95f72dcc81c6->m_frame.f_lineno = 176;
+        frame_0a38fcd35148c15d7eed464bd11b53a4->m_frame.f_lineno = 176;
         tmp_args_element_name_7 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_8);
         Py_DECREF(tmp_called_name_5);
         if (tmp_args_element_name_7 == NULL) {
@@ -7996,7 +7996,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__18_set_longitude_gr
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_0452b1a213f8a1de7afc95f72dcc81c6->m_frame.f_lineno = 176;
+        frame_0a38fcd35148c15d7eed464bd11b53a4->m_frame.f_lineno = 176;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_4);
         Py_DECREF(tmp_args_element_name_7);
@@ -8014,7 +8014,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__18_set_longitude_gr
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0452b1a213f8a1de7afc95f72dcc81c6);
+    RESTORE_FRAME_EXCEPTION(frame_0a38fcd35148c15d7eed464bd11b53a4);
 #endif
 
     // Put the previous frame back on top.
@@ -8025,18 +8025,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__18_set_longitude_gr
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0452b1a213f8a1de7afc95f72dcc81c6);
+    RESTORE_FRAME_EXCEPTION(frame_0a38fcd35148c15d7eed464bd11b53a4);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_0452b1a213f8a1de7afc95f72dcc81c6, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_0452b1a213f8a1de7afc95f72dcc81c6->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_0452b1a213f8a1de7afc95f72dcc81c6, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_0a38fcd35148c15d7eed464bd11b53a4, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_0a38fcd35148c15d7eed464bd11b53a4->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_0a38fcd35148c15d7eed464bd11b53a4, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_0452b1a213f8a1de7afc95f72dcc81c6,
+        frame_0a38fcd35148c15d7eed464bd11b53a4,
         type_description_1,
         par_self,
         par_degrees,
@@ -8045,17 +8045,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__18_set_longitude_gr
 
 
     // Release cached frame if used for exception.
-    if (frame_0452b1a213f8a1de7afc95f72dcc81c6 == cache_frame_0452b1a213f8a1de7afc95f72dcc81c6) {
+    if (frame_0a38fcd35148c15d7eed464bd11b53a4 == cache_frame_0a38fcd35148c15d7eed464bd11b53a4) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_0452b1a213f8a1de7afc95f72dcc81c6);
-        cache_frame_0452b1a213f8a1de7afc95f72dcc81c6 = NULL;
+        Py_DECREF(cache_frame_0a38fcd35148c15d7eed464bd11b53a4);
+        cache_frame_0a38fcd35148c15d7eed464bd11b53a4 = NULL;
     }
 
-    assertFrameObject(frame_0452b1a213f8a1de7afc95f72dcc81c6);
+    assertFrameObject(frame_0a38fcd35148c15d7eed464bd11b53a4);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -8135,14 +8135,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__19_set_latitude_gri
     PyObject *par_self = python_pars[0];
     PyObject *par_degrees = python_pars[1];
     PyObject *var_grid = NULL;
-    struct Nuitka_FrameObject *frame_e40ed3eb2a6918f1af0e1d16e475ae4c;
+    struct Nuitka_FrameObject *frame_2e073de8eb19259b5c3dea247469c1d5;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_e40ed3eb2a6918f1af0e1d16e475ae4c = NULL;
+    static struct Nuitka_FrameObject *cache_frame_2e073de8eb19259b5c3dea247469c1d5 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -8151,31 +8151,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__19_set_latitude_gri
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_e40ed3eb2a6918f1af0e1d16e475ae4c)) {
-        Py_XDECREF(cache_frame_e40ed3eb2a6918f1af0e1d16e475ae4c);
+    if (isFrameUnusable(cache_frame_2e073de8eb19259b5c3dea247469c1d5)) {
+        Py_XDECREF(cache_frame_2e073de8eb19259b5c3dea247469c1d5);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_e40ed3eb2a6918f1af0e1d16e475ae4c == NULL) {
+        if (cache_frame_2e073de8eb19259b5c3dea247469c1d5 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_e40ed3eb2a6918f1af0e1d16e475ae4c = MAKE_FUNCTION_FRAME(codeobj_e40ed3eb2a6918f1af0e1d16e475ae4c, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_2e073de8eb19259b5c3dea247469c1d5 = MAKE_FUNCTION_FRAME(codeobj_2e073de8eb19259b5c3dea247469c1d5, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_e40ed3eb2a6918f1af0e1d16e475ae4c->m_type_description == NULL);
-    frame_e40ed3eb2a6918f1af0e1d16e475ae4c = cache_frame_e40ed3eb2a6918f1af0e1d16e475ae4c;
+    assert(cache_frame_2e073de8eb19259b5c3dea247469c1d5->m_type_description == NULL);
+    frame_2e073de8eb19259b5c3dea247469c1d5 = cache_frame_2e073de8eb19259b5c3dea247469c1d5;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_e40ed3eb2a6918f1af0e1d16e475ae4c);
+    pushFrameStack(frame_2e073de8eb19259b5c3dea247469c1d5);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_e40ed3eb2a6918f1af0e1d16e475ae4c) == 2); // Frame stack
+    assert(Py_REFCNT(frame_2e073de8eb19259b5c3dea247469c1d5) == 2); // Frame stack
 
     // Framed code:
     {
@@ -8243,7 +8243,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__19_set_latitude_gri
         }
 
         tmp_args_element_name_3 = par_degrees;
-        frame_e40ed3eb2a6918f1af0e1d16e475ae4c->m_frame.f_lineno = 183;
+        frame_2e073de8eb19259b5c3dea247469c1d5->m_frame.f_lineno = 183;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_1, call_args);
@@ -8333,7 +8333,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__19_set_latitude_gri
         }
         CHECK_OBJECT(var_grid);
         tmp_args_element_name_6 = var_grid;
-        frame_e40ed3eb2a6918f1af0e1d16e475ae4c->m_frame.f_lineno = 184;
+        frame_2e073de8eb19259b5c3dea247469c1d5->m_frame.f_lineno = 184;
         tmp_args_element_name_5 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[101], tmp_args_element_name_6);
         if (tmp_args_element_name_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -8345,7 +8345,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__19_set_latitude_gri
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_e40ed3eb2a6918f1af0e1d16e475ae4c->m_frame.f_lineno = 184;
+        frame_2e073de8eb19259b5c3dea247469c1d5->m_frame.f_lineno = 184;
         tmp_args_element_name_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_5);
         Py_DECREF(tmp_args_element_name_5);
         if (tmp_args_element_name_4 == NULL) {
@@ -8358,7 +8358,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__19_set_latitude_gri
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_e40ed3eb2a6918f1af0e1d16e475ae4c->m_frame.f_lineno = 184;
+        frame_2e073de8eb19259b5c3dea247469c1d5->m_frame.f_lineno = 184;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_4);
@@ -8457,7 +8457,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__19_set_latitude_gri
         }
 
         tmp_args_element_name_8 = par_degrees;
-        frame_e40ed3eb2a6918f1af0e1d16e475ae4c->m_frame.f_lineno = 185;
+        frame_2e073de8eb19259b5c3dea247469c1d5->m_frame.f_lineno = 185;
         tmp_args_element_name_7 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_8);
         Py_DECREF(tmp_called_name_5);
         if (tmp_args_element_name_7 == NULL) {
@@ -8470,7 +8470,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__19_set_latitude_gri
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_e40ed3eb2a6918f1af0e1d16e475ae4c->m_frame.f_lineno = 185;
+        frame_2e073de8eb19259b5c3dea247469c1d5->m_frame.f_lineno = 185;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_4);
         Py_DECREF(tmp_args_element_name_7);
@@ -8488,7 +8488,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__19_set_latitude_gri
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e40ed3eb2a6918f1af0e1d16e475ae4c);
+    RESTORE_FRAME_EXCEPTION(frame_2e073de8eb19259b5c3dea247469c1d5);
 #endif
 
     // Put the previous frame back on top.
@@ -8499,18 +8499,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__19_set_latitude_gri
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e40ed3eb2a6918f1af0e1d16e475ae4c);
+    RESTORE_FRAME_EXCEPTION(frame_2e073de8eb19259b5c3dea247469c1d5);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_e40ed3eb2a6918f1af0e1d16e475ae4c, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_e40ed3eb2a6918f1af0e1d16e475ae4c->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_e40ed3eb2a6918f1af0e1d16e475ae4c, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_2e073de8eb19259b5c3dea247469c1d5, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_2e073de8eb19259b5c3dea247469c1d5->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_2e073de8eb19259b5c3dea247469c1d5, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_e40ed3eb2a6918f1af0e1d16e475ae4c,
+        frame_2e073de8eb19259b5c3dea247469c1d5,
         type_description_1,
         par_self,
         par_degrees,
@@ -8519,17 +8519,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__19_set_latitude_gri
 
 
     // Release cached frame if used for exception.
-    if (frame_e40ed3eb2a6918f1af0e1d16e475ae4c == cache_frame_e40ed3eb2a6918f1af0e1d16e475ae4c) {
+    if (frame_2e073de8eb19259b5c3dea247469c1d5 == cache_frame_2e073de8eb19259b5c3dea247469c1d5) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_e40ed3eb2a6918f1af0e1d16e475ae4c);
-        cache_frame_e40ed3eb2a6918f1af0e1d16e475ae4c = NULL;
+        Py_DECREF(cache_frame_2e073de8eb19259b5c3dea247469c1d5);
+        cache_frame_2e073de8eb19259b5c3dea247469c1d5 = NULL;
     }
 
-    assertFrameObject(frame_e40ed3eb2a6918f1af0e1d16e475ae4c);
+    assertFrameObject(frame_2e073de8eb19259b5c3dea247469c1d5);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -8608,7 +8608,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__20_set_longitude_gr
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_degrees = python_pars[1];
-    struct Nuitka_FrameObject *frame_d5cbf4ee60196e12fa289953b7c1fb95;
+    struct Nuitka_FrameObject *frame_b7f2f8d1588a2283a3ba7e39b93f18df;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -8616,7 +8616,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__20_set_longitude_gr
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_d5cbf4ee60196e12fa289953b7c1fb95 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_b7f2f8d1588a2283a3ba7e39b93f18df = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -8625,31 +8625,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__20_set_longitude_gr
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_d5cbf4ee60196e12fa289953b7c1fb95)) {
-        Py_XDECREF(cache_frame_d5cbf4ee60196e12fa289953b7c1fb95);
+    if (isFrameUnusable(cache_frame_b7f2f8d1588a2283a3ba7e39b93f18df)) {
+        Py_XDECREF(cache_frame_b7f2f8d1588a2283a3ba7e39b93f18df);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_d5cbf4ee60196e12fa289953b7c1fb95 == NULL) {
+        if (cache_frame_b7f2f8d1588a2283a3ba7e39b93f18df == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_d5cbf4ee60196e12fa289953b7c1fb95 = MAKE_FUNCTION_FRAME(codeobj_d5cbf4ee60196e12fa289953b7c1fb95, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
+        cache_frame_b7f2f8d1588a2283a3ba7e39b93f18df = MAKE_FUNCTION_FRAME(codeobj_b7f2f8d1588a2283a3ba7e39b93f18df, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_d5cbf4ee60196e12fa289953b7c1fb95->m_type_description == NULL);
-    frame_d5cbf4ee60196e12fa289953b7c1fb95 = cache_frame_d5cbf4ee60196e12fa289953b7c1fb95;
+    assert(cache_frame_b7f2f8d1588a2283a3ba7e39b93f18df->m_type_description == NULL);
+    frame_b7f2f8d1588a2283a3ba7e39b93f18df = cache_frame_b7f2f8d1588a2283a3ba7e39b93f18df;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_d5cbf4ee60196e12fa289953b7c1fb95);
+    pushFrameStack(frame_b7f2f8d1588a2283a3ba7e39b93f18df);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_d5cbf4ee60196e12fa289953b7c1fb95) == 2); // Frame stack
+    assert(Py_REFCNT(frame_b7f2f8d1588a2283a3ba7e39b93f18df) == 2); // Frame stack
 
     // Framed code:
     {
@@ -8675,7 +8675,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__20_set_longitude_gr
         }
         CHECK_OBJECT(par_degrees);
         tmp_args_element_name_1 = par_degrees;
-        frame_d5cbf4ee60196e12fa289953b7c1fb95->m_frame.f_lineno = 191;
+        frame_b7f2f8d1588a2283a3ba7e39b93f18df->m_frame.f_lineno = 191;
         tmp_assattr_name_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[101], tmp_args_element_name_1);
         if (tmp_assattr_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -8732,7 +8732,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__20_set_longitude_gr
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_d5cbf4ee60196e12fa289953b7c1fb95->m_frame.f_lineno = 192;
+        frame_b7f2f8d1588a2283a3ba7e39b93f18df->m_frame.f_lineno = 192;
         tmp_expression_name_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[108]);
         Py_DECREF(tmp_called_instance_2);
         if (tmp_expression_name_2 == NULL) {
@@ -8795,7 +8795,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__20_set_longitude_gr
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_d5cbf4ee60196e12fa289953b7c1fb95->m_frame.f_lineno = 192;
+        frame_b7f2f8d1588a2283a3ba7e39b93f18df->m_frame.f_lineno = 192;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_expression_name_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -8862,7 +8862,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__20_set_longitude_gr
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_d5cbf4ee60196e12fa289953b7c1fb95->m_frame.f_lineno = 192;
+        frame_b7f2f8d1588a2283a3ba7e39b93f18df->m_frame.f_lineno = 192;
         {
             PyObject *call_args[] = {tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_call_result_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -8884,7 +8884,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__20_set_longitude_gr
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d5cbf4ee60196e12fa289953b7c1fb95);
+    RESTORE_FRAME_EXCEPTION(frame_b7f2f8d1588a2283a3ba7e39b93f18df);
 #endif
 
     // Put the previous frame back on top.
@@ -8895,18 +8895,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__20_set_longitude_gr
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d5cbf4ee60196e12fa289953b7c1fb95);
+    RESTORE_FRAME_EXCEPTION(frame_b7f2f8d1588a2283a3ba7e39b93f18df);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_d5cbf4ee60196e12fa289953b7c1fb95, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_d5cbf4ee60196e12fa289953b7c1fb95->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_d5cbf4ee60196e12fa289953b7c1fb95, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_b7f2f8d1588a2283a3ba7e39b93f18df, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_b7f2f8d1588a2283a3ba7e39b93f18df->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_b7f2f8d1588a2283a3ba7e39b93f18df, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_d5cbf4ee60196e12fa289953b7c1fb95,
+        frame_b7f2f8d1588a2283a3ba7e39b93f18df,
         type_description_1,
         par_self,
         par_degrees
@@ -8914,17 +8914,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__20_set_longitude_gr
 
 
     // Release cached frame if used for exception.
-    if (frame_d5cbf4ee60196e12fa289953b7c1fb95 == cache_frame_d5cbf4ee60196e12fa289953b7c1fb95) {
+    if (frame_b7f2f8d1588a2283a3ba7e39b93f18df == cache_frame_b7f2f8d1588a2283a3ba7e39b93f18df) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_d5cbf4ee60196e12fa289953b7c1fb95);
-        cache_frame_d5cbf4ee60196e12fa289953b7c1fb95 = NULL;
+        Py_DECREF(cache_frame_b7f2f8d1588a2283a3ba7e39b93f18df);
+        cache_frame_b7f2f8d1588a2283a3ba7e39b93f18df = NULL;
     }
 
-    assertFrameObject(frame_d5cbf4ee60196e12fa289953b7c1fb95);
+    assertFrameObject(frame_b7f2f8d1588a2283a3ba7e39b93f18df);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -9312,7 +9312,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__27___init__(struct 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_resolution = python_pars[1];
-    struct Nuitka_FrameObject *frame_55425009fbb2456af7adb3fec57fa3d2;
+    struct Nuitka_FrameObject *frame_8d8e5615fcc7389d974758b7aa6bf357;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -9320,7 +9320,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__27___init__(struct 
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_55425009fbb2456af7adb3fec57fa3d2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_8d8e5615fcc7389d974758b7aa6bf357 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -9329,31 +9329,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__27___init__(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_55425009fbb2456af7adb3fec57fa3d2)) {
-        Py_XDECREF(cache_frame_55425009fbb2456af7adb3fec57fa3d2);
+    if (isFrameUnusable(cache_frame_8d8e5615fcc7389d974758b7aa6bf357)) {
+        Py_XDECREF(cache_frame_8d8e5615fcc7389d974758b7aa6bf357);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_55425009fbb2456af7adb3fec57fa3d2 == NULL) {
+        if (cache_frame_8d8e5615fcc7389d974758b7aa6bf357 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_55425009fbb2456af7adb3fec57fa3d2 = MAKE_FUNCTION_FRAME(codeobj_55425009fbb2456af7adb3fec57fa3d2, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
+        cache_frame_8d8e5615fcc7389d974758b7aa6bf357 = MAKE_FUNCTION_FRAME(codeobj_8d8e5615fcc7389d974758b7aa6bf357, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_55425009fbb2456af7adb3fec57fa3d2->m_type_description == NULL);
-    frame_55425009fbb2456af7adb3fec57fa3d2 = cache_frame_55425009fbb2456af7adb3fec57fa3d2;
+    assert(cache_frame_8d8e5615fcc7389d974758b7aa6bf357->m_type_description == NULL);
+    frame_8d8e5615fcc7389d974758b7aa6bf357 = cache_frame_8d8e5615fcc7389d974758b7aa6bf357;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_55425009fbb2456af7adb3fec57fa3d2);
+    pushFrameStack(frame_8d8e5615fcc7389d974758b7aa6bf357);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_55425009fbb2456af7adb3fec57fa3d2) == 2); // Frame stack
+    assert(Py_REFCNT(frame_8d8e5615fcc7389d974758b7aa6bf357) == 2); // Frame stack
 
     // Framed code:
     {
@@ -9378,7 +9378,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__27___init__(struct 
         }
         CHECK_OBJECT(par_self);
         tmp_args_element_name_1 = par_self;
-        frame_55425009fbb2456af7adb3fec57fa3d2->m_frame.f_lineno = 240;
+        frame_8d8e5615fcc7389d974758b7aa6bf357->m_frame.f_lineno = 240;
         tmp_call_result_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[115], tmp_args_element_name_1);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -9424,7 +9424,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__27___init__(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_55425009fbb2456af7adb3fec57fa3d2);
+    RESTORE_FRAME_EXCEPTION(frame_8d8e5615fcc7389d974758b7aa6bf357);
 #endif
 
     // Put the previous frame back on top.
@@ -9435,18 +9435,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__27___init__(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_55425009fbb2456af7adb3fec57fa3d2);
+    RESTORE_FRAME_EXCEPTION(frame_8d8e5615fcc7389d974758b7aa6bf357);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_55425009fbb2456af7adb3fec57fa3d2, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_55425009fbb2456af7adb3fec57fa3d2->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_55425009fbb2456af7adb3fec57fa3d2, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_8d8e5615fcc7389d974758b7aa6bf357, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_8d8e5615fcc7389d974758b7aa6bf357->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_8d8e5615fcc7389d974758b7aa6bf357, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_55425009fbb2456af7adb3fec57fa3d2,
+        frame_8d8e5615fcc7389d974758b7aa6bf357,
         type_description_1,
         par_self,
         par_resolution
@@ -9454,17 +9454,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__27___init__(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_55425009fbb2456af7adb3fec57fa3d2 == cache_frame_55425009fbb2456af7adb3fec57fa3d2) {
+    if (frame_8d8e5615fcc7389d974758b7aa6bf357 == cache_frame_8d8e5615fcc7389d974758b7aa6bf357) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_55425009fbb2456af7adb3fec57fa3d2);
-        cache_frame_55425009fbb2456af7adb3fec57fa3d2 = NULL;
+        Py_DECREF(cache_frame_8d8e5615fcc7389d974758b7aa6bf357);
+        cache_frame_8d8e5615fcc7389d974758b7aa6bf357 = NULL;
     }
 
-    assertFrameObject(frame_55425009fbb2456af7adb3fec57fa3d2);
+    assertFrameObject(frame_8d8e5615fcc7389d974758b7aa6bf357);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -9540,14 +9540,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__28___str__(struct N
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_82bb66253de5363653198f5259f0cc96;
+    struct Nuitka_FrameObject *frame_564b85529107c29f6c212bc07100b201;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_82bb66253de5363653198f5259f0cc96 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_564b85529107c29f6c212bc07100b201 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -9555,31 +9555,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__28___str__(struct N
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_82bb66253de5363653198f5259f0cc96)) {
-        Py_XDECREF(cache_frame_82bb66253de5363653198f5259f0cc96);
+    if (isFrameUnusable(cache_frame_564b85529107c29f6c212bc07100b201)) {
+        Py_XDECREF(cache_frame_564b85529107c29f6c212bc07100b201);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_82bb66253de5363653198f5259f0cc96 == NULL) {
+        if (cache_frame_564b85529107c29f6c212bc07100b201 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_82bb66253de5363653198f5259f0cc96 = MAKE_FUNCTION_FRAME(codeobj_82bb66253de5363653198f5259f0cc96, module_matplotlib$projections$geo, sizeof(void *));
+        cache_frame_564b85529107c29f6c212bc07100b201 = MAKE_FUNCTION_FRAME(codeobj_564b85529107c29f6c212bc07100b201, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_82bb66253de5363653198f5259f0cc96->m_type_description == NULL);
-    frame_82bb66253de5363653198f5259f0cc96 = cache_frame_82bb66253de5363653198f5259f0cc96;
+    assert(cache_frame_564b85529107c29f6c212bc07100b201->m_type_description == NULL);
+    frame_564b85529107c29f6c212bc07100b201 = cache_frame_564b85529107c29f6c212bc07100b201;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_82bb66253de5363653198f5259f0cc96);
+    pushFrameStack(frame_564b85529107c29f6c212bc07100b201);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_82bb66253de5363653198f5259f0cc96) == 2); // Frame stack
+    assert(Py_REFCNT(frame_564b85529107c29f6c212bc07100b201) == 2); // Frame stack
 
     // Framed code:
     {
@@ -9623,7 +9623,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__28___str__(struct N
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_82bb66253de5363653198f5259f0cc96->m_frame.f_lineno = 244;
+        frame_564b85529107c29f6c212bc07100b201->m_frame.f_lineno = 244;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -9646,7 +9646,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__28___str__(struct N
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_82bb66253de5363653198f5259f0cc96);
+    RESTORE_FRAME_EXCEPTION(frame_564b85529107c29f6c212bc07100b201);
 #endif
 
     // Put the previous frame back on top.
@@ -9656,7 +9656,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__28___str__(struct N
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_82bb66253de5363653198f5259f0cc96);
+    RESTORE_FRAME_EXCEPTION(frame_564b85529107c29f6c212bc07100b201);
 #endif
 
     // Put the previous frame back on top.
@@ -9667,35 +9667,35 @@ static PyObject *impl_matplotlib$projections$geo$$$function__28___str__(struct N
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_82bb66253de5363653198f5259f0cc96);
+    RESTORE_FRAME_EXCEPTION(frame_564b85529107c29f6c212bc07100b201);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_82bb66253de5363653198f5259f0cc96, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_82bb66253de5363653198f5259f0cc96->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_82bb66253de5363653198f5259f0cc96, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_564b85529107c29f6c212bc07100b201, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_564b85529107c29f6c212bc07100b201->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_564b85529107c29f6c212bc07100b201, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_82bb66253de5363653198f5259f0cc96,
+        frame_564b85529107c29f6c212bc07100b201,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_82bb66253de5363653198f5259f0cc96 == cache_frame_82bb66253de5363653198f5259f0cc96) {
+    if (frame_564b85529107c29f6c212bc07100b201 == cache_frame_564b85529107c29f6c212bc07100b201) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_82bb66253de5363653198f5259f0cc96);
-        cache_frame_82bb66253de5363653198f5259f0cc96 = NULL;
+        Py_DECREF(cache_frame_564b85529107c29f6c212bc07100b201);
+        cache_frame_564b85529107c29f6c212bc07100b201 = NULL;
     }
 
-    assertFrameObject(frame_82bb66253de5363653198f5259f0cc96);
+    assertFrameObject(frame_564b85529107c29f6c212bc07100b201);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -9764,14 +9764,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__29_transform_path_n
     PyObject *par_self = python_pars[0];
     PyObject *par_path = python_pars[1];
     PyObject *var_ipath = NULL;
-    struct Nuitka_FrameObject *frame_5c8e06b01de2642fc08448b1745f3808;
+    struct Nuitka_FrameObject *frame_2beed6603f46347aa50148728a6bdd5c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_5c8e06b01de2642fc08448b1745f3808 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_2beed6603f46347aa50148728a6bdd5c = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -9779,31 +9779,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__29_transform_path_n
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_5c8e06b01de2642fc08448b1745f3808)) {
-        Py_XDECREF(cache_frame_5c8e06b01de2642fc08448b1745f3808);
+    if (isFrameUnusable(cache_frame_2beed6603f46347aa50148728a6bdd5c)) {
+        Py_XDECREF(cache_frame_2beed6603f46347aa50148728a6bdd5c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_5c8e06b01de2642fc08448b1745f3808 == NULL) {
+        if (cache_frame_2beed6603f46347aa50148728a6bdd5c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_5c8e06b01de2642fc08448b1745f3808 = MAKE_FUNCTION_FRAME(codeobj_5c8e06b01de2642fc08448b1745f3808, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_2beed6603f46347aa50148728a6bdd5c = MAKE_FUNCTION_FRAME(codeobj_2beed6603f46347aa50148728a6bdd5c, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_5c8e06b01de2642fc08448b1745f3808->m_type_description == NULL);
-    frame_5c8e06b01de2642fc08448b1745f3808 = cache_frame_5c8e06b01de2642fc08448b1745f3808;
+    assert(cache_frame_2beed6603f46347aa50148728a6bdd5c->m_type_description == NULL);
+    frame_2beed6603f46347aa50148728a6bdd5c = cache_frame_2beed6603f46347aa50148728a6bdd5c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_5c8e06b01de2642fc08448b1745f3808);
+    pushFrameStack(frame_2beed6603f46347aa50148728a6bdd5c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_5c8e06b01de2642fc08448b1745f3808) == 2); // Frame stack
+    assert(Py_REFCNT(frame_2beed6603f46347aa50148728a6bdd5c) == 2); // Frame stack
 
     // Framed code:
     {
@@ -9838,7 +9838,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__29_transform_path_n
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_5c8e06b01de2642fc08448b1745f3808->m_frame.f_lineno = 248;
+        frame_2beed6603f46347aa50148728a6bdd5c->m_frame.f_lineno = 248;
         tmp_assign_source_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -9917,7 +9917,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__29_transform_path_n
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_5c8e06b01de2642fc08448b1745f3808->m_frame.f_lineno = 249;
+        frame_2beed6603f46347aa50148728a6bdd5c->m_frame.f_lineno = 249;
         tmp_args_element_name_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_3);
@@ -9955,7 +9955,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__29_transform_path_n
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_5c8e06b01de2642fc08448b1745f3808->m_frame.f_lineno = 249;
+        frame_2beed6603f46347aa50148728a6bdd5c->m_frame.f_lineno = 249;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_4};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -9977,7 +9977,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__29_transform_path_n
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_5c8e06b01de2642fc08448b1745f3808);
+    RESTORE_FRAME_EXCEPTION(frame_2beed6603f46347aa50148728a6bdd5c);
 #endif
 
     // Put the previous frame back on top.
@@ -9987,7 +9987,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__29_transform_path_n
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_5c8e06b01de2642fc08448b1745f3808);
+    RESTORE_FRAME_EXCEPTION(frame_2beed6603f46347aa50148728a6bdd5c);
 #endif
 
     // Put the previous frame back on top.
@@ -9998,18 +9998,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__29_transform_path_n
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_5c8e06b01de2642fc08448b1745f3808);
+    RESTORE_FRAME_EXCEPTION(frame_2beed6603f46347aa50148728a6bdd5c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_5c8e06b01de2642fc08448b1745f3808, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_5c8e06b01de2642fc08448b1745f3808->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_5c8e06b01de2642fc08448b1745f3808, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_2beed6603f46347aa50148728a6bdd5c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_2beed6603f46347aa50148728a6bdd5c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_2beed6603f46347aa50148728a6bdd5c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_5c8e06b01de2642fc08448b1745f3808,
+        frame_2beed6603f46347aa50148728a6bdd5c,
         type_description_1,
         par_self,
         par_path,
@@ -10018,17 +10018,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__29_transform_path_n
 
 
     // Release cached frame if used for exception.
-    if (frame_5c8e06b01de2642fc08448b1745f3808 == cache_frame_5c8e06b01de2642fc08448b1745f3808) {
+    if (frame_2beed6603f46347aa50148728a6bdd5c == cache_frame_2beed6603f46347aa50148728a6bdd5c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_5c8e06b01de2642fc08448b1745f3808);
-        cache_frame_5c8e06b01de2642fc08448b1745f3808 = NULL;
+        Py_DECREF(cache_frame_2beed6603f46347aa50148728a6bdd5c);
+        cache_frame_2beed6603f46347aa50148728a6bdd5c = NULL;
     }
 
-    assertFrameObject(frame_5c8e06b01de2642fc08448b1745f3808);
+    assertFrameObject(frame_2beed6603f46347aa50148728a6bdd5c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -10115,7 +10115,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__30_transform_non_af
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_6da51018c1f660a374d47f3ca8fd9462;
+    struct Nuitka_FrameObject *frame_3c3cbacdfa106c01c88e566cf651e811;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -10132,7 +10132,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__30_transform_non_af
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     bool tmp_result;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_6da51018c1f660a374d47f3ca8fd9462 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_3c3cbacdfa106c01c88e566cf651e811 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -10140,31 +10140,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__30_transform_non_af
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_6da51018c1f660a374d47f3ca8fd9462)) {
-        Py_XDECREF(cache_frame_6da51018c1f660a374d47f3ca8fd9462);
+    if (isFrameUnusable(cache_frame_3c3cbacdfa106c01c88e566cf651e811)) {
+        Py_XDECREF(cache_frame_3c3cbacdfa106c01c88e566cf651e811);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_6da51018c1f660a374d47f3ca8fd9462 == NULL) {
+        if (cache_frame_3c3cbacdfa106c01c88e566cf651e811 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_6da51018c1f660a374d47f3ca8fd9462 = MAKE_FUNCTION_FRAME(codeobj_6da51018c1f660a374d47f3ca8fd9462, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_3c3cbacdfa106c01c88e566cf651e811 = MAKE_FUNCTION_FRAME(codeobj_3c3cbacdfa106c01c88e566cf651e811, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_6da51018c1f660a374d47f3ca8fd9462->m_type_description == NULL);
-    frame_6da51018c1f660a374d47f3ca8fd9462 = cache_frame_6da51018c1f660a374d47f3ca8fd9462;
+    assert(cache_frame_3c3cbacdfa106c01c88e566cf651e811->m_type_description == NULL);
+    frame_3c3cbacdfa106c01c88e566cf651e811 = cache_frame_3c3cbacdfa106c01c88e566cf651e811;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_6da51018c1f660a374d47f3ca8fd9462);
+    pushFrameStack(frame_3c3cbacdfa106c01c88e566cf651e811);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_6da51018c1f660a374d47f3ca8fd9462) == 2); // Frame stack
+    assert(Py_REFCNT(frame_3c3cbacdfa106c01c88e566cf651e811) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -10405,7 +10405,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__30_transform_non_af
         }
         CHECK_OBJECT(var_latitude);
         tmp_args_element_name_1 = var_latitude;
-        frame_6da51018c1f660a374d47f3ca8fd9462->m_frame.f_lineno = 264;
+        frame_3c3cbacdfa106c01c88e566cf651e811->m_frame.f_lineno = 264;
         tmp_assign_source_7 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[127], tmp_args_element_name_1);
         if (tmp_assign_source_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10476,7 +10476,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__30_transform_non_af
         }
         CHECK_OBJECT(var_half_long);
         tmp_args_element_name_3 = var_half_long;
-        frame_6da51018c1f660a374d47f3ca8fd9462->m_frame.f_lineno = 266;
+        frame_3c3cbacdfa106c01c88e566cf651e811->m_frame.f_lineno = 266;
         tmp_right_name_2 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[127], tmp_args_element_name_3);
         if (tmp_right_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10500,7 +10500,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__30_transform_non_af
             type_description_1 = "oooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_6da51018c1f660a374d47f3ca8fd9462->m_frame.f_lineno = 266;
+        frame_3c3cbacdfa106c01c88e566cf651e811->m_frame.f_lineno = 266;
         tmp_assign_source_8 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_2);
@@ -10600,7 +10600,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__30_transform_non_af
         }
 
         tmp_args_element_name_4 = var_alpha;
-        frame_6da51018c1f660a374d47f3ca8fd9462->m_frame.f_lineno = 270;
+        frame_3c3cbacdfa106c01c88e566cf651e811->m_frame.f_lineno = 270;
         tmp_left_name_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_2);
         if (tmp_left_name_3 == NULL) {
@@ -10703,7 +10703,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__30_transform_non_af
         }
 
         tmp_args_element_name_5 = var_half_long;
-        frame_6da51018c1f660a374d47f3ca8fd9462->m_frame.f_lineno = 272;
+        frame_3c3cbacdfa106c01c88e566cf651e811->m_frame.f_lineno = 272;
         tmp_right_name_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_5);
         Py_DECREF(tmp_called_name_3);
         if (tmp_right_name_4 == NULL) {
@@ -10792,7 +10792,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__30_transform_non_af
         }
 
         tmp_args_element_name_6 = var_latitude;
-        frame_6da51018c1f660a374d47f3ca8fd9462->m_frame.f_lineno = 273;
+        frame_3c3cbacdfa106c01c88e566cf651e811->m_frame.f_lineno = 273;
         tmp_left_name_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_4);
         if (tmp_left_name_6 == NULL) {
@@ -10860,7 +10860,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__30_transform_non_af
         CHECK_OBJECT(var_y);
         tmp_list_element_1 = var_y;
         PyList_SET_ITEM0(tmp_args_element_name_7, 1, tmp_list_element_1);
-        frame_6da51018c1f660a374d47f3ca8fd9462->m_frame.f_lineno = 274;
+        frame_3c3cbacdfa106c01c88e566cf651e811->m_frame.f_lineno = 274;
         tmp_return_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[136], tmp_args_element_name_7);
         Py_DECREF(tmp_args_element_name_7);
         if (tmp_return_value == NULL) {
@@ -10877,7 +10877,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__30_transform_non_af
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6da51018c1f660a374d47f3ca8fd9462);
+    RESTORE_FRAME_EXCEPTION(frame_3c3cbacdfa106c01c88e566cf651e811);
 #endif
 
     // Put the previous frame back on top.
@@ -10887,7 +10887,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__30_transform_non_af
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6da51018c1f660a374d47f3ca8fd9462);
+    RESTORE_FRAME_EXCEPTION(frame_3c3cbacdfa106c01c88e566cf651e811);
 #endif
 
     // Put the previous frame back on top.
@@ -10898,18 +10898,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__30_transform_non_af
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6da51018c1f660a374d47f3ca8fd9462);
+    RESTORE_FRAME_EXCEPTION(frame_3c3cbacdfa106c01c88e566cf651e811);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_6da51018c1f660a374d47f3ca8fd9462, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_6da51018c1f660a374d47f3ca8fd9462->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_6da51018c1f660a374d47f3ca8fd9462, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_3c3cbacdfa106c01c88e566cf651e811, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_3c3cbacdfa106c01c88e566cf651e811->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_3c3cbacdfa106c01c88e566cf651e811, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_6da51018c1f660a374d47f3ca8fd9462,
+        frame_3c3cbacdfa106c01c88e566cf651e811,
         type_description_1,
         par_self,
         par_ll,
@@ -10925,17 +10925,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__30_transform_non_af
 
 
     // Release cached frame if used for exception.
-    if (frame_6da51018c1f660a374d47f3ca8fd9462 == cache_frame_6da51018c1f660a374d47f3ca8fd9462) {
+    if (frame_3c3cbacdfa106c01c88e566cf651e811 == cache_frame_3c3cbacdfa106c01c88e566cf651e811) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_6da51018c1f660a374d47f3ca8fd9462);
-        cache_frame_6da51018c1f660a374d47f3ca8fd9462 = NULL;
+        Py_DECREF(cache_frame_3c3cbacdfa106c01c88e566cf651e811);
+        cache_frame_3c3cbacdfa106c01c88e566cf651e811 = NULL;
     }
 
-    assertFrameObject(frame_6da51018c1f660a374d47f3ca8fd9462);
+    assertFrameObject(frame_3c3cbacdfa106c01c88e566cf651e811);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -11040,14 +11040,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__31_inverted(struct 
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_b89609fc85dd2fd8b78d0cbcf88857e2;
+    struct Nuitka_FrameObject *frame_c11ae94e8bf34b8cde8648552d532cdf;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_b89609fc85dd2fd8b78d0cbcf88857e2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_c11ae94e8bf34b8cde8648552d532cdf = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -11055,31 +11055,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__31_inverted(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_b89609fc85dd2fd8b78d0cbcf88857e2)) {
-        Py_XDECREF(cache_frame_b89609fc85dd2fd8b78d0cbcf88857e2);
+    if (isFrameUnusable(cache_frame_c11ae94e8bf34b8cde8648552d532cdf)) {
+        Py_XDECREF(cache_frame_c11ae94e8bf34b8cde8648552d532cdf);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_b89609fc85dd2fd8b78d0cbcf88857e2 == NULL) {
+        if (cache_frame_c11ae94e8bf34b8cde8648552d532cdf == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_b89609fc85dd2fd8b78d0cbcf88857e2 = MAKE_FUNCTION_FRAME(codeobj_b89609fc85dd2fd8b78d0cbcf88857e2, module_matplotlib$projections$geo, sizeof(void *));
+        cache_frame_c11ae94e8bf34b8cde8648552d532cdf = MAKE_FUNCTION_FRAME(codeobj_c11ae94e8bf34b8cde8648552d532cdf, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_b89609fc85dd2fd8b78d0cbcf88857e2->m_type_description == NULL);
-    frame_b89609fc85dd2fd8b78d0cbcf88857e2 = cache_frame_b89609fc85dd2fd8b78d0cbcf88857e2;
+    assert(cache_frame_c11ae94e8bf34b8cde8648552d532cdf->m_type_description == NULL);
+    frame_c11ae94e8bf34b8cde8648552d532cdf = cache_frame_c11ae94e8bf34b8cde8648552d532cdf;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_b89609fc85dd2fd8b78d0cbcf88857e2);
+    pushFrameStack(frame_c11ae94e8bf34b8cde8648552d532cdf);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_b89609fc85dd2fd8b78d0cbcf88857e2) == 2); // Frame stack
+    assert(Py_REFCNT(frame_c11ae94e8bf34b8cde8648552d532cdf) == 2); // Frame stack
 
     // Framed code:
     {
@@ -11127,7 +11127,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__31_inverted(struct 
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_b89609fc85dd2fd8b78d0cbcf88857e2->m_frame.f_lineno = 278;
+        frame_c11ae94e8bf34b8cde8648552d532cdf->m_frame.f_lineno = 278;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -11145,7 +11145,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__31_inverted(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b89609fc85dd2fd8b78d0cbcf88857e2);
+    RESTORE_FRAME_EXCEPTION(frame_c11ae94e8bf34b8cde8648552d532cdf);
 #endif
 
     // Put the previous frame back on top.
@@ -11155,7 +11155,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__31_inverted(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b89609fc85dd2fd8b78d0cbcf88857e2);
+    RESTORE_FRAME_EXCEPTION(frame_c11ae94e8bf34b8cde8648552d532cdf);
 #endif
 
     // Put the previous frame back on top.
@@ -11166,35 +11166,35 @@ static PyObject *impl_matplotlib$projections$geo$$$function__31_inverted(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b89609fc85dd2fd8b78d0cbcf88857e2);
+    RESTORE_FRAME_EXCEPTION(frame_c11ae94e8bf34b8cde8648552d532cdf);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_b89609fc85dd2fd8b78d0cbcf88857e2, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_b89609fc85dd2fd8b78d0cbcf88857e2->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_b89609fc85dd2fd8b78d0cbcf88857e2, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_c11ae94e8bf34b8cde8648552d532cdf, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_c11ae94e8bf34b8cde8648552d532cdf->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_c11ae94e8bf34b8cde8648552d532cdf, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_b89609fc85dd2fd8b78d0cbcf88857e2,
+        frame_c11ae94e8bf34b8cde8648552d532cdf,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_b89609fc85dd2fd8b78d0cbcf88857e2 == cache_frame_b89609fc85dd2fd8b78d0cbcf88857e2) {
+    if (frame_c11ae94e8bf34b8cde8648552d532cdf == cache_frame_c11ae94e8bf34b8cde8648552d532cdf) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_b89609fc85dd2fd8b78d0cbcf88857e2);
-        cache_frame_b89609fc85dd2fd8b78d0cbcf88857e2 = NULL;
+        Py_DECREF(cache_frame_c11ae94e8bf34b8cde8648552d532cdf);
+        cache_frame_c11ae94e8bf34b8cde8648552d532cdf = NULL;
     }
 
-    assertFrameObject(frame_b89609fc85dd2fd8b78d0cbcf88857e2);
+    assertFrameObject(frame_c11ae94e8bf34b8cde8648552d532cdf);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -11307,14 +11307,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__33_inverted(struct 
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_01018f550e6cba3bbbba3b04c8404767;
+    struct Nuitka_FrameObject *frame_52b4b5143d4584229a6ab6e0c9de4889;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_01018f550e6cba3bbbba3b04c8404767 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_52b4b5143d4584229a6ab6e0c9de4889 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -11322,31 +11322,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__33_inverted(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_01018f550e6cba3bbbba3b04c8404767)) {
-        Py_XDECREF(cache_frame_01018f550e6cba3bbbba3b04c8404767);
+    if (isFrameUnusable(cache_frame_52b4b5143d4584229a6ab6e0c9de4889)) {
+        Py_XDECREF(cache_frame_52b4b5143d4584229a6ab6e0c9de4889);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_01018f550e6cba3bbbba3b04c8404767 == NULL) {
+        if (cache_frame_52b4b5143d4584229a6ab6e0c9de4889 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_01018f550e6cba3bbbba3b04c8404767 = MAKE_FUNCTION_FRAME(codeobj_01018f550e6cba3bbbba3b04c8404767, module_matplotlib$projections$geo, sizeof(void *));
+        cache_frame_52b4b5143d4584229a6ab6e0c9de4889 = MAKE_FUNCTION_FRAME(codeobj_52b4b5143d4584229a6ab6e0c9de4889, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_01018f550e6cba3bbbba3b04c8404767->m_type_description == NULL);
-    frame_01018f550e6cba3bbbba3b04c8404767 = cache_frame_01018f550e6cba3bbbba3b04c8404767;
+    assert(cache_frame_52b4b5143d4584229a6ab6e0c9de4889->m_type_description == NULL);
+    frame_52b4b5143d4584229a6ab6e0c9de4889 = cache_frame_52b4b5143d4584229a6ab6e0c9de4889;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_01018f550e6cba3bbbba3b04c8404767);
+    pushFrameStack(frame_52b4b5143d4584229a6ab6e0c9de4889);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_01018f550e6cba3bbbba3b04c8404767) == 2); // Frame stack
+    assert(Py_REFCNT(frame_52b4b5143d4584229a6ab6e0c9de4889) == 2); // Frame stack
 
     // Framed code:
     {
@@ -11394,7 +11394,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__33_inverted(struct 
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_01018f550e6cba3bbbba3b04c8404767->m_frame.f_lineno = 289;
+        frame_52b4b5143d4584229a6ab6e0c9de4889->m_frame.f_lineno = 289;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -11412,7 +11412,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__33_inverted(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_01018f550e6cba3bbbba3b04c8404767);
+    RESTORE_FRAME_EXCEPTION(frame_52b4b5143d4584229a6ab6e0c9de4889);
 #endif
 
     // Put the previous frame back on top.
@@ -11422,7 +11422,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__33_inverted(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_01018f550e6cba3bbbba3b04c8404767);
+    RESTORE_FRAME_EXCEPTION(frame_52b4b5143d4584229a6ab6e0c9de4889);
 #endif
 
     // Put the previous frame back on top.
@@ -11433,35 +11433,35 @@ static PyObject *impl_matplotlib$projections$geo$$$function__33_inverted(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_01018f550e6cba3bbbba3b04c8404767);
+    RESTORE_FRAME_EXCEPTION(frame_52b4b5143d4584229a6ab6e0c9de4889);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_01018f550e6cba3bbbba3b04c8404767, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_01018f550e6cba3bbbba3b04c8404767->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_01018f550e6cba3bbbba3b04c8404767, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_52b4b5143d4584229a6ab6e0c9de4889, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_52b4b5143d4584229a6ab6e0c9de4889->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_52b4b5143d4584229a6ab6e0c9de4889, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_01018f550e6cba3bbbba3b04c8404767,
+        frame_52b4b5143d4584229a6ab6e0c9de4889,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_01018f550e6cba3bbbba3b04c8404767 == cache_frame_01018f550e6cba3bbbba3b04c8404767) {
+    if (frame_52b4b5143d4584229a6ab6e0c9de4889 == cache_frame_52b4b5143d4584229a6ab6e0c9de4889) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_01018f550e6cba3bbbba3b04c8404767);
-        cache_frame_01018f550e6cba3bbbba3b04c8404767 = NULL;
+        Py_DECREF(cache_frame_52b4b5143d4584229a6ab6e0c9de4889);
+        cache_frame_52b4b5143d4584229a6ab6e0c9de4889 = NULL;
     }
 
-    assertFrameObject(frame_01018f550e6cba3bbbba3b04c8404767);
+    assertFrameObject(frame_52b4b5143d4584229a6ab6e0c9de4889);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -11530,7 +11530,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__34___init__(struct 
     PyObject *par_self = python_pars[0];
     PyObject *par_args = python_pars[1];
     PyObject *par_kwargs = python_pars[2];
-    struct Nuitka_FrameObject *frame_871d3433cd77644a22767ce8cad38150;
+    struct Nuitka_FrameObject *frame_41707ec5668853b4c3968fe624434d99;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -11538,7 +11538,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__34___init__(struct 
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_871d3433cd77644a22767ce8cad38150 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_41707ec5668853b4c3968fe624434d99 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -11547,31 +11547,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__34___init__(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_871d3433cd77644a22767ce8cad38150)) {
-        Py_XDECREF(cache_frame_871d3433cd77644a22767ce8cad38150);
+    if (isFrameUnusable(cache_frame_41707ec5668853b4c3968fe624434d99)) {
+        Py_XDECREF(cache_frame_41707ec5668853b4c3968fe624434d99);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_871d3433cd77644a22767ce8cad38150 == NULL) {
+        if (cache_frame_41707ec5668853b4c3968fe624434d99 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_871d3433cd77644a22767ce8cad38150 = MAKE_FUNCTION_FRAME(codeobj_871d3433cd77644a22767ce8cad38150, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_41707ec5668853b4c3968fe624434d99 = MAKE_FUNCTION_FRAME(codeobj_41707ec5668853b4c3968fe624434d99, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_871d3433cd77644a22767ce8cad38150->m_type_description == NULL);
-    frame_871d3433cd77644a22767ce8cad38150 = cache_frame_871d3433cd77644a22767ce8cad38150;
+    assert(cache_frame_41707ec5668853b4c3968fe624434d99->m_type_description == NULL);
+    frame_41707ec5668853b4c3968fe624434d99 = cache_frame_41707ec5668853b4c3968fe624434d99;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_871d3433cd77644a22767ce8cad38150);
+    pushFrameStack(frame_41707ec5668853b4c3968fe624434d99);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_871d3433cd77644a22767ce8cad38150) == 2); // Frame stack
+    assert(Py_REFCNT(frame_41707ec5668853b4c3968fe624434d99) == 2); // Frame stack
 
     // Framed code:
     {
@@ -11718,7 +11718,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__34___init__(struct 
         }
         tmp_args_name_1 = mod_consts[142];
         tmp_kwargs_name_1 = PyDict_Copy(mod_consts[143]);
-        frame_871d3433cd77644a22767ce8cad38150->m_frame.f_lineno = 294;
+        frame_41707ec5668853b4c3968fe624434d99->m_frame.f_lineno = 294;
         tmp_call_result_2 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_kwargs_name_1);
@@ -11750,7 +11750,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__34___init__(struct 
         }
 
         tmp_called_instance_1 = par_self;
-        frame_871d3433cd77644a22767ce8cad38150->m_frame.f_lineno = 295;
+        frame_41707ec5668853b4c3968fe624434d99->m_frame.f_lineno = 295;
         tmp_call_result_3 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[15]);
         if (tmp_call_result_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -11766,7 +11766,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__34___init__(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_871d3433cd77644a22767ce8cad38150);
+    RESTORE_FRAME_EXCEPTION(frame_41707ec5668853b4c3968fe624434d99);
 #endif
 
     // Put the previous frame back on top.
@@ -11777,18 +11777,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__34___init__(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_871d3433cd77644a22767ce8cad38150);
+    RESTORE_FRAME_EXCEPTION(frame_41707ec5668853b4c3968fe624434d99);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_871d3433cd77644a22767ce8cad38150, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_871d3433cd77644a22767ce8cad38150->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_871d3433cd77644a22767ce8cad38150, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_41707ec5668853b4c3968fe624434d99, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_41707ec5668853b4c3968fe624434d99->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_41707ec5668853b4c3968fe624434d99, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_871d3433cd77644a22767ce8cad38150,
+        frame_41707ec5668853b4c3968fe624434d99,
         type_description_1,
         par_self,
         par_args,
@@ -11797,17 +11797,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__34___init__(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_871d3433cd77644a22767ce8cad38150 == cache_frame_871d3433cd77644a22767ce8cad38150) {
+    if (frame_41707ec5668853b4c3968fe624434d99 == cache_frame_41707ec5668853b4c3968fe624434d99) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_871d3433cd77644a22767ce8cad38150);
-        cache_frame_871d3433cd77644a22767ce8cad38150 = NULL;
+        Py_DECREF(cache_frame_41707ec5668853b4c3968fe624434d99);
+        cache_frame_41707ec5668853b4c3968fe624434d99 = NULL;
     }
 
-    assertFrameObject(frame_871d3433cd77644a22767ce8cad38150);
+    assertFrameObject(frame_41707ec5668853b4c3968fe624434d99);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -11890,14 +11890,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__35__get_core_transf
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_resolution = python_pars[1];
-    struct Nuitka_FrameObject *frame_0d8ab0ab4969b3be787edd76463f4660;
+    struct Nuitka_FrameObject *frame_6dc435a0d843afb505997fc558a3a91e;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_0d8ab0ab4969b3be787edd76463f4660 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_6dc435a0d843afb505997fc558a3a91e = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -11905,31 +11905,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__35__get_core_transf
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_0d8ab0ab4969b3be787edd76463f4660)) {
-        Py_XDECREF(cache_frame_0d8ab0ab4969b3be787edd76463f4660);
+    if (isFrameUnusable(cache_frame_6dc435a0d843afb505997fc558a3a91e)) {
+        Py_XDECREF(cache_frame_6dc435a0d843afb505997fc558a3a91e);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_0d8ab0ab4969b3be787edd76463f4660 == NULL) {
+        if (cache_frame_6dc435a0d843afb505997fc558a3a91e == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_0d8ab0ab4969b3be787edd76463f4660 = MAKE_FUNCTION_FRAME(codeobj_0d8ab0ab4969b3be787edd76463f4660, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
+        cache_frame_6dc435a0d843afb505997fc558a3a91e = MAKE_FUNCTION_FRAME(codeobj_6dc435a0d843afb505997fc558a3a91e, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_0d8ab0ab4969b3be787edd76463f4660->m_type_description == NULL);
-    frame_0d8ab0ab4969b3be787edd76463f4660 = cache_frame_0d8ab0ab4969b3be787edd76463f4660;
+    assert(cache_frame_6dc435a0d843afb505997fc558a3a91e->m_type_description == NULL);
+    frame_6dc435a0d843afb505997fc558a3a91e = cache_frame_6dc435a0d843afb505997fc558a3a91e;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_0d8ab0ab4969b3be787edd76463f4660);
+    pushFrameStack(frame_6dc435a0d843afb505997fc558a3a91e);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_0d8ab0ab4969b3be787edd76463f4660) == 2); // Frame stack
+    assert(Py_REFCNT(frame_6dc435a0d843afb505997fc558a3a91e) == 2); // Frame stack
 
     // Framed code:
     {
@@ -11939,7 +11939,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__35__get_core_transf
         tmp_called_instance_1 = par_self;
         CHECK_OBJECT(par_resolution);
         tmp_args_element_name_1 = par_resolution;
-        frame_0d8ab0ab4969b3be787edd76463f4660->m_frame.f_lineno = 298;
+        frame_6dc435a0d843afb505997fc558a3a91e->m_frame.f_lineno = 298;
         tmp_return_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[139], tmp_args_element_name_1);
         if (tmp_return_value == NULL) {
             assert(ERROR_OCCURRED());
@@ -11955,7 +11955,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__35__get_core_transf
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0d8ab0ab4969b3be787edd76463f4660);
+    RESTORE_FRAME_EXCEPTION(frame_6dc435a0d843afb505997fc558a3a91e);
 #endif
 
     // Put the previous frame back on top.
@@ -11965,7 +11965,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__35__get_core_transf
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0d8ab0ab4969b3be787edd76463f4660);
+    RESTORE_FRAME_EXCEPTION(frame_6dc435a0d843afb505997fc558a3a91e);
 #endif
 
     // Put the previous frame back on top.
@@ -11976,18 +11976,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__35__get_core_transf
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0d8ab0ab4969b3be787edd76463f4660);
+    RESTORE_FRAME_EXCEPTION(frame_6dc435a0d843afb505997fc558a3a91e);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_0d8ab0ab4969b3be787edd76463f4660, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_0d8ab0ab4969b3be787edd76463f4660->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_0d8ab0ab4969b3be787edd76463f4660, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_6dc435a0d843afb505997fc558a3a91e, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_6dc435a0d843afb505997fc558a3a91e->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_6dc435a0d843afb505997fc558a3a91e, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_0d8ab0ab4969b3be787edd76463f4660,
+        frame_6dc435a0d843afb505997fc558a3a91e,
         type_description_1,
         par_self,
         par_resolution
@@ -11995,17 +11995,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__35__get_core_transf
 
 
     // Release cached frame if used for exception.
-    if (frame_0d8ab0ab4969b3be787edd76463f4660 == cache_frame_0d8ab0ab4969b3be787edd76463f4660) {
+    if (frame_6dc435a0d843afb505997fc558a3a91e == cache_frame_6dc435a0d843afb505997fc558a3a91e) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_0d8ab0ab4969b3be787edd76463f4660);
-        cache_frame_0d8ab0ab4969b3be787edd76463f4660 = NULL;
+        Py_DECREF(cache_frame_6dc435a0d843afb505997fc558a3a91e);
+        cache_frame_6dc435a0d843afb505997fc558a3a91e = NULL;
     }
 
-    assertFrameObject(frame_0d8ab0ab4969b3be787edd76463f4660);
+    assertFrameObject(frame_6dc435a0d843afb505997fc558a3a91e);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -12088,7 +12088,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__36_transform_non_af
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_1f64add7dd60d34c4ccebc9ffdf79c33;
+    struct Nuitka_FrameObject *frame_128c74618124632fa46078afca4640ce;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -12104,7 +12104,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__36_transform_non_af
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_1f64add7dd60d34c4ccebc9ffdf79c33 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_128c74618124632fa46078afca4640ce = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -12112,31 +12112,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__36_transform_non_af
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_1f64add7dd60d34c4ccebc9ffdf79c33)) {
-        Py_XDECREF(cache_frame_1f64add7dd60d34c4ccebc9ffdf79c33);
+    if (isFrameUnusable(cache_frame_128c74618124632fa46078afca4640ce)) {
+        Py_XDECREF(cache_frame_128c74618124632fa46078afca4640ce);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_1f64add7dd60d34c4ccebc9ffdf79c33 == NULL) {
+        if (cache_frame_128c74618124632fa46078afca4640ce == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_1f64add7dd60d34c4ccebc9ffdf79c33 = MAKE_FUNCTION_FRAME(codeobj_1f64add7dd60d34c4ccebc9ffdf79c33, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_128c74618124632fa46078afca4640ce = MAKE_FUNCTION_FRAME(codeobj_128c74618124632fa46078afca4640ce, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_1f64add7dd60d34c4ccebc9ffdf79c33->m_type_description == NULL);
-    frame_1f64add7dd60d34c4ccebc9ffdf79c33 = cache_frame_1f64add7dd60d34c4ccebc9ffdf79c33;
+    assert(cache_frame_128c74618124632fa46078afca4640ce->m_type_description == NULL);
+    frame_128c74618124632fa46078afca4640ce = cache_frame_128c74618124632fa46078afca4640ce;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_1f64add7dd60d34c4ccebc9ffdf79c33);
+    pushFrameStack(frame_128c74618124632fa46078afca4640ce);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_1f64add7dd60d34c4ccebc9ffdf79c33) == 2); // Frame stack
+    assert(Py_REFCNT(frame_128c74618124632fa46078afca4640ce) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -12377,7 +12377,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__36_transform_non_af
         }
         CHECK_OBJECT(var_latitude);
         tmp_args_element_name_1 = var_latitude;
-        frame_1f64add7dd60d34c4ccebc9ffdf79c33->m_frame.f_lineno = 311;
+        frame_128c74618124632fa46078afca4640ce->m_frame.f_lineno = 311;
         tmp_assign_source_7 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[127], tmp_args_element_name_1);
         if (tmp_assign_source_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -12411,7 +12411,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__36_transform_non_af
             type_description_1 = "oooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_1f64add7dd60d34c4ccebc9ffdf79c33->m_frame.f_lineno = 312;
+        frame_128c74618124632fa46078afca4640ce->m_frame.f_lineno = 312;
         tmp_assign_source_8 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_2,
             mod_consts[144],
@@ -12490,7 +12490,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__36_transform_non_af
         }
         CHECK_OBJECT(var_half_long);
         tmp_args_element_name_3 = var_half_long;
-        frame_1f64add7dd60d34c4ccebc9ffdf79c33->m_frame.f_lineno = 313;
+        frame_128c74618124632fa46078afca4640ce->m_frame.f_lineno = 313;
         tmp_right_name_3 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[127], tmp_args_element_name_3);
         if (tmp_right_name_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -12526,7 +12526,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__36_transform_non_af
             type_description_1 = "oooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_1f64add7dd60d34c4ccebc9ffdf79c33->m_frame.f_lineno = 313;
+        frame_128c74618124632fa46078afca4640ce->m_frame.f_lineno = 313;
         tmp_assign_source_9 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_2);
@@ -12624,7 +12624,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__36_transform_non_af
         }
 
         tmp_args_element_name_4 = var_half_long;
-        frame_1f64add7dd60d34c4ccebc9ffdf79c33->m_frame.f_lineno = 314;
+        frame_128c74618124632fa46078afca4640ce->m_frame.f_lineno = 314;
         tmp_right_name_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_2);
         if (tmp_right_name_6 == NULL) {
@@ -12741,7 +12741,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__36_transform_non_af
         }
 
         tmp_args_element_name_5 = var_latitude;
-        frame_1f64add7dd60d34c4ccebc9ffdf79c33->m_frame.f_lineno = 315;
+        frame_128c74618124632fa46078afca4640ce->m_frame.f_lineno = 315;
         tmp_right_name_8 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_5);
         Py_DECREF(tmp_called_name_3);
         if (tmp_right_name_8 == NULL) {
@@ -12821,7 +12821,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__36_transform_non_af
         CHECK_OBJECT(var_y);
         tmp_list_element_1 = var_y;
         PyList_SET_ITEM0(tmp_args_element_name_6, 1, tmp_list_element_1);
-        frame_1f64add7dd60d34c4ccebc9ffdf79c33->m_frame.f_lineno = 316;
+        frame_128c74618124632fa46078afca4640ce->m_frame.f_lineno = 316;
         tmp_return_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_4, mod_consts[136], tmp_args_element_name_6);
         Py_DECREF(tmp_args_element_name_6);
         if (tmp_return_value == NULL) {
@@ -12838,7 +12838,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__36_transform_non_af
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_1f64add7dd60d34c4ccebc9ffdf79c33);
+    RESTORE_FRAME_EXCEPTION(frame_128c74618124632fa46078afca4640ce);
 #endif
 
     // Put the previous frame back on top.
@@ -12848,7 +12848,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__36_transform_non_af
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_1f64add7dd60d34c4ccebc9ffdf79c33);
+    RESTORE_FRAME_EXCEPTION(frame_128c74618124632fa46078afca4640ce);
 #endif
 
     // Put the previous frame back on top.
@@ -12859,18 +12859,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__36_transform_non_af
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_1f64add7dd60d34c4ccebc9ffdf79c33);
+    RESTORE_FRAME_EXCEPTION(frame_128c74618124632fa46078afca4640ce);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_1f64add7dd60d34c4ccebc9ffdf79c33, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_1f64add7dd60d34c4ccebc9ffdf79c33->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_1f64add7dd60d34c4ccebc9ffdf79c33, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_128c74618124632fa46078afca4640ce, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_128c74618124632fa46078afca4640ce->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_128c74618124632fa46078afca4640ce, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_1f64add7dd60d34c4ccebc9ffdf79c33,
+        frame_128c74618124632fa46078afca4640ce,
         type_description_1,
         par_self,
         par_ll,
@@ -12886,17 +12886,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__36_transform_non_af
 
 
     // Release cached frame if used for exception.
-    if (frame_1f64add7dd60d34c4ccebc9ffdf79c33 == cache_frame_1f64add7dd60d34c4ccebc9ffdf79c33) {
+    if (frame_128c74618124632fa46078afca4640ce == cache_frame_128c74618124632fa46078afca4640ce) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_1f64add7dd60d34c4ccebc9ffdf79c33);
-        cache_frame_1f64add7dd60d34c4ccebc9ffdf79c33 = NULL;
+        Py_DECREF(cache_frame_128c74618124632fa46078afca4640ce);
+        cache_frame_128c74618124632fa46078afca4640ce = NULL;
     }
 
-    assertFrameObject(frame_1f64add7dd60d34c4ccebc9ffdf79c33);
+    assertFrameObject(frame_128c74618124632fa46078afca4640ce);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -13001,14 +13001,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__37_inverted(struct 
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_426bef112ca4c681223013402bd2ce53;
+    struct Nuitka_FrameObject *frame_94dc5502a6857874ebd32d9119e4acd0;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_426bef112ca4c681223013402bd2ce53 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_94dc5502a6857874ebd32d9119e4acd0 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -13016,31 +13016,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__37_inverted(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_426bef112ca4c681223013402bd2ce53)) {
-        Py_XDECREF(cache_frame_426bef112ca4c681223013402bd2ce53);
+    if (isFrameUnusable(cache_frame_94dc5502a6857874ebd32d9119e4acd0)) {
+        Py_XDECREF(cache_frame_94dc5502a6857874ebd32d9119e4acd0);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_426bef112ca4c681223013402bd2ce53 == NULL) {
+        if (cache_frame_94dc5502a6857874ebd32d9119e4acd0 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_426bef112ca4c681223013402bd2ce53 = MAKE_FUNCTION_FRAME(codeobj_426bef112ca4c681223013402bd2ce53, module_matplotlib$projections$geo, sizeof(void *));
+        cache_frame_94dc5502a6857874ebd32d9119e4acd0 = MAKE_FUNCTION_FRAME(codeobj_94dc5502a6857874ebd32d9119e4acd0, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_426bef112ca4c681223013402bd2ce53->m_type_description == NULL);
-    frame_426bef112ca4c681223013402bd2ce53 = cache_frame_426bef112ca4c681223013402bd2ce53;
+    assert(cache_frame_94dc5502a6857874ebd32d9119e4acd0->m_type_description == NULL);
+    frame_94dc5502a6857874ebd32d9119e4acd0 = cache_frame_94dc5502a6857874ebd32d9119e4acd0;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_426bef112ca4c681223013402bd2ce53);
+    pushFrameStack(frame_94dc5502a6857874ebd32d9119e4acd0);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_426bef112ca4c681223013402bd2ce53) == 2); // Frame stack
+    assert(Py_REFCNT(frame_94dc5502a6857874ebd32d9119e4acd0) == 2); // Frame stack
 
     // Framed code:
     {
@@ -13088,7 +13088,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__37_inverted(struct 
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_426bef112ca4c681223013402bd2ce53->m_frame.f_lineno = 320;
+        frame_94dc5502a6857874ebd32d9119e4acd0->m_frame.f_lineno = 320;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -13106,7 +13106,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__37_inverted(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_426bef112ca4c681223013402bd2ce53);
+    RESTORE_FRAME_EXCEPTION(frame_94dc5502a6857874ebd32d9119e4acd0);
 #endif
 
     // Put the previous frame back on top.
@@ -13116,7 +13116,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__37_inverted(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_426bef112ca4c681223013402bd2ce53);
+    RESTORE_FRAME_EXCEPTION(frame_94dc5502a6857874ebd32d9119e4acd0);
 #endif
 
     // Put the previous frame back on top.
@@ -13127,35 +13127,35 @@ static PyObject *impl_matplotlib$projections$geo$$$function__37_inverted(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_426bef112ca4c681223013402bd2ce53);
+    RESTORE_FRAME_EXCEPTION(frame_94dc5502a6857874ebd32d9119e4acd0);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_426bef112ca4c681223013402bd2ce53, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_426bef112ca4c681223013402bd2ce53->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_426bef112ca4c681223013402bd2ce53, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_94dc5502a6857874ebd32d9119e4acd0, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_94dc5502a6857874ebd32d9119e4acd0->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_94dc5502a6857874ebd32d9119e4acd0, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_426bef112ca4c681223013402bd2ce53,
+        frame_94dc5502a6857874ebd32d9119e4acd0,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_426bef112ca4c681223013402bd2ce53 == cache_frame_426bef112ca4c681223013402bd2ce53) {
+    if (frame_94dc5502a6857874ebd32d9119e4acd0 == cache_frame_94dc5502a6857874ebd32d9119e4acd0) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_426bef112ca4c681223013402bd2ce53);
-        cache_frame_426bef112ca4c681223013402bd2ce53 = NULL;
+        Py_DECREF(cache_frame_94dc5502a6857874ebd32d9119e4acd0);
+        cache_frame_94dc5502a6857874ebd32d9119e4acd0 = NULL;
     }
 
-    assertFrameObject(frame_426bef112ca4c681223013402bd2ce53);
+    assertFrameObject(frame_94dc5502a6857874ebd32d9119e4acd0);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -13231,7 +13231,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__38_transform_non_af
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_87c08cd9feb495b3f83112761937980d;
+    struct Nuitka_FrameObject *frame_0eff3c495021f39b5d32a5ea0a02eabd;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -13247,7 +13247,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__38_transform_non_af
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_87c08cd9feb495b3f83112761937980d = NULL;
+    static struct Nuitka_FrameObject *cache_frame_0eff3c495021f39b5d32a5ea0a02eabd = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -13255,31 +13255,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__38_transform_non_af
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_87c08cd9feb495b3f83112761937980d)) {
-        Py_XDECREF(cache_frame_87c08cd9feb495b3f83112761937980d);
+    if (isFrameUnusable(cache_frame_0eff3c495021f39b5d32a5ea0a02eabd)) {
+        Py_XDECREF(cache_frame_0eff3c495021f39b5d32a5ea0a02eabd);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_87c08cd9feb495b3f83112761937980d == NULL) {
+        if (cache_frame_0eff3c495021f39b5d32a5ea0a02eabd == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_87c08cd9feb495b3f83112761937980d = MAKE_FUNCTION_FRAME(codeobj_87c08cd9feb495b3f83112761937980d, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_0eff3c495021f39b5d32a5ea0a02eabd = MAKE_FUNCTION_FRAME(codeobj_0eff3c495021f39b5d32a5ea0a02eabd, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_87c08cd9feb495b3f83112761937980d->m_type_description == NULL);
-    frame_87c08cd9feb495b3f83112761937980d = cache_frame_87c08cd9feb495b3f83112761937980d;
+    assert(cache_frame_0eff3c495021f39b5d32a5ea0a02eabd->m_type_description == NULL);
+    frame_0eff3c495021f39b5d32a5ea0a02eabd = cache_frame_0eff3c495021f39b5d32a5ea0a02eabd;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_87c08cd9feb495b3f83112761937980d);
+    pushFrameStack(frame_0eff3c495021f39b5d32a5ea0a02eabd);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_87c08cd9feb495b3f83112761937980d) == 2); // Frame stack
+    assert(Py_REFCNT(frame_0eff3c495021f39b5d32a5ea0a02eabd) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -13603,7 +13603,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__38_transform_non_af
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_87c08cd9feb495b3f83112761937980d->m_frame.f_lineno = 327;
+        frame_0eff3c495021f39b5d32a5ea0a02eabd->m_frame.f_lineno = 327;
         tmp_assign_source_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -13775,7 +13775,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__38_transform_non_af
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_87c08cd9feb495b3f83112761937980d->m_frame.f_lineno = 328;
+        frame_0eff3c495021f39b5d32a5ea0a02eabd->m_frame.f_lineno = 328;
         tmp_right_name_7 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_2);
@@ -13875,7 +13875,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__38_transform_non_af
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_87c08cd9feb495b3f83112761937980d->m_frame.f_lineno = 329;
+        frame_0eff3c495021f39b5d32a5ea0a02eabd->m_frame.f_lineno = 329;
         tmp_assign_source_8 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_3);
@@ -13919,7 +13919,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__38_transform_non_af
         CHECK_OBJECT(var_latitude);
         tmp_list_element_1 = var_latitude;
         PyList_SET_ITEM0(tmp_args_element_name_4, 1, tmp_list_element_1);
-        frame_87c08cd9feb495b3f83112761937980d->m_frame.f_lineno = 330;
+        frame_0eff3c495021f39b5d32a5ea0a02eabd->m_frame.f_lineno = 330;
         tmp_return_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[136], tmp_args_element_name_4);
         Py_DECREF(tmp_args_element_name_4);
         if (tmp_return_value == NULL) {
@@ -13936,7 +13936,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__38_transform_non_af
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_87c08cd9feb495b3f83112761937980d);
+    RESTORE_FRAME_EXCEPTION(frame_0eff3c495021f39b5d32a5ea0a02eabd);
 #endif
 
     // Put the previous frame back on top.
@@ -13946,7 +13946,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__38_transform_non_af
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_87c08cd9feb495b3f83112761937980d);
+    RESTORE_FRAME_EXCEPTION(frame_0eff3c495021f39b5d32a5ea0a02eabd);
 #endif
 
     // Put the previous frame back on top.
@@ -13957,18 +13957,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__38_transform_non_af
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_87c08cd9feb495b3f83112761937980d);
+    RESTORE_FRAME_EXCEPTION(frame_0eff3c495021f39b5d32a5ea0a02eabd);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_87c08cd9feb495b3f83112761937980d, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_87c08cd9feb495b3f83112761937980d->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_87c08cd9feb495b3f83112761937980d, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_0eff3c495021f39b5d32a5ea0a02eabd, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_0eff3c495021f39b5d32a5ea0a02eabd->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_0eff3c495021f39b5d32a5ea0a02eabd, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_87c08cd9feb495b3f83112761937980d,
+        frame_0eff3c495021f39b5d32a5ea0a02eabd,
         type_description_1,
         par_self,
         par_xy,
@@ -13981,17 +13981,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__38_transform_non_af
 
 
     // Release cached frame if used for exception.
-    if (frame_87c08cd9feb495b3f83112761937980d == cache_frame_87c08cd9feb495b3f83112761937980d) {
+    if (frame_0eff3c495021f39b5d32a5ea0a02eabd == cache_frame_0eff3c495021f39b5d32a5ea0a02eabd) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_87c08cd9feb495b3f83112761937980d);
-        cache_frame_87c08cd9feb495b3f83112761937980d = NULL;
+        Py_DECREF(cache_frame_0eff3c495021f39b5d32a5ea0a02eabd);
+        cache_frame_0eff3c495021f39b5d32a5ea0a02eabd = NULL;
     }
 
-    assertFrameObject(frame_87c08cd9feb495b3f83112761937980d);
+    assertFrameObject(frame_0eff3c495021f39b5d32a5ea0a02eabd);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -14084,14 +14084,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__39_inverted(struct 
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_01bab939eac31e0287ed1eb4001764e6;
+    struct Nuitka_FrameObject *frame_720462abf65680ea71946e7edca32dbb;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_01bab939eac31e0287ed1eb4001764e6 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_720462abf65680ea71946e7edca32dbb = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -14099,31 +14099,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__39_inverted(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_01bab939eac31e0287ed1eb4001764e6)) {
-        Py_XDECREF(cache_frame_01bab939eac31e0287ed1eb4001764e6);
+    if (isFrameUnusable(cache_frame_720462abf65680ea71946e7edca32dbb)) {
+        Py_XDECREF(cache_frame_720462abf65680ea71946e7edca32dbb);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_01bab939eac31e0287ed1eb4001764e6 == NULL) {
+        if (cache_frame_720462abf65680ea71946e7edca32dbb == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_01bab939eac31e0287ed1eb4001764e6 = MAKE_FUNCTION_FRAME(codeobj_01bab939eac31e0287ed1eb4001764e6, module_matplotlib$projections$geo, sizeof(void *));
+        cache_frame_720462abf65680ea71946e7edca32dbb = MAKE_FUNCTION_FRAME(codeobj_720462abf65680ea71946e7edca32dbb, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_01bab939eac31e0287ed1eb4001764e6->m_type_description == NULL);
-    frame_01bab939eac31e0287ed1eb4001764e6 = cache_frame_01bab939eac31e0287ed1eb4001764e6;
+    assert(cache_frame_720462abf65680ea71946e7edca32dbb->m_type_description == NULL);
+    frame_720462abf65680ea71946e7edca32dbb = cache_frame_720462abf65680ea71946e7edca32dbb;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_01bab939eac31e0287ed1eb4001764e6);
+    pushFrameStack(frame_720462abf65680ea71946e7edca32dbb);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_01bab939eac31e0287ed1eb4001764e6) == 2); // Frame stack
+    assert(Py_REFCNT(frame_720462abf65680ea71946e7edca32dbb) == 2); // Frame stack
 
     // Framed code:
     {
@@ -14171,7 +14171,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__39_inverted(struct 
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_01bab939eac31e0287ed1eb4001764e6->m_frame.f_lineno = 334;
+        frame_720462abf65680ea71946e7edca32dbb->m_frame.f_lineno = 334;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -14189,7 +14189,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__39_inverted(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_01bab939eac31e0287ed1eb4001764e6);
+    RESTORE_FRAME_EXCEPTION(frame_720462abf65680ea71946e7edca32dbb);
 #endif
 
     // Put the previous frame back on top.
@@ -14199,7 +14199,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__39_inverted(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_01bab939eac31e0287ed1eb4001764e6);
+    RESTORE_FRAME_EXCEPTION(frame_720462abf65680ea71946e7edca32dbb);
 #endif
 
     // Put the previous frame back on top.
@@ -14210,35 +14210,35 @@ static PyObject *impl_matplotlib$projections$geo$$$function__39_inverted(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_01bab939eac31e0287ed1eb4001764e6);
+    RESTORE_FRAME_EXCEPTION(frame_720462abf65680ea71946e7edca32dbb);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_01bab939eac31e0287ed1eb4001764e6, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_01bab939eac31e0287ed1eb4001764e6->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_01bab939eac31e0287ed1eb4001764e6, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_720462abf65680ea71946e7edca32dbb, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_720462abf65680ea71946e7edca32dbb->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_720462abf65680ea71946e7edca32dbb, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_01bab939eac31e0287ed1eb4001764e6,
+        frame_720462abf65680ea71946e7edca32dbb,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_01bab939eac31e0287ed1eb4001764e6 == cache_frame_01bab939eac31e0287ed1eb4001764e6) {
+    if (frame_720462abf65680ea71946e7edca32dbb == cache_frame_720462abf65680ea71946e7edca32dbb) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_01bab939eac31e0287ed1eb4001764e6);
-        cache_frame_01bab939eac31e0287ed1eb4001764e6 = NULL;
+        Py_DECREF(cache_frame_720462abf65680ea71946e7edca32dbb);
+        cache_frame_720462abf65680ea71946e7edca32dbb = NULL;
     }
 
-    assertFrameObject(frame_01bab939eac31e0287ed1eb4001764e6);
+    assertFrameObject(frame_720462abf65680ea71946e7edca32dbb);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -14307,7 +14307,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__40___init__(struct 
     PyObject *par_self = python_pars[0];
     PyObject *par_args = python_pars[1];
     PyObject *par_kwargs = python_pars[2];
-    struct Nuitka_FrameObject *frame_3d2911a6327caa1a5c54d2105914ce1d;
+    struct Nuitka_FrameObject *frame_3ddede410be3f253d79665ce77990321;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -14315,7 +14315,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__40___init__(struct 
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_3d2911a6327caa1a5c54d2105914ce1d = NULL;
+    static struct Nuitka_FrameObject *cache_frame_3ddede410be3f253d79665ce77990321 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -14324,31 +14324,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__40___init__(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_3d2911a6327caa1a5c54d2105914ce1d)) {
-        Py_XDECREF(cache_frame_3d2911a6327caa1a5c54d2105914ce1d);
+    if (isFrameUnusable(cache_frame_3ddede410be3f253d79665ce77990321)) {
+        Py_XDECREF(cache_frame_3ddede410be3f253d79665ce77990321);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_3d2911a6327caa1a5c54d2105914ce1d == NULL) {
+        if (cache_frame_3ddede410be3f253d79665ce77990321 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_3d2911a6327caa1a5c54d2105914ce1d = MAKE_FUNCTION_FRAME(codeobj_3d2911a6327caa1a5c54d2105914ce1d, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_3ddede410be3f253d79665ce77990321 = MAKE_FUNCTION_FRAME(codeobj_3ddede410be3f253d79665ce77990321, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_3d2911a6327caa1a5c54d2105914ce1d->m_type_description == NULL);
-    frame_3d2911a6327caa1a5c54d2105914ce1d = cache_frame_3d2911a6327caa1a5c54d2105914ce1d;
+    assert(cache_frame_3ddede410be3f253d79665ce77990321->m_type_description == NULL);
+    frame_3ddede410be3f253d79665ce77990321 = cache_frame_3ddede410be3f253d79665ce77990321;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_3d2911a6327caa1a5c54d2105914ce1d);
+    pushFrameStack(frame_3ddede410be3f253d79665ce77990321);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_3d2911a6327caa1a5c54d2105914ce1d) == 2); // Frame stack
+    assert(Py_REFCNT(frame_3ddede410be3f253d79665ce77990321) == 2); // Frame stack
 
     // Framed code:
     {
@@ -14495,7 +14495,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__40___init__(struct 
         }
         tmp_args_name_1 = mod_consts[142];
         tmp_kwargs_name_1 = PyDict_Copy(mod_consts[143]);
-        frame_3d2911a6327caa1a5c54d2105914ce1d->m_frame.f_lineno = 339;
+        frame_3ddede410be3f253d79665ce77990321->m_frame.f_lineno = 339;
         tmp_call_result_2 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_kwargs_name_1);
@@ -14527,7 +14527,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__40___init__(struct 
         }
 
         tmp_called_instance_1 = par_self;
-        frame_3d2911a6327caa1a5c54d2105914ce1d->m_frame.f_lineno = 340;
+        frame_3ddede410be3f253d79665ce77990321->m_frame.f_lineno = 340;
         tmp_call_result_3 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[15]);
         if (tmp_call_result_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -14543,7 +14543,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__40___init__(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3d2911a6327caa1a5c54d2105914ce1d);
+    RESTORE_FRAME_EXCEPTION(frame_3ddede410be3f253d79665ce77990321);
 #endif
 
     // Put the previous frame back on top.
@@ -14554,18 +14554,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__40___init__(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3d2911a6327caa1a5c54d2105914ce1d);
+    RESTORE_FRAME_EXCEPTION(frame_3ddede410be3f253d79665ce77990321);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_3d2911a6327caa1a5c54d2105914ce1d, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_3d2911a6327caa1a5c54d2105914ce1d->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_3d2911a6327caa1a5c54d2105914ce1d, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_3ddede410be3f253d79665ce77990321, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_3ddede410be3f253d79665ce77990321->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_3ddede410be3f253d79665ce77990321, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_3d2911a6327caa1a5c54d2105914ce1d,
+        frame_3ddede410be3f253d79665ce77990321,
         type_description_1,
         par_self,
         par_args,
@@ -14574,17 +14574,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__40___init__(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_3d2911a6327caa1a5c54d2105914ce1d == cache_frame_3d2911a6327caa1a5c54d2105914ce1d) {
+    if (frame_3ddede410be3f253d79665ce77990321 == cache_frame_3ddede410be3f253d79665ce77990321) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_3d2911a6327caa1a5c54d2105914ce1d);
-        cache_frame_3d2911a6327caa1a5c54d2105914ce1d = NULL;
+        Py_DECREF(cache_frame_3ddede410be3f253d79665ce77990321);
+        cache_frame_3ddede410be3f253d79665ce77990321 = NULL;
     }
 
-    assertFrameObject(frame_3d2911a6327caa1a5c54d2105914ce1d);
+    assertFrameObject(frame_3ddede410be3f253d79665ce77990321);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -14667,14 +14667,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__41__get_core_transf
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_resolution = python_pars[1];
-    struct Nuitka_FrameObject *frame_59173313a32203864c9dcef83f34cf31;
+    struct Nuitka_FrameObject *frame_f9d024d7dbf1c7a7492f8e3cde23dea0;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_59173313a32203864c9dcef83f34cf31 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f9d024d7dbf1c7a7492f8e3cde23dea0 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -14682,31 +14682,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__41__get_core_transf
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_59173313a32203864c9dcef83f34cf31)) {
-        Py_XDECREF(cache_frame_59173313a32203864c9dcef83f34cf31);
+    if (isFrameUnusable(cache_frame_f9d024d7dbf1c7a7492f8e3cde23dea0)) {
+        Py_XDECREF(cache_frame_f9d024d7dbf1c7a7492f8e3cde23dea0);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_59173313a32203864c9dcef83f34cf31 == NULL) {
+        if (cache_frame_f9d024d7dbf1c7a7492f8e3cde23dea0 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_59173313a32203864c9dcef83f34cf31 = MAKE_FUNCTION_FRAME(codeobj_59173313a32203864c9dcef83f34cf31, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
+        cache_frame_f9d024d7dbf1c7a7492f8e3cde23dea0 = MAKE_FUNCTION_FRAME(codeobj_f9d024d7dbf1c7a7492f8e3cde23dea0, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_59173313a32203864c9dcef83f34cf31->m_type_description == NULL);
-    frame_59173313a32203864c9dcef83f34cf31 = cache_frame_59173313a32203864c9dcef83f34cf31;
+    assert(cache_frame_f9d024d7dbf1c7a7492f8e3cde23dea0->m_type_description == NULL);
+    frame_f9d024d7dbf1c7a7492f8e3cde23dea0 = cache_frame_f9d024d7dbf1c7a7492f8e3cde23dea0;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_59173313a32203864c9dcef83f34cf31);
+    pushFrameStack(frame_f9d024d7dbf1c7a7492f8e3cde23dea0);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_59173313a32203864c9dcef83f34cf31) == 2); // Frame stack
+    assert(Py_REFCNT(frame_f9d024d7dbf1c7a7492f8e3cde23dea0) == 2); // Frame stack
 
     // Framed code:
     {
@@ -14716,7 +14716,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__41__get_core_transf
         tmp_called_instance_1 = par_self;
         CHECK_OBJECT(par_resolution);
         tmp_args_element_name_1 = par_resolution;
-        frame_59173313a32203864c9dcef83f34cf31->m_frame.f_lineno = 343;
+        frame_f9d024d7dbf1c7a7492f8e3cde23dea0->m_frame.f_lineno = 343;
         tmp_return_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[155], tmp_args_element_name_1);
         if (tmp_return_value == NULL) {
             assert(ERROR_OCCURRED());
@@ -14732,7 +14732,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__41__get_core_transf
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_59173313a32203864c9dcef83f34cf31);
+    RESTORE_FRAME_EXCEPTION(frame_f9d024d7dbf1c7a7492f8e3cde23dea0);
 #endif
 
     // Put the previous frame back on top.
@@ -14742,7 +14742,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__41__get_core_transf
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_59173313a32203864c9dcef83f34cf31);
+    RESTORE_FRAME_EXCEPTION(frame_f9d024d7dbf1c7a7492f8e3cde23dea0);
 #endif
 
     // Put the previous frame back on top.
@@ -14753,18 +14753,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__41__get_core_transf
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_59173313a32203864c9dcef83f34cf31);
+    RESTORE_FRAME_EXCEPTION(frame_f9d024d7dbf1c7a7492f8e3cde23dea0);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_59173313a32203864c9dcef83f34cf31, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_59173313a32203864c9dcef83f34cf31->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_59173313a32203864c9dcef83f34cf31, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_f9d024d7dbf1c7a7492f8e3cde23dea0, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_f9d024d7dbf1c7a7492f8e3cde23dea0->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_f9d024d7dbf1c7a7492f8e3cde23dea0, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_59173313a32203864c9dcef83f34cf31,
+        frame_f9d024d7dbf1c7a7492f8e3cde23dea0,
         type_description_1,
         par_self,
         par_resolution
@@ -14772,17 +14772,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__41__get_core_transf
 
 
     // Release cached frame if used for exception.
-    if (frame_59173313a32203864c9dcef83f34cf31 == cache_frame_59173313a32203864c9dcef83f34cf31) {
+    if (frame_f9d024d7dbf1c7a7492f8e3cde23dea0 == cache_frame_f9d024d7dbf1c7a7492f8e3cde23dea0) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_59173313a32203864c9dcef83f34cf31);
-        cache_frame_59173313a32203864c9dcef83f34cf31 = NULL;
+        Py_DECREF(cache_frame_f9d024d7dbf1c7a7492f8e3cde23dea0);
+        cache_frame_f9d024d7dbf1c7a7492f8e3cde23dea0 = NULL;
     }
 
-    assertFrameObject(frame_59173313a32203864c9dcef83f34cf31);
+    assertFrameObject(frame_f9d024d7dbf1c7a7492f8e3cde23dea0);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -14879,7 +14879,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
     PyObject *tmp_tuple_unpack_3__element_1 = NULL;
     PyObject *tmp_tuple_unpack_3__element_2 = NULL;
     PyObject *tmp_tuple_unpack_3__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_638df801b72a20c571fdd7b8ce6e6952;
+    struct Nuitka_FrameObject *frame_7ba8112f6bc3c1b46d82733fc41c19ef;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -14917,7 +14917,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
     PyTracebackObject *exception_keeper_tb_7;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_7;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_638df801b72a20c571fdd7b8ce6e6952 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_7ba8112f6bc3c1b46d82733fc41c19ef = NULL;
     PyObject *exception_keeper_type_8;
     PyObject *exception_keeper_value_8;
     PyTracebackObject *exception_keeper_tb_8;
@@ -14937,31 +14937,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
         var_d = tmp_assign_source_1;
     }
     // Tried code:
-    if (isFrameUnusable(cache_frame_638df801b72a20c571fdd7b8ce6e6952)) {
-        Py_XDECREF(cache_frame_638df801b72a20c571fdd7b8ce6e6952);
+    if (isFrameUnusable(cache_frame_7ba8112f6bc3c1b46d82733fc41c19ef)) {
+        Py_XDECREF(cache_frame_7ba8112f6bc3c1b46d82733fc41c19ef);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_638df801b72a20c571fdd7b8ce6e6952 == NULL) {
+        if (cache_frame_7ba8112f6bc3c1b46d82733fc41c19ef == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_638df801b72a20c571fdd7b8ce6e6952 = MAKE_FUNCTION_FRAME(codeobj_638df801b72a20c571fdd7b8ce6e6952, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_7ba8112f6bc3c1b46d82733fc41c19ef = MAKE_FUNCTION_FRAME(codeobj_7ba8112f6bc3c1b46d82733fc41c19ef, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_638df801b72a20c571fdd7b8ce6e6952->m_type_description == NULL);
-    frame_638df801b72a20c571fdd7b8ce6e6952 = cache_frame_638df801b72a20c571fdd7b8ce6e6952;
+    assert(cache_frame_7ba8112f6bc3c1b46d82733fc41c19ef->m_type_description == NULL);
+    frame_7ba8112f6bc3c1b46d82733fc41c19ef = cache_frame_7ba8112f6bc3c1b46d82733fc41c19ef;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_638df801b72a20c571fdd7b8ce6e6952);
+    pushFrameStack(frame_7ba8112f6bc3c1b46d82733fc41c19ef);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_638df801b72a20c571fdd7b8ce6e6952) == 2); // Frame stack
+    assert(Py_REFCNT(frame_7ba8112f6bc3c1b46d82733fc41c19ef) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -15226,7 +15226,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
         }
         CHECK_OBJECT(var_latitude);
         tmp_args_element_name_1 = var_latitude;
-        frame_638df801b72a20c571fdd7b8ce6e6952->m_frame.f_lineno = 361;
+        frame_7ba8112f6bc3c1b46d82733fc41c19ef->m_frame.f_lineno = 361;
         tmp_right_name_2 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[158], tmp_args_element_name_1);
         if (tmp_right_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -15356,7 +15356,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
         tmp_args_name_1 = PyTuple_New(1);
         PyTuple_SET_ITEM(tmp_args_name_1, 0, tmp_tuple_element_1);
         tmp_kwargs_name_1 = PyDict_Copy(mod_consts[162]);
-        frame_638df801b72a20c571fdd7b8ce6e6952->m_frame.f_lineno = 364;
+        frame_7ba8112f6bc3c1b46d82733fc41c19ef->m_frame.f_lineno = 364;
         tmp_assign_source_10 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -15381,7 +15381,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
         int tmp_truth_name_1;
         CHECK_OBJECT(var_ilow);
         tmp_called_instance_2 = var_ilow;
-        frame_638df801b72a20c571fdd7b8ce6e6952->m_frame.f_lineno = 366;
+        frame_7ba8112f6bc3c1b46d82733fc41c19ef->m_frame.f_lineno = 366;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[163]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -15517,7 +15517,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
             type_description_1 = "ooooooooocooooo";
             goto frame_exception_exit_1;
         }
-        frame_638df801b72a20c571fdd7b8ce6e6952->m_frame.f_lineno = 367;
+        frame_7ba8112f6bc3c1b46d82733fc41c19ef->m_frame.f_lineno = 367;
         tmp_right_name_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_2);
@@ -15620,7 +15620,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
         tmp_called_name_3 = var_d;
         CHECK_OBJECT(var_theta);
         tmp_args_element_name_3 = var_theta;
-        frame_638df801b72a20c571fdd7b8ce6e6952->m_frame.f_lineno = 369;
+        frame_7ba8112f6bc3c1b46d82733fc41c19ef->m_frame.f_lineno = 369;
         tmp_iter_arg_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
         if (tmp_iter_arg_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -15856,7 +15856,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
         }
 
         tmp_args_element_name_4 = var_large_delta;
-        frame_638df801b72a20c571fdd7b8ce6e6952->m_frame.f_lineno = 370;
+        frame_7ba8112f6bc3c1b46d82733fc41c19ef->m_frame.f_lineno = 370;
         tmp_operand_name_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_4);
         if (tmp_operand_name_2 == NULL) {
@@ -16116,7 +16116,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
         }
 
         tmp_args_element_name_5 = var_theta;
-        frame_638df801b72a20c571fdd7b8ce6e6952->m_frame.f_lineno = 372;
+        frame_7ba8112f6bc3c1b46d82733fc41c19ef->m_frame.f_lineno = 372;
         tmp_iter_arg_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_5);
         if (tmp_iter_arg_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -16404,7 +16404,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
         int tmp_truth_name_2;
         CHECK_OBJECT(var_ihigh);
         tmp_called_instance_3 = var_ihigh;
-        frame_638df801b72a20c571fdd7b8ce6e6952->m_frame.f_lineno = 375;
+        frame_7ba8112f6bc3c1b46d82733fc41c19ef->m_frame.f_lineno = 375;
         tmp_call_result_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_3, mod_consts[163]);
         if (tmp_call_result_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -16719,7 +16719,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
             type_description_1 = "ooooooooocooooo";
             goto frame_exception_exit_1;
         }
-        frame_638df801b72a20c571fdd7b8ce6e6952->m_frame.f_lineno = 378;
+        frame_7ba8112f6bc3c1b46d82733fc41c19ef->m_frame.f_lineno = 378;
         tmp_right_name_14 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_6);
         Py_DECREF(tmp_args_element_name_6);
@@ -16848,7 +16848,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
         tmp_args_name_2 = PyTuple_New(1);
         PyTuple_SET_ITEM(tmp_args_name_2, 0, tmp_tuple_element_2);
         tmp_kwargs_name_2 = PyDict_Copy(mod_consts[162]);
-        frame_638df801b72a20c571fdd7b8ce6e6952->m_frame.f_lineno = 380;
+        frame_7ba8112f6bc3c1b46d82733fc41c19ef->m_frame.f_lineno = 380;
         tmp_assign_source_29 = CALL_FUNCTION(tmp_called_name_7, tmp_args_name_2, tmp_kwargs_name_2);
         Py_DECREF(tmp_called_name_7);
         Py_DECREF(tmp_args_name_2);
@@ -16900,7 +16900,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
             type_description_1 = "ooooooooocooooo";
             goto frame_exception_exit_1;
         }
-        frame_638df801b72a20c571fdd7b8ce6e6952->m_frame.f_lineno = 381;
+        frame_7ba8112f6bc3c1b46d82733fc41c19ef->m_frame.f_lineno = 381;
         tmp_right_name_15 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_4,
             mod_consts[144],
@@ -17024,7 +17024,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
         }
 
         tmp_args_element_name_7 = var_aux;
-        frame_638df801b72a20c571fdd7b8ce6e6952->m_frame.f_lineno = 381;
+        frame_7ba8112f6bc3c1b46d82733fc41c19ef->m_frame.f_lineno = 381;
         tmp_right_name_18 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_8, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_8);
         if (tmp_right_name_18 == NULL) {
@@ -17092,7 +17092,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
             type_description_1 = "ooooooooocooooo";
             goto frame_exception_exit_1;
         }
-        frame_638df801b72a20c571fdd7b8ce6e6952->m_frame.f_lineno = 382;
+        frame_7ba8112f6bc3c1b46d82733fc41c19ef->m_frame.f_lineno = 382;
         tmp_left_name_19 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_5,
             mod_consts[144],
@@ -17150,7 +17150,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
         }
 
         tmp_args_element_name_8 = var_aux;
-        frame_638df801b72a20c571fdd7b8ce6e6952->m_frame.f_lineno = 382;
+        frame_7ba8112f6bc3c1b46d82733fc41c19ef->m_frame.f_lineno = 382;
         tmp_right_name_19 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_9, tmp_args_element_name_8);
         Py_DECREF(tmp_called_name_9);
         if (tmp_right_name_19 == NULL) {
@@ -17220,7 +17220,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
     goto frame_return_exit_1;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_638df801b72a20c571fdd7b8ce6e6952);
+    RESTORE_FRAME_EXCEPTION(frame_7ba8112f6bc3c1b46d82733fc41c19ef);
 #endif
 
     // Put the previous frame back on top.
@@ -17230,7 +17230,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_638df801b72a20c571fdd7b8ce6e6952);
+    RESTORE_FRAME_EXCEPTION(frame_7ba8112f6bc3c1b46d82733fc41c19ef);
 #endif
 
     // Put the previous frame back on top.
@@ -17241,18 +17241,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_638df801b72a20c571fdd7b8ce6e6952);
+    RESTORE_FRAME_EXCEPTION(frame_7ba8112f6bc3c1b46d82733fc41c19ef);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_638df801b72a20c571fdd7b8ce6e6952, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_638df801b72a20c571fdd7b8ce6e6952->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_638df801b72a20c571fdd7b8ce6e6952, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_7ba8112f6bc3c1b46d82733fc41c19ef, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_7ba8112f6bc3c1b46d82733fc41c19ef->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_7ba8112f6bc3c1b46d82733fc41c19ef, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_638df801b72a20c571fdd7b8ce6e6952,
+        frame_7ba8112f6bc3c1b46d82733fc41c19ef,
         type_description_1,
         par_self,
         par_ll,
@@ -17273,17 +17273,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
 
 
     // Release cached frame if used for exception.
-    if (frame_638df801b72a20c571fdd7b8ce6e6952 == cache_frame_638df801b72a20c571fdd7b8ce6e6952) {
+    if (frame_7ba8112f6bc3c1b46d82733fc41c19ef == cache_frame_7ba8112f6bc3c1b46d82733fc41c19ef) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_638df801b72a20c571fdd7b8ce6e6952);
-        cache_frame_638df801b72a20c571fdd7b8ce6e6952 = NULL;
+        Py_DECREF(cache_frame_7ba8112f6bc3c1b46d82733fc41c19ef);
+        cache_frame_7ba8112f6bc3c1b46d82733fc41c19ef = NULL;
     }
 
-    assertFrameObject(frame_638df801b72a20c571fdd7b8ce6e6952);
+    assertFrameObject(frame_7ba8112f6bc3c1b46d82733fc41c19ef);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -17412,14 +17412,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
     // Local variable declarations.
     PyObject *par_theta = python_pars[0];
     PyObject *var_delta = NULL;
-    struct Nuitka_FrameObject *frame_382c37f6455ee6c5b02d71a8e0a295d4;
+    struct Nuitka_FrameObject *frame_30d7b7bdb99a3a2355c978cc5d18ad47;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_382c37f6455ee6c5b02d71a8e0a295d4 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_30d7b7bdb99a3a2355c978cc5d18ad47 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -17427,31 +17427,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_382c37f6455ee6c5b02d71a8e0a295d4)) {
-        Py_XDECREF(cache_frame_382c37f6455ee6c5b02d71a8e0a295d4);
+    if (isFrameUnusable(cache_frame_30d7b7bdb99a3a2355c978cc5d18ad47)) {
+        Py_XDECREF(cache_frame_30d7b7bdb99a3a2355c978cc5d18ad47);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_382c37f6455ee6c5b02d71a8e0a295d4 == NULL) {
+        if (cache_frame_30d7b7bdb99a3a2355c978cc5d18ad47 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_382c37f6455ee6c5b02d71a8e0a295d4 = MAKE_FUNCTION_FRAME(codeobj_382c37f6455ee6c5b02d71a8e0a295d4, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_30d7b7bdb99a3a2355c978cc5d18ad47 = MAKE_FUNCTION_FRAME(codeobj_30d7b7bdb99a3a2355c978cc5d18ad47, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_382c37f6455ee6c5b02d71a8e0a295d4->m_type_description == NULL);
-    frame_382c37f6455ee6c5b02d71a8e0a295d4 = cache_frame_382c37f6455ee6c5b02d71a8e0a295d4;
+    assert(cache_frame_30d7b7bdb99a3a2355c978cc5d18ad47->m_type_description == NULL);
+    frame_30d7b7bdb99a3a2355c978cc5d18ad47 = cache_frame_30d7b7bdb99a3a2355c978cc5d18ad47;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_382c37f6455ee6c5b02d71a8e0a295d4);
+    pushFrameStack(frame_30d7b7bdb99a3a2355c978cc5d18ad47);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_382c37f6455ee6c5b02d71a8e0a295d4) == 2); // Frame stack
+    assert(Py_REFCNT(frame_30d7b7bdb99a3a2355c978cc5d18ad47) == 2); // Frame stack
 
     // Framed code:
     {
@@ -17490,7 +17490,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
         }
         CHECK_OBJECT(par_theta);
         tmp_args_element_name_1 = par_theta;
-        frame_382c37f6455ee6c5b02d71a8e0a295d4->m_frame.f_lineno = 355;
+        frame_30d7b7bdb99a3a2355c978cc5d18ad47->m_frame.f_lineno = 355;
         tmp_right_name_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[130], tmp_args_element_name_1);
         if (tmp_right_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -17593,7 +17593,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
         }
 
         tmp_args_element_name_2 = par_theta;
-        frame_382c37f6455ee6c5b02d71a8e0a295d4->m_frame.f_lineno = 356;
+        frame_30d7b7bdb99a3a2355c978cc5d18ad47->m_frame.f_lineno = 356;
         tmp_right_name_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_1);
         if (tmp_right_name_4 == NULL) {
@@ -17663,7 +17663,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
             }
             CHECK_OBJECT(var_delta);
             tmp_args_element_name_3 = var_delta;
-            frame_382c37f6455ee6c5b02d71a8e0a295d4->m_frame.f_lineno = 357;
+            frame_30d7b7bdb99a3a2355c978cc5d18ad47->m_frame.f_lineno = 357;
             tmp_compexpr_left_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[158], tmp_args_element_name_3);
             if (tmp_compexpr_left_1 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -17701,7 +17701,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_382c37f6455ee6c5b02d71a8e0a295d4);
+    RESTORE_FRAME_EXCEPTION(frame_30d7b7bdb99a3a2355c978cc5d18ad47);
 #endif
 
     // Put the previous frame back on top.
@@ -17711,7 +17711,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_382c37f6455ee6c5b02d71a8e0a295d4);
+    RESTORE_FRAME_EXCEPTION(frame_30d7b7bdb99a3a2355c978cc5d18ad47);
 #endif
 
     // Put the previous frame back on top.
@@ -17722,18 +17722,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_382c37f6455ee6c5b02d71a8e0a295d4);
+    RESTORE_FRAME_EXCEPTION(frame_30d7b7bdb99a3a2355c978cc5d18ad47);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_382c37f6455ee6c5b02d71a8e0a295d4, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_382c37f6455ee6c5b02d71a8e0a295d4->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_382c37f6455ee6c5b02d71a8e0a295d4, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_30d7b7bdb99a3a2355c978cc5d18ad47, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_30d7b7bdb99a3a2355c978cc5d18ad47->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_30d7b7bdb99a3a2355c978cc5d18ad47, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_382c37f6455ee6c5b02d71a8e0a295d4,
+        frame_30d7b7bdb99a3a2355c978cc5d18ad47,
         type_description_1,
         par_theta,
         var_delta,
@@ -17742,17 +17742,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__42_transform_non_af
 
 
     // Release cached frame if used for exception.
-    if (frame_382c37f6455ee6c5b02d71a8e0a295d4 == cache_frame_382c37f6455ee6c5b02d71a8e0a295d4) {
+    if (frame_30d7b7bdb99a3a2355c978cc5d18ad47 == cache_frame_30d7b7bdb99a3a2355c978cc5d18ad47) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_382c37f6455ee6c5b02d71a8e0a295d4);
-        cache_frame_382c37f6455ee6c5b02d71a8e0a295d4 = NULL;
+        Py_DECREF(cache_frame_30d7b7bdb99a3a2355c978cc5d18ad47);
+        cache_frame_30d7b7bdb99a3a2355c978cc5d18ad47 = NULL;
     }
 
-    assertFrameObject(frame_382c37f6455ee6c5b02d71a8e0a295d4);
+    assertFrameObject(frame_30d7b7bdb99a3a2355c978cc5d18ad47);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -17823,14 +17823,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__43_inverted(struct 
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_905fee73f303545cc6c8f63772c5942a;
+    struct Nuitka_FrameObject *frame_fd594da1736f437f2cac20d36cf72e4c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_905fee73f303545cc6c8f63772c5942a = NULL;
+    static struct Nuitka_FrameObject *cache_frame_fd594da1736f437f2cac20d36cf72e4c = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -17838,31 +17838,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__43_inverted(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_905fee73f303545cc6c8f63772c5942a)) {
-        Py_XDECREF(cache_frame_905fee73f303545cc6c8f63772c5942a);
+    if (isFrameUnusable(cache_frame_fd594da1736f437f2cac20d36cf72e4c)) {
+        Py_XDECREF(cache_frame_fd594da1736f437f2cac20d36cf72e4c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_905fee73f303545cc6c8f63772c5942a == NULL) {
+        if (cache_frame_fd594da1736f437f2cac20d36cf72e4c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_905fee73f303545cc6c8f63772c5942a = MAKE_FUNCTION_FRAME(codeobj_905fee73f303545cc6c8f63772c5942a, module_matplotlib$projections$geo, sizeof(void *));
+        cache_frame_fd594da1736f437f2cac20d36cf72e4c = MAKE_FUNCTION_FRAME(codeobj_fd594da1736f437f2cac20d36cf72e4c, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_905fee73f303545cc6c8f63772c5942a->m_type_description == NULL);
-    frame_905fee73f303545cc6c8f63772c5942a = cache_frame_905fee73f303545cc6c8f63772c5942a;
+    assert(cache_frame_fd594da1736f437f2cac20d36cf72e4c->m_type_description == NULL);
+    frame_fd594da1736f437f2cac20d36cf72e4c = cache_frame_fd594da1736f437f2cac20d36cf72e4c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_905fee73f303545cc6c8f63772c5942a);
+    pushFrameStack(frame_fd594da1736f437f2cac20d36cf72e4c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_905fee73f303545cc6c8f63772c5942a) == 2); // Frame stack
+    assert(Py_REFCNT(frame_fd594da1736f437f2cac20d36cf72e4c) == 2); // Frame stack
 
     // Framed code:
     {
@@ -17910,7 +17910,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__43_inverted(struct 
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_905fee73f303545cc6c8f63772c5942a->m_frame.f_lineno = 388;
+        frame_fd594da1736f437f2cac20d36cf72e4c->m_frame.f_lineno = 388;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -17928,7 +17928,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__43_inverted(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_905fee73f303545cc6c8f63772c5942a);
+    RESTORE_FRAME_EXCEPTION(frame_fd594da1736f437f2cac20d36cf72e4c);
 #endif
 
     // Put the previous frame back on top.
@@ -17938,7 +17938,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__43_inverted(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_905fee73f303545cc6c8f63772c5942a);
+    RESTORE_FRAME_EXCEPTION(frame_fd594da1736f437f2cac20d36cf72e4c);
 #endif
 
     // Put the previous frame back on top.
@@ -17949,35 +17949,35 @@ static PyObject *impl_matplotlib$projections$geo$$$function__43_inverted(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_905fee73f303545cc6c8f63772c5942a);
+    RESTORE_FRAME_EXCEPTION(frame_fd594da1736f437f2cac20d36cf72e4c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_905fee73f303545cc6c8f63772c5942a, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_905fee73f303545cc6c8f63772c5942a->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_905fee73f303545cc6c8f63772c5942a, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_fd594da1736f437f2cac20d36cf72e4c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_fd594da1736f437f2cac20d36cf72e4c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_fd594da1736f437f2cac20d36cf72e4c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_905fee73f303545cc6c8f63772c5942a,
+        frame_fd594da1736f437f2cac20d36cf72e4c,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_905fee73f303545cc6c8f63772c5942a == cache_frame_905fee73f303545cc6c8f63772c5942a) {
+    if (frame_fd594da1736f437f2cac20d36cf72e4c == cache_frame_fd594da1736f437f2cac20d36cf72e4c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_905fee73f303545cc6c8f63772c5942a);
-        cache_frame_905fee73f303545cc6c8f63772c5942a = NULL;
+        Py_DECREF(cache_frame_fd594da1736f437f2cac20d36cf72e4c);
+        cache_frame_fd594da1736f437f2cac20d36cf72e4c = NULL;
     }
 
-    assertFrameObject(frame_905fee73f303545cc6c8f63772c5942a);
+    assertFrameObject(frame_fd594da1736f437f2cac20d36cf72e4c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -18053,7 +18053,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__44_transform_non_af
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_c900be58fe82adc90c6091f2751b353d;
+    struct Nuitka_FrameObject *frame_baee270ef88f989fccfbfc56d337ac33;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -18069,7 +18069,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__44_transform_non_af
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_c900be58fe82adc90c6091f2751b353d = NULL;
+    static struct Nuitka_FrameObject *cache_frame_baee270ef88f989fccfbfc56d337ac33 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -18077,31 +18077,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__44_transform_non_af
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_c900be58fe82adc90c6091f2751b353d)) {
-        Py_XDECREF(cache_frame_c900be58fe82adc90c6091f2751b353d);
+    if (isFrameUnusable(cache_frame_baee270ef88f989fccfbfc56d337ac33)) {
+        Py_XDECREF(cache_frame_baee270ef88f989fccfbfc56d337ac33);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_c900be58fe82adc90c6091f2751b353d == NULL) {
+        if (cache_frame_baee270ef88f989fccfbfc56d337ac33 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_c900be58fe82adc90c6091f2751b353d = MAKE_FUNCTION_FRAME(codeobj_c900be58fe82adc90c6091f2751b353d, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_baee270ef88f989fccfbfc56d337ac33 = MAKE_FUNCTION_FRAME(codeobj_baee270ef88f989fccfbfc56d337ac33, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_c900be58fe82adc90c6091f2751b353d->m_type_description == NULL);
-    frame_c900be58fe82adc90c6091f2751b353d = cache_frame_c900be58fe82adc90c6091f2751b353d;
+    assert(cache_frame_baee270ef88f989fccfbfc56d337ac33->m_type_description == NULL);
+    frame_baee270ef88f989fccfbfc56d337ac33 = cache_frame_baee270ef88f989fccfbfc56d337ac33;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_c900be58fe82adc90c6091f2751b353d);
+    pushFrameStack(frame_baee270ef88f989fccfbfc56d337ac33);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_c900be58fe82adc90c6091f2751b353d) == 2); // Frame stack
+    assert(Py_REFCNT(frame_baee270ef88f989fccfbfc56d337ac33) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -18352,7 +18352,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__44_transform_non_af
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_c900be58fe82adc90c6091f2751b353d->m_frame.f_lineno = 397;
+        frame_baee270ef88f989fccfbfc56d337ac33->m_frame.f_lineno = 397;
         tmp_right_name_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_1,
             mod_consts[144],
@@ -18381,7 +18381,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__44_transform_non_af
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_c900be58fe82adc90c6091f2751b353d->m_frame.f_lineno = 397;
+        frame_baee270ef88f989fccfbfc56d337ac33->m_frame.f_lineno = 397;
         tmp_assign_source_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -18456,7 +18456,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__44_transform_non_af
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_c900be58fe82adc90c6091f2751b353d->m_frame.f_lineno = 398;
+        frame_baee270ef88f989fccfbfc56d337ac33->m_frame.f_lineno = 398;
         tmp_right_name_3 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_2,
             mod_consts[144],
@@ -18530,7 +18530,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__44_transform_non_af
         }
         CHECK_OBJECT(var_theta);
         tmp_args_element_name_2 = var_theta;
-        frame_c900be58fe82adc90c6091f2751b353d->m_frame.f_lineno = 398;
+        frame_baee270ef88f989fccfbfc56d337ac33->m_frame.f_lineno = 398;
         tmp_right_name_5 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[127], tmp_args_element_name_2);
         if (tmp_right_name_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -18685,7 +18685,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__44_transform_non_af
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_c900be58fe82adc90c6091f2751b353d->m_frame.f_lineno = 399;
+        frame_baee270ef88f989fccfbfc56d337ac33->m_frame.f_lineno = 399;
         tmp_right_name_7 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_4);
@@ -18755,7 +18755,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__44_transform_non_af
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_c900be58fe82adc90c6091f2751b353d->m_frame.f_lineno = 399;
+        frame_baee270ef88f989fccfbfc56d337ac33->m_frame.f_lineno = 399;
         tmp_assign_source_8 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_3);
@@ -18799,7 +18799,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__44_transform_non_af
         CHECK_OBJECT(var_latitude);
         tmp_list_element_1 = var_latitude;
         PyList_SET_ITEM0(tmp_args_element_name_5, 1, tmp_list_element_1);
-        frame_c900be58fe82adc90c6091f2751b353d->m_frame.f_lineno = 400;
+        frame_baee270ef88f989fccfbfc56d337ac33->m_frame.f_lineno = 400;
         tmp_return_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_4, mod_consts[136], tmp_args_element_name_5);
         Py_DECREF(tmp_args_element_name_5);
         if (tmp_return_value == NULL) {
@@ -18816,7 +18816,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__44_transform_non_af
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c900be58fe82adc90c6091f2751b353d);
+    RESTORE_FRAME_EXCEPTION(frame_baee270ef88f989fccfbfc56d337ac33);
 #endif
 
     // Put the previous frame back on top.
@@ -18826,7 +18826,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__44_transform_non_af
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c900be58fe82adc90c6091f2751b353d);
+    RESTORE_FRAME_EXCEPTION(frame_baee270ef88f989fccfbfc56d337ac33);
 #endif
 
     // Put the previous frame back on top.
@@ -18837,18 +18837,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__44_transform_non_af
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c900be58fe82adc90c6091f2751b353d);
+    RESTORE_FRAME_EXCEPTION(frame_baee270ef88f989fccfbfc56d337ac33);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_c900be58fe82adc90c6091f2751b353d, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_c900be58fe82adc90c6091f2751b353d->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_c900be58fe82adc90c6091f2751b353d, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_baee270ef88f989fccfbfc56d337ac33, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_baee270ef88f989fccfbfc56d337ac33->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_baee270ef88f989fccfbfc56d337ac33, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_c900be58fe82adc90c6091f2751b353d,
+        frame_baee270ef88f989fccfbfc56d337ac33,
         type_description_1,
         par_self,
         par_xy,
@@ -18861,17 +18861,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__44_transform_non_af
 
 
     // Release cached frame if used for exception.
-    if (frame_c900be58fe82adc90c6091f2751b353d == cache_frame_c900be58fe82adc90c6091f2751b353d) {
+    if (frame_baee270ef88f989fccfbfc56d337ac33 == cache_frame_baee270ef88f989fccfbfc56d337ac33) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_c900be58fe82adc90c6091f2751b353d);
-        cache_frame_c900be58fe82adc90c6091f2751b353d = NULL;
+        Py_DECREF(cache_frame_baee270ef88f989fccfbfc56d337ac33);
+        cache_frame_baee270ef88f989fccfbfc56d337ac33 = NULL;
     }
 
-    assertFrameObject(frame_c900be58fe82adc90c6091f2751b353d);
+    assertFrameObject(frame_baee270ef88f989fccfbfc56d337ac33);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -18964,14 +18964,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__45_inverted(struct 
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_99f29dd7e8993a9c73b4497a09af2350;
+    struct Nuitka_FrameObject *frame_29299121cf0d4119de54586ce989fcbe;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_99f29dd7e8993a9c73b4497a09af2350 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_29299121cf0d4119de54586ce989fcbe = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -18979,31 +18979,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__45_inverted(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_99f29dd7e8993a9c73b4497a09af2350)) {
-        Py_XDECREF(cache_frame_99f29dd7e8993a9c73b4497a09af2350);
+    if (isFrameUnusable(cache_frame_29299121cf0d4119de54586ce989fcbe)) {
+        Py_XDECREF(cache_frame_29299121cf0d4119de54586ce989fcbe);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_99f29dd7e8993a9c73b4497a09af2350 == NULL) {
+        if (cache_frame_29299121cf0d4119de54586ce989fcbe == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_99f29dd7e8993a9c73b4497a09af2350 = MAKE_FUNCTION_FRAME(codeobj_99f29dd7e8993a9c73b4497a09af2350, module_matplotlib$projections$geo, sizeof(void *));
+        cache_frame_29299121cf0d4119de54586ce989fcbe = MAKE_FUNCTION_FRAME(codeobj_29299121cf0d4119de54586ce989fcbe, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_99f29dd7e8993a9c73b4497a09af2350->m_type_description == NULL);
-    frame_99f29dd7e8993a9c73b4497a09af2350 = cache_frame_99f29dd7e8993a9c73b4497a09af2350;
+    assert(cache_frame_29299121cf0d4119de54586ce989fcbe->m_type_description == NULL);
+    frame_29299121cf0d4119de54586ce989fcbe = cache_frame_29299121cf0d4119de54586ce989fcbe;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_99f29dd7e8993a9c73b4497a09af2350);
+    pushFrameStack(frame_29299121cf0d4119de54586ce989fcbe);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_99f29dd7e8993a9c73b4497a09af2350) == 2); // Frame stack
+    assert(Py_REFCNT(frame_29299121cf0d4119de54586ce989fcbe) == 2); // Frame stack
 
     // Framed code:
     {
@@ -19051,7 +19051,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__45_inverted(struct 
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_99f29dd7e8993a9c73b4497a09af2350->m_frame.f_lineno = 404;
+        frame_29299121cf0d4119de54586ce989fcbe->m_frame.f_lineno = 404;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -19069,7 +19069,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__45_inverted(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_99f29dd7e8993a9c73b4497a09af2350);
+    RESTORE_FRAME_EXCEPTION(frame_29299121cf0d4119de54586ce989fcbe);
 #endif
 
     // Put the previous frame back on top.
@@ -19079,7 +19079,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__45_inverted(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_99f29dd7e8993a9c73b4497a09af2350);
+    RESTORE_FRAME_EXCEPTION(frame_29299121cf0d4119de54586ce989fcbe);
 #endif
 
     // Put the previous frame back on top.
@@ -19090,35 +19090,35 @@ static PyObject *impl_matplotlib$projections$geo$$$function__45_inverted(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_99f29dd7e8993a9c73b4497a09af2350);
+    RESTORE_FRAME_EXCEPTION(frame_29299121cf0d4119de54586ce989fcbe);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_99f29dd7e8993a9c73b4497a09af2350, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_99f29dd7e8993a9c73b4497a09af2350->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_99f29dd7e8993a9c73b4497a09af2350, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_29299121cf0d4119de54586ce989fcbe, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_29299121cf0d4119de54586ce989fcbe->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_29299121cf0d4119de54586ce989fcbe, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_99f29dd7e8993a9c73b4497a09af2350,
+        frame_29299121cf0d4119de54586ce989fcbe,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_99f29dd7e8993a9c73b4497a09af2350 == cache_frame_99f29dd7e8993a9c73b4497a09af2350) {
+    if (frame_29299121cf0d4119de54586ce989fcbe == cache_frame_29299121cf0d4119de54586ce989fcbe) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_99f29dd7e8993a9c73b4497a09af2350);
-        cache_frame_99f29dd7e8993a9c73b4497a09af2350 = NULL;
+        Py_DECREF(cache_frame_29299121cf0d4119de54586ce989fcbe);
+        cache_frame_29299121cf0d4119de54586ce989fcbe = NULL;
     }
 
-    assertFrameObject(frame_99f29dd7e8993a9c73b4497a09af2350);
+    assertFrameObject(frame_29299121cf0d4119de54586ce989fcbe);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -19187,7 +19187,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__46___init__(struct 
     PyObject *par_self = python_pars[0];
     PyObject *par_args = python_pars[1];
     PyObject *par_kwargs = python_pars[2];
-    struct Nuitka_FrameObject *frame_f964d210e610cb3c572419630a9a1081;
+    struct Nuitka_FrameObject *frame_6abf445697c11b0309e572b34289041e;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -19195,7 +19195,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__46___init__(struct 
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_f964d210e610cb3c572419630a9a1081 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_6abf445697c11b0309e572b34289041e = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -19204,31 +19204,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__46___init__(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_f964d210e610cb3c572419630a9a1081)) {
-        Py_XDECREF(cache_frame_f964d210e610cb3c572419630a9a1081);
+    if (isFrameUnusable(cache_frame_6abf445697c11b0309e572b34289041e)) {
+        Py_XDECREF(cache_frame_6abf445697c11b0309e572b34289041e);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_f964d210e610cb3c572419630a9a1081 == NULL) {
+        if (cache_frame_6abf445697c11b0309e572b34289041e == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_f964d210e610cb3c572419630a9a1081 = MAKE_FUNCTION_FRAME(codeobj_f964d210e610cb3c572419630a9a1081, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_6abf445697c11b0309e572b34289041e = MAKE_FUNCTION_FRAME(codeobj_6abf445697c11b0309e572b34289041e, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_f964d210e610cb3c572419630a9a1081->m_type_description == NULL);
-    frame_f964d210e610cb3c572419630a9a1081 = cache_frame_f964d210e610cb3c572419630a9a1081;
+    assert(cache_frame_6abf445697c11b0309e572b34289041e->m_type_description == NULL);
+    frame_6abf445697c11b0309e572b34289041e = cache_frame_6abf445697c11b0309e572b34289041e;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_f964d210e610cb3c572419630a9a1081);
+    pushFrameStack(frame_6abf445697c11b0309e572b34289041e);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_f964d210e610cb3c572419630a9a1081) == 2); // Frame stack
+    assert(Py_REFCNT(frame_6abf445697c11b0309e572b34289041e) == 2); // Frame stack
 
     // Framed code:
     {
@@ -19375,7 +19375,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__46___init__(struct 
         }
         tmp_args_name_1 = mod_consts[142];
         tmp_kwargs_name_1 = PyDict_Copy(mod_consts[143]);
-        frame_f964d210e610cb3c572419630a9a1081->m_frame.f_lineno = 409;
+        frame_6abf445697c11b0309e572b34289041e->m_frame.f_lineno = 409;
         tmp_call_result_2 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_kwargs_name_1);
@@ -19407,7 +19407,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__46___init__(struct 
         }
 
         tmp_called_instance_1 = par_self;
-        frame_f964d210e610cb3c572419630a9a1081->m_frame.f_lineno = 410;
+        frame_6abf445697c11b0309e572b34289041e->m_frame.f_lineno = 410;
         tmp_call_result_3 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[15]);
         if (tmp_call_result_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -19423,7 +19423,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__46___init__(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f964d210e610cb3c572419630a9a1081);
+    RESTORE_FRAME_EXCEPTION(frame_6abf445697c11b0309e572b34289041e);
 #endif
 
     // Put the previous frame back on top.
@@ -19434,18 +19434,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__46___init__(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f964d210e610cb3c572419630a9a1081);
+    RESTORE_FRAME_EXCEPTION(frame_6abf445697c11b0309e572b34289041e);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_f964d210e610cb3c572419630a9a1081, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_f964d210e610cb3c572419630a9a1081->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_f964d210e610cb3c572419630a9a1081, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_6abf445697c11b0309e572b34289041e, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_6abf445697c11b0309e572b34289041e->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_6abf445697c11b0309e572b34289041e, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_f964d210e610cb3c572419630a9a1081,
+        frame_6abf445697c11b0309e572b34289041e,
         type_description_1,
         par_self,
         par_args,
@@ -19454,17 +19454,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__46___init__(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_f964d210e610cb3c572419630a9a1081 == cache_frame_f964d210e610cb3c572419630a9a1081) {
+    if (frame_6abf445697c11b0309e572b34289041e == cache_frame_6abf445697c11b0309e572b34289041e) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_f964d210e610cb3c572419630a9a1081);
-        cache_frame_f964d210e610cb3c572419630a9a1081 = NULL;
+        Py_DECREF(cache_frame_6abf445697c11b0309e572b34289041e);
+        cache_frame_6abf445697c11b0309e572b34289041e = NULL;
     }
 
-    assertFrameObject(frame_f964d210e610cb3c572419630a9a1081);
+    assertFrameObject(frame_6abf445697c11b0309e572b34289041e);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -19547,14 +19547,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__47__get_core_transf
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_resolution = python_pars[1];
-    struct Nuitka_FrameObject *frame_dbf0e39eb314216910aba859e769b725;
+    struct Nuitka_FrameObject *frame_41b13f84c55f78b500ffd6b77f5989a6;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_dbf0e39eb314216910aba859e769b725 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_41b13f84c55f78b500ffd6b77f5989a6 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -19562,31 +19562,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__47__get_core_transf
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_dbf0e39eb314216910aba859e769b725)) {
-        Py_XDECREF(cache_frame_dbf0e39eb314216910aba859e769b725);
+    if (isFrameUnusable(cache_frame_41b13f84c55f78b500ffd6b77f5989a6)) {
+        Py_XDECREF(cache_frame_41b13f84c55f78b500ffd6b77f5989a6);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_dbf0e39eb314216910aba859e769b725 == NULL) {
+        if (cache_frame_41b13f84c55f78b500ffd6b77f5989a6 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_dbf0e39eb314216910aba859e769b725 = MAKE_FUNCTION_FRAME(codeobj_dbf0e39eb314216910aba859e769b725, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
+        cache_frame_41b13f84c55f78b500ffd6b77f5989a6 = MAKE_FUNCTION_FRAME(codeobj_41b13f84c55f78b500ffd6b77f5989a6, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_dbf0e39eb314216910aba859e769b725->m_type_description == NULL);
-    frame_dbf0e39eb314216910aba859e769b725 = cache_frame_dbf0e39eb314216910aba859e769b725;
+    assert(cache_frame_41b13f84c55f78b500ffd6b77f5989a6->m_type_description == NULL);
+    frame_41b13f84c55f78b500ffd6b77f5989a6 = cache_frame_41b13f84c55f78b500ffd6b77f5989a6;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_dbf0e39eb314216910aba859e769b725);
+    pushFrameStack(frame_41b13f84c55f78b500ffd6b77f5989a6);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_dbf0e39eb314216910aba859e769b725) == 2); // Frame stack
+    assert(Py_REFCNT(frame_41b13f84c55f78b500ffd6b77f5989a6) == 2); // Frame stack
 
     // Framed code:
     {
@@ -19596,7 +19596,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__47__get_core_transf
         tmp_called_instance_1 = par_self;
         CHECK_OBJECT(par_resolution);
         tmp_args_element_name_1 = par_resolution;
-        frame_dbf0e39eb314216910aba859e769b725->m_frame.f_lineno = 413;
+        frame_41b13f84c55f78b500ffd6b77f5989a6->m_frame.f_lineno = 413;
         tmp_return_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[182], tmp_args_element_name_1);
         if (tmp_return_value == NULL) {
             assert(ERROR_OCCURRED());
@@ -19612,7 +19612,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__47__get_core_transf
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_dbf0e39eb314216910aba859e769b725);
+    RESTORE_FRAME_EXCEPTION(frame_41b13f84c55f78b500ffd6b77f5989a6);
 #endif
 
     // Put the previous frame back on top.
@@ -19622,7 +19622,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__47__get_core_transf
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_dbf0e39eb314216910aba859e769b725);
+    RESTORE_FRAME_EXCEPTION(frame_41b13f84c55f78b500ffd6b77f5989a6);
 #endif
 
     // Put the previous frame back on top.
@@ -19633,18 +19633,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__47__get_core_transf
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_dbf0e39eb314216910aba859e769b725);
+    RESTORE_FRAME_EXCEPTION(frame_41b13f84c55f78b500ffd6b77f5989a6);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_dbf0e39eb314216910aba859e769b725, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_dbf0e39eb314216910aba859e769b725->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_dbf0e39eb314216910aba859e769b725, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_41b13f84c55f78b500ffd6b77f5989a6, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_41b13f84c55f78b500ffd6b77f5989a6->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_41b13f84c55f78b500ffd6b77f5989a6, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_dbf0e39eb314216910aba859e769b725,
+        frame_41b13f84c55f78b500ffd6b77f5989a6,
         type_description_1,
         par_self,
         par_resolution
@@ -19652,17 +19652,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__47__get_core_transf
 
 
     // Release cached frame if used for exception.
-    if (frame_dbf0e39eb314216910aba859e769b725 == cache_frame_dbf0e39eb314216910aba859e769b725) {
+    if (frame_41b13f84c55f78b500ffd6b77f5989a6 == cache_frame_41b13f84c55f78b500ffd6b77f5989a6) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_dbf0e39eb314216910aba859e769b725);
-        cache_frame_dbf0e39eb314216910aba859e769b725 = NULL;
+        Py_DECREF(cache_frame_41b13f84c55f78b500ffd6b77f5989a6);
+        cache_frame_41b13f84c55f78b500ffd6b77f5989a6 = NULL;
     }
 
-    assertFrameObject(frame_dbf0e39eb314216910aba859e769b725);
+    assertFrameObject(frame_41b13f84c55f78b500ffd6b77f5989a6);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -19736,7 +19736,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__48___init__(struct 
     PyObject *par_center_longitude = python_pars[1];
     PyObject *par_center_latitude = python_pars[2];
     PyObject *par_resolution = python_pars[3];
-    struct Nuitka_FrameObject *frame_238400c3b186af6b8b9357cb881eb973;
+    struct Nuitka_FrameObject *frame_642e2a1c643f267089731f35979baea7;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -19744,7 +19744,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__48___init__(struct 
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_238400c3b186af6b8b9357cb881eb973 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_642e2a1c643f267089731f35979baea7 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -19753,31 +19753,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__48___init__(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_238400c3b186af6b8b9357cb881eb973)) {
-        Py_XDECREF(cache_frame_238400c3b186af6b8b9357cb881eb973);
+    if (isFrameUnusable(cache_frame_642e2a1c643f267089731f35979baea7)) {
+        Py_XDECREF(cache_frame_642e2a1c643f267089731f35979baea7);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_238400c3b186af6b8b9357cb881eb973 == NULL) {
+        if (cache_frame_642e2a1c643f267089731f35979baea7 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_238400c3b186af6b8b9357cb881eb973 = MAKE_FUNCTION_FRAME(codeobj_238400c3b186af6b8b9357cb881eb973, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_642e2a1c643f267089731f35979baea7 = MAKE_FUNCTION_FRAME(codeobj_642e2a1c643f267089731f35979baea7, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_238400c3b186af6b8b9357cb881eb973->m_type_description == NULL);
-    frame_238400c3b186af6b8b9357cb881eb973 = cache_frame_238400c3b186af6b8b9357cb881eb973;
+    assert(cache_frame_642e2a1c643f267089731f35979baea7->m_type_description == NULL);
+    frame_642e2a1c643f267089731f35979baea7 = cache_frame_642e2a1c643f267089731f35979baea7;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_238400c3b186af6b8b9357cb881eb973);
+    pushFrameStack(frame_642e2a1c643f267089731f35979baea7);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_238400c3b186af6b8b9357cb881eb973) == 2); // Frame stack
+    assert(Py_REFCNT(frame_642e2a1c643f267089731f35979baea7) == 2); // Frame stack
 
     // Framed code:
     {
@@ -19805,7 +19805,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__48___init__(struct 
         tmp_args_element_name_1 = par_self;
         CHECK_OBJECT(par_resolution);
         tmp_args_element_name_2 = par_resolution;
-        frame_238400c3b186af6b8b9357cb881eb973->m_frame.f_lineno = 428;
+        frame_642e2a1c643f267089731f35979baea7->m_frame.f_lineno = 428;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS2(
@@ -19889,7 +19889,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__48___init__(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_238400c3b186af6b8b9357cb881eb973);
+    RESTORE_FRAME_EXCEPTION(frame_642e2a1c643f267089731f35979baea7);
 #endif
 
     // Put the previous frame back on top.
@@ -19900,18 +19900,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__48___init__(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_238400c3b186af6b8b9357cb881eb973);
+    RESTORE_FRAME_EXCEPTION(frame_642e2a1c643f267089731f35979baea7);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_238400c3b186af6b8b9357cb881eb973, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_238400c3b186af6b8b9357cb881eb973->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_238400c3b186af6b8b9357cb881eb973, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_642e2a1c643f267089731f35979baea7, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_642e2a1c643f267089731f35979baea7->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_642e2a1c643f267089731f35979baea7, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_238400c3b186af6b8b9357cb881eb973,
+        frame_642e2a1c643f267089731f35979baea7,
         type_description_1,
         par_self,
         par_center_longitude,
@@ -19921,17 +19921,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__48___init__(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_238400c3b186af6b8b9357cb881eb973 == cache_frame_238400c3b186af6b8b9357cb881eb973) {
+    if (frame_642e2a1c643f267089731f35979baea7 == cache_frame_642e2a1c643f267089731f35979baea7) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_238400c3b186af6b8b9357cb881eb973);
-        cache_frame_238400c3b186af6b8b9357cb881eb973 = NULL;
+        Py_DECREF(cache_frame_642e2a1c643f267089731f35979baea7);
+        cache_frame_642e2a1c643f267089731f35979baea7 = NULL;
     }
 
-    assertFrameObject(frame_238400c3b186af6b8b9357cb881eb973);
+    assertFrameObject(frame_642e2a1c643f267089731f35979baea7);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -20033,7 +20033,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_9ee611a205285ddec2fe1bea5365f6db;
+    struct Nuitka_FrameObject *frame_dc34e88ea318b0d3cdbe651f840d4545;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -20049,7 +20049,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_9ee611a205285ddec2fe1bea5365f6db = NULL;
+    static struct Nuitka_FrameObject *cache_frame_dc34e88ea318b0d3cdbe651f840d4545 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -20057,31 +20057,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_9ee611a205285ddec2fe1bea5365f6db)) {
-        Py_XDECREF(cache_frame_9ee611a205285ddec2fe1bea5365f6db);
+    if (isFrameUnusable(cache_frame_dc34e88ea318b0d3cdbe651f840d4545)) {
+        Py_XDECREF(cache_frame_dc34e88ea318b0d3cdbe651f840d4545);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_9ee611a205285ddec2fe1bea5365f6db == NULL) {
+        if (cache_frame_dc34e88ea318b0d3cdbe651f840d4545 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_9ee611a205285ddec2fe1bea5365f6db = MAKE_FUNCTION_FRAME(codeobj_9ee611a205285ddec2fe1bea5365f6db, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_dc34e88ea318b0d3cdbe651f840d4545 = MAKE_FUNCTION_FRAME(codeobj_dc34e88ea318b0d3cdbe651f840d4545, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_9ee611a205285ddec2fe1bea5365f6db->m_type_description == NULL);
-    frame_9ee611a205285ddec2fe1bea5365f6db = cache_frame_9ee611a205285ddec2fe1bea5365f6db;
+    assert(cache_frame_dc34e88ea318b0d3cdbe651f840d4545->m_type_description == NULL);
+    frame_dc34e88ea318b0d3cdbe651f840d4545 = cache_frame_dc34e88ea318b0d3cdbe651f840d4545;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_9ee611a205285ddec2fe1bea5365f6db);
+    pushFrameStack(frame_dc34e88ea318b0d3cdbe651f840d4545);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_9ee611a205285ddec2fe1bea5365f6db) == 2); // Frame stack
+    assert(Py_REFCNT(frame_dc34e88ea318b0d3cdbe651f840d4545) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -20350,7 +20350,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
         }
         CHECK_OBJECT(var_latitude);
         tmp_args_element_name_1 = var_latitude;
-        frame_9ee611a205285ddec2fe1bea5365f6db->m_frame.f_lineno = 437;
+        frame_dc34e88ea318b0d3cdbe651f840d4545->m_frame.f_lineno = 437;
         tmp_assign_source_8 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[127], tmp_args_element_name_1);
         if (tmp_assign_source_8 == NULL) {
             assert(ERROR_OCCURRED());
@@ -20410,7 +20410,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
         }
 
         tmp_args_element_name_2 = var_latitude;
-        frame_9ee611a205285ddec2fe1bea5365f6db->m_frame.f_lineno = 438;
+        frame_dc34e88ea318b0d3cdbe651f840d4545->m_frame.f_lineno = 438;
         tmp_assign_source_9 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_1);
         if (tmp_assign_source_9 == NULL) {
@@ -20470,7 +20470,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
         }
         CHECK_OBJECT(var_diff_long);
         tmp_args_element_name_3 = var_diff_long;
-        frame_9ee611a205285ddec2fe1bea5365f6db->m_frame.f_lineno = 440;
+        frame_dc34e88ea318b0d3cdbe651f840d4545->m_frame.f_lineno = 440;
         tmp_assign_source_11 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[127], tmp_args_element_name_3);
         if (tmp_assign_source_11 == NULL) {
             assert(ERROR_OCCURRED());
@@ -20552,7 +20552,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
         }
         CHECK_OBJECT(var_clat);
         tmp_args_element_name_5 = var_clat;
-        frame_9ee611a205285ddec2fe1bea5365f6db->m_frame.f_lineno = 443;
+        frame_dc34e88ea318b0d3cdbe651f840d4545->m_frame.f_lineno = 443;
         tmp_left_name_4 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[130], tmp_args_element_name_5);
         if (tmp_left_name_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -20634,7 +20634,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
         }
 
         tmp_args_element_name_6 = var_clat;
-        frame_9ee611a205285ddec2fe1bea5365f6db->m_frame.f_lineno = 443;
+        frame_dc34e88ea318b0d3cdbe651f840d4545->m_frame.f_lineno = 443;
         tmp_left_name_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_3);
         if (tmp_left_name_6 == NULL) {
@@ -20692,7 +20692,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
             goto frame_exception_exit_1;
         }
         tmp_args_element_name_7 = mod_consts[189];
-        frame_9ee611a205285ddec2fe1bea5365f6db->m_frame.f_lineno = 442;
+        frame_dc34e88ea318b0d3cdbe651f840d4545->m_frame.f_lineno = 442;
         {
             PyObject *call_args[] = {tmp_args_element_name_4, tmp_args_element_name_7};
             tmp_assign_source_12 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -20761,7 +20761,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
             type_description_1 = "oooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_9ee611a205285ddec2fe1bea5365f6db->m_frame.f_lineno = 445;
+        frame_dc34e88ea318b0d3cdbe651f840d4545->m_frame.f_lineno = 445;
         tmp_assign_source_13 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_8);
         Py_DECREF(tmp_called_name_4);
         Py_DECREF(tmp_args_element_name_8);
@@ -20854,7 +20854,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
         }
 
         tmp_args_element_name_9 = var_diff_long;
-        frame_9ee611a205285ddec2fe1bea5365f6db->m_frame.f_lineno = 446;
+        frame_dc34e88ea318b0d3cdbe651f840d4545->m_frame.f_lineno = 446;
         tmp_right_name_9 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_9);
         Py_DECREF(tmp_called_name_5);
         if (tmp_right_name_9 == NULL) {
@@ -20954,7 +20954,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
         }
 
         tmp_args_element_name_10 = var_clat;
-        frame_9ee611a205285ddec2fe1bea5365f6db->m_frame.f_lineno = 447;
+        frame_dc34e88ea318b0d3cdbe651f840d4545->m_frame.f_lineno = 447;
         tmp_left_name_12 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_10);
         Py_DECREF(tmp_called_name_6);
         if (tmp_left_name_12 == NULL) {
@@ -21033,7 +21033,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
         }
 
         tmp_args_element_name_11 = var_clat;
-        frame_9ee611a205285ddec2fe1bea5365f6db->m_frame.f_lineno = 447;
+        frame_dc34e88ea318b0d3cdbe651f840d4545->m_frame.f_lineno = 447;
         tmp_left_name_14 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_7, tmp_args_element_name_11);
         Py_DECREF(tmp_called_name_7);
         if (tmp_left_name_14 == NULL) {
@@ -21153,7 +21153,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
         CHECK_OBJECT(var_y);
         tmp_list_element_1 = var_y;
         PyList_SET_ITEM0(tmp_args_element_name_12, 1, tmp_list_element_1);
-        frame_9ee611a205285ddec2fe1bea5365f6db->m_frame.f_lineno = 449;
+        frame_dc34e88ea318b0d3cdbe651f840d4545->m_frame.f_lineno = 449;
         tmp_return_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_4, mod_consts[136], tmp_args_element_name_12);
         Py_DECREF(tmp_args_element_name_12);
         if (tmp_return_value == NULL) {
@@ -21170,7 +21170,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9ee611a205285ddec2fe1bea5365f6db);
+    RESTORE_FRAME_EXCEPTION(frame_dc34e88ea318b0d3cdbe651f840d4545);
 #endif
 
     // Put the previous frame back on top.
@@ -21180,7 +21180,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9ee611a205285ddec2fe1bea5365f6db);
+    RESTORE_FRAME_EXCEPTION(frame_dc34e88ea318b0d3cdbe651f840d4545);
 #endif
 
     // Put the previous frame back on top.
@@ -21191,18 +21191,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9ee611a205285ddec2fe1bea5365f6db);
+    RESTORE_FRAME_EXCEPTION(frame_dc34e88ea318b0d3cdbe651f840d4545);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_9ee611a205285ddec2fe1bea5365f6db, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_9ee611a205285ddec2fe1bea5365f6db->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_9ee611a205285ddec2fe1bea5365f6db, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_dc34e88ea318b0d3cdbe651f840d4545, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_dc34e88ea318b0d3cdbe651f840d4545->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_dc34e88ea318b0d3cdbe651f840d4545, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_9ee611a205285ddec2fe1bea5365f6db,
+        frame_dc34e88ea318b0d3cdbe651f840d4545,
         type_description_1,
         par_self,
         par_ll,
@@ -21222,17 +21222,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__49_transform_non_af
 
 
     // Release cached frame if used for exception.
-    if (frame_9ee611a205285ddec2fe1bea5365f6db == cache_frame_9ee611a205285ddec2fe1bea5365f6db) {
+    if (frame_dc34e88ea318b0d3cdbe651f840d4545 == cache_frame_dc34e88ea318b0d3cdbe651f840d4545) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_9ee611a205285ddec2fe1bea5365f6db);
-        cache_frame_9ee611a205285ddec2fe1bea5365f6db = NULL;
+        Py_DECREF(cache_frame_dc34e88ea318b0d3cdbe651f840d4545);
+        cache_frame_dc34e88ea318b0d3cdbe651f840d4545 = NULL;
     }
 
-    assertFrameObject(frame_9ee611a205285ddec2fe1bea5365f6db);
+    assertFrameObject(frame_dc34e88ea318b0d3cdbe651f840d4545);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -21351,14 +21351,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__50_inverted(struct 
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0;
+    struct Nuitka_FrameObject *frame_8691383b73094649d6a0a8ec98fcfc74;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_8691383b73094649d6a0a8ec98fcfc74 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -21366,31 +21366,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__50_inverted(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0)) {
-        Py_XDECREF(cache_frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0);
+    if (isFrameUnusable(cache_frame_8691383b73094649d6a0a8ec98fcfc74)) {
+        Py_XDECREF(cache_frame_8691383b73094649d6a0a8ec98fcfc74);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0 == NULL) {
+        if (cache_frame_8691383b73094649d6a0a8ec98fcfc74 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0 = MAKE_FUNCTION_FRAME(codeobj_48b3baa1e9c70d3ed0b0e9aa8903e4a0, module_matplotlib$projections$geo, sizeof(void *));
+        cache_frame_8691383b73094649d6a0a8ec98fcfc74 = MAKE_FUNCTION_FRAME(codeobj_8691383b73094649d6a0a8ec98fcfc74, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0->m_type_description == NULL);
-    frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0 = cache_frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0;
+    assert(cache_frame_8691383b73094649d6a0a8ec98fcfc74->m_type_description == NULL);
+    frame_8691383b73094649d6a0a8ec98fcfc74 = cache_frame_8691383b73094649d6a0a8ec98fcfc74;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0);
+    pushFrameStack(frame_8691383b73094649d6a0a8ec98fcfc74);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0) == 2); // Frame stack
+    assert(Py_REFCNT(frame_8691383b73094649d6a0a8ec98fcfc74) == 2); // Frame stack
 
     // Framed code:
     {
@@ -21496,7 +21496,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__50_inverted(struct 
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0->m_frame.f_lineno = 453;
+        frame_8691383b73094649d6a0a8ec98fcfc74->m_frame.f_lineno = 453;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_1, call_args);
@@ -21520,7 +21520,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__50_inverted(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0);
+    RESTORE_FRAME_EXCEPTION(frame_8691383b73094649d6a0a8ec98fcfc74);
 #endif
 
     // Put the previous frame back on top.
@@ -21530,7 +21530,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__50_inverted(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0);
+    RESTORE_FRAME_EXCEPTION(frame_8691383b73094649d6a0a8ec98fcfc74);
 #endif
 
     // Put the previous frame back on top.
@@ -21541,35 +21541,35 @@ static PyObject *impl_matplotlib$projections$geo$$$function__50_inverted(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0);
+    RESTORE_FRAME_EXCEPTION(frame_8691383b73094649d6a0a8ec98fcfc74);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_8691383b73094649d6a0a8ec98fcfc74, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_8691383b73094649d6a0a8ec98fcfc74->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_8691383b73094649d6a0a8ec98fcfc74, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0,
+        frame_8691383b73094649d6a0a8ec98fcfc74,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0 == cache_frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0) {
+    if (frame_8691383b73094649d6a0a8ec98fcfc74 == cache_frame_8691383b73094649d6a0a8ec98fcfc74) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0);
-        cache_frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0 = NULL;
+        Py_DECREF(cache_frame_8691383b73094649d6a0a8ec98fcfc74);
+        cache_frame_8691383b73094649d6a0a8ec98fcfc74 = NULL;
     }
 
-    assertFrameObject(frame_48b3baa1e9c70d3ed0b0e9aa8903e4a0);
+    assertFrameObject(frame_8691383b73094649d6a0a8ec98fcfc74);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -21639,7 +21639,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__51___init__(struct 
     PyObject *par_center_longitude = python_pars[1];
     PyObject *par_center_latitude = python_pars[2];
     PyObject *par_resolution = python_pars[3];
-    struct Nuitka_FrameObject *frame_625c1b9af3688e37dbad3b696ee76bf7;
+    struct Nuitka_FrameObject *frame_1c749feec7c9a46ea3a74296abacd43b;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -21647,7 +21647,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__51___init__(struct 
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_625c1b9af3688e37dbad3b696ee76bf7 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_1c749feec7c9a46ea3a74296abacd43b = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -21656,31 +21656,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__51___init__(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_625c1b9af3688e37dbad3b696ee76bf7)) {
-        Py_XDECREF(cache_frame_625c1b9af3688e37dbad3b696ee76bf7);
+    if (isFrameUnusable(cache_frame_1c749feec7c9a46ea3a74296abacd43b)) {
+        Py_XDECREF(cache_frame_1c749feec7c9a46ea3a74296abacd43b);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_625c1b9af3688e37dbad3b696ee76bf7 == NULL) {
+        if (cache_frame_1c749feec7c9a46ea3a74296abacd43b == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_625c1b9af3688e37dbad3b696ee76bf7 = MAKE_FUNCTION_FRAME(codeobj_625c1b9af3688e37dbad3b696ee76bf7, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_1c749feec7c9a46ea3a74296abacd43b = MAKE_FUNCTION_FRAME(codeobj_1c749feec7c9a46ea3a74296abacd43b, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_625c1b9af3688e37dbad3b696ee76bf7->m_type_description == NULL);
-    frame_625c1b9af3688e37dbad3b696ee76bf7 = cache_frame_625c1b9af3688e37dbad3b696ee76bf7;
+    assert(cache_frame_1c749feec7c9a46ea3a74296abacd43b->m_type_description == NULL);
+    frame_1c749feec7c9a46ea3a74296abacd43b = cache_frame_1c749feec7c9a46ea3a74296abacd43b;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_625c1b9af3688e37dbad3b696ee76bf7);
+    pushFrameStack(frame_1c749feec7c9a46ea3a74296abacd43b);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_625c1b9af3688e37dbad3b696ee76bf7) == 2); // Frame stack
+    assert(Py_REFCNT(frame_1c749feec7c9a46ea3a74296abacd43b) == 2); // Frame stack
 
     // Framed code:
     {
@@ -21708,7 +21708,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__51___init__(struct 
         tmp_args_element_name_1 = par_self;
         CHECK_OBJECT(par_resolution);
         tmp_args_element_name_2 = par_resolution;
-        frame_625c1b9af3688e37dbad3b696ee76bf7->m_frame.f_lineno = 461;
+        frame_1c749feec7c9a46ea3a74296abacd43b->m_frame.f_lineno = 461;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS2(
@@ -21792,7 +21792,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__51___init__(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_625c1b9af3688e37dbad3b696ee76bf7);
+    RESTORE_FRAME_EXCEPTION(frame_1c749feec7c9a46ea3a74296abacd43b);
 #endif
 
     // Put the previous frame back on top.
@@ -21803,18 +21803,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__51___init__(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_625c1b9af3688e37dbad3b696ee76bf7);
+    RESTORE_FRAME_EXCEPTION(frame_1c749feec7c9a46ea3a74296abacd43b);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_625c1b9af3688e37dbad3b696ee76bf7, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_625c1b9af3688e37dbad3b696ee76bf7->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_625c1b9af3688e37dbad3b696ee76bf7, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_1c749feec7c9a46ea3a74296abacd43b, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_1c749feec7c9a46ea3a74296abacd43b->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_1c749feec7c9a46ea3a74296abacd43b, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_625c1b9af3688e37dbad3b696ee76bf7,
+        frame_1c749feec7c9a46ea3a74296abacd43b,
         type_description_1,
         par_self,
         par_center_longitude,
@@ -21824,17 +21824,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__51___init__(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_625c1b9af3688e37dbad3b696ee76bf7 == cache_frame_625c1b9af3688e37dbad3b696ee76bf7) {
+    if (frame_1c749feec7c9a46ea3a74296abacd43b == cache_frame_1c749feec7c9a46ea3a74296abacd43b) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_625c1b9af3688e37dbad3b696ee76bf7);
-        cache_frame_625c1b9af3688e37dbad3b696ee76bf7 = NULL;
+        Py_DECREF(cache_frame_1c749feec7c9a46ea3a74296abacd43b);
+        cache_frame_1c749feec7c9a46ea3a74296abacd43b = NULL;
     }
 
-    assertFrameObject(frame_625c1b9af3688e37dbad3b696ee76bf7);
+    assertFrameObject(frame_1c749feec7c9a46ea3a74296abacd43b);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -21934,7 +21934,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_97e9d349f04f3c453c512d6b174b47ba;
+    struct Nuitka_FrameObject *frame_a089e4e85c4545da2a99d14e0b23d456;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -21950,7 +21950,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_97e9d349f04f3c453c512d6b174b47ba = NULL;
+    static struct Nuitka_FrameObject *cache_frame_a089e4e85c4545da2a99d14e0b23d456 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -21958,31 +21958,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_97e9d349f04f3c453c512d6b174b47ba)) {
-        Py_XDECREF(cache_frame_97e9d349f04f3c453c512d6b174b47ba);
+    if (isFrameUnusable(cache_frame_a089e4e85c4545da2a99d14e0b23d456)) {
+        Py_XDECREF(cache_frame_a089e4e85c4545da2a99d14e0b23d456);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_97e9d349f04f3c453c512d6b174b47ba == NULL) {
+        if (cache_frame_a089e4e85c4545da2a99d14e0b23d456 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_97e9d349f04f3c453c512d6b174b47ba = MAKE_FUNCTION_FRAME(codeobj_97e9d349f04f3c453c512d6b174b47ba, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_a089e4e85c4545da2a99d14e0b23d456 = MAKE_FUNCTION_FRAME(codeobj_a089e4e85c4545da2a99d14e0b23d456, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_97e9d349f04f3c453c512d6b174b47ba->m_type_description == NULL);
-    frame_97e9d349f04f3c453c512d6b174b47ba = cache_frame_97e9d349f04f3c453c512d6b174b47ba;
+    assert(cache_frame_a089e4e85c4545da2a99d14e0b23d456->m_type_description == NULL);
+    frame_a089e4e85c4545da2a99d14e0b23d456 = cache_frame_a089e4e85c4545da2a99d14e0b23d456;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_97e9d349f04f3c453c512d6b174b47ba);
+    pushFrameStack(frame_a089e4e85c4545da2a99d14e0b23d456);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_97e9d349f04f3c453c512d6b174b47ba) == 2); // Frame stack
+    assert(Py_REFCNT(frame_a089e4e85c4545da2a99d14e0b23d456) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -22285,7 +22285,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
         tmp_args_element_name_2 = var_x;
         CHECK_OBJECT(var_y);
         tmp_args_element_name_3 = var_y;
-        frame_97e9d349f04f3c453c512d6b174b47ba->m_frame.f_lineno = 470;
+        frame_a089e4e85c4545da2a99d14e0b23d456->m_frame.f_lineno = 470;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_args_element_name_1 = CALL_METHOD_WITH_ARGS2(
@@ -22306,7 +22306,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
             goto frame_exception_exit_1;
         }
         tmp_args_element_name_4 = mod_consts[198];
-        frame_97e9d349f04f3c453c512d6b174b47ba->m_frame.f_lineno = 470;
+        frame_a089e4e85c4545da2a99d14e0b23d456->m_frame.f_lineno = 470;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_4};
             tmp_assign_source_8 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -22378,7 +22378,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
             type_description_1 = "oooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_97e9d349f04f3c453c512d6b174b47ba->m_frame.f_lineno = 471;
+        frame_a089e4e85c4545da2a99d14e0b23d456->m_frame.f_lineno = 471;
         tmp_right_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_5);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_5);
@@ -22429,7 +22429,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
         }
         CHECK_OBJECT(var_c);
         tmp_args_element_name_6 = var_c;
-        frame_97e9d349f04f3c453c512d6b174b47ba->m_frame.f_lineno = 472;
+        frame_a089e4e85c4545da2a99d14e0b23d456->m_frame.f_lineno = 472;
         tmp_assign_source_10 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[130], tmp_args_element_name_6);
         if (tmp_assign_source_10 == NULL) {
             assert(ERROR_OCCURRED());
@@ -22489,7 +22489,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
         }
 
         tmp_args_element_name_7 = var_c;
-        frame_97e9d349f04f3c453c512d6b174b47ba->m_frame.f_lineno = 473;
+        frame_a089e4e85c4545da2a99d14e0b23d456->m_frame.f_lineno = 473;
         tmp_assign_source_11 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_3);
         if (tmp_assign_source_11 == NULL) {
@@ -22572,7 +22572,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
         }
         CHECK_OBJECT(var_clat);
         tmp_args_element_name_9 = var_clat;
-        frame_97e9d349f04f3c453c512d6b174b47ba->m_frame.f_lineno = 475;
+        frame_a089e4e85c4545da2a99d14e0b23d456->m_frame.f_lineno = 475;
         tmp_right_name_3 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[130], tmp_args_element_name_9);
         if (tmp_right_name_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -22671,7 +22671,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
         }
 
         tmp_args_element_name_10 = var_clat;
-        frame_97e9d349f04f3c453c512d6b174b47ba->m_frame.f_lineno = 476;
+        frame_a089e4e85c4545da2a99d14e0b23d456->m_frame.f_lineno = 476;
         tmp_right_name_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_10);
         Py_DECREF(tmp_called_name_5);
         if (tmp_right_name_6 == NULL) {
@@ -22741,7 +22741,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
             type_description_1 = "oooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_97e9d349f04f3c453c512d6b174b47ba->m_frame.f_lineno = 475;
+        frame_a089e4e85c4545da2a99d14e0b23d456->m_frame.f_lineno = 475;
         tmp_assign_source_12 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_8);
         Py_DECREF(tmp_called_name_4);
         Py_DECREF(tmp_args_element_name_8);
@@ -22909,7 +22909,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
         }
 
         tmp_args_element_name_12 = var_clat;
-        frame_97e9d349f04f3c453c512d6b174b47ba->m_frame.f_lineno = 478;
+        frame_a089e4e85c4545da2a99d14e0b23d456->m_frame.f_lineno = 478;
         tmp_right_name_11 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_7, tmp_args_element_name_12);
         Py_DECREF(tmp_called_name_7);
         if (tmp_right_name_11 == NULL) {
@@ -23026,7 +23026,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
         }
 
         tmp_args_element_name_13 = var_clat;
-        frame_97e9d349f04f3c453c512d6b174b47ba->m_frame.f_lineno = 478;
+        frame_a089e4e85c4545da2a99d14e0b23d456->m_frame.f_lineno = 478;
         tmp_right_name_14 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_8, tmp_args_element_name_13);
         Py_DECREF(tmp_called_name_8);
         if (tmp_right_name_14 == NULL) {
@@ -23112,7 +23112,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
             type_description_1 = "oooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_97e9d349f04f3c453c512d6b174b47ba->m_frame.f_lineno = 477;
+        frame_a089e4e85c4545da2a99d14e0b23d456->m_frame.f_lineno = 477;
         tmp_right_name_8 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_11);
         Py_DECREF(tmp_called_name_6);
         Py_DECREF(tmp_args_element_name_11);
@@ -23168,7 +23168,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
         CHECK_OBJECT(var_latitude);
         tmp_list_element_1 = var_latitude;
         PyList_SET_ITEM0(tmp_args_element_name_14, 1, tmp_list_element_1);
-        frame_97e9d349f04f3c453c512d6b174b47ba->m_frame.f_lineno = 480;
+        frame_a089e4e85c4545da2a99d14e0b23d456->m_frame.f_lineno = 480;
         tmp_return_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_4, mod_consts[136], tmp_args_element_name_14);
         Py_DECREF(tmp_args_element_name_14);
         if (tmp_return_value == NULL) {
@@ -23185,7 +23185,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_97e9d349f04f3c453c512d6b174b47ba);
+    RESTORE_FRAME_EXCEPTION(frame_a089e4e85c4545da2a99d14e0b23d456);
 #endif
 
     // Put the previous frame back on top.
@@ -23195,7 +23195,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_97e9d349f04f3c453c512d6b174b47ba);
+    RESTORE_FRAME_EXCEPTION(frame_a089e4e85c4545da2a99d14e0b23d456);
 #endif
 
     // Put the previous frame back on top.
@@ -23206,18 +23206,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_97e9d349f04f3c453c512d6b174b47ba);
+    RESTORE_FRAME_EXCEPTION(frame_a089e4e85c4545da2a99d14e0b23d456);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_97e9d349f04f3c453c512d6b174b47ba, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_97e9d349f04f3c453c512d6b174b47ba->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_97e9d349f04f3c453c512d6b174b47ba, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_a089e4e85c4545da2a99d14e0b23d456, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_a089e4e85c4545da2a99d14e0b23d456->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_a089e4e85c4545da2a99d14e0b23d456, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_97e9d349f04f3c453c512d6b174b47ba,
+        frame_a089e4e85c4545da2a99d14e0b23d456,
         type_description_1,
         par_self,
         par_xy,
@@ -23235,17 +23235,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__52_transform_non_af
 
 
     // Release cached frame if used for exception.
-    if (frame_97e9d349f04f3c453c512d6b174b47ba == cache_frame_97e9d349f04f3c453c512d6b174b47ba) {
+    if (frame_a089e4e85c4545da2a99d14e0b23d456 == cache_frame_a089e4e85c4545da2a99d14e0b23d456) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_97e9d349f04f3c453c512d6b174b47ba);
-        cache_frame_97e9d349f04f3c453c512d6b174b47ba = NULL;
+        Py_DECREF(cache_frame_a089e4e85c4545da2a99d14e0b23d456);
+        cache_frame_a089e4e85c4545da2a99d14e0b23d456 = NULL;
     }
 
-    assertFrameObject(frame_97e9d349f04f3c453c512d6b174b47ba);
+    assertFrameObject(frame_a089e4e85c4545da2a99d14e0b23d456);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -23356,14 +23356,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__53_inverted(struct 
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_14181f5ae20682e4bc6a3419d65f3942;
+    struct Nuitka_FrameObject *frame_fa06e5972ae6dcf5d25df23286926b40;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_14181f5ae20682e4bc6a3419d65f3942 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_fa06e5972ae6dcf5d25df23286926b40 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -23371,31 +23371,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__53_inverted(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_14181f5ae20682e4bc6a3419d65f3942)) {
-        Py_XDECREF(cache_frame_14181f5ae20682e4bc6a3419d65f3942);
+    if (isFrameUnusable(cache_frame_fa06e5972ae6dcf5d25df23286926b40)) {
+        Py_XDECREF(cache_frame_fa06e5972ae6dcf5d25df23286926b40);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_14181f5ae20682e4bc6a3419d65f3942 == NULL) {
+        if (cache_frame_fa06e5972ae6dcf5d25df23286926b40 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_14181f5ae20682e4bc6a3419d65f3942 = MAKE_FUNCTION_FRAME(codeobj_14181f5ae20682e4bc6a3419d65f3942, module_matplotlib$projections$geo, sizeof(void *));
+        cache_frame_fa06e5972ae6dcf5d25df23286926b40 = MAKE_FUNCTION_FRAME(codeobj_fa06e5972ae6dcf5d25df23286926b40, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_14181f5ae20682e4bc6a3419d65f3942->m_type_description == NULL);
-    frame_14181f5ae20682e4bc6a3419d65f3942 = cache_frame_14181f5ae20682e4bc6a3419d65f3942;
+    assert(cache_frame_fa06e5972ae6dcf5d25df23286926b40->m_type_description == NULL);
+    frame_fa06e5972ae6dcf5d25df23286926b40 = cache_frame_fa06e5972ae6dcf5d25df23286926b40;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_14181f5ae20682e4bc6a3419d65f3942);
+    pushFrameStack(frame_fa06e5972ae6dcf5d25df23286926b40);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_14181f5ae20682e4bc6a3419d65f3942) == 2); // Frame stack
+    assert(Py_REFCNT(frame_fa06e5972ae6dcf5d25df23286926b40) == 2); // Frame stack
 
     // Framed code:
     {
@@ -23501,7 +23501,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__53_inverted(struct 
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_14181f5ae20682e4bc6a3419d65f3942->m_frame.f_lineno = 484;
+        frame_fa06e5972ae6dcf5d25df23286926b40->m_frame.f_lineno = 484;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_1, call_args);
@@ -23525,7 +23525,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__53_inverted(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_14181f5ae20682e4bc6a3419d65f3942);
+    RESTORE_FRAME_EXCEPTION(frame_fa06e5972ae6dcf5d25df23286926b40);
 #endif
 
     // Put the previous frame back on top.
@@ -23535,7 +23535,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__53_inverted(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_14181f5ae20682e4bc6a3419d65f3942);
+    RESTORE_FRAME_EXCEPTION(frame_fa06e5972ae6dcf5d25df23286926b40);
 #endif
 
     // Put the previous frame back on top.
@@ -23546,35 +23546,35 @@ static PyObject *impl_matplotlib$projections$geo$$$function__53_inverted(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_14181f5ae20682e4bc6a3419d65f3942);
+    RESTORE_FRAME_EXCEPTION(frame_fa06e5972ae6dcf5d25df23286926b40);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_14181f5ae20682e4bc6a3419d65f3942, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_14181f5ae20682e4bc6a3419d65f3942->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_14181f5ae20682e4bc6a3419d65f3942, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_fa06e5972ae6dcf5d25df23286926b40, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_fa06e5972ae6dcf5d25df23286926b40->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_fa06e5972ae6dcf5d25df23286926b40, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_14181f5ae20682e4bc6a3419d65f3942,
+        frame_fa06e5972ae6dcf5d25df23286926b40,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_14181f5ae20682e4bc6a3419d65f3942 == cache_frame_14181f5ae20682e4bc6a3419d65f3942) {
+    if (frame_fa06e5972ae6dcf5d25df23286926b40 == cache_frame_fa06e5972ae6dcf5d25df23286926b40) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_14181f5ae20682e4bc6a3419d65f3942);
-        cache_frame_14181f5ae20682e4bc6a3419d65f3942 = NULL;
+        Py_DECREF(cache_frame_fa06e5972ae6dcf5d25df23286926b40);
+        cache_frame_fa06e5972ae6dcf5d25df23286926b40 = NULL;
     }
 
-    assertFrameObject(frame_14181f5ae20682e4bc6a3419d65f3942);
+    assertFrameObject(frame_fa06e5972ae6dcf5d25df23286926b40);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -23645,7 +23645,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__54___init__(struct 
     PyObject *par_center_latitude = python_pars[2];
     PyObject *par_args = python_pars[3];
     PyObject *par_kwargs = python_pars[4];
-    struct Nuitka_FrameObject *frame_ff652025f64ffc224f7f3567f1dd260a;
+    struct Nuitka_FrameObject *frame_bada0a37aa1720a2b687e1f30de31337;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -23653,7 +23653,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__54___init__(struct 
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_ff652025f64ffc224f7f3567f1dd260a = NULL;
+    static struct Nuitka_FrameObject *cache_frame_bada0a37aa1720a2b687e1f30de31337 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -23662,31 +23662,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__54___init__(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ff652025f64ffc224f7f3567f1dd260a)) {
-        Py_XDECREF(cache_frame_ff652025f64ffc224f7f3567f1dd260a);
+    if (isFrameUnusable(cache_frame_bada0a37aa1720a2b687e1f30de31337)) {
+        Py_XDECREF(cache_frame_bada0a37aa1720a2b687e1f30de31337);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ff652025f64ffc224f7f3567f1dd260a == NULL) {
+        if (cache_frame_bada0a37aa1720a2b687e1f30de31337 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ff652025f64ffc224f7f3567f1dd260a = MAKE_FUNCTION_FRAME(codeobj_ff652025f64ffc224f7f3567f1dd260a, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_bada0a37aa1720a2b687e1f30de31337 = MAKE_FUNCTION_FRAME(codeobj_bada0a37aa1720a2b687e1f30de31337, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ff652025f64ffc224f7f3567f1dd260a->m_type_description == NULL);
-    frame_ff652025f64ffc224f7f3567f1dd260a = cache_frame_ff652025f64ffc224f7f3567f1dd260a;
+    assert(cache_frame_bada0a37aa1720a2b687e1f30de31337->m_type_description == NULL);
+    frame_bada0a37aa1720a2b687e1f30de31337 = cache_frame_bada0a37aa1720a2b687e1f30de31337;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ff652025f64ffc224f7f3567f1dd260a);
+    pushFrameStack(frame_bada0a37aa1720a2b687e1f30de31337);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ff652025f64ffc224f7f3567f1dd260a) == 2); // Frame stack
+    assert(Py_REFCNT(frame_bada0a37aa1720a2b687e1f30de31337) == 2); // Frame stack
 
     // Framed code:
     {
@@ -23871,7 +23871,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__54___init__(struct 
         }
         tmp_args_name_1 = mod_consts[204];
         tmp_kwargs_name_1 = PyDict_Copy(mod_consts[143]);
-        frame_ff652025f64ffc224f7f3567f1dd260a->m_frame.f_lineno = 494;
+        frame_bada0a37aa1720a2b687e1f30de31337->m_frame.f_lineno = 494;
         tmp_call_result_2 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_kwargs_name_1);
@@ -23903,7 +23903,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__54___init__(struct 
         }
 
         tmp_called_instance_1 = par_self;
-        frame_ff652025f64ffc224f7f3567f1dd260a->m_frame.f_lineno = 495;
+        frame_bada0a37aa1720a2b687e1f30de31337->m_frame.f_lineno = 495;
         tmp_call_result_3 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[15]);
         if (tmp_call_result_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -23919,7 +23919,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__54___init__(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ff652025f64ffc224f7f3567f1dd260a);
+    RESTORE_FRAME_EXCEPTION(frame_bada0a37aa1720a2b687e1f30de31337);
 #endif
 
     // Put the previous frame back on top.
@@ -23930,18 +23930,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__54___init__(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ff652025f64ffc224f7f3567f1dd260a);
+    RESTORE_FRAME_EXCEPTION(frame_bada0a37aa1720a2b687e1f30de31337);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ff652025f64ffc224f7f3567f1dd260a, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ff652025f64ffc224f7f3567f1dd260a->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ff652025f64ffc224f7f3567f1dd260a, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_bada0a37aa1720a2b687e1f30de31337, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_bada0a37aa1720a2b687e1f30de31337->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_bada0a37aa1720a2b687e1f30de31337, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ff652025f64ffc224f7f3567f1dd260a,
+        frame_bada0a37aa1720a2b687e1f30de31337,
         type_description_1,
         par_self,
         par_center_longitude,
@@ -23952,17 +23952,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__54___init__(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_ff652025f64ffc224f7f3567f1dd260a == cache_frame_ff652025f64ffc224f7f3567f1dd260a) {
+    if (frame_bada0a37aa1720a2b687e1f30de31337 == cache_frame_bada0a37aa1720a2b687e1f30de31337) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ff652025f64ffc224f7f3567f1dd260a);
-        cache_frame_ff652025f64ffc224f7f3567f1dd260a = NULL;
+        Py_DECREF(cache_frame_bada0a37aa1720a2b687e1f30de31337);
+        cache_frame_bada0a37aa1720a2b687e1f30de31337 = NULL;
     }
 
-    assertFrameObject(frame_ff652025f64ffc224f7f3567f1dd260a);
+    assertFrameObject(frame_bada0a37aa1720a2b687e1f30de31337);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -24056,14 +24056,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__55_cla(struct Nuitk
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_a8f5bc0a10af96d5969e3b731ec11e5c;
+    struct Nuitka_FrameObject *frame_4ad34cd0ff38e695306b95e56979bc39;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_a8f5bc0a10af96d5969e3b731ec11e5c = NULL;
+    static struct Nuitka_FrameObject *cache_frame_4ad34cd0ff38e695306b95e56979bc39 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -24072,31 +24072,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__55_cla(struct Nuitk
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_a8f5bc0a10af96d5969e3b731ec11e5c)) {
-        Py_XDECREF(cache_frame_a8f5bc0a10af96d5969e3b731ec11e5c);
+    if (isFrameUnusable(cache_frame_4ad34cd0ff38e695306b95e56979bc39)) {
+        Py_XDECREF(cache_frame_4ad34cd0ff38e695306b95e56979bc39);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_a8f5bc0a10af96d5969e3b731ec11e5c == NULL) {
+        if (cache_frame_4ad34cd0ff38e695306b95e56979bc39 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_a8f5bc0a10af96d5969e3b731ec11e5c = MAKE_FUNCTION_FRAME(codeobj_a8f5bc0a10af96d5969e3b731ec11e5c, module_matplotlib$projections$geo, sizeof(void *));
+        cache_frame_4ad34cd0ff38e695306b95e56979bc39 = MAKE_FUNCTION_FRAME(codeobj_4ad34cd0ff38e695306b95e56979bc39, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_a8f5bc0a10af96d5969e3b731ec11e5c->m_type_description == NULL);
-    frame_a8f5bc0a10af96d5969e3b731ec11e5c = cache_frame_a8f5bc0a10af96d5969e3b731ec11e5c;
+    assert(cache_frame_4ad34cd0ff38e695306b95e56979bc39->m_type_description == NULL);
+    frame_4ad34cd0ff38e695306b95e56979bc39 = cache_frame_4ad34cd0ff38e695306b95e56979bc39;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_a8f5bc0a10af96d5969e3b731ec11e5c);
+    pushFrameStack(frame_4ad34cd0ff38e695306b95e56979bc39);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_a8f5bc0a10af96d5969e3b731ec11e5c) == 2); // Frame stack
+    assert(Py_REFCNT(frame_4ad34cd0ff38e695306b95e56979bc39) == 2); // Frame stack
 
     // Framed code:
     {
@@ -24121,7 +24121,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__55_cla(struct Nuitk
         }
         CHECK_OBJECT(par_self);
         tmp_args_element_name_1 = par_self;
-        frame_a8f5bc0a10af96d5969e3b731ec11e5c->m_frame.f_lineno = 498;
+        frame_4ad34cd0ff38e695306b95e56979bc39->m_frame.f_lineno = 498;
         tmp_call_result_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[15], tmp_args_element_name_1);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24194,7 +24194,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__55_cla(struct Nuitk
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_a8f5bc0a10af96d5969e3b731ec11e5c->m_frame.f_lineno = 499;
+        frame_4ad34cd0ff38e695306b95e56979bc39->m_frame.f_lineno = 499;
         tmp_args_element_name_2 = CALL_FUNCTION_NO_ARGS(tmp_called_name_2);
         if (tmp_args_element_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24206,7 +24206,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__55_cla(struct Nuitk
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_a8f5bc0a10af96d5969e3b731ec11e5c->m_frame.f_lineno = 499;
+        frame_4ad34cd0ff38e695306b95e56979bc39->m_frame.f_lineno = 499;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_2);
@@ -24224,7 +24224,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__55_cla(struct Nuitk
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a8f5bc0a10af96d5969e3b731ec11e5c);
+    RESTORE_FRAME_EXCEPTION(frame_4ad34cd0ff38e695306b95e56979bc39);
 #endif
 
     // Put the previous frame back on top.
@@ -24235,35 +24235,35 @@ static PyObject *impl_matplotlib$projections$geo$$$function__55_cla(struct Nuitk
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a8f5bc0a10af96d5969e3b731ec11e5c);
+    RESTORE_FRAME_EXCEPTION(frame_4ad34cd0ff38e695306b95e56979bc39);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a8f5bc0a10af96d5969e3b731ec11e5c, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a8f5bc0a10af96d5969e3b731ec11e5c->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a8f5bc0a10af96d5969e3b731ec11e5c, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_4ad34cd0ff38e695306b95e56979bc39, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_4ad34cd0ff38e695306b95e56979bc39->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_4ad34cd0ff38e695306b95e56979bc39, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_a8f5bc0a10af96d5969e3b731ec11e5c,
+        frame_4ad34cd0ff38e695306b95e56979bc39,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_a8f5bc0a10af96d5969e3b731ec11e5c == cache_frame_a8f5bc0a10af96d5969e3b731ec11e5c) {
+    if (frame_4ad34cd0ff38e695306b95e56979bc39 == cache_frame_4ad34cd0ff38e695306b95e56979bc39) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_a8f5bc0a10af96d5969e3b731ec11e5c);
-        cache_frame_a8f5bc0a10af96d5969e3b731ec11e5c = NULL;
+        Py_DECREF(cache_frame_4ad34cd0ff38e695306b95e56979bc39);
+        cache_frame_4ad34cd0ff38e695306b95e56979bc39 = NULL;
     }
 
-    assertFrameObject(frame_a8f5bc0a10af96d5969e3b731ec11e5c);
+    assertFrameObject(frame_4ad34cd0ff38e695306b95e56979bc39);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -24334,14 +24334,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__56__get_core_transf
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_resolution = python_pars[1];
-    struct Nuitka_FrameObject *frame_a8bd5d36b2a2e3790b4b3650701e12e2;
+    struct Nuitka_FrameObject *frame_f816c40b5c5d207ed338c467ba2c6848;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_a8bd5d36b2a2e3790b4b3650701e12e2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f816c40b5c5d207ed338c467ba2c6848 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -24349,31 +24349,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__56__get_core_transf
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_a8bd5d36b2a2e3790b4b3650701e12e2)) {
-        Py_XDECREF(cache_frame_a8bd5d36b2a2e3790b4b3650701e12e2);
+    if (isFrameUnusable(cache_frame_f816c40b5c5d207ed338c467ba2c6848)) {
+        Py_XDECREF(cache_frame_f816c40b5c5d207ed338c467ba2c6848);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_a8bd5d36b2a2e3790b4b3650701e12e2 == NULL) {
+        if (cache_frame_f816c40b5c5d207ed338c467ba2c6848 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_a8bd5d36b2a2e3790b4b3650701e12e2 = MAKE_FUNCTION_FRAME(codeobj_a8bd5d36b2a2e3790b4b3650701e12e2, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
+        cache_frame_f816c40b5c5d207ed338c467ba2c6848 = MAKE_FUNCTION_FRAME(codeobj_f816c40b5c5d207ed338c467ba2c6848, module_matplotlib$projections$geo, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_a8bd5d36b2a2e3790b4b3650701e12e2->m_type_description == NULL);
-    frame_a8bd5d36b2a2e3790b4b3650701e12e2 = cache_frame_a8bd5d36b2a2e3790b4b3650701e12e2;
+    assert(cache_frame_f816c40b5c5d207ed338c467ba2c6848->m_type_description == NULL);
+    frame_f816c40b5c5d207ed338c467ba2c6848 = cache_frame_f816c40b5c5d207ed338c467ba2c6848;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_a8bd5d36b2a2e3790b4b3650701e12e2);
+    pushFrameStack(frame_f816c40b5c5d207ed338c467ba2c6848);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_a8bd5d36b2a2e3790b4b3650701e12e2) == 2); // Frame stack
+    assert(Py_REFCNT(frame_f816c40b5c5d207ed338c467ba2c6848) == 2); // Frame stack
 
     // Framed code:
     {
@@ -24449,7 +24449,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__56__get_core_transf
         }
         CHECK_OBJECT(par_resolution);
         tmp_args_element_name_3 = par_resolution;
-        frame_a8bd5d36b2a2e3790b4b3650701e12e2->m_frame.f_lineno = 502;
+        frame_f816c40b5c5d207ed338c467ba2c6848->m_frame.f_lineno = 502;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_1, call_args);
@@ -24472,7 +24472,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__56__get_core_transf
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a8bd5d36b2a2e3790b4b3650701e12e2);
+    RESTORE_FRAME_EXCEPTION(frame_f816c40b5c5d207ed338c467ba2c6848);
 #endif
 
     // Put the previous frame back on top.
@@ -24482,7 +24482,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__56__get_core_transf
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a8bd5d36b2a2e3790b4b3650701e12e2);
+    RESTORE_FRAME_EXCEPTION(frame_f816c40b5c5d207ed338c467ba2c6848);
 #endif
 
     // Put the previous frame back on top.
@@ -24493,18 +24493,18 @@ static PyObject *impl_matplotlib$projections$geo$$$function__56__get_core_transf
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a8bd5d36b2a2e3790b4b3650701e12e2);
+    RESTORE_FRAME_EXCEPTION(frame_f816c40b5c5d207ed338c467ba2c6848);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a8bd5d36b2a2e3790b4b3650701e12e2, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a8bd5d36b2a2e3790b4b3650701e12e2->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a8bd5d36b2a2e3790b4b3650701e12e2, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_f816c40b5c5d207ed338c467ba2c6848, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_f816c40b5c5d207ed338c467ba2c6848->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_f816c40b5c5d207ed338c467ba2c6848, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_a8bd5d36b2a2e3790b4b3650701e12e2,
+        frame_f816c40b5c5d207ed338c467ba2c6848,
         type_description_1,
         par_self,
         par_resolution
@@ -24512,17 +24512,17 @@ static PyObject *impl_matplotlib$projections$geo$$$function__56__get_core_transf
 
 
     // Release cached frame if used for exception.
-    if (frame_a8bd5d36b2a2e3790b4b3650701e12e2 == cache_frame_a8bd5d36b2a2e3790b4b3650701e12e2) {
+    if (frame_f816c40b5c5d207ed338c467ba2c6848 == cache_frame_f816c40b5c5d207ed338c467ba2c6848) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_a8bd5d36b2a2e3790b4b3650701e12e2);
-        cache_frame_a8bd5d36b2a2e3790b4b3650701e12e2 = NULL;
+        Py_DECREF(cache_frame_f816c40b5c5d207ed338c467ba2c6848);
+        cache_frame_f816c40b5c5d207ed338c467ba2c6848 = NULL;
     }
 
-    assertFrameObject(frame_a8bd5d36b2a2e3790b4b3650701e12e2);
+    assertFrameObject(frame_f816c40b5c5d207ed338c467ba2c6848);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -24593,14 +24593,14 @@ static PyObject *impl_matplotlib$projections$geo$$$function__57__get_affine_tran
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_5a809a2b22a46f63a1ee144c61457123;
+    struct Nuitka_FrameObject *frame_812fb5c48b4b5c145477b902c5f4f079;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_5a809a2b22a46f63a1ee144c61457123 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_812fb5c48b4b5c145477b902c5f4f079 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -24608,31 +24608,31 @@ static PyObject *impl_matplotlib$projections$geo$$$function__57__get_affine_tran
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_5a809a2b22a46f63a1ee144c61457123)) {
-        Py_XDECREF(cache_frame_5a809a2b22a46f63a1ee144c61457123);
+    if (isFrameUnusable(cache_frame_812fb5c48b4b5c145477b902c5f4f079)) {
+        Py_XDECREF(cache_frame_812fb5c48b4b5c145477b902c5f4f079);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_5a809a2b22a46f63a1ee144c61457123 == NULL) {
+        if (cache_frame_812fb5c48b4b5c145477b902c5f4f079 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_5a809a2b22a46f63a1ee144c61457123 = MAKE_FUNCTION_FRAME(codeobj_5a809a2b22a46f63a1ee144c61457123, module_matplotlib$projections$geo, sizeof(void *));
+        cache_frame_812fb5c48b4b5c145477b902c5f4f079 = MAKE_FUNCTION_FRAME(codeobj_812fb5c48b4b5c145477b902c5f4f079, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_5a809a2b22a46f63a1ee144c61457123->m_type_description == NULL);
-    frame_5a809a2b22a46f63a1ee144c61457123 = cache_frame_5a809a2b22a46f63a1ee144c61457123;
+    assert(cache_frame_812fb5c48b4b5c145477b902c5f4f079->m_type_description == NULL);
+    frame_812fb5c48b4b5c145477b902c5f4f079 = cache_frame_812fb5c48b4b5c145477b902c5f4f079;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_5a809a2b22a46f63a1ee144c61457123);
+    pushFrameStack(frame_812fb5c48b4b5c145477b902c5f4f079);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_5a809a2b22a46f63a1ee144c61457123) == 2); // Frame stack
+    assert(Py_REFCNT(frame_812fb5c48b4b5c145477b902c5f4f079) == 2); // Frame stack
 
     // Framed code:
     {
@@ -24655,7 +24655,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__57__get_affine_tran
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_5a809a2b22a46f63a1ee144c61457123->m_frame.f_lineno = 508;
+        frame_812fb5c48b4b5c145477b902c5f4f079->m_frame.f_lineno = 508;
         tmp_called_instance_2 = CALL_FUNCTION_NO_ARGS(tmp_called_name_1);
         if (tmp_called_instance_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24667,7 +24667,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__57__get_affine_tran
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_5a809a2b22a46f63a1ee144c61457123->m_frame.f_lineno = 508;
+        frame_812fb5c48b4b5c145477b902c5f4f079->m_frame.f_lineno = 508;
         tmp_called_instance_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_2,
             mod_consts[45],
@@ -24685,7 +24685,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__57__get_affine_tran
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_5a809a2b22a46f63a1ee144c61457123->m_frame.f_lineno = 508;
+        frame_812fb5c48b4b5c145477b902c5f4f079->m_frame.f_lineno = 508;
         tmp_return_value = CALL_METHOD_WITH_ARGS2(
             tmp_called_instance_1,
             mod_consts[49],
@@ -24707,7 +24707,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__57__get_affine_tran
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_5a809a2b22a46f63a1ee144c61457123);
+    RESTORE_FRAME_EXCEPTION(frame_812fb5c48b4b5c145477b902c5f4f079);
 #endif
 
     // Put the previous frame back on top.
@@ -24717,7 +24717,7 @@ static PyObject *impl_matplotlib$projections$geo$$$function__57__get_affine_tran
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_5a809a2b22a46f63a1ee144c61457123);
+    RESTORE_FRAME_EXCEPTION(frame_812fb5c48b4b5c145477b902c5f4f079);
 #endif
 
     // Put the previous frame back on top.
@@ -24728,35 +24728,35 @@ static PyObject *impl_matplotlib$projections$geo$$$function__57__get_affine_tran
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_5a809a2b22a46f63a1ee144c61457123);
+    RESTORE_FRAME_EXCEPTION(frame_812fb5c48b4b5c145477b902c5f4f079);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_5a809a2b22a46f63a1ee144c61457123, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_5a809a2b22a46f63a1ee144c61457123->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_5a809a2b22a46f63a1ee144c61457123, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_812fb5c48b4b5c145477b902c5f4f079, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_812fb5c48b4b5c145477b902c5f4f079->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_812fb5c48b4b5c145477b902c5f4f079, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_5a809a2b22a46f63a1ee144c61457123,
+        frame_812fb5c48b4b5c145477b902c5f4f079,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_5a809a2b22a46f63a1ee144c61457123 == cache_frame_5a809a2b22a46f63a1ee144c61457123) {
+    if (frame_812fb5c48b4b5c145477b902c5f4f079 == cache_frame_812fb5c48b4b5c145477b902c5f4f079) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_5a809a2b22a46f63a1ee144c61457123);
-        cache_frame_5a809a2b22a46f63a1ee144c61457123 = NULL;
+        Py_DECREF(cache_frame_812fb5c48b4b5c145477b902c5f4f079);
+        cache_frame_812fb5c48b4b5c145477b902c5f4f079 = NULL;
     }
 
-    assertFrameObject(frame_5a809a2b22a46f63a1ee144c61457123);
+    assertFrameObject(frame_812fb5c48b4b5c145477b902c5f4f079);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -24821,11 +24821,11 @@ function_return_exit:
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__10_get_yaxis_transform(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__10_get_yaxis_transform,
-        mod_consts[263],
+        mod_consts[262],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[264],
+        mod_consts[263],
 #endif
-        codeobj_24460a1cdc260a3f0aad4fe812d6795a,
+        codeobj_dd2b90fc01f155e97e17cceca6f88d6c,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -24846,11 +24846,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__10_get_yax
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__11_get_yaxis_text1_transform() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__11_get_yaxis_text1_transform,
-        mod_consts[265],
+        mod_consts[264],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[266],
+        mod_consts[265],
 #endif
-        codeobj_66e55b2a5d196c6b6555a0001e01e72c,
+        codeobj_d9209d16ab277b61f5498ae6c39b7568,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -24871,11 +24871,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__11_get_yax
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__12_get_yaxis_text2_transform() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__12_get_yaxis_text2_transform,
-        mod_consts[267],
+        mod_consts[266],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[268],
+        mod_consts[267],
 #endif
-        codeobj_177d7e628f5ddf76952314d5d498f876,
+        codeobj_9ebc1e0d841f32f7e81b9e06fa01516d,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -24896,11 +24896,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__12_get_yax
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__13__gen_axes_patch() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__13__gen_axes_patch,
-        mod_consts[269],
+        mod_consts[268],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[270],
+        mod_consts[269],
 #endif
-        codeobj_d3eb5199d73c6723f5c3eb02afa5a648,
+        codeobj_afaf921c43a915a235d5291e74b0b0d3,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -24921,11 +24921,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__13__gen_ax
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__14__gen_axes_spines() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__14__gen_axes_spines,
-        mod_consts[271],
+        mod_consts[270],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[272],
+        mod_consts[271],
 #endif
-        codeobj_4829a652657d1aa408f87c61f0cb17e9,
+        codeobj_c0de4d8fe1cb35e4950b4c433a798754,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -24946,11 +24946,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__14__gen_ax
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__15_set_yscale() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__15_set_yscale,
-        mod_consts[273],
+        mod_consts[272],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[274],
+        mod_consts[273],
 #endif
-        codeobj_c6bc8a9f8b74972c74ae78ab3010ef6a,
+        codeobj_4a6e5afffd79225a95b7e3f6923f1508,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -24973,9 +24973,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__16_set_xli
         impl_matplotlib$projections$geo$$$function__16_set_xlim,
         mod_consts[31],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[276],
+        mod_consts[275],
 #endif
-        codeobj_32bc7e671a2d6efa5564313ffcbcb90b,
+        codeobj_9b936720bcba1cdd30abb38885667a89,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -24996,11 +24996,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__16_set_xli
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__17_format_coord() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__17_format_coord,
-        mod_consts[277],
+        mod_consts[276],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[278],
+        mod_consts[277],
 #endif
-        codeobj_fb00308d5d06ef1cf9d6d7898f131d34,
+        codeobj_91d00f9a0e426500f7037b1f9fdb60e3,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25023,9 +25023,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__18_set_lon
         impl_matplotlib$projections$geo$$$function__18_set_longitude_grid,
         mod_consts[16],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[279],
+        mod_consts[278],
 #endif
-        codeobj_0452b1a213f8a1de7afc95f72dcc81c6,
+        codeobj_0a38fcd35148c15d7eed464bd11b53a4,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25048,9 +25048,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__19_set_lat
         impl_matplotlib$projections$geo$$$function__19_set_latitude_grid,
         mod_consts[18],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[280],
+        mod_consts[279],
 #endif
-        codeobj_e40ed3eb2a6918f1af0e1d16e475ae4c,
+        codeobj_2e073de8eb19259b5c3dea247469c1d5,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25073,9 +25073,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__1___init__
         impl_matplotlib$projections$geo$$$function__1___init__,
         mod_consts[115],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[244],
+        mod_consts[243],
 #endif
-        codeobj_152a027990375ced5b04d0a97e5c420b,
+        codeobj_2b276bcbfb70e1711e542a19e6218b10,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25098,9 +25098,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__20_set_lon
         impl_matplotlib$projections$geo$$$function__20_set_longitude_grid_ends,
         mod_consts[20],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[281],
+        mod_consts[280],
 #endif
-        codeobj_d5cbf4ee60196e12fa289953b7c1fb95,
+        codeobj_b7f2f8d1588a2283a3ba7e39b93f18df,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25121,11 +25121,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__20_set_lon
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__21_get_data_ratio() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__21_get_data_ratio,
-        mod_consts[282],
+        mod_consts[281],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[283],
+        mod_consts[282],
 #endif
-        codeobj_450a2350cb4b372921afb4cbd5be96a9,
+        codeobj_7c9fda066c96110bccd5c68708db063c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25146,11 +25146,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__21_get_dat
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__22_can_zoom() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__22_can_zoom,
-        mod_consts[284],
+        mod_consts[283],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[285],
+        mod_consts[284],
 #endif
-        codeobj_75591405ae5bfa1cf5e4f942f19b34af,
+        codeobj_220337c914553d53865065174d72b3d6,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25171,11 +25171,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__22_can_zoo
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__23_can_pan() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__23_can_pan,
-        mod_consts[286],
+        mod_consts[285],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[287],
+        mod_consts[286],
 #endif
-        codeobj_87e7c016fde5b8aaf0121e5d5eb158e0,
+        codeobj_ce1ab3ba97744bf86ff8ec6e0d1f235e,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25196,11 +25196,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__23_can_pan
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__24_start_pan() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__24_start_pan,
-        mod_consts[288],
+        mod_consts[287],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[289],
+        mod_consts[288],
 #endif
-        codeobj_8a52a6e54def235afa297953107cf82f,
+        codeobj_82f5d31f96768a5f136113a3148df6da,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25221,11 +25221,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__24_start_p
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__25_end_pan() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__25_end_pan,
-        mod_consts[290],
+        mod_consts[289],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[291],
+        mod_consts[290],
 #endif
-        codeobj_b9bd975ffc9478afa480c09a49115c58,
+        codeobj_ac0ba8fc1e7ce4606cd0acb296aa6520,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25246,11 +25246,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__25_end_pan
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__26_drag_pan() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__26_drag_pan,
-        mod_consts[292],
+        mod_consts[291],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[293],
+        mod_consts[292],
 #endif
-        codeobj_1d3bdb0b89ea25b27e86073a5a04c651,
+        codeobj_4432ecdd64c6e5204f0380d30315fb35,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25273,9 +25273,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__27___init_
         impl_matplotlib$projections$geo$$$function__27___init__,
         mod_consts[115],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[296],
+        mod_consts[295],
 #endif
-        codeobj_55425009fbb2456af7adb3fec57fa3d2,
+        codeobj_8d8e5615fcc7389d974758b7aa6bf357,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25296,11 +25296,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__27___init_
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__28___str__() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__28___str__,
-        mod_consts[297],
+        mod_consts[296],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[298],
+        mod_consts[297],
 #endif
-        codeobj_82bb66253de5363653198f5259f0cc96,
+        codeobj_564b85529107c29f6c212bc07100b201,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25321,11 +25321,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__28___str__
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__29_transform_path_non_affine() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__29_transform_path_non_affine,
-        mod_consts[299],
+        mod_consts[298],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[300],
+        mod_consts[299],
 #endif
-        codeobj_5c8e06b01de2642fc08448b1745f3808,
+        codeobj_2beed6603f46347aa50148728a6bdd5c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25346,11 +25346,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__29_transfo
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__2___call__(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__2___call__,
-        mod_consts[246],
+        mod_consts[245],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[247],
+        mod_consts[246],
 #endif
-        codeobj_c25e49772f18188a91b722381630917f,
+        codeobj_d63f1bb4f0fb4674bbc66747a3ed7dfb,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25371,11 +25371,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__2___call__
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__30_transform_non_affine() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__30_transform_non_affine,
-        mod_consts[305],
+        mod_consts[304],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[306],
+        mod_consts[305],
 #endif
-        codeobj_6da51018c1f660a374d47f3ca8fd9462,
+        codeobj_3c3cbacdfa106c01c88e566cf651e811,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25396,11 +25396,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__30_transfo
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__31_inverted() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__31_inverted,
-        mod_consts[307],
+        mod_consts[306],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[308],
+        mod_consts[307],
 #endif
-        codeobj_b89609fc85dd2fd8b78d0cbcf88857e2,
+        codeobj_c11ae94e8bf34b8cde8648552d532cdf,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25421,11 +25421,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__31_inverte
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__32_transform_non_affine() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__32_transform_non_affine,
-        mod_consts[305],
+        mod_consts[304],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[310],
+        mod_consts[309],
 #endif
-        codeobj_2a3cf4c4b2258fed3e81c08cfe52975f,
+        codeobj_e3de962db046ce8e527857f8d57f70fb,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25446,11 +25446,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__32_transfo
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__33_inverted() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__33_inverted,
-        mod_consts[307],
+        mod_consts[306],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[311],
+        mod_consts[310],
 #endif
-        codeobj_01018f550e6cba3bbbba3b04c8404767,
+        codeobj_52b4b5143d4584229a6ab6e0c9de4889,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25473,9 +25473,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__34___init_
         impl_matplotlib$projections$geo$$$function__34___init__,
         mod_consts[115],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[312],
+        mod_consts[311],
 #endif
-        codeobj_871d3433cd77644a22767ce8cad38150,
+        codeobj_41707ec5668853b4c3968fe624434d99,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25498,9 +25498,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__35__get_co
         impl_matplotlib$projections$geo$$$function__35__get_core_transform,
         mod_consts[35],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[313],
+        mod_consts[312],
 #endif
-        codeobj_0d8ab0ab4969b3be787edd76463f4660,
+        codeobj_6dc435a0d843afb505997fc558a3a91e,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25521,11 +25521,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__35__get_co
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__36_transform_non_affine() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__36_transform_non_affine,
-        mod_consts[305],
+        mod_consts[304],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[317],
+        mod_consts[316],
 #endif
-        codeobj_1f64add7dd60d34c4ccebc9ffdf79c33,
+        codeobj_128c74618124632fa46078afca4640ce,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25546,11 +25546,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__36_transfo
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__37_inverted() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__37_inverted,
-        mod_consts[307],
+        mod_consts[306],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[318],
+        mod_consts[317],
 #endif
-        codeobj_426bef112ca4c681223013402bd2ce53,
+        codeobj_94dc5502a6857874ebd32d9119e4acd0,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25571,11 +25571,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__37_inverte
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__38_transform_non_affine() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__38_transform_non_affine,
-        mod_consts[305],
+        mod_consts[304],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[320],
+        mod_consts[319],
 #endif
-        codeobj_87c08cd9feb495b3f83112761937980d,
+        codeobj_0eff3c495021f39b5d32a5ea0a02eabd,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25596,11 +25596,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__38_transfo
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__39_inverted() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__39_inverted,
-        mod_consts[307],
+        mod_consts[306],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[321],
+        mod_consts[320],
 #endif
-        codeobj_01bab939eac31e0287ed1eb4001764e6,
+        codeobj_720462abf65680ea71946e7edca32dbb,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25621,11 +25621,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__39_inverte
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__3__init_axis() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__3__init_axis,
-        mod_consts[250],
+        mod_consts[249],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[251],
+        mod_consts[250],
 #endif
-        codeobj_d770aa706dcd4781c336125de437b06d,
+        codeobj_ca816d43e88e12a195e7c8d682c19c25,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25648,9 +25648,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__40___init_
         impl_matplotlib$projections$geo$$$function__40___init__,
         mod_consts[115],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[322],
+        mod_consts[321],
 #endif
-        codeobj_3d2911a6327caa1a5c54d2105914ce1d,
+        codeobj_3ddede410be3f253d79665ce77990321,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25673,9 +25673,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__41__get_co
         impl_matplotlib$projections$geo$$$function__41__get_core_transform,
         mod_consts[35],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[323],
+        mod_consts[322],
 #endif
-        codeobj_59173313a32203864c9dcef83f34cf31,
+        codeobj_f9d024d7dbf1c7a7492f8e3cde23dea0,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25696,11 +25696,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__41__get_co
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__42_transform_non_affine() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__42_transform_non_affine,
-        mod_consts[305],
+        mod_consts[304],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[327],
+        mod_consts[326],
 #endif
-        codeobj_638df801b72a20c571fdd7b8ce6e6952,
+        codeobj_7ba8112f6bc3c1b46d82733fc41c19ef,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25725,7 +25725,7 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__42_transfo
 #if PYTHON_VERSION >= 0x300
         mod_consts[157],
 #endif
-        codeobj_382c37f6455ee6c5b02d71a8e0a295d4,
+        codeobj_30d7b7bdb99a3a2355c978cc5d18ad47,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25746,11 +25746,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__42_transfo
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__43_inverted() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__43_inverted,
-        mod_consts[307],
+        mod_consts[306],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[328],
+        mod_consts[327],
 #endif
-        codeobj_905fee73f303545cc6c8f63772c5942a,
+        codeobj_fd594da1736f437f2cac20d36cf72e4c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25771,11 +25771,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__43_inverte
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__44_transform_non_affine() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__44_transform_non_affine,
-        mod_consts[305],
+        mod_consts[304],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[330],
+        mod_consts[329],
 #endif
-        codeobj_c900be58fe82adc90c6091f2751b353d,
+        codeobj_baee270ef88f989fccfbfc56d337ac33,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25796,11 +25796,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__44_transfo
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__45_inverted() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__45_inverted,
-        mod_consts[307],
+        mod_consts[306],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[331],
+        mod_consts[330],
 #endif
-        codeobj_99f29dd7e8993a9c73b4497a09af2350,
+        codeobj_29299121cf0d4119de54586ce989fcbe,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25823,9 +25823,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__46___init_
         impl_matplotlib$projections$geo$$$function__46___init__,
         mod_consts[115],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[332],
+        mod_consts[331],
 #endif
-        codeobj_f964d210e610cb3c572419630a9a1081,
+        codeobj_6abf445697c11b0309e572b34289041e,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25848,9 +25848,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__47__get_co
         impl_matplotlib$projections$geo$$$function__47__get_core_transform,
         mod_consts[35],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[333],
+        mod_consts[332],
 #endif
-        codeobj_dbf0e39eb314216910aba859e769b725,
+        codeobj_41b13f84c55f78b500ffd6b77f5989a6,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25873,9 +25873,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__48___init_
         impl_matplotlib$projections$geo$$$function__48___init__,
         mod_consts[115],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[337],
+        mod_consts[336],
 #endif
-        codeobj_238400c3b186af6b8b9357cb881eb973,
+        codeobj_642e2a1c643f267089731f35979baea7,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25896,11 +25896,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__48___init_
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__49_transform_non_affine() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__49_transform_non_affine,
-        mod_consts[305],
+        mod_consts[304],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[338],
+        mod_consts[337],
 #endif
-        codeobj_9ee611a205285ddec2fe1bea5365f6db,
+        codeobj_dc34e88ea318b0d3cdbe651f840d4545,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25923,9 +25923,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__4_cla() {
         impl_matplotlib$projections$geo$$$function__4_cla,
         mod_consts[15],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[252],
+        mod_consts[251],
 #endif
-        codeobj_aff12ee520b8ea1ff77193faf9b972e8,
+        codeobj_e746ee3366f3bfb319b7690197f0a48e,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25946,11 +25946,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__4_cla() {
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__50_inverted() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__50_inverted,
-        mod_consts[307],
+        mod_consts[306],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[339],
+        mod_consts[338],
 #endif
-        codeobj_48b3baa1e9c70d3ed0b0e9aa8903e4a0,
+        codeobj_8691383b73094649d6a0a8ec98fcfc74,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25973,9 +25973,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__51___init_
         impl_matplotlib$projections$geo$$$function__51___init__,
         mod_consts[115],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[341],
+        mod_consts[340],
 #endif
-        codeobj_625c1b9af3688e37dbad3b696ee76bf7,
+        codeobj_1c749feec7c9a46ea3a74296abacd43b,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -25996,11 +25996,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__51___init_
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__52_transform_non_affine() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__52_transform_non_affine,
-        mod_consts[305],
+        mod_consts[304],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[342],
+        mod_consts[341],
 #endif
-        codeobj_97e9d349f04f3c453c512d6b174b47ba,
+        codeobj_a089e4e85c4545da2a99d14e0b23d456,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -26021,11 +26021,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__52_transfo
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__53_inverted() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__53_inverted,
-        mod_consts[307],
+        mod_consts[306],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[343],
+        mod_consts[342],
 #endif
-        codeobj_14181f5ae20682e4bc6a3419d65f3942,
+        codeobj_fa06e5972ae6dcf5d25df23286926b40,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -26048,9 +26048,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__54___init_
         impl_matplotlib$projections$geo$$$function__54___init__,
         mod_consts[115],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[345],
+        mod_consts[344],
 #endif
-        codeobj_ff652025f64ffc224f7f3567f1dd260a,
+        codeobj_bada0a37aa1720a2b687e1f30de31337,
         NULL,
 #if PYTHON_VERSION >= 0x300
         kw_defaults,
@@ -26073,9 +26073,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__55_cla() {
         impl_matplotlib$projections$geo$$$function__55_cla,
         mod_consts[15],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[346],
+        mod_consts[345],
 #endif
-        codeobj_a8f5bc0a10af96d5969e3b731ec11e5c,
+        codeobj_4ad34cd0ff38e695306b95e56979bc39,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -26098,9 +26098,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__56__get_co
         impl_matplotlib$projections$geo$$$function__56__get_core_transform,
         mod_consts[35],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[347],
+        mod_consts[346],
 #endif
-        codeobj_a8bd5d36b2a2e3790b4b3650701e12e2,
+        codeobj_f816c40b5c5d207ed338c467ba2c6848,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -26123,9 +26123,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__57__get_af
         impl_matplotlib$projections$geo$$$function__57__get_affine_transform,
         mod_consts[38],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[348],
+        mod_consts[347],
 #endif
-        codeobj_5a809a2b22a46f63a1ee144c61457123,
+        codeobj_812fb5c48b4b5c145477b902c5f4f079,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -26146,11 +26146,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__57__get_af
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__5__set_lim_and_transforms() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__5__set_lim_and_transforms,
-        mod_consts[253],
+        mod_consts[252],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[254],
+        mod_consts[253],
 #endif
-        codeobj_c1c389583f7433436c172901d17d6ae3,
+        codeobj_c1d34b70102c3bcf0d86413dadca2213,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -26173,9 +26173,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__6__get_aff
         impl_matplotlib$projections$geo$$$function__6__get_affine_transform,
         mod_consts[38],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[255],
+        mod_consts[254],
 #endif
-        codeobj_ac89ebe634bf47b226db5dcc6b097e46,
+        codeobj_0de57aa91dc426b416de4a01b2b391c0,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -26196,11 +26196,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__6__get_aff
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__7_get_xaxis_transform(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__7_get_xaxis_transform,
-        mod_consts[257],
+        mod_consts[256],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[258],
+        mod_consts[257],
 #endif
-        codeobj_f9fbbc4c3e483ea1c63ac9c1c7381b62,
+        codeobj_54f8ea900846ef62006d3e6c5f504bd3,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -26221,11 +26221,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__7_get_xaxi
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__8_get_xaxis_text1_transform() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__8_get_xaxis_text1_transform,
-        mod_consts[259],
+        mod_consts[258],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[260],
+        mod_consts[259],
 #endif
-        codeobj_977d199eea7219189e311846ee7b29f0,
+        codeobj_95087b34a10751cbf182fc5f23df8dd4,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -26246,11 +26246,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__8_get_xaxi
 static PyObject *MAKE_FUNCTION_matplotlib$projections$geo$$$function__9_get_xaxis_text2_transform() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$projections$geo$$$function__9_get_xaxis_text2_transform,
-        mod_consts[261],
+        mod_consts[260],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[262],
+        mod_consts[261],
 #endif
-        codeobj_001ad14a63d9fd6d647fe6876dda6801,
+        codeobj_bf4d489b1fc9248e6d8cd9e6d2bd0b2d,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -26789,7 +26789,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     PyObject *tmp_import_from_1__module = NULL;
     PyObject *tmp_import_from_2__module = NULL;
     PyObject *tmp_import_from_3__module = NULL;
-    struct Nuitka_FrameObject *frame_f94733532f7452e32521170ca8949a16;
+    struct Nuitka_FrameObject *frame_10c0ea44966d5b64acb650720d0c71f4;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -26813,12 +26813,12 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     PyObject *tmp_dictdel_key;
     PyObject *locals_matplotlib$projections$geo$$$class__1_GeoAxes_14 = NULL;
     PyObject *tmp_dictset_value;
-    struct Nuitka_FrameObject *frame_7dab06e840629fd828d257754b98f343_2;
+    struct Nuitka_FrameObject *frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
     PyObject *locals_matplotlib$projections$geo$$$class__2_ThetaFormatter_17 = NULL;
-    struct Nuitka_FrameObject *frame_e61eaa68a4dff166d0e2a435cf6f200a_3;
+    struct Nuitka_FrameObject *frame_c2d315eb78b0015843285c02086a5444_3;
     NUITKA_MAY_BE_UNUSED char const *type_description_3 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_e61eaa68a4dff166d0e2a435cf6f200a_3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_c2d315eb78b0015843285c02086a5444_3 = NULL;
     PyObject *exception_keeper_type_4;
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
@@ -26831,7 +26831,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     PyObject *exception_keeper_value_6;
     PyTracebackObject *exception_keeper_tb_6;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_6;
-    static struct Nuitka_FrameObject *cache_frame_7dab06e840629fd828d257754b98f343_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2 = NULL;
     PyObject *exception_keeper_type_7;
     PyObject *exception_keeper_value_7;
     PyTracebackObject *exception_keeper_tb_7;
@@ -26845,13 +26845,13 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     PyTracebackObject *exception_keeper_tb_9;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_9;
     PyObject *locals_matplotlib$projections$geo$$$class__3__GeoTransform_229 = NULL;
-    struct Nuitka_FrameObject *frame_f71268d30ed3d9cd312c50e6870ca713_4;
+    struct Nuitka_FrameObject *frame_84f6c7bbf3a8420fc3826993d8ef9568_4;
     NUITKA_MAY_BE_UNUSED char const *type_description_4 = NULL;
     PyObject *exception_keeper_type_10;
     PyObject *exception_keeper_value_10;
     PyTracebackObject *exception_keeper_tb_10;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_10;
-    static struct Nuitka_FrameObject *cache_frame_f71268d30ed3d9cd312c50e6870ca713_4 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_84f6c7bbf3a8420fc3826993d8ef9568_4 = NULL;
     PyObject *exception_keeper_type_11;
     PyObject *exception_keeper_value_11;
     PyTracebackObject *exception_keeper_tb_11;
@@ -26865,12 +26865,12 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     PyTracebackObject *exception_keeper_tb_13;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_13;
     PyObject *locals_matplotlib$projections$geo$$$class__4_AitoffAxes_252 = NULL;
-    struct Nuitka_FrameObject *frame_67c88fccc8a8de1716fc035708bb98a0_5;
+    struct Nuitka_FrameObject *frame_00986626272dc64c8ce2ec7dd8f75d85_5;
     NUITKA_MAY_BE_UNUSED char const *type_description_5 = NULL;
     PyObject *locals_matplotlib$projections$geo$$$class__5_AitoffTransform_255 = NULL;
-    struct Nuitka_FrameObject *frame_2a0cdc9955a3063f892abd88751d21c7_6;
+    struct Nuitka_FrameObject *frame_58a83f5da7acd0fc5474c0aacf6e11ce_6;
     NUITKA_MAY_BE_UNUSED char const *type_description_6 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_2a0cdc9955a3063f892abd88751d21c7_6 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_58a83f5da7acd0fc5474c0aacf6e11ce_6 = NULL;
     PyObject *exception_keeper_type_14;
     PyObject *exception_keeper_value_14;
     PyTracebackObject *exception_keeper_tb_14;
@@ -26884,9 +26884,9 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     PyTracebackObject *exception_keeper_tb_16;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_16;
     PyObject *locals_matplotlib$projections$geo$$$class__6_InvertedAitoffTransform_280 = NULL;
-    struct Nuitka_FrameObject *frame_0d535f73673155a7c2e6e6de6c710885_7;
+    struct Nuitka_FrameObject *frame_87cc90693688baa6c8bd6e595f3de305_7;
     NUITKA_MAY_BE_UNUSED char const *type_description_7 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_0d535f73673155a7c2e6e6de6c710885_7 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_87cc90693688baa6c8bd6e595f3de305_7 = NULL;
     PyObject *exception_keeper_type_17;
     PyObject *exception_keeper_value_17;
     PyTracebackObject *exception_keeper_tb_17;
@@ -26899,7 +26899,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     PyObject *exception_keeper_value_19;
     PyTracebackObject *exception_keeper_tb_19;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_19;
-    static struct Nuitka_FrameObject *cache_frame_67c88fccc8a8de1716fc035708bb98a0_5 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_00986626272dc64c8ce2ec7dd8f75d85_5 = NULL;
     PyObject *exception_keeper_type_20;
     PyObject *exception_keeper_value_20;
     PyTracebackObject *exception_keeper_tb_20;
@@ -26913,12 +26913,12 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     PyTracebackObject *exception_keeper_tb_22;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_22;
     PyObject *locals_matplotlib$projections$geo$$$class__7_HammerAxes_301 = NULL;
-    struct Nuitka_FrameObject *frame_0e9f6abc479d50343b61f34fdbb146b8_8;
+    struct Nuitka_FrameObject *frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8;
     NUITKA_MAY_BE_UNUSED char const *type_description_8 = NULL;
     PyObject *locals_matplotlib$projections$geo$$$class__8_HammerTransform_304 = NULL;
-    struct Nuitka_FrameObject *frame_1d52cbff2437984756991a10a742e6ad_9;
+    struct Nuitka_FrameObject *frame_df636bb22fdbac67f9533e3664d67a4b_9;
     NUITKA_MAY_BE_UNUSED char const *type_description_9 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_1d52cbff2437984756991a10a742e6ad_9 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_df636bb22fdbac67f9533e3664d67a4b_9 = NULL;
     PyObject *exception_keeper_type_23;
     PyObject *exception_keeper_value_23;
     PyTracebackObject *exception_keeper_tb_23;
@@ -26932,9 +26932,9 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     PyTracebackObject *exception_keeper_tb_25;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_25;
     PyObject *locals_matplotlib$projections$geo$$$class__9_InvertedHammerTransform_322 = NULL;
-    struct Nuitka_FrameObject *frame_bc120287255739b30f5b28852284969d_10;
+    struct Nuitka_FrameObject *frame_c8c70f375d0b118e063be3c53ce58fb1_10;
     NUITKA_MAY_BE_UNUSED char const *type_description_10 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_bc120287255739b30f5b28852284969d_10 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_c8c70f375d0b118e063be3c53ce58fb1_10 = NULL;
     PyObject *exception_keeper_type_26;
     PyObject *exception_keeper_value_26;
     PyTracebackObject *exception_keeper_tb_26;
@@ -26947,7 +26947,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     PyObject *exception_keeper_value_28;
     PyTracebackObject *exception_keeper_tb_28;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_28;
-    static struct Nuitka_FrameObject *cache_frame_0e9f6abc479d50343b61f34fdbb146b8_8 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8 = NULL;
     PyObject *exception_keeper_type_29;
     PyObject *exception_keeper_value_29;
     PyTracebackObject *exception_keeper_tb_29;
@@ -26961,12 +26961,12 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     PyTracebackObject *exception_keeper_tb_31;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_31;
     PyObject *locals_matplotlib$projections$geo$$$class__10_MollweideAxes_346 = NULL;
-    struct Nuitka_FrameObject *frame_2adcd9007575412f87659a0a4d53c146_11;
+    struct Nuitka_FrameObject *frame_de20da3b8f4fa9df37e2dc758c19c903_11;
     NUITKA_MAY_BE_UNUSED char const *type_description_11 = NULL;
     PyObject *locals_matplotlib$projections$geo$$$class__11_MollweideTransform_349 = NULL;
-    struct Nuitka_FrameObject *frame_7db75fae5068676263613d3e42d76b0d_12;
+    struct Nuitka_FrameObject *frame_749859f6769bcac3633947d8ba2cd081_12;
     NUITKA_MAY_BE_UNUSED char const *type_description_12 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_7db75fae5068676263613d3e42d76b0d_12 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_749859f6769bcac3633947d8ba2cd081_12 = NULL;
     PyObject *exception_keeper_type_32;
     PyObject *exception_keeper_value_32;
     PyTracebackObject *exception_keeper_tb_32;
@@ -26980,9 +26980,9 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     PyTracebackObject *exception_keeper_tb_34;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_34;
     PyObject *locals_matplotlib$projections$geo$$$class__12_InvertedMollweideTransform_390 = NULL;
-    struct Nuitka_FrameObject *frame_7cfcf3466f7cd7d267a7f672b629fb26_13;
+    struct Nuitka_FrameObject *frame_fe972da23b8cf12d1a3dc72ee5750fcf_13;
     NUITKA_MAY_BE_UNUSED char const *type_description_13 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_7cfcf3466f7cd7d267a7f672b629fb26_13 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_fe972da23b8cf12d1a3dc72ee5750fcf_13 = NULL;
     PyObject *exception_keeper_type_35;
     PyObject *exception_keeper_value_35;
     PyTracebackObject *exception_keeper_tb_35;
@@ -26995,7 +26995,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     PyObject *exception_keeper_value_37;
     PyTracebackObject *exception_keeper_tb_37;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_37;
-    static struct Nuitka_FrameObject *cache_frame_2adcd9007575412f87659a0a4d53c146_11 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_de20da3b8f4fa9df37e2dc758c19c903_11 = NULL;
     PyObject *exception_keeper_type_38;
     PyObject *exception_keeper_value_38;
     PyTracebackObject *exception_keeper_tb_38;
@@ -27009,12 +27009,12 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     PyTracebackObject *exception_keeper_tb_40;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_40;
     PyObject *locals_matplotlib$projections$geo$$$class__13_LambertAxes_416 = NULL;
-    struct Nuitka_FrameObject *frame_95d7759476a32af7ce5820074abd4568_14;
+    struct Nuitka_FrameObject *frame_2588698ae371250ef3932b86b1d830b0_14;
     NUITKA_MAY_BE_UNUSED char const *type_description_14 = NULL;
     PyObject *locals_matplotlib$projections$geo$$$class__14_LambertTransform_419 = NULL;
-    struct Nuitka_FrameObject *frame_ef57356d2ace4173ee5bda8124e31fbf_15;
+    struct Nuitka_FrameObject *frame_01abe8a26ff5368a7c6caaede2189824_15;
     NUITKA_MAY_BE_UNUSED char const *type_description_15 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_ef57356d2ace4173ee5bda8124e31fbf_15 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_01abe8a26ff5368a7c6caaede2189824_15 = NULL;
     PyObject *exception_keeper_type_41;
     PyObject *exception_keeper_value_41;
     PyTracebackObject *exception_keeper_tb_41;
@@ -27028,9 +27028,9 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     PyTracebackObject *exception_keeper_tb_43;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_43;
     PyObject *locals_matplotlib$projections$geo$$$class__15_InvertedLambertTransform_458 = NULL;
-    struct Nuitka_FrameObject *frame_880306e0caf691c42a5112f48b1cb363_16;
+    struct Nuitka_FrameObject *frame_05f5091306fe100bfe7acb16addccbbe_16;
     NUITKA_MAY_BE_UNUSED char const *type_description_16 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_880306e0caf691c42a5112f48b1cb363_16 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_05f5091306fe100bfe7acb16addccbbe_16 = NULL;
     PyObject *exception_keeper_type_44;
     PyObject *exception_keeper_value_44;
     PyTracebackObject *exception_keeper_tb_44;
@@ -27043,7 +27043,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     PyObject *exception_keeper_value_46;
     PyTracebackObject *exception_keeper_tb_46;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_46;
-    static struct Nuitka_FrameObject *cache_frame_95d7759476a32af7ce5820074abd4568_14 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_2588698ae371250ef3932b86b1d830b0_14 = NULL;
     PyObject *exception_keeper_type_47;
     PyObject *exception_keeper_value_47;
     PyTracebackObject *exception_keeper_tb_47;
@@ -27065,30 +27065,30 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[208];
-        UPDATE_STRING_DICT0(moduledict_matplotlib$projections$geo, (Nuitka_StringObject *)mod_consts[209], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_matplotlib$projections$geo, (Nuitka_StringObject *)mod_consts[208], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_f94733532f7452e32521170ca8949a16 = MAKE_MODULE_FRAME(codeobj_f94733532f7452e32521170ca8949a16, module_matplotlib$projections$geo);
+    frame_10c0ea44966d5b64acb650720d0c71f4 = MAKE_MODULE_FRAME(codeobj_10c0ea44966d5b64acb650720d0c71f4, module_matplotlib$projections$geo);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_f94733532f7452e32521170ca8949a16);
-    assert(Py_REFCNT(frame_f94733532f7452e32521170ca8949a16) == 2);
+    pushFrameStack(frame_10c0ea44966d5b64acb650720d0c71f4);
+    assert(Py_REFCNT(frame_10c0ea44966d5b64acb650720d0c71f4) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[208];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$projections$geo, (Nuitka_StringObject *)mod_consts[210]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$projections$geo, (Nuitka_StringObject *)mod_consts[209]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[210]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[209]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[211], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[210], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -27104,14 +27104,14 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_matplotlib$projections$geo, (Nuitka_StringObject *)mod_consts[210]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_matplotlib$projections$geo, (Nuitka_StringObject *)mod_consts[209]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[210]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[209]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[212], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[211], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -27126,7 +27126,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_matplotlib$projections$geo, (Nuitka_StringObject *)mod_consts[213], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_matplotlib$projections$geo, (Nuitka_StringObject *)mod_consts[212], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -27135,12 +27135,12 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[214];
+        tmp_name_name_1 = mod_consts[213];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_matplotlib$projections$geo;
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = Py_None;
         tmp_level_name_1 = mod_consts[50];
-        frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 1;
+        frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 1;
         tmp_assign_source_4 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -27161,12 +27161,12 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_2;
         PyObject *tmp_fromlist_name_2;
         PyObject *tmp_level_name_2;
-        tmp_name_name_2 = mod_consts[215];
+        tmp_name_name_2 = mod_consts[214];
         tmp_globals_arg_name_2 = (PyObject *)moduledict_matplotlib$projections$geo;
         tmp_locals_arg_name_2 = Py_None;
-        tmp_fromlist_name_2 = mod_consts[216];
+        tmp_fromlist_name_2 = mod_consts[215];
         tmp_level_name_2 = mod_consts[50];
-        frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 3;
+        frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 3;
         tmp_assign_source_5 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_assign_source_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -27273,12 +27273,12 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_3;
         PyObject *tmp_fromlist_name_3;
         PyObject *tmp_level_name_3;
-        tmp_name_name_3 = mod_consts[217];
+        tmp_name_name_3 = mod_consts[216];
         tmp_globals_arg_name_3 = (PyObject *)moduledict_matplotlib$projections$geo;
         tmp_locals_arg_name_3 = Py_None;
-        tmp_fromlist_name_3 = mod_consts[218];
+        tmp_fromlist_name_3 = mod_consts[217];
         tmp_level_name_3 = mod_consts[50];
-        frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 4;
+        frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 4;
         tmp_import_name_from_3 = IMPORT_MODULE5(tmp_name_name_3, tmp_globals_arg_name_3, tmp_locals_arg_name_3, tmp_fromlist_name_3, tmp_level_name_3);
         if (tmp_import_name_from_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -27322,12 +27322,12 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_4;
         PyObject *tmp_fromlist_name_4;
         PyObject *tmp_level_name_4;
-        tmp_name_name_4 = mod_consts[219];
+        tmp_name_name_4 = mod_consts[218];
         tmp_globals_arg_name_4 = (PyObject *)moduledict_matplotlib$projections$geo;
         tmp_locals_arg_name_4 = Py_None;
         tmp_fromlist_name_4 = Py_None;
         tmp_level_name_4 = mod_consts[50];
-        frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 5;
+        frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 5;
         tmp_import_name_from_4 = IMPORT_MODULE5(tmp_name_name_4, tmp_globals_arg_name_4, tmp_locals_arg_name_4, tmp_fromlist_name_4, tmp_level_name_4);
         if (tmp_import_name_from_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -27343,11 +27343,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             tmp_assign_source_9 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_4,
                 (PyObject *)moduledict_matplotlib$projections$geo,
-                mod_consts[220],
+                mod_consts[219],
                 mod_consts[50]
             );
         } else {
-            tmp_assign_source_9 = IMPORT_NAME(tmp_import_name_from_4, mod_consts[220]);
+            tmp_assign_source_9 = IMPORT_NAME(tmp_import_name_from_4, mod_consts[219]);
         }
 
         Py_DECREF(tmp_import_name_from_4);
@@ -27371,12 +27371,12 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_5;
         PyObject *tmp_fromlist_name_5;
         PyObject *tmp_level_name_5;
-        tmp_name_name_5 = mod_consts[221];
+        tmp_name_name_5 = mod_consts[220];
         tmp_globals_arg_name_5 = (PyObject *)moduledict_matplotlib$projections$geo;
         tmp_locals_arg_name_5 = Py_None;
-        tmp_fromlist_name_5 = mod_consts[222];
+        tmp_fromlist_name_5 = mod_consts[221];
         tmp_level_name_5 = mod_consts[50];
-        frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 6;
+        frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 6;
         tmp_import_name_from_5 = IMPORT_MODULE5(tmp_name_name_5, tmp_globals_arg_name_5, tmp_locals_arg_name_5, tmp_fromlist_name_5, tmp_level_name_5);
         if (tmp_import_name_from_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -27420,12 +27420,12 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_6;
         PyObject *tmp_fromlist_name_6;
         PyObject *tmp_level_name_6;
-        tmp_name_name_6 = mod_consts[223];
+        tmp_name_name_6 = mod_consts[222];
         tmp_globals_arg_name_6 = (PyObject *)moduledict_matplotlib$projections$geo;
         tmp_locals_arg_name_6 = Py_None;
-        tmp_fromlist_name_6 = mod_consts[224];
+        tmp_fromlist_name_6 = mod_consts[223];
         tmp_level_name_6 = mod_consts[50];
-        frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 7;
+        frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 7;
         tmp_import_name_from_6 = IMPORT_MODULE5(tmp_name_name_6, tmp_globals_arg_name_6, tmp_locals_arg_name_6, tmp_fromlist_name_6, tmp_level_name_6);
         if (tmp_import_name_from_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -27469,12 +27469,12 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_7;
         PyObject *tmp_fromlist_name_7;
         PyObject *tmp_level_name_7;
-        tmp_name_name_7 = mod_consts[225];
+        tmp_name_name_7 = mod_consts[224];
         tmp_globals_arg_name_7 = (PyObject *)moduledict_matplotlib$projections$geo;
         tmp_locals_arg_name_7 = Py_None;
         tmp_fromlist_name_7 = Py_None;
         tmp_level_name_7 = mod_consts[50];
-        frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 8;
+        frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 8;
         tmp_import_name_from_7 = IMPORT_MODULE5(tmp_name_name_7, tmp_globals_arg_name_7, tmp_locals_arg_name_7, tmp_fromlist_name_7, tmp_level_name_7);
         if (tmp_import_name_from_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -27490,11 +27490,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             tmp_assign_source_12 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_7,
                 (PyObject *)moduledict_matplotlib$projections$geo,
-                mod_consts[226],
+                mod_consts[225],
                 mod_consts[50]
             );
         } else {
-            tmp_assign_source_12 = IMPORT_NAME(tmp_import_name_from_7, mod_consts[226]);
+            tmp_assign_source_12 = IMPORT_NAME(tmp_import_name_from_7, mod_consts[225]);
         }
 
         Py_DECREF(tmp_import_name_from_7);
@@ -27517,12 +27517,12 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_8;
         PyObject *tmp_fromlist_name_8;
         PyObject *tmp_level_name_8;
-        tmp_name_name_8 = mod_consts[227];
+        tmp_name_name_8 = mod_consts[226];
         tmp_globals_arg_name_8 = (PyObject *)moduledict_matplotlib$projections$geo;
         tmp_locals_arg_name_8 = Py_None;
-        tmp_fromlist_name_8 = mod_consts[228];
+        tmp_fromlist_name_8 = mod_consts[227];
         tmp_level_name_8 = mod_consts[50];
-        frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 9;
+        frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 9;
         tmp_assign_source_13 = IMPORT_MODULE5(tmp_name_name_8, tmp_globals_arg_name_8, tmp_locals_arg_name_8, tmp_fromlist_name_8, tmp_level_name_8);
         if (tmp_assign_source_13 == NULL) {
             assert(ERROR_OCCURRED());
@@ -27547,11 +27547,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             tmp_assign_source_14 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_8,
                 (PyObject *)moduledict_matplotlib$projections$geo,
-                mod_consts[229],
+                mod_consts[228],
                 mod_consts[50]
             );
         } else {
-            tmp_assign_source_14 = IMPORT_NAME(tmp_import_name_from_8, mod_consts[229]);
+            tmp_assign_source_14 = IMPORT_NAME(tmp_import_name_from_8, mod_consts[228]);
         }
 
         if (tmp_assign_source_14 == NULL) {
@@ -27564,7 +27564,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
             goto try_except_handler_2;
         }
-        UPDATE_STRING_DICT1(moduledict_matplotlib$projections$geo, (Nuitka_StringObject *)mod_consts[229], tmp_assign_source_14);
+        UPDATE_STRING_DICT1(moduledict_matplotlib$projections$geo, (Nuitka_StringObject *)mod_consts[228], tmp_assign_source_14);
     }
     {
         PyObject *tmp_assign_source_15;
@@ -27684,12 +27684,12 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_9;
         PyObject *tmp_fromlist_name_9;
         PyObject *tmp_level_name_9;
-        tmp_name_name_9 = mod_consts[230];
+        tmp_name_name_9 = mod_consts[229];
         tmp_globals_arg_name_9 = (PyObject *)moduledict_matplotlib$projections$geo;
         tmp_locals_arg_name_9 = Py_None;
-        tmp_fromlist_name_9 = mod_consts[231];
+        tmp_fromlist_name_9 = mod_consts[230];
         tmp_level_name_9 = mod_consts[50];
-        frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 11;
+        frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 11;
         tmp_assign_source_18 = IMPORT_MODULE5(tmp_name_name_9, tmp_globals_arg_name_9, tmp_locals_arg_name_9, tmp_fromlist_name_9, tmp_level_name_9);
         if (tmp_assign_source_18 == NULL) {
             assert(ERROR_OCCURRED());
@@ -27885,7 +27885,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_1;
         PyObject *tmp_subscript_name_1;
         PyObject *tmp_bases_name_1;
-        tmp_key_name_1 = mod_consts[232];
+        tmp_key_name_1 = mod_consts[231];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_1 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_1, tmp_key_name_1);
@@ -27899,7 +27899,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         condexpr_true_1:;
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_2 = tmp_class_creation_1__class_decl_dict;
-        tmp_key_name_2 = mod_consts[232];
+        tmp_key_name_2 = mod_consts[231];
         tmp_metaclass_name_1 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_2, tmp_key_name_2);
         if (tmp_metaclass_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -27985,7 +27985,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         nuitka_bool tmp_condition_result_3;
         PyObject *tmp_key_name_3;
         PyObject *tmp_dict_arg_name_3;
-        tmp_key_name_3 = mod_consts[232];
+        tmp_key_name_3 = mod_consts[231];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_3 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_3, tmp_key_name_3);
@@ -28000,7 +28000,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     branch_yes_1:;
     CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_1__class_decl_dict;
-    tmp_dictdel_key = mod_consts[232];
+    tmp_dictdel_key = mod_consts[231];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -28018,7 +28018,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_2;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_2 = tmp_class_creation_1__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_2, mod_consts[233]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_2, mod_consts[232]);
         tmp_condition_result_4 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_4 == NUITKA_BOOL_TRUE) {
             goto branch_yes_2;
@@ -28036,7 +28036,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_kwargs_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_3 = tmp_class_creation_1__metaclass;
-        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[233]);
+        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[232]);
         if (tmp_called_name_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -28055,7 +28055,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyTuple_SET_ITEM0(tmp_args_name_1, 1, tmp_tuple_element_2);
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_kwargs_name_1 = tmp_class_creation_1__class_decl_dict;
-        frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 14;
+        frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 14;
         tmp_assign_source_26 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -28078,7 +28078,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_4;
         CHECK_OBJECT(tmp_class_creation_1__prepared);
         tmp_expression_name_4 = tmp_class_creation_1__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_4, mod_consts[234]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_4, mod_consts[233]);
         tmp_operand_name_1 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_1);
         if (tmp_res == -1) {
@@ -28109,11 +28109,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_getattr_attr_1;
         PyObject *tmp_getattr_default_1;
         tmp_raise_type_1 = PyExc_TypeError;
-        tmp_left_name_1 = mod_consts[235];
+        tmp_left_name_1 = mod_consts[234];
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_getattr_target_1 = tmp_class_creation_1__metaclass;
         tmp_getattr_attr_1 = mod_consts[120];
-        tmp_getattr_default_1 = mod_consts[236];
+        tmp_getattr_default_1 = mod_consts[235];
         tmp_tuple_element_3 = BUILTIN_GETATTR(tmp_getattr_target_1, tmp_getattr_attr_1, tmp_getattr_default_1);
         if (tmp_tuple_element_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -28196,8 +28196,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[237];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[238], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[236];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[237], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -28208,7 +28208,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
             goto try_except_handler_6;
         }
-        tmp_dictset_value = mod_consts[239];
+        tmp_dictset_value = mod_consts[238];
         tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[207], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -28221,7 +28221,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             goto try_except_handler_6;
         }
         tmp_dictset_value = mod_consts[140];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[240], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[239], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -28232,45 +28232,45 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
             goto try_except_handler_6;
         }
-        if (isFrameUnusable(cache_frame_7dab06e840629fd828d257754b98f343_2)) {
-            Py_XDECREF(cache_frame_7dab06e840629fd828d257754b98f343_2);
+        if (isFrameUnusable(cache_frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2)) {
+            Py_XDECREF(cache_frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_7dab06e840629fd828d257754b98f343_2 == NULL) {
+            if (cache_frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_7dab06e840629fd828d257754b98f343_2 = MAKE_FUNCTION_FRAME(codeobj_7dab06e840629fd828d257754b98f343, module_matplotlib$projections$geo, sizeof(void *));
+            cache_frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2 = MAKE_FUNCTION_FRAME(codeobj_6c56f39ce6dfe66f351e1622fc5d4dc8, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_7dab06e840629fd828d257754b98f343_2->m_type_description == NULL);
-        frame_7dab06e840629fd828d257754b98f343_2 = cache_frame_7dab06e840629fd828d257754b98f343_2;
+        assert(cache_frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2->m_type_description == NULL);
+        frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2 = cache_frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_7dab06e840629fd828d257754b98f343_2);
+        pushFrameStack(frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_7dab06e840629fd828d257754b98f343_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2) == 2); // Frame stack
 
         // Framed code:
         // Tried code:
         {
             PyObject *tmp_assign_source_29;
             PyObject *tmp_tuple_element_4;
-            tmp_tuple_element_4 = PyObject_GetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[229]);
+            tmp_tuple_element_4 = PyObject_GetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[228]);
 
             if (tmp_tuple_element_4 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_tuple_element_4 = GET_STRING_DICT_VALUE(moduledict_matplotlib$projections$geo, (Nuitka_StringObject *)mod_consts[229]);
+                    tmp_tuple_element_4 = GET_STRING_DICT_VALUE(moduledict_matplotlib$projections$geo, (Nuitka_StringObject *)mod_consts[228]);
 
                     if (unlikely(tmp_tuple_element_4 == NULL)) {
-                        tmp_tuple_element_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[229]);
+                        tmp_tuple_element_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[228]);
                     }
 
                     if (tmp_tuple_element_4 == NULL) {
@@ -28336,7 +28336,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_6;
             PyObject *tmp_subscript_name_2;
             PyObject *tmp_bases_name_2;
-            tmp_key_name_4 = mod_consts[232];
+            tmp_key_name_4 = mod_consts[231];
             CHECK_OBJECT(tmp_GeoAxes$class_creation_1__class_decl_dict);
             tmp_dict_arg_name_4 = tmp_GeoAxes$class_creation_1__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_4, tmp_key_name_4);
@@ -28350,7 +28350,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             condexpr_true_3:;
             CHECK_OBJECT(tmp_GeoAxes$class_creation_1__class_decl_dict);
             tmp_dict_arg_name_5 = tmp_GeoAxes$class_creation_1__class_decl_dict;
-            tmp_key_name_5 = mod_consts[232];
+            tmp_key_name_5 = mod_consts[231];
             tmp_metaclass_name_2 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_5, tmp_key_name_5);
             if (tmp_metaclass_name_2 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -28436,7 +28436,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             nuitka_bool tmp_condition_result_8;
             PyObject *tmp_key_name_6;
             PyObject *tmp_dict_arg_name_6;
-            tmp_key_name_6 = mod_consts[232];
+            tmp_key_name_6 = mod_consts[231];
             CHECK_OBJECT(tmp_GeoAxes$class_creation_1__class_decl_dict);
             tmp_dict_arg_name_6 = tmp_GeoAxes$class_creation_1__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_6, tmp_key_name_6);
@@ -28451,7 +28451,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_4:;
         CHECK_OBJECT(tmp_GeoAxes$class_creation_1__class_decl_dict);
         tmp_dictdel_dict = tmp_GeoAxes$class_creation_1__class_decl_dict;
-        tmp_dictdel_key = mod_consts[232];
+        tmp_dictdel_key = mod_consts[231];
         tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
@@ -28469,7 +28469,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_7;
             CHECK_OBJECT(tmp_GeoAxes$class_creation_1__metaclass);
             tmp_expression_name_7 = tmp_GeoAxes$class_creation_1__metaclass;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_7, mod_consts[233]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_7, mod_consts[232]);
             tmp_condition_result_9 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
             if (tmp_condition_result_9 == NUITKA_BOOL_TRUE) {
                 goto branch_yes_5;
@@ -28487,7 +28487,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_kwargs_name_2;
             CHECK_OBJECT(tmp_GeoAxes$class_creation_1__metaclass);
             tmp_expression_name_8 = tmp_GeoAxes$class_creation_1__metaclass;
-            tmp_called_name_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_8, mod_consts[233]);
+            tmp_called_name_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_8, mod_consts[232]);
             if (tmp_called_name_2 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -28506,7 +28506,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_2, 1, tmp_tuple_element_5);
             CHECK_OBJECT(tmp_GeoAxes$class_creation_1__class_decl_dict);
             tmp_kwargs_name_2 = tmp_GeoAxes$class_creation_1__class_decl_dict;
-            frame_7dab06e840629fd828d257754b98f343_2->m_frame.f_lineno = 17;
+            frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2->m_frame.f_lineno = 17;
             tmp_assign_source_33 = CALL_FUNCTION(tmp_called_name_2, tmp_args_name_2, tmp_kwargs_name_2);
             Py_DECREF(tmp_called_name_2);
             Py_DECREF(tmp_args_name_2);
@@ -28529,7 +28529,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_9;
             CHECK_OBJECT(tmp_GeoAxes$class_creation_1__prepared);
             tmp_expression_name_9 = tmp_GeoAxes$class_creation_1__prepared;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_9, mod_consts[234]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_9, mod_consts[233]);
             tmp_operand_name_2 = (tmp_result) ? Py_True : Py_False;
             tmp_res = CHECK_IF_TRUE(tmp_operand_name_2);
             if (tmp_res == -1) {
@@ -28560,11 +28560,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_getattr_attr_2;
             PyObject *tmp_getattr_default_2;
             tmp_raise_type_2 = PyExc_TypeError;
-            tmp_left_name_2 = mod_consts[235];
+            tmp_left_name_2 = mod_consts[234];
             CHECK_OBJECT(tmp_GeoAxes$class_creation_1__metaclass);
             tmp_getattr_target_2 = tmp_GeoAxes$class_creation_1__metaclass;
             tmp_getattr_attr_2 = mod_consts[120];
-            tmp_getattr_default_2 = mod_consts[236];
+            tmp_getattr_default_2 = mod_consts[235];
             tmp_tuple_element_6 = BUILTIN_GETATTR(tmp_getattr_target_2, tmp_getattr_attr_2, tmp_getattr_default_2);
             if (tmp_tuple_element_6 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -28645,8 +28645,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[237];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__2_ThetaFormatter_17, mod_consts[238], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[236];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__2_ThetaFormatter_17, mod_consts[237], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -28657,7 +28657,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_9;
         }
-        tmp_dictset_value = mod_consts[241];
+        tmp_dictset_value = mod_consts[240];
         tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__2_ThetaFormatter_17, mod_consts[207], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -28669,8 +28669,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_9;
         }
-        tmp_dictset_value = mod_consts[242];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__2_ThetaFormatter_17, mod_consts[240], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[241];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__2_ThetaFormatter_17, mod_consts[239], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -28681,36 +28681,36 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_9;
         }
-        if (isFrameUnusable(cache_frame_e61eaa68a4dff166d0e2a435cf6f200a_3)) {
-            Py_XDECREF(cache_frame_e61eaa68a4dff166d0e2a435cf6f200a_3);
+        if (isFrameUnusable(cache_frame_c2d315eb78b0015843285c02086a5444_3)) {
+            Py_XDECREF(cache_frame_c2d315eb78b0015843285c02086a5444_3);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_e61eaa68a4dff166d0e2a435cf6f200a_3 == NULL) {
+            if (cache_frame_c2d315eb78b0015843285c02086a5444_3 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_e61eaa68a4dff166d0e2a435cf6f200a_3 = MAKE_FUNCTION_FRAME(codeobj_e61eaa68a4dff166d0e2a435cf6f200a, module_matplotlib$projections$geo, sizeof(void *));
+            cache_frame_c2d315eb78b0015843285c02086a5444_3 = MAKE_FUNCTION_FRAME(codeobj_c2d315eb78b0015843285c02086a5444, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_e61eaa68a4dff166d0e2a435cf6f200a_3->m_type_description == NULL);
-        frame_e61eaa68a4dff166d0e2a435cf6f200a_3 = cache_frame_e61eaa68a4dff166d0e2a435cf6f200a_3;
+        assert(cache_frame_c2d315eb78b0015843285c02086a5444_3->m_type_description == NULL);
+        frame_c2d315eb78b0015843285c02086a5444_3 = cache_frame_c2d315eb78b0015843285c02086a5444_3;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_e61eaa68a4dff166d0e2a435cf6f200a_3);
+        pushFrameStack(frame_c2d315eb78b0015843285c02086a5444_3);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_e61eaa68a4dff166d0e2a435cf6f200a_3) == 2); // Frame stack
+        assert(Py_REFCNT(frame_c2d315eb78b0015843285c02086a5444_3) == 2); // Frame stack
 
         // Framed code:
         {
             PyObject *tmp_defaults_1;
-            tmp_defaults_1 = mod_consts[243];
+            tmp_defaults_1 = mod_consts[242];
             Py_INCREF(tmp_defaults_1);
 
 
@@ -28731,13 +28731,13 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         {
             PyObject *tmp_defaults_2;
-            tmp_defaults_2 = mod_consts[245];
+            tmp_defaults_2 = mod_consts[244];
             Py_INCREF(tmp_defaults_2);
 
 
             tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__2___call__(tmp_defaults_2);
 
-            tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__2_ThetaFormatter_17, mod_consts[246], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__2_ThetaFormatter_17, mod_consts[245], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -28752,7 +28752,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_e61eaa68a4dff166d0e2a435cf6f200a_3);
+        RESTORE_FRAME_EXCEPTION(frame_c2d315eb78b0015843285c02086a5444_3);
 #endif
 
         // Put the previous frame back on top.
@@ -28763,35 +28763,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         frame_exception_exit_3:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_e61eaa68a4dff166d0e2a435cf6f200a_3);
+        RESTORE_FRAME_EXCEPTION(frame_c2d315eb78b0015843285c02086a5444_3);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_e61eaa68a4dff166d0e2a435cf6f200a_3, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_e61eaa68a4dff166d0e2a435cf6f200a_3->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_e61eaa68a4dff166d0e2a435cf6f200a_3, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_c2d315eb78b0015843285c02086a5444_3, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_c2d315eb78b0015843285c02086a5444_3->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_c2d315eb78b0015843285c02086a5444_3, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_e61eaa68a4dff166d0e2a435cf6f200a_3,
+            frame_c2d315eb78b0015843285c02086a5444_3,
             type_description_3,
             outline_1_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_e61eaa68a4dff166d0e2a435cf6f200a_3 == cache_frame_e61eaa68a4dff166d0e2a435cf6f200a_3) {
+        if (frame_c2d315eb78b0015843285c02086a5444_3 == cache_frame_c2d315eb78b0015843285c02086a5444_3) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_e61eaa68a4dff166d0e2a435cf6f200a_3);
-            cache_frame_e61eaa68a4dff166d0e2a435cf6f200a_3 = NULL;
+            Py_DECREF(cache_frame_c2d315eb78b0015843285c02086a5444_3);
+            cache_frame_c2d315eb78b0015843285c02086a5444_3 = NULL;
         }
 
-        assertFrameObject(frame_e61eaa68a4dff166d0e2a435cf6f200a_3);
+        assertFrameObject(frame_c2d315eb78b0015843285c02086a5444_3);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -28834,7 +28834,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_7:;
         CHECK_OBJECT(tmp_GeoAxes$class_creation_1__bases_orig);
         tmp_dictset_value = tmp_GeoAxes$class_creation_1__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__2_ThetaFormatter_17, mod_consts[248], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__2_ThetaFormatter_17, mod_consts[247], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -28864,7 +28864,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_3, 2, tmp_tuple_element_7);
             CHECK_OBJECT(tmp_GeoAxes$class_creation_1__class_decl_dict);
             tmp_kwargs_name_3 = tmp_GeoAxes$class_creation_1__class_decl_dict;
-            frame_7dab06e840629fd828d257754b98f343_2->m_frame.f_lineno = 17;
+            frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2->m_frame.f_lineno = 17;
             tmp_assign_source_35 = CALL_FUNCTION(tmp_called_name_3, tmp_args_name_3, tmp_kwargs_name_3);
             Py_DECREF(tmp_args_name_3);
             if (tmp_assign_source_35 == NULL) {
@@ -29000,7 +29000,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         CHECK_OBJECT(tmp_GeoAxes$class_creation_1__prepared);
         Py_DECREF(tmp_GeoAxes$class_creation_1__prepared);
         tmp_GeoAxes$class_creation_1__prepared = NULL;
-        tmp_dictset_value = mod_consts[249];
+        tmp_dictset_value = mod_consts[248];
         tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[36], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29016,7 +29016,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__3__init_axis();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[250], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[249], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29048,7 +29048,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__5__set_lim_and_transforms();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[253], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[252], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29078,13 +29078,13 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         {
             PyObject *tmp_defaults_3;
-            tmp_defaults_3 = mod_consts[256];
+            tmp_defaults_3 = mod_consts[255];
             Py_INCREF(tmp_defaults_3);
 
 
             tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__7_get_xaxis_transform(tmp_defaults_3);
 
-            tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[257], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[256], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -29101,7 +29101,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__8_get_xaxis_text1_transform();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[259], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[258], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29117,7 +29117,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__9_get_xaxis_text2_transform();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[261], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[260], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29131,13 +29131,13 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         {
             PyObject *tmp_defaults_4;
-            tmp_defaults_4 = mod_consts[256];
+            tmp_defaults_4 = mod_consts[255];
             Py_INCREF(tmp_defaults_4);
 
 
             tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__10_get_yaxis_transform(tmp_defaults_4);
 
-            tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[263], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[262], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -29154,7 +29154,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__11_get_yaxis_text1_transform();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[265], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[264], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29170,7 +29170,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__12_get_yaxis_text2_transform();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[267], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[266], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29186,7 +29186,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__13__gen_axes_patch();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[269], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[268], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29202,7 +29202,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__14__gen_axes_spines();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[271], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[270], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29218,7 +29218,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__15_set_yscale();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[273], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[272], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29230,11 +29230,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto frame_exception_exit_2;
         }
-        tmp_dictset_value = PyObject_GetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[273]);
+        tmp_dictset_value = PyObject_GetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[272]);
 
         if (unlikely(tmp_dictset_value == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-            FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[273]);
+            FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[272]);
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
 
@@ -29253,7 +29253,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto frame_exception_exit_2;
         }
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[275], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[274], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29320,7 +29320,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__17_format_coord();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[277], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[276], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29384,7 +29384,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__21_get_data_ratio();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[282], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[281], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29400,7 +29400,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__22_can_zoom();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[284], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[283], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29416,7 +29416,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__23_can_pan();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[286], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[285], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29432,7 +29432,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__24_start_pan();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[288], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[287], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29448,7 +29448,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__25_end_pan();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[290], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[289], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29464,7 +29464,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__26_drag_pan();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[292], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[291], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -29478,7 +29478,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_7dab06e840629fd828d257754b98f343_2);
+        RESTORE_FRAME_EXCEPTION(frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2);
 #endif
 
         // Put the previous frame back on top.
@@ -29489,35 +29489,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_7dab06e840629fd828d257754b98f343_2);
+        RESTORE_FRAME_EXCEPTION(frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_7dab06e840629fd828d257754b98f343_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_7dab06e840629fd828d257754b98f343_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_7dab06e840629fd828d257754b98f343_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_7dab06e840629fd828d257754b98f343_2,
+            frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2,
             type_description_2,
             outline_0_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_7dab06e840629fd828d257754b98f343_2 == cache_frame_7dab06e840629fd828d257754b98f343_2) {
+        if (frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2 == cache_frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_7dab06e840629fd828d257754b98f343_2);
-            cache_frame_7dab06e840629fd828d257754b98f343_2 = NULL;
+            Py_DECREF(cache_frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2);
+            cache_frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2 = NULL;
         }
 
-        assertFrameObject(frame_7dab06e840629fd828d257754b98f343_2);
+        assertFrameObject(frame_6c56f39ce6dfe66f351e1622fc5d4dc8_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -29560,7 +29560,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_8:;
         CHECK_OBJECT(tmp_class_creation_1__bases_orig);
         tmp_dictset_value = tmp_class_creation_1__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[248], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__1_GeoAxes_14, mod_consts[247], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -29590,7 +29590,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_4, 2, tmp_tuple_element_8);
             CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
             tmp_kwargs_name_4 = tmp_class_creation_1__class_decl_dict;
-            frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 14;
+            frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 14;
             tmp_assign_source_36 = CALL_FUNCTION(tmp_called_name_4, tmp_args_name_4, tmp_kwargs_name_4);
             Py_DECREF(tmp_args_name_4);
             if (tmp_assign_source_36 == NULL) {
@@ -29785,7 +29785,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_11;
         PyObject *tmp_subscript_name_3;
         PyObject *tmp_bases_name_3;
-        tmp_key_name_7 = mod_consts[232];
+        tmp_key_name_7 = mod_consts[231];
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_7 = tmp_class_creation_2__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_7, tmp_key_name_7);
@@ -29799,7 +29799,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         condexpr_true_5:;
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_8 = tmp_class_creation_2__class_decl_dict;
-        tmp_key_name_8 = mod_consts[232];
+        tmp_key_name_8 = mod_consts[231];
         tmp_metaclass_name_3 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_8, tmp_key_name_8);
         if (tmp_metaclass_name_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -29885,7 +29885,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         nuitka_bool tmp_condition_result_15;
         PyObject *tmp_key_name_9;
         PyObject *tmp_dict_arg_name_9;
-        tmp_key_name_9 = mod_consts[232];
+        tmp_key_name_9 = mod_consts[231];
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_9 = tmp_class_creation_2__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_9, tmp_key_name_9);
@@ -29900,7 +29900,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     branch_yes_9:;
     CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_2__class_decl_dict;
-    tmp_dictdel_key = mod_consts[232];
+    tmp_dictdel_key = mod_consts[231];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -29918,7 +29918,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_12;
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_expression_name_12 = tmp_class_creation_2__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_12, mod_consts[233]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_12, mod_consts[232]);
         tmp_condition_result_16 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_16 == NUITKA_BOOL_TRUE) {
             goto branch_yes_10;
@@ -29936,7 +29936,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_kwargs_name_5;
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_expression_name_13 = tmp_class_creation_2__metaclass;
-        tmp_called_name_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_13, mod_consts[233]);
+        tmp_called_name_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_13, mod_consts[232]);
         if (tmp_called_name_5 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -29955,7 +29955,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyTuple_SET_ITEM0(tmp_args_name_5, 1, tmp_tuple_element_10);
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_kwargs_name_5 = tmp_class_creation_2__class_decl_dict;
-        frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 229;
+        frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 229;
         tmp_assign_source_41 = CALL_FUNCTION(tmp_called_name_5, tmp_args_name_5, tmp_kwargs_name_5);
         Py_DECREF(tmp_called_name_5);
         Py_DECREF(tmp_args_name_5);
@@ -29978,7 +29978,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_14;
         CHECK_OBJECT(tmp_class_creation_2__prepared);
         tmp_expression_name_14 = tmp_class_creation_2__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_14, mod_consts[234]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_14, mod_consts[233]);
         tmp_operand_name_3 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_3);
         if (tmp_res == -1) {
@@ -30009,11 +30009,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_getattr_attr_3;
         PyObject *tmp_getattr_default_3;
         tmp_raise_type_3 = PyExc_TypeError;
-        tmp_left_name_3 = mod_consts[235];
+        tmp_left_name_3 = mod_consts[234];
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_getattr_target_3 = tmp_class_creation_2__metaclass;
         tmp_getattr_attr_3 = mod_consts[120];
-        tmp_getattr_default_3 = mod_consts[236];
+        tmp_getattr_default_3 = mod_consts[235];
         tmp_tuple_element_11 = BUILTIN_GETATTR(tmp_getattr_target_3, tmp_getattr_attr_3, tmp_getattr_default_3);
         if (tmp_tuple_element_11 == NULL) {
             assert(ERROR_OCCURRED());
@@ -30096,8 +30096,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[237];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__3__GeoTransform_229, mod_consts[238], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[236];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__3__GeoTransform_229, mod_consts[237], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -30109,7 +30109,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             goto try_except_handler_12;
         }
         tmp_dictset_value = mod_consts[183];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__3__GeoTransform_229, mod_consts[240], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__3__GeoTransform_229, mod_consts[239], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -30127,37 +30127,37 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             Py_INCREF(tmp_assign_source_44);
             tmp__GeoTransform$assign_unpack_1__assign_source = tmp_assign_source_44;
         }
-        if (isFrameUnusable(cache_frame_f71268d30ed3d9cd312c50e6870ca713_4)) {
-            Py_XDECREF(cache_frame_f71268d30ed3d9cd312c50e6870ca713_4);
+        if (isFrameUnusable(cache_frame_84f6c7bbf3a8420fc3826993d8ef9568_4)) {
+            Py_XDECREF(cache_frame_84f6c7bbf3a8420fc3826993d8ef9568_4);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_f71268d30ed3d9cd312c50e6870ca713_4 == NULL) {
+            if (cache_frame_84f6c7bbf3a8420fc3826993d8ef9568_4 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_f71268d30ed3d9cd312c50e6870ca713_4 = MAKE_FUNCTION_FRAME(codeobj_f71268d30ed3d9cd312c50e6870ca713, module_matplotlib$projections$geo, sizeof(void *));
+            cache_frame_84f6c7bbf3a8420fc3826993d8ef9568_4 = MAKE_FUNCTION_FRAME(codeobj_84f6c7bbf3a8420fc3826993d8ef9568, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_f71268d30ed3d9cd312c50e6870ca713_4->m_type_description == NULL);
-        frame_f71268d30ed3d9cd312c50e6870ca713_4 = cache_frame_f71268d30ed3d9cd312c50e6870ca713_4;
+        assert(cache_frame_84f6c7bbf3a8420fc3826993d8ef9568_4->m_type_description == NULL);
+        frame_84f6c7bbf3a8420fc3826993d8ef9568_4 = cache_frame_84f6c7bbf3a8420fc3826993d8ef9568_4;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_f71268d30ed3d9cd312c50e6870ca713_4);
+        pushFrameStack(frame_84f6c7bbf3a8420fc3826993d8ef9568_4);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_f71268d30ed3d9cd312c50e6870ca713_4) == 2); // Frame stack
+        assert(Py_REFCNT(frame_84f6c7bbf3a8420fc3826993d8ef9568_4) == 2); // Frame stack
 
         // Framed code:
         // Tried code:
         CHECK_OBJECT(tmp__GeoTransform$assign_unpack_1__assign_source);
         tmp_dictset_value = tmp__GeoTransform$assign_unpack_1__assign_source;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__3__GeoTransform_229, mod_consts[294], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__3__GeoTransform_229, mod_consts[293], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -30170,7 +30170,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         CHECK_OBJECT(tmp__GeoTransform$assign_unpack_1__assign_source);
         tmp_dictset_value = tmp__GeoTransform$assign_unpack_1__assign_source;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__3__GeoTransform_229, mod_consts[295], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__3__GeoTransform_229, mod_consts[294], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -30228,7 +30228,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__28___str__();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__3__GeoTransform_229, mod_consts[297], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__3__GeoTransform_229, mod_consts[296], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -30244,7 +30244,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__29_transform_path_non_affine();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__3__GeoTransform_229, mod_consts[299], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__3__GeoTransform_229, mod_consts[298], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -30258,7 +30258,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_f71268d30ed3d9cd312c50e6870ca713_4);
+        RESTORE_FRAME_EXCEPTION(frame_84f6c7bbf3a8420fc3826993d8ef9568_4);
 #endif
 
         // Put the previous frame back on top.
@@ -30269,35 +30269,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         frame_exception_exit_4:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_f71268d30ed3d9cd312c50e6870ca713_4);
+        RESTORE_FRAME_EXCEPTION(frame_84f6c7bbf3a8420fc3826993d8ef9568_4);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_f71268d30ed3d9cd312c50e6870ca713_4, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_f71268d30ed3d9cd312c50e6870ca713_4->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_f71268d30ed3d9cd312c50e6870ca713_4, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_84f6c7bbf3a8420fc3826993d8ef9568_4, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_84f6c7bbf3a8420fc3826993d8ef9568_4->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_84f6c7bbf3a8420fc3826993d8ef9568_4, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_f71268d30ed3d9cd312c50e6870ca713_4,
+            frame_84f6c7bbf3a8420fc3826993d8ef9568_4,
             type_description_2,
             outline_2_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_f71268d30ed3d9cd312c50e6870ca713_4 == cache_frame_f71268d30ed3d9cd312c50e6870ca713_4) {
+        if (frame_84f6c7bbf3a8420fc3826993d8ef9568_4 == cache_frame_84f6c7bbf3a8420fc3826993d8ef9568_4) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_f71268d30ed3d9cd312c50e6870ca713_4);
-            cache_frame_f71268d30ed3d9cd312c50e6870ca713_4 = NULL;
+            Py_DECREF(cache_frame_84f6c7bbf3a8420fc3826993d8ef9568_4);
+            cache_frame_84f6c7bbf3a8420fc3826993d8ef9568_4 = NULL;
         }
 
-        assertFrameObject(frame_f71268d30ed3d9cd312c50e6870ca713_4);
+        assertFrameObject(frame_84f6c7bbf3a8420fc3826993d8ef9568_4);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -30340,7 +30340,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_12:;
         CHECK_OBJECT(tmp_class_creation_2__bases_orig);
         tmp_dictset_value = tmp_class_creation_2__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__3__GeoTransform_229, mod_consts[248], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__3__GeoTransform_229, mod_consts[247], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -30370,7 +30370,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_6, 2, tmp_tuple_element_12);
             CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
             tmp_kwargs_name_6 = tmp_class_creation_2__class_decl_dict;
-            frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 229;
+            frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 229;
             tmp_assign_source_45 = CALL_FUNCTION(tmp_called_name_6, tmp_args_name_6, tmp_kwargs_name_6);
             Py_DECREF(tmp_args_name_6);
             if (tmp_assign_source_45 == NULL) {
@@ -30565,7 +30565,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_16;
         PyObject *tmp_subscript_name_4;
         PyObject *tmp_bases_name_4;
-        tmp_key_name_10 = mod_consts[232];
+        tmp_key_name_10 = mod_consts[231];
         CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
         tmp_dict_arg_name_10 = tmp_class_creation_3__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_10, tmp_key_name_10);
@@ -30579,7 +30579,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         condexpr_true_7:;
         CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
         tmp_dict_arg_name_11 = tmp_class_creation_3__class_decl_dict;
-        tmp_key_name_11 = mod_consts[232];
+        tmp_key_name_11 = mod_consts[231];
         tmp_metaclass_name_4 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_11, tmp_key_name_11);
         if (tmp_metaclass_name_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -30665,7 +30665,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         nuitka_bool tmp_condition_result_21;
         PyObject *tmp_key_name_12;
         PyObject *tmp_dict_arg_name_12;
-        tmp_key_name_12 = mod_consts[232];
+        tmp_key_name_12 = mod_consts[231];
         CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
         tmp_dict_arg_name_12 = tmp_class_creation_3__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_12, tmp_key_name_12);
@@ -30680,7 +30680,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     branch_yes_13:;
     CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_3__class_decl_dict;
-    tmp_dictdel_key = mod_consts[232];
+    tmp_dictdel_key = mod_consts[231];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -30698,7 +30698,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_17;
         CHECK_OBJECT(tmp_class_creation_3__metaclass);
         tmp_expression_name_17 = tmp_class_creation_3__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_17, mod_consts[233]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_17, mod_consts[232]);
         tmp_condition_result_22 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_22 == NUITKA_BOOL_TRUE) {
             goto branch_yes_14;
@@ -30716,7 +30716,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_kwargs_name_7;
         CHECK_OBJECT(tmp_class_creation_3__metaclass);
         tmp_expression_name_18 = tmp_class_creation_3__metaclass;
-        tmp_called_name_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_18, mod_consts[233]);
+        tmp_called_name_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_18, mod_consts[232]);
         if (tmp_called_name_7 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -30735,7 +30735,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyTuple_SET_ITEM0(tmp_args_name_7, 1, tmp_tuple_element_14);
         CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
         tmp_kwargs_name_7 = tmp_class_creation_3__class_decl_dict;
-        frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 252;
+        frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 252;
         tmp_assign_source_50 = CALL_FUNCTION(tmp_called_name_7, tmp_args_name_7, tmp_kwargs_name_7);
         Py_DECREF(tmp_called_name_7);
         Py_DECREF(tmp_args_name_7);
@@ -30758,7 +30758,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_19;
         CHECK_OBJECT(tmp_class_creation_3__prepared);
         tmp_expression_name_19 = tmp_class_creation_3__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_19, mod_consts[234]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_19, mod_consts[233]);
         tmp_operand_name_4 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_4);
         if (tmp_res == -1) {
@@ -30789,11 +30789,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_getattr_attr_4;
         PyObject *tmp_getattr_default_4;
         tmp_raise_type_4 = PyExc_TypeError;
-        tmp_left_name_4 = mod_consts[235];
+        tmp_left_name_4 = mod_consts[234];
         CHECK_OBJECT(tmp_class_creation_3__metaclass);
         tmp_getattr_target_4 = tmp_class_creation_3__metaclass;
         tmp_getattr_attr_4 = mod_consts[120];
-        tmp_getattr_default_4 = mod_consts[236];
+        tmp_getattr_default_4 = mod_consts[235];
         tmp_tuple_element_15 = BUILTIN_GETATTR(tmp_getattr_target_4, tmp_getattr_attr_4, tmp_getattr_default_4);
         if (tmp_tuple_element_15 == NULL) {
             assert(ERROR_OCCURRED());
@@ -30876,8 +30876,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[237];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__4_AitoffAxes_252, mod_consts[238], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[236];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__4_AitoffAxes_252, mod_consts[237], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -30889,7 +30889,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             goto try_except_handler_16;
         }
         tmp_dictset_value = mod_consts[137];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__4_AitoffAxes_252, mod_consts[240], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__4_AitoffAxes_252, mod_consts[239], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -30900,35 +30900,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
             goto try_except_handler_16;
         }
-        if (isFrameUnusable(cache_frame_67c88fccc8a8de1716fc035708bb98a0_5)) {
-            Py_XDECREF(cache_frame_67c88fccc8a8de1716fc035708bb98a0_5);
+        if (isFrameUnusable(cache_frame_00986626272dc64c8ce2ec7dd8f75d85_5)) {
+            Py_XDECREF(cache_frame_00986626272dc64c8ce2ec7dd8f75d85_5);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_67c88fccc8a8de1716fc035708bb98a0_5 == NULL) {
+            if (cache_frame_00986626272dc64c8ce2ec7dd8f75d85_5 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_67c88fccc8a8de1716fc035708bb98a0_5 = MAKE_FUNCTION_FRAME(codeobj_67c88fccc8a8de1716fc035708bb98a0, module_matplotlib$projections$geo, sizeof(void *));
+            cache_frame_00986626272dc64c8ce2ec7dd8f75d85_5 = MAKE_FUNCTION_FRAME(codeobj_00986626272dc64c8ce2ec7dd8f75d85, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_67c88fccc8a8de1716fc035708bb98a0_5->m_type_description == NULL);
-        frame_67c88fccc8a8de1716fc035708bb98a0_5 = cache_frame_67c88fccc8a8de1716fc035708bb98a0_5;
+        assert(cache_frame_00986626272dc64c8ce2ec7dd8f75d85_5->m_type_description == NULL);
+        frame_00986626272dc64c8ce2ec7dd8f75d85_5 = cache_frame_00986626272dc64c8ce2ec7dd8f75d85_5;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_67c88fccc8a8de1716fc035708bb98a0_5);
+        pushFrameStack(frame_00986626272dc64c8ce2ec7dd8f75d85_5);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_67c88fccc8a8de1716fc035708bb98a0_5) == 2); // Frame stack
+        assert(Py_REFCNT(frame_00986626272dc64c8ce2ec7dd8f75d85_5) == 2); // Frame stack
 
         // Framed code:
-        tmp_dictset_value = mod_consts[301];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__4_AitoffAxes_252, mod_consts[302], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[300];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__4_AitoffAxes_252, mod_consts[301], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -31016,7 +31016,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_21;
             PyObject *tmp_subscript_name_5;
             PyObject *tmp_bases_name_5;
-            tmp_key_name_13 = mod_consts[232];
+            tmp_key_name_13 = mod_consts[231];
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_1__class_decl_dict);
             tmp_dict_arg_name_13 = tmp_AitoffAxes$class_creation_1__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_13, tmp_key_name_13);
@@ -31030,7 +31030,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             condexpr_true_9:;
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_1__class_decl_dict);
             tmp_dict_arg_name_14 = tmp_AitoffAxes$class_creation_1__class_decl_dict;
-            tmp_key_name_14 = mod_consts[232];
+            tmp_key_name_14 = mod_consts[231];
             tmp_metaclass_name_5 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_14, tmp_key_name_14);
             if (tmp_metaclass_name_5 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -31116,7 +31116,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             nuitka_bool tmp_condition_result_26;
             PyObject *tmp_key_name_15;
             PyObject *tmp_dict_arg_name_15;
-            tmp_key_name_15 = mod_consts[232];
+            tmp_key_name_15 = mod_consts[231];
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_1__class_decl_dict);
             tmp_dict_arg_name_15 = tmp_AitoffAxes$class_creation_1__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_15, tmp_key_name_15);
@@ -31131,7 +31131,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_16:;
         CHECK_OBJECT(tmp_AitoffAxes$class_creation_1__class_decl_dict);
         tmp_dictdel_dict = tmp_AitoffAxes$class_creation_1__class_decl_dict;
-        tmp_dictdel_key = mod_consts[232];
+        tmp_dictdel_key = mod_consts[231];
         tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
@@ -31149,7 +31149,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_22;
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_1__metaclass);
             tmp_expression_name_22 = tmp_AitoffAxes$class_creation_1__metaclass;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_22, mod_consts[233]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_22, mod_consts[232]);
             tmp_condition_result_27 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
             if (tmp_condition_result_27 == NUITKA_BOOL_TRUE) {
                 goto branch_yes_17;
@@ -31167,7 +31167,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_kwargs_name_8;
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_1__metaclass);
             tmp_expression_name_23 = tmp_AitoffAxes$class_creation_1__metaclass;
-            tmp_called_name_8 = LOOKUP_ATTRIBUTE(tmp_expression_name_23, mod_consts[233]);
+            tmp_called_name_8 = LOOKUP_ATTRIBUTE(tmp_expression_name_23, mod_consts[232]);
             if (tmp_called_name_8 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -31186,7 +31186,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_8, 1, tmp_tuple_element_17);
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_1__class_decl_dict);
             tmp_kwargs_name_8 = tmp_AitoffAxes$class_creation_1__class_decl_dict;
-            frame_67c88fccc8a8de1716fc035708bb98a0_5->m_frame.f_lineno = 255;
+            frame_00986626272dc64c8ce2ec7dd8f75d85_5->m_frame.f_lineno = 255;
             tmp_assign_source_57 = CALL_FUNCTION(tmp_called_name_8, tmp_args_name_8, tmp_kwargs_name_8);
             Py_DECREF(tmp_called_name_8);
             Py_DECREF(tmp_args_name_8);
@@ -31209,7 +31209,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_24;
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_1__prepared);
             tmp_expression_name_24 = tmp_AitoffAxes$class_creation_1__prepared;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_24, mod_consts[234]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_24, mod_consts[233]);
             tmp_operand_name_5 = (tmp_result) ? Py_True : Py_False;
             tmp_res = CHECK_IF_TRUE(tmp_operand_name_5);
             if (tmp_res == -1) {
@@ -31240,11 +31240,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_getattr_attr_5;
             PyObject *tmp_getattr_default_5;
             tmp_raise_type_5 = PyExc_TypeError;
-            tmp_left_name_5 = mod_consts[235];
+            tmp_left_name_5 = mod_consts[234];
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_1__metaclass);
             tmp_getattr_target_5 = tmp_AitoffAxes$class_creation_1__metaclass;
             tmp_getattr_attr_5 = mod_consts[120];
-            tmp_getattr_default_5 = mod_consts[236];
+            tmp_getattr_default_5 = mod_consts[235];
             tmp_tuple_element_18 = BUILTIN_GETATTR(tmp_getattr_target_5, tmp_getattr_attr_5, tmp_getattr_default_5);
             if (tmp_tuple_element_18 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -31325,8 +31325,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[237];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__5_AitoffTransform_255, mod_consts[238], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[236];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__5_AitoffTransform_255, mod_consts[237], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -31337,7 +31337,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_19;
         }
-        tmp_dictset_value = mod_consts[303];
+        tmp_dictset_value = mod_consts[302];
         tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__5_AitoffTransform_255, mod_consts[207], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -31349,8 +31349,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_19;
         }
-        tmp_dictset_value = mod_consts[304];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__5_AitoffTransform_255, mod_consts[240], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[303];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__5_AitoffTransform_255, mod_consts[239], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -31361,38 +31361,38 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_19;
         }
-        if (isFrameUnusable(cache_frame_2a0cdc9955a3063f892abd88751d21c7_6)) {
-            Py_XDECREF(cache_frame_2a0cdc9955a3063f892abd88751d21c7_6);
+        if (isFrameUnusable(cache_frame_58a83f5da7acd0fc5474c0aacf6e11ce_6)) {
+            Py_XDECREF(cache_frame_58a83f5da7acd0fc5474c0aacf6e11ce_6);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_2a0cdc9955a3063f892abd88751d21c7_6 == NULL) {
+            if (cache_frame_58a83f5da7acd0fc5474c0aacf6e11ce_6 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_2a0cdc9955a3063f892abd88751d21c7_6 = MAKE_FUNCTION_FRAME(codeobj_2a0cdc9955a3063f892abd88751d21c7, module_matplotlib$projections$geo, sizeof(void *));
+            cache_frame_58a83f5da7acd0fc5474c0aacf6e11ce_6 = MAKE_FUNCTION_FRAME(codeobj_58a83f5da7acd0fc5474c0aacf6e11ce, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_2a0cdc9955a3063f892abd88751d21c7_6->m_type_description == NULL);
-        frame_2a0cdc9955a3063f892abd88751d21c7_6 = cache_frame_2a0cdc9955a3063f892abd88751d21c7_6;
+        assert(cache_frame_58a83f5da7acd0fc5474c0aacf6e11ce_6->m_type_description == NULL);
+        frame_58a83f5da7acd0fc5474c0aacf6e11ce_6 = cache_frame_58a83f5da7acd0fc5474c0aacf6e11ce_6;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_2a0cdc9955a3063f892abd88751d21c7_6);
+        pushFrameStack(frame_58a83f5da7acd0fc5474c0aacf6e11ce_6);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_2a0cdc9955a3063f892abd88751d21c7_6) == 2); // Frame stack
+        assert(Py_REFCNT(frame_58a83f5da7acd0fc5474c0aacf6e11ce_6) == 2); // Frame stack
 
         // Framed code:
 
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__30_transform_non_affine();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__5_AitoffTransform_255, mod_consts[305], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__5_AitoffTransform_255, mod_consts[304], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -31408,7 +31408,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__31_inverted();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__5_AitoffTransform_255, mod_consts[307], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__5_AitoffTransform_255, mod_consts[306], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -31422,7 +31422,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_2a0cdc9955a3063f892abd88751d21c7_6);
+        RESTORE_FRAME_EXCEPTION(frame_58a83f5da7acd0fc5474c0aacf6e11ce_6);
 #endif
 
         // Put the previous frame back on top.
@@ -31433,35 +31433,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         frame_exception_exit_6:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_2a0cdc9955a3063f892abd88751d21c7_6);
+        RESTORE_FRAME_EXCEPTION(frame_58a83f5da7acd0fc5474c0aacf6e11ce_6);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_2a0cdc9955a3063f892abd88751d21c7_6, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_2a0cdc9955a3063f892abd88751d21c7_6->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_2a0cdc9955a3063f892abd88751d21c7_6, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_58a83f5da7acd0fc5474c0aacf6e11ce_6, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_58a83f5da7acd0fc5474c0aacf6e11ce_6->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_58a83f5da7acd0fc5474c0aacf6e11ce_6, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_2a0cdc9955a3063f892abd88751d21c7_6,
+            frame_58a83f5da7acd0fc5474c0aacf6e11ce_6,
             type_description_3,
             outline_4_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_2a0cdc9955a3063f892abd88751d21c7_6 == cache_frame_2a0cdc9955a3063f892abd88751d21c7_6) {
+        if (frame_58a83f5da7acd0fc5474c0aacf6e11ce_6 == cache_frame_58a83f5da7acd0fc5474c0aacf6e11ce_6) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_2a0cdc9955a3063f892abd88751d21c7_6);
-            cache_frame_2a0cdc9955a3063f892abd88751d21c7_6 = NULL;
+            Py_DECREF(cache_frame_58a83f5da7acd0fc5474c0aacf6e11ce_6);
+            cache_frame_58a83f5da7acd0fc5474c0aacf6e11ce_6 = NULL;
         }
 
-        assertFrameObject(frame_2a0cdc9955a3063f892abd88751d21c7_6);
+        assertFrameObject(frame_58a83f5da7acd0fc5474c0aacf6e11ce_6);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -31504,7 +31504,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_19:;
         CHECK_OBJECT(tmp_AitoffAxes$class_creation_1__bases_orig);
         tmp_dictset_value = tmp_AitoffAxes$class_creation_1__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__5_AitoffTransform_255, mod_consts[248], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__5_AitoffTransform_255, mod_consts[247], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -31534,7 +31534,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_9, 2, tmp_tuple_element_19);
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_1__class_decl_dict);
             tmp_kwargs_name_9 = tmp_AitoffAxes$class_creation_1__class_decl_dict;
-            frame_67c88fccc8a8de1716fc035708bb98a0_5->m_frame.f_lineno = 255;
+            frame_00986626272dc64c8ce2ec7dd8f75d85_5->m_frame.f_lineno = 255;
             tmp_assign_source_59 = CALL_FUNCTION(tmp_called_name_9, tmp_args_name_9, tmp_kwargs_name_9);
             Py_DECREF(tmp_args_name_9);
             if (tmp_assign_source_59 == NULL) {
@@ -31747,7 +31747,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_26;
             PyObject *tmp_subscript_name_6;
             PyObject *tmp_bases_name_6;
-            tmp_key_name_16 = mod_consts[232];
+            tmp_key_name_16 = mod_consts[231];
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_2__class_decl_dict);
             tmp_dict_arg_name_16 = tmp_AitoffAxes$class_creation_2__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_16, tmp_key_name_16);
@@ -31761,7 +31761,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             condexpr_true_11:;
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_2__class_decl_dict);
             tmp_dict_arg_name_17 = tmp_AitoffAxes$class_creation_2__class_decl_dict;
-            tmp_key_name_17 = mod_consts[232];
+            tmp_key_name_17 = mod_consts[231];
             tmp_metaclass_name_6 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_17, tmp_key_name_17);
             if (tmp_metaclass_name_6 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -31847,7 +31847,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             nuitka_bool tmp_condition_result_32;
             PyObject *tmp_key_name_18;
             PyObject *tmp_dict_arg_name_18;
-            tmp_key_name_18 = mod_consts[232];
+            tmp_key_name_18 = mod_consts[231];
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_2__class_decl_dict);
             tmp_dict_arg_name_18 = tmp_AitoffAxes$class_creation_2__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_18, tmp_key_name_18);
@@ -31862,7 +31862,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_20:;
         CHECK_OBJECT(tmp_AitoffAxes$class_creation_2__class_decl_dict);
         tmp_dictdel_dict = tmp_AitoffAxes$class_creation_2__class_decl_dict;
-        tmp_dictdel_key = mod_consts[232];
+        tmp_dictdel_key = mod_consts[231];
         tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
@@ -31880,7 +31880,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_27;
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_2__metaclass);
             tmp_expression_name_27 = tmp_AitoffAxes$class_creation_2__metaclass;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_27, mod_consts[233]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_27, mod_consts[232]);
             tmp_condition_result_33 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
             if (tmp_condition_result_33 == NUITKA_BOOL_TRUE) {
                 goto branch_yes_21;
@@ -31898,7 +31898,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_kwargs_name_10;
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_2__metaclass);
             tmp_expression_name_28 = tmp_AitoffAxes$class_creation_2__metaclass;
-            tmp_called_name_10 = LOOKUP_ATTRIBUTE(tmp_expression_name_28, mod_consts[233]);
+            tmp_called_name_10 = LOOKUP_ATTRIBUTE(tmp_expression_name_28, mod_consts[232]);
             if (tmp_called_name_10 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -31917,7 +31917,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_10, 1, tmp_tuple_element_21);
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_2__class_decl_dict);
             tmp_kwargs_name_10 = tmp_AitoffAxes$class_creation_2__class_decl_dict;
-            frame_67c88fccc8a8de1716fc035708bb98a0_5->m_frame.f_lineno = 280;
+            frame_00986626272dc64c8ce2ec7dd8f75d85_5->m_frame.f_lineno = 280;
             tmp_assign_source_64 = CALL_FUNCTION(tmp_called_name_10, tmp_args_name_10, tmp_kwargs_name_10);
             Py_DECREF(tmp_called_name_10);
             Py_DECREF(tmp_args_name_10);
@@ -31940,7 +31940,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_29;
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_2__prepared);
             tmp_expression_name_29 = tmp_AitoffAxes$class_creation_2__prepared;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_29, mod_consts[234]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_29, mod_consts[233]);
             tmp_operand_name_6 = (tmp_result) ? Py_True : Py_False;
             tmp_res = CHECK_IF_TRUE(tmp_operand_name_6);
             if (tmp_res == -1) {
@@ -31971,11 +31971,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_getattr_attr_6;
             PyObject *tmp_getattr_default_6;
             tmp_raise_type_6 = PyExc_TypeError;
-            tmp_left_name_6 = mod_consts[235];
+            tmp_left_name_6 = mod_consts[234];
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_2__metaclass);
             tmp_getattr_target_6 = tmp_AitoffAxes$class_creation_2__metaclass;
             tmp_getattr_attr_6 = mod_consts[120];
-            tmp_getattr_default_6 = mod_consts[236];
+            tmp_getattr_default_6 = mod_consts[235];
             tmp_tuple_element_22 = BUILTIN_GETATTR(tmp_getattr_target_6, tmp_getattr_attr_6, tmp_getattr_default_6);
             if (tmp_tuple_element_22 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -32056,8 +32056,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[237];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__6_InvertedAitoffTransform_280, mod_consts[238], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[236];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__6_InvertedAitoffTransform_280, mod_consts[237], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -32068,8 +32068,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_22;
         }
-        tmp_dictset_value = mod_consts[309];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__6_InvertedAitoffTransform_280, mod_consts[240], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[308];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__6_InvertedAitoffTransform_280, mod_consts[239], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -32080,38 +32080,38 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_22;
         }
-        if (isFrameUnusable(cache_frame_0d535f73673155a7c2e6e6de6c710885_7)) {
-            Py_XDECREF(cache_frame_0d535f73673155a7c2e6e6de6c710885_7);
+        if (isFrameUnusable(cache_frame_87cc90693688baa6c8bd6e595f3de305_7)) {
+            Py_XDECREF(cache_frame_87cc90693688baa6c8bd6e595f3de305_7);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_0d535f73673155a7c2e6e6de6c710885_7 == NULL) {
+            if (cache_frame_87cc90693688baa6c8bd6e595f3de305_7 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_0d535f73673155a7c2e6e6de6c710885_7 = MAKE_FUNCTION_FRAME(codeobj_0d535f73673155a7c2e6e6de6c710885, module_matplotlib$projections$geo, sizeof(void *));
+            cache_frame_87cc90693688baa6c8bd6e595f3de305_7 = MAKE_FUNCTION_FRAME(codeobj_87cc90693688baa6c8bd6e595f3de305, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_0d535f73673155a7c2e6e6de6c710885_7->m_type_description == NULL);
-        frame_0d535f73673155a7c2e6e6de6c710885_7 = cache_frame_0d535f73673155a7c2e6e6de6c710885_7;
+        assert(cache_frame_87cc90693688baa6c8bd6e595f3de305_7->m_type_description == NULL);
+        frame_87cc90693688baa6c8bd6e595f3de305_7 = cache_frame_87cc90693688baa6c8bd6e595f3de305_7;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_0d535f73673155a7c2e6e6de6c710885_7);
+        pushFrameStack(frame_87cc90693688baa6c8bd6e595f3de305_7);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_0d535f73673155a7c2e6e6de6c710885_7) == 2); // Frame stack
+        assert(Py_REFCNT(frame_87cc90693688baa6c8bd6e595f3de305_7) == 2); // Frame stack
 
         // Framed code:
 
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__32_transform_non_affine();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__6_InvertedAitoffTransform_280, mod_consts[305], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__6_InvertedAitoffTransform_280, mod_consts[304], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -32127,7 +32127,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__33_inverted();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__6_InvertedAitoffTransform_280, mod_consts[307], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__6_InvertedAitoffTransform_280, mod_consts[306], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -32141,7 +32141,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_0d535f73673155a7c2e6e6de6c710885_7);
+        RESTORE_FRAME_EXCEPTION(frame_87cc90693688baa6c8bd6e595f3de305_7);
 #endif
 
         // Put the previous frame back on top.
@@ -32152,35 +32152,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         frame_exception_exit_7:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_0d535f73673155a7c2e6e6de6c710885_7);
+        RESTORE_FRAME_EXCEPTION(frame_87cc90693688baa6c8bd6e595f3de305_7);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_0d535f73673155a7c2e6e6de6c710885_7, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_0d535f73673155a7c2e6e6de6c710885_7->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_0d535f73673155a7c2e6e6de6c710885_7, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_87cc90693688baa6c8bd6e595f3de305_7, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_87cc90693688baa6c8bd6e595f3de305_7->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_87cc90693688baa6c8bd6e595f3de305_7, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_0d535f73673155a7c2e6e6de6c710885_7,
+            frame_87cc90693688baa6c8bd6e595f3de305_7,
             type_description_3,
             outline_5_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_0d535f73673155a7c2e6e6de6c710885_7 == cache_frame_0d535f73673155a7c2e6e6de6c710885_7) {
+        if (frame_87cc90693688baa6c8bd6e595f3de305_7 == cache_frame_87cc90693688baa6c8bd6e595f3de305_7) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_0d535f73673155a7c2e6e6de6c710885_7);
-            cache_frame_0d535f73673155a7c2e6e6de6c710885_7 = NULL;
+            Py_DECREF(cache_frame_87cc90693688baa6c8bd6e595f3de305_7);
+            cache_frame_87cc90693688baa6c8bd6e595f3de305_7 = NULL;
         }
 
-        assertFrameObject(frame_0d535f73673155a7c2e6e6de6c710885_7);
+        assertFrameObject(frame_87cc90693688baa6c8bd6e595f3de305_7);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -32223,7 +32223,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_23:;
         CHECK_OBJECT(tmp_AitoffAxes$class_creation_2__bases_orig);
         tmp_dictset_value = tmp_AitoffAxes$class_creation_2__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__6_InvertedAitoffTransform_280, mod_consts[248], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__6_InvertedAitoffTransform_280, mod_consts[247], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -32253,7 +32253,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_11, 2, tmp_tuple_element_23);
             CHECK_OBJECT(tmp_AitoffAxes$class_creation_2__class_decl_dict);
             tmp_kwargs_name_11 = tmp_AitoffAxes$class_creation_2__class_decl_dict;
-            frame_67c88fccc8a8de1716fc035708bb98a0_5->m_frame.f_lineno = 280;
+            frame_00986626272dc64c8ce2ec7dd8f75d85_5->m_frame.f_lineno = 280;
             tmp_assign_source_66 = CALL_FUNCTION(tmp_called_name_11, tmp_args_name_11, tmp_kwargs_name_11);
             Py_DECREF(tmp_args_name_11);
             if (tmp_assign_source_66 == NULL) {
@@ -32423,7 +32423,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_67c88fccc8a8de1716fc035708bb98a0_5);
+        RESTORE_FRAME_EXCEPTION(frame_00986626272dc64c8ce2ec7dd8f75d85_5);
 #endif
 
         // Put the previous frame back on top.
@@ -32434,35 +32434,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         frame_exception_exit_5:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_67c88fccc8a8de1716fc035708bb98a0_5);
+        RESTORE_FRAME_EXCEPTION(frame_00986626272dc64c8ce2ec7dd8f75d85_5);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_67c88fccc8a8de1716fc035708bb98a0_5, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_67c88fccc8a8de1716fc035708bb98a0_5->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_67c88fccc8a8de1716fc035708bb98a0_5, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_00986626272dc64c8ce2ec7dd8f75d85_5, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_00986626272dc64c8ce2ec7dd8f75d85_5->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_00986626272dc64c8ce2ec7dd8f75d85_5, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_67c88fccc8a8de1716fc035708bb98a0_5,
+            frame_00986626272dc64c8ce2ec7dd8f75d85_5,
             type_description_2,
             outline_3_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_67c88fccc8a8de1716fc035708bb98a0_5 == cache_frame_67c88fccc8a8de1716fc035708bb98a0_5) {
+        if (frame_00986626272dc64c8ce2ec7dd8f75d85_5 == cache_frame_00986626272dc64c8ce2ec7dd8f75d85_5) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_67c88fccc8a8de1716fc035708bb98a0_5);
-            cache_frame_67c88fccc8a8de1716fc035708bb98a0_5 = NULL;
+            Py_DECREF(cache_frame_00986626272dc64c8ce2ec7dd8f75d85_5);
+            cache_frame_00986626272dc64c8ce2ec7dd8f75d85_5 = NULL;
         }
 
-        assertFrameObject(frame_67c88fccc8a8de1716fc035708bb98a0_5);
+        assertFrameObject(frame_00986626272dc64c8ce2ec7dd8f75d85_5);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -32505,7 +32505,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_24:;
         CHECK_OBJECT(tmp_class_creation_3__bases_orig);
         tmp_dictset_value = tmp_class_creation_3__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__4_AitoffAxes_252, mod_consts[248], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__4_AitoffAxes_252, mod_consts[247], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -32535,7 +32535,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_12, 2, tmp_tuple_element_24);
             CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
             tmp_kwargs_name_12 = tmp_class_creation_3__class_decl_dict;
-            frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 252;
+            frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 252;
             tmp_assign_source_67 = CALL_FUNCTION(tmp_called_name_12, tmp_args_name_12, tmp_kwargs_name_12);
             Py_DECREF(tmp_args_name_12);
             if (tmp_assign_source_67 == NULL) {
@@ -32730,7 +32730,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_31;
         PyObject *tmp_subscript_name_7;
         PyObject *tmp_bases_name_7;
-        tmp_key_name_19 = mod_consts[232];
+        tmp_key_name_19 = mod_consts[231];
         CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
         tmp_dict_arg_name_19 = tmp_class_creation_4__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_19, tmp_key_name_19);
@@ -32744,7 +32744,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         condexpr_true_13:;
         CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
         tmp_dict_arg_name_20 = tmp_class_creation_4__class_decl_dict;
-        tmp_key_name_20 = mod_consts[232];
+        tmp_key_name_20 = mod_consts[231];
         tmp_metaclass_name_7 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_20, tmp_key_name_20);
         if (tmp_metaclass_name_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -32830,7 +32830,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         nuitka_bool tmp_condition_result_39;
         PyObject *tmp_key_name_21;
         PyObject *tmp_dict_arg_name_21;
-        tmp_key_name_21 = mod_consts[232];
+        tmp_key_name_21 = mod_consts[231];
         CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
         tmp_dict_arg_name_21 = tmp_class_creation_4__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_21, tmp_key_name_21);
@@ -32845,7 +32845,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     branch_yes_25:;
     CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_4__class_decl_dict;
-    tmp_dictdel_key = mod_consts[232];
+    tmp_dictdel_key = mod_consts[231];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -32863,7 +32863,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_32;
         CHECK_OBJECT(tmp_class_creation_4__metaclass);
         tmp_expression_name_32 = tmp_class_creation_4__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_32, mod_consts[233]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_32, mod_consts[232]);
         tmp_condition_result_40 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_40 == NUITKA_BOOL_TRUE) {
             goto branch_yes_26;
@@ -32881,7 +32881,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_kwargs_name_13;
         CHECK_OBJECT(tmp_class_creation_4__metaclass);
         tmp_expression_name_33 = tmp_class_creation_4__metaclass;
-        tmp_called_name_13 = LOOKUP_ATTRIBUTE(tmp_expression_name_33, mod_consts[233]);
+        tmp_called_name_13 = LOOKUP_ATTRIBUTE(tmp_expression_name_33, mod_consts[232]);
         if (tmp_called_name_13 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -32900,7 +32900,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyTuple_SET_ITEM0(tmp_args_name_13, 1, tmp_tuple_element_26);
         CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
         tmp_kwargs_name_13 = tmp_class_creation_4__class_decl_dict;
-        frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 301;
+        frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 301;
         tmp_assign_source_72 = CALL_FUNCTION(tmp_called_name_13, tmp_args_name_13, tmp_kwargs_name_13);
         Py_DECREF(tmp_called_name_13);
         Py_DECREF(tmp_args_name_13);
@@ -32923,7 +32923,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_34;
         CHECK_OBJECT(tmp_class_creation_4__prepared);
         tmp_expression_name_34 = tmp_class_creation_4__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_34, mod_consts[234]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_34, mod_consts[233]);
         tmp_operand_name_7 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_7);
         if (tmp_res == -1) {
@@ -32954,11 +32954,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_getattr_attr_7;
         PyObject *tmp_getattr_default_7;
         tmp_raise_type_7 = PyExc_TypeError;
-        tmp_left_name_7 = mod_consts[235];
+        tmp_left_name_7 = mod_consts[234];
         CHECK_OBJECT(tmp_class_creation_4__metaclass);
         tmp_getattr_target_7 = tmp_class_creation_4__metaclass;
         tmp_getattr_attr_7 = mod_consts[120];
-        tmp_getattr_default_7 = mod_consts[236];
+        tmp_getattr_default_7 = mod_consts[235];
         tmp_tuple_element_27 = BUILTIN_GETATTR(tmp_getattr_target_7, tmp_getattr_attr_7, tmp_getattr_default_7);
         if (tmp_tuple_element_27 == NULL) {
             assert(ERROR_OCCURRED());
@@ -33041,8 +33041,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[237];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__7_HammerAxes_301, mod_consts[238], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[236];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__7_HammerAxes_301, mod_consts[237], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -33054,7 +33054,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             goto try_except_handler_25;
         }
         tmp_dictset_value = mod_consts[147];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__7_HammerAxes_301, mod_consts[240], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__7_HammerAxes_301, mod_consts[239], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -33065,35 +33065,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
             goto try_except_handler_25;
         }
-        if (isFrameUnusable(cache_frame_0e9f6abc479d50343b61f34fdbb146b8_8)) {
-            Py_XDECREF(cache_frame_0e9f6abc479d50343b61f34fdbb146b8_8);
+        if (isFrameUnusable(cache_frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8)) {
+            Py_XDECREF(cache_frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_0e9f6abc479d50343b61f34fdbb146b8_8 == NULL) {
+            if (cache_frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_0e9f6abc479d50343b61f34fdbb146b8_8 = MAKE_FUNCTION_FRAME(codeobj_0e9f6abc479d50343b61f34fdbb146b8, module_matplotlib$projections$geo, sizeof(void *));
+            cache_frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8 = MAKE_FUNCTION_FRAME(codeobj_b0fa7c07ce7eec7ee2b5ec0a8074bc89, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_0e9f6abc479d50343b61f34fdbb146b8_8->m_type_description == NULL);
-        frame_0e9f6abc479d50343b61f34fdbb146b8_8 = cache_frame_0e9f6abc479d50343b61f34fdbb146b8_8;
+        assert(cache_frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8->m_type_description == NULL);
+        frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8 = cache_frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_0e9f6abc479d50343b61f34fdbb146b8_8);
+        pushFrameStack(frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_0e9f6abc479d50343b61f34fdbb146b8_8) == 2); // Frame stack
+        assert(Py_REFCNT(frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8) == 2); // Frame stack
 
         // Framed code:
-        tmp_dictset_value = mod_consts[314];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__7_HammerAxes_301, mod_consts[302], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[313];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__7_HammerAxes_301, mod_consts[301], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -33181,7 +33181,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_36;
             PyObject *tmp_subscript_name_8;
             PyObject *tmp_bases_name_8;
-            tmp_key_name_22 = mod_consts[232];
+            tmp_key_name_22 = mod_consts[231];
             CHECK_OBJECT(tmp_HammerAxes$class_creation_1__class_decl_dict);
             tmp_dict_arg_name_22 = tmp_HammerAxes$class_creation_1__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_22, tmp_key_name_22);
@@ -33195,7 +33195,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             condexpr_true_15:;
             CHECK_OBJECT(tmp_HammerAxes$class_creation_1__class_decl_dict);
             tmp_dict_arg_name_23 = tmp_HammerAxes$class_creation_1__class_decl_dict;
-            tmp_key_name_23 = mod_consts[232];
+            tmp_key_name_23 = mod_consts[231];
             tmp_metaclass_name_8 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_23, tmp_key_name_23);
             if (tmp_metaclass_name_8 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -33281,7 +33281,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             nuitka_bool tmp_condition_result_44;
             PyObject *tmp_key_name_24;
             PyObject *tmp_dict_arg_name_24;
-            tmp_key_name_24 = mod_consts[232];
+            tmp_key_name_24 = mod_consts[231];
             CHECK_OBJECT(tmp_HammerAxes$class_creation_1__class_decl_dict);
             tmp_dict_arg_name_24 = tmp_HammerAxes$class_creation_1__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_24, tmp_key_name_24);
@@ -33296,7 +33296,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_28:;
         CHECK_OBJECT(tmp_HammerAxes$class_creation_1__class_decl_dict);
         tmp_dictdel_dict = tmp_HammerAxes$class_creation_1__class_decl_dict;
-        tmp_dictdel_key = mod_consts[232];
+        tmp_dictdel_key = mod_consts[231];
         tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
@@ -33314,7 +33314,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_37;
             CHECK_OBJECT(tmp_HammerAxes$class_creation_1__metaclass);
             tmp_expression_name_37 = tmp_HammerAxes$class_creation_1__metaclass;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_37, mod_consts[233]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_37, mod_consts[232]);
             tmp_condition_result_45 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
             if (tmp_condition_result_45 == NUITKA_BOOL_TRUE) {
                 goto branch_yes_29;
@@ -33332,7 +33332,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_kwargs_name_14;
             CHECK_OBJECT(tmp_HammerAxes$class_creation_1__metaclass);
             tmp_expression_name_38 = tmp_HammerAxes$class_creation_1__metaclass;
-            tmp_called_name_14 = LOOKUP_ATTRIBUTE(tmp_expression_name_38, mod_consts[233]);
+            tmp_called_name_14 = LOOKUP_ATTRIBUTE(tmp_expression_name_38, mod_consts[232]);
             if (tmp_called_name_14 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -33351,7 +33351,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_14, 1, tmp_tuple_element_29);
             CHECK_OBJECT(tmp_HammerAxes$class_creation_1__class_decl_dict);
             tmp_kwargs_name_14 = tmp_HammerAxes$class_creation_1__class_decl_dict;
-            frame_0e9f6abc479d50343b61f34fdbb146b8_8->m_frame.f_lineno = 304;
+            frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8->m_frame.f_lineno = 304;
             tmp_assign_source_79 = CALL_FUNCTION(tmp_called_name_14, tmp_args_name_14, tmp_kwargs_name_14);
             Py_DECREF(tmp_called_name_14);
             Py_DECREF(tmp_args_name_14);
@@ -33374,7 +33374,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_39;
             CHECK_OBJECT(tmp_HammerAxes$class_creation_1__prepared);
             tmp_expression_name_39 = tmp_HammerAxes$class_creation_1__prepared;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_39, mod_consts[234]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_39, mod_consts[233]);
             tmp_operand_name_8 = (tmp_result) ? Py_True : Py_False;
             tmp_res = CHECK_IF_TRUE(tmp_operand_name_8);
             if (tmp_res == -1) {
@@ -33405,11 +33405,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_getattr_attr_8;
             PyObject *tmp_getattr_default_8;
             tmp_raise_type_8 = PyExc_TypeError;
-            tmp_left_name_8 = mod_consts[235];
+            tmp_left_name_8 = mod_consts[234];
             CHECK_OBJECT(tmp_HammerAxes$class_creation_1__metaclass);
             tmp_getattr_target_8 = tmp_HammerAxes$class_creation_1__metaclass;
             tmp_getattr_attr_8 = mod_consts[120];
-            tmp_getattr_default_8 = mod_consts[236];
+            tmp_getattr_default_8 = mod_consts[235];
             tmp_tuple_element_30 = BUILTIN_GETATTR(tmp_getattr_target_8, tmp_getattr_attr_8, tmp_getattr_default_8);
             if (tmp_tuple_element_30 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -33490,8 +33490,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[237];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__8_HammerTransform_304, mod_consts[238], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[236];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__8_HammerTransform_304, mod_consts[237], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -33502,7 +33502,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_28;
         }
-        tmp_dictset_value = mod_consts[315];
+        tmp_dictset_value = mod_consts[314];
         tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__8_HammerTransform_304, mod_consts[207], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -33514,8 +33514,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_28;
         }
-        tmp_dictset_value = mod_consts[316];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__8_HammerTransform_304, mod_consts[240], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[315];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__8_HammerTransform_304, mod_consts[239], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -33526,38 +33526,38 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_28;
         }
-        if (isFrameUnusable(cache_frame_1d52cbff2437984756991a10a742e6ad_9)) {
-            Py_XDECREF(cache_frame_1d52cbff2437984756991a10a742e6ad_9);
+        if (isFrameUnusable(cache_frame_df636bb22fdbac67f9533e3664d67a4b_9)) {
+            Py_XDECREF(cache_frame_df636bb22fdbac67f9533e3664d67a4b_9);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_1d52cbff2437984756991a10a742e6ad_9 == NULL) {
+            if (cache_frame_df636bb22fdbac67f9533e3664d67a4b_9 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_1d52cbff2437984756991a10a742e6ad_9 = MAKE_FUNCTION_FRAME(codeobj_1d52cbff2437984756991a10a742e6ad, module_matplotlib$projections$geo, sizeof(void *));
+            cache_frame_df636bb22fdbac67f9533e3664d67a4b_9 = MAKE_FUNCTION_FRAME(codeobj_df636bb22fdbac67f9533e3664d67a4b, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_1d52cbff2437984756991a10a742e6ad_9->m_type_description == NULL);
-        frame_1d52cbff2437984756991a10a742e6ad_9 = cache_frame_1d52cbff2437984756991a10a742e6ad_9;
+        assert(cache_frame_df636bb22fdbac67f9533e3664d67a4b_9->m_type_description == NULL);
+        frame_df636bb22fdbac67f9533e3664d67a4b_9 = cache_frame_df636bb22fdbac67f9533e3664d67a4b_9;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_1d52cbff2437984756991a10a742e6ad_9);
+        pushFrameStack(frame_df636bb22fdbac67f9533e3664d67a4b_9);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_1d52cbff2437984756991a10a742e6ad_9) == 2); // Frame stack
+        assert(Py_REFCNT(frame_df636bb22fdbac67f9533e3664d67a4b_9) == 2); // Frame stack
 
         // Framed code:
 
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__36_transform_non_affine();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__8_HammerTransform_304, mod_consts[305], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__8_HammerTransform_304, mod_consts[304], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -33573,7 +33573,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__37_inverted();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__8_HammerTransform_304, mod_consts[307], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__8_HammerTransform_304, mod_consts[306], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -33587,7 +33587,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_1d52cbff2437984756991a10a742e6ad_9);
+        RESTORE_FRAME_EXCEPTION(frame_df636bb22fdbac67f9533e3664d67a4b_9);
 #endif
 
         // Put the previous frame back on top.
@@ -33598,35 +33598,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         frame_exception_exit_9:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_1d52cbff2437984756991a10a742e6ad_9);
+        RESTORE_FRAME_EXCEPTION(frame_df636bb22fdbac67f9533e3664d67a4b_9);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_1d52cbff2437984756991a10a742e6ad_9, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_1d52cbff2437984756991a10a742e6ad_9->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_1d52cbff2437984756991a10a742e6ad_9, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_df636bb22fdbac67f9533e3664d67a4b_9, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_df636bb22fdbac67f9533e3664d67a4b_9->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_df636bb22fdbac67f9533e3664d67a4b_9, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_1d52cbff2437984756991a10a742e6ad_9,
+            frame_df636bb22fdbac67f9533e3664d67a4b_9,
             type_description_3,
             outline_7_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_1d52cbff2437984756991a10a742e6ad_9 == cache_frame_1d52cbff2437984756991a10a742e6ad_9) {
+        if (frame_df636bb22fdbac67f9533e3664d67a4b_9 == cache_frame_df636bb22fdbac67f9533e3664d67a4b_9) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_1d52cbff2437984756991a10a742e6ad_9);
-            cache_frame_1d52cbff2437984756991a10a742e6ad_9 = NULL;
+            Py_DECREF(cache_frame_df636bb22fdbac67f9533e3664d67a4b_9);
+            cache_frame_df636bb22fdbac67f9533e3664d67a4b_9 = NULL;
         }
 
-        assertFrameObject(frame_1d52cbff2437984756991a10a742e6ad_9);
+        assertFrameObject(frame_df636bb22fdbac67f9533e3664d67a4b_9);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -33669,7 +33669,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_31:;
         CHECK_OBJECT(tmp_HammerAxes$class_creation_1__bases_orig);
         tmp_dictset_value = tmp_HammerAxes$class_creation_1__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__8_HammerTransform_304, mod_consts[248], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__8_HammerTransform_304, mod_consts[247], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -33699,7 +33699,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_15, 2, tmp_tuple_element_31);
             CHECK_OBJECT(tmp_HammerAxes$class_creation_1__class_decl_dict);
             tmp_kwargs_name_15 = tmp_HammerAxes$class_creation_1__class_decl_dict;
-            frame_0e9f6abc479d50343b61f34fdbb146b8_8->m_frame.f_lineno = 304;
+            frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8->m_frame.f_lineno = 304;
             tmp_assign_source_81 = CALL_FUNCTION(tmp_called_name_15, tmp_args_name_15, tmp_kwargs_name_15);
             Py_DECREF(tmp_args_name_15);
             if (tmp_assign_source_81 == NULL) {
@@ -33912,7 +33912,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_41;
             PyObject *tmp_subscript_name_9;
             PyObject *tmp_bases_name_9;
-            tmp_key_name_25 = mod_consts[232];
+            tmp_key_name_25 = mod_consts[231];
             CHECK_OBJECT(tmp_HammerAxes$class_creation_2__class_decl_dict);
             tmp_dict_arg_name_25 = tmp_HammerAxes$class_creation_2__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_25, tmp_key_name_25);
@@ -33926,7 +33926,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             condexpr_true_17:;
             CHECK_OBJECT(tmp_HammerAxes$class_creation_2__class_decl_dict);
             tmp_dict_arg_name_26 = tmp_HammerAxes$class_creation_2__class_decl_dict;
-            tmp_key_name_26 = mod_consts[232];
+            tmp_key_name_26 = mod_consts[231];
             tmp_metaclass_name_9 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_26, tmp_key_name_26);
             if (tmp_metaclass_name_9 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -34012,7 +34012,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             nuitka_bool tmp_condition_result_50;
             PyObject *tmp_key_name_27;
             PyObject *tmp_dict_arg_name_27;
-            tmp_key_name_27 = mod_consts[232];
+            tmp_key_name_27 = mod_consts[231];
             CHECK_OBJECT(tmp_HammerAxes$class_creation_2__class_decl_dict);
             tmp_dict_arg_name_27 = tmp_HammerAxes$class_creation_2__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_27, tmp_key_name_27);
@@ -34027,7 +34027,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_32:;
         CHECK_OBJECT(tmp_HammerAxes$class_creation_2__class_decl_dict);
         tmp_dictdel_dict = tmp_HammerAxes$class_creation_2__class_decl_dict;
-        tmp_dictdel_key = mod_consts[232];
+        tmp_dictdel_key = mod_consts[231];
         tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
@@ -34045,7 +34045,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_42;
             CHECK_OBJECT(tmp_HammerAxes$class_creation_2__metaclass);
             tmp_expression_name_42 = tmp_HammerAxes$class_creation_2__metaclass;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_42, mod_consts[233]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_42, mod_consts[232]);
             tmp_condition_result_51 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
             if (tmp_condition_result_51 == NUITKA_BOOL_TRUE) {
                 goto branch_yes_33;
@@ -34063,7 +34063,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_kwargs_name_16;
             CHECK_OBJECT(tmp_HammerAxes$class_creation_2__metaclass);
             tmp_expression_name_43 = tmp_HammerAxes$class_creation_2__metaclass;
-            tmp_called_name_16 = LOOKUP_ATTRIBUTE(tmp_expression_name_43, mod_consts[233]);
+            tmp_called_name_16 = LOOKUP_ATTRIBUTE(tmp_expression_name_43, mod_consts[232]);
             if (tmp_called_name_16 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -34082,7 +34082,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_16, 1, tmp_tuple_element_33);
             CHECK_OBJECT(tmp_HammerAxes$class_creation_2__class_decl_dict);
             tmp_kwargs_name_16 = tmp_HammerAxes$class_creation_2__class_decl_dict;
-            frame_0e9f6abc479d50343b61f34fdbb146b8_8->m_frame.f_lineno = 322;
+            frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8->m_frame.f_lineno = 322;
             tmp_assign_source_86 = CALL_FUNCTION(tmp_called_name_16, tmp_args_name_16, tmp_kwargs_name_16);
             Py_DECREF(tmp_called_name_16);
             Py_DECREF(tmp_args_name_16);
@@ -34105,7 +34105,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_44;
             CHECK_OBJECT(tmp_HammerAxes$class_creation_2__prepared);
             tmp_expression_name_44 = tmp_HammerAxes$class_creation_2__prepared;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_44, mod_consts[234]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_44, mod_consts[233]);
             tmp_operand_name_9 = (tmp_result) ? Py_True : Py_False;
             tmp_res = CHECK_IF_TRUE(tmp_operand_name_9);
             if (tmp_res == -1) {
@@ -34136,11 +34136,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_getattr_attr_9;
             PyObject *tmp_getattr_default_9;
             tmp_raise_type_9 = PyExc_TypeError;
-            tmp_left_name_9 = mod_consts[235];
+            tmp_left_name_9 = mod_consts[234];
             CHECK_OBJECT(tmp_HammerAxes$class_creation_2__metaclass);
             tmp_getattr_target_9 = tmp_HammerAxes$class_creation_2__metaclass;
             tmp_getattr_attr_9 = mod_consts[120];
-            tmp_getattr_default_9 = mod_consts[236];
+            tmp_getattr_default_9 = mod_consts[235];
             tmp_tuple_element_34 = BUILTIN_GETATTR(tmp_getattr_target_9, tmp_getattr_attr_9, tmp_getattr_default_9);
             if (tmp_tuple_element_34 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -34221,8 +34221,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[237];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__9_InvertedHammerTransform_322, mod_consts[238], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[236];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__9_InvertedHammerTransform_322, mod_consts[237], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -34233,8 +34233,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_31;
         }
-        tmp_dictset_value = mod_consts[319];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__9_InvertedHammerTransform_322, mod_consts[240], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[318];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__9_InvertedHammerTransform_322, mod_consts[239], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -34245,38 +34245,38 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_31;
         }
-        if (isFrameUnusable(cache_frame_bc120287255739b30f5b28852284969d_10)) {
-            Py_XDECREF(cache_frame_bc120287255739b30f5b28852284969d_10);
+        if (isFrameUnusable(cache_frame_c8c70f375d0b118e063be3c53ce58fb1_10)) {
+            Py_XDECREF(cache_frame_c8c70f375d0b118e063be3c53ce58fb1_10);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_bc120287255739b30f5b28852284969d_10 == NULL) {
+            if (cache_frame_c8c70f375d0b118e063be3c53ce58fb1_10 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_bc120287255739b30f5b28852284969d_10 = MAKE_FUNCTION_FRAME(codeobj_bc120287255739b30f5b28852284969d, module_matplotlib$projections$geo, sizeof(void *));
+            cache_frame_c8c70f375d0b118e063be3c53ce58fb1_10 = MAKE_FUNCTION_FRAME(codeobj_c8c70f375d0b118e063be3c53ce58fb1, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_bc120287255739b30f5b28852284969d_10->m_type_description == NULL);
-        frame_bc120287255739b30f5b28852284969d_10 = cache_frame_bc120287255739b30f5b28852284969d_10;
+        assert(cache_frame_c8c70f375d0b118e063be3c53ce58fb1_10->m_type_description == NULL);
+        frame_c8c70f375d0b118e063be3c53ce58fb1_10 = cache_frame_c8c70f375d0b118e063be3c53ce58fb1_10;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_bc120287255739b30f5b28852284969d_10);
+        pushFrameStack(frame_c8c70f375d0b118e063be3c53ce58fb1_10);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_bc120287255739b30f5b28852284969d_10) == 2); // Frame stack
+        assert(Py_REFCNT(frame_c8c70f375d0b118e063be3c53ce58fb1_10) == 2); // Frame stack
 
         // Framed code:
 
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__38_transform_non_affine();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__9_InvertedHammerTransform_322, mod_consts[305], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__9_InvertedHammerTransform_322, mod_consts[304], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -34292,7 +34292,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__39_inverted();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__9_InvertedHammerTransform_322, mod_consts[307], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__9_InvertedHammerTransform_322, mod_consts[306], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -34306,7 +34306,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_bc120287255739b30f5b28852284969d_10);
+        RESTORE_FRAME_EXCEPTION(frame_c8c70f375d0b118e063be3c53ce58fb1_10);
 #endif
 
         // Put the previous frame back on top.
@@ -34317,35 +34317,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         frame_exception_exit_10:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_bc120287255739b30f5b28852284969d_10);
+        RESTORE_FRAME_EXCEPTION(frame_c8c70f375d0b118e063be3c53ce58fb1_10);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_bc120287255739b30f5b28852284969d_10, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_bc120287255739b30f5b28852284969d_10->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_bc120287255739b30f5b28852284969d_10, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_c8c70f375d0b118e063be3c53ce58fb1_10, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_c8c70f375d0b118e063be3c53ce58fb1_10->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_c8c70f375d0b118e063be3c53ce58fb1_10, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_bc120287255739b30f5b28852284969d_10,
+            frame_c8c70f375d0b118e063be3c53ce58fb1_10,
             type_description_3,
             outline_8_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_bc120287255739b30f5b28852284969d_10 == cache_frame_bc120287255739b30f5b28852284969d_10) {
+        if (frame_c8c70f375d0b118e063be3c53ce58fb1_10 == cache_frame_c8c70f375d0b118e063be3c53ce58fb1_10) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_bc120287255739b30f5b28852284969d_10);
-            cache_frame_bc120287255739b30f5b28852284969d_10 = NULL;
+            Py_DECREF(cache_frame_c8c70f375d0b118e063be3c53ce58fb1_10);
+            cache_frame_c8c70f375d0b118e063be3c53ce58fb1_10 = NULL;
         }
 
-        assertFrameObject(frame_bc120287255739b30f5b28852284969d_10);
+        assertFrameObject(frame_c8c70f375d0b118e063be3c53ce58fb1_10);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -34388,7 +34388,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_35:;
         CHECK_OBJECT(tmp_HammerAxes$class_creation_2__bases_orig);
         tmp_dictset_value = tmp_HammerAxes$class_creation_2__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__9_InvertedHammerTransform_322, mod_consts[248], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__9_InvertedHammerTransform_322, mod_consts[247], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -34418,7 +34418,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_17, 2, tmp_tuple_element_35);
             CHECK_OBJECT(tmp_HammerAxes$class_creation_2__class_decl_dict);
             tmp_kwargs_name_17 = tmp_HammerAxes$class_creation_2__class_decl_dict;
-            frame_0e9f6abc479d50343b61f34fdbb146b8_8->m_frame.f_lineno = 322;
+            frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8->m_frame.f_lineno = 322;
             tmp_assign_source_88 = CALL_FUNCTION(tmp_called_name_17, tmp_args_name_17, tmp_kwargs_name_17);
             Py_DECREF(tmp_args_name_17);
             if (tmp_assign_source_88 == NULL) {
@@ -34588,7 +34588,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_0e9f6abc479d50343b61f34fdbb146b8_8);
+        RESTORE_FRAME_EXCEPTION(frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8);
 #endif
 
         // Put the previous frame back on top.
@@ -34599,35 +34599,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         frame_exception_exit_8:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_0e9f6abc479d50343b61f34fdbb146b8_8);
+        RESTORE_FRAME_EXCEPTION(frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_0e9f6abc479d50343b61f34fdbb146b8_8, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_0e9f6abc479d50343b61f34fdbb146b8_8->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_0e9f6abc479d50343b61f34fdbb146b8_8, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_0e9f6abc479d50343b61f34fdbb146b8_8,
+            frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8,
             type_description_2,
             outline_6_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_0e9f6abc479d50343b61f34fdbb146b8_8 == cache_frame_0e9f6abc479d50343b61f34fdbb146b8_8) {
+        if (frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8 == cache_frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_0e9f6abc479d50343b61f34fdbb146b8_8);
-            cache_frame_0e9f6abc479d50343b61f34fdbb146b8_8 = NULL;
+            Py_DECREF(cache_frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8);
+            cache_frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8 = NULL;
         }
 
-        assertFrameObject(frame_0e9f6abc479d50343b61f34fdbb146b8_8);
+        assertFrameObject(frame_b0fa7c07ce7eec7ee2b5ec0a8074bc89_8);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -34670,7 +34670,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_36:;
         CHECK_OBJECT(tmp_class_creation_4__bases_orig);
         tmp_dictset_value = tmp_class_creation_4__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__7_HammerAxes_301, mod_consts[248], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__7_HammerAxes_301, mod_consts[247], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -34700,7 +34700,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_18, 2, tmp_tuple_element_36);
             CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
             tmp_kwargs_name_18 = tmp_class_creation_4__class_decl_dict;
-            frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 301;
+            frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 301;
             tmp_assign_source_89 = CALL_FUNCTION(tmp_called_name_18, tmp_args_name_18, tmp_kwargs_name_18);
             Py_DECREF(tmp_args_name_18);
             if (tmp_assign_source_89 == NULL) {
@@ -34895,7 +34895,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_46;
         PyObject *tmp_subscript_name_10;
         PyObject *tmp_bases_name_10;
-        tmp_key_name_28 = mod_consts[232];
+        tmp_key_name_28 = mod_consts[231];
         CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
         tmp_dict_arg_name_28 = tmp_class_creation_5__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_28, tmp_key_name_28);
@@ -34909,7 +34909,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         condexpr_true_19:;
         CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
         tmp_dict_arg_name_29 = tmp_class_creation_5__class_decl_dict;
-        tmp_key_name_29 = mod_consts[232];
+        tmp_key_name_29 = mod_consts[231];
         tmp_metaclass_name_10 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_29, tmp_key_name_29);
         if (tmp_metaclass_name_10 == NULL) {
             assert(ERROR_OCCURRED());
@@ -34995,7 +34995,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         nuitka_bool tmp_condition_result_57;
         PyObject *tmp_key_name_30;
         PyObject *tmp_dict_arg_name_30;
-        tmp_key_name_30 = mod_consts[232];
+        tmp_key_name_30 = mod_consts[231];
         CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
         tmp_dict_arg_name_30 = tmp_class_creation_5__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_30, tmp_key_name_30);
@@ -35010,7 +35010,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     branch_yes_37:;
     CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_5__class_decl_dict;
-    tmp_dictdel_key = mod_consts[232];
+    tmp_dictdel_key = mod_consts[231];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -35028,7 +35028,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_47;
         CHECK_OBJECT(tmp_class_creation_5__metaclass);
         tmp_expression_name_47 = tmp_class_creation_5__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_47, mod_consts[233]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_47, mod_consts[232]);
         tmp_condition_result_58 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_58 == NUITKA_BOOL_TRUE) {
             goto branch_yes_38;
@@ -35046,7 +35046,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_kwargs_name_19;
         CHECK_OBJECT(tmp_class_creation_5__metaclass);
         tmp_expression_name_48 = tmp_class_creation_5__metaclass;
-        tmp_called_name_19 = LOOKUP_ATTRIBUTE(tmp_expression_name_48, mod_consts[233]);
+        tmp_called_name_19 = LOOKUP_ATTRIBUTE(tmp_expression_name_48, mod_consts[232]);
         if (tmp_called_name_19 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -35065,7 +35065,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyTuple_SET_ITEM0(tmp_args_name_19, 1, tmp_tuple_element_38);
         CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
         tmp_kwargs_name_19 = tmp_class_creation_5__class_decl_dict;
-        frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 346;
+        frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 346;
         tmp_assign_source_94 = CALL_FUNCTION(tmp_called_name_19, tmp_args_name_19, tmp_kwargs_name_19);
         Py_DECREF(tmp_called_name_19);
         Py_DECREF(tmp_args_name_19);
@@ -35088,7 +35088,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_49;
         CHECK_OBJECT(tmp_class_creation_5__prepared);
         tmp_expression_name_49 = tmp_class_creation_5__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_49, mod_consts[234]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_49, mod_consts[233]);
         tmp_operand_name_10 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_10);
         if (tmp_res == -1) {
@@ -35119,11 +35119,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_getattr_attr_10;
         PyObject *tmp_getattr_default_10;
         tmp_raise_type_10 = PyExc_TypeError;
-        tmp_left_name_10 = mod_consts[235];
+        tmp_left_name_10 = mod_consts[234];
         CHECK_OBJECT(tmp_class_creation_5__metaclass);
         tmp_getattr_target_10 = tmp_class_creation_5__metaclass;
         tmp_getattr_attr_10 = mod_consts[120];
-        tmp_getattr_default_10 = mod_consts[236];
+        tmp_getattr_default_10 = mod_consts[235];
         tmp_tuple_element_39 = BUILTIN_GETATTR(tmp_getattr_target_10, tmp_getattr_attr_10, tmp_getattr_default_10);
         if (tmp_tuple_element_39 == NULL) {
             assert(ERROR_OCCURRED());
@@ -35206,8 +35206,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[237];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__10_MollweideAxes_346, mod_consts[238], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[236];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__10_MollweideAxes_346, mod_consts[237], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -35219,7 +35219,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             goto try_except_handler_34;
         }
         tmp_dictset_value = mod_consts[179];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__10_MollweideAxes_346, mod_consts[240], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__10_MollweideAxes_346, mod_consts[239], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -35230,35 +35230,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
             goto try_except_handler_34;
         }
-        if (isFrameUnusable(cache_frame_2adcd9007575412f87659a0a4d53c146_11)) {
-            Py_XDECREF(cache_frame_2adcd9007575412f87659a0a4d53c146_11);
+        if (isFrameUnusable(cache_frame_de20da3b8f4fa9df37e2dc758c19c903_11)) {
+            Py_XDECREF(cache_frame_de20da3b8f4fa9df37e2dc758c19c903_11);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_2adcd9007575412f87659a0a4d53c146_11 == NULL) {
+            if (cache_frame_de20da3b8f4fa9df37e2dc758c19c903_11 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_2adcd9007575412f87659a0a4d53c146_11 = MAKE_FUNCTION_FRAME(codeobj_2adcd9007575412f87659a0a4d53c146, module_matplotlib$projections$geo, sizeof(void *));
+            cache_frame_de20da3b8f4fa9df37e2dc758c19c903_11 = MAKE_FUNCTION_FRAME(codeobj_de20da3b8f4fa9df37e2dc758c19c903, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_2adcd9007575412f87659a0a4d53c146_11->m_type_description == NULL);
-        frame_2adcd9007575412f87659a0a4d53c146_11 = cache_frame_2adcd9007575412f87659a0a4d53c146_11;
+        assert(cache_frame_de20da3b8f4fa9df37e2dc758c19c903_11->m_type_description == NULL);
+        frame_de20da3b8f4fa9df37e2dc758c19c903_11 = cache_frame_de20da3b8f4fa9df37e2dc758c19c903_11;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_2adcd9007575412f87659a0a4d53c146_11);
+        pushFrameStack(frame_de20da3b8f4fa9df37e2dc758c19c903_11);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_2adcd9007575412f87659a0a4d53c146_11) == 2); // Frame stack
+        assert(Py_REFCNT(frame_de20da3b8f4fa9df37e2dc758c19c903_11) == 2); // Frame stack
 
         // Framed code:
-        tmp_dictset_value = mod_consts[324];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__10_MollweideAxes_346, mod_consts[302], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[323];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__10_MollweideAxes_346, mod_consts[301], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -35346,7 +35346,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_51;
             PyObject *tmp_subscript_name_11;
             PyObject *tmp_bases_name_11;
-            tmp_key_name_31 = mod_consts[232];
+            tmp_key_name_31 = mod_consts[231];
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_1__class_decl_dict);
             tmp_dict_arg_name_31 = tmp_MollweideAxes$class_creation_1__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_31, tmp_key_name_31);
@@ -35360,7 +35360,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             condexpr_true_21:;
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_1__class_decl_dict);
             tmp_dict_arg_name_32 = tmp_MollweideAxes$class_creation_1__class_decl_dict;
-            tmp_key_name_32 = mod_consts[232];
+            tmp_key_name_32 = mod_consts[231];
             tmp_metaclass_name_11 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_32, tmp_key_name_32);
             if (tmp_metaclass_name_11 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -35446,7 +35446,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             nuitka_bool tmp_condition_result_62;
             PyObject *tmp_key_name_33;
             PyObject *tmp_dict_arg_name_33;
-            tmp_key_name_33 = mod_consts[232];
+            tmp_key_name_33 = mod_consts[231];
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_1__class_decl_dict);
             tmp_dict_arg_name_33 = tmp_MollweideAxes$class_creation_1__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_33, tmp_key_name_33);
@@ -35461,7 +35461,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_40:;
         CHECK_OBJECT(tmp_MollweideAxes$class_creation_1__class_decl_dict);
         tmp_dictdel_dict = tmp_MollweideAxes$class_creation_1__class_decl_dict;
-        tmp_dictdel_key = mod_consts[232];
+        tmp_dictdel_key = mod_consts[231];
         tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
@@ -35479,7 +35479,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_52;
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_1__metaclass);
             tmp_expression_name_52 = tmp_MollweideAxes$class_creation_1__metaclass;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_52, mod_consts[233]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_52, mod_consts[232]);
             tmp_condition_result_63 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
             if (tmp_condition_result_63 == NUITKA_BOOL_TRUE) {
                 goto branch_yes_41;
@@ -35497,7 +35497,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_kwargs_name_20;
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_1__metaclass);
             tmp_expression_name_53 = tmp_MollweideAxes$class_creation_1__metaclass;
-            tmp_called_name_20 = LOOKUP_ATTRIBUTE(tmp_expression_name_53, mod_consts[233]);
+            tmp_called_name_20 = LOOKUP_ATTRIBUTE(tmp_expression_name_53, mod_consts[232]);
             if (tmp_called_name_20 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -35516,7 +35516,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_20, 1, tmp_tuple_element_41);
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_1__class_decl_dict);
             tmp_kwargs_name_20 = tmp_MollweideAxes$class_creation_1__class_decl_dict;
-            frame_2adcd9007575412f87659a0a4d53c146_11->m_frame.f_lineno = 349;
+            frame_de20da3b8f4fa9df37e2dc758c19c903_11->m_frame.f_lineno = 349;
             tmp_assign_source_101 = CALL_FUNCTION(tmp_called_name_20, tmp_args_name_20, tmp_kwargs_name_20);
             Py_DECREF(tmp_called_name_20);
             Py_DECREF(tmp_args_name_20);
@@ -35539,7 +35539,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_54;
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_1__prepared);
             tmp_expression_name_54 = tmp_MollweideAxes$class_creation_1__prepared;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_54, mod_consts[234]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_54, mod_consts[233]);
             tmp_operand_name_11 = (tmp_result) ? Py_True : Py_False;
             tmp_res = CHECK_IF_TRUE(tmp_operand_name_11);
             if (tmp_res == -1) {
@@ -35570,11 +35570,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_getattr_attr_11;
             PyObject *tmp_getattr_default_11;
             tmp_raise_type_11 = PyExc_TypeError;
-            tmp_left_name_11 = mod_consts[235];
+            tmp_left_name_11 = mod_consts[234];
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_1__metaclass);
             tmp_getattr_target_11 = tmp_MollweideAxes$class_creation_1__metaclass;
             tmp_getattr_attr_11 = mod_consts[120];
-            tmp_getattr_default_11 = mod_consts[236];
+            tmp_getattr_default_11 = mod_consts[235];
             tmp_tuple_element_42 = BUILTIN_GETATTR(tmp_getattr_target_11, tmp_getattr_attr_11, tmp_getattr_default_11);
             if (tmp_tuple_element_42 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -35655,8 +35655,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[237];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__11_MollweideTransform_349, mod_consts[238], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[236];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__11_MollweideTransform_349, mod_consts[237], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -35667,7 +35667,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_37;
         }
-        tmp_dictset_value = mod_consts[325];
+        tmp_dictset_value = mod_consts[324];
         tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__11_MollweideTransform_349, mod_consts[207], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -35679,8 +35679,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_37;
         }
-        tmp_dictset_value = mod_consts[326];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__11_MollweideTransform_349, mod_consts[240], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[325];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__11_MollweideTransform_349, mod_consts[239], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -35691,38 +35691,38 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_37;
         }
-        if (isFrameUnusable(cache_frame_7db75fae5068676263613d3e42d76b0d_12)) {
-            Py_XDECREF(cache_frame_7db75fae5068676263613d3e42d76b0d_12);
+        if (isFrameUnusable(cache_frame_749859f6769bcac3633947d8ba2cd081_12)) {
+            Py_XDECREF(cache_frame_749859f6769bcac3633947d8ba2cd081_12);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_7db75fae5068676263613d3e42d76b0d_12 == NULL) {
+            if (cache_frame_749859f6769bcac3633947d8ba2cd081_12 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_7db75fae5068676263613d3e42d76b0d_12 = MAKE_FUNCTION_FRAME(codeobj_7db75fae5068676263613d3e42d76b0d, module_matplotlib$projections$geo, sizeof(void *));
+            cache_frame_749859f6769bcac3633947d8ba2cd081_12 = MAKE_FUNCTION_FRAME(codeobj_749859f6769bcac3633947d8ba2cd081, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_7db75fae5068676263613d3e42d76b0d_12->m_type_description == NULL);
-        frame_7db75fae5068676263613d3e42d76b0d_12 = cache_frame_7db75fae5068676263613d3e42d76b0d_12;
+        assert(cache_frame_749859f6769bcac3633947d8ba2cd081_12->m_type_description == NULL);
+        frame_749859f6769bcac3633947d8ba2cd081_12 = cache_frame_749859f6769bcac3633947d8ba2cd081_12;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_7db75fae5068676263613d3e42d76b0d_12);
+        pushFrameStack(frame_749859f6769bcac3633947d8ba2cd081_12);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_7db75fae5068676263613d3e42d76b0d_12) == 2); // Frame stack
+        assert(Py_REFCNT(frame_749859f6769bcac3633947d8ba2cd081_12) == 2); // Frame stack
 
         // Framed code:
 
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__42_transform_non_affine();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__11_MollweideTransform_349, mod_consts[305], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__11_MollweideTransform_349, mod_consts[304], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -35738,7 +35738,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__43_inverted();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__11_MollweideTransform_349, mod_consts[307], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__11_MollweideTransform_349, mod_consts[306], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -35752,7 +35752,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_7db75fae5068676263613d3e42d76b0d_12);
+        RESTORE_FRAME_EXCEPTION(frame_749859f6769bcac3633947d8ba2cd081_12);
 #endif
 
         // Put the previous frame back on top.
@@ -35763,35 +35763,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         frame_exception_exit_12:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_7db75fae5068676263613d3e42d76b0d_12);
+        RESTORE_FRAME_EXCEPTION(frame_749859f6769bcac3633947d8ba2cd081_12);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_7db75fae5068676263613d3e42d76b0d_12, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_7db75fae5068676263613d3e42d76b0d_12->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_7db75fae5068676263613d3e42d76b0d_12, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_749859f6769bcac3633947d8ba2cd081_12, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_749859f6769bcac3633947d8ba2cd081_12->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_749859f6769bcac3633947d8ba2cd081_12, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_7db75fae5068676263613d3e42d76b0d_12,
+            frame_749859f6769bcac3633947d8ba2cd081_12,
             type_description_3,
             outline_10_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_7db75fae5068676263613d3e42d76b0d_12 == cache_frame_7db75fae5068676263613d3e42d76b0d_12) {
+        if (frame_749859f6769bcac3633947d8ba2cd081_12 == cache_frame_749859f6769bcac3633947d8ba2cd081_12) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_7db75fae5068676263613d3e42d76b0d_12);
-            cache_frame_7db75fae5068676263613d3e42d76b0d_12 = NULL;
+            Py_DECREF(cache_frame_749859f6769bcac3633947d8ba2cd081_12);
+            cache_frame_749859f6769bcac3633947d8ba2cd081_12 = NULL;
         }
 
-        assertFrameObject(frame_7db75fae5068676263613d3e42d76b0d_12);
+        assertFrameObject(frame_749859f6769bcac3633947d8ba2cd081_12);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -35834,7 +35834,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_43:;
         CHECK_OBJECT(tmp_MollweideAxes$class_creation_1__bases_orig);
         tmp_dictset_value = tmp_MollweideAxes$class_creation_1__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__11_MollweideTransform_349, mod_consts[248], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__11_MollweideTransform_349, mod_consts[247], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -35864,7 +35864,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_21, 2, tmp_tuple_element_43);
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_1__class_decl_dict);
             tmp_kwargs_name_21 = tmp_MollweideAxes$class_creation_1__class_decl_dict;
-            frame_2adcd9007575412f87659a0a4d53c146_11->m_frame.f_lineno = 349;
+            frame_de20da3b8f4fa9df37e2dc758c19c903_11->m_frame.f_lineno = 349;
             tmp_assign_source_103 = CALL_FUNCTION(tmp_called_name_21, tmp_args_name_21, tmp_kwargs_name_21);
             Py_DECREF(tmp_args_name_21);
             if (tmp_assign_source_103 == NULL) {
@@ -36077,7 +36077,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_56;
             PyObject *tmp_subscript_name_12;
             PyObject *tmp_bases_name_12;
-            tmp_key_name_34 = mod_consts[232];
+            tmp_key_name_34 = mod_consts[231];
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_2__class_decl_dict);
             tmp_dict_arg_name_34 = tmp_MollweideAxes$class_creation_2__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_34, tmp_key_name_34);
@@ -36091,7 +36091,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             condexpr_true_23:;
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_2__class_decl_dict);
             tmp_dict_arg_name_35 = tmp_MollweideAxes$class_creation_2__class_decl_dict;
-            tmp_key_name_35 = mod_consts[232];
+            tmp_key_name_35 = mod_consts[231];
             tmp_metaclass_name_12 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_35, tmp_key_name_35);
             if (tmp_metaclass_name_12 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -36177,7 +36177,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             nuitka_bool tmp_condition_result_68;
             PyObject *tmp_key_name_36;
             PyObject *tmp_dict_arg_name_36;
-            tmp_key_name_36 = mod_consts[232];
+            tmp_key_name_36 = mod_consts[231];
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_2__class_decl_dict);
             tmp_dict_arg_name_36 = tmp_MollweideAxes$class_creation_2__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_36, tmp_key_name_36);
@@ -36192,7 +36192,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_44:;
         CHECK_OBJECT(tmp_MollweideAxes$class_creation_2__class_decl_dict);
         tmp_dictdel_dict = tmp_MollweideAxes$class_creation_2__class_decl_dict;
-        tmp_dictdel_key = mod_consts[232];
+        tmp_dictdel_key = mod_consts[231];
         tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
@@ -36210,7 +36210,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_57;
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_2__metaclass);
             tmp_expression_name_57 = tmp_MollweideAxes$class_creation_2__metaclass;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_57, mod_consts[233]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_57, mod_consts[232]);
             tmp_condition_result_69 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
             if (tmp_condition_result_69 == NUITKA_BOOL_TRUE) {
                 goto branch_yes_45;
@@ -36228,7 +36228,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_kwargs_name_22;
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_2__metaclass);
             tmp_expression_name_58 = tmp_MollweideAxes$class_creation_2__metaclass;
-            tmp_called_name_22 = LOOKUP_ATTRIBUTE(tmp_expression_name_58, mod_consts[233]);
+            tmp_called_name_22 = LOOKUP_ATTRIBUTE(tmp_expression_name_58, mod_consts[232]);
             if (tmp_called_name_22 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -36247,7 +36247,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_22, 1, tmp_tuple_element_45);
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_2__class_decl_dict);
             tmp_kwargs_name_22 = tmp_MollweideAxes$class_creation_2__class_decl_dict;
-            frame_2adcd9007575412f87659a0a4d53c146_11->m_frame.f_lineno = 390;
+            frame_de20da3b8f4fa9df37e2dc758c19c903_11->m_frame.f_lineno = 390;
             tmp_assign_source_108 = CALL_FUNCTION(tmp_called_name_22, tmp_args_name_22, tmp_kwargs_name_22);
             Py_DECREF(tmp_called_name_22);
             Py_DECREF(tmp_args_name_22);
@@ -36270,7 +36270,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_59;
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_2__prepared);
             tmp_expression_name_59 = tmp_MollweideAxes$class_creation_2__prepared;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_59, mod_consts[234]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_59, mod_consts[233]);
             tmp_operand_name_12 = (tmp_result) ? Py_True : Py_False;
             tmp_res = CHECK_IF_TRUE(tmp_operand_name_12);
             if (tmp_res == -1) {
@@ -36301,11 +36301,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_getattr_attr_12;
             PyObject *tmp_getattr_default_12;
             tmp_raise_type_12 = PyExc_TypeError;
-            tmp_left_name_12 = mod_consts[235];
+            tmp_left_name_12 = mod_consts[234];
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_2__metaclass);
             tmp_getattr_target_12 = tmp_MollweideAxes$class_creation_2__metaclass;
             tmp_getattr_attr_12 = mod_consts[120];
-            tmp_getattr_default_12 = mod_consts[236];
+            tmp_getattr_default_12 = mod_consts[235];
             tmp_tuple_element_46 = BUILTIN_GETATTR(tmp_getattr_target_12, tmp_getattr_attr_12, tmp_getattr_default_12);
             if (tmp_tuple_element_46 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -36386,8 +36386,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[237];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__12_InvertedMollweideTransform_390, mod_consts[238], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[236];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__12_InvertedMollweideTransform_390, mod_consts[237], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -36398,8 +36398,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_40;
         }
-        tmp_dictset_value = mod_consts[329];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__12_InvertedMollweideTransform_390, mod_consts[240], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[328];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__12_InvertedMollweideTransform_390, mod_consts[239], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -36410,38 +36410,38 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_40;
         }
-        if (isFrameUnusable(cache_frame_7cfcf3466f7cd7d267a7f672b629fb26_13)) {
-            Py_XDECREF(cache_frame_7cfcf3466f7cd7d267a7f672b629fb26_13);
+        if (isFrameUnusable(cache_frame_fe972da23b8cf12d1a3dc72ee5750fcf_13)) {
+            Py_XDECREF(cache_frame_fe972da23b8cf12d1a3dc72ee5750fcf_13);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_7cfcf3466f7cd7d267a7f672b629fb26_13 == NULL) {
+            if (cache_frame_fe972da23b8cf12d1a3dc72ee5750fcf_13 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_7cfcf3466f7cd7d267a7f672b629fb26_13 = MAKE_FUNCTION_FRAME(codeobj_7cfcf3466f7cd7d267a7f672b629fb26, module_matplotlib$projections$geo, sizeof(void *));
+            cache_frame_fe972da23b8cf12d1a3dc72ee5750fcf_13 = MAKE_FUNCTION_FRAME(codeobj_fe972da23b8cf12d1a3dc72ee5750fcf, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_7cfcf3466f7cd7d267a7f672b629fb26_13->m_type_description == NULL);
-        frame_7cfcf3466f7cd7d267a7f672b629fb26_13 = cache_frame_7cfcf3466f7cd7d267a7f672b629fb26_13;
+        assert(cache_frame_fe972da23b8cf12d1a3dc72ee5750fcf_13->m_type_description == NULL);
+        frame_fe972da23b8cf12d1a3dc72ee5750fcf_13 = cache_frame_fe972da23b8cf12d1a3dc72ee5750fcf_13;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_7cfcf3466f7cd7d267a7f672b629fb26_13);
+        pushFrameStack(frame_fe972da23b8cf12d1a3dc72ee5750fcf_13);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_7cfcf3466f7cd7d267a7f672b629fb26_13) == 2); // Frame stack
+        assert(Py_REFCNT(frame_fe972da23b8cf12d1a3dc72ee5750fcf_13) == 2); // Frame stack
 
         // Framed code:
 
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__44_transform_non_affine();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__12_InvertedMollweideTransform_390, mod_consts[305], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__12_InvertedMollweideTransform_390, mod_consts[304], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -36457,7 +36457,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__45_inverted();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__12_InvertedMollweideTransform_390, mod_consts[307], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__12_InvertedMollweideTransform_390, mod_consts[306], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -36471,7 +36471,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_7cfcf3466f7cd7d267a7f672b629fb26_13);
+        RESTORE_FRAME_EXCEPTION(frame_fe972da23b8cf12d1a3dc72ee5750fcf_13);
 #endif
 
         // Put the previous frame back on top.
@@ -36482,35 +36482,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         frame_exception_exit_13:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_7cfcf3466f7cd7d267a7f672b629fb26_13);
+        RESTORE_FRAME_EXCEPTION(frame_fe972da23b8cf12d1a3dc72ee5750fcf_13);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_7cfcf3466f7cd7d267a7f672b629fb26_13, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_7cfcf3466f7cd7d267a7f672b629fb26_13->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_7cfcf3466f7cd7d267a7f672b629fb26_13, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_fe972da23b8cf12d1a3dc72ee5750fcf_13, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_fe972da23b8cf12d1a3dc72ee5750fcf_13->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_fe972da23b8cf12d1a3dc72ee5750fcf_13, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_7cfcf3466f7cd7d267a7f672b629fb26_13,
+            frame_fe972da23b8cf12d1a3dc72ee5750fcf_13,
             type_description_3,
             outline_11_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_7cfcf3466f7cd7d267a7f672b629fb26_13 == cache_frame_7cfcf3466f7cd7d267a7f672b629fb26_13) {
+        if (frame_fe972da23b8cf12d1a3dc72ee5750fcf_13 == cache_frame_fe972da23b8cf12d1a3dc72ee5750fcf_13) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_7cfcf3466f7cd7d267a7f672b629fb26_13);
-            cache_frame_7cfcf3466f7cd7d267a7f672b629fb26_13 = NULL;
+            Py_DECREF(cache_frame_fe972da23b8cf12d1a3dc72ee5750fcf_13);
+            cache_frame_fe972da23b8cf12d1a3dc72ee5750fcf_13 = NULL;
         }
 
-        assertFrameObject(frame_7cfcf3466f7cd7d267a7f672b629fb26_13);
+        assertFrameObject(frame_fe972da23b8cf12d1a3dc72ee5750fcf_13);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -36553,7 +36553,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_47:;
         CHECK_OBJECT(tmp_MollweideAxes$class_creation_2__bases_orig);
         tmp_dictset_value = tmp_MollweideAxes$class_creation_2__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__12_InvertedMollweideTransform_390, mod_consts[248], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__12_InvertedMollweideTransform_390, mod_consts[247], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -36583,7 +36583,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_23, 2, tmp_tuple_element_47);
             CHECK_OBJECT(tmp_MollweideAxes$class_creation_2__class_decl_dict);
             tmp_kwargs_name_23 = tmp_MollweideAxes$class_creation_2__class_decl_dict;
-            frame_2adcd9007575412f87659a0a4d53c146_11->m_frame.f_lineno = 390;
+            frame_de20da3b8f4fa9df37e2dc758c19c903_11->m_frame.f_lineno = 390;
             tmp_assign_source_110 = CALL_FUNCTION(tmp_called_name_23, tmp_args_name_23, tmp_kwargs_name_23);
             Py_DECREF(tmp_args_name_23);
             if (tmp_assign_source_110 == NULL) {
@@ -36753,7 +36753,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_2adcd9007575412f87659a0a4d53c146_11);
+        RESTORE_FRAME_EXCEPTION(frame_de20da3b8f4fa9df37e2dc758c19c903_11);
 #endif
 
         // Put the previous frame back on top.
@@ -36764,35 +36764,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         frame_exception_exit_11:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_2adcd9007575412f87659a0a4d53c146_11);
+        RESTORE_FRAME_EXCEPTION(frame_de20da3b8f4fa9df37e2dc758c19c903_11);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_2adcd9007575412f87659a0a4d53c146_11, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_2adcd9007575412f87659a0a4d53c146_11->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_2adcd9007575412f87659a0a4d53c146_11, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_de20da3b8f4fa9df37e2dc758c19c903_11, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_de20da3b8f4fa9df37e2dc758c19c903_11->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_de20da3b8f4fa9df37e2dc758c19c903_11, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_2adcd9007575412f87659a0a4d53c146_11,
+            frame_de20da3b8f4fa9df37e2dc758c19c903_11,
             type_description_2,
             outline_9_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_2adcd9007575412f87659a0a4d53c146_11 == cache_frame_2adcd9007575412f87659a0a4d53c146_11) {
+        if (frame_de20da3b8f4fa9df37e2dc758c19c903_11 == cache_frame_de20da3b8f4fa9df37e2dc758c19c903_11) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_2adcd9007575412f87659a0a4d53c146_11);
-            cache_frame_2adcd9007575412f87659a0a4d53c146_11 = NULL;
+            Py_DECREF(cache_frame_de20da3b8f4fa9df37e2dc758c19c903_11);
+            cache_frame_de20da3b8f4fa9df37e2dc758c19c903_11 = NULL;
         }
 
-        assertFrameObject(frame_2adcd9007575412f87659a0a4d53c146_11);
+        assertFrameObject(frame_de20da3b8f4fa9df37e2dc758c19c903_11);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -36835,7 +36835,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_48:;
         CHECK_OBJECT(tmp_class_creation_5__bases_orig);
         tmp_dictset_value = tmp_class_creation_5__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__10_MollweideAxes_346, mod_consts[248], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__10_MollweideAxes_346, mod_consts[247], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -36865,7 +36865,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_24, 2, tmp_tuple_element_48);
             CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
             tmp_kwargs_name_24 = tmp_class_creation_5__class_decl_dict;
-            frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 346;
+            frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 346;
             tmp_assign_source_111 = CALL_FUNCTION(tmp_called_name_24, tmp_args_name_24, tmp_kwargs_name_24);
             Py_DECREF(tmp_args_name_24);
             if (tmp_assign_source_111 == NULL) {
@@ -37060,7 +37060,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_61;
         PyObject *tmp_subscript_name_13;
         PyObject *tmp_bases_name_13;
-        tmp_key_name_37 = mod_consts[232];
+        tmp_key_name_37 = mod_consts[231];
         CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
         tmp_dict_arg_name_37 = tmp_class_creation_6__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_37, tmp_key_name_37);
@@ -37074,7 +37074,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         condexpr_true_25:;
         CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
         tmp_dict_arg_name_38 = tmp_class_creation_6__class_decl_dict;
-        tmp_key_name_38 = mod_consts[232];
+        tmp_key_name_38 = mod_consts[231];
         tmp_metaclass_name_13 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_38, tmp_key_name_38);
         if (tmp_metaclass_name_13 == NULL) {
             assert(ERROR_OCCURRED());
@@ -37160,7 +37160,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         nuitka_bool tmp_condition_result_75;
         PyObject *tmp_key_name_39;
         PyObject *tmp_dict_arg_name_39;
-        tmp_key_name_39 = mod_consts[232];
+        tmp_key_name_39 = mod_consts[231];
         CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
         tmp_dict_arg_name_39 = tmp_class_creation_6__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_39, tmp_key_name_39);
@@ -37175,7 +37175,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
     branch_yes_49:;
     CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_6__class_decl_dict;
-    tmp_dictdel_key = mod_consts[232];
+    tmp_dictdel_key = mod_consts[231];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -37193,7 +37193,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_62;
         CHECK_OBJECT(tmp_class_creation_6__metaclass);
         tmp_expression_name_62 = tmp_class_creation_6__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_62, mod_consts[233]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_62, mod_consts[232]);
         tmp_condition_result_76 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_76 == NUITKA_BOOL_TRUE) {
             goto branch_yes_50;
@@ -37211,7 +37211,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_kwargs_name_25;
         CHECK_OBJECT(tmp_class_creation_6__metaclass);
         tmp_expression_name_63 = tmp_class_creation_6__metaclass;
-        tmp_called_name_25 = LOOKUP_ATTRIBUTE(tmp_expression_name_63, mod_consts[233]);
+        tmp_called_name_25 = LOOKUP_ATTRIBUTE(tmp_expression_name_63, mod_consts[232]);
         if (tmp_called_name_25 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -37230,7 +37230,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyTuple_SET_ITEM0(tmp_args_name_25, 1, tmp_tuple_element_50);
         CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
         tmp_kwargs_name_25 = tmp_class_creation_6__class_decl_dict;
-        frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 416;
+        frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 416;
         tmp_assign_source_116 = CALL_FUNCTION(tmp_called_name_25, tmp_args_name_25, tmp_kwargs_name_25);
         Py_DECREF(tmp_called_name_25);
         Py_DECREF(tmp_args_name_25);
@@ -37253,7 +37253,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_64;
         CHECK_OBJECT(tmp_class_creation_6__prepared);
         tmp_expression_name_64 = tmp_class_creation_6__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_64, mod_consts[234]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_64, mod_consts[233]);
         tmp_operand_name_13 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_13);
         if (tmp_res == -1) {
@@ -37284,11 +37284,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         PyObject *tmp_getattr_attr_13;
         PyObject *tmp_getattr_default_13;
         tmp_raise_type_13 = PyExc_TypeError;
-        tmp_left_name_13 = mod_consts[235];
+        tmp_left_name_13 = mod_consts[234];
         CHECK_OBJECT(tmp_class_creation_6__metaclass);
         tmp_getattr_target_13 = tmp_class_creation_6__metaclass;
         tmp_getattr_attr_13 = mod_consts[120];
-        tmp_getattr_default_13 = mod_consts[236];
+        tmp_getattr_default_13 = mod_consts[235];
         tmp_tuple_element_51 = BUILTIN_GETATTR(tmp_getattr_target_13, tmp_getattr_attr_13, tmp_getattr_default_13);
         if (tmp_tuple_element_51 == NULL) {
             assert(ERROR_OCCURRED());
@@ -37371,8 +37371,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[237];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__13_LambertAxes_416, mod_consts[238], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[236];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__13_LambertAxes_416, mod_consts[237], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -37384,7 +37384,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             goto try_except_handler_43;
         }
         tmp_dictset_value = mod_consts[195];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__13_LambertAxes_416, mod_consts[240], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__13_LambertAxes_416, mod_consts[239], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -37395,35 +37395,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
             goto try_except_handler_43;
         }
-        if (isFrameUnusable(cache_frame_95d7759476a32af7ce5820074abd4568_14)) {
-            Py_XDECREF(cache_frame_95d7759476a32af7ce5820074abd4568_14);
+        if (isFrameUnusable(cache_frame_2588698ae371250ef3932b86b1d830b0_14)) {
+            Py_XDECREF(cache_frame_2588698ae371250ef3932b86b1d830b0_14);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_95d7759476a32af7ce5820074abd4568_14 == NULL) {
+            if (cache_frame_2588698ae371250ef3932b86b1d830b0_14 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_95d7759476a32af7ce5820074abd4568_14 = MAKE_FUNCTION_FRAME(codeobj_95d7759476a32af7ce5820074abd4568, module_matplotlib$projections$geo, sizeof(void *));
+            cache_frame_2588698ae371250ef3932b86b1d830b0_14 = MAKE_FUNCTION_FRAME(codeobj_2588698ae371250ef3932b86b1d830b0, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_95d7759476a32af7ce5820074abd4568_14->m_type_description == NULL);
-        frame_95d7759476a32af7ce5820074abd4568_14 = cache_frame_95d7759476a32af7ce5820074abd4568_14;
+        assert(cache_frame_2588698ae371250ef3932b86b1d830b0_14->m_type_description == NULL);
+        frame_2588698ae371250ef3932b86b1d830b0_14 = cache_frame_2588698ae371250ef3932b86b1d830b0_14;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_95d7759476a32af7ce5820074abd4568_14);
+        pushFrameStack(frame_2588698ae371250ef3932b86b1d830b0_14);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_95d7759476a32af7ce5820074abd4568_14) == 2); // Frame stack
+        assert(Py_REFCNT(frame_2588698ae371250ef3932b86b1d830b0_14) == 2); // Frame stack
 
         // Framed code:
-        tmp_dictset_value = mod_consts[334];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__13_LambertAxes_416, mod_consts[302], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[333];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__13_LambertAxes_416, mod_consts[301], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -37511,7 +37511,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_66;
             PyObject *tmp_subscript_name_14;
             PyObject *tmp_bases_name_14;
-            tmp_key_name_40 = mod_consts[232];
+            tmp_key_name_40 = mod_consts[231];
             CHECK_OBJECT(tmp_LambertAxes$class_creation_1__class_decl_dict);
             tmp_dict_arg_name_40 = tmp_LambertAxes$class_creation_1__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_40, tmp_key_name_40);
@@ -37525,7 +37525,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             condexpr_true_27:;
             CHECK_OBJECT(tmp_LambertAxes$class_creation_1__class_decl_dict);
             tmp_dict_arg_name_41 = tmp_LambertAxes$class_creation_1__class_decl_dict;
-            tmp_key_name_41 = mod_consts[232];
+            tmp_key_name_41 = mod_consts[231];
             tmp_metaclass_name_14 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_41, tmp_key_name_41);
             if (tmp_metaclass_name_14 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -37611,7 +37611,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             nuitka_bool tmp_condition_result_80;
             PyObject *tmp_key_name_42;
             PyObject *tmp_dict_arg_name_42;
-            tmp_key_name_42 = mod_consts[232];
+            tmp_key_name_42 = mod_consts[231];
             CHECK_OBJECT(tmp_LambertAxes$class_creation_1__class_decl_dict);
             tmp_dict_arg_name_42 = tmp_LambertAxes$class_creation_1__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_42, tmp_key_name_42);
@@ -37626,7 +37626,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_52:;
         CHECK_OBJECT(tmp_LambertAxes$class_creation_1__class_decl_dict);
         tmp_dictdel_dict = tmp_LambertAxes$class_creation_1__class_decl_dict;
-        tmp_dictdel_key = mod_consts[232];
+        tmp_dictdel_key = mod_consts[231];
         tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
@@ -37644,7 +37644,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_67;
             CHECK_OBJECT(tmp_LambertAxes$class_creation_1__metaclass);
             tmp_expression_name_67 = tmp_LambertAxes$class_creation_1__metaclass;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_67, mod_consts[233]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_67, mod_consts[232]);
             tmp_condition_result_81 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
             if (tmp_condition_result_81 == NUITKA_BOOL_TRUE) {
                 goto branch_yes_53;
@@ -37662,7 +37662,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_kwargs_name_26;
             CHECK_OBJECT(tmp_LambertAxes$class_creation_1__metaclass);
             tmp_expression_name_68 = tmp_LambertAxes$class_creation_1__metaclass;
-            tmp_called_name_26 = LOOKUP_ATTRIBUTE(tmp_expression_name_68, mod_consts[233]);
+            tmp_called_name_26 = LOOKUP_ATTRIBUTE(tmp_expression_name_68, mod_consts[232]);
             if (tmp_called_name_26 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -37681,7 +37681,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_26, 1, tmp_tuple_element_53);
             CHECK_OBJECT(tmp_LambertAxes$class_creation_1__class_decl_dict);
             tmp_kwargs_name_26 = tmp_LambertAxes$class_creation_1__class_decl_dict;
-            frame_95d7759476a32af7ce5820074abd4568_14->m_frame.f_lineno = 419;
+            frame_2588698ae371250ef3932b86b1d830b0_14->m_frame.f_lineno = 419;
             tmp_assign_source_123 = CALL_FUNCTION(tmp_called_name_26, tmp_args_name_26, tmp_kwargs_name_26);
             Py_DECREF(tmp_called_name_26);
             Py_DECREF(tmp_args_name_26);
@@ -37704,7 +37704,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_69;
             CHECK_OBJECT(tmp_LambertAxes$class_creation_1__prepared);
             tmp_expression_name_69 = tmp_LambertAxes$class_creation_1__prepared;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_69, mod_consts[234]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_69, mod_consts[233]);
             tmp_operand_name_14 = (tmp_result) ? Py_True : Py_False;
             tmp_res = CHECK_IF_TRUE(tmp_operand_name_14);
             if (tmp_res == -1) {
@@ -37735,11 +37735,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_getattr_attr_14;
             PyObject *tmp_getattr_default_14;
             tmp_raise_type_14 = PyExc_TypeError;
-            tmp_left_name_14 = mod_consts[235];
+            tmp_left_name_14 = mod_consts[234];
             CHECK_OBJECT(tmp_LambertAxes$class_creation_1__metaclass);
             tmp_getattr_target_14 = tmp_LambertAxes$class_creation_1__metaclass;
             tmp_getattr_attr_14 = mod_consts[120];
-            tmp_getattr_default_14 = mod_consts[236];
+            tmp_getattr_default_14 = mod_consts[235];
             tmp_tuple_element_54 = BUILTIN_GETATTR(tmp_getattr_target_14, tmp_getattr_attr_14, tmp_getattr_default_14);
             if (tmp_tuple_element_54 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -37820,8 +37820,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[237];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__14_LambertTransform_419, mod_consts[238], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[236];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__14_LambertTransform_419, mod_consts[237], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -37832,7 +37832,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_46;
         }
-        tmp_dictset_value = mod_consts[335];
+        tmp_dictset_value = mod_consts[334];
         tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__14_LambertTransform_419, mod_consts[207], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -37844,8 +37844,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_46;
         }
-        tmp_dictset_value = mod_consts[336];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__14_LambertTransform_419, mod_consts[240], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[335];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__14_LambertTransform_419, mod_consts[239], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -37856,31 +37856,31 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_46;
         }
-        if (isFrameUnusable(cache_frame_ef57356d2ace4173ee5bda8124e31fbf_15)) {
-            Py_XDECREF(cache_frame_ef57356d2ace4173ee5bda8124e31fbf_15);
+        if (isFrameUnusable(cache_frame_01abe8a26ff5368a7c6caaede2189824_15)) {
+            Py_XDECREF(cache_frame_01abe8a26ff5368a7c6caaede2189824_15);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_ef57356d2ace4173ee5bda8124e31fbf_15 == NULL) {
+            if (cache_frame_01abe8a26ff5368a7c6caaede2189824_15 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_ef57356d2ace4173ee5bda8124e31fbf_15 = MAKE_FUNCTION_FRAME(codeobj_ef57356d2ace4173ee5bda8124e31fbf, module_matplotlib$projections$geo, sizeof(void *));
+            cache_frame_01abe8a26ff5368a7c6caaede2189824_15 = MAKE_FUNCTION_FRAME(codeobj_01abe8a26ff5368a7c6caaede2189824, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_ef57356d2ace4173ee5bda8124e31fbf_15->m_type_description == NULL);
-        frame_ef57356d2ace4173ee5bda8124e31fbf_15 = cache_frame_ef57356d2ace4173ee5bda8124e31fbf_15;
+        assert(cache_frame_01abe8a26ff5368a7c6caaede2189824_15->m_type_description == NULL);
+        frame_01abe8a26ff5368a7c6caaede2189824_15 = cache_frame_01abe8a26ff5368a7c6caaede2189824_15;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_ef57356d2ace4173ee5bda8124e31fbf_15);
+        pushFrameStack(frame_01abe8a26ff5368a7c6caaede2189824_15);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_ef57356d2ace4173ee5bda8124e31fbf_15) == 2); // Frame stack
+        assert(Py_REFCNT(frame_01abe8a26ff5368a7c6caaede2189824_15) == 2); // Frame stack
 
         // Framed code:
 
@@ -37903,7 +37903,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__49_transform_non_affine();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__14_LambertTransform_419, mod_consts[305], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__14_LambertTransform_419, mod_consts[304], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -37919,7 +37919,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__50_inverted();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__14_LambertTransform_419, mod_consts[307], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__14_LambertTransform_419, mod_consts[306], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -37933,7 +37933,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_ef57356d2ace4173ee5bda8124e31fbf_15);
+        RESTORE_FRAME_EXCEPTION(frame_01abe8a26ff5368a7c6caaede2189824_15);
 #endif
 
         // Put the previous frame back on top.
@@ -37944,35 +37944,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         frame_exception_exit_15:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_ef57356d2ace4173ee5bda8124e31fbf_15);
+        RESTORE_FRAME_EXCEPTION(frame_01abe8a26ff5368a7c6caaede2189824_15);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_ef57356d2ace4173ee5bda8124e31fbf_15, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_ef57356d2ace4173ee5bda8124e31fbf_15->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_ef57356d2ace4173ee5bda8124e31fbf_15, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_01abe8a26ff5368a7c6caaede2189824_15, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_01abe8a26ff5368a7c6caaede2189824_15->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_01abe8a26ff5368a7c6caaede2189824_15, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_ef57356d2ace4173ee5bda8124e31fbf_15,
+            frame_01abe8a26ff5368a7c6caaede2189824_15,
             type_description_3,
             outline_13_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_ef57356d2ace4173ee5bda8124e31fbf_15 == cache_frame_ef57356d2ace4173ee5bda8124e31fbf_15) {
+        if (frame_01abe8a26ff5368a7c6caaede2189824_15 == cache_frame_01abe8a26ff5368a7c6caaede2189824_15) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_ef57356d2ace4173ee5bda8124e31fbf_15);
-            cache_frame_ef57356d2ace4173ee5bda8124e31fbf_15 = NULL;
+            Py_DECREF(cache_frame_01abe8a26ff5368a7c6caaede2189824_15);
+            cache_frame_01abe8a26ff5368a7c6caaede2189824_15 = NULL;
         }
 
-        assertFrameObject(frame_ef57356d2ace4173ee5bda8124e31fbf_15);
+        assertFrameObject(frame_01abe8a26ff5368a7c6caaede2189824_15);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -38015,7 +38015,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_55:;
         CHECK_OBJECT(tmp_LambertAxes$class_creation_1__bases_orig);
         tmp_dictset_value = tmp_LambertAxes$class_creation_1__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__14_LambertTransform_419, mod_consts[248], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__14_LambertTransform_419, mod_consts[247], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -38045,7 +38045,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_27, 2, tmp_tuple_element_55);
             CHECK_OBJECT(tmp_LambertAxes$class_creation_1__class_decl_dict);
             tmp_kwargs_name_27 = tmp_LambertAxes$class_creation_1__class_decl_dict;
-            frame_95d7759476a32af7ce5820074abd4568_14->m_frame.f_lineno = 419;
+            frame_2588698ae371250ef3932b86b1d830b0_14->m_frame.f_lineno = 419;
             tmp_assign_source_125 = CALL_FUNCTION(tmp_called_name_27, tmp_args_name_27, tmp_kwargs_name_27);
             Py_DECREF(tmp_args_name_27);
             if (tmp_assign_source_125 == NULL) {
@@ -38258,7 +38258,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_71;
             PyObject *tmp_subscript_name_15;
             PyObject *tmp_bases_name_15;
-            tmp_key_name_43 = mod_consts[232];
+            tmp_key_name_43 = mod_consts[231];
             CHECK_OBJECT(tmp_LambertAxes$class_creation_2__class_decl_dict);
             tmp_dict_arg_name_43 = tmp_LambertAxes$class_creation_2__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_43, tmp_key_name_43);
@@ -38272,7 +38272,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             condexpr_true_29:;
             CHECK_OBJECT(tmp_LambertAxes$class_creation_2__class_decl_dict);
             tmp_dict_arg_name_44 = tmp_LambertAxes$class_creation_2__class_decl_dict;
-            tmp_key_name_44 = mod_consts[232];
+            tmp_key_name_44 = mod_consts[231];
             tmp_metaclass_name_15 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_44, tmp_key_name_44);
             if (tmp_metaclass_name_15 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -38358,7 +38358,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             nuitka_bool tmp_condition_result_86;
             PyObject *tmp_key_name_45;
             PyObject *tmp_dict_arg_name_45;
-            tmp_key_name_45 = mod_consts[232];
+            tmp_key_name_45 = mod_consts[231];
             CHECK_OBJECT(tmp_LambertAxes$class_creation_2__class_decl_dict);
             tmp_dict_arg_name_45 = tmp_LambertAxes$class_creation_2__class_decl_dict;
             tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_45, tmp_key_name_45);
@@ -38373,7 +38373,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_56:;
         CHECK_OBJECT(tmp_LambertAxes$class_creation_2__class_decl_dict);
         tmp_dictdel_dict = tmp_LambertAxes$class_creation_2__class_decl_dict;
-        tmp_dictdel_key = mod_consts[232];
+        tmp_dictdel_key = mod_consts[231];
         tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
@@ -38391,7 +38391,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_72;
             CHECK_OBJECT(tmp_LambertAxes$class_creation_2__metaclass);
             tmp_expression_name_72 = tmp_LambertAxes$class_creation_2__metaclass;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_72, mod_consts[233]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_72, mod_consts[232]);
             tmp_condition_result_87 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
             if (tmp_condition_result_87 == NUITKA_BOOL_TRUE) {
                 goto branch_yes_57;
@@ -38409,7 +38409,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_kwargs_name_28;
             CHECK_OBJECT(tmp_LambertAxes$class_creation_2__metaclass);
             tmp_expression_name_73 = tmp_LambertAxes$class_creation_2__metaclass;
-            tmp_called_name_28 = LOOKUP_ATTRIBUTE(tmp_expression_name_73, mod_consts[233]);
+            tmp_called_name_28 = LOOKUP_ATTRIBUTE(tmp_expression_name_73, mod_consts[232]);
             if (tmp_called_name_28 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -38428,7 +38428,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_28, 1, tmp_tuple_element_57);
             CHECK_OBJECT(tmp_LambertAxes$class_creation_2__class_decl_dict);
             tmp_kwargs_name_28 = tmp_LambertAxes$class_creation_2__class_decl_dict;
-            frame_95d7759476a32af7ce5820074abd4568_14->m_frame.f_lineno = 458;
+            frame_2588698ae371250ef3932b86b1d830b0_14->m_frame.f_lineno = 458;
             tmp_assign_source_130 = CALL_FUNCTION(tmp_called_name_28, tmp_args_name_28, tmp_kwargs_name_28);
             Py_DECREF(tmp_called_name_28);
             Py_DECREF(tmp_args_name_28);
@@ -38451,7 +38451,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_74;
             CHECK_OBJECT(tmp_LambertAxes$class_creation_2__prepared);
             tmp_expression_name_74 = tmp_LambertAxes$class_creation_2__prepared;
-            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_74, mod_consts[234]);
+            tmp_result = HAS_ATTR_BOOL(tmp_expression_name_74, mod_consts[233]);
             tmp_operand_name_15 = (tmp_result) ? Py_True : Py_False;
             tmp_res = CHECK_IF_TRUE(tmp_operand_name_15);
             if (tmp_res == -1) {
@@ -38482,11 +38482,11 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyObject *tmp_getattr_attr_15;
             PyObject *tmp_getattr_default_15;
             tmp_raise_type_15 = PyExc_TypeError;
-            tmp_left_name_15 = mod_consts[235];
+            tmp_left_name_15 = mod_consts[234];
             CHECK_OBJECT(tmp_LambertAxes$class_creation_2__metaclass);
             tmp_getattr_target_15 = tmp_LambertAxes$class_creation_2__metaclass;
             tmp_getattr_attr_15 = mod_consts[120];
-            tmp_getattr_default_15 = mod_consts[236];
+            tmp_getattr_default_15 = mod_consts[235];
             tmp_tuple_element_58 = BUILTIN_GETATTR(tmp_getattr_target_15, tmp_getattr_attr_15, tmp_getattr_default_15);
             if (tmp_tuple_element_58 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -38567,8 +38567,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[237];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__15_InvertedLambertTransform_458, mod_consts[238], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[236];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__15_InvertedLambertTransform_458, mod_consts[237], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -38579,8 +38579,8 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_49;
         }
-        tmp_dictset_value = mod_consts[340];
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__15_InvertedLambertTransform_458, mod_consts[240], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[339];
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__15_InvertedLambertTransform_458, mod_consts[239], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -38591,31 +38591,31 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             type_description_2 = "o";
             goto try_except_handler_49;
         }
-        if (isFrameUnusable(cache_frame_880306e0caf691c42a5112f48b1cb363_16)) {
-            Py_XDECREF(cache_frame_880306e0caf691c42a5112f48b1cb363_16);
+        if (isFrameUnusable(cache_frame_05f5091306fe100bfe7acb16addccbbe_16)) {
+            Py_XDECREF(cache_frame_05f5091306fe100bfe7acb16addccbbe_16);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_880306e0caf691c42a5112f48b1cb363_16 == NULL) {
+            if (cache_frame_05f5091306fe100bfe7acb16addccbbe_16 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_880306e0caf691c42a5112f48b1cb363_16 = MAKE_FUNCTION_FRAME(codeobj_880306e0caf691c42a5112f48b1cb363, module_matplotlib$projections$geo, sizeof(void *));
+            cache_frame_05f5091306fe100bfe7acb16addccbbe_16 = MAKE_FUNCTION_FRAME(codeobj_05f5091306fe100bfe7acb16addccbbe, module_matplotlib$projections$geo, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_880306e0caf691c42a5112f48b1cb363_16->m_type_description == NULL);
-        frame_880306e0caf691c42a5112f48b1cb363_16 = cache_frame_880306e0caf691c42a5112f48b1cb363_16;
+        assert(cache_frame_05f5091306fe100bfe7acb16addccbbe_16->m_type_description == NULL);
+        frame_05f5091306fe100bfe7acb16addccbbe_16 = cache_frame_05f5091306fe100bfe7acb16addccbbe_16;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_880306e0caf691c42a5112f48b1cb363_16);
+        pushFrameStack(frame_05f5091306fe100bfe7acb16addccbbe_16);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_880306e0caf691c42a5112f48b1cb363_16) == 2); // Frame stack
+        assert(Py_REFCNT(frame_05f5091306fe100bfe7acb16addccbbe_16) == 2); // Frame stack
 
         // Framed code:
 
@@ -38638,7 +38638,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__52_transform_non_affine();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__15_InvertedLambertTransform_458, mod_consts[305], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__15_InvertedLambertTransform_458, mod_consts[304], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -38654,7 +38654,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__53_inverted();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__15_InvertedLambertTransform_458, mod_consts[307], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__15_InvertedLambertTransform_458, mod_consts[306], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -38668,7 +38668,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_880306e0caf691c42a5112f48b1cb363_16);
+        RESTORE_FRAME_EXCEPTION(frame_05f5091306fe100bfe7acb16addccbbe_16);
 #endif
 
         // Put the previous frame back on top.
@@ -38679,35 +38679,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         frame_exception_exit_16:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_880306e0caf691c42a5112f48b1cb363_16);
+        RESTORE_FRAME_EXCEPTION(frame_05f5091306fe100bfe7acb16addccbbe_16);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_880306e0caf691c42a5112f48b1cb363_16, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_880306e0caf691c42a5112f48b1cb363_16->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_880306e0caf691c42a5112f48b1cb363_16, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_05f5091306fe100bfe7acb16addccbbe_16, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_05f5091306fe100bfe7acb16addccbbe_16->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_05f5091306fe100bfe7acb16addccbbe_16, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_880306e0caf691c42a5112f48b1cb363_16,
+            frame_05f5091306fe100bfe7acb16addccbbe_16,
             type_description_3,
             outline_14_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_880306e0caf691c42a5112f48b1cb363_16 == cache_frame_880306e0caf691c42a5112f48b1cb363_16) {
+        if (frame_05f5091306fe100bfe7acb16addccbbe_16 == cache_frame_05f5091306fe100bfe7acb16addccbbe_16) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_880306e0caf691c42a5112f48b1cb363_16);
-            cache_frame_880306e0caf691c42a5112f48b1cb363_16 = NULL;
+            Py_DECREF(cache_frame_05f5091306fe100bfe7acb16addccbbe_16);
+            cache_frame_05f5091306fe100bfe7acb16addccbbe_16 = NULL;
         }
 
-        assertFrameObject(frame_880306e0caf691c42a5112f48b1cb363_16);
+        assertFrameObject(frame_05f5091306fe100bfe7acb16addccbbe_16);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -38750,7 +38750,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_59:;
         CHECK_OBJECT(tmp_LambertAxes$class_creation_2__bases_orig);
         tmp_dictset_value = tmp_LambertAxes$class_creation_2__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__15_InvertedLambertTransform_458, mod_consts[248], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__15_InvertedLambertTransform_458, mod_consts[247], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -38780,7 +38780,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_29, 2, tmp_tuple_element_59);
             CHECK_OBJECT(tmp_LambertAxes$class_creation_2__class_decl_dict);
             tmp_kwargs_name_29 = tmp_LambertAxes$class_creation_2__class_decl_dict;
-            frame_95d7759476a32af7ce5820074abd4568_14->m_frame.f_lineno = 458;
+            frame_2588698ae371250ef3932b86b1d830b0_14->m_frame.f_lineno = 458;
             tmp_assign_source_132 = CALL_FUNCTION(tmp_called_name_29, tmp_args_name_29, tmp_kwargs_name_29);
             Py_DECREF(tmp_args_name_29);
             if (tmp_assign_source_132 == NULL) {
@@ -38918,7 +38918,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         tmp_LambertAxes$class_creation_2__prepared = NULL;
         {
             PyObject *tmp_kw_defaults_1;
-            tmp_kw_defaults_1 = PyDict_Copy(mod_consts[344]);
+            tmp_kw_defaults_1 = PyDict_Copy(mod_consts[343]);
 
 
             tmp_dictset_value = MAKE_FUNCTION_matplotlib$projections$geo$$$function__54___init__(tmp_kw_defaults_1);
@@ -38986,7 +38986,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_95d7759476a32af7ce5820074abd4568_14);
+        RESTORE_FRAME_EXCEPTION(frame_2588698ae371250ef3932b86b1d830b0_14);
 #endif
 
         // Put the previous frame back on top.
@@ -38997,35 +38997,35 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         frame_exception_exit_14:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_95d7759476a32af7ce5820074abd4568_14);
+        RESTORE_FRAME_EXCEPTION(frame_2588698ae371250ef3932b86b1d830b0_14);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_95d7759476a32af7ce5820074abd4568_14, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_95d7759476a32af7ce5820074abd4568_14->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_95d7759476a32af7ce5820074abd4568_14, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_2588698ae371250ef3932b86b1d830b0_14, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_2588698ae371250ef3932b86b1d830b0_14->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_2588698ae371250ef3932b86b1d830b0_14, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_95d7759476a32af7ce5820074abd4568_14,
+            frame_2588698ae371250ef3932b86b1d830b0_14,
             type_description_2,
             outline_12_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_95d7759476a32af7ce5820074abd4568_14 == cache_frame_95d7759476a32af7ce5820074abd4568_14) {
+        if (frame_2588698ae371250ef3932b86b1d830b0_14 == cache_frame_2588698ae371250ef3932b86b1d830b0_14) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_95d7759476a32af7ce5820074abd4568_14);
-            cache_frame_95d7759476a32af7ce5820074abd4568_14 = NULL;
+            Py_DECREF(cache_frame_2588698ae371250ef3932b86b1d830b0_14);
+            cache_frame_2588698ae371250ef3932b86b1d830b0_14 = NULL;
         }
 
-        assertFrameObject(frame_95d7759476a32af7ce5820074abd4568_14);
+        assertFrameObject(frame_2588698ae371250ef3932b86b1d830b0_14);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -39068,7 +39068,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
         branch_yes_60:;
         CHECK_OBJECT(tmp_class_creation_6__bases_orig);
         tmp_dictset_value = tmp_class_creation_6__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__13_LambertAxes_416, mod_consts[248], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$projections$geo$$$class__13_LambertAxes_416, mod_consts[247], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -39098,7 +39098,7 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_30, 2, tmp_tuple_element_60);
             CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
             tmp_kwargs_name_30 = tmp_class_creation_6__class_decl_dict;
-            frame_f94733532f7452e32521170ca8949a16->m_frame.f_lineno = 416;
+            frame_10c0ea44966d5b64acb650720d0c71f4->m_frame.f_lineno = 416;
             tmp_assign_source_133 = CALL_FUNCTION(tmp_called_name_30, tmp_args_name_30, tmp_kwargs_name_30);
             Py_DECREF(tmp_args_name_30);
             if (tmp_assign_source_133 == NULL) {
@@ -39215,23 +39215,23 @@ PyObject *modulecode_matplotlib$projections$geo(PyObject *module, struct Nuitka_
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f94733532f7452e32521170ca8949a16);
+    RESTORE_FRAME_EXCEPTION(frame_10c0ea44966d5b64acb650720d0c71f4);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_f94733532f7452e32521170ca8949a16);
+    assertFrameObject(frame_10c0ea44966d5b64acb650720d0c71f4);
 
     goto frame_no_exception_16;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f94733532f7452e32521170ca8949a16);
+    RESTORE_FRAME_EXCEPTION(frame_10c0ea44966d5b64acb650720d0c71f4);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_f94733532f7452e32521170ca8949a16, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_f94733532f7452e32521170ca8949a16->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_f94733532f7452e32521170ca8949a16, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_10c0ea44966d5b64acb650720d0c71f4, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_10c0ea44966d5b64acb650720d0c71f4->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_10c0ea44966d5b64acb650720d0c71f4, exception_lineno);
     }
 
     // Put the previous frame back on top.

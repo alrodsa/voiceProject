@@ -65,21 +65,21 @@ void checkModuleConstants_PIL$TiffTags(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_9724090897a44740195f6ef0dad03089;
-static PyCodeObject *codeobj_5387bf87767f819db8c170fb4f4314b2;
-static PyCodeObject *codeobj_721cc3fc823f7bd6127f4748bd14baf1;
-static PyCodeObject *codeobj_eb2db95c9b81060c02bb287e1effa23f;
-static PyCodeObject *codeobj_3a5bbf14d0d125ce6560c06e4bd28c53;
-static PyCodeObject *codeobj_a1662476dfc811fa9d152236e9d024d2;
+static PyCodeObject *codeobj_bcbb63d4f32c0e07635b09419af7dfd6;
+static PyCodeObject *codeobj_e70a699bd3421550e1e6a849ab96b3ee;
+static PyCodeObject *codeobj_23fa02bf1e7cf9f5160e93f47e5ecda5;
+static PyCodeObject *codeobj_3390c78e45df8e109b4a20a90daa161d;
+static PyCodeObject *codeobj_b6b7764d46ae4ff8ef6ea9b0ff6d15c9;
+static PyCodeObject *codeobj_7d6457341f65977366905f17c3de0863;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[18]; CHECK_OBJECT(module_filename_obj);
-    codeobj_9724090897a44740195f6ef0dad03089 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[293], NULL, NULL, 0, 0, 0);
-    codeobj_5387bf87767f819db8c170fb4f4314b2 = MAKE_CODEOBJECT(module_filename_obj, 23, CO_NOFREE, mod_consts[6], mod_consts[294], NULL, 0, 0, 0);
-    codeobj_721cc3fc823f7bd6127f4748bd14baf1 = MAKE_CODEOBJECT(module_filename_obj, 26, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[1], mod_consts[295], mod_consts[294], 6, 0, 0);
-    codeobj_eb2db95c9b81060c02bb287e1effa23f = MAKE_CODEOBJECT(module_filename_obj, 359, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[281], mod_consts[296], NULL, 0, 0, 0);
-    codeobj_3a5bbf14d0d125ce6560c06e4bd28c53 = MAKE_CODEOBJECT(module_filename_obj, 29, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[40], mod_consts[297], NULL, 2, 0, 0);
-    codeobj_a1662476dfc811fa9d152236e9d024d2 = MAKE_CODEOBJECT(module_filename_obj, 36, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[43], mod_consts[298], NULL, 1, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[292]); CHECK_OBJECT(module_filename_obj);
+    codeobj_bcbb63d4f32c0e07635b09419af7dfd6 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[293], NULL, NULL, 0, 0, 0);
+    codeobj_e70a699bd3421550e1e6a849ab96b3ee = MAKE_CODEOBJECT(module_filename_obj, 23, CO_NOFREE, mod_consts[6], mod_consts[294], NULL, 0, 0, 0);
+    codeobj_23fa02bf1e7cf9f5160e93f47e5ecda5 = MAKE_CODEOBJECT(module_filename_obj, 26, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[1], mod_consts[295], mod_consts[294], 6, 0, 0);
+    codeobj_3390c78e45df8e109b4a20a90daa161d = MAKE_CODEOBJECT(module_filename_obj, 359, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[280], mod_consts[296], NULL, 0, 0, 0);
+    codeobj_b6b7764d46ae4ff8ef6ea9b0ff6d15c9 = MAKE_CODEOBJECT(module_filename_obj, 29, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[39], mod_consts[297], NULL, 2, 0, 0);
+    codeobj_7d6457341f65977366905f17c3de0863 = MAKE_CODEOBJECT(module_filename_obj, 36, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[42], mod_consts[298], NULL, 1, 0, 0);
 }
 
 // The module function declarations.
@@ -115,14 +115,14 @@ static PyObject *impl_PIL$TiffTags$$$function__1___new__(struct Nuitka_FunctionO
     PyObject *par_type = python_pars[3];
     PyObject *par_length = python_pars[4];
     PyObject *par_enum = python_pars[5];
-    struct Nuitka_FrameObject *frame_721cc3fc823f7bd6127f4748bd14baf1;
+    struct Nuitka_FrameObject *frame_23fa02bf1e7cf9f5160e93f47e5ecda5;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_721cc3fc823f7bd6127f4748bd14baf1 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_23fa02bf1e7cf9f5160e93f47e5ecda5 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -130,31 +130,31 @@ static PyObject *impl_PIL$TiffTags$$$function__1___new__(struct Nuitka_FunctionO
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_721cc3fc823f7bd6127f4748bd14baf1)) {
-        Py_XDECREF(cache_frame_721cc3fc823f7bd6127f4748bd14baf1);
+    if (isFrameUnusable(cache_frame_23fa02bf1e7cf9f5160e93f47e5ecda5)) {
+        Py_XDECREF(cache_frame_23fa02bf1e7cf9f5160e93f47e5ecda5);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_721cc3fc823f7bd6127f4748bd14baf1 == NULL) {
+        if (cache_frame_23fa02bf1e7cf9f5160e93f47e5ecda5 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_721cc3fc823f7bd6127f4748bd14baf1 = MAKE_FUNCTION_FRAME(codeobj_721cc3fc823f7bd6127f4748bd14baf1, module_PIL$TiffTags, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_23fa02bf1e7cf9f5160e93f47e5ecda5 = MAKE_FUNCTION_FRAME(codeobj_23fa02bf1e7cf9f5160e93f47e5ecda5, module_PIL$TiffTags, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_721cc3fc823f7bd6127f4748bd14baf1->m_type_description == NULL);
-    frame_721cc3fc823f7bd6127f4748bd14baf1 = cache_frame_721cc3fc823f7bd6127f4748bd14baf1;
+    assert(cache_frame_23fa02bf1e7cf9f5160e93f47e5ecda5->m_type_description == NULL);
+    frame_23fa02bf1e7cf9f5160e93f47e5ecda5 = cache_frame_23fa02bf1e7cf9f5160e93f47e5ecda5;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_721cc3fc823f7bd6127f4748bd14baf1);
+    pushFrameStack(frame_23fa02bf1e7cf9f5160e93f47e5ecda5);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_721cc3fc823f7bd6127f4748bd14baf1) == 2); // Frame stack
+    assert(Py_REFCNT(frame_23fa02bf1e7cf9f5160e93f47e5ecda5) == 2); // Frame stack
 
     // Framed code:
     {
@@ -245,7 +245,7 @@ static PyObject *impl_PIL$TiffTags$$$function__1___new__(struct Nuitka_FunctionO
         Py_INCREF(tmp_or_left_value_1);
         tmp_args_element_name_6 = tmp_or_left_value_1;
         or_end_1:;
-        frame_721cc3fc823f7bd6127f4748bd14baf1->m_frame.f_lineno = 27;
+        frame_23fa02bf1e7cf9f5160e93f47e5ecda5->m_frame.f_lineno = 27;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS6(tmp_called_name_1, call_args);
@@ -267,7 +267,7 @@ static PyObject *impl_PIL$TiffTags$$$function__1___new__(struct Nuitka_FunctionO
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_721cc3fc823f7bd6127f4748bd14baf1);
+    RESTORE_FRAME_EXCEPTION(frame_23fa02bf1e7cf9f5160e93f47e5ecda5);
 #endif
 
     // Put the previous frame back on top.
@@ -277,7 +277,7 @@ static PyObject *impl_PIL$TiffTags$$$function__1___new__(struct Nuitka_FunctionO
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_721cc3fc823f7bd6127f4748bd14baf1);
+    RESTORE_FRAME_EXCEPTION(frame_23fa02bf1e7cf9f5160e93f47e5ecda5);
 #endif
 
     // Put the previous frame back on top.
@@ -288,18 +288,18 @@ static PyObject *impl_PIL$TiffTags$$$function__1___new__(struct Nuitka_FunctionO
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_721cc3fc823f7bd6127f4748bd14baf1);
+    RESTORE_FRAME_EXCEPTION(frame_23fa02bf1e7cf9f5160e93f47e5ecda5);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_721cc3fc823f7bd6127f4748bd14baf1, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_721cc3fc823f7bd6127f4748bd14baf1->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_721cc3fc823f7bd6127f4748bd14baf1, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_23fa02bf1e7cf9f5160e93f47e5ecda5, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_23fa02bf1e7cf9f5160e93f47e5ecda5->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_23fa02bf1e7cf9f5160e93f47e5ecda5, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_721cc3fc823f7bd6127f4748bd14baf1,
+        frame_23fa02bf1e7cf9f5160e93f47e5ecda5,
         type_description_1,
         par_cls,
         par_value,
@@ -312,17 +312,17 @@ static PyObject *impl_PIL$TiffTags$$$function__1___new__(struct Nuitka_FunctionO
 
 
     // Release cached frame if used for exception.
-    if (frame_721cc3fc823f7bd6127f4748bd14baf1 == cache_frame_721cc3fc823f7bd6127f4748bd14baf1) {
+    if (frame_23fa02bf1e7cf9f5160e93f47e5ecda5 == cache_frame_23fa02bf1e7cf9f5160e93f47e5ecda5) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_721cc3fc823f7bd6127f4748bd14baf1);
-        cache_frame_721cc3fc823f7bd6127f4748bd14baf1 = NULL;
+        Py_DECREF(cache_frame_23fa02bf1e7cf9f5160e93f47e5ecda5);
+        cache_frame_23fa02bf1e7cf9f5160e93f47e5ecda5 = NULL;
     }
 
-    assertFrameObject(frame_721cc3fc823f7bd6127f4748bd14baf1);
+    assertFrameObject(frame_23fa02bf1e7cf9f5160e93f47e5ecda5);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -412,14 +412,14 @@ static PyObject *impl_PIL$TiffTags$$$function__2_cvt_enum(struct Nuitka_Function
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_value = python_pars[1];
-    struct Nuitka_FrameObject *frame_3a5bbf14d0d125ce6560c06e4bd28c53;
+    struct Nuitka_FrameObject *frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_3a5bbf14d0d125ce6560c06e4bd28c53 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -427,31 +427,31 @@ static PyObject *impl_PIL$TiffTags$$$function__2_cvt_enum(struct Nuitka_Function
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_3a5bbf14d0d125ce6560c06e4bd28c53)) {
-        Py_XDECREF(cache_frame_3a5bbf14d0d125ce6560c06e4bd28c53);
+    if (isFrameUnusable(cache_frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9)) {
+        Py_XDECREF(cache_frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_3a5bbf14d0d125ce6560c06e4bd28c53 == NULL) {
+        if (cache_frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_3a5bbf14d0d125ce6560c06e4bd28c53 = MAKE_FUNCTION_FRAME(codeobj_3a5bbf14d0d125ce6560c06e4bd28c53, module_PIL$TiffTags, sizeof(void *)+sizeof(void *));
+        cache_frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9 = MAKE_FUNCTION_FRAME(codeobj_b6b7764d46ae4ff8ef6ea9b0ff6d15c9, module_PIL$TiffTags, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_3a5bbf14d0d125ce6560c06e4bd28c53->m_type_description == NULL);
-    frame_3a5bbf14d0d125ce6560c06e4bd28c53 = cache_frame_3a5bbf14d0d125ce6560c06e4bd28c53;
+    assert(cache_frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9->m_type_description == NULL);
+    frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9 = cache_frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_3a5bbf14d0d125ce6560c06e4bd28c53);
+    pushFrameStack(frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_3a5bbf14d0d125ce6560c06e4bd28c53) == 2); // Frame stack
+    assert(Py_REFCNT(frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9) == 2); // Frame stack
 
     // Framed code:
     {
@@ -523,7 +523,7 @@ static PyObject *impl_PIL$TiffTags$$$function__2_cvt_enum(struct Nuitka_Function
         tmp_args_element_name_1 = par_value;
         CHECK_OBJECT(par_value);
         tmp_args_element_name_2 = par_value;
-        frame_3a5bbf14d0d125ce6560c06e4bd28c53->m_frame.f_lineno = 33;
+        frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9->m_frame.f_lineno = 33;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_METHOD_WITH_ARGS2(
@@ -554,7 +554,7 @@ static PyObject *impl_PIL$TiffTags$$$function__2_cvt_enum(struct Nuitka_Function
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3a5bbf14d0d125ce6560c06e4bd28c53);
+    RESTORE_FRAME_EXCEPTION(frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9);
 #endif
 
     // Put the previous frame back on top.
@@ -564,7 +564,7 @@ static PyObject *impl_PIL$TiffTags$$$function__2_cvt_enum(struct Nuitka_Function
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3a5bbf14d0d125ce6560c06e4bd28c53);
+    RESTORE_FRAME_EXCEPTION(frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9);
 #endif
 
     // Put the previous frame back on top.
@@ -575,18 +575,18 @@ static PyObject *impl_PIL$TiffTags$$$function__2_cvt_enum(struct Nuitka_Function
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3a5bbf14d0d125ce6560c06e4bd28c53);
+    RESTORE_FRAME_EXCEPTION(frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_3a5bbf14d0d125ce6560c06e4bd28c53, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_3a5bbf14d0d125ce6560c06e4bd28c53->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_3a5bbf14d0d125ce6560c06e4bd28c53, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_3a5bbf14d0d125ce6560c06e4bd28c53,
+        frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9,
         type_description_1,
         par_self,
         par_value
@@ -594,17 +594,17 @@ static PyObject *impl_PIL$TiffTags$$$function__2_cvt_enum(struct Nuitka_Function
 
 
     // Release cached frame if used for exception.
-    if (frame_3a5bbf14d0d125ce6560c06e4bd28c53 == cache_frame_3a5bbf14d0d125ce6560c06e4bd28c53) {
+    if (frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9 == cache_frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_3a5bbf14d0d125ce6560c06e4bd28c53);
-        cache_frame_3a5bbf14d0d125ce6560c06e4bd28c53 = NULL;
+        Py_DECREF(cache_frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9);
+        cache_frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9 = NULL;
     }
 
-    assertFrameObject(frame_3a5bbf14d0d125ce6560c06e4bd28c53);
+    assertFrameObject(frame_b6b7764d46ae4ff8ef6ea9b0ff6d15c9);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -675,14 +675,14 @@ static PyObject *impl_PIL$TiffTags$$$function__3_lookup(struct Nuitka_FunctionOb
 
     // Local variable declarations.
     PyObject *par_tag = python_pars[0];
-    struct Nuitka_FrameObject *frame_a1662476dfc811fa9d152236e9d024d2;
+    struct Nuitka_FrameObject *frame_7d6457341f65977366905f17c3de0863;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_a1662476dfc811fa9d152236e9d024d2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_7d6457341f65977366905f17c3de0863 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -690,31 +690,31 @@ static PyObject *impl_PIL$TiffTags$$$function__3_lookup(struct Nuitka_FunctionOb
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_a1662476dfc811fa9d152236e9d024d2)) {
-        Py_XDECREF(cache_frame_a1662476dfc811fa9d152236e9d024d2);
+    if (isFrameUnusable(cache_frame_7d6457341f65977366905f17c3de0863)) {
+        Py_XDECREF(cache_frame_7d6457341f65977366905f17c3de0863);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_a1662476dfc811fa9d152236e9d024d2 == NULL) {
+        if (cache_frame_7d6457341f65977366905f17c3de0863 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_a1662476dfc811fa9d152236e9d024d2 = MAKE_FUNCTION_FRAME(codeobj_a1662476dfc811fa9d152236e9d024d2, module_PIL$TiffTags, sizeof(void *));
+        cache_frame_7d6457341f65977366905f17c3de0863 = MAKE_FUNCTION_FRAME(codeobj_7d6457341f65977366905f17c3de0863, module_PIL$TiffTags, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_a1662476dfc811fa9d152236e9d024d2->m_type_description == NULL);
-    frame_a1662476dfc811fa9d152236e9d024d2 = cache_frame_a1662476dfc811fa9d152236e9d024d2;
+    assert(cache_frame_7d6457341f65977366905f17c3de0863->m_type_description == NULL);
+    frame_7d6457341f65977366905f17c3de0863 = cache_frame_7d6457341f65977366905f17c3de0863;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_a1662476dfc811fa9d152236e9d024d2);
+    pushFrameStack(frame_7d6457341f65977366905f17c3de0863);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_a1662476dfc811fa9d152236e9d024d2) == 2); // Frame stack
+    assert(Py_REFCNT(frame_7d6457341f65977366905f17c3de0863) == 2); // Frame stack
 
     // Framed code:
     {
@@ -794,7 +794,7 @@ static PyObject *impl_PIL$TiffTags$$$function__3_lookup(struct Nuitka_FunctionOb
         CHECK_OBJECT(par_tag);
         tmp_args_element_name_5 = par_tag;
         tmp_args_element_name_6 = mod_consts[8];
-        frame_a1662476dfc811fa9d152236e9d024d2->m_frame.f_lineno = 45;
+        frame_7d6457341f65977366905f17c3de0863->m_frame.f_lineno = 45;
         {
             PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_args_element_name_4 = CALL_METHOD_WITH_ARGS2(
@@ -814,7 +814,7 @@ static PyObject *impl_PIL$TiffTags$$$function__3_lookup(struct Nuitka_FunctionOb
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_a1662476dfc811fa9d152236e9d024d2->m_frame.f_lineno = 45;
+        frame_7d6457341f65977366905f17c3de0863->m_frame.f_lineno = 45;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_args_element_name_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -831,7 +831,7 @@ static PyObject *impl_PIL$TiffTags$$$function__3_lookup(struct Nuitka_FunctionOb
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_a1662476dfc811fa9d152236e9d024d2->m_frame.f_lineno = 45;
+        frame_7d6457341f65977366905f17c3de0863->m_frame.f_lineno = 45;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -853,7 +853,7 @@ static PyObject *impl_PIL$TiffTags$$$function__3_lookup(struct Nuitka_FunctionOb
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a1662476dfc811fa9d152236e9d024d2);
+    RESTORE_FRAME_EXCEPTION(frame_7d6457341f65977366905f17c3de0863);
 #endif
 
     // Put the previous frame back on top.
@@ -863,7 +863,7 @@ static PyObject *impl_PIL$TiffTags$$$function__3_lookup(struct Nuitka_FunctionOb
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a1662476dfc811fa9d152236e9d024d2);
+    RESTORE_FRAME_EXCEPTION(frame_7d6457341f65977366905f17c3de0863);
 #endif
 
     // Put the previous frame back on top.
@@ -874,35 +874,35 @@ static PyObject *impl_PIL$TiffTags$$$function__3_lookup(struct Nuitka_FunctionOb
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a1662476dfc811fa9d152236e9d024d2);
+    RESTORE_FRAME_EXCEPTION(frame_7d6457341f65977366905f17c3de0863);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a1662476dfc811fa9d152236e9d024d2, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a1662476dfc811fa9d152236e9d024d2->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a1662476dfc811fa9d152236e9d024d2, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_7d6457341f65977366905f17c3de0863, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_7d6457341f65977366905f17c3de0863->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_7d6457341f65977366905f17c3de0863, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_a1662476dfc811fa9d152236e9d024d2,
+        frame_7d6457341f65977366905f17c3de0863,
         type_description_1,
         par_tag
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_a1662476dfc811fa9d152236e9d024d2 == cache_frame_a1662476dfc811fa9d152236e9d024d2) {
+    if (frame_7d6457341f65977366905f17c3de0863 == cache_frame_7d6457341f65977366905f17c3de0863) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_a1662476dfc811fa9d152236e9d024d2);
-        cache_frame_a1662476dfc811fa9d152236e9d024d2 = NULL;
+        Py_DECREF(cache_frame_7d6457341f65977366905f17c3de0863);
+        cache_frame_7d6457341f65977366905f17c3de0863 = NULL;
     }
 
-    assertFrameObject(frame_a1662476dfc811fa9d152236e9d024d2);
+    assertFrameObject(frame_7d6457341f65977366905f17c3de0863);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -982,7 +982,7 @@ static PyObject *impl_PIL$TiffTags$$$function__4__populate(struct Nuitka_Functio
     PyObject *tmp_tuple_unpack_2__element_1 = NULL;
     PyObject *tmp_tuple_unpack_2__element_2 = NULL;
     PyObject *tmp_tuple_unpack_2__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_eb2db95c9b81060c02bb287e1effa23f;
+    struct Nuitka_FrameObject *frame_3390c78e45df8e109b4a20a90daa161d;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -1014,7 +1014,7 @@ static PyObject *impl_PIL$TiffTags$$$function__4__populate(struct Nuitka_Functio
     PyObject *exception_keeper_value_6;
     PyTracebackObject *exception_keeper_tb_6;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_6;
-    static struct Nuitka_FrameObject *cache_frame_eb2db95c9b81060c02bb287e1effa23f = NULL;
+    static struct Nuitka_FrameObject *cache_frame_3390c78e45df8e109b4a20a90daa161d = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_7;
     PyObject *exception_keeper_value_7;
@@ -1023,31 +1023,31 @@ static PyObject *impl_PIL$TiffTags$$$function__4__populate(struct Nuitka_Functio
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_eb2db95c9b81060c02bb287e1effa23f)) {
-        Py_XDECREF(cache_frame_eb2db95c9b81060c02bb287e1effa23f);
+    if (isFrameUnusable(cache_frame_3390c78e45df8e109b4a20a90daa161d)) {
+        Py_XDECREF(cache_frame_3390c78e45df8e109b4a20a90daa161d);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_eb2db95c9b81060c02bb287e1effa23f == NULL) {
+        if (cache_frame_3390c78e45df8e109b4a20a90daa161d == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_eb2db95c9b81060c02bb287e1effa23f = MAKE_FUNCTION_FRAME(codeobj_eb2db95c9b81060c02bb287e1effa23f, module_PIL$TiffTags, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_3390c78e45df8e109b4a20a90daa161d = MAKE_FUNCTION_FRAME(codeobj_3390c78e45df8e109b4a20a90daa161d, module_PIL$TiffTags, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_eb2db95c9b81060c02bb287e1effa23f->m_type_description == NULL);
-    frame_eb2db95c9b81060c02bb287e1effa23f = cache_frame_eb2db95c9b81060c02bb287e1effa23f;
+    assert(cache_frame_3390c78e45df8e109b4a20a90daa161d->m_type_description == NULL);
+    frame_3390c78e45df8e109b4a20a90daa161d = cache_frame_3390c78e45df8e109b4a20a90daa161d;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_eb2db95c9b81060c02bb287e1effa23f);
+    pushFrameStack(frame_3390c78e45df8e109b4a20a90daa161d);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_eb2db95c9b81060c02bb287e1effa23f) == 2); // Frame stack
+    assert(Py_REFCNT(frame_3390c78e45df8e109b4a20a90daa161d) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1070,7 +1070,7 @@ static PyObject *impl_PIL$TiffTags$$$function__4__populate(struct Nuitka_Functio
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_eb2db95c9b81060c02bb287e1effa23f->m_frame.f_lineno = 360;
+        frame_3390c78e45df8e109b4a20a90daa161d->m_frame.f_lineno = 360;
         tmp_iter_arg_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[10]);
         if (tmp_iter_arg_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1441,7 +1441,7 @@ static PyObject *impl_PIL$TiffTags$$$function__4__populate(struct Nuitka_Functio
             type_description_1 = "oooo";
             goto try_except_handler_2;
         }
-        frame_eb2db95c9b81060c02bb287e1effa23f->m_frame.f_lineno = 364;
+        frame_3390c78e45df8e109b4a20a90daa161d->m_frame.f_lineno = 364;
         tmp_iter_arg_3 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[10]);
         Py_DECREF(tmp_called_instance_2);
         if (tmp_iter_arg_3 == NULL) {
@@ -1949,7 +1949,7 @@ static PyObject *impl_PIL$TiffTags$$$function__4__populate(struct Nuitka_Functio
     try_end_6:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_eb2db95c9b81060c02bb287e1effa23f);
+    RESTORE_FRAME_EXCEPTION(frame_3390c78e45df8e109b4a20a90daa161d);
 #endif
 
     // Put the previous frame back on top.
@@ -1960,18 +1960,18 @@ static PyObject *impl_PIL$TiffTags$$$function__4__populate(struct Nuitka_Functio
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_eb2db95c9b81060c02bb287e1effa23f);
+    RESTORE_FRAME_EXCEPTION(frame_3390c78e45df8e109b4a20a90daa161d);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_eb2db95c9b81060c02bb287e1effa23f, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_eb2db95c9b81060c02bb287e1effa23f->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_eb2db95c9b81060c02bb287e1effa23f, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_3390c78e45df8e109b4a20a90daa161d, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_3390c78e45df8e109b4a20a90daa161d->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_3390c78e45df8e109b4a20a90daa161d, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_eb2db95c9b81060c02bb287e1effa23f,
+        frame_3390c78e45df8e109b4a20a90daa161d,
         type_description_1,
         var_k,
         var_v,
@@ -1981,17 +1981,17 @@ static PyObject *impl_PIL$TiffTags$$$function__4__populate(struct Nuitka_Functio
 
 
     // Release cached frame if used for exception.
-    if (frame_eb2db95c9b81060c02bb287e1effa23f == cache_frame_eb2db95c9b81060c02bb287e1effa23f) {
+    if (frame_3390c78e45df8e109b4a20a90daa161d == cache_frame_3390c78e45df8e109b4a20a90daa161d) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_eb2db95c9b81060c02bb287e1effa23f);
-        cache_frame_eb2db95c9b81060c02bb287e1effa23f = NULL;
+        Py_DECREF(cache_frame_3390c78e45df8e109b4a20a90daa161d);
+        cache_frame_3390c78e45df8e109b4a20a90daa161d = NULL;
     }
 
-    assertFrameObject(frame_eb2db95c9b81060c02bb287e1effa23f);
+    assertFrameObject(frame_3390c78e45df8e109b4a20a90daa161d);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2075,9 +2075,9 @@ static PyObject *MAKE_FUNCTION_PIL$TiffTags$$$function__1___new__(PyObject *defa
         impl_PIL$TiffTags$$$function__1___new__,
         mod_consts[1],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[39],
+        mod_consts[38],
 #endif
-        codeobj_721cc3fc823f7bd6127f4748bd14baf1,
+        codeobj_23fa02bf1e7cf9f5160e93f47e5ecda5,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2098,11 +2098,11 @@ static PyObject *MAKE_FUNCTION_PIL$TiffTags$$$function__1___new__(PyObject *defa
 static PyObject *MAKE_FUNCTION_PIL$TiffTags$$$function__2_cvt_enum() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_PIL$TiffTags$$$function__2_cvt_enum,
-        mod_consts[40],
+        mod_consts[39],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[41],
+        mod_consts[40],
 #endif
-        codeobj_3a5bbf14d0d125ce6560c06e4bd28c53,
+        codeobj_b6b7764d46ae4ff8ef6ea9b0ff6d15c9,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2123,11 +2123,11 @@ static PyObject *MAKE_FUNCTION_PIL$TiffTags$$$function__2_cvt_enum() {
 static PyObject *MAKE_FUNCTION_PIL$TiffTags$$$function__3_lookup() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_PIL$TiffTags$$$function__3_lookup,
-        mod_consts[43],
+        mod_consts[42],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_a1662476dfc811fa9d152236e9d024d2,
+        codeobj_7d6457341f65977366905f17c3de0863,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2148,11 +2148,11 @@ static PyObject *MAKE_FUNCTION_PIL$TiffTags$$$function__3_lookup() {
 static PyObject *MAKE_FUNCTION_PIL$TiffTags$$$function__4__populate() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_PIL$TiffTags$$$function__4__populate,
-        mod_consts[281],
+        mod_consts[280],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_eb2db95c9b81060c02bb287e1effa23f,
+        codeobj_3390c78e45df8e109b4a20a90daa161d,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2549,7 +2549,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
     PyObject *tmp_class_creation_1__class_decl_dict = NULL;
     PyObject *tmp_class_creation_1__metaclass = NULL;
     PyObject *tmp_class_creation_1__prepared = NULL;
-    struct Nuitka_FrameObject *frame_9724090897a44740195f6ef0dad03089;
+    struct Nuitka_FrameObject *frame_bcbb63d4f32c0e07635b09419af7dfd6;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -2561,9 +2561,9 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
     PyObject *tmp_dictdel_key;
     PyObject *locals_PIL$TiffTags$$$class__1_TagInfo_23 = NULL;
     PyObject *tmp_dictset_value;
-    struct Nuitka_FrameObject *frame_5387bf87767f819db8c170fb4f4314b2_2;
+    struct Nuitka_FrameObject *frame_e70a699bd3421550e1e6a849ab96b3ee_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_5387bf87767f819db8c170fb4f4314b2_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_e70a699bd3421550e1e6a849ab96b3ee_2 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -2586,30 +2586,30 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[18];
-        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[19], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[18], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_9724090897a44740195f6ef0dad03089 = MAKE_MODULE_FRAME(codeobj_9724090897a44740195f6ef0dad03089, module_PIL$TiffTags);
+    frame_bcbb63d4f32c0e07635b09419af7dfd6 = MAKE_MODULE_FRAME(codeobj_bcbb63d4f32c0e07635b09419af7dfd6, module_PIL$TiffTags);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_9724090897a44740195f6ef0dad03089);
-    assert(Py_REFCNT(frame_9724090897a44740195f6ef0dad03089) == 2);
+    pushFrameStack(frame_bcbb63d4f32c0e07635b09419af7dfd6);
+    assert(Py_REFCNT(frame_bcbb63d4f32c0e07635b09419af7dfd6) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[18];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[20]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[19]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[20]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[19]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[21], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[20], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -2625,14 +2625,14 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[20]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[19]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[20]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[19]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[22], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[21], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -2647,7 +2647,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[23], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[22], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -2657,12 +2657,12 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[24];
+        tmp_name_name_1 = mod_consts[23];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_PIL$TiffTags;
         tmp_locals_arg_name_1 = Py_None;
-        tmp_fromlist_name_1 = mod_consts[25];
+        tmp_fromlist_name_1 = mod_consts[24];
         tmp_level_name_1 = mod_consts[12];
-        frame_9724090897a44740195f6ef0dad03089->m_frame.f_lineno = 20;
+        frame_bcbb63d4f32c0e07635b09419af7dfd6->m_frame.f_lineno = 20;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2678,11 +2678,11 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_assign_source_4 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_1,
                 (PyObject *)moduledict_PIL$TiffTags,
-                mod_consts[26],
+                mod_consts[25],
                 mod_consts[12]
             );
         } else {
-            tmp_assign_source_4 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[26]);
+            tmp_assign_source_4 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[25]);
         }
 
         Py_DECREF(tmp_import_name_from_1);
@@ -2696,22 +2696,22 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[26], tmp_assign_source_4);
+        UPDATE_STRING_DICT1(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[25], tmp_assign_source_4);
     }
     // Tried code:
     {
         PyObject *tmp_assign_source_5;
         PyObject *tmp_tuple_element_1;
         PyObject *tmp_called_name_1;
-        tmp_called_name_1 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[26]);
+        tmp_called_name_1 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[25]);
 
         if (unlikely(tmp_called_name_1 == NULL)) {
-            tmp_called_name_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[26]);
+            tmp_called_name_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[25]);
         }
 
         assert(!(tmp_called_name_1 == NULL));
-        frame_9724090897a44740195f6ef0dad03089->m_frame.f_lineno = 23;
-        tmp_tuple_element_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, &PyTuple_GET_ITEM(mod_consts[27], 0));
+        frame_bcbb63d4f32c0e07635b09419af7dfd6->m_frame.f_lineno = 23;
+        tmp_tuple_element_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, &PyTuple_GET_ITEM(mod_consts[26], 0));
 
         if (tmp_tuple_element_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2772,7 +2772,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
         PyObject *tmp_expression_name_1;
         PyObject *tmp_subscript_name_1;
         PyObject *tmp_bases_name_1;
-        tmp_key_name_1 = mod_consts[28];
+        tmp_key_name_1 = mod_consts[27];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_1 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_1, tmp_key_name_1);
@@ -2786,7 +2786,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
         condexpr_true_1:;
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_2 = tmp_class_creation_1__class_decl_dict;
-        tmp_key_name_2 = mod_consts[28];
+        tmp_key_name_2 = mod_consts[27];
         tmp_metaclass_name_1 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_2, tmp_key_name_2);
         if (tmp_metaclass_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2872,7 +2872,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
         nuitka_bool tmp_condition_result_3;
         PyObject *tmp_key_name_3;
         PyObject *tmp_dict_arg_name_3;
-        tmp_key_name_3 = mod_consts[28];
+        tmp_key_name_3 = mod_consts[27];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_3 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_3, tmp_key_name_3);
@@ -2887,7 +2887,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
     branch_yes_1:;
     CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_1__class_decl_dict;
-    tmp_dictdel_key = mod_consts[28];
+    tmp_dictdel_key = mod_consts[27];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -2905,7 +2905,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
         PyObject *tmp_expression_name_2;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_2 = tmp_class_creation_1__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_2, mod_consts[29]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_2, mod_consts[28]);
         tmp_condition_result_4 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_4 == NUITKA_BOOL_TRUE) {
             goto branch_yes_2;
@@ -2923,7 +2923,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
         PyObject *tmp_kwargs_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_3 = tmp_class_creation_1__metaclass;
-        tmp_called_name_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[29]);
+        tmp_called_name_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[28]);
         if (tmp_called_name_2 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -2942,7 +2942,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
         PyTuple_SET_ITEM0(tmp_args_name_1, 1, tmp_tuple_element_2);
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_kwargs_name_1 = tmp_class_creation_1__class_decl_dict;
-        frame_9724090897a44740195f6ef0dad03089->m_frame.f_lineno = 23;
+        frame_bcbb63d4f32c0e07635b09419af7dfd6->m_frame.f_lineno = 23;
         tmp_assign_source_9 = CALL_FUNCTION(tmp_called_name_2, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_name_1);
@@ -2965,7 +2965,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
         PyObject *tmp_expression_name_4;
         CHECK_OBJECT(tmp_class_creation_1__prepared);
         tmp_expression_name_4 = tmp_class_creation_1__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_4, mod_consts[30]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_4, mod_consts[29]);
         tmp_operand_name_1 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_1);
         if (tmp_res == -1) {
@@ -2996,11 +2996,11 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
         PyObject *tmp_getattr_attr_1;
         PyObject *tmp_getattr_default_1;
         tmp_raise_type_1 = PyExc_TypeError;
-        tmp_left_name_1 = mod_consts[31];
+        tmp_left_name_1 = mod_consts[30];
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_getattr_target_1 = tmp_class_creation_1__metaclass;
-        tmp_getattr_attr_1 = mod_consts[32];
-        tmp_getattr_default_1 = mod_consts[33];
+        tmp_getattr_attr_1 = mod_consts[31];
+        tmp_getattr_default_1 = mod_consts[32];
         tmp_tuple_element_3 = BUILTIN_GETATTR(tmp_getattr_target_1, tmp_getattr_attr_1, tmp_getattr_default_1);
         if (tmp_tuple_element_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3021,7 +3021,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_type_arg_2 = tmp_class_creation_1__prepared;
             tmp_expression_name_5 = BUILTIN_TYPE1(tmp_type_arg_2);
             assert(!(tmp_expression_name_5 == NULL));
-            tmp_tuple_element_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_5, mod_consts[32]);
+            tmp_tuple_element_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_5, mod_consts[31]);
             Py_DECREF(tmp_expression_name_5);
             if (tmp_tuple_element_3 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -3083,8 +3083,8 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[34];
-        tmp_res = PyObject_SetItem(locals_PIL$TiffTags$$$class__1_TagInfo_23, mod_consts[35], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[33];
+        tmp_res = PyObject_SetItem(locals_PIL$TiffTags$$$class__1_TagInfo_23, mod_consts[34], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -3096,7 +3096,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             goto try_except_handler_3;
         }
         tmp_dictset_value = mod_consts[6];
-        tmp_res = PyObject_SetItem(locals_PIL$TiffTags$$$class__1_TagInfo_23, mod_consts[36], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_PIL$TiffTags$$$class__1_TagInfo_23, mod_consts[35], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -3107,35 +3107,35 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
 
             goto try_except_handler_3;
         }
-        if (isFrameUnusable(cache_frame_5387bf87767f819db8c170fb4f4314b2_2)) {
-            Py_XDECREF(cache_frame_5387bf87767f819db8c170fb4f4314b2_2);
+        if (isFrameUnusable(cache_frame_e70a699bd3421550e1e6a849ab96b3ee_2)) {
+            Py_XDECREF(cache_frame_e70a699bd3421550e1e6a849ab96b3ee_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_5387bf87767f819db8c170fb4f4314b2_2 == NULL) {
+            if (cache_frame_e70a699bd3421550e1e6a849ab96b3ee_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_5387bf87767f819db8c170fb4f4314b2_2 = MAKE_FUNCTION_FRAME(codeobj_5387bf87767f819db8c170fb4f4314b2, module_PIL$TiffTags, sizeof(void *));
+            cache_frame_e70a699bd3421550e1e6a849ab96b3ee_2 = MAKE_FUNCTION_FRAME(codeobj_e70a699bd3421550e1e6a849ab96b3ee, module_PIL$TiffTags, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_5387bf87767f819db8c170fb4f4314b2_2->m_type_description == NULL);
-        frame_5387bf87767f819db8c170fb4f4314b2_2 = cache_frame_5387bf87767f819db8c170fb4f4314b2_2;
+        assert(cache_frame_e70a699bd3421550e1e6a849ab96b3ee_2->m_type_description == NULL);
+        frame_e70a699bd3421550e1e6a849ab96b3ee_2 = cache_frame_e70a699bd3421550e1e6a849ab96b3ee_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_5387bf87767f819db8c170fb4f4314b2_2);
+        pushFrameStack(frame_e70a699bd3421550e1e6a849ab96b3ee_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_5387bf87767f819db8c170fb4f4314b2_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_e70a699bd3421550e1e6a849ab96b3ee_2) == 2); // Frame stack
 
         // Framed code:
         tmp_dictset_value = PyList_New(0);
-        tmp_res = PyObject_SetItem(locals_PIL$TiffTags$$$class__1_TagInfo_23, mod_consts[37], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_PIL$TiffTags$$$class__1_TagInfo_23, mod_consts[36], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -3150,7 +3150,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
         {
             PyObject *tmp_defaults_1;
             struct Nuitka_CellObject *tmp_closure_1[1];
-            tmp_defaults_1 = mod_consts[38];
+            tmp_defaults_1 = mod_consts[37];
             Py_INCREF(tmp_defaults_1);
 
             tmp_closure_1[0] = outline_0_var___class__;
@@ -3175,7 +3175,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
 
         tmp_dictset_value = MAKE_FUNCTION_PIL$TiffTags$$$function__2_cvt_enum();
 
-        tmp_res = PyObject_SetItem(locals_PIL$TiffTags$$$class__1_TagInfo_23, mod_consts[40], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_PIL$TiffTags$$$class__1_TagInfo_23, mod_consts[39], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -3189,7 +3189,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_5387bf87767f819db8c170fb4f4314b2_2);
+        RESTORE_FRAME_EXCEPTION(frame_e70a699bd3421550e1e6a849ab96b3ee_2);
 #endif
 
         // Put the previous frame back on top.
@@ -3200,35 +3200,35 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_5387bf87767f819db8c170fb4f4314b2_2);
+        RESTORE_FRAME_EXCEPTION(frame_e70a699bd3421550e1e6a849ab96b3ee_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_5387bf87767f819db8c170fb4f4314b2_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_5387bf87767f819db8c170fb4f4314b2_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_5387bf87767f819db8c170fb4f4314b2_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_e70a699bd3421550e1e6a849ab96b3ee_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_e70a699bd3421550e1e6a849ab96b3ee_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_e70a699bd3421550e1e6a849ab96b3ee_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_5387bf87767f819db8c170fb4f4314b2_2,
+            frame_e70a699bd3421550e1e6a849ab96b3ee_2,
             type_description_2,
             outline_0_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_5387bf87767f819db8c170fb4f4314b2_2 == cache_frame_5387bf87767f819db8c170fb4f4314b2_2) {
+        if (frame_e70a699bd3421550e1e6a849ab96b3ee_2 == cache_frame_e70a699bd3421550e1e6a849ab96b3ee_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_5387bf87767f819db8c170fb4f4314b2_2);
-            cache_frame_5387bf87767f819db8c170fb4f4314b2_2 = NULL;
+            Py_DECREF(cache_frame_e70a699bd3421550e1e6a849ab96b3ee_2);
+            cache_frame_e70a699bd3421550e1e6a849ab96b3ee_2 = NULL;
         }
 
-        assertFrameObject(frame_5387bf87767f819db8c170fb4f4314b2_2);
+        assertFrameObject(frame_e70a699bd3421550e1e6a849ab96b3ee_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -3271,7 +3271,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
         branch_yes_4:;
         CHECK_OBJECT(tmp_class_creation_1__bases_orig);
         tmp_dictset_value = tmp_class_creation_1__bases_orig;
-        tmp_res = PyObject_SetItem(locals_PIL$TiffTags$$$class__1_TagInfo_23, mod_consts[42], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_PIL$TiffTags$$$class__1_TagInfo_23, mod_consts[41], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -3301,7 +3301,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             PyTuple_SET_ITEM0(tmp_args_name_2, 2, tmp_tuple_element_4);
             CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
             tmp_kwargs_name_2 = tmp_class_creation_1__class_decl_dict;
-            frame_9724090897a44740195f6ef0dad03089->m_frame.f_lineno = 23;
+            frame_bcbb63d4f32c0e07635b09419af7dfd6->m_frame.f_lineno = 23;
             tmp_assign_source_12 = CALL_FUNCTION(tmp_called_name_3, tmp_args_name_2, tmp_kwargs_name_2);
             Py_DECREF(tmp_args_name_2);
             if (tmp_assign_source_12 == NULL) {
@@ -3440,86 +3440,86 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
 
         tmp_assign_source_13 = MAKE_FUNCTION_PIL$TiffTags$$$function__3_lookup();
 
-        UPDATE_STRING_DICT1(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[43], tmp_assign_source_13);
+        UPDATE_STRING_DICT1(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[42], tmp_assign_source_13);
     }
     {
         PyObject *tmp_assign_source_14;
-        tmp_assign_source_14 = mod_consts[44];
-        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[45], tmp_assign_source_14);
+        tmp_assign_source_14 = mod_consts[43];
+        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[44], tmp_assign_source_14);
     }
     {
         PyObject *tmp_assign_source_15;
-        tmp_assign_source_15 = mod_consts[46];
-        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47], tmp_assign_source_15);
+        tmp_assign_source_15 = mod_consts[45];
+        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[46], tmp_assign_source_15);
     }
     {
         PyObject *tmp_assign_source_16;
         tmp_assign_source_16 = mod_consts[15];
-        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48], tmp_assign_source_16);
+        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47], tmp_assign_source_16);
     }
     {
         PyObject *tmp_assign_source_17;
         tmp_assign_source_17 = mod_consts[13];
-        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49], tmp_assign_source_17);
+        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48], tmp_assign_source_17);
     }
     {
         PyObject *tmp_assign_source_18;
-        tmp_assign_source_18 = mod_consts[50];
-        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[51], tmp_assign_source_18);
+        tmp_assign_source_18 = mod_consts[49];
+        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[50], tmp_assign_source_18);
     }
     {
         PyObject *tmp_assign_source_19;
-        tmp_assign_source_19 = mod_consts[52];
-        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[53], tmp_assign_source_19);
+        tmp_assign_source_19 = mod_consts[51];
+        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[52], tmp_assign_source_19);
     }
     {
         PyObject *tmp_assign_source_20;
-        tmp_assign_source_20 = mod_consts[54];
-        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[55], tmp_assign_source_20);
+        tmp_assign_source_20 = mod_consts[53];
+        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[54], tmp_assign_source_20);
     }
     {
         PyObject *tmp_assign_source_21;
-        tmp_assign_source_21 = mod_consts[56];
-        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[57], tmp_assign_source_21);
+        tmp_assign_source_21 = mod_consts[55];
+        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[56], tmp_assign_source_21);
     }
     {
         PyObject *tmp_assign_source_22;
-        tmp_assign_source_22 = mod_consts[58];
-        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[59], tmp_assign_source_22);
+        tmp_assign_source_22 = mod_consts[57];
+        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[58], tmp_assign_source_22);
     }
     {
         PyObject *tmp_assign_source_23;
-        tmp_assign_source_23 = mod_consts[60];
-        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[61], tmp_assign_source_23);
+        tmp_assign_source_23 = mod_consts[59];
+        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[60], tmp_assign_source_23);
     }
     {
         PyObject *tmp_assign_source_24;
-        tmp_assign_source_24 = mod_consts[62];
-        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[63], tmp_assign_source_24);
+        tmp_assign_source_24 = mod_consts[61];
+        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[62], tmp_assign_source_24);
     }
     {
         PyObject *tmp_assign_source_25;
-        tmp_assign_source_25 = mod_consts[64];
-        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[65], tmp_assign_source_25);
+        tmp_assign_source_25 = mod_consts[63];
+        UPDATE_STRING_DICT0(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[64], tmp_assign_source_25);
     }
     {
         PyObject *tmp_assign_source_26;
         PyObject *tmp_dict_key_1;
         PyObject *tmp_dict_value_1;
         PyObject *tmp_tuple_element_5;
-        tmp_dict_key_1 = mod_consts[66];
-        tmp_tuple_element_5 = mod_consts[67];
+        tmp_dict_key_1 = mod_consts[65];
+        tmp_tuple_element_5 = mod_consts[66];
         tmp_dict_value_1 = PyTuple_New(3);
         PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_5);
-        tmp_tuple_element_5 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_5 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_5 == NULL)) {
-            tmp_tuple_element_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_5 == NULL));
         PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_5);
-        tmp_tuple_element_5 = mod_consts[44];
+        tmp_tuple_element_5 = mod_consts[43];
         PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_5);
         tmp_assign_source_26 = _PyDict_NewPresized( 104 );
         {
@@ -3629,65 +3629,65 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[68];
-            tmp_tuple_element_6 = mod_consts[69];
+            tmp_dict_key_1 = mod_consts[67];
+            tmp_tuple_element_6 = mod_consts[68];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_6);
-            tmp_tuple_element_6 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_6 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_6 == NULL)) {
-                tmp_tuple_element_6 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_6 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_6 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_6);
-            tmp_tuple_element_6 = mod_consts[44];
+            tmp_tuple_element_6 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_6);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[70];
-            tmp_tuple_element_7 = mod_consts[71];
+            tmp_dict_key_1 = mod_consts[69];
+            tmp_tuple_element_7 = mod_consts[70];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_7);
-            tmp_tuple_element_7 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_7 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_7 == NULL)) {
-                tmp_tuple_element_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_7 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_7);
-            tmp_tuple_element_7 = mod_consts[44];
+            tmp_tuple_element_7 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_7);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[72];
-            tmp_tuple_element_8 = mod_consts[73];
+            tmp_dict_key_1 = mod_consts[71];
+            tmp_tuple_element_8 = mod_consts[72];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_8);
-            tmp_tuple_element_8 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_8 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_8 == NULL)) {
-                tmp_tuple_element_8 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_8 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_8 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_8);
-            tmp_tuple_element_8 = mod_consts[44];
+            tmp_tuple_element_8 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_8);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[74];
-            tmp_tuple_element_9 = mod_consts[75];
+            tmp_dict_key_1 = mod_consts[73];
+            tmp_tuple_element_9 = mod_consts[74];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_9);
-            tmp_tuple_element_9 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_9 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_9 == NULL)) {
-                tmp_tuple_element_9 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_9 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_9 == NULL));
@@ -3697,188 +3697,188 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[76];
-            tmp_tuple_element_10 = mod_consts[77];
+            tmp_dict_key_1 = mod_consts[75];
+            tmp_tuple_element_10 = mod_consts[76];
             tmp_dict_value_1 = PyTuple_New(4);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_10);
-            tmp_tuple_element_10 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_10 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_10 == NULL)) {
-                tmp_tuple_element_10 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_10 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_10 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_10);
-            tmp_tuple_element_10 = mod_consts[44];
+            tmp_tuple_element_10 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_10);
-            tmp_tuple_element_10 = PyDict_Copy(mod_consts[78]);
+            tmp_tuple_element_10 = PyDict_Copy(mod_consts[77]);
             PyTuple_SET_ITEM(tmp_dict_value_1, 3, tmp_tuple_element_10);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[79];
-            tmp_tuple_element_11 = mod_consts[80];
+            tmp_dict_key_1 = mod_consts[78];
+            tmp_tuple_element_11 = mod_consts[79];
             tmp_dict_value_1 = PyTuple_New(4);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_11);
-            tmp_tuple_element_11 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_11 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_11 == NULL)) {
-                tmp_tuple_element_11 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_11 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_11 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_11);
-            tmp_tuple_element_11 = mod_consts[44];
+            tmp_tuple_element_11 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_11);
-            tmp_tuple_element_11 = PyDict_Copy(mod_consts[81]);
+            tmp_tuple_element_11 = PyDict_Copy(mod_consts[80]);
             PyTuple_SET_ITEM(tmp_dict_value_1, 3, tmp_tuple_element_11);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[82];
-            tmp_tuple_element_12 = mod_consts[83];
+            tmp_dict_key_1 = mod_consts[81];
+            tmp_tuple_element_12 = mod_consts[82];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_12);
-            tmp_tuple_element_12 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_12 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_12 == NULL)) {
-                tmp_tuple_element_12 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_12 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_12 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_12);
-            tmp_tuple_element_12 = mod_consts[44];
+            tmp_tuple_element_12 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_12);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[84];
-            tmp_tuple_element_13 = mod_consts[85];
+            tmp_dict_key_1 = mod_consts[83];
+            tmp_tuple_element_13 = mod_consts[84];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_13);
-            tmp_tuple_element_13 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_13 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_13 == NULL)) {
-                tmp_tuple_element_13 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_13 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_13 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_13);
-            tmp_tuple_element_13 = mod_consts[44];
+            tmp_tuple_element_13 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_13);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[86];
-            tmp_tuple_element_14 = mod_consts[87];
+            tmp_dict_key_1 = mod_consts[85];
+            tmp_tuple_element_14 = mod_consts[86];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_14);
-            tmp_tuple_element_14 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_14 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_14 == NULL)) {
-                tmp_tuple_element_14 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_14 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_14 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_14);
-            tmp_tuple_element_14 = mod_consts[44];
+            tmp_tuple_element_14 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_14);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[88];
-            tmp_tuple_element_15 = mod_consts[89];
+            tmp_dict_key_1 = mod_consts[87];
+            tmp_tuple_element_15 = mod_consts[88];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_15);
-            tmp_tuple_element_15 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_15 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_15 == NULL)) {
-                tmp_tuple_element_15 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_15 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_15 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_15);
-            tmp_tuple_element_15 = mod_consts[44];
+            tmp_tuple_element_15 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_15);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[90];
-            tmp_tuple_element_16 = mod_consts[91];
+            tmp_dict_key_1 = mod_consts[89];
+            tmp_tuple_element_16 = mod_consts[90];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_16);
-            tmp_tuple_element_16 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
+            tmp_tuple_element_16 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[46]);
 
             if (unlikely(tmp_tuple_element_16 == NULL)) {
-                tmp_tuple_element_16 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+                tmp_tuple_element_16 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
             }
 
             assert(!(tmp_tuple_element_16 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_16);
-            tmp_tuple_element_16 = mod_consts[44];
+            tmp_tuple_element_16 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_16);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[92];
-            tmp_tuple_element_17 = mod_consts[93];
+            tmp_dict_key_1 = mod_consts[91];
+            tmp_tuple_element_17 = mod_consts[92];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_17);
-            tmp_tuple_element_17 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
+            tmp_tuple_element_17 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[46]);
 
             if (unlikely(tmp_tuple_element_17 == NULL)) {
-                tmp_tuple_element_17 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+                tmp_tuple_element_17 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
             }
 
             assert(!(tmp_tuple_element_17 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_17);
-            tmp_tuple_element_17 = mod_consts[44];
+            tmp_tuple_element_17 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_17);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[94];
-            tmp_tuple_element_18 = mod_consts[95];
+            tmp_dict_key_1 = mod_consts[93];
+            tmp_tuple_element_18 = mod_consts[94];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_18);
-            tmp_tuple_element_18 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
+            tmp_tuple_element_18 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[46]);
 
             if (unlikely(tmp_tuple_element_18 == NULL)) {
-                tmp_tuple_element_18 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+                tmp_tuple_element_18 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
             }
 
             assert(!(tmp_tuple_element_18 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_18);
-            tmp_tuple_element_18 = mod_consts[44];
+            tmp_tuple_element_18 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_18);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[96];
-            tmp_tuple_element_19 = mod_consts[97];
+            tmp_dict_key_1 = mod_consts[95];
+            tmp_tuple_element_19 = mod_consts[96];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_19);
-            tmp_tuple_element_19 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
+            tmp_tuple_element_19 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[46]);
 
             if (unlikely(tmp_tuple_element_19 == NULL)) {
-                tmp_tuple_element_19 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+                tmp_tuple_element_19 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
             }
 
             assert(!(tmp_tuple_element_19 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_19);
-            tmp_tuple_element_19 = mod_consts[44];
+            tmp_tuple_element_19 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_19);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[98];
-            tmp_tuple_element_20 = mod_consts[99];
+            tmp_dict_key_1 = mod_consts[97];
+            tmp_tuple_element_20 = mod_consts[98];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_20);
-            tmp_tuple_element_20 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_20 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_20 == NULL)) {
-                tmp_tuple_element_20 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_20 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_20 == NULL));
@@ -3888,65 +3888,65 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[100];
-            tmp_tuple_element_21 = mod_consts[101];
+            tmp_dict_key_1 = mod_consts[99];
+            tmp_tuple_element_21 = mod_consts[100];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_21);
-            tmp_tuple_element_21 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_21 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_21 == NULL)) {
-                tmp_tuple_element_21 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_21 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_21 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_21);
-            tmp_tuple_element_21 = mod_consts[44];
+            tmp_tuple_element_21 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_21);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[102];
-            tmp_tuple_element_22 = mod_consts[103];
+            tmp_dict_key_1 = mod_consts[101];
+            tmp_tuple_element_22 = mod_consts[102];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_22);
-            tmp_tuple_element_22 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_22 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_22 == NULL)) {
-                tmp_tuple_element_22 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_22 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_22 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_22);
-            tmp_tuple_element_22 = mod_consts[44];
+            tmp_tuple_element_22 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_22);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[104];
-            tmp_tuple_element_23 = mod_consts[105];
+            tmp_dict_key_1 = mod_consts[103];
+            tmp_tuple_element_23 = mod_consts[104];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_23);
-            tmp_tuple_element_23 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_23 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_23 == NULL)) {
-                tmp_tuple_element_23 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_23 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_23 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_23);
-            tmp_tuple_element_23 = mod_consts[44];
+            tmp_tuple_element_23 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_23);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[106];
-            tmp_tuple_element_24 = mod_consts[107];
+            tmp_dict_key_1 = mod_consts[105];
+            tmp_tuple_element_24 = mod_consts[106];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_24);
-            tmp_tuple_element_24 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_24 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_24 == NULL)) {
-                tmp_tuple_element_24 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_24 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_24 == NULL));
@@ -3956,14 +3956,14 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[108];
-            tmp_tuple_element_25 = mod_consts[109];
+            tmp_dict_key_1 = mod_consts[107];
+            tmp_tuple_element_25 = mod_consts[108];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_25);
-            tmp_tuple_element_25 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_25 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_25 == NULL)) {
-                tmp_tuple_element_25 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_25 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_25 == NULL));
@@ -3973,14 +3973,14 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[110];
-            tmp_tuple_element_26 = mod_consts[111];
+            tmp_dict_key_1 = mod_consts[109];
+            tmp_tuple_element_26 = mod_consts[110];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_26);
-            tmp_tuple_element_26 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_26 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_26 == NULL)) {
-                tmp_tuple_element_26 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_26 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_26 == NULL));
@@ -3990,169 +3990,169 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[112];
-            tmp_tuple_element_27 = mod_consts[113];
+            tmp_dict_key_1 = mod_consts[111];
+            tmp_tuple_element_27 = mod_consts[112];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_27);
-            tmp_tuple_element_27 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[51]);
+            tmp_tuple_element_27 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[50]);
 
             if (unlikely(tmp_tuple_element_27 == NULL)) {
-                tmp_tuple_element_27 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+                tmp_tuple_element_27 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
             }
 
             assert(!(tmp_tuple_element_27 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_27);
-            tmp_tuple_element_27 = mod_consts[44];
+            tmp_tuple_element_27 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_27);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[114];
-            tmp_tuple_element_28 = mod_consts[115];
+            tmp_dict_key_1 = mod_consts[113];
+            tmp_tuple_element_28 = mod_consts[114];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_28);
-            tmp_tuple_element_28 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[51]);
+            tmp_tuple_element_28 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[50]);
 
             if (unlikely(tmp_tuple_element_28 == NULL)) {
-                tmp_tuple_element_28 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+                tmp_tuple_element_28 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
             }
 
             assert(!(tmp_tuple_element_28 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_28);
-            tmp_tuple_element_28 = mod_consts[44];
+            tmp_tuple_element_28 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_28);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[116];
-            tmp_tuple_element_29 = mod_consts[117];
+            tmp_dict_key_1 = mod_consts[115];
+            tmp_tuple_element_29 = mod_consts[116];
             tmp_dict_value_1 = PyTuple_New(4);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_29);
-            tmp_tuple_element_29 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_29 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_29 == NULL)) {
-                tmp_tuple_element_29 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_29 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_29 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_29);
-            tmp_tuple_element_29 = mod_consts[44];
+            tmp_tuple_element_29 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_29);
-            tmp_tuple_element_29 = PyDict_Copy(mod_consts[118]);
+            tmp_tuple_element_29 = PyDict_Copy(mod_consts[117]);
             PyTuple_SET_ITEM(tmp_dict_value_1, 3, tmp_tuple_element_29);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[119];
-            tmp_tuple_element_30 = mod_consts[120];
+            tmp_dict_key_1 = mod_consts[118];
+            tmp_tuple_element_30 = mod_consts[119];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_30);
-            tmp_tuple_element_30 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
+            tmp_tuple_element_30 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[46]);
 
             if (unlikely(tmp_tuple_element_30 == NULL)) {
-                tmp_tuple_element_30 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+                tmp_tuple_element_30 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
             }
 
             assert(!(tmp_tuple_element_30 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_30);
-            tmp_tuple_element_30 = mod_consts[44];
+            tmp_tuple_element_30 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_30);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[121];
-            tmp_tuple_element_31 = mod_consts[122];
+            tmp_dict_key_1 = mod_consts[120];
+            tmp_tuple_element_31 = mod_consts[121];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_31);
-            tmp_tuple_element_31 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[51]);
+            tmp_tuple_element_31 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[50]);
 
             if (unlikely(tmp_tuple_element_31 == NULL)) {
-                tmp_tuple_element_31 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+                tmp_tuple_element_31 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
             }
 
             assert(!(tmp_tuple_element_31 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_31);
-            tmp_tuple_element_31 = mod_consts[44];
+            tmp_tuple_element_31 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_31);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[123];
-            tmp_tuple_element_32 = mod_consts[124];
+            tmp_dict_key_1 = mod_consts[122];
+            tmp_tuple_element_32 = mod_consts[123];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_32);
-            tmp_tuple_element_32 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[51]);
+            tmp_tuple_element_32 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[50]);
 
             if (unlikely(tmp_tuple_element_32 == NULL)) {
-                tmp_tuple_element_32 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+                tmp_tuple_element_32 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
             }
 
             assert(!(tmp_tuple_element_32 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_32);
-            tmp_tuple_element_32 = mod_consts[44];
+            tmp_tuple_element_32 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_32);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[125];
-            tmp_tuple_element_33 = mod_consts[126];
+            tmp_dict_key_1 = mod_consts[124];
+            tmp_tuple_element_33 = mod_consts[125];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_33);
-            tmp_tuple_element_33 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_33 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_33 == NULL)) {
-                tmp_tuple_element_33 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_33 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_33 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_33);
-            tmp_tuple_element_33 = mod_consts[44];
+            tmp_tuple_element_33 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_33);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[127];
-            tmp_tuple_element_34 = mod_consts[128];
+            tmp_dict_key_1 = mod_consts[126];
+            tmp_tuple_element_34 = mod_consts[127];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_34);
-            tmp_tuple_element_34 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_34 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_34 == NULL)) {
-                tmp_tuple_element_34 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_34 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_34 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_34);
-            tmp_tuple_element_34 = mod_consts[44];
+            tmp_tuple_element_34 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_34);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[129];
-            tmp_tuple_element_35 = mod_consts[130];
+            tmp_dict_key_1 = mod_consts[128];
+            tmp_tuple_element_35 = mod_consts[129];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_35);
-            tmp_tuple_element_35 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_35 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_35 == NULL)) {
-                tmp_tuple_element_35 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_35 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_35 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_35);
-            tmp_tuple_element_35 = mod_consts[44];
+            tmp_tuple_element_35 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_35);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[131];
-            tmp_tuple_element_36 = mod_consts[132];
+            tmp_dict_key_1 = mod_consts[130];
+            tmp_tuple_element_36 = mod_consts[131];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_36);
-            tmp_tuple_element_36 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_36 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_36 == NULL)) {
-                tmp_tuple_element_36 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_36 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_36 == NULL));
@@ -4162,84 +4162,84 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[133];
-            tmp_tuple_element_37 = mod_consts[134];
+            tmp_dict_key_1 = mod_consts[132];
+            tmp_tuple_element_37 = mod_consts[133];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_37);
-            tmp_tuple_element_37 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_37 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_37 == NULL)) {
-                tmp_tuple_element_37 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_37 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_37 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_37);
-            tmp_tuple_element_37 = mod_consts[44];
+            tmp_tuple_element_37 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_37);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[135];
-            tmp_tuple_element_38 = mod_consts[136];
+            tmp_dict_key_1 = mod_consts[134];
+            tmp_tuple_element_38 = mod_consts[135];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_38);
-            tmp_tuple_element_38 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_38 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_38 == NULL)) {
-                tmp_tuple_element_38 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_38 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_38 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_38);
-            tmp_tuple_element_38 = mod_consts[44];
+            tmp_tuple_element_38 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_38);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[137];
-            tmp_tuple_element_39 = mod_consts[138];
+            tmp_dict_key_1 = mod_consts[136];
+            tmp_tuple_element_39 = mod_consts[137];
             tmp_dict_value_1 = PyTuple_New(4);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_39);
-            tmp_tuple_element_39 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_39 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_39 == NULL)) {
-                tmp_tuple_element_39 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_39 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_39 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_39);
-            tmp_tuple_element_39 = mod_consts[44];
+            tmp_tuple_element_39 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_39);
-            tmp_tuple_element_39 = PyDict_Copy(mod_consts[139]);
+            tmp_tuple_element_39 = PyDict_Copy(mod_consts[138]);
             PyTuple_SET_ITEM(tmp_dict_value_1, 3, tmp_tuple_element_39);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[140];
-            tmp_tuple_element_40 = mod_consts[141];
+            tmp_dict_key_1 = mod_consts[139];
+            tmp_tuple_element_40 = mod_consts[140];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_40);
-            tmp_tuple_element_40 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_40 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_40 == NULL)) {
-                tmp_tuple_element_40 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_40 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_40 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_40);
-            tmp_tuple_element_40 = mod_consts[46];
+            tmp_tuple_element_40 = mod_consts[45];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_40);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[142];
-            tmp_tuple_element_41 = mod_consts[143];
+            tmp_dict_key_1 = mod_consts[141];
+            tmp_tuple_element_41 = mod_consts[142];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_41);
-            tmp_tuple_element_41 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_41 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_41 == NULL)) {
-                tmp_tuple_element_41 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_41 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_41 == NULL));
@@ -4249,135 +4249,135 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[144];
-            tmp_tuple_element_42 = mod_consts[145];
+            tmp_dict_key_1 = mod_consts[143];
+            tmp_tuple_element_42 = mod_consts[144];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_42);
-            tmp_tuple_element_42 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
+            tmp_tuple_element_42 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[46]);
 
             if (unlikely(tmp_tuple_element_42 == NULL)) {
-                tmp_tuple_element_42 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+                tmp_tuple_element_42 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
             }
 
             assert(!(tmp_tuple_element_42 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_42);
-            tmp_tuple_element_42 = mod_consts[44];
+            tmp_tuple_element_42 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_42);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[146];
-            tmp_tuple_element_43 = mod_consts[147];
+            tmp_dict_key_1 = mod_consts[145];
+            tmp_tuple_element_43 = mod_consts[146];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_43);
-            tmp_tuple_element_43 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
+            tmp_tuple_element_43 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[46]);
 
             if (unlikely(tmp_tuple_element_43 == NULL)) {
-                tmp_tuple_element_43 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+                tmp_tuple_element_43 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
             }
 
             assert(!(tmp_tuple_element_43 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_43);
-            tmp_tuple_element_43 = mod_consts[44];
+            tmp_tuple_element_43 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_43);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[148];
-            tmp_tuple_element_44 = mod_consts[149];
+            tmp_dict_key_1 = mod_consts[147];
+            tmp_tuple_element_44 = mod_consts[148];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_44);
-            tmp_tuple_element_44 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
+            tmp_tuple_element_44 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[46]);
 
             if (unlikely(tmp_tuple_element_44 == NULL)) {
-                tmp_tuple_element_44 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+                tmp_tuple_element_44 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
             }
 
             assert(!(tmp_tuple_element_44 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_44);
-            tmp_tuple_element_44 = mod_consts[44];
+            tmp_tuple_element_44 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_44);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[150];
-            tmp_tuple_element_45 = mod_consts[151];
+            tmp_dict_key_1 = mod_consts[149];
+            tmp_tuple_element_45 = mod_consts[150];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_45);
-            tmp_tuple_element_45 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
+            tmp_tuple_element_45 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[46]);
 
             if (unlikely(tmp_tuple_element_45 == NULL)) {
-                tmp_tuple_element_45 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+                tmp_tuple_element_45 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
             }
 
             assert(!(tmp_tuple_element_45 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_45);
-            tmp_tuple_element_45 = mod_consts[44];
+            tmp_tuple_element_45 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_45);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[152];
-            tmp_tuple_element_46 = mod_consts[153];
+            tmp_dict_key_1 = mod_consts[151];
+            tmp_tuple_element_46 = mod_consts[152];
             tmp_dict_value_1 = PyTuple_New(4);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_46);
-            tmp_tuple_element_46 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_46 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_46 == NULL)) {
-                tmp_tuple_element_46 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_46 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_46 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_46);
-            tmp_tuple_element_46 = mod_consts[44];
+            tmp_tuple_element_46 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_46);
-            tmp_tuple_element_46 = PyDict_Copy(mod_consts[154]);
+            tmp_tuple_element_46 = PyDict_Copy(mod_consts[153]);
             PyTuple_SET_ITEM(tmp_dict_value_1, 3, tmp_tuple_element_46);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[155];
-            tmp_tuple_element_47 = mod_consts[156];
+            tmp_dict_key_1 = mod_consts[154];
+            tmp_tuple_element_47 = mod_consts[155];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_47);
-            tmp_tuple_element_47 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[51]);
+            tmp_tuple_element_47 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[50]);
 
             if (unlikely(tmp_tuple_element_47 == NULL)) {
-                tmp_tuple_element_47 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+                tmp_tuple_element_47 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
             }
 
             assert(!(tmp_tuple_element_47 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_47);
-            tmp_tuple_element_47 = mod_consts[46];
+            tmp_tuple_element_47 = mod_consts[45];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_47);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[157];
-            tmp_tuple_element_48 = mod_consts[158];
+            tmp_dict_key_1 = mod_consts[156];
+            tmp_tuple_element_48 = mod_consts[157];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_48);
-            tmp_tuple_element_48 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[51]);
+            tmp_tuple_element_48 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[50]);
 
             if (unlikely(tmp_tuple_element_48 == NULL)) {
-                tmp_tuple_element_48 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+                tmp_tuple_element_48 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
             }
 
             assert(!(tmp_tuple_element_48 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_48);
-            tmp_tuple_element_48 = mod_consts[52];
+            tmp_tuple_element_48 = mod_consts[51];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_48);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[159];
-            tmp_tuple_element_49 = mod_consts[160];
+            tmp_dict_key_1 = mod_consts[158];
+            tmp_tuple_element_49 = mod_consts[159];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_49);
-            tmp_tuple_element_49 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_49 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_49 == NULL)) {
-                tmp_tuple_element_49 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_49 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_49 == NULL));
@@ -4387,65 +4387,65 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[161];
-            tmp_tuple_element_50 = mod_consts[162];
+            tmp_dict_key_1 = mod_consts[160];
+            tmp_tuple_element_50 = mod_consts[161];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_50);
-            tmp_tuple_element_50 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_50 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_50 == NULL)) {
-                tmp_tuple_element_50 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_50 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_50 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_50);
-            tmp_tuple_element_50 = mod_consts[46];
+            tmp_tuple_element_50 = mod_consts[45];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_50);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[163];
-            tmp_tuple_element_51 = mod_consts[164];
+            tmp_dict_key_1 = mod_consts[162];
+            tmp_tuple_element_51 = mod_consts[163];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_51);
-            tmp_tuple_element_51 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_51 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_51 == NULL)) {
-                tmp_tuple_element_51 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_51 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_51 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_51);
-            tmp_tuple_element_51 = mod_consts[44];
+            tmp_tuple_element_51 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_51);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[165];
-            tmp_tuple_element_52 = mod_consts[166];
+            tmp_dict_key_1 = mod_consts[164];
+            tmp_tuple_element_52 = mod_consts[165];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_52);
-            tmp_tuple_element_52 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_52 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_52 == NULL)) {
-                tmp_tuple_element_52 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_52 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_52 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_52);
-            tmp_tuple_element_52 = mod_consts[44];
+            tmp_tuple_element_52 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_52);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[167];
-            tmp_tuple_element_53 = mod_consts[168];
+            tmp_dict_key_1 = mod_consts[166];
+            tmp_tuple_element_53 = mod_consts[167];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_53);
-            tmp_tuple_element_53 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_53 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_53 == NULL)) {
-                tmp_tuple_element_53 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_53 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_53 == NULL));
@@ -4455,14 +4455,14 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[169];
-            tmp_tuple_element_54 = mod_consts[170];
+            tmp_dict_key_1 = mod_consts[168];
+            tmp_tuple_element_54 = mod_consts[169];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_54);
-            tmp_tuple_element_54 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_54 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_54 == NULL)) {
-                tmp_tuple_element_54 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_54 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_54 == NULL));
@@ -4472,65 +4472,65 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[171];
-            tmp_tuple_element_55 = mod_consts[172];
+            tmp_dict_key_1 = mod_consts[170];
+            tmp_tuple_element_55 = mod_consts[171];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_55);
-            tmp_tuple_element_55 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_55 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_55 == NULL)) {
-                tmp_tuple_element_55 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_55 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_55 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_55);
-            tmp_tuple_element_55 = mod_consts[44];
+            tmp_tuple_element_55 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_55);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[173];
-            tmp_tuple_element_56 = mod_consts[174];
+            tmp_dict_key_1 = mod_consts[172];
+            tmp_tuple_element_56 = mod_consts[173];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_56);
-            tmp_tuple_element_56 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
+            tmp_tuple_element_56 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[46]);
 
             if (unlikely(tmp_tuple_element_56 == NULL)) {
-                tmp_tuple_element_56 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+                tmp_tuple_element_56 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
             }
 
             assert(!(tmp_tuple_element_56 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_56);
-            tmp_tuple_element_56 = mod_consts[44];
+            tmp_tuple_element_56 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_56);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[175];
-            tmp_tuple_element_57 = mod_consts[176];
+            tmp_dict_key_1 = mod_consts[174];
+            tmp_tuple_element_57 = mod_consts[175];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_57);
-            tmp_tuple_element_57 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_57 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_57 == NULL)) {
-                tmp_tuple_element_57 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_57 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_57 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_57);
-            tmp_tuple_element_57 = mod_consts[44];
+            tmp_tuple_element_57 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_57);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[177];
-            tmp_tuple_element_58 = mod_consts[178];
+            tmp_dict_key_1 = mod_consts[176];
+            tmp_tuple_element_58 = mod_consts[177];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_58);
-            tmp_tuple_element_58 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_58 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_58 == NULL)) {
-                tmp_tuple_element_58 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_58 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_58 == NULL));
@@ -4540,31 +4540,31 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[179];
-            tmp_tuple_element_59 = mod_consts[180];
+            tmp_dict_key_1 = mod_consts[178];
+            tmp_tuple_element_59 = mod_consts[179];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_59);
-            tmp_tuple_element_59 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
+            tmp_tuple_element_59 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[46]);
 
             if (unlikely(tmp_tuple_element_59 == NULL)) {
-                tmp_tuple_element_59 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+                tmp_tuple_element_59 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
             }
 
             assert(!(tmp_tuple_element_59 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_59);
-            tmp_tuple_element_59 = mod_consts[44];
+            tmp_tuple_element_59 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_59);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[181];
-            tmp_tuple_element_60 = mod_consts[182];
+            tmp_dict_key_1 = mod_consts[180];
+            tmp_tuple_element_60 = mod_consts[181];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_60);
-            tmp_tuple_element_60 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_60 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_60 == NULL)) {
-                tmp_tuple_element_60 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_60 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_60 == NULL));
@@ -4574,14 +4574,14 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[183];
-            tmp_tuple_element_61 = mod_consts[184];
+            tmp_dict_key_1 = mod_consts[182];
+            tmp_tuple_element_61 = mod_consts[183];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_61);
-            tmp_tuple_element_61 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_61 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_61 == NULL)) {
-                tmp_tuple_element_61 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_61 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_61 == NULL));
@@ -4591,14 +4591,14 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[185];
-            tmp_tuple_element_62 = mod_consts[186];
+            tmp_dict_key_1 = mod_consts[184];
+            tmp_tuple_element_62 = mod_consts[185];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_62);
-            tmp_tuple_element_62 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[65]);
+            tmp_tuple_element_62 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[64]);
 
             if (unlikely(tmp_tuple_element_62 == NULL)) {
-                tmp_tuple_element_62 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[65]);
+                tmp_tuple_element_62 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[64]);
             }
 
             assert(!(tmp_tuple_element_62 == NULL));
@@ -4608,14 +4608,14 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[187];
-            tmp_tuple_element_63 = mod_consts[188];
+            tmp_dict_key_1 = mod_consts[186];
+            tmp_tuple_element_63 = mod_consts[187];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_63);
-            tmp_tuple_element_63 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[65]);
+            tmp_tuple_element_63 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[64]);
 
             if (unlikely(tmp_tuple_element_63 == NULL)) {
-                tmp_tuple_element_63 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[65]);
+                tmp_tuple_element_63 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[64]);
             }
 
             assert(!(tmp_tuple_element_63 == NULL));
@@ -4625,116 +4625,116 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[189];
-            tmp_tuple_element_64 = mod_consts[190];
+            tmp_dict_key_1 = mod_consts[188];
+            tmp_tuple_element_64 = mod_consts[189];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_64);
-            tmp_tuple_element_64 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_64 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_64 == NULL)) {
-                tmp_tuple_element_64 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_64 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_64 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_64);
-            tmp_tuple_element_64 = mod_consts[52];
+            tmp_tuple_element_64 = mod_consts[51];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_64);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[191];
-            tmp_tuple_element_65 = mod_consts[192];
+            tmp_dict_key_1 = mod_consts[190];
+            tmp_tuple_element_65 = mod_consts[191];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_65);
-            tmp_tuple_element_65 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[55]);
+            tmp_tuple_element_65 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[54]);
 
             if (unlikely(tmp_tuple_element_65 == NULL)) {
-                tmp_tuple_element_65 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[55]);
+                tmp_tuple_element_65 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[54]);
             }
 
             assert(!(tmp_tuple_element_65 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_65);
-            tmp_tuple_element_65 = mod_consts[44];
+            tmp_tuple_element_65 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_65);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[193];
-            tmp_tuple_element_66 = mod_consts[194];
+            tmp_dict_key_1 = mod_consts[192];
+            tmp_tuple_element_66 = mod_consts[193];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_66);
-            tmp_tuple_element_66 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_66 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_66 == NULL)) {
-                tmp_tuple_element_66 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_66 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_66 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_66);
-            tmp_tuple_element_66 = mod_consts[44];
+            tmp_tuple_element_66 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_66);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[195];
-            tmp_tuple_element_67 = mod_consts[196];
+            tmp_dict_key_1 = mod_consts[194];
+            tmp_tuple_element_67 = mod_consts[195];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_67);
-            tmp_tuple_element_67 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_67 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_67 == NULL)) {
-                tmp_tuple_element_67 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_67 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_67 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_67);
-            tmp_tuple_element_67 = mod_consts[44];
+            tmp_tuple_element_67 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_67);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[197];
-            tmp_tuple_element_68 = mod_consts[198];
+            tmp_dict_key_1 = mod_consts[196];
+            tmp_tuple_element_68 = mod_consts[197];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_68);
-            tmp_tuple_element_68 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_68 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_68 == NULL)) {
-                tmp_tuple_element_68 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_68 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_68 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_68);
-            tmp_tuple_element_68 = mod_consts[44];
+            tmp_tuple_element_68 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_68);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[199];
-            tmp_tuple_element_69 = mod_consts[200];
+            tmp_dict_key_1 = mod_consts[198];
+            tmp_tuple_element_69 = mod_consts[199];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_69);
-            tmp_tuple_element_69 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_69 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_69 == NULL)) {
-                tmp_tuple_element_69 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_69 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_69 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_69);
-            tmp_tuple_element_69 = mod_consts[44];
+            tmp_tuple_element_69 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_69);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[201];
-            tmp_tuple_element_70 = mod_consts[202];
+            tmp_dict_key_1 = mod_consts[200];
+            tmp_tuple_element_70 = mod_consts[201];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_70);
-            tmp_tuple_element_70 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_70 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_70 == NULL)) {
-                tmp_tuple_element_70 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_70 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_70 == NULL));
@@ -4744,14 +4744,14 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[203];
-            tmp_tuple_element_71 = mod_consts[204];
+            tmp_dict_key_1 = mod_consts[202];
+            tmp_tuple_element_71 = mod_consts[203];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_71);
-            tmp_tuple_element_71 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_71 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_71 == NULL)) {
-                tmp_tuple_element_71 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_71 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_71 == NULL));
@@ -4761,14 +4761,14 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[205];
-            tmp_tuple_element_72 = mod_consts[206];
+            tmp_dict_key_1 = mod_consts[204];
+            tmp_tuple_element_72 = mod_consts[205];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_72);
-            tmp_tuple_element_72 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_72 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_72 == NULL)) {
-                tmp_tuple_element_72 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_72 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_72 == NULL));
@@ -4778,14 +4778,14 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[207];
-            tmp_tuple_element_73 = mod_consts[208];
+            tmp_dict_key_1 = mod_consts[206];
+            tmp_tuple_element_73 = mod_consts[207];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_73);
-            tmp_tuple_element_73 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_73 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_73 == NULL)) {
-                tmp_tuple_element_73 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_73 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_73 == NULL));
@@ -4795,14 +4795,14 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[209];
-            tmp_tuple_element_74 = mod_consts[210];
+            tmp_dict_key_1 = mod_consts[208];
+            tmp_tuple_element_74 = mod_consts[209];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_74);
-            tmp_tuple_element_74 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_74 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_74 == NULL)) {
-                tmp_tuple_element_74 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_74 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_74 == NULL));
@@ -4812,14 +4812,14 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[211];
-            tmp_tuple_element_75 = mod_consts[212];
+            tmp_dict_key_1 = mod_consts[210];
+            tmp_tuple_element_75 = mod_consts[211];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_75);
-            tmp_tuple_element_75 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[51]);
+            tmp_tuple_element_75 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[50]);
 
             if (unlikely(tmp_tuple_element_75 == NULL)) {
-                tmp_tuple_element_75 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+                tmp_tuple_element_75 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
             }
 
             assert(!(tmp_tuple_element_75 == NULL));
@@ -4829,65 +4829,65 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[213];
-            tmp_tuple_element_76 = mod_consts[214];
+            tmp_dict_key_1 = mod_consts[212];
+            tmp_tuple_element_76 = mod_consts[213];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_76);
-            tmp_tuple_element_76 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_76 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_76 == NULL)) {
-                tmp_tuple_element_76 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_76 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_76 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_76);
-            tmp_tuple_element_76 = mod_consts[46];
+            tmp_tuple_element_76 = mod_consts[45];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_76);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[215];
-            tmp_tuple_element_77 = mod_consts[216];
+            tmp_dict_key_1 = mod_consts[214];
+            tmp_tuple_element_77 = mod_consts[215];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_77);
-            tmp_tuple_element_77 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_77 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_77 == NULL)) {
-                tmp_tuple_element_77 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_77 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_77 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_77);
-            tmp_tuple_element_77 = mod_consts[44];
+            tmp_tuple_element_77 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_77);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[217];
-            tmp_tuple_element_78 = mod_consts[218];
+            tmp_dict_key_1 = mod_consts[216];
+            tmp_tuple_element_78 = mod_consts[217];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_78);
-            tmp_tuple_element_78 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[51]);
+            tmp_tuple_element_78 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[50]);
 
             if (unlikely(tmp_tuple_element_78 == NULL)) {
-                tmp_tuple_element_78 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+                tmp_tuple_element_78 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
             }
 
             assert(!(tmp_tuple_element_78 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_78);
-            tmp_tuple_element_78 = mod_consts[52];
+            tmp_tuple_element_78 = mod_consts[51];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_78);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[219];
-            tmp_tuple_element_79 = mod_consts[220];
+            tmp_dict_key_1 = mod_consts[218];
+            tmp_tuple_element_79 = mod_consts[219];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_79);
-            tmp_tuple_element_79 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[45]);
+            tmp_tuple_element_79 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[44]);
 
             if (unlikely(tmp_tuple_element_79 == NULL)) {
-                tmp_tuple_element_79 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+                tmp_tuple_element_79 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
             }
 
             assert(!(tmp_tuple_element_79 == NULL));
@@ -4897,31 +4897,31 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[221];
-            tmp_tuple_element_80 = mod_consts[222];
+            tmp_dict_key_1 = mod_consts[220];
+            tmp_tuple_element_80 = mod_consts[221];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_80);
-            tmp_tuple_element_80 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
+            tmp_tuple_element_80 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[46]);
 
             if (unlikely(tmp_tuple_element_80 == NULL)) {
-                tmp_tuple_element_80 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+                tmp_tuple_element_80 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
             }
 
             assert(!(tmp_tuple_element_80 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_80);
-            tmp_tuple_element_80 = mod_consts[44];
+            tmp_tuple_element_80 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_80);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[223];
-            tmp_tuple_element_81 = mod_consts[224];
+            tmp_dict_key_1 = mod_consts[222];
+            tmp_tuple_element_81 = mod_consts[223];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_81);
-            tmp_tuple_element_81 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[55]);
+            tmp_tuple_element_81 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[54]);
 
             if (unlikely(tmp_tuple_element_81 == NULL)) {
-                tmp_tuple_element_81 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[55]);
+                tmp_tuple_element_81 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[54]);
             }
 
             assert(!(tmp_tuple_element_81 == NULL));
@@ -4931,14 +4931,14 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[225];
-            tmp_tuple_element_82 = mod_consts[226];
+            tmp_dict_key_1 = mod_consts[224];
+            tmp_tuple_element_82 = mod_consts[225];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_82);
-            tmp_tuple_element_82 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[45]);
+            tmp_tuple_element_82 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[44]);
 
             if (unlikely(tmp_tuple_element_82 == NULL)) {
-                tmp_tuple_element_82 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+                tmp_tuple_element_82 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
             }
 
             assert(!(tmp_tuple_element_82 == NULL));
@@ -4948,116 +4948,116 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[227];
-            tmp_tuple_element_83 = mod_consts[228];
+            tmp_dict_key_1 = mod_consts[226];
+            tmp_tuple_element_83 = mod_consts[227];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_83);
-            tmp_tuple_element_83 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_83 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_83 == NULL)) {
-                tmp_tuple_element_83 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_83 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_83 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_83);
-            tmp_tuple_element_83 = mod_consts[44];
+            tmp_tuple_element_83 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_83);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[229];
-            tmp_tuple_element_84 = mod_consts[230];
+            tmp_dict_key_1 = mod_consts[228];
+            tmp_tuple_element_84 = mod_consts[229];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_84);
-            tmp_tuple_element_84 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[55]);
+            tmp_tuple_element_84 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[54]);
 
             if (unlikely(tmp_tuple_element_84 == NULL)) {
-                tmp_tuple_element_84 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[55]);
+                tmp_tuple_element_84 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[54]);
             }
 
             assert(!(tmp_tuple_element_84 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_84);
-            tmp_tuple_element_84 = mod_consts[44];
+            tmp_tuple_element_84 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_84);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[231];
-            tmp_tuple_element_85 = mod_consts[232];
+            tmp_dict_key_1 = mod_consts[230];
+            tmp_tuple_element_85 = mod_consts[231];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_85);
-            tmp_tuple_element_85 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_85 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_85 == NULL)) {
-                tmp_tuple_element_85 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_85 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_85 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_85);
-            tmp_tuple_element_85 = mod_consts[44];
+            tmp_tuple_element_85 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_85);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[233];
-            tmp_tuple_element_86 = mod_consts[234];
+            tmp_dict_key_1 = mod_consts[232];
+            tmp_tuple_element_86 = mod_consts[233];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_86);
-            tmp_tuple_element_86 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[55]);
+            tmp_tuple_element_86 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[54]);
 
             if (unlikely(tmp_tuple_element_86 == NULL)) {
-                tmp_tuple_element_86 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[55]);
+                tmp_tuple_element_86 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[54]);
             }
 
             assert(!(tmp_tuple_element_86 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_86);
-            tmp_tuple_element_86 = mod_consts[44];
+            tmp_tuple_element_86 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_86);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[235];
-            tmp_tuple_element_87 = mod_consts[236];
+            tmp_dict_key_1 = mod_consts[234];
+            tmp_tuple_element_87 = mod_consts[235];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_87);
-            tmp_tuple_element_87 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_87 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_87 == NULL)) {
-                tmp_tuple_element_87 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_87 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_87 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_87);
-            tmp_tuple_element_87 = mod_consts[44];
+            tmp_tuple_element_87 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_87);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[237];
-            tmp_tuple_element_88 = mod_consts[238];
+            tmp_dict_key_1 = mod_consts[236];
+            tmp_tuple_element_88 = mod_consts[237];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_88);
-            tmp_tuple_element_88 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[55]);
+            tmp_tuple_element_88 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[54]);
 
             if (unlikely(tmp_tuple_element_88 == NULL)) {
-                tmp_tuple_element_88 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[55]);
+                tmp_tuple_element_88 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[54]);
             }
 
             assert(!(tmp_tuple_element_88 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_88);
-            tmp_tuple_element_88 = mod_consts[44];
+            tmp_tuple_element_88 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_88);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[239];
-            tmp_tuple_element_89 = mod_consts[240];
+            tmp_dict_key_1 = mod_consts[238];
+            tmp_tuple_element_89 = mod_consts[239];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_89);
-            tmp_tuple_element_89 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[55]);
+            tmp_tuple_element_89 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[54]);
 
             if (unlikely(tmp_tuple_element_89 == NULL)) {
-                tmp_tuple_element_89 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[55]);
+                tmp_tuple_element_89 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[54]);
             }
 
             assert(!(tmp_tuple_element_89 == NULL));
@@ -5067,305 +5067,305 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[241];
-            tmp_tuple_element_90 = mod_consts[242];
+            tmp_dict_key_1 = mod_consts[240];
+            tmp_tuple_element_90 = mod_consts[241];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_90);
-            tmp_tuple_element_90 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_90 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_90 == NULL)) {
-                tmp_tuple_element_90 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_90 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_90 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_90);
-            tmp_tuple_element_90 = mod_consts[44];
+            tmp_tuple_element_90 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_90);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[243];
-            tmp_tuple_element_91 = mod_consts[244];
+            tmp_dict_key_1 = mod_consts[242];
+            tmp_tuple_element_91 = mod_consts[243];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_91);
-            tmp_tuple_element_91 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_91 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_91 == NULL)) {
-                tmp_tuple_element_91 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_91 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_91 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_91);
-            tmp_tuple_element_91 = mod_consts[44];
+            tmp_tuple_element_91 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_91);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[245];
-            tmp_tuple_element_92 = mod_consts[246];
+            tmp_dict_key_1 = mod_consts[244];
+            tmp_tuple_element_92 = mod_consts[245];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_92);
-            tmp_tuple_element_92 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_92 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_92 == NULL)) {
-                tmp_tuple_element_92 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_92 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_92 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_92);
-            tmp_tuple_element_92 = mod_consts[44];
+            tmp_tuple_element_92 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_92);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[247];
-            tmp_tuple_element_93 = mod_consts[248];
+            tmp_dict_key_1 = mod_consts[246];
+            tmp_tuple_element_93 = mod_consts[247];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_93);
-            tmp_tuple_element_93 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[51]);
+            tmp_tuple_element_93 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[50]);
 
             if (unlikely(tmp_tuple_element_93 == NULL)) {
-                tmp_tuple_element_93 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+                tmp_tuple_element_93 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
             }
 
             assert(!(tmp_tuple_element_93 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_93);
-            tmp_tuple_element_93 = mod_consts[44];
+            tmp_tuple_element_93 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_93);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[249];
-            tmp_tuple_element_94 = mod_consts[250];
+            tmp_dict_key_1 = mod_consts[248];
+            tmp_tuple_element_94 = mod_consts[249];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_94);
-            tmp_tuple_element_94 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[51]);
+            tmp_tuple_element_94 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[50]);
 
             if (unlikely(tmp_tuple_element_94 == NULL)) {
-                tmp_tuple_element_94 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+                tmp_tuple_element_94 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
             }
 
             assert(!(tmp_tuple_element_94 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_94);
-            tmp_tuple_element_94 = mod_consts[44];
+            tmp_tuple_element_94 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_94);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[251];
-            tmp_tuple_element_95 = mod_consts[252];
+            tmp_dict_key_1 = mod_consts[250];
+            tmp_tuple_element_95 = mod_consts[251];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_95);
-            tmp_tuple_element_95 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_95 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_95 == NULL)) {
-                tmp_tuple_element_95 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_95 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_95 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_95);
-            tmp_tuple_element_95 = mod_consts[44];
+            tmp_tuple_element_95 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_95);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[253];
-            tmp_tuple_element_96 = mod_consts[254];
+            tmp_dict_key_1 = mod_consts[252];
+            tmp_tuple_element_96 = mod_consts[253];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_96);
-            tmp_tuple_element_96 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[61]);
+            tmp_tuple_element_96 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[60]);
 
             if (unlikely(tmp_tuple_element_96 == NULL)) {
-                tmp_tuple_element_96 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[61]);
+                tmp_tuple_element_96 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[60]);
             }
 
             assert(!(tmp_tuple_element_96 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_96);
-            tmp_tuple_element_96 = mod_consts[44];
+            tmp_tuple_element_96 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_96);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[255];
-            tmp_tuple_element_97 = mod_consts[256];
+            tmp_dict_key_1 = mod_consts[254];
+            tmp_tuple_element_97 = mod_consts[255];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_97);
-            tmp_tuple_element_97 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[51]);
+            tmp_tuple_element_97 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[50]);
 
             if (unlikely(tmp_tuple_element_97 == NULL)) {
-                tmp_tuple_element_97 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+                tmp_tuple_element_97 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
             }
 
             assert(!(tmp_tuple_element_97 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_97);
-            tmp_tuple_element_97 = mod_consts[44];
+            tmp_tuple_element_97 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_97);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[257];
-            tmp_tuple_element_98 = mod_consts[258];
+            tmp_dict_key_1 = mod_consts[256];
+            tmp_tuple_element_98 = mod_consts[257];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_98);
-            tmp_tuple_element_98 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[61]);
+            tmp_tuple_element_98 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[60]);
 
             if (unlikely(tmp_tuple_element_98 == NULL)) {
-                tmp_tuple_element_98 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[61]);
+                tmp_tuple_element_98 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[60]);
             }
 
             assert(!(tmp_tuple_element_98 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_98);
-            tmp_tuple_element_98 = mod_consts[44];
+            tmp_tuple_element_98 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_98);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[259];
-            tmp_tuple_element_99 = mod_consts[260];
+            tmp_dict_key_1 = mod_consts[258];
+            tmp_tuple_element_99 = mod_consts[259];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_99);
-            tmp_tuple_element_99 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[61]);
+            tmp_tuple_element_99 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[60]);
 
             if (unlikely(tmp_tuple_element_99 == NULL)) {
-                tmp_tuple_element_99 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[61]);
+                tmp_tuple_element_99 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[60]);
             }
 
             assert(!(tmp_tuple_element_99 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_99);
-            tmp_tuple_element_99 = mod_consts[44];
+            tmp_tuple_element_99 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_99);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[261];
-            tmp_tuple_element_100 = mod_consts[262];
+            tmp_dict_key_1 = mod_consts[260];
+            tmp_tuple_element_100 = mod_consts[261];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_100);
-            tmp_tuple_element_100 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[61]);
+            tmp_tuple_element_100 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[60]);
 
             if (unlikely(tmp_tuple_element_100 == NULL)) {
-                tmp_tuple_element_100 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[61]);
+                tmp_tuple_element_100 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[60]);
             }
 
             assert(!(tmp_tuple_element_100 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_100);
-            tmp_tuple_element_100 = mod_consts[44];
+            tmp_tuple_element_100 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_100);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[263];
-            tmp_tuple_element_101 = mod_consts[264];
+            tmp_dict_key_1 = mod_consts[262];
+            tmp_tuple_element_101 = mod_consts[263];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_101);
-            tmp_tuple_element_101 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[61]);
+            tmp_tuple_element_101 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[60]);
 
             if (unlikely(tmp_tuple_element_101 == NULL)) {
-                tmp_tuple_element_101 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[61]);
+                tmp_tuple_element_101 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[60]);
             }
 
             assert(!(tmp_tuple_element_101 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_101);
-            tmp_tuple_element_101 = mod_consts[44];
+            tmp_tuple_element_101 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_101);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[265];
-            tmp_tuple_element_102 = mod_consts[266];
+            tmp_dict_key_1 = mod_consts[264];
+            tmp_tuple_element_102 = mod_consts[265];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_102);
-            tmp_tuple_element_102 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[61]);
+            tmp_tuple_element_102 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[60]);
 
             if (unlikely(tmp_tuple_element_102 == NULL)) {
-                tmp_tuple_element_102 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[61]);
+                tmp_tuple_element_102 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[60]);
             }
 
             assert(!(tmp_tuple_element_102 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_102);
-            tmp_tuple_element_102 = mod_consts[44];
+            tmp_tuple_element_102 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_102);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[267];
-            tmp_tuple_element_103 = mod_consts[268];
+            tmp_dict_key_1 = mod_consts[266];
+            tmp_tuple_element_103 = mod_consts[267];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_103);
-            tmp_tuple_element_103 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[61]);
+            tmp_tuple_element_103 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[60]);
 
             if (unlikely(tmp_tuple_element_103 == NULL)) {
-                tmp_tuple_element_103 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[61]);
+                tmp_tuple_element_103 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[60]);
             }
 
             assert(!(tmp_tuple_element_103 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_103);
-            tmp_tuple_element_103 = mod_consts[44];
+            tmp_tuple_element_103 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_103);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[269];
-            tmp_tuple_element_104 = mod_consts[270];
+            tmp_dict_key_1 = mod_consts[268];
+            tmp_tuple_element_104 = mod_consts[269];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_104);
-            tmp_tuple_element_104 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[61]);
+            tmp_tuple_element_104 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[60]);
 
             if (unlikely(tmp_tuple_element_104 == NULL)) {
-                tmp_tuple_element_104 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[61]);
+                tmp_tuple_element_104 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[60]);
             }
 
             assert(!(tmp_tuple_element_104 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_104);
-            tmp_tuple_element_104 = mod_consts[44];
+            tmp_tuple_element_104 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_104);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[271];
-            tmp_tuple_element_105 = mod_consts[272];
+            tmp_dict_key_1 = mod_consts[270];
+            tmp_tuple_element_105 = mod_consts[271];
             tmp_dict_value_1 = PyTuple_New(4);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_105);
-            tmp_tuple_element_105 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
+            tmp_tuple_element_105 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[47]);
 
             if (unlikely(tmp_tuple_element_105 == NULL)) {
-                tmp_tuple_element_105 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
+                tmp_tuple_element_105 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
             }
 
             assert(!(tmp_tuple_element_105 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_105);
-            tmp_tuple_element_105 = mod_consts[44];
+            tmp_tuple_element_105 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_105);
-            tmp_tuple_element_105 = PyDict_Copy(mod_consts[273]);
+            tmp_tuple_element_105 = PyDict_Copy(mod_consts[272]);
             PyTuple_SET_ITEM(tmp_dict_value_1, 3, tmp_tuple_element_105);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[274];
-            tmp_tuple_element_106 = mod_consts[275];
+            tmp_dict_key_1 = mod_consts[273];
+            tmp_tuple_element_106 = mod_consts[274];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_106);
-            tmp_tuple_element_106 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[51]);
+            tmp_tuple_element_106 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[50]);
 
             if (unlikely(tmp_tuple_element_106 == NULL)) {
-                tmp_tuple_element_106 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+                tmp_tuple_element_106 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
             }
 
             assert(!(tmp_tuple_element_106 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_106);
-            tmp_tuple_element_106 = mod_consts[44];
+            tmp_tuple_element_106 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_106);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[276];
-            tmp_tuple_element_107 = mod_consts[277];
+            tmp_dict_key_1 = mod_consts[275];
+            tmp_tuple_element_107 = mod_consts[276];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_107);
-            tmp_tuple_element_107 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[49]);
+            tmp_tuple_element_107 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[48]);
 
             if (unlikely(tmp_tuple_element_107 == NULL)) {
-                tmp_tuple_element_107 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+                tmp_tuple_element_107 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
             }
 
             assert(!(tmp_tuple_element_107 == NULL));
@@ -5375,19 +5375,19 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[278];
-            tmp_tuple_element_108 = mod_consts[279];
+            tmp_dict_key_1 = mod_consts[277];
+            tmp_tuple_element_108 = mod_consts[278];
             tmp_dict_value_1 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_dict_value_1, 0, tmp_tuple_element_108);
-            tmp_tuple_element_108 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[55]);
+            tmp_tuple_element_108 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[54]);
 
             if (unlikely(tmp_tuple_element_108 == NULL)) {
-                tmp_tuple_element_108 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[55]);
+                tmp_tuple_element_108 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[54]);
             }
 
             assert(!(tmp_tuple_element_108 == NULL));
             PyTuple_SET_ITEM0(tmp_dict_value_1, 1, tmp_tuple_element_108);
-            tmp_tuple_element_108 = mod_consts[44];
+            tmp_tuple_element_108 = mod_consts[43];
             PyTuple_SET_ITEM0(tmp_dict_value_1, 2, tmp_tuple_element_108);
             tmp_res = PyDict_SetItem(tmp_assign_source_26, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
@@ -5397,7 +5397,7 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
     }
     {
         PyObject *tmp_assign_source_27;
-        tmp_assign_source_27 = PyDict_Copy(mod_consts[280]);
+        tmp_assign_source_27 = PyDict_Copy(mod_consts[279]);
         UPDATE_STRING_DICT1(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[7], tmp_assign_source_27);
     }
     {
@@ -5406,19 +5406,19 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
 
         tmp_assign_source_28 = MAKE_FUNCTION_PIL$TiffTags$$$function__4__populate();
 
-        UPDATE_STRING_DICT1(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[281], tmp_assign_source_28);
+        UPDATE_STRING_DICT1(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[280], tmp_assign_source_28);
     }
     {
         PyObject *tmp_called_name_4;
         PyObject *tmp_call_result_1;
-        tmp_called_name_4 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[281]);
+        tmp_called_name_4 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[280]);
 
         if (unlikely(tmp_called_name_4 == NULL)) {
-            tmp_called_name_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[281]);
+            tmp_called_name_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[280]);
         }
 
         assert(!(tmp_called_name_4 == NULL));
-        frame_9724090897a44740195f6ef0dad03089->m_frame.f_lineno = 370;
+        frame_bcbb63d4f32c0e07635b09419af7dfd6->m_frame.f_lineno = 370;
         tmp_call_result_1 = CALL_FUNCTION_NO_ARGS(tmp_called_name_4);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5435,28 +5435,28 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
     {
         PyObject *tmp_assign_source_29;
         tmp_assign_source_29 = PyDict_New();
-        UPDATE_STRING_DICT1(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[282], tmp_assign_source_29);
+        UPDATE_STRING_DICT1(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[281], tmp_assign_source_29);
     }
     {
         PyObject *tmp_assign_source_30;
-        tmp_assign_source_30 = PySet_New(mod_consts[283]);
-        UPDATE_STRING_DICT1(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[284], tmp_assign_source_30);
+        tmp_assign_source_30 = PySet_New(mod_consts[282]);
+        UPDATE_STRING_DICT1(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[283], tmp_assign_source_30);
     }
     {
         PyObject *tmp_called_instance_1;
         PyObject *tmp_call_result_2;
-        tmp_called_instance_1 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[284]);
+        tmp_called_instance_1 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[283]);
 
         if (unlikely(tmp_called_instance_1 == NULL)) {
-            tmp_called_instance_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[284]);
+            tmp_called_instance_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[283]);
         }
 
         assert(!(tmp_called_instance_1 == NULL));
-        frame_9724090897a44740195f6ef0dad03089->m_frame.f_lineno = 486;
+        frame_bcbb63d4f32c0e07635b09419af7dfd6->m_frame.f_lineno = 486;
         tmp_call_result_2 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_1,
-            mod_consts[285],
-            &PyTuple_GET_ITEM(mod_consts[286], 0)
+            mod_consts[284],
+            &PyTuple_GET_ITEM(mod_consts[285], 0)
         );
 
         if (tmp_call_result_2 == NULL) {
@@ -5474,10 +5474,10 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
     {
         PyObject *tmp_called_instance_2;
         PyObject *tmp_call_result_3;
-        tmp_called_instance_2 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[284]);
+        tmp_called_instance_2 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[283]);
 
         if (unlikely(tmp_called_instance_2 == NULL)) {
-            tmp_called_instance_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[284]);
+            tmp_called_instance_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[283]);
         }
 
         if (tmp_called_instance_2 == NULL) {
@@ -5490,11 +5490,11 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
 
             goto frame_exception_exit_1;
         }
-        frame_9724090897a44740195f6ef0dad03089->m_frame.f_lineno = 487;
+        frame_bcbb63d4f32c0e07635b09419af7dfd6->m_frame.f_lineno = 487;
         tmp_call_result_3 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_2,
-            mod_consts[285],
-            &PyTuple_GET_ITEM(mod_consts[287], 0)
+            mod_consts[284],
+            &PyTuple_GET_ITEM(mod_consts[286], 0)
         );
 
         if (tmp_call_result_3 == NULL) {
@@ -5512,10 +5512,10 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
     {
         PyObject *tmp_called_instance_3;
         PyObject *tmp_call_result_4;
-        tmp_called_instance_3 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[284]);
+        tmp_called_instance_3 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[283]);
 
         if (unlikely(tmp_called_instance_3 == NULL)) {
-            tmp_called_instance_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[284]);
+            tmp_called_instance_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[283]);
         }
 
         if (tmp_called_instance_3 == NULL) {
@@ -5528,11 +5528,11 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
 
             goto frame_exception_exit_1;
         }
-        frame_9724090897a44740195f6ef0dad03089->m_frame.f_lineno = 488;
+        frame_bcbb63d4f32c0e07635b09419af7dfd6->m_frame.f_lineno = 488;
         tmp_call_result_4 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_3,
-            mod_consts[285],
-            &PyTuple_GET_ITEM(mod_consts[288], 0)
+            mod_consts[284],
+            &PyTuple_GET_ITEM(mod_consts[287], 0)
         );
 
         if (tmp_call_result_4 == NULL) {
@@ -5550,10 +5550,10 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
     {
         PyObject *tmp_called_instance_4;
         PyObject *tmp_call_result_5;
-        tmp_called_instance_4 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[284]);
+        tmp_called_instance_4 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[283]);
 
         if (unlikely(tmp_called_instance_4 == NULL)) {
-            tmp_called_instance_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[284]);
+            tmp_called_instance_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[283]);
         }
 
         if (tmp_called_instance_4 == NULL) {
@@ -5566,11 +5566,11 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
 
             goto frame_exception_exit_1;
         }
-        frame_9724090897a44740195f6ef0dad03089->m_frame.f_lineno = 490;
+        frame_bcbb63d4f32c0e07635b09419af7dfd6->m_frame.f_lineno = 490;
         tmp_call_result_5 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_4,
-            mod_consts[285],
-            &PyTuple_GET_ITEM(mod_consts[289], 0)
+            mod_consts[284],
+            &PyTuple_GET_ITEM(mod_consts[288], 0)
         );
 
         if (tmp_call_result_5 == NULL) {
@@ -5588,10 +5588,10 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
     {
         PyObject *tmp_called_instance_5;
         PyObject *tmp_call_result_6;
-        tmp_called_instance_5 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[284]);
+        tmp_called_instance_5 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[283]);
 
         if (unlikely(tmp_called_instance_5 == NULL)) {
-            tmp_called_instance_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[284]);
+            tmp_called_instance_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[283]);
         }
 
         if (tmp_called_instance_5 == NULL) {
@@ -5604,11 +5604,11 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
 
             goto frame_exception_exit_1;
         }
-        frame_9724090897a44740195f6ef0dad03089->m_frame.f_lineno = 491;
+        frame_bcbb63d4f32c0e07635b09419af7dfd6->m_frame.f_lineno = 491;
         tmp_call_result_6 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_5,
-            mod_consts[285],
-            &PyTuple_GET_ITEM(mod_consts[290], 0)
+            mod_consts[284],
+            &PyTuple_GET_ITEM(mod_consts[289], 0)
         );
 
         if (tmp_call_result_6 == NULL) {
@@ -5626,10 +5626,10 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
     {
         PyObject *tmp_called_instance_6;
         PyObject *tmp_call_result_7;
-        tmp_called_instance_6 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[284]);
+        tmp_called_instance_6 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[283]);
 
         if (unlikely(tmp_called_instance_6 == NULL)) {
-            tmp_called_instance_6 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[284]);
+            tmp_called_instance_6 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[283]);
         }
 
         if (tmp_called_instance_6 == NULL) {
@@ -5642,11 +5642,11 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
 
             goto frame_exception_exit_1;
         }
-        frame_9724090897a44740195f6ef0dad03089->m_frame.f_lineno = 492;
+        frame_bcbb63d4f32c0e07635b09419af7dfd6->m_frame.f_lineno = 492;
         tmp_call_result_7 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_6,
-            mod_consts[285],
-            &PyTuple_GET_ITEM(mod_consts[291], 0)
+            mod_consts[284],
+            &PyTuple_GET_ITEM(mod_consts[290], 0)
         );
 
         if (tmp_call_result_7 == NULL) {
@@ -5664,10 +5664,10 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
     {
         PyObject *tmp_called_instance_7;
         PyObject *tmp_call_result_8;
-        tmp_called_instance_7 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[284]);
+        tmp_called_instance_7 = GET_STRING_DICT_VALUE(moduledict_PIL$TiffTags, (Nuitka_StringObject *)mod_consts[283]);
 
         if (unlikely(tmp_called_instance_7 == NULL)) {
-            tmp_called_instance_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[284]);
+            tmp_called_instance_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[283]);
         }
 
         if (tmp_called_instance_7 == NULL) {
@@ -5680,11 +5680,11 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
 
             goto frame_exception_exit_1;
         }
-        frame_9724090897a44740195f6ef0dad03089->m_frame.f_lineno = 493;
+        frame_bcbb63d4f32c0e07635b09419af7dfd6->m_frame.f_lineno = 493;
         tmp_call_result_8 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_7,
-            mod_consts[285],
-            &PyTuple_GET_ITEM(mod_consts[292], 0)
+            mod_consts[284],
+            &PyTuple_GET_ITEM(mod_consts[291], 0)
         );
 
         if (tmp_call_result_8 == NULL) {
@@ -5702,23 +5702,23 @@ PyObject *modulecode_PIL$TiffTags(PyObject *module, struct Nuitka_MetaPathBasedL
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9724090897a44740195f6ef0dad03089);
+    RESTORE_FRAME_EXCEPTION(frame_bcbb63d4f32c0e07635b09419af7dfd6);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_9724090897a44740195f6ef0dad03089);
+    assertFrameObject(frame_bcbb63d4f32c0e07635b09419af7dfd6);
 
     goto frame_no_exception_2;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9724090897a44740195f6ef0dad03089);
+    RESTORE_FRAME_EXCEPTION(frame_bcbb63d4f32c0e07635b09419af7dfd6);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_9724090897a44740195f6ef0dad03089, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_9724090897a44740195f6ef0dad03089->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_9724090897a44740195f6ef0dad03089, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_bcbb63d4f32c0e07635b09419af7dfd6, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_bcbb63d4f32c0e07635b09419af7dfd6->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_bcbb63d4f32c0e07635b09419af7dfd6, exception_lineno);
     }
 
     // Put the previous frame back on top.

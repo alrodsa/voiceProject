@@ -65,11 +65,11 @@ void checkModuleConstants_chardet$langcyrillicmodel(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_93fe292e644addd0da11f8adc3b514fd;
+static PyCodeObject *codeobj_85b08c15b72df336e55374cd27c942f8;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[1]; CHECK_OBJECT(module_filename_obj);
-    codeobj_93fe292e644addd0da11f8adc3b514fd = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[41], NULL, NULL, 0, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[40]); CHECK_OBJECT(module_filename_obj);
+    codeobj_85b08c15b72df336e55374cd27c942f8 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[41], NULL, NULL, 0, 0, 0);
 }
 
 // The module function declarations.
@@ -449,7 +449,7 @@ PyObject *modulecode_chardet$langcyrillicmodel(PyObject *module, struct Nuitka_M
 #endif
 
     // Temp variables if any
-    struct Nuitka_FrameObject *frame_93fe292e644addd0da11f8adc3b514fd;
+    struct Nuitka_FrameObject *frame_85b08c15b72df336e55374cd27c942f8;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -466,30 +466,30 @@ PyObject *modulecode_chardet$langcyrillicmodel(PyObject *module, struct Nuitka_M
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[1];
-        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[2], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[1], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_93fe292e644addd0da11f8adc3b514fd = MAKE_MODULE_FRAME(codeobj_93fe292e644addd0da11f8adc3b514fd, module_chardet$langcyrillicmodel);
+    frame_85b08c15b72df336e55374cd27c942f8 = MAKE_MODULE_FRAME(codeobj_85b08c15b72df336e55374cd27c942f8, module_chardet$langcyrillicmodel);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_93fe292e644addd0da11f8adc3b514fd);
-    assert(Py_REFCNT(frame_93fe292e644addd0da11f8adc3b514fd) == 2);
+    pushFrameStack(frame_85b08c15b72df336e55374cd27c942f8);
+    assert(Py_REFCNT(frame_85b08c15b72df336e55374cd27c942f8) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[1];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[3]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[2]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[2]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[4], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[3], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -505,14 +505,14 @@ PyObject *modulecode_chardet$langcyrillicmodel(PyObject *module, struct Nuitka_M
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[3]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[2]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[2]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[5], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[4], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -527,23 +527,23 @@ PyObject *modulecode_chardet$langcyrillicmodel(PyObject *module, struct Nuitka_M
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_93fe292e644addd0da11f8adc3b514fd);
+    RESTORE_FRAME_EXCEPTION(frame_85b08c15b72df336e55374cd27c942f8);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_93fe292e644addd0da11f8adc3b514fd);
+    assertFrameObject(frame_85b08c15b72df336e55374cd27c942f8);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_93fe292e644addd0da11f8adc3b514fd);
+    RESTORE_FRAME_EXCEPTION(frame_85b08c15b72df336e55374cd27c942f8);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_93fe292e644addd0da11f8adc3b514fd, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_93fe292e644addd0da11f8adc3b514fd->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_93fe292e644addd0da11f8adc3b514fd, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_85b08c15b72df336e55374cd27c942f8, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_85b08c15b72df336e55374cd27c942f8->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_85b08c15b72df336e55374cd27c942f8, exception_lineno);
     }
 
     // Put the previous frame back on top.
@@ -556,300 +556,300 @@ PyObject *modulecode_chardet$langcyrillicmodel(PyObject *module, struct Nuitka_M
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[6], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[5], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
-        tmp_assign_source_4 = mod_consts[7];
-        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[8], tmp_assign_source_4);
+        tmp_assign_source_4 = mod_consts[6];
+        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[7], tmp_assign_source_4);
     }
     {
         PyObject *tmp_assign_source_5;
-        tmp_assign_source_5 = mod_consts[9];
-        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[10], tmp_assign_source_5);
+        tmp_assign_source_5 = mod_consts[8];
+        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[9], tmp_assign_source_5);
     }
     {
         PyObject *tmp_assign_source_6;
-        tmp_assign_source_6 = mod_consts[11];
-        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[12], tmp_assign_source_6);
+        tmp_assign_source_6 = mod_consts[10];
+        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[11], tmp_assign_source_6);
     }
     {
         PyObject *tmp_assign_source_7;
-        tmp_assign_source_7 = mod_consts[13];
-        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[14], tmp_assign_source_7);
+        tmp_assign_source_7 = mod_consts[12];
+        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[13], tmp_assign_source_7);
     }
     {
         PyObject *tmp_assign_source_8;
-        tmp_assign_source_8 = mod_consts[15];
-        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[16], tmp_assign_source_8);
+        tmp_assign_source_8 = mod_consts[14];
+        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[15], tmp_assign_source_8);
     }
     {
         PyObject *tmp_assign_source_9;
-        tmp_assign_source_9 = mod_consts[17];
-        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[18], tmp_assign_source_9);
+        tmp_assign_source_9 = mod_consts[16];
+        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[17], tmp_assign_source_9);
     }
     {
         PyObject *tmp_assign_source_10;
-        tmp_assign_source_10 = mod_consts[19];
-        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[20], tmp_assign_source_10);
+        tmp_assign_source_10 = mod_consts[18];
+        UPDATE_STRING_DICT0(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[19], tmp_assign_source_10);
     }
     {
         PyObject *tmp_assign_source_11;
         PyObject *tmp_dict_key_1;
         PyObject *tmp_dict_value_1;
-        tmp_dict_key_1 = mod_consts[21];
-        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[8]);
+        tmp_dict_key_1 = mod_consts[20];
+        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[7]);
 
         if (unlikely(tmp_dict_value_1 == NULL)) {
-            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[8]);
+            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[7]);
         }
 
         assert(!(tmp_dict_value_1 == NULL));
         tmp_assign_source_11 = _PyDict_NewPresized( 6 );
         tmp_res = PyDict_SetItem(tmp_assign_source_11, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        tmp_dict_key_1 = mod_consts[22];
-        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[20]);
+        tmp_dict_key_1 = mod_consts[21];
+        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[19]);
 
         if (unlikely(tmp_dict_value_1 == NULL)) {
-            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[20]);
+            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[19]);
         }
 
         assert(!(tmp_dict_value_1 == NULL));
         tmp_res = PyDict_SetItem(tmp_assign_source_11, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        tmp_dict_key_1 = mod_consts[23];
-        tmp_dict_value_1 = mod_consts[24];
+        tmp_dict_key_1 = mod_consts[22];
+        tmp_dict_value_1 = mod_consts[23];
         tmp_res = PyDict_SetItem(tmp_assign_source_11, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        tmp_dict_key_1 = mod_consts[25];
+        tmp_dict_key_1 = mod_consts[24];
         tmp_dict_value_1 = Py_False;
         tmp_res = PyDict_SetItem(tmp_assign_source_11, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        tmp_dict_key_1 = mod_consts[26];
-        tmp_dict_value_1 = mod_consts[27];
+        tmp_dict_key_1 = mod_consts[25];
+        tmp_dict_value_1 = mod_consts[26];
         tmp_res = PyDict_SetItem(tmp_assign_source_11, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        tmp_dict_key_1 = mod_consts[28];
-        tmp_dict_value_1 = mod_consts[29];
+        tmp_dict_key_1 = mod_consts[27];
+        tmp_dict_value_1 = mod_consts[28];
         tmp_res = PyDict_SetItem(tmp_assign_source_11, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        UPDATE_STRING_DICT1(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[30], tmp_assign_source_11);
+        UPDATE_STRING_DICT1(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[29], tmp_assign_source_11);
     }
     {
         PyObject *tmp_assign_source_12;
         PyObject *tmp_dict_key_2;
         PyObject *tmp_dict_value_2;
-        tmp_dict_key_2 = mod_consts[21];
-        tmp_dict_value_2 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[10]);
+        tmp_dict_key_2 = mod_consts[20];
+        tmp_dict_value_2 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[9]);
 
         if (unlikely(tmp_dict_value_2 == NULL)) {
-            tmp_dict_value_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[10]);
+            tmp_dict_value_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[9]);
         }
 
         assert(!(tmp_dict_value_2 == NULL));
         tmp_assign_source_12 = _PyDict_NewPresized( 6 );
         tmp_res = PyDict_SetItem(tmp_assign_source_12, tmp_dict_key_2, tmp_dict_value_2);
         assert(!(tmp_res != 0));
-        tmp_dict_key_2 = mod_consts[22];
-        tmp_dict_value_2 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[20]);
+        tmp_dict_key_2 = mod_consts[21];
+        tmp_dict_value_2 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[19]);
 
         if (unlikely(tmp_dict_value_2 == NULL)) {
-            tmp_dict_value_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[20]);
+            tmp_dict_value_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[19]);
         }
 
         assert(!(tmp_dict_value_2 == NULL));
         tmp_res = PyDict_SetItem(tmp_assign_source_12, tmp_dict_key_2, tmp_dict_value_2);
         assert(!(tmp_res != 0));
-        tmp_dict_key_2 = mod_consts[23];
-        tmp_dict_value_2 = mod_consts[24];
+        tmp_dict_key_2 = mod_consts[22];
+        tmp_dict_value_2 = mod_consts[23];
         tmp_res = PyDict_SetItem(tmp_assign_source_12, tmp_dict_key_2, tmp_dict_value_2);
         assert(!(tmp_res != 0));
-        tmp_dict_key_2 = mod_consts[25];
+        tmp_dict_key_2 = mod_consts[24];
         tmp_dict_value_2 = Py_False;
         tmp_res = PyDict_SetItem(tmp_assign_source_12, tmp_dict_key_2, tmp_dict_value_2);
         assert(!(tmp_res != 0));
-        tmp_dict_key_2 = mod_consts[26];
-        tmp_dict_value_2 = mod_consts[31];
+        tmp_dict_key_2 = mod_consts[25];
+        tmp_dict_value_2 = mod_consts[30];
         tmp_res = PyDict_SetItem(tmp_assign_source_12, tmp_dict_key_2, tmp_dict_value_2);
         assert(!(tmp_res != 0));
-        tmp_dict_key_2 = mod_consts[28];
-        tmp_dict_value_2 = mod_consts[29];
+        tmp_dict_key_2 = mod_consts[27];
+        tmp_dict_value_2 = mod_consts[28];
         tmp_res = PyDict_SetItem(tmp_assign_source_12, tmp_dict_key_2, tmp_dict_value_2);
         assert(!(tmp_res != 0));
-        UPDATE_STRING_DICT1(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[32], tmp_assign_source_12);
+        UPDATE_STRING_DICT1(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[31], tmp_assign_source_12);
     }
     {
         PyObject *tmp_assign_source_13;
         PyObject *tmp_dict_key_3;
         PyObject *tmp_dict_value_3;
-        tmp_dict_key_3 = mod_consts[21];
-        tmp_dict_value_3 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[12]);
+        tmp_dict_key_3 = mod_consts[20];
+        tmp_dict_value_3 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[11]);
 
         if (unlikely(tmp_dict_value_3 == NULL)) {
-            tmp_dict_value_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[12]);
+            tmp_dict_value_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[11]);
         }
 
         assert(!(tmp_dict_value_3 == NULL));
         tmp_assign_source_13 = _PyDict_NewPresized( 6 );
         tmp_res = PyDict_SetItem(tmp_assign_source_13, tmp_dict_key_3, tmp_dict_value_3);
         assert(!(tmp_res != 0));
-        tmp_dict_key_3 = mod_consts[22];
-        tmp_dict_value_3 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[20]);
+        tmp_dict_key_3 = mod_consts[21];
+        tmp_dict_value_3 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[19]);
 
         if (unlikely(tmp_dict_value_3 == NULL)) {
-            tmp_dict_value_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[20]);
+            tmp_dict_value_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[19]);
         }
 
         assert(!(tmp_dict_value_3 == NULL));
         tmp_res = PyDict_SetItem(tmp_assign_source_13, tmp_dict_key_3, tmp_dict_value_3);
         assert(!(tmp_res != 0));
-        tmp_dict_key_3 = mod_consts[23];
-        tmp_dict_value_3 = mod_consts[24];
+        tmp_dict_key_3 = mod_consts[22];
+        tmp_dict_value_3 = mod_consts[23];
         tmp_res = PyDict_SetItem(tmp_assign_source_13, tmp_dict_key_3, tmp_dict_value_3);
         assert(!(tmp_res != 0));
-        tmp_dict_key_3 = mod_consts[25];
+        tmp_dict_key_3 = mod_consts[24];
         tmp_dict_value_3 = Py_False;
         tmp_res = PyDict_SetItem(tmp_assign_source_13, tmp_dict_key_3, tmp_dict_value_3);
         assert(!(tmp_res != 0));
-        tmp_dict_key_3 = mod_consts[26];
-        tmp_dict_value_3 = mod_consts[33];
+        tmp_dict_key_3 = mod_consts[25];
+        tmp_dict_value_3 = mod_consts[32];
         tmp_res = PyDict_SetItem(tmp_assign_source_13, tmp_dict_key_3, tmp_dict_value_3);
         assert(!(tmp_res != 0));
-        tmp_dict_key_3 = mod_consts[28];
-        tmp_dict_value_3 = mod_consts[29];
+        tmp_dict_key_3 = mod_consts[27];
+        tmp_dict_value_3 = mod_consts[28];
         tmp_res = PyDict_SetItem(tmp_assign_source_13, tmp_dict_key_3, tmp_dict_value_3);
         assert(!(tmp_res != 0));
-        UPDATE_STRING_DICT1(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[34], tmp_assign_source_13);
+        UPDATE_STRING_DICT1(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[33], tmp_assign_source_13);
     }
     {
         PyObject *tmp_assign_source_14;
         PyObject *tmp_dict_key_4;
         PyObject *tmp_dict_value_4;
-        tmp_dict_key_4 = mod_consts[21];
-        tmp_dict_value_4 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[14]);
+        tmp_dict_key_4 = mod_consts[20];
+        tmp_dict_value_4 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[13]);
 
         if (unlikely(tmp_dict_value_4 == NULL)) {
-            tmp_dict_value_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[14]);
+            tmp_dict_value_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[13]);
         }
 
         assert(!(tmp_dict_value_4 == NULL));
         tmp_assign_source_14 = _PyDict_NewPresized( 6 );
         tmp_res = PyDict_SetItem(tmp_assign_source_14, tmp_dict_key_4, tmp_dict_value_4);
         assert(!(tmp_res != 0));
-        tmp_dict_key_4 = mod_consts[22];
-        tmp_dict_value_4 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[20]);
+        tmp_dict_key_4 = mod_consts[21];
+        tmp_dict_value_4 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[19]);
 
         if (unlikely(tmp_dict_value_4 == NULL)) {
-            tmp_dict_value_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[20]);
+            tmp_dict_value_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[19]);
         }
 
         assert(!(tmp_dict_value_4 == NULL));
         tmp_res = PyDict_SetItem(tmp_assign_source_14, tmp_dict_key_4, tmp_dict_value_4);
         assert(!(tmp_res != 0));
-        tmp_dict_key_4 = mod_consts[23];
-        tmp_dict_value_4 = mod_consts[24];
+        tmp_dict_key_4 = mod_consts[22];
+        tmp_dict_value_4 = mod_consts[23];
         tmp_res = PyDict_SetItem(tmp_assign_source_14, tmp_dict_key_4, tmp_dict_value_4);
         assert(!(tmp_res != 0));
-        tmp_dict_key_4 = mod_consts[25];
+        tmp_dict_key_4 = mod_consts[24];
         tmp_dict_value_4 = Py_False;
         tmp_res = PyDict_SetItem(tmp_assign_source_14, tmp_dict_key_4, tmp_dict_value_4);
         assert(!(tmp_res != 0));
-        tmp_dict_key_4 = mod_consts[26];
-        tmp_dict_value_4 = mod_consts[35];
+        tmp_dict_key_4 = mod_consts[25];
+        tmp_dict_value_4 = mod_consts[34];
         tmp_res = PyDict_SetItem(tmp_assign_source_14, tmp_dict_key_4, tmp_dict_value_4);
         assert(!(tmp_res != 0));
-        tmp_dict_key_4 = mod_consts[28];
-        tmp_dict_value_4 = mod_consts[29];
+        tmp_dict_key_4 = mod_consts[27];
+        tmp_dict_value_4 = mod_consts[28];
         tmp_res = PyDict_SetItem(tmp_assign_source_14, tmp_dict_key_4, tmp_dict_value_4);
         assert(!(tmp_res != 0));
-        UPDATE_STRING_DICT1(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[36], tmp_assign_source_14);
+        UPDATE_STRING_DICT1(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[35], tmp_assign_source_14);
     }
     {
         PyObject *tmp_assign_source_15;
         PyObject *tmp_dict_key_5;
         PyObject *tmp_dict_value_5;
-        tmp_dict_key_5 = mod_consts[21];
-        tmp_dict_value_5 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[18]);
+        tmp_dict_key_5 = mod_consts[20];
+        tmp_dict_value_5 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[17]);
 
         if (unlikely(tmp_dict_value_5 == NULL)) {
-            tmp_dict_value_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[18]);
+            tmp_dict_value_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[17]);
         }
 
         assert(!(tmp_dict_value_5 == NULL));
         tmp_assign_source_15 = _PyDict_NewPresized( 6 );
         tmp_res = PyDict_SetItem(tmp_assign_source_15, tmp_dict_key_5, tmp_dict_value_5);
         assert(!(tmp_res != 0));
-        tmp_dict_key_5 = mod_consts[22];
-        tmp_dict_value_5 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[20]);
+        tmp_dict_key_5 = mod_consts[21];
+        tmp_dict_value_5 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[19]);
 
         if (unlikely(tmp_dict_value_5 == NULL)) {
-            tmp_dict_value_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[20]);
+            tmp_dict_value_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[19]);
         }
 
         assert(!(tmp_dict_value_5 == NULL));
         tmp_res = PyDict_SetItem(tmp_assign_source_15, tmp_dict_key_5, tmp_dict_value_5);
         assert(!(tmp_res != 0));
-        tmp_dict_key_5 = mod_consts[23];
-        tmp_dict_value_5 = mod_consts[24];
+        tmp_dict_key_5 = mod_consts[22];
+        tmp_dict_value_5 = mod_consts[23];
         tmp_res = PyDict_SetItem(tmp_assign_source_15, tmp_dict_key_5, tmp_dict_value_5);
         assert(!(tmp_res != 0));
-        tmp_dict_key_5 = mod_consts[25];
+        tmp_dict_key_5 = mod_consts[24];
         tmp_dict_value_5 = Py_False;
         tmp_res = PyDict_SetItem(tmp_assign_source_15, tmp_dict_key_5, tmp_dict_value_5);
         assert(!(tmp_res != 0));
-        tmp_dict_key_5 = mod_consts[26];
-        tmp_dict_value_5 = mod_consts[37];
+        tmp_dict_key_5 = mod_consts[25];
+        tmp_dict_value_5 = mod_consts[36];
         tmp_res = PyDict_SetItem(tmp_assign_source_15, tmp_dict_key_5, tmp_dict_value_5);
         assert(!(tmp_res != 0));
-        tmp_dict_key_5 = mod_consts[28];
-        tmp_dict_value_5 = mod_consts[29];
+        tmp_dict_key_5 = mod_consts[27];
+        tmp_dict_value_5 = mod_consts[28];
         tmp_res = PyDict_SetItem(tmp_assign_source_15, tmp_dict_key_5, tmp_dict_value_5);
         assert(!(tmp_res != 0));
-        UPDATE_STRING_DICT1(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[38], tmp_assign_source_15);
+        UPDATE_STRING_DICT1(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[37], tmp_assign_source_15);
     }
     {
         PyObject *tmp_assign_source_16;
         PyObject *tmp_dict_key_6;
         PyObject *tmp_dict_value_6;
-        tmp_dict_key_6 = mod_consts[21];
-        tmp_dict_value_6 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[16]);
+        tmp_dict_key_6 = mod_consts[20];
+        tmp_dict_value_6 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[15]);
 
         if (unlikely(tmp_dict_value_6 == NULL)) {
-            tmp_dict_value_6 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[16]);
+            tmp_dict_value_6 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[15]);
         }
 
         assert(!(tmp_dict_value_6 == NULL));
         tmp_assign_source_16 = _PyDict_NewPresized( 6 );
         tmp_res = PyDict_SetItem(tmp_assign_source_16, tmp_dict_key_6, tmp_dict_value_6);
         assert(!(tmp_res != 0));
-        tmp_dict_key_6 = mod_consts[22];
-        tmp_dict_value_6 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[20]);
+        tmp_dict_key_6 = mod_consts[21];
+        tmp_dict_value_6 = GET_STRING_DICT_VALUE(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[19]);
 
         if (unlikely(tmp_dict_value_6 == NULL)) {
-            tmp_dict_value_6 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[20]);
+            tmp_dict_value_6 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[19]);
         }
 
         assert(!(tmp_dict_value_6 == NULL));
         tmp_res = PyDict_SetItem(tmp_assign_source_16, tmp_dict_key_6, tmp_dict_value_6);
         assert(!(tmp_res != 0));
-        tmp_dict_key_6 = mod_consts[23];
-        tmp_dict_value_6 = mod_consts[24];
+        tmp_dict_key_6 = mod_consts[22];
+        tmp_dict_value_6 = mod_consts[23];
         tmp_res = PyDict_SetItem(tmp_assign_source_16, tmp_dict_key_6, tmp_dict_value_6);
         assert(!(tmp_res != 0));
-        tmp_dict_key_6 = mod_consts[25];
+        tmp_dict_key_6 = mod_consts[24];
         tmp_dict_value_6 = Py_False;
         tmp_res = PyDict_SetItem(tmp_assign_source_16, tmp_dict_key_6, tmp_dict_value_6);
         assert(!(tmp_res != 0));
-        tmp_dict_key_6 = mod_consts[26];
-        tmp_dict_value_6 = mod_consts[39];
+        tmp_dict_key_6 = mod_consts[25];
+        tmp_dict_value_6 = mod_consts[38];
         tmp_res = PyDict_SetItem(tmp_assign_source_16, tmp_dict_key_6, tmp_dict_value_6);
         assert(!(tmp_res != 0));
-        tmp_dict_key_6 = mod_consts[28];
-        tmp_dict_value_6 = mod_consts[29];
+        tmp_dict_key_6 = mod_consts[27];
+        tmp_dict_value_6 = mod_consts[28];
         tmp_res = PyDict_SetItem(tmp_assign_source_16, tmp_dict_key_6, tmp_dict_value_6);
         assert(!(tmp_res != 0));
-        UPDATE_STRING_DICT1(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[40], tmp_assign_source_16);
+        UPDATE_STRING_DICT1(moduledict_chardet$langcyrillicmodel, (Nuitka_StringObject *)mod_consts[39], tmp_assign_source_16);
     }
 
     return module_chardet$langcyrillicmodel;

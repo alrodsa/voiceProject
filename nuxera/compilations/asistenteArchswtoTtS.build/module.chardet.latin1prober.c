@@ -65,25 +65,25 @@ void checkModuleConstants_chardet$latin1prober(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_0a26e601b3b992bfe03b6419cfa941fe;
-static PyCodeObject *codeobj_2397e552a20757e7777fe5b3946581f3;
-static PyCodeObject *codeobj_76e91cb16525f1ce00dadaea4420b885;
-static PyCodeObject *codeobj_f39d89e0d39d7c63d1d055b745cef34f;
-static PyCodeObject *codeobj_821c9ebb87dc93632b2092e696cfaf38;
-static PyCodeObject *codeobj_814ce95cb140aa75816101b9bab4cf87;
-static PyCodeObject *codeobj_5991b3e467f451798260203a99b7741e;
-static PyCodeObject *codeobj_4c48bc6be1d14f8a0bc42cb34301224d;
+static PyCodeObject *codeobj_b4aa2edfed0d7d2884b97606263893e0;
+static PyCodeObject *codeobj_3b33f2b324892e9fbe03ccf2a9362d11;
+static PyCodeObject *codeobj_2f7b7480ce855225bcf83a5fd665b939;
+static PyCodeObject *codeobj_8bbd188e1a61795941a69b0854db0637;
+static PyCodeObject *codeobj_075b01e63ff618296a3803a530227617;
+static PyCodeObject *codeobj_96f79e63edf61099f61cc199ca05fee7;
+static PyCodeObject *codeobj_74d6a227b7cae1613d4823d7d8fc4a61;
+static PyCodeObject *codeobj_8b47a36b94fc9e7af5be4b6c3853b50f;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[30]; CHECK_OBJECT(module_filename_obj);
-    codeobj_0a26e601b3b992bfe03b6419cfa941fe = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[75], NULL, NULL, 0, 0, 0);
-    codeobj_2397e552a20757e7777fe5b3946581f3 = MAKE_CODEOBJECT(module_filename_obj, 96, CO_NOFREE, mod_consts[0], mod_consts[76], NULL, 0, 0, 0);
-    codeobj_76e91cb16525f1ce00dadaea4420b885 = MAKE_CODEOBJECT(module_filename_obj, 97, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[1], mod_consts[77], NULL, 1, 0, 0);
-    codeobj_f39d89e0d39d7c63d1d055b745cef34f = MAKE_CODEOBJECT(module_filename_obj, 109, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[66], mod_consts[78], NULL, 1, 0, 0);
-    codeobj_821c9ebb87dc93632b2092e696cfaf38 = MAKE_CODEOBJECT(module_filename_obj, 116, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[70], mod_consts[79], NULL, 2, 0, 0);
-    codeobj_814ce95cb140aa75816101b9bab4cf87 = MAKE_CODEOBJECT(module_filename_obj, 130, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[72], mod_consts[80], NULL, 1, 0, 0);
-    codeobj_5991b3e467f451798260203a99b7741e = MAKE_CODEOBJECT(module_filename_obj, 113, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[68], mod_consts[78], NULL, 1, 0, 0);
-    codeobj_4c48bc6be1d14f8a0bc42cb34301224d = MAKE_CODEOBJECT(module_filename_obj, 103, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[4], mod_consts[78], NULL, 1, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[74]); CHECK_OBJECT(module_filename_obj);
+    codeobj_b4aa2edfed0d7d2884b97606263893e0 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[75], NULL, NULL, 0, 0, 0);
+    codeobj_3b33f2b324892e9fbe03ccf2a9362d11 = MAKE_CODEOBJECT(module_filename_obj, 96, CO_NOFREE, mod_consts[0], mod_consts[76], NULL, 0, 0, 0);
+    codeobj_2f7b7480ce855225bcf83a5fd665b939 = MAKE_CODEOBJECT(module_filename_obj, 97, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[1], mod_consts[77], NULL, 1, 0, 0);
+    codeobj_8bbd188e1a61795941a69b0854db0637 = MAKE_CODEOBJECT(module_filename_obj, 109, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[65], mod_consts[78], NULL, 1, 0, 0);
+    codeobj_075b01e63ff618296a3803a530227617 = MAKE_CODEOBJECT(module_filename_obj, 116, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[69], mod_consts[79], NULL, 2, 0, 0);
+    codeobj_96f79e63edf61099f61cc199ca05fee7 = MAKE_CODEOBJECT(module_filename_obj, 130, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[71], mod_consts[80], NULL, 1, 0, 0);
+    codeobj_74d6a227b7cae1613d4823d7d8fc4a61 = MAKE_CODEOBJECT(module_filename_obj, 113, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[67], mod_consts[78], NULL, 1, 0, 0);
+    codeobj_8b47a36b94fc9e7af5be4b6c3853b50f = MAKE_CODEOBJECT(module_filename_obj, 103, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[4], mod_consts[78], NULL, 1, 0, 0);
 }
 
 // The module function declarations.
@@ -117,7 +117,7 @@ static PyObject *impl_chardet$latin1prober$$$function__1___init__(struct Nuitka_
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_76e91cb16525f1ce00dadaea4420b885;
+    struct Nuitka_FrameObject *frame_2f7b7480ce855225bcf83a5fd665b939;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -125,7 +125,7 @@ static PyObject *impl_chardet$latin1prober$$$function__1___init__(struct Nuitka_
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_76e91cb16525f1ce00dadaea4420b885 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_2f7b7480ce855225bcf83a5fd665b939 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -134,31 +134,31 @@ static PyObject *impl_chardet$latin1prober$$$function__1___init__(struct Nuitka_
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_76e91cb16525f1ce00dadaea4420b885)) {
-        Py_XDECREF(cache_frame_76e91cb16525f1ce00dadaea4420b885);
+    if (isFrameUnusable(cache_frame_2f7b7480ce855225bcf83a5fd665b939)) {
+        Py_XDECREF(cache_frame_2f7b7480ce855225bcf83a5fd665b939);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_76e91cb16525f1ce00dadaea4420b885 == NULL) {
+        if (cache_frame_2f7b7480ce855225bcf83a5fd665b939 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_76e91cb16525f1ce00dadaea4420b885 = MAKE_FUNCTION_FRAME(codeobj_76e91cb16525f1ce00dadaea4420b885, module_chardet$latin1prober, sizeof(void *)+sizeof(void *));
+        cache_frame_2f7b7480ce855225bcf83a5fd665b939 = MAKE_FUNCTION_FRAME(codeobj_2f7b7480ce855225bcf83a5fd665b939, module_chardet$latin1prober, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_76e91cb16525f1ce00dadaea4420b885->m_type_description == NULL);
-    frame_76e91cb16525f1ce00dadaea4420b885 = cache_frame_76e91cb16525f1ce00dadaea4420b885;
+    assert(cache_frame_2f7b7480ce855225bcf83a5fd665b939->m_type_description == NULL);
+    frame_2f7b7480ce855225bcf83a5fd665b939 = cache_frame_2f7b7480ce855225bcf83a5fd665b939;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_76e91cb16525f1ce00dadaea4420b885);
+    pushFrameStack(frame_2f7b7480ce855225bcf83a5fd665b939);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_76e91cb16525f1ce00dadaea4420b885) == 2); // Frame stack
+    assert(Py_REFCNT(frame_2f7b7480ce855225bcf83a5fd665b939) == 2); // Frame stack
 
     // Framed code:
     {
@@ -195,7 +195,7 @@ static PyObject *impl_chardet$latin1prober$$$function__1___init__(struct Nuitka_
             type_description_1 = "oN";
             goto frame_exception_exit_1;
         }
-        frame_76e91cb16525f1ce00dadaea4420b885->m_frame.f_lineno = 98;
+        frame_2f7b7480ce855225bcf83a5fd665b939->m_frame.f_lineno = 98;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[1]);
         Py_DECREF(tmp_called_instance_1);
         if (tmp_call_result_1 == NULL) {
@@ -251,7 +251,7 @@ static PyObject *impl_chardet$latin1prober$$$function__1___init__(struct Nuitka_
         PyObject *tmp_call_result_2;
         CHECK_OBJECT(par_self);
         tmp_called_instance_2 = par_self;
-        frame_76e91cb16525f1ce00dadaea4420b885->m_frame.f_lineno = 101;
+        frame_2f7b7480ce855225bcf83a5fd665b939->m_frame.f_lineno = 101;
         tmp_call_result_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[4]);
         if (tmp_call_result_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -267,7 +267,7 @@ static PyObject *impl_chardet$latin1prober$$$function__1___init__(struct Nuitka_
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_76e91cb16525f1ce00dadaea4420b885);
+    RESTORE_FRAME_EXCEPTION(frame_2f7b7480ce855225bcf83a5fd665b939);
 #endif
 
     // Put the previous frame back on top.
@@ -278,18 +278,18 @@ static PyObject *impl_chardet$latin1prober$$$function__1___init__(struct Nuitka_
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_76e91cb16525f1ce00dadaea4420b885);
+    RESTORE_FRAME_EXCEPTION(frame_2f7b7480ce855225bcf83a5fd665b939);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_76e91cb16525f1ce00dadaea4420b885, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_76e91cb16525f1ce00dadaea4420b885->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_76e91cb16525f1ce00dadaea4420b885, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_2f7b7480ce855225bcf83a5fd665b939, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_2f7b7480ce855225bcf83a5fd665b939->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_2f7b7480ce855225bcf83a5fd665b939, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_76e91cb16525f1ce00dadaea4420b885,
+        frame_2f7b7480ce855225bcf83a5fd665b939,
         type_description_1,
         par_self,
         NULL
@@ -297,17 +297,17 @@ static PyObject *impl_chardet$latin1prober$$$function__1___init__(struct Nuitka_
 
 
     // Release cached frame if used for exception.
-    if (frame_76e91cb16525f1ce00dadaea4420b885 == cache_frame_76e91cb16525f1ce00dadaea4420b885) {
+    if (frame_2f7b7480ce855225bcf83a5fd665b939 == cache_frame_2f7b7480ce855225bcf83a5fd665b939) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_76e91cb16525f1ce00dadaea4420b885);
-        cache_frame_76e91cb16525f1ce00dadaea4420b885 = NULL;
+        Py_DECREF(cache_frame_2f7b7480ce855225bcf83a5fd665b939);
+        cache_frame_2f7b7480ce855225bcf83a5fd665b939 = NULL;
     }
 
-    assertFrameObject(frame_76e91cb16525f1ce00dadaea4420b885);
+    assertFrameObject(frame_2f7b7480ce855225bcf83a5fd665b939);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -377,7 +377,7 @@ static PyObject *impl_chardet$latin1prober$$$function__2_reset(struct Nuitka_Fun
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_4c48bc6be1d14f8a0bc42cb34301224d;
+    struct Nuitka_FrameObject *frame_8b47a36b94fc9e7af5be4b6c3853b50f;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -385,7 +385,7 @@ static PyObject *impl_chardet$latin1prober$$$function__2_reset(struct Nuitka_Fun
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_4c48bc6be1d14f8a0bc42cb34301224d = NULL;
+    static struct Nuitka_FrameObject *cache_frame_8b47a36b94fc9e7af5be4b6c3853b50f = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -394,31 +394,31 @@ static PyObject *impl_chardet$latin1prober$$$function__2_reset(struct Nuitka_Fun
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_4c48bc6be1d14f8a0bc42cb34301224d)) {
-        Py_XDECREF(cache_frame_4c48bc6be1d14f8a0bc42cb34301224d);
+    if (isFrameUnusable(cache_frame_8b47a36b94fc9e7af5be4b6c3853b50f)) {
+        Py_XDECREF(cache_frame_8b47a36b94fc9e7af5be4b6c3853b50f);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_4c48bc6be1d14f8a0bc42cb34301224d == NULL) {
+        if (cache_frame_8b47a36b94fc9e7af5be4b6c3853b50f == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_4c48bc6be1d14f8a0bc42cb34301224d = MAKE_FUNCTION_FRAME(codeobj_4c48bc6be1d14f8a0bc42cb34301224d, module_chardet$latin1prober, sizeof(void *));
+        cache_frame_8b47a36b94fc9e7af5be4b6c3853b50f = MAKE_FUNCTION_FRAME(codeobj_8b47a36b94fc9e7af5be4b6c3853b50f, module_chardet$latin1prober, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_4c48bc6be1d14f8a0bc42cb34301224d->m_type_description == NULL);
-    frame_4c48bc6be1d14f8a0bc42cb34301224d = cache_frame_4c48bc6be1d14f8a0bc42cb34301224d;
+    assert(cache_frame_8b47a36b94fc9e7af5be4b6c3853b50f->m_type_description == NULL);
+    frame_8b47a36b94fc9e7af5be4b6c3853b50f = cache_frame_8b47a36b94fc9e7af5be4b6c3853b50f;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_4c48bc6be1d14f8a0bc42cb34301224d);
+    pushFrameStack(frame_8b47a36b94fc9e7af5be4b6c3853b50f);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_4c48bc6be1d14f8a0bc42cb34301224d) == 2); // Frame stack
+    assert(Py_REFCNT(frame_8b47a36b94fc9e7af5be4b6c3853b50f) == 2); // Frame stack
 
     // Framed code:
     {
@@ -525,7 +525,7 @@ static PyObject *impl_chardet$latin1prober$$$function__2_reset(struct Nuitka_Fun
         }
         CHECK_OBJECT(par_self);
         tmp_args_element_name_1 = par_self;
-        frame_4c48bc6be1d14f8a0bc42cb34301224d->m_frame.f_lineno = 106;
+        frame_8b47a36b94fc9e7af5be4b6c3853b50f->m_frame.f_lineno = 106;
         tmp_call_result_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[4], tmp_args_element_name_1);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -541,7 +541,7 @@ static PyObject *impl_chardet$latin1prober$$$function__2_reset(struct Nuitka_Fun
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4c48bc6be1d14f8a0bc42cb34301224d);
+    RESTORE_FRAME_EXCEPTION(frame_8b47a36b94fc9e7af5be4b6c3853b50f);
 #endif
 
     // Put the previous frame back on top.
@@ -552,35 +552,35 @@ static PyObject *impl_chardet$latin1prober$$$function__2_reset(struct Nuitka_Fun
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4c48bc6be1d14f8a0bc42cb34301224d);
+    RESTORE_FRAME_EXCEPTION(frame_8b47a36b94fc9e7af5be4b6c3853b50f);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_4c48bc6be1d14f8a0bc42cb34301224d, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_4c48bc6be1d14f8a0bc42cb34301224d->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_4c48bc6be1d14f8a0bc42cb34301224d, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_8b47a36b94fc9e7af5be4b6c3853b50f, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_8b47a36b94fc9e7af5be4b6c3853b50f->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_8b47a36b94fc9e7af5be4b6c3853b50f, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_4c48bc6be1d14f8a0bc42cb34301224d,
+        frame_8b47a36b94fc9e7af5be4b6c3853b50f,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_4c48bc6be1d14f8a0bc42cb34301224d == cache_frame_4c48bc6be1d14f8a0bc42cb34301224d) {
+    if (frame_8b47a36b94fc9e7af5be4b6c3853b50f == cache_frame_8b47a36b94fc9e7af5be4b6c3853b50f) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_4c48bc6be1d14f8a0bc42cb34301224d);
-        cache_frame_4c48bc6be1d14f8a0bc42cb34301224d = NULL;
+        Py_DECREF(cache_frame_8b47a36b94fc9e7af5be4b6c3853b50f);
+        cache_frame_8b47a36b94fc9e7af5be4b6c3853b50f = NULL;
     }
 
-    assertFrameObject(frame_4c48bc6be1d14f8a0bc42cb34301224d);
+    assertFrameObject(frame_8b47a36b94fc9e7af5be4b6c3853b50f);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -747,7 +747,7 @@ static PyObject *impl_chardet$latin1prober$$$function__5_feed(struct Nuitka_Func
     PyObject *tmp_inplace_assign_subscr_1__subscript = NULL;
     PyObject *tmp_inplace_assign_subscr_1__target = NULL;
     PyObject *tmp_inplace_assign_subscr_1__value = NULL;
-    struct Nuitka_FrameObject *frame_821c9ebb87dc93632b2092e696cfaf38;
+    struct Nuitka_FrameObject *frame_075b01e63ff618296a3803a530227617;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -763,7 +763,7 @@ static PyObject *impl_chardet$latin1prober$$$function__5_feed(struct Nuitka_Func
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_821c9ebb87dc93632b2092e696cfaf38 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_075b01e63ff618296a3803a530227617 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -771,31 +771,31 @@ static PyObject *impl_chardet$latin1prober$$$function__5_feed(struct Nuitka_Func
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_821c9ebb87dc93632b2092e696cfaf38)) {
-        Py_XDECREF(cache_frame_821c9ebb87dc93632b2092e696cfaf38);
+    if (isFrameUnusable(cache_frame_075b01e63ff618296a3803a530227617)) {
+        Py_XDECREF(cache_frame_075b01e63ff618296a3803a530227617);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_821c9ebb87dc93632b2092e696cfaf38 == NULL) {
+        if (cache_frame_075b01e63ff618296a3803a530227617 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_821c9ebb87dc93632b2092e696cfaf38 = MAKE_FUNCTION_FRAME(codeobj_821c9ebb87dc93632b2092e696cfaf38, module_chardet$latin1prober, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_075b01e63ff618296a3803a530227617 = MAKE_FUNCTION_FRAME(codeobj_075b01e63ff618296a3803a530227617, module_chardet$latin1prober, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_821c9ebb87dc93632b2092e696cfaf38->m_type_description == NULL);
-    frame_821c9ebb87dc93632b2092e696cfaf38 = cache_frame_821c9ebb87dc93632b2092e696cfaf38;
+    assert(cache_frame_075b01e63ff618296a3803a530227617->m_type_description == NULL);
+    frame_075b01e63ff618296a3803a530227617 = cache_frame_075b01e63ff618296a3803a530227617;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_821c9ebb87dc93632b2092e696cfaf38);
+    pushFrameStack(frame_075b01e63ff618296a3803a530227617);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_821c9ebb87dc93632b2092e696cfaf38) == 2); // Frame stack
+    assert(Py_REFCNT(frame_075b01e63ff618296a3803a530227617) == 2); // Frame stack
 
     // Framed code:
     {
@@ -806,7 +806,7 @@ static PyObject *impl_chardet$latin1prober$$$function__5_feed(struct Nuitka_Func
         tmp_called_instance_1 = par_self;
         CHECK_OBJECT(par_byte_str);
         tmp_args_element_name_1 = par_byte_str;
-        frame_821c9ebb87dc93632b2092e696cfaf38->m_frame.f_lineno = 117;
+        frame_075b01e63ff618296a3803a530227617->m_frame.f_lineno = 117;
         tmp_assign_source_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[11], tmp_args_element_name_1);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1400,7 +1400,7 @@ static PyObject *impl_chardet$latin1prober$$$function__5_feed(struct Nuitka_Func
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_821c9ebb87dc93632b2092e696cfaf38);
+    RESTORE_FRAME_EXCEPTION(frame_075b01e63ff618296a3803a530227617);
 #endif
 
     // Put the previous frame back on top.
@@ -1410,7 +1410,7 @@ static PyObject *impl_chardet$latin1prober$$$function__5_feed(struct Nuitka_Func
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_821c9ebb87dc93632b2092e696cfaf38);
+    RESTORE_FRAME_EXCEPTION(frame_075b01e63ff618296a3803a530227617);
 #endif
 
     // Put the previous frame back on top.
@@ -1421,18 +1421,18 @@ static PyObject *impl_chardet$latin1prober$$$function__5_feed(struct Nuitka_Func
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_821c9ebb87dc93632b2092e696cfaf38);
+    RESTORE_FRAME_EXCEPTION(frame_075b01e63ff618296a3803a530227617);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_821c9ebb87dc93632b2092e696cfaf38, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_821c9ebb87dc93632b2092e696cfaf38->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_821c9ebb87dc93632b2092e696cfaf38, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_075b01e63ff618296a3803a530227617, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_075b01e63ff618296a3803a530227617->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_075b01e63ff618296a3803a530227617, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_821c9ebb87dc93632b2092e696cfaf38,
+        frame_075b01e63ff618296a3803a530227617,
         type_description_1,
         par_self,
         par_byte_str,
@@ -1443,17 +1443,17 @@ static PyObject *impl_chardet$latin1prober$$$function__5_feed(struct Nuitka_Func
 
 
     // Release cached frame if used for exception.
-    if (frame_821c9ebb87dc93632b2092e696cfaf38 == cache_frame_821c9ebb87dc93632b2092e696cfaf38) {
+    if (frame_075b01e63ff618296a3803a530227617 == cache_frame_075b01e63ff618296a3803a530227617) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_821c9ebb87dc93632b2092e696cfaf38);
-        cache_frame_821c9ebb87dc93632b2092e696cfaf38 = NULL;
+        Py_DECREF(cache_frame_075b01e63ff618296a3803a530227617);
+        cache_frame_075b01e63ff618296a3803a530227617 = NULL;
     }
 
-    assertFrameObject(frame_821c9ebb87dc93632b2092e696cfaf38);
+    assertFrameObject(frame_075b01e63ff618296a3803a530227617);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1538,14 +1538,14 @@ static PyObject *impl_chardet$latin1prober$$$function__6_get_confidence(struct N
     PyObject *par_self = python_pars[0];
     PyObject *var_total = NULL;
     PyObject *var_confidence = NULL;
-    struct Nuitka_FrameObject *frame_814ce95cb140aa75816101b9bab4cf87;
+    struct Nuitka_FrameObject *frame_96f79e63edf61099f61cc199ca05fee7;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_814ce95cb140aa75816101b9bab4cf87 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_96f79e63edf61099f61cc199ca05fee7 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -1553,31 +1553,31 @@ static PyObject *impl_chardet$latin1prober$$$function__6_get_confidence(struct N
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_814ce95cb140aa75816101b9bab4cf87)) {
-        Py_XDECREF(cache_frame_814ce95cb140aa75816101b9bab4cf87);
+    if (isFrameUnusable(cache_frame_96f79e63edf61099f61cc199ca05fee7)) {
+        Py_XDECREF(cache_frame_96f79e63edf61099f61cc199ca05fee7);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_814ce95cb140aa75816101b9bab4cf87 == NULL) {
+        if (cache_frame_96f79e63edf61099f61cc199ca05fee7 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_814ce95cb140aa75816101b9bab4cf87 = MAKE_FUNCTION_FRAME(codeobj_814ce95cb140aa75816101b9bab4cf87, module_chardet$latin1prober, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_96f79e63edf61099f61cc199ca05fee7 = MAKE_FUNCTION_FRAME(codeobj_96f79e63edf61099f61cc199ca05fee7, module_chardet$latin1prober, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_814ce95cb140aa75816101b9bab4cf87->m_type_description == NULL);
-    frame_814ce95cb140aa75816101b9bab4cf87 = cache_frame_814ce95cb140aa75816101b9bab4cf87;
+    assert(cache_frame_96f79e63edf61099f61cc199ca05fee7->m_type_description == NULL);
+    frame_96f79e63edf61099f61cc199ca05fee7 = cache_frame_96f79e63edf61099f61cc199ca05fee7;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_814ce95cb140aa75816101b9bab4cf87);
+    pushFrameStack(frame_96f79e63edf61099f61cc199ca05fee7);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_814ce95cb140aa75816101b9bab4cf87) == 2); // Frame stack
+    assert(Py_REFCNT(frame_96f79e63edf61099f61cc199ca05fee7) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1938,7 +1938,7 @@ static PyObject *impl_chardet$latin1prober$$$function__6_get_confidence(struct N
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_814ce95cb140aa75816101b9bab4cf87);
+    RESTORE_FRAME_EXCEPTION(frame_96f79e63edf61099f61cc199ca05fee7);
 #endif
 
     // Put the previous frame back on top.
@@ -1948,7 +1948,7 @@ static PyObject *impl_chardet$latin1prober$$$function__6_get_confidence(struct N
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_814ce95cb140aa75816101b9bab4cf87);
+    RESTORE_FRAME_EXCEPTION(frame_96f79e63edf61099f61cc199ca05fee7);
 #endif
 
     // Put the previous frame back on top.
@@ -1959,18 +1959,18 @@ static PyObject *impl_chardet$latin1prober$$$function__6_get_confidence(struct N
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_814ce95cb140aa75816101b9bab4cf87);
+    RESTORE_FRAME_EXCEPTION(frame_96f79e63edf61099f61cc199ca05fee7);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_814ce95cb140aa75816101b9bab4cf87, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_814ce95cb140aa75816101b9bab4cf87->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_814ce95cb140aa75816101b9bab4cf87, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_96f79e63edf61099f61cc199ca05fee7, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_96f79e63edf61099f61cc199ca05fee7->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_96f79e63edf61099f61cc199ca05fee7, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_814ce95cb140aa75816101b9bab4cf87,
+        frame_96f79e63edf61099f61cc199ca05fee7,
         type_description_1,
         par_self,
         var_total,
@@ -1979,17 +1979,17 @@ static PyObject *impl_chardet$latin1prober$$$function__6_get_confidence(struct N
 
 
     // Release cached frame if used for exception.
-    if (frame_814ce95cb140aa75816101b9bab4cf87 == cache_frame_814ce95cb140aa75816101b9bab4cf87) {
+    if (frame_96f79e63edf61099f61cc199ca05fee7 == cache_frame_96f79e63edf61099f61cc199ca05fee7) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_814ce95cb140aa75816101b9bab4cf87);
-        cache_frame_814ce95cb140aa75816101b9bab4cf87 = NULL;
+        Py_DECREF(cache_frame_96f79e63edf61099f61cc199ca05fee7);
+        cache_frame_96f79e63edf61099f61cc199ca05fee7 = NULL;
     }
 
-    assertFrameObject(frame_814ce95cb140aa75816101b9bab4cf87);
+    assertFrameObject(frame_96f79e63edf61099f61cc199ca05fee7);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2066,9 +2066,9 @@ static PyObject *MAKE_FUNCTION_chardet$latin1prober$$$function__1___init__() {
         impl_chardet$latin1prober$$$function__1___init__,
         mod_consts[1],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[63],
+        mod_consts[62],
 #endif
-        codeobj_76e91cb16525f1ce00dadaea4420b885,
+        codeobj_2f7b7480ce855225bcf83a5fd665b939,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2091,9 +2091,9 @@ static PyObject *MAKE_FUNCTION_chardet$latin1prober$$$function__2_reset() {
         impl_chardet$latin1prober$$$function__2_reset,
         mod_consts[4],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[64],
+        mod_consts[63],
 #endif
-        codeobj_4c48bc6be1d14f8a0bc42cb34301224d,
+        codeobj_8b47a36b94fc9e7af5be4b6c3853b50f,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2114,11 +2114,11 @@ static PyObject *MAKE_FUNCTION_chardet$latin1prober$$$function__2_reset() {
 static PyObject *MAKE_FUNCTION_chardet$latin1prober$$$function__3_charset_name() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_chardet$latin1prober$$$function__3_charset_name,
-        mod_consts[66],
+        mod_consts[65],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[67],
+        mod_consts[66],
 #endif
-        codeobj_f39d89e0d39d7c63d1d055b745cef34f,
+        codeobj_8bbd188e1a61795941a69b0854db0637,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2139,11 +2139,11 @@ static PyObject *MAKE_FUNCTION_chardet$latin1prober$$$function__3_charset_name()
 static PyObject *MAKE_FUNCTION_chardet$latin1prober$$$function__4_language() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_chardet$latin1prober$$$function__4_language,
-        mod_consts[68],
+        mod_consts[67],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[69],
+        mod_consts[68],
 #endif
-        codeobj_5991b3e467f451798260203a99b7741e,
+        codeobj_74d6a227b7cae1613d4823d7d8fc4a61,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2164,11 +2164,11 @@ static PyObject *MAKE_FUNCTION_chardet$latin1prober$$$function__4_language() {
 static PyObject *MAKE_FUNCTION_chardet$latin1prober$$$function__5_feed() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_chardet$latin1prober$$$function__5_feed,
-        mod_consts[70],
+        mod_consts[69],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[71],
+        mod_consts[70],
 #endif
-        codeobj_821c9ebb87dc93632b2092e696cfaf38,
+        codeobj_075b01e63ff618296a3803a530227617,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2189,11 +2189,11 @@ static PyObject *MAKE_FUNCTION_chardet$latin1prober$$$function__5_feed() {
 static PyObject *MAKE_FUNCTION_chardet$latin1prober$$$function__6_get_confidence() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_chardet$latin1prober$$$function__6_get_confidence,
-        mod_consts[72],
+        mod_consts[71],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[73],
+        mod_consts[72],
 #endif
-        codeobj_814ce95cb140aa75816101b9bab4cf87,
+        codeobj_96f79e63edf61099f61cc199ca05fee7,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2592,7 +2592,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
     PyObject *tmp_class_creation_1__class_decl_dict = NULL;
     PyObject *tmp_class_creation_1__metaclass = NULL;
     PyObject *tmp_class_creation_1__prepared = NULL;
-    struct Nuitka_FrameObject *frame_0a26e601b3b992bfe03b6419cfa941fe;
+    struct Nuitka_FrameObject *frame_b4aa2edfed0d7d2884b97606263893e0;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -2604,9 +2604,9 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
     PyObject *tmp_dictdel_key;
     PyObject *locals_chardet$latin1prober$$$class__1_Latin1Prober_96 = NULL;
     PyObject *tmp_dictset_value;
-    struct Nuitka_FrameObject *frame_2397e552a20757e7777fe5b3946581f3_2;
+    struct Nuitka_FrameObject *frame_3b33f2b324892e9fbe03ccf2a9362d11_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_2397e552a20757e7777fe5b3946581f3_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_3b33f2b324892e9fbe03ccf2a9362d11_2 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -2628,30 +2628,30 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[30];
-        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[31], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[30], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_0a26e601b3b992bfe03b6419cfa941fe = MAKE_MODULE_FRAME(codeobj_0a26e601b3b992bfe03b6419cfa941fe, module_chardet$latin1prober);
+    frame_b4aa2edfed0d7d2884b97606263893e0 = MAKE_MODULE_FRAME(codeobj_b4aa2edfed0d7d2884b97606263893e0, module_chardet$latin1prober);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_0a26e601b3b992bfe03b6419cfa941fe);
-    assert(Py_REFCNT(frame_0a26e601b3b992bfe03b6419cfa941fe) == 2);
+    pushFrameStack(frame_b4aa2edfed0d7d2884b97606263893e0);
+    assert(Py_REFCNT(frame_b4aa2edfed0d7d2884b97606263893e0) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[30];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[32]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[31]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[32]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[31]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[33], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[32], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -2667,14 +2667,14 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[32]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[31]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[32]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[31]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[34], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[33], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -2689,7 +2689,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[35], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[34], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -2699,12 +2699,12 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[36];
+        tmp_name_name_1 = mod_consts[35];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_chardet$latin1prober;
         tmp_locals_arg_name_1 = Py_None;
-        tmp_fromlist_name_1 = mod_consts[37];
+        tmp_fromlist_name_1 = mod_consts[36];
         tmp_level_name_1 = mod_consts[20];
-        frame_0a26e601b3b992bfe03b6419cfa941fe->m_frame.f_lineno = 29;
+        frame_b4aa2edfed0d7d2884b97606263893e0->m_frame.f_lineno = 29;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2748,12 +2748,12 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_locals_arg_name_2;
         PyObject *tmp_fromlist_name_2;
         PyObject *tmp_level_name_2;
-        tmp_name_name_2 = mod_consts[38];
+        tmp_name_name_2 = mod_consts[37];
         tmp_globals_arg_name_2 = (PyObject *)moduledict_chardet$latin1prober;
         tmp_locals_arg_name_2 = Py_None;
-        tmp_fromlist_name_2 = mod_consts[39];
+        tmp_fromlist_name_2 = mod_consts[38];
         tmp_level_name_2 = mod_consts[20];
-        frame_0a26e601b3b992bfe03b6419cfa941fe->m_frame.f_lineno = 30;
+        frame_b4aa2edfed0d7d2884b97606263893e0->m_frame.f_lineno = 30;
         tmp_import_name_from_2 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_import_name_from_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2791,13 +2791,13 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
     }
     {
         PyObject *tmp_assign_source_6;
-        tmp_assign_source_6 = mod_consts[40];
+        tmp_assign_source_6 = mod_consts[39];
         UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[7], tmp_assign_source_6);
     }
     {
         PyObject *tmp_assign_source_7;
         tmp_assign_source_7 = mod_consts[16];
-        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[41], tmp_assign_source_7);
+        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[40], tmp_assign_source_7);
     }
     {
         PyObject *tmp_assign_source_8;
@@ -2806,37 +2806,37 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
     }
     {
         PyObject *tmp_assign_source_9;
-        tmp_assign_source_9 = mod_consts[42];
-        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43], tmp_assign_source_9);
+        tmp_assign_source_9 = mod_consts[41];
+        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42], tmp_assign_source_9);
     }
     {
         PyObject *tmp_assign_source_10;
         tmp_assign_source_10 = mod_consts[25];
-        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44], tmp_assign_source_10);
+        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43], tmp_assign_source_10);
     }
     {
         PyObject *tmp_assign_source_11;
-        tmp_assign_source_11 = mod_consts[40];
-        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45], tmp_assign_source_11);
+        tmp_assign_source_11 = mod_consts[39];
+        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44], tmp_assign_source_11);
     }
     {
         PyObject *tmp_assign_source_12;
-        tmp_assign_source_12 = mod_consts[46];
-        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[47], tmp_assign_source_12);
+        tmp_assign_source_12 = mod_consts[45];
+        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[46], tmp_assign_source_12);
     }
     {
         PyObject *tmp_assign_source_13;
-        tmp_assign_source_13 = mod_consts[48];
-        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49], tmp_assign_source_13);
+        tmp_assign_source_13 = mod_consts[47];
+        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48], tmp_assign_source_13);
     }
     {
         PyObject *tmp_assign_source_14;
-        tmp_assign_source_14 = mod_consts[50];
-        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[51], tmp_assign_source_14);
+        tmp_assign_source_14 = mod_consts[49];
+        UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[50], tmp_assign_source_14);
     }
     {
         PyObject *tmp_assign_source_15;
-        tmp_assign_source_15 = mod_consts[52];
+        tmp_assign_source_15 = mod_consts[51];
         UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[15], tmp_assign_source_15);
     }
     {
@@ -3363,210 +3363,210 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 64, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 65, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 66, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 67, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 68, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 69, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 70, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 71, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 72, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 73, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 74, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 75, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 76, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 77, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 78, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 79, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 80, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 81, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 82, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 83, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 84, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 85, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 86, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 87, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 88, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 89, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[42]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[42]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
@@ -3619,210 +3619,210 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 96, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 97, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 98, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 99, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 100, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 101, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 102, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 103, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 104, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 105, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 106, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 107, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 108, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 109, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 110, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 111, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 112, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 113, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 114, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 115, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 116, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 117, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 118, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 119, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 120, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 121, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[43]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[43]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
@@ -3875,10 +3875,10 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 128, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[41]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[40]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[41]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[40]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
@@ -3891,10 +3891,10 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 130, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[51]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[50]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
@@ -3947,10 +3947,10 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 137, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[47]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[46]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
@@ -3963,42 +3963,42 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 139, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[47]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[46]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 140, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[41]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[40]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[41]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[40]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 141, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[47]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[46]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 142, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[41]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[40]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[41]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[40]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 143, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[41]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[40]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[41]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[40]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
@@ -4075,10 +4075,10 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 153, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[51]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[50]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
@@ -4091,34 +4091,34 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 155, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[51]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[50]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 156, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[41]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[40]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[41]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[40]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 157, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[51]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[50]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 158, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[47]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[46]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
@@ -4379,186 +4379,186 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 191, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 192, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 193, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 194, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 195, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 196, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 197, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[47]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[46]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 198, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[47]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[46]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 199, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 200, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 201, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 202, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 203, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 204, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 205, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 206, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 207, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[47]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[46]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 208, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[47]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[46]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 209, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 210, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 211, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 212, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 213, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
@@ -4571,250 +4571,250 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 215, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 216, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 217, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 218, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 219, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[45]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[44]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[45]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[44]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 220, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[47]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[46]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 221, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[47]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[46]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 222, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[47]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[46]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[47]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[46]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 223, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 224, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 225, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 226, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 227, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 228, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 229, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[51]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[50]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 230, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[51]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[50]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 231, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 232, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 233, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 234, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 235, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 236, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 237, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 238, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 239, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[51]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[50]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 240, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[51]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[50]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 241, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 242, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 243, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 244, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 245, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
@@ -4827,66 +4827,66 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 247, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 248, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 249, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 250, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 251, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[49]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[48]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[49]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[48]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 252, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[51]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[50]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 253, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[51]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[50]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
         PyTuple_SET_ITEM0(tmp_assign_source_16, 254, tmp_tuple_element_1);
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[51]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[50]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[51]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[50]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
@@ -4895,7 +4895,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
     }
     {
         PyObject *tmp_assign_source_17;
-        tmp_assign_source_17 = mod_consts[53];
+        tmp_assign_source_17 = mod_consts[52];
         UPDATE_STRING_DICT0(moduledict_chardet$latin1prober, (Nuitka_StringObject *)mod_consts[13], tmp_assign_source_17);
     }
     // Tried code:
@@ -4967,7 +4967,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_expression_name_1;
         PyObject *tmp_subscript_name_1;
         PyObject *tmp_bases_name_1;
-        tmp_key_name_1 = mod_consts[54];
+        tmp_key_name_1 = mod_consts[53];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_1 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_1, tmp_key_name_1);
@@ -4981,7 +4981,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
         condexpr_true_1:;
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_2 = tmp_class_creation_1__class_decl_dict;
-        tmp_key_name_2 = mod_consts[54];
+        tmp_key_name_2 = mod_consts[53];
         tmp_metaclass_name_1 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_2, tmp_key_name_2);
         if (tmp_metaclass_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5067,7 +5067,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
         nuitka_bool tmp_condition_result_3;
         PyObject *tmp_key_name_3;
         PyObject *tmp_dict_arg_name_3;
-        tmp_key_name_3 = mod_consts[54];
+        tmp_key_name_3 = mod_consts[53];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_3 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_3, tmp_key_name_3);
@@ -5082,7 +5082,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
     branch_yes_1:;
     CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_1__class_decl_dict;
-    tmp_dictdel_key = mod_consts[54];
+    tmp_dictdel_key = mod_consts[53];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -5100,7 +5100,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_expression_name_2;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_2 = tmp_class_creation_1__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_2, mod_consts[55]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_2, mod_consts[54]);
         tmp_condition_result_4 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_4 == NUITKA_BOOL_TRUE) {
             goto branch_yes_2;
@@ -5118,7 +5118,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_kwargs_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_3 = tmp_class_creation_1__metaclass;
-        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[55]);
+        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[54]);
         if (tmp_called_name_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -5137,7 +5137,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
         PyTuple_SET_ITEM0(tmp_args_name_1, 1, tmp_tuple_element_3);
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_kwargs_name_1 = tmp_class_creation_1__class_decl_dict;
-        frame_0a26e601b3b992bfe03b6419cfa941fe->m_frame.f_lineno = 96;
+        frame_b4aa2edfed0d7d2884b97606263893e0->m_frame.f_lineno = 96;
         tmp_assign_source_22 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -5160,7 +5160,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_expression_name_4;
         CHECK_OBJECT(tmp_class_creation_1__prepared);
         tmp_expression_name_4 = tmp_class_creation_1__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_4, mod_consts[56]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_4, mod_consts[55]);
         tmp_operand_name_1 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_1);
         if (tmp_res == -1) {
@@ -5191,11 +5191,11 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_getattr_attr_1;
         PyObject *tmp_getattr_default_1;
         tmp_raise_type_1 = PyExc_TypeError;
-        tmp_left_name_1 = mod_consts[57];
+        tmp_left_name_1 = mod_consts[56];
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_getattr_target_1 = tmp_class_creation_1__metaclass;
-        tmp_getattr_attr_1 = mod_consts[58];
-        tmp_getattr_default_1 = mod_consts[59];
+        tmp_getattr_attr_1 = mod_consts[57];
+        tmp_getattr_default_1 = mod_consts[58];
         tmp_tuple_element_4 = BUILTIN_GETATTR(tmp_getattr_target_1, tmp_getattr_attr_1, tmp_getattr_default_1);
         if (tmp_tuple_element_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5216,7 +5216,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
             tmp_type_arg_2 = tmp_class_creation_1__prepared;
             tmp_expression_name_5 = BUILTIN_TYPE1(tmp_type_arg_2);
             assert(!(tmp_expression_name_5 == NULL));
-            tmp_tuple_element_4 = LOOKUP_ATTRIBUTE(tmp_expression_name_5, mod_consts[58]);
+            tmp_tuple_element_4 = LOOKUP_ATTRIBUTE(tmp_expression_name_5, mod_consts[57]);
             Py_DECREF(tmp_expression_name_5);
             if (tmp_tuple_element_4 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -5278,8 +5278,8 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[60];
-        tmp_res = PyObject_SetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[61], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[59];
+        tmp_res = PyObject_SetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[60], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -5291,7 +5291,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
             goto try_except_handler_3;
         }
         tmp_dictset_value = mod_consts[0];
-        tmp_res = PyObject_SetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[62], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[61], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -5302,31 +5302,31 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
             goto try_except_handler_3;
         }
-        if (isFrameUnusable(cache_frame_2397e552a20757e7777fe5b3946581f3_2)) {
-            Py_XDECREF(cache_frame_2397e552a20757e7777fe5b3946581f3_2);
+        if (isFrameUnusable(cache_frame_3b33f2b324892e9fbe03ccf2a9362d11_2)) {
+            Py_XDECREF(cache_frame_3b33f2b324892e9fbe03ccf2a9362d11_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_2397e552a20757e7777fe5b3946581f3_2 == NULL) {
+            if (cache_frame_3b33f2b324892e9fbe03ccf2a9362d11_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_2397e552a20757e7777fe5b3946581f3_2 = MAKE_FUNCTION_FRAME(codeobj_2397e552a20757e7777fe5b3946581f3, module_chardet$latin1prober, sizeof(void *));
+            cache_frame_3b33f2b324892e9fbe03ccf2a9362d11_2 = MAKE_FUNCTION_FRAME(codeobj_3b33f2b324892e9fbe03ccf2a9362d11, module_chardet$latin1prober, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_2397e552a20757e7777fe5b3946581f3_2->m_type_description == NULL);
-        frame_2397e552a20757e7777fe5b3946581f3_2 = cache_frame_2397e552a20757e7777fe5b3946581f3_2;
+        assert(cache_frame_3b33f2b324892e9fbe03ccf2a9362d11_2->m_type_description == NULL);
+        frame_3b33f2b324892e9fbe03ccf2a9362d11_2 = cache_frame_3b33f2b324892e9fbe03ccf2a9362d11_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_2397e552a20757e7777fe5b3946581f3_2);
+        pushFrameStack(frame_3b33f2b324892e9fbe03ccf2a9362d11_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_2397e552a20757e7777fe5b3946581f3_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_3b33f2b324892e9fbe03ccf2a9362d11_2) == 2); // Frame stack
 
         // Framed code:
 
@@ -5367,7 +5367,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
             PyObject *tmp_args_element_name_1;
             PyObject *tmp_called_name_3;
             PyObject *tmp_args_element_name_2;
-            tmp_res = MAPPING_HAS_ITEM(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[65]);
+            tmp_res = MAPPING_HAS_ITEM(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[64]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -5386,11 +5386,11 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
                 goto condexpr_false_3;
             }
             condexpr_true_3:;
-            tmp_called_name_2 = PyObject_GetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[65]);
+            tmp_called_name_2 = PyObject_GetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[64]);
 
             if (unlikely(tmp_called_name_2 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[65]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[64]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -5413,7 +5413,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
             tmp_args_element_name_1 = MAKE_FUNCTION_chardet$latin1prober$$$function__3_charset_name();
 
-            frame_2397e552a20757e7777fe5b3946581f3_2->m_frame.f_lineno = 108;
+            frame_3b33f2b324892e9fbe03ccf2a9362d11_2->m_frame.f_lineno = 108;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_1);
             Py_DECREF(tmp_called_name_2);
             Py_DECREF(tmp_args_element_name_1);
@@ -5434,7 +5434,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
             tmp_args_element_name_2 = MAKE_FUNCTION_chardet$latin1prober$$$function__3_charset_name();
 
-            frame_2397e552a20757e7777fe5b3946581f3_2->m_frame.f_lineno = 108;
+            frame_3b33f2b324892e9fbe03ccf2a9362d11_2->m_frame.f_lineno = 108;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_2);
             Py_DECREF(tmp_args_element_name_2);
             if (tmp_dictset_value == NULL) {
@@ -5448,7 +5448,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
                 goto frame_exception_exit_2;
             }
             condexpr_end_3:;
-            tmp_res = PyObject_SetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[66], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[65], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -5467,7 +5467,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
             PyObject *tmp_args_element_name_3;
             PyObject *tmp_called_name_5;
             PyObject *tmp_args_element_name_4;
-            tmp_res = MAPPING_HAS_ITEM(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[65]);
+            tmp_res = MAPPING_HAS_ITEM(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[64]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -5486,11 +5486,11 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
                 goto condexpr_false_4;
             }
             condexpr_true_4:;
-            tmp_called_name_4 = PyObject_GetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[65]);
+            tmp_called_name_4 = PyObject_GetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[64]);
 
             if (unlikely(tmp_called_name_4 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[65]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[64]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -5513,7 +5513,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
             tmp_args_element_name_3 = MAKE_FUNCTION_chardet$latin1prober$$$function__4_language();
 
-            frame_2397e552a20757e7777fe5b3946581f3_2->m_frame.f_lineno = 112;
+            frame_3b33f2b324892e9fbe03ccf2a9362d11_2->m_frame.f_lineno = 112;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_3);
             Py_DECREF(tmp_called_name_4);
             Py_DECREF(tmp_args_element_name_3);
@@ -5534,7 +5534,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
             tmp_args_element_name_4 = MAKE_FUNCTION_chardet$latin1prober$$$function__4_language();
 
-            frame_2397e552a20757e7777fe5b3946581f3_2->m_frame.f_lineno = 112;
+            frame_3b33f2b324892e9fbe03ccf2a9362d11_2->m_frame.f_lineno = 112;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_4);
             Py_DECREF(tmp_args_element_name_4);
             if (tmp_dictset_value == NULL) {
@@ -5548,7 +5548,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
                 goto frame_exception_exit_2;
             }
             condexpr_end_4:;
-            tmp_res = PyObject_SetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[68], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[67], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -5565,7 +5565,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
         tmp_dictset_value = MAKE_FUNCTION_chardet$latin1prober$$$function__5_feed();
 
-        tmp_res = PyObject_SetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[70], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[69], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -5581,7 +5581,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
         tmp_dictset_value = MAKE_FUNCTION_chardet$latin1prober$$$function__6_get_confidence();
 
-        tmp_res = PyObject_SetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[72], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[71], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -5595,7 +5595,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_2397e552a20757e7777fe5b3946581f3_2);
+        RESTORE_FRAME_EXCEPTION(frame_3b33f2b324892e9fbe03ccf2a9362d11_2);
 #endif
 
         // Put the previous frame back on top.
@@ -5606,35 +5606,35 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_2397e552a20757e7777fe5b3946581f3_2);
+        RESTORE_FRAME_EXCEPTION(frame_3b33f2b324892e9fbe03ccf2a9362d11_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_2397e552a20757e7777fe5b3946581f3_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_2397e552a20757e7777fe5b3946581f3_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_2397e552a20757e7777fe5b3946581f3_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_3b33f2b324892e9fbe03ccf2a9362d11_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_3b33f2b324892e9fbe03ccf2a9362d11_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_3b33f2b324892e9fbe03ccf2a9362d11_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_2397e552a20757e7777fe5b3946581f3_2,
+            frame_3b33f2b324892e9fbe03ccf2a9362d11_2,
             type_description_2,
             outline_0_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_2397e552a20757e7777fe5b3946581f3_2 == cache_frame_2397e552a20757e7777fe5b3946581f3_2) {
+        if (frame_3b33f2b324892e9fbe03ccf2a9362d11_2 == cache_frame_3b33f2b324892e9fbe03ccf2a9362d11_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_2397e552a20757e7777fe5b3946581f3_2);
-            cache_frame_2397e552a20757e7777fe5b3946581f3_2 = NULL;
+            Py_DECREF(cache_frame_3b33f2b324892e9fbe03ccf2a9362d11_2);
+            cache_frame_3b33f2b324892e9fbe03ccf2a9362d11_2 = NULL;
         }
 
-        assertFrameObject(frame_2397e552a20757e7777fe5b3946581f3_2);
+        assertFrameObject(frame_3b33f2b324892e9fbe03ccf2a9362d11_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -5677,7 +5677,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
         branch_yes_4:;
         CHECK_OBJECT(tmp_class_creation_1__bases_orig);
         tmp_dictset_value = tmp_class_creation_1__bases_orig;
-        tmp_res = PyObject_SetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[74], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_chardet$latin1prober$$$class__1_Latin1Prober_96, mod_consts[73], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -5707,7 +5707,7 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
             PyTuple_SET_ITEM0(tmp_args_name_2, 2, tmp_tuple_element_5);
             CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
             tmp_kwargs_name_2 = tmp_class_creation_1__class_decl_dict;
-            frame_0a26e601b3b992bfe03b6419cfa941fe->m_frame.f_lineno = 96;
+            frame_b4aa2edfed0d7d2884b97606263893e0->m_frame.f_lineno = 96;
             tmp_assign_source_25 = CALL_FUNCTION(tmp_called_name_6, tmp_args_name_2, tmp_kwargs_name_2);
             Py_DECREF(tmp_args_name_2);
             if (tmp_assign_source_25 == NULL) {
@@ -5824,23 +5824,23 @@ PyObject *modulecode_chardet$latin1prober(PyObject *module, struct Nuitka_MetaPa
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0a26e601b3b992bfe03b6419cfa941fe);
+    RESTORE_FRAME_EXCEPTION(frame_b4aa2edfed0d7d2884b97606263893e0);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_0a26e601b3b992bfe03b6419cfa941fe);
+    assertFrameObject(frame_b4aa2edfed0d7d2884b97606263893e0);
 
     goto frame_no_exception_2;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0a26e601b3b992bfe03b6419cfa941fe);
+    RESTORE_FRAME_EXCEPTION(frame_b4aa2edfed0d7d2884b97606263893e0);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_0a26e601b3b992bfe03b6419cfa941fe, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_0a26e601b3b992bfe03b6419cfa941fe->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_0a26e601b3b992bfe03b6419cfa941fe, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_b4aa2edfed0d7d2884b97606263893e0, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_b4aa2edfed0d7d2884b97606263893e0->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_b4aa2edfed0d7d2884b97606263893e0, exception_lineno);
     }
 
     // Put the previous frame back on top.

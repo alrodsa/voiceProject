@@ -65,85 +65,85 @@ void checkModuleConstants_cryptography$hazmat$backends$openssl$ocsp(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_fdfbca7ee7d366f57f9799c8c08e45d4;
-static PyCodeObject *codeobj_1aac2c3214ab2556ddd37304b4cff14b;
-static PyCodeObject *codeobj_5220ae7b5febe65175316b2f861333a9;
-static PyCodeObject *codeobj_de22be5462f633649e8aa23f6c7e485b;
-static PyCodeObject *codeobj_3ec5d86ec2942f1402e62e95e956416e;
-static PyCodeObject *codeobj_e6a406cff187e778c503eabbafc4c17f;
-static PyCodeObject *codeobj_688a6da22ac15e8bf87374673d137510;
-static PyCodeObject *codeobj_48f47c4377f6279e578ceb2fefabfad8;
-static PyCodeObject *codeobj_29956deb664627d5a27ded2924f5b7c4;
-static PyCodeObject *codeobj_75a745df1449917ba035dfca3c1f4078;
-static PyCodeObject *codeobj_90188baabc9799c67df8e32cc077b217;
-static PyCodeObject *codeobj_8c21580ac96fc6707e57269fa5955f70;
-static PyCodeObject *codeobj_f935c359a424b2f41cd2b54ed47c38f2;
-static PyCodeObject *codeobj_ffbbf25132e793d343d073ec16ece775;
-static PyCodeObject *codeobj_89440a3060529ecfeb43ab8047d293f3;
-static PyCodeObject *codeobj_57950d8605f771b1929c476cf66766a4;
-static PyCodeObject *codeobj_1a66b125dea58a6465319d668191b468;
-static PyCodeObject *codeobj_b26c212bd99d0ab5ccc394cf23a01f29;
-static PyCodeObject *codeobj_c61b28fc0c6ff6340712701d2bce435e;
-static PyCodeObject *codeobj_f132c09ddadf07ca28ea67e2d2c696cd;
-static PyCodeObject *codeobj_e2e25348d7cc5204b1ce0c9086532438;
-static PyCodeObject *codeobj_ef9307a23bbfc2398b6d24909e08cb96;
-static PyCodeObject *codeobj_c5c1c49db53cfe3f41f30b8570834649;
-static PyCodeObject *codeobj_9f49ceddc8ff428afc4e746bf82471b2;
-static PyCodeObject *codeobj_a09c9f3aca1c2c888902eeb866bdf197;
-static PyCodeObject *codeobj_a46dda453a437b30b8129cca1467e188;
-static PyCodeObject *codeobj_561ecd63e923dcff4c45f58f1d3c60df;
-static PyCodeObject *codeobj_55e395e81416c16355414ac0acaa8250;
-static PyCodeObject *codeobj_c8095e7f83f37d85827a965d0fc402be;
-static PyCodeObject *codeobj_ccb4b6c3123a42f154b5a414590beab3;
-static PyCodeObject *codeobj_a19c84336ff058670ebc34fad620eb27;
-static PyCodeObject *codeobj_0dda85fae30a90078f30c347c28f9728;
-static PyCodeObject *codeobj_9d86fe552211f044f065105c19bacd7a;
-static PyCodeObject *codeobj_e9680aea913457b832b928a65c287748;
-static PyCodeObject *codeobj_a632f14b4264d0d23912d9a00771bf14;
-static PyCodeObject *codeobj_376b604b39548fc12e7b7ec6600fdcc8;
-static PyCodeObject *codeobj_0faf77543e08163e80cb7152a64f2b53;
-static PyCodeObject *codeobj_b6163194350fa2b9c00359edfc4e194d;
+static PyCodeObject *codeobj_26837de0c97c93a17012e9c22b44cf06;
+static PyCodeObject *codeobj_842369e66f8ab62f83ad1ae7fd88c32f;
+static PyCodeObject *codeobj_cdf1479cdb9595f949b129b3056a7369;
+static PyCodeObject *codeobj_d6ace286f606e0a966621b6eba0538b6;
+static PyCodeObject *codeobj_c09d76c004d190344199ee81b60bbc8e;
+static PyCodeObject *codeobj_987ca0aa0f6624354f8e0f380a00606c;
+static PyCodeObject *codeobj_9bb00e6a311f8b856c4787dc1def0b93;
+static PyCodeObject *codeobj_981fb477039407255ceeddeffb6763a8;
+static PyCodeObject *codeobj_7eef1f7e334268aaaa05e5ce548af785;
+static PyCodeObject *codeobj_6b2af3278731726d9c7db38ad557b794;
+static PyCodeObject *codeobj_072b3396e27c8bcdb46e566f0672e6e1;
+static PyCodeObject *codeobj_733aefeb0e0b8a437b8c9709343ed9d3;
+static PyCodeObject *codeobj_54aee953340efb1e8b4550443ff4989a;
+static PyCodeObject *codeobj_51cd6b68add931783272c2ee2f6971fe;
+static PyCodeObject *codeobj_5fb750e5e43029ee00984ea34ba9db1a;
+static PyCodeObject *codeobj_5b314488ecae5598211aa67bcc6ccbe8;
+static PyCodeObject *codeobj_aa42893628de564cc1a88404a21ac482;
+static PyCodeObject *codeobj_f447a3bbe3291609995df770c13bd7a5;
+static PyCodeObject *codeobj_3ca11734fd7f4ee76fdfcf5b91b9e0eb;
+static PyCodeObject *codeobj_166e1da923f58cde9fbe607dd496c381;
+static PyCodeObject *codeobj_e4f7065d671a0996ab147cccf7ef5e06;
+static PyCodeObject *codeobj_0b856d51fba83b73b7c7bb633e67c862;
+static PyCodeObject *codeobj_04acc47698141b83e4168e96127ecd37;
+static PyCodeObject *codeobj_8f70a19a8a2d202bb0a45ac17ad530ca;
+static PyCodeObject *codeobj_857683ad424a1224d8172f3ada247e75;
+static PyCodeObject *codeobj_674461be89df69cb72b007aeb90537ac;
+static PyCodeObject *codeobj_c4eef573d52fdef8415fe43ab2dd91a1;
+static PyCodeObject *codeobj_77d237b8fc88d86c21b95084d834e141;
+static PyCodeObject *codeobj_24ecd2b16bcfd07bafeeea202b85e47c;
+static PyCodeObject *codeobj_95655e284d726503592a9b22cc4e5e2c;
+static PyCodeObject *codeobj_290aab390330fec794aee3c0034e24ed;
+static PyCodeObject *codeobj_17f580e0271fe735b6a5cd14e92891ce;
+static PyCodeObject *codeobj_db8bb9d1f2a493cbd55b4e5a106127ce;
+static PyCodeObject *codeobj_26aabfb0b2723e953d08aec792cd9939;
+static PyCodeObject *codeobj_cb2597e4395f3eb4b675521354f80c43;
+static PyCodeObject *codeobj_676fa3061e3836a5ae239f77f0796a47;
+static PyCodeObject *codeobj_8af8c36b533b6d6c4b502ae920cd7bbe;
+static PyCodeObject *codeobj_cb91889d886ddca2a55d78e1408d0915;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[114]; CHECK_OBJECT(module_filename_obj);
-    codeobj_fdfbca7ee7d366f57f9799c8c08e45d4 = MAKE_CODEOBJECT(module_filename_obj, 168, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[56], mod_consts[215], mod_consts[216], 1, 0, 0);
-    codeobj_1aac2c3214ab2556ddd37304b4cff14b = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[217], NULL, NULL, 0, 0, 0);
-    codeobj_5220ae7b5febe65175316b2f861333a9 = MAKE_CODEOBJECT(module_filename_obj, 351, CO_NOFREE, mod_consts[207], mod_consts[218], NULL, 0, 0, 0);
-    codeobj_de22be5462f633649e8aa23f6c7e485b = MAKE_CODEOBJECT(module_filename_obj, 89, CO_NOFREE, mod_consts[140], mod_consts[218], NULL, 0, 0, 0);
-    codeobj_3ec5d86ec2942f1402e62e95e956416e = MAKE_CODEOBJECT(module_filename_obj, 352, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[148], mod_consts[219], NULL, 3, 0, 0);
-    codeobj_e6a406cff187e778c503eabbafc4c17f = MAKE_CODEOBJECT(module_filename_obj, 90, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[148], mod_consts[220], NULL, 3, 0, 0);
-    codeobj_688a6da22ac15e8bf87374673d137510 = MAKE_CODEOBJECT(module_filename_obj, 69, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[91], mod_consts[221], NULL, 2, 0, 0);
-    codeobj_48f47c4377f6279e578ceb2fefabfad8 = MAKE_CODEOBJECT(module_filename_obj, 31, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[89], mod_consts[222], NULL, 2, 0, 0);
-    codeobj_29956deb664627d5a27ded2924f5b7c4 = MAKE_CODEOBJECT(module_filename_obj, 45, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[90], mod_consts[223], NULL, 2, 0, 0);
-    codeobj_75a745df1449917ba035dfca3c1f4078 = MAKE_CODEOBJECT(module_filename_obj, 124, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[43], mod_consts[216], NULL, 1, 0, 0);
-    codeobj_90188baabc9799c67df8e32cc077b217 = MAKE_CODEOBJECT(module_filename_obj, 209, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[69], mod_consts[224], NULL, 1, 0, 0);
-    codeobj_8c21580ac96fc6707e57269fa5955f70 = MAKE_CODEOBJECT(module_filename_obj, 59, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[92], mod_consts[225], NULL, 2, 0, 0);
-    codeobj_f935c359a424b2f41cd2b54ed47c38f2 = MAKE_CODEOBJECT(module_filename_obj, 227, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[80], mod_consts[226], NULL, 1, 0, 0);
-    codeobj_ffbbf25132e793d343d073ec16ece775 = MAKE_CODEOBJECT(module_filename_obj, 174, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[168], mod_consts[227], NULL, 1, 0, 0);
-    codeobj_89440a3060529ecfeb43ab8047d293f3 = MAKE_CODEOBJECT(module_filename_obj, 330, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[199], mod_consts[216], NULL, 1, 0, 0);
-    codeobj_57950d8605f771b1929c476cf66766a4 = MAKE_CODEOBJECT(module_filename_obj, 383, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[199], mod_consts[216], NULL, 1, 0, 0);
-    codeobj_1a66b125dea58a6465319d668191b468 = MAKE_CODEOBJECT(module_filename_obj, 320, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[192], mod_consts[216], NULL, 1, 0, 0);
-    codeobj_b26c212bd99d0ab5ccc394cf23a01f29 = MAKE_CODEOBJECT(module_filename_obj, 379, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[192], mod_consts[216], NULL, 1, 0, 0);
-    codeobj_c61b28fc0c6ff6340712701d2bce435e = MAKE_CODEOBJECT(module_filename_obj, 310, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[188], mod_consts[216], NULL, 1, 0, 0);
-    codeobj_f132c09ddadf07ca28ea67e2d2c696cd = MAKE_CODEOBJECT(module_filename_obj, 367, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[188], mod_consts[216], NULL, 1, 0, 0);
-    codeobj_e2e25348d7cc5204b1ce0c9086532438 = MAKE_CODEOBJECT(module_filename_obj, 315, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[190], mod_consts[216], NULL, 1, 0, 0);
-    codeobj_ef9307a23bbfc2398b6d24909e08cb96 = MAKE_CODEOBJECT(module_filename_obj, 371, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[190], mod_consts[216], NULL, 1, 0, 0);
-    codeobj_c5c1c49db53cfe3f41f30b8570834649 = MAKE_CODEOBJECT(module_filename_obj, 294, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[186], mod_consts[228], NULL, 1, 0, 0);
-    codeobj_9f49ceddc8ff428afc4e746bf82471b2 = MAKE_CODEOBJECT(module_filename_obj, 219, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[176], mod_consts[229], NULL, 1, 0, 0);
-    codeobj_a09c9f3aca1c2c888902eeb866bdf197 = MAKE_CODEOBJECT(module_filename_obj, 339, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[204], mod_consts[230], NULL, 2, 0, 0);
-    codeobj_a46dda453a437b30b8129cca1467e188 = MAKE_CODEOBJECT(module_filename_obj, 386, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[204], mod_consts[230], NULL, 2, 0, 0);
-    codeobj_561ecd63e923dcff4c45f58f1d3c60df = MAKE_CODEOBJECT(module_filename_obj, 192, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[170], mod_consts[231], NULL, 1, 0, 0);
-    codeobj_55e395e81416c16355414ac0acaa8250 = MAKE_CODEOBJECT(module_filename_obj, 201, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[173], mod_consts[232], NULL, 1, 0, 0);
-    codeobj_c8095e7f83f37d85827a965d0fc402be = MAKE_CODEOBJECT(module_filename_obj, 257, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[182], mod_consts[233], NULL, 1, 0, 0);
-    codeobj_ccb4b6c3123a42f154b5a414590beab3 = MAKE_CODEOBJECT(module_filename_obj, 240, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[179], mod_consts[228], NULL, 1, 0, 0);
-    codeobj_a19c84336ff058670ebc34fad620eb27 = MAKE_CODEOBJECT(module_filename_obj, 325, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[195], mod_consts[216], NULL, 1, 0, 0);
-    codeobj_0dda85fae30a90078f30c347c28f9728 = MAKE_CODEOBJECT(module_filename_obj, 375, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[195], mod_consts[216], NULL, 1, 0, 0);
-    codeobj_9d86fe552211f044f065105c19bacd7a = MAKE_CODEOBJECT(module_filename_obj, 153, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[162], mod_consts[234], NULL, 1, 0, 0);
-    codeobj_e9680aea913457b832b928a65c287748 = MAKE_CODEOBJECT(module_filename_obj, 132, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[48], mod_consts[235], NULL, 1, 0, 0);
-    codeobj_a632f14b4264d0d23912d9a00771bf14 = MAKE_CODEOBJECT(module_filename_obj, 140, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[159], mod_consts[236], NULL, 1, 0, 0);
-    codeobj_376b604b39548fc12e7b7ec6600fdcc8 = MAKE_CODEOBJECT(module_filename_obj, 335, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[201], mod_consts[216], NULL, 1, 0, 0);
-    codeobj_0faf77543e08163e80cb7152a64f2b53 = MAKE_CODEOBJECT(module_filename_obj, 160, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[164], mod_consts[237], NULL, 1, 0, 0);
-    codeobj_b6163194350fa2b9c00359edfc4e194d = MAKE_CODEOBJECT(module_filename_obj, 280, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[184], mod_consts[228], NULL, 1, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[214]); CHECK_OBJECT(module_filename_obj);
+    codeobj_26837de0c97c93a17012e9c22b44cf06 = MAKE_CODEOBJECT(module_filename_obj, 168, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[56], mod_consts[215], mod_consts[216], 1, 0, 0);
+    codeobj_842369e66f8ab62f83ad1ae7fd88c32f = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[217], NULL, NULL, 0, 0, 0);
+    codeobj_cdf1479cdb9595f949b129b3056a7369 = MAKE_CODEOBJECT(module_filename_obj, 351, CO_NOFREE, mod_consts[206], mod_consts[218], NULL, 0, 0, 0);
+    codeobj_d6ace286f606e0a966621b6eba0538b6 = MAKE_CODEOBJECT(module_filename_obj, 89, CO_NOFREE, mod_consts[139], mod_consts[218], NULL, 0, 0, 0);
+    codeobj_c09d76c004d190344199ee81b60bbc8e = MAKE_CODEOBJECT(module_filename_obj, 352, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[147], mod_consts[219], NULL, 3, 0, 0);
+    codeobj_987ca0aa0f6624354f8e0f380a00606c = MAKE_CODEOBJECT(module_filename_obj, 90, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[147], mod_consts[220], NULL, 3, 0, 0);
+    codeobj_9bb00e6a311f8b856c4787dc1def0b93 = MAKE_CODEOBJECT(module_filename_obj, 69, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[91], mod_consts[221], NULL, 2, 0, 0);
+    codeobj_981fb477039407255ceeddeffb6763a8 = MAKE_CODEOBJECT(module_filename_obj, 31, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[89], mod_consts[222], NULL, 2, 0, 0);
+    codeobj_7eef1f7e334268aaaa05e5ce548af785 = MAKE_CODEOBJECT(module_filename_obj, 45, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[90], mod_consts[223], NULL, 2, 0, 0);
+    codeobj_6b2af3278731726d9c7db38ad557b794 = MAKE_CODEOBJECT(module_filename_obj, 124, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[43], mod_consts[216], NULL, 1, 0, 0);
+    codeobj_072b3396e27c8bcdb46e566f0672e6e1 = MAKE_CODEOBJECT(module_filename_obj, 209, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[69], mod_consts[224], NULL, 1, 0, 0);
+    codeobj_733aefeb0e0b8a437b8c9709343ed9d3 = MAKE_CODEOBJECT(module_filename_obj, 59, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[92], mod_consts[225], NULL, 2, 0, 0);
+    codeobj_54aee953340efb1e8b4550443ff4989a = MAKE_CODEOBJECT(module_filename_obj, 227, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[80], mod_consts[226], NULL, 1, 0, 0);
+    codeobj_51cd6b68add931783272c2ee2f6971fe = MAKE_CODEOBJECT(module_filename_obj, 174, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[167], mod_consts[227], NULL, 1, 0, 0);
+    codeobj_5fb750e5e43029ee00984ea34ba9db1a = MAKE_CODEOBJECT(module_filename_obj, 330, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[198], mod_consts[216], NULL, 1, 0, 0);
+    codeobj_5b314488ecae5598211aa67bcc6ccbe8 = MAKE_CODEOBJECT(module_filename_obj, 383, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[198], mod_consts[216], NULL, 1, 0, 0);
+    codeobj_aa42893628de564cc1a88404a21ac482 = MAKE_CODEOBJECT(module_filename_obj, 320, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[191], mod_consts[216], NULL, 1, 0, 0);
+    codeobj_f447a3bbe3291609995df770c13bd7a5 = MAKE_CODEOBJECT(module_filename_obj, 379, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[191], mod_consts[216], NULL, 1, 0, 0);
+    codeobj_3ca11734fd7f4ee76fdfcf5b91b9e0eb = MAKE_CODEOBJECT(module_filename_obj, 310, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[187], mod_consts[216], NULL, 1, 0, 0);
+    codeobj_166e1da923f58cde9fbe607dd496c381 = MAKE_CODEOBJECT(module_filename_obj, 367, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[187], mod_consts[216], NULL, 1, 0, 0);
+    codeobj_e4f7065d671a0996ab147cccf7ef5e06 = MAKE_CODEOBJECT(module_filename_obj, 315, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[189], mod_consts[216], NULL, 1, 0, 0);
+    codeobj_0b856d51fba83b73b7c7bb633e67c862 = MAKE_CODEOBJECT(module_filename_obj, 371, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[189], mod_consts[216], NULL, 1, 0, 0);
+    codeobj_04acc47698141b83e4168e96127ecd37 = MAKE_CODEOBJECT(module_filename_obj, 294, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[185], mod_consts[228], NULL, 1, 0, 0);
+    codeobj_8f70a19a8a2d202bb0a45ac17ad530ca = MAKE_CODEOBJECT(module_filename_obj, 219, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[175], mod_consts[229], NULL, 1, 0, 0);
+    codeobj_857683ad424a1224d8172f3ada247e75 = MAKE_CODEOBJECT(module_filename_obj, 339, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[203], mod_consts[230], NULL, 2, 0, 0);
+    codeobj_674461be89df69cb72b007aeb90537ac = MAKE_CODEOBJECT(module_filename_obj, 386, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[203], mod_consts[230], NULL, 2, 0, 0);
+    codeobj_c4eef573d52fdef8415fe43ab2dd91a1 = MAKE_CODEOBJECT(module_filename_obj, 192, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[169], mod_consts[231], NULL, 1, 0, 0);
+    codeobj_77d237b8fc88d86c21b95084d834e141 = MAKE_CODEOBJECT(module_filename_obj, 201, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[172], mod_consts[232], NULL, 1, 0, 0);
+    codeobj_24ecd2b16bcfd07bafeeea202b85e47c = MAKE_CODEOBJECT(module_filename_obj, 257, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[181], mod_consts[233], NULL, 1, 0, 0);
+    codeobj_95655e284d726503592a9b22cc4e5e2c = MAKE_CODEOBJECT(module_filename_obj, 240, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[178], mod_consts[228], NULL, 1, 0, 0);
+    codeobj_290aab390330fec794aee3c0034e24ed = MAKE_CODEOBJECT(module_filename_obj, 325, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[194], mod_consts[216], NULL, 1, 0, 0);
+    codeobj_17f580e0271fe735b6a5cd14e92891ce = MAKE_CODEOBJECT(module_filename_obj, 375, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[194], mod_consts[216], NULL, 1, 0, 0);
+    codeobj_db8bb9d1f2a493cbd55b4e5a106127ce = MAKE_CODEOBJECT(module_filename_obj, 153, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[161], mod_consts[234], NULL, 1, 0, 0);
+    codeobj_26aabfb0b2723e953d08aec792cd9939 = MAKE_CODEOBJECT(module_filename_obj, 132, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[48], mod_consts[235], NULL, 1, 0, 0);
+    codeobj_cb2597e4395f3eb4b675521354f80c43 = MAKE_CODEOBJECT(module_filename_obj, 140, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[158], mod_consts[236], NULL, 1, 0, 0);
+    codeobj_676fa3061e3836a5ae239f77f0796a47 = MAKE_CODEOBJECT(module_filename_obj, 335, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[200], mod_consts[216], NULL, 1, 0, 0);
+    codeobj_8af8c36b533b6d6c4b502ae920cd7bbe = MAKE_CODEOBJECT(module_filename_obj, 160, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[163], mod_consts[237], NULL, 1, 0, 0);
+    codeobj_cb91889d886ddca2a55d78e1408d0915 = MAKE_CODEOBJECT(module_filename_obj, 280, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[183], mod_consts[228], NULL, 1, 0, 0);
 }
 
 // The module function declarations.
@@ -267,7 +267,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__1__i
     PyObject *par_cert_id = python_pars[1];
     PyObject *var_key_hash = NULL;
     PyObject *var_res = NULL;
-    struct Nuitka_FrameObject *frame_48f47c4377f6279e578ceb2fefabfad8;
+    struct Nuitka_FrameObject *frame_981fb477039407255ceeddeffb6763a8;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -275,7 +275,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__1__i
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_48f47c4377f6279e578ceb2fefabfad8 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_981fb477039407255ceeddeffb6763a8 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -283,31 +283,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__1__i
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_48f47c4377f6279e578ceb2fefabfad8)) {
-        Py_XDECREF(cache_frame_48f47c4377f6279e578ceb2fefabfad8);
+    if (isFrameUnusable(cache_frame_981fb477039407255ceeddeffb6763a8)) {
+        Py_XDECREF(cache_frame_981fb477039407255ceeddeffb6763a8);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_48f47c4377f6279e578ceb2fefabfad8 == NULL) {
+        if (cache_frame_981fb477039407255ceeddeffb6763a8 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_48f47c4377f6279e578ceb2fefabfad8 = MAKE_FUNCTION_FRAME(codeobj_48f47c4377f6279e578ceb2fefabfad8, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_981fb477039407255ceeddeffb6763a8 = MAKE_FUNCTION_FRAME(codeobj_981fb477039407255ceeddeffb6763a8, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_48f47c4377f6279e578ceb2fefabfad8->m_type_description == NULL);
-    frame_48f47c4377f6279e578ceb2fefabfad8 = cache_frame_48f47c4377f6279e578ceb2fefabfad8;
+    assert(cache_frame_981fb477039407255ceeddeffb6763a8->m_type_description == NULL);
+    frame_981fb477039407255ceeddeffb6763a8 = cache_frame_981fb477039407255ceeddeffb6763a8;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_48f47c4377f6279e578ceb2fefabfad8);
+    pushFrameStack(frame_981fb477039407255ceeddeffb6763a8);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_48f47c4377f6279e578ceb2fefabfad8) == 2); // Frame stack
+    assert(Py_REFCNT(frame_981fb477039407255ceeddeffb6763a8) == 2); // Frame stack
 
     // Framed code:
     {
@@ -327,7 +327,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__1__i
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_48f47c4377f6279e578ceb2fefabfad8->m_frame.f_lineno = 32;
+        frame_981fb477039407255ceeddeffb6763a8->m_frame.f_lineno = 32;
         tmp_assign_source_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_1,
             mod_consts[1],
@@ -521,7 +521,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__1__i
         }
         CHECK_OBJECT(par_cert_id);
         tmp_args_element_name_5 = par_cert_id;
-        frame_48f47c4377f6279e578ceb2fefabfad8->m_frame.f_lineno = 33;
+        frame_981fb477039407255ceeddeffb6763a8->m_frame.f_lineno = 33;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_assign_source_2 = CALL_FUNCTION_WITH_ARGS5(tmp_called_name_1, call_args);
@@ -589,7 +589,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__1__i
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_48f47c4377f6279e578ceb2fefabfad8->m_frame.f_lineno = 40;
+        frame_981fb477039407255ceeddeffb6763a8->m_frame.f_lineno = 40;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_6);
@@ -717,7 +717,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__1__i
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_48f47c4377f6279e578ceb2fefabfad8->m_frame.f_lineno = 41;
+        frame_981fb477039407255ceeddeffb6763a8->m_frame.f_lineno = 41;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_7);
@@ -793,7 +793,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__1__i
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_48f47c4377f6279e578ceb2fefabfad8->m_frame.f_lineno = 42;
+        frame_981fb477039407255ceeddeffb6763a8->m_frame.f_lineno = 42;
         {
             PyObject *call_args[] = {tmp_args_element_name_8, tmp_args_element_name_9};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -814,7 +814,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__1__i
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_48f47c4377f6279e578ceb2fefabfad8);
+    RESTORE_FRAME_EXCEPTION(frame_981fb477039407255ceeddeffb6763a8);
 #endif
 
     // Put the previous frame back on top.
@@ -824,7 +824,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__1__i
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_48f47c4377f6279e578ceb2fefabfad8);
+    RESTORE_FRAME_EXCEPTION(frame_981fb477039407255ceeddeffb6763a8);
 #endif
 
     // Put the previous frame back on top.
@@ -835,18 +835,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__1__i
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_48f47c4377f6279e578ceb2fefabfad8);
+    RESTORE_FRAME_EXCEPTION(frame_981fb477039407255ceeddeffb6763a8);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_48f47c4377f6279e578ceb2fefabfad8, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_48f47c4377f6279e578ceb2fefabfad8->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_48f47c4377f6279e578ceb2fefabfad8, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_981fb477039407255ceeddeffb6763a8, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_981fb477039407255ceeddeffb6763a8->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_981fb477039407255ceeddeffb6763a8, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_48f47c4377f6279e578ceb2fefabfad8,
+        frame_981fb477039407255ceeddeffb6763a8,
         type_description_1,
         par_backend,
         par_cert_id,
@@ -856,17 +856,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__1__i
 
 
     // Release cached frame if used for exception.
-    if (frame_48f47c4377f6279e578ceb2fefabfad8 == cache_frame_48f47c4377f6279e578ceb2fefabfad8) {
+    if (frame_981fb477039407255ceeddeffb6763a8 == cache_frame_981fb477039407255ceeddeffb6763a8) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_48f47c4377f6279e578ceb2fefabfad8);
-        cache_frame_48f47c4377f6279e578ceb2fefabfad8 = NULL;
+        Py_DECREF(cache_frame_981fb477039407255ceeddeffb6763a8);
+        cache_frame_981fb477039407255ceeddeffb6763a8 = NULL;
     }
 
-    assertFrameObject(frame_48f47c4377f6279e578ceb2fefabfad8);
+    assertFrameObject(frame_981fb477039407255ceeddeffb6763a8);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -949,7 +949,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__2__i
     PyObject *par_cert_id = python_pars[1];
     PyObject *var_name_hash = NULL;
     PyObject *var_res = NULL;
-    struct Nuitka_FrameObject *frame_29956deb664627d5a27ded2924f5b7c4;
+    struct Nuitka_FrameObject *frame_7eef1f7e334268aaaa05e5ce548af785;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -957,7 +957,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__2__i
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_29956deb664627d5a27ded2924f5b7c4 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_7eef1f7e334268aaaa05e5ce548af785 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -965,31 +965,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__2__i
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_29956deb664627d5a27ded2924f5b7c4)) {
-        Py_XDECREF(cache_frame_29956deb664627d5a27ded2924f5b7c4);
+    if (isFrameUnusable(cache_frame_7eef1f7e334268aaaa05e5ce548af785)) {
+        Py_XDECREF(cache_frame_7eef1f7e334268aaaa05e5ce548af785);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_29956deb664627d5a27ded2924f5b7c4 == NULL) {
+        if (cache_frame_7eef1f7e334268aaaa05e5ce548af785 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_29956deb664627d5a27ded2924f5b7c4 = MAKE_FUNCTION_FRAME(codeobj_29956deb664627d5a27ded2924f5b7c4, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_7eef1f7e334268aaaa05e5ce548af785 = MAKE_FUNCTION_FRAME(codeobj_7eef1f7e334268aaaa05e5ce548af785, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_29956deb664627d5a27ded2924f5b7c4->m_type_description == NULL);
-    frame_29956deb664627d5a27ded2924f5b7c4 = cache_frame_29956deb664627d5a27ded2924f5b7c4;
+    assert(cache_frame_7eef1f7e334268aaaa05e5ce548af785->m_type_description == NULL);
+    frame_7eef1f7e334268aaaa05e5ce548af785 = cache_frame_7eef1f7e334268aaaa05e5ce548af785;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_29956deb664627d5a27ded2924f5b7c4);
+    pushFrameStack(frame_7eef1f7e334268aaaa05e5ce548af785);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_29956deb664627d5a27ded2924f5b7c4) == 2); // Frame stack
+    assert(Py_REFCNT(frame_7eef1f7e334268aaaa05e5ce548af785) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1009,7 +1009,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__2__i
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_29956deb664627d5a27ded2924f5b7c4->m_frame.f_lineno = 46;
+        frame_7eef1f7e334268aaaa05e5ce548af785->m_frame.f_lineno = 46;
         tmp_assign_source_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_1,
             mod_consts[1],
@@ -1203,7 +1203,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__2__i
         }
         CHECK_OBJECT(par_cert_id);
         tmp_args_element_name_5 = par_cert_id;
-        frame_29956deb664627d5a27ded2924f5b7c4->m_frame.f_lineno = 47;
+        frame_7eef1f7e334268aaaa05e5ce548af785->m_frame.f_lineno = 47;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_assign_source_2 = CALL_FUNCTION_WITH_ARGS5(tmp_called_name_1, call_args);
@@ -1271,7 +1271,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__2__i
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_29956deb664627d5a27ded2924f5b7c4->m_frame.f_lineno = 54;
+        frame_7eef1f7e334268aaaa05e5ce548af785->m_frame.f_lineno = 54;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_6);
@@ -1399,7 +1399,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__2__i
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_29956deb664627d5a27ded2924f5b7c4->m_frame.f_lineno = 55;
+        frame_7eef1f7e334268aaaa05e5ce548af785->m_frame.f_lineno = 55;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_7);
@@ -1475,7 +1475,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__2__i
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_29956deb664627d5a27ded2924f5b7c4->m_frame.f_lineno = 56;
+        frame_7eef1f7e334268aaaa05e5ce548af785->m_frame.f_lineno = 56;
         {
             PyObject *call_args[] = {tmp_args_element_name_8, tmp_args_element_name_9};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -1496,7 +1496,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__2__i
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_29956deb664627d5a27ded2924f5b7c4);
+    RESTORE_FRAME_EXCEPTION(frame_7eef1f7e334268aaaa05e5ce548af785);
 #endif
 
     // Put the previous frame back on top.
@@ -1506,7 +1506,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__2__i
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_29956deb664627d5a27ded2924f5b7c4);
+    RESTORE_FRAME_EXCEPTION(frame_7eef1f7e334268aaaa05e5ce548af785);
 #endif
 
     // Put the previous frame back on top.
@@ -1517,18 +1517,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__2__i
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_29956deb664627d5a27ded2924f5b7c4);
+    RESTORE_FRAME_EXCEPTION(frame_7eef1f7e334268aaaa05e5ce548af785);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_29956deb664627d5a27ded2924f5b7c4, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_29956deb664627d5a27ded2924f5b7c4->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_29956deb664627d5a27ded2924f5b7c4, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_7eef1f7e334268aaaa05e5ce548af785, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_7eef1f7e334268aaaa05e5ce548af785->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_7eef1f7e334268aaaa05e5ce548af785, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_29956deb664627d5a27ded2924f5b7c4,
+        frame_7eef1f7e334268aaaa05e5ce548af785,
         type_description_1,
         par_backend,
         par_cert_id,
@@ -1538,17 +1538,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__2__i
 
 
     // Release cached frame if used for exception.
-    if (frame_29956deb664627d5a27ded2924f5b7c4 == cache_frame_29956deb664627d5a27ded2924f5b7c4) {
+    if (frame_7eef1f7e334268aaaa05e5ce548af785 == cache_frame_7eef1f7e334268aaaa05e5ce548af785) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_29956deb664627d5a27ded2924f5b7c4);
-        cache_frame_29956deb664627d5a27ded2924f5b7c4 = NULL;
+        Py_DECREF(cache_frame_7eef1f7e334268aaaa05e5ce548af785);
+        cache_frame_7eef1f7e334268aaaa05e5ce548af785 = NULL;
     }
 
-    assertFrameObject(frame_29956deb664627d5a27ded2924f5b7c4);
+    assertFrameObject(frame_7eef1f7e334268aaaa05e5ce548af785);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1631,7 +1631,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__3__s
     PyObject *par_cert_id = python_pars[1];
     PyObject *var_num = NULL;
     PyObject *var_res = NULL;
-    struct Nuitka_FrameObject *frame_8c21580ac96fc6707e57269fa5955f70;
+    struct Nuitka_FrameObject *frame_733aefeb0e0b8a437b8c9709343ed9d3;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -1639,7 +1639,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__3__s
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_8c21580ac96fc6707e57269fa5955f70 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_733aefeb0e0b8a437b8c9709343ed9d3 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -1647,31 +1647,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__3__s
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_8c21580ac96fc6707e57269fa5955f70)) {
-        Py_XDECREF(cache_frame_8c21580ac96fc6707e57269fa5955f70);
+    if (isFrameUnusable(cache_frame_733aefeb0e0b8a437b8c9709343ed9d3)) {
+        Py_XDECREF(cache_frame_733aefeb0e0b8a437b8c9709343ed9d3);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_8c21580ac96fc6707e57269fa5955f70 == NULL) {
+        if (cache_frame_733aefeb0e0b8a437b8c9709343ed9d3 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_8c21580ac96fc6707e57269fa5955f70 = MAKE_FUNCTION_FRAME(codeobj_8c21580ac96fc6707e57269fa5955f70, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_733aefeb0e0b8a437b8c9709343ed9d3 = MAKE_FUNCTION_FRAME(codeobj_733aefeb0e0b8a437b8c9709343ed9d3, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_8c21580ac96fc6707e57269fa5955f70->m_type_description == NULL);
-    frame_8c21580ac96fc6707e57269fa5955f70 = cache_frame_8c21580ac96fc6707e57269fa5955f70;
+    assert(cache_frame_733aefeb0e0b8a437b8c9709343ed9d3->m_type_description == NULL);
+    frame_733aefeb0e0b8a437b8c9709343ed9d3 = cache_frame_733aefeb0e0b8a437b8c9709343ed9d3;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_8c21580ac96fc6707e57269fa5955f70);
+    pushFrameStack(frame_733aefeb0e0b8a437b8c9709343ed9d3);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_8c21580ac96fc6707e57269fa5955f70) == 2); // Frame stack
+    assert(Py_REFCNT(frame_733aefeb0e0b8a437b8c9709343ed9d3) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1691,7 +1691,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__3__s
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_8c21580ac96fc6707e57269fa5955f70->m_frame.f_lineno = 60;
+        frame_733aefeb0e0b8a437b8c9709343ed9d3->m_frame.f_lineno = 60;
         tmp_assign_source_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_1,
             mod_consts[1],
@@ -1885,7 +1885,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__3__s
         tmp_args_element_name_4 = var_num;
         CHECK_OBJECT(par_cert_id);
         tmp_args_element_name_5 = par_cert_id;
-        frame_8c21580ac96fc6707e57269fa5955f70->m_frame.f_lineno = 61;
+        frame_733aefeb0e0b8a437b8c9709343ed9d3->m_frame.f_lineno = 61;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_assign_source_2 = CALL_FUNCTION_WITH_ARGS5(tmp_called_name_1, call_args);
@@ -1953,7 +1953,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__3__s
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_8c21580ac96fc6707e57269fa5955f70->m_frame.f_lineno = 64;
+        frame_733aefeb0e0b8a437b8c9709343ed9d3->m_frame.f_lineno = 64;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_6);
@@ -2081,7 +2081,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__3__s
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_8c21580ac96fc6707e57269fa5955f70->m_frame.f_lineno = 65;
+        frame_733aefeb0e0b8a437b8c9709343ed9d3->m_frame.f_lineno = 65;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_7);
@@ -2157,7 +2157,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__3__s
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_8c21580ac96fc6707e57269fa5955f70->m_frame.f_lineno = 66;
+        frame_733aefeb0e0b8a437b8c9709343ed9d3->m_frame.f_lineno = 66;
         {
             PyObject *call_args[] = {tmp_args_element_name_8, tmp_args_element_name_9};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -2178,7 +2178,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__3__s
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_8c21580ac96fc6707e57269fa5955f70);
+    RESTORE_FRAME_EXCEPTION(frame_733aefeb0e0b8a437b8c9709343ed9d3);
 #endif
 
     // Put the previous frame back on top.
@@ -2188,7 +2188,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__3__s
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_8c21580ac96fc6707e57269fa5955f70);
+    RESTORE_FRAME_EXCEPTION(frame_733aefeb0e0b8a437b8c9709343ed9d3);
 #endif
 
     // Put the previous frame back on top.
@@ -2199,18 +2199,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__3__s
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_8c21580ac96fc6707e57269fa5955f70);
+    RESTORE_FRAME_EXCEPTION(frame_733aefeb0e0b8a437b8c9709343ed9d3);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_8c21580ac96fc6707e57269fa5955f70, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_8c21580ac96fc6707e57269fa5955f70->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_8c21580ac96fc6707e57269fa5955f70, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_733aefeb0e0b8a437b8c9709343ed9d3, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_733aefeb0e0b8a437b8c9709343ed9d3->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_733aefeb0e0b8a437b8c9709343ed9d3, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_8c21580ac96fc6707e57269fa5955f70,
+        frame_733aefeb0e0b8a437b8c9709343ed9d3,
         type_description_1,
         par_backend,
         par_cert_id,
@@ -2220,17 +2220,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__3__s
 
 
     // Release cached frame if used for exception.
-    if (frame_8c21580ac96fc6707e57269fa5955f70 == cache_frame_8c21580ac96fc6707e57269fa5955f70) {
+    if (frame_733aefeb0e0b8a437b8c9709343ed9d3 == cache_frame_733aefeb0e0b8a437b8c9709343ed9d3) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_8c21580ac96fc6707e57269fa5955f70);
-        cache_frame_8c21580ac96fc6707e57269fa5955f70 = NULL;
+        Py_DECREF(cache_frame_733aefeb0e0b8a437b8c9709343ed9d3);
+        cache_frame_733aefeb0e0b8a437b8c9709343ed9d3 = NULL;
     }
 
-    assertFrameObject(frame_8c21580ac96fc6707e57269fa5955f70);
+    assertFrameObject(frame_733aefeb0e0b8a437b8c9709343ed9d3);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2314,7 +2314,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__4__h
     PyObject *var_asn1obj = NULL;
     PyObject *var_res = NULL;
     PyObject *var_oid = NULL;
-    struct Nuitka_FrameObject *frame_688a6da22ac15e8bf87374673d137510;
+    struct Nuitka_FrameObject *frame_9bb00e6a311f8b856c4787dc1def0b93;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -2335,7 +2335,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__4__h
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
-    static struct Nuitka_FrameObject *cache_frame_688a6da22ac15e8bf87374673d137510 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_9bb00e6a311f8b856c4787dc1def0b93 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -2343,31 +2343,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__4__h
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_688a6da22ac15e8bf87374673d137510)) {
-        Py_XDECREF(cache_frame_688a6da22ac15e8bf87374673d137510);
+    if (isFrameUnusable(cache_frame_9bb00e6a311f8b856c4787dc1def0b93)) {
+        Py_XDECREF(cache_frame_9bb00e6a311f8b856c4787dc1def0b93);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_688a6da22ac15e8bf87374673d137510 == NULL) {
+        if (cache_frame_9bb00e6a311f8b856c4787dc1def0b93 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_688a6da22ac15e8bf87374673d137510 = MAKE_FUNCTION_FRAME(codeobj_688a6da22ac15e8bf87374673d137510, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_9bb00e6a311f8b856c4787dc1def0b93 = MAKE_FUNCTION_FRAME(codeobj_9bb00e6a311f8b856c4787dc1def0b93, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_688a6da22ac15e8bf87374673d137510->m_type_description == NULL);
-    frame_688a6da22ac15e8bf87374673d137510 = cache_frame_688a6da22ac15e8bf87374673d137510;
+    assert(cache_frame_9bb00e6a311f8b856c4787dc1def0b93->m_type_description == NULL);
+    frame_9bb00e6a311f8b856c4787dc1def0b93 = cache_frame_9bb00e6a311f8b856c4787dc1def0b93;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_688a6da22ac15e8bf87374673d137510);
+    pushFrameStack(frame_9bb00e6a311f8b856c4787dc1def0b93);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_688a6da22ac15e8bf87374673d137510) == 2); // Frame stack
+    assert(Py_REFCNT(frame_9bb00e6a311f8b856c4787dc1def0b93) == 2); // Frame stack
 
     // Framed code:
     {
@@ -2387,7 +2387,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__4__h
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_688a6da22ac15e8bf87374673d137510->m_frame.f_lineno = 70;
+        frame_9bb00e6a311f8b856c4787dc1def0b93->m_frame.f_lineno = 70;
         tmp_assign_source_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_1,
             mod_consts[1],
@@ -2581,7 +2581,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__4__h
         }
         CHECK_OBJECT(par_cert_id);
         tmp_args_element_name_5 = par_cert_id;
-        frame_688a6da22ac15e8bf87374673d137510->m_frame.f_lineno = 71;
+        frame_9bb00e6a311f8b856c4787dc1def0b93->m_frame.f_lineno = 71;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_assign_source_2 = CALL_FUNCTION_WITH_ARGS5(tmp_called_name_1, call_args);
@@ -2649,7 +2649,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__4__h
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_688a6da22ac15e8bf87374673d137510->m_frame.f_lineno = 78;
+        frame_9bb00e6a311f8b856c4787dc1def0b93->m_frame.f_lineno = 78;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_6);
@@ -2777,7 +2777,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__4__h
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_688a6da22ac15e8bf87374673d137510->m_frame.f_lineno = 79;
+        frame_9bb00e6a311f8b856c4787dc1def0b93->m_frame.f_lineno = 79;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_7);
@@ -2854,7 +2854,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__4__h
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_688a6da22ac15e8bf87374673d137510->m_frame.f_lineno = 80;
+        frame_9bb00e6a311f8b856c4787dc1def0b93->m_frame.f_lineno = 80;
         {
             PyObject *call_args[] = {tmp_args_element_name_8, tmp_args_element_name_9};
             tmp_assign_source_3 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -2926,9 +2926,9 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__4__h
     GET_CURRENT_EXCEPTION(&exception_preserved_type_1, &exception_preserved_value_1, &exception_preserved_tb_1);
 
     if (exception_keeper_tb_1 == NULL) {
-        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_688a6da22ac15e8bf87374673d137510, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_9bb00e6a311f8b856c4787dc1def0b93, exception_keeper_lineno_1);
     } else if (exception_keeper_lineno_1 != 0) {
-        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_688a6da22ac15e8bf87374673d137510, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_9bb00e6a311f8b856c4787dc1def0b93, exception_keeper_lineno_1);
     }
 
     NORMALIZE_EXCEPTION(&exception_keeper_type_1, &exception_keeper_value_1, &exception_keeper_tb_1);
@@ -2976,7 +2976,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__4__h
         tmp_called_instance_2 = mod_consts[21];
         CHECK_OBJECT(var_oid);
         tmp_args_element_name_11 = var_oid;
-        frame_688a6da22ac15e8bf87374673d137510->m_frame.f_lineno = 85;
+        frame_9bb00e6a311f8b856c4787dc1def0b93->m_frame.f_lineno = 85;
         tmp_args_element_name_10 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[22], tmp_args_element_name_11);
         if (tmp_args_element_name_10 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2988,7 +2988,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__4__h
             type_description_1 = "ooooo";
             goto try_except_handler_3;
         }
-        frame_688a6da22ac15e8bf87374673d137510->m_frame.f_lineno = 84;
+        frame_9bb00e6a311f8b856c4787dc1def0b93->m_frame.f_lineno = 84;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_10);
         Py_DECREF(tmp_args_element_name_10);
         if (tmp_raise_type_1 == NULL) {
@@ -3014,7 +3014,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__4__h
         exception_lineno = 81;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_688a6da22ac15e8bf87374673d137510->m_frame) frame_688a6da22ac15e8bf87374673d137510->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_9bb00e6a311f8b856c4787dc1def0b93->m_frame) frame_9bb00e6a311f8b856c4787dc1def0b93->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "ooooo";
     goto try_except_handler_3;
     branch_end_1:;
@@ -3045,7 +3045,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__4__h
     // End of try:
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_688a6da22ac15e8bf87374673d137510);
+    RESTORE_FRAME_EXCEPTION(frame_9bb00e6a311f8b856c4787dc1def0b93);
 #endif
 
     // Put the previous frame back on top.
@@ -3055,7 +3055,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__4__h
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_688a6da22ac15e8bf87374673d137510);
+    RESTORE_FRAME_EXCEPTION(frame_9bb00e6a311f8b856c4787dc1def0b93);
 #endif
 
     // Put the previous frame back on top.
@@ -3066,18 +3066,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__4__h
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_688a6da22ac15e8bf87374673d137510);
+    RESTORE_FRAME_EXCEPTION(frame_9bb00e6a311f8b856c4787dc1def0b93);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_688a6da22ac15e8bf87374673d137510, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_688a6da22ac15e8bf87374673d137510->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_688a6da22ac15e8bf87374673d137510, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_9bb00e6a311f8b856c4787dc1def0b93, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_9bb00e6a311f8b856c4787dc1def0b93->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_9bb00e6a311f8b856c4787dc1def0b93, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_688a6da22ac15e8bf87374673d137510,
+        frame_9bb00e6a311f8b856c4787dc1def0b93,
         type_description_1,
         par_backend,
         par_cert_id,
@@ -3088,17 +3088,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__4__h
 
 
     // Release cached frame if used for exception.
-    if (frame_688a6da22ac15e8bf87374673d137510 == cache_frame_688a6da22ac15e8bf87374673d137510) {
+    if (frame_9bb00e6a311f8b856c4787dc1def0b93 == cache_frame_9bb00e6a311f8b856c4787dc1def0b93) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_688a6da22ac15e8bf87374673d137510);
-        cache_frame_688a6da22ac15e8bf87374673d137510 = NULL;
+        Py_DECREF(cache_frame_9bb00e6a311f8b856c4787dc1def0b93);
+        cache_frame_9bb00e6a311f8b856c4787dc1def0b93 = NULL;
     }
 
-    assertFrameObject(frame_688a6da22ac15e8bf87374673d137510);
+    assertFrameObject(frame_9bb00e6a311f8b856c4787dc1def0b93);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -3188,7 +3188,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
     PyObject *var_status = NULL;
     PyObject *var_basic = NULL;
     PyObject *var_num_resp = NULL;
-    struct Nuitka_FrameObject *frame_e6a406cff187e778c503eabbafc4c17f;
+    struct Nuitka_FrameObject *frame_987ca0aa0f6624354f8e0f380a00606c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -3197,7 +3197,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     int tmp_res;
-    static struct Nuitka_FrameObject *cache_frame_e6a406cff187e778c503eabbafc4c17f = NULL;
+    static struct Nuitka_FrameObject *cache_frame_987ca0aa0f6624354f8e0f380a00606c = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -3206,31 +3206,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_e6a406cff187e778c503eabbafc4c17f)) {
-        Py_XDECREF(cache_frame_e6a406cff187e778c503eabbafc4c17f);
+    if (isFrameUnusable(cache_frame_987ca0aa0f6624354f8e0f380a00606c)) {
+        Py_XDECREF(cache_frame_987ca0aa0f6624354f8e0f380a00606c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_e6a406cff187e778c503eabbafc4c17f == NULL) {
+        if (cache_frame_987ca0aa0f6624354f8e0f380a00606c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_e6a406cff187e778c503eabbafc4c17f = MAKE_FUNCTION_FRAME(codeobj_e6a406cff187e778c503eabbafc4c17f, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_987ca0aa0f6624354f8e0f380a00606c = MAKE_FUNCTION_FRAME(codeobj_987ca0aa0f6624354f8e0f380a00606c, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_e6a406cff187e778c503eabbafc4c17f->m_type_description == NULL);
-    frame_e6a406cff187e778c503eabbafc4c17f = cache_frame_e6a406cff187e778c503eabbafc4c17f;
+    assert(cache_frame_987ca0aa0f6624354f8e0f380a00606c->m_type_description == NULL);
+    frame_987ca0aa0f6624354f8e0f380a00606c = cache_frame_987ca0aa0f6624354f8e0f380a00606c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_e6a406cff187e778c503eabbafc4c17f);
+    pushFrameStack(frame_987ca0aa0f6624354f8e0f380a00606c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_e6a406cff187e778c503eabbafc4c17f) == 2); // Frame stack
+    assert(Py_REFCNT(frame_987ca0aa0f6624354f8e0f380a00606c) == 2); // Frame stack
 
     // Framed code:
     {
@@ -3340,7 +3340,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_e6a406cff187e778c503eabbafc4c17f->m_frame.f_lineno = 93;
+        frame_987ca0aa0f6624354f8e0f380a00606c->m_frame.f_lineno = 93;
         tmp_assign_source_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -3431,7 +3431,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
             goto frame_exception_exit_1;
         }
         tmp_args_element_name_2 = (tmp_res == 1) ? Py_True : Py_False;
-        frame_e6a406cff187e778c503eabbafc4c17f->m_frame.f_lineno = 94;
+        frame_987ca0aa0f6624354f8e0f380a00606c->m_frame.f_lineno = 94;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         if (tmp_call_result_1 == NULL) {
@@ -3653,7 +3653,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_e6a406cff187e778c503eabbafc4c17f->m_frame.f_lineno = 97;
+        frame_987ca0aa0f6624354f8e0f380a00606c->m_frame.f_lineno = 97;
         tmp_assign_source_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_3);
@@ -3779,7 +3779,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_e6a406cff187e778c503eabbafc4c17f->m_frame.f_lineno = 100;
+        frame_987ca0aa0f6624354f8e0f380a00606c->m_frame.f_lineno = 100;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_4);
         Py_DECREF(tmp_args_element_name_4);
@@ -3905,7 +3905,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_e6a406cff187e778c503eabbafc4c17f->m_frame.f_lineno = 101;
+        frame_987ca0aa0f6624354f8e0f380a00606c->m_frame.f_lineno = 101;
         {
             PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_assattr_name_4 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_5, call_args);
@@ -4029,7 +4029,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_e6a406cff187e778c503eabbafc4c17f->m_frame.f_lineno = 104;
+        frame_987ca0aa0f6624354f8e0f380a00606c->m_frame.f_lineno = 104;
         tmp_assign_source_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_6);
         Py_DECREF(tmp_args_element_name_7);
@@ -4094,7 +4094,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
         tmp_called_instance_1 = mod_consts[36];
         CHECK_OBJECT(var_num_resp);
         tmp_args_element_name_8 = var_num_resp;
-        frame_e6a406cff187e778c503eabbafc4c17f->m_frame.f_lineno = 107;
+        frame_987ca0aa0f6624354f8e0f380a00606c->m_frame.f_lineno = 107;
         tmp_make_exception_arg_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[22], tmp_args_element_name_8);
         if (tmp_make_exception_arg_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4106,7 +4106,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_e6a406cff187e778c503eabbafc4c17f->m_frame.f_lineno = 106;
+        frame_987ca0aa0f6624354f8e0f380a00606c->m_frame.f_lineno = 106;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         Py_DECREF(tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
@@ -4200,7 +4200,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
             goto frame_exception_exit_1;
         }
         tmp_args_element_name_10 = mod_consts[10];
-        frame_e6a406cff187e778c503eabbafc4c17f->m_frame.f_lineno = 111;
+        frame_987ca0aa0f6624354f8e0f380a00606c->m_frame.f_lineno = 111;
         {
             PyObject *call_args[] = {tmp_args_element_name_9, tmp_args_element_name_10};
             tmp_assattr_name_5 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_7, call_args);
@@ -4381,7 +4381,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_e6a406cff187e778c503eabbafc4c17f->m_frame.f_lineno = 112;
+        frame_987ca0aa0f6624354f8e0f380a00606c->m_frame.f_lineno = 112;
         tmp_call_result_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_8, tmp_args_element_name_11);
         Py_DECREF(tmp_called_name_8);
         Py_DECREF(tmp_args_element_name_11);
@@ -4478,7 +4478,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_e6a406cff187e778c503eabbafc4c17f->m_frame.f_lineno = 115;
+        frame_987ca0aa0f6624354f8e0f380a00606c->m_frame.f_lineno = 115;
         tmp_assattr_name_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_9, tmp_args_element_name_12);
         Py_DECREF(tmp_called_name_9);
         Py_DECREF(tmp_args_element_name_12);
@@ -4655,7 +4655,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_e6a406cff187e778c503eabbafc4c17f->m_frame.f_lineno = 118;
+        frame_987ca0aa0f6624354f8e0f380a00606c->m_frame.f_lineno = 118;
         tmp_call_result_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_10, tmp_args_element_name_13);
         Py_DECREF(tmp_called_name_10);
         Py_DECREF(tmp_args_element_name_13);
@@ -4674,7 +4674,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
     branch_no_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e6a406cff187e778c503eabbafc4c17f);
+    RESTORE_FRAME_EXCEPTION(frame_987ca0aa0f6624354f8e0f380a00606c);
 #endif
 
     // Put the previous frame back on top.
@@ -4685,18 +4685,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e6a406cff187e778c503eabbafc4c17f);
+    RESTORE_FRAME_EXCEPTION(frame_987ca0aa0f6624354f8e0f380a00606c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_e6a406cff187e778c503eabbafc4c17f, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_e6a406cff187e778c503eabbafc4c17f->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_e6a406cff187e778c503eabbafc4c17f, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_987ca0aa0f6624354f8e0f380a00606c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_987ca0aa0f6624354f8e0f380a00606c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_987ca0aa0f6624354f8e0f380a00606c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_e6a406cff187e778c503eabbafc4c17f,
+        frame_987ca0aa0f6624354f8e0f380a00606c,
         type_description_1,
         par_self,
         par_backend,
@@ -4708,17 +4708,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___
 
 
     // Release cached frame if used for exception.
-    if (frame_e6a406cff187e778c503eabbafc4c17f == cache_frame_e6a406cff187e778c503eabbafc4c17f) {
+    if (frame_987ca0aa0f6624354f8e0f380a00606c == cache_frame_987ca0aa0f6624354f8e0f380a00606c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_e6a406cff187e778c503eabbafc4c17f);
-        cache_frame_e6a406cff187e778c503eabbafc4c17f = NULL;
+        Py_DECREF(cache_frame_987ca0aa0f6624354f8e0f380a00606c);
+        cache_frame_987ca0aa0f6624354f8e0f380a00606c = NULL;
     }
 
-    assertFrameObject(frame_e6a406cff187e778c503eabbafc4c17f);
+    assertFrameObject(frame_987ca0aa0f6624354f8e0f380a00606c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -4813,13 +4813,13 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__6__r
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_75a745df1449917ba035dfca3c1f4078;
+    struct Nuitka_FrameObject *frame_6b2af3278731726d9c7db38ad557b794;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_75a745df1449917ba035dfca3c1f4078 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_6b2af3278731726d9c7db38ad557b794 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -4828,31 +4828,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__6__r
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_75a745df1449917ba035dfca3c1f4078)) {
-        Py_XDECREF(cache_frame_75a745df1449917ba035dfca3c1f4078);
+    if (isFrameUnusable(cache_frame_6b2af3278731726d9c7db38ad557b794)) {
+        Py_XDECREF(cache_frame_6b2af3278731726d9c7db38ad557b794);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_75a745df1449917ba035dfca3c1f4078 == NULL) {
+        if (cache_frame_6b2af3278731726d9c7db38ad557b794 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_75a745df1449917ba035dfca3c1f4078 = MAKE_FUNCTION_FRAME(codeobj_75a745df1449917ba035dfca3c1f4078, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
+        cache_frame_6b2af3278731726d9c7db38ad557b794 = MAKE_FUNCTION_FRAME(codeobj_6b2af3278731726d9c7db38ad557b794, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_75a745df1449917ba035dfca3c1f4078->m_type_description == NULL);
-    frame_75a745df1449917ba035dfca3c1f4078 = cache_frame_75a745df1449917ba035dfca3c1f4078;
+    assert(cache_frame_6b2af3278731726d9c7db38ad557b794->m_type_description == NULL);
+    frame_6b2af3278731726d9c7db38ad557b794 = cache_frame_6b2af3278731726d9c7db38ad557b794;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_75a745df1449917ba035dfca3c1f4078);
+    pushFrameStack(frame_6b2af3278731726d9c7db38ad557b794);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_75a745df1449917ba035dfca3c1f4078) == 2); // Frame stack
+    assert(Py_REFCNT(frame_6b2af3278731726d9c7db38ad557b794) == 2); // Frame stack
 
     // Framed code:
     {
@@ -4926,7 +4926,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__6__r
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[42];
-        frame_75a745df1449917ba035dfca3c1f4078->m_frame.f_lineno = 126;
+        frame_6b2af3278731726d9c7db38ad557b794->m_frame.f_lineno = 126;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -4938,7 +4938,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__6__r
     branch_no_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_75a745df1449917ba035dfca3c1f4078);
+    RESTORE_FRAME_EXCEPTION(frame_6b2af3278731726d9c7db38ad557b794);
 #endif
 
     // Put the previous frame back on top.
@@ -4949,35 +4949,35 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__6__r
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_75a745df1449917ba035dfca3c1f4078);
+    RESTORE_FRAME_EXCEPTION(frame_6b2af3278731726d9c7db38ad557b794);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_75a745df1449917ba035dfca3c1f4078, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_75a745df1449917ba035dfca3c1f4078->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_75a745df1449917ba035dfca3c1f4078, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_6b2af3278731726d9c7db38ad557b794, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_6b2af3278731726d9c7db38ad557b794->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_6b2af3278731726d9c7db38ad557b794, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_75a745df1449917ba035dfca3c1f4078,
+        frame_6b2af3278731726d9c7db38ad557b794,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_75a745df1449917ba035dfca3c1f4078 == cache_frame_75a745df1449917ba035dfca3c1f4078) {
+    if (frame_6b2af3278731726d9c7db38ad557b794 == cache_frame_6b2af3278731726d9c7db38ad557b794) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_75a745df1449917ba035dfca3c1f4078);
-        cache_frame_75a745df1449917ba035dfca3c1f4078 = NULL;
+        Py_DECREF(cache_frame_6b2af3278731726d9c7db38ad557b794);
+        cache_frame_6b2af3278731726d9c7db38ad557b794 = NULL;
     }
 
-    assertFrameObject(frame_75a745df1449917ba035dfca3c1f4078);
+    assertFrameObject(frame_6b2af3278731726d9c7db38ad557b794);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5049,7 +5049,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__7_si
     PyObject *par_self = python_pars[0];
     PyObject *var_alg = NULL;
     PyObject *var_oid = NULL;
-    struct Nuitka_FrameObject *frame_e9680aea913457b832b928a65c287748;
+    struct Nuitka_FrameObject *frame_26aabfb0b2723e953d08aec792cd9939;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -5057,7 +5057,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__7_si
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_e9680aea913457b832b928a65c287748 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_26aabfb0b2723e953d08aec792cd9939 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -5065,31 +5065,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__7_si
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_e9680aea913457b832b928a65c287748)) {
-        Py_XDECREF(cache_frame_e9680aea913457b832b928a65c287748);
+    if (isFrameUnusable(cache_frame_26aabfb0b2723e953d08aec792cd9939)) {
+        Py_XDECREF(cache_frame_26aabfb0b2723e953d08aec792cd9939);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_e9680aea913457b832b928a65c287748 == NULL) {
+        if (cache_frame_26aabfb0b2723e953d08aec792cd9939 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_e9680aea913457b832b928a65c287748 = MAKE_FUNCTION_FRAME(codeobj_e9680aea913457b832b928a65c287748, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_26aabfb0b2723e953d08aec792cd9939 = MAKE_FUNCTION_FRAME(codeobj_26aabfb0b2723e953d08aec792cd9939, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_e9680aea913457b832b928a65c287748->m_type_description == NULL);
-    frame_e9680aea913457b832b928a65c287748 = cache_frame_e9680aea913457b832b928a65c287748;
+    assert(cache_frame_26aabfb0b2723e953d08aec792cd9939->m_type_description == NULL);
+    frame_26aabfb0b2723e953d08aec792cd9939 = cache_frame_26aabfb0b2723e953d08aec792cd9939;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_e9680aea913457b832b928a65c287748);
+    pushFrameStack(frame_26aabfb0b2723e953d08aec792cd9939);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_e9680aea913457b832b928a65c287748) == 2); // Frame stack
+    assert(Py_REFCNT(frame_26aabfb0b2723e953d08aec792cd9939) == 2); // Frame stack
 
     // Framed code:
     {
@@ -5097,7 +5097,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__7_si
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_e9680aea913457b832b928a65c287748->m_frame.f_lineno = 133;
+        frame_26aabfb0b2723e953d08aec792cd9939->m_frame.f_lineno = 133;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5191,7 +5191,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__7_si
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_e9680aea913457b832b928a65c287748->m_frame.f_lineno = 134;
+        frame_26aabfb0b2723e953d08aec792cd9939->m_frame.f_lineno = 134;
         tmp_assign_source_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -5317,7 +5317,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__7_si
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_e9680aea913457b832b928a65c287748->m_frame.f_lineno = 135;
+        frame_26aabfb0b2723e953d08aec792cd9939->m_frame.f_lineno = 135;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_2);
@@ -5393,7 +5393,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__7_si
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_e9680aea913457b832b928a65c287748->m_frame.f_lineno = 136;
+        frame_26aabfb0b2723e953d08aec792cd9939->m_frame.f_lineno = 136;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_assign_source_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -5435,7 +5435,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__7_si
         }
         CHECK_OBJECT(var_oid);
         tmp_args_element_name_5 = var_oid;
-        frame_e9680aea913457b832b928a65c287748->m_frame.f_lineno = 137;
+        frame_26aabfb0b2723e953d08aec792cd9939->m_frame.f_lineno = 137;
         tmp_return_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[47], tmp_args_element_name_5);
         if (tmp_return_value == NULL) {
             assert(ERROR_OCCURRED());
@@ -5451,7 +5451,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__7_si
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e9680aea913457b832b928a65c287748);
+    RESTORE_FRAME_EXCEPTION(frame_26aabfb0b2723e953d08aec792cd9939);
 #endif
 
     // Put the previous frame back on top.
@@ -5461,7 +5461,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__7_si
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e9680aea913457b832b928a65c287748);
+    RESTORE_FRAME_EXCEPTION(frame_26aabfb0b2723e953d08aec792cd9939);
 #endif
 
     // Put the previous frame back on top.
@@ -5472,18 +5472,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__7_si
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e9680aea913457b832b928a65c287748);
+    RESTORE_FRAME_EXCEPTION(frame_26aabfb0b2723e953d08aec792cd9939);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_e9680aea913457b832b928a65c287748, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_e9680aea913457b832b928a65c287748->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_e9680aea913457b832b928a65c287748, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_26aabfb0b2723e953d08aec792cd9939, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_26aabfb0b2723e953d08aec792cd9939->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_26aabfb0b2723e953d08aec792cd9939, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_e9680aea913457b832b928a65c287748,
+        frame_26aabfb0b2723e953d08aec792cd9939,
         type_description_1,
         par_self,
         var_alg,
@@ -5492,17 +5492,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__7_si
 
 
     // Release cached frame if used for exception.
-    if (frame_e9680aea913457b832b928a65c287748 == cache_frame_e9680aea913457b832b928a65c287748) {
+    if (frame_26aabfb0b2723e953d08aec792cd9939 == cache_frame_26aabfb0b2723e953d08aec792cd9939) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_e9680aea913457b832b928a65c287748);
-        cache_frame_e9680aea913457b832b928a65c287748 = NULL;
+        Py_DECREF(cache_frame_26aabfb0b2723e953d08aec792cd9939);
+        cache_frame_26aabfb0b2723e953d08aec792cd9939 = NULL;
     }
 
-    assertFrameObject(frame_e9680aea913457b832b928a65c287748);
+    assertFrameObject(frame_26aabfb0b2723e953d08aec792cd9939);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5578,7 +5578,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__8_si
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *var_oid = NULL;
-    struct Nuitka_FrameObject *frame_a632f14b4264d0d23912d9a00771bf14;
+    struct Nuitka_FrameObject *frame_cb2597e4395f3eb4b675521354f80c43;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -5599,7 +5599,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__8_si
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
-    static struct Nuitka_FrameObject *cache_frame_a632f14b4264d0d23912d9a00771bf14 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_cb2597e4395f3eb4b675521354f80c43 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -5607,31 +5607,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__8_si
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_a632f14b4264d0d23912d9a00771bf14)) {
-        Py_XDECREF(cache_frame_a632f14b4264d0d23912d9a00771bf14);
+    if (isFrameUnusable(cache_frame_cb2597e4395f3eb4b675521354f80c43)) {
+        Py_XDECREF(cache_frame_cb2597e4395f3eb4b675521354f80c43);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_a632f14b4264d0d23912d9a00771bf14 == NULL) {
+        if (cache_frame_cb2597e4395f3eb4b675521354f80c43 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_a632f14b4264d0d23912d9a00771bf14 = MAKE_FUNCTION_FRAME(codeobj_a632f14b4264d0d23912d9a00771bf14, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
+        cache_frame_cb2597e4395f3eb4b675521354f80c43 = MAKE_FUNCTION_FRAME(codeobj_cb2597e4395f3eb4b675521354f80c43, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_a632f14b4264d0d23912d9a00771bf14->m_type_description == NULL);
-    frame_a632f14b4264d0d23912d9a00771bf14 = cache_frame_a632f14b4264d0d23912d9a00771bf14;
+    assert(cache_frame_cb2597e4395f3eb4b675521354f80c43->m_type_description == NULL);
+    frame_cb2597e4395f3eb4b675521354f80c43 = cache_frame_cb2597e4395f3eb4b675521354f80c43;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_a632f14b4264d0d23912d9a00771bf14);
+    pushFrameStack(frame_cb2597e4395f3eb4b675521354f80c43);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_a632f14b4264d0d23912d9a00771bf14) == 2); // Frame stack
+    assert(Py_REFCNT(frame_cb2597e4395f3eb4b675521354f80c43) == 2); // Frame stack
 
     // Framed code:
     {
@@ -5639,7 +5639,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__8_si
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_a632f14b4264d0d23912d9a00771bf14->m_frame.f_lineno = 143;
+        frame_cb2597e4395f3eb4b675521354f80c43->m_frame.f_lineno = 143;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5748,9 +5748,9 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__8_si
     GET_CURRENT_EXCEPTION(&exception_preserved_type_1, &exception_preserved_value_1, &exception_preserved_tb_1);
 
     if (exception_keeper_tb_1 == NULL) {
-        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_a632f14b4264d0d23912d9a00771bf14, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_cb2597e4395f3eb4b675521354f80c43, exception_keeper_lineno_1);
     } else if (exception_keeper_lineno_1 != 0) {
-        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_a632f14b4264d0d23912d9a00771bf14, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_cb2597e4395f3eb4b675521354f80c43, exception_keeper_lineno_1);
     }
 
     NORMALIZE_EXCEPTION(&exception_keeper_type_1, &exception_keeper_value_1, &exception_keeper_tb_1);
@@ -5798,7 +5798,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__8_si
         tmp_called_instance_2 = mod_consts[50];
         CHECK_OBJECT(var_oid);
         tmp_args_element_name_2 = var_oid;
-        frame_a632f14b4264d0d23912d9a00771bf14->m_frame.f_lineno = 149;
+        frame_cb2597e4395f3eb4b675521354f80c43->m_frame.f_lineno = 149;
         tmp_args_element_name_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[22], tmp_args_element_name_2);
         if (tmp_args_element_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5810,7 +5810,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__8_si
             type_description_1 = "oo";
             goto try_except_handler_3;
         }
-        frame_a632f14b4264d0d23912d9a00771bf14->m_frame.f_lineno = 148;
+        frame_cb2597e4395f3eb4b675521354f80c43->m_frame.f_lineno = 148;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_raise_type_1 == NULL) {
@@ -5836,7 +5836,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__8_si
         exception_lineno = 145;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_a632f14b4264d0d23912d9a00771bf14->m_frame) frame_a632f14b4264d0d23912d9a00771bf14->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_cb2597e4395f3eb4b675521354f80c43->m_frame) frame_cb2597e4395f3eb4b675521354f80c43->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "oo";
     goto try_except_handler_3;
     branch_end_1:;
@@ -5867,7 +5867,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__8_si
     // End of try:
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a632f14b4264d0d23912d9a00771bf14);
+    RESTORE_FRAME_EXCEPTION(frame_cb2597e4395f3eb4b675521354f80c43);
 #endif
 
     // Put the previous frame back on top.
@@ -5877,7 +5877,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__8_si
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a632f14b4264d0d23912d9a00771bf14);
+    RESTORE_FRAME_EXCEPTION(frame_cb2597e4395f3eb4b675521354f80c43);
 #endif
 
     // Put the previous frame back on top.
@@ -5888,18 +5888,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__8_si
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a632f14b4264d0d23912d9a00771bf14);
+    RESTORE_FRAME_EXCEPTION(frame_cb2597e4395f3eb4b675521354f80c43);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a632f14b4264d0d23912d9a00771bf14, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a632f14b4264d0d23912d9a00771bf14->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a632f14b4264d0d23912d9a00771bf14, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_cb2597e4395f3eb4b675521354f80c43, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_cb2597e4395f3eb4b675521354f80c43->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_cb2597e4395f3eb4b675521354f80c43, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_a632f14b4264d0d23912d9a00771bf14,
+        frame_cb2597e4395f3eb4b675521354f80c43,
         type_description_1,
         par_self,
         var_oid
@@ -5907,17 +5907,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__8_si
 
 
     // Release cached frame if used for exception.
-    if (frame_a632f14b4264d0d23912d9a00771bf14 == cache_frame_a632f14b4264d0d23912d9a00771bf14) {
+    if (frame_cb2597e4395f3eb4b675521354f80c43 == cache_frame_cb2597e4395f3eb4b675521354f80c43) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_a632f14b4264d0d23912d9a00771bf14);
-        cache_frame_a632f14b4264d0d23912d9a00771bf14 = NULL;
+        Py_DECREF(cache_frame_cb2597e4395f3eb4b675521354f80c43);
+        cache_frame_cb2597e4395f3eb4b675521354f80c43 = NULL;
     }
 
-    assertFrameObject(frame_a632f14b4264d0d23912d9a00771bf14);
+    assertFrameObject(frame_cb2597e4395f3eb4b675521354f80c43);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5990,7 +5990,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__9_si
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *var_sig = NULL;
-    struct Nuitka_FrameObject *frame_9d86fe552211f044f065105c19bacd7a;
+    struct Nuitka_FrameObject *frame_db8bb9d1f2a493cbd55b4e5a106127ce;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -5998,7 +5998,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__9_si
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_9d86fe552211f044f065105c19bacd7a = NULL;
+    static struct Nuitka_FrameObject *cache_frame_db8bb9d1f2a493cbd55b4e5a106127ce = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -6006,31 +6006,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__9_si
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_9d86fe552211f044f065105c19bacd7a)) {
-        Py_XDECREF(cache_frame_9d86fe552211f044f065105c19bacd7a);
+    if (isFrameUnusable(cache_frame_db8bb9d1f2a493cbd55b4e5a106127ce)) {
+        Py_XDECREF(cache_frame_db8bb9d1f2a493cbd55b4e5a106127ce);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_9d86fe552211f044f065105c19bacd7a == NULL) {
+        if (cache_frame_db8bb9d1f2a493cbd55b4e5a106127ce == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_9d86fe552211f044f065105c19bacd7a = MAKE_FUNCTION_FRAME(codeobj_9d86fe552211f044f065105c19bacd7a, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
+        cache_frame_db8bb9d1f2a493cbd55b4e5a106127ce = MAKE_FUNCTION_FRAME(codeobj_db8bb9d1f2a493cbd55b4e5a106127ce, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_9d86fe552211f044f065105c19bacd7a->m_type_description == NULL);
-    frame_9d86fe552211f044f065105c19bacd7a = cache_frame_9d86fe552211f044f065105c19bacd7a;
+    assert(cache_frame_db8bb9d1f2a493cbd55b4e5a106127ce->m_type_description == NULL);
+    frame_db8bb9d1f2a493cbd55b4e5a106127ce = cache_frame_db8bb9d1f2a493cbd55b4e5a106127ce;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_9d86fe552211f044f065105c19bacd7a);
+    pushFrameStack(frame_db8bb9d1f2a493cbd55b4e5a106127ce);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_9d86fe552211f044f065105c19bacd7a) == 2); // Frame stack
+    assert(Py_REFCNT(frame_db8bb9d1f2a493cbd55b4e5a106127ce) == 2); // Frame stack
 
     // Framed code:
     {
@@ -6038,7 +6038,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__9_si
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_9d86fe552211f044f065105c19bacd7a->m_frame.f_lineno = 154;
+        frame_db8bb9d1f2a493cbd55b4e5a106127ce->m_frame.f_lineno = 154;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -6132,7 +6132,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__9_si
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_9d86fe552211f044f065105c19bacd7a->m_frame.f_lineno = 155;
+        frame_db8bb9d1f2a493cbd55b4e5a106127ce->m_frame.f_lineno = 155;
         tmp_assign_source_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -6258,7 +6258,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__9_si
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_9d86fe552211f044f065105c19bacd7a->m_frame.f_lineno = 156;
+        frame_db8bb9d1f2a493cbd55b4e5a106127ce->m_frame.f_lineno = 156;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_2);
@@ -6321,7 +6321,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__9_si
         }
         CHECK_OBJECT(var_sig);
         tmp_args_element_name_4 = var_sig;
-        frame_9d86fe552211f044f065105c19bacd7a->m_frame.f_lineno = 157;
+        frame_db8bb9d1f2a493cbd55b4e5a106127ce->m_frame.f_lineno = 157;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -6342,7 +6342,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__9_si
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9d86fe552211f044f065105c19bacd7a);
+    RESTORE_FRAME_EXCEPTION(frame_db8bb9d1f2a493cbd55b4e5a106127ce);
 #endif
 
     // Put the previous frame back on top.
@@ -6352,7 +6352,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__9_si
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9d86fe552211f044f065105c19bacd7a);
+    RESTORE_FRAME_EXCEPTION(frame_db8bb9d1f2a493cbd55b4e5a106127ce);
 #endif
 
     // Put the previous frame back on top.
@@ -6363,18 +6363,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__9_si
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9d86fe552211f044f065105c19bacd7a);
+    RESTORE_FRAME_EXCEPTION(frame_db8bb9d1f2a493cbd55b4e5a106127ce);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_9d86fe552211f044f065105c19bacd7a, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_9d86fe552211f044f065105c19bacd7a->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_9d86fe552211f044f065105c19bacd7a, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_db8bb9d1f2a493cbd55b4e5a106127ce, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_db8bb9d1f2a493cbd55b4e5a106127ce->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_db8bb9d1f2a493cbd55b4e5a106127ce, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_9d86fe552211f044f065105c19bacd7a,
+        frame_db8bb9d1f2a493cbd55b4e5a106127ce,
         type_description_1,
         par_self,
         var_sig
@@ -6382,17 +6382,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__9_si
 
 
     // Release cached frame if used for exception.
-    if (frame_9d86fe552211f044f065105c19bacd7a == cache_frame_9d86fe552211f044f065105c19bacd7a) {
+    if (frame_db8bb9d1f2a493cbd55b4e5a106127ce == cache_frame_db8bb9d1f2a493cbd55b4e5a106127ce) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_9d86fe552211f044f065105c19bacd7a);
-        cache_frame_9d86fe552211f044f065105c19bacd7a = NULL;
+        Py_DECREF(cache_frame_db8bb9d1f2a493cbd55b4e5a106127ce);
+        cache_frame_db8bb9d1f2a493cbd55b4e5a106127ce = NULL;
     }
 
-    assertFrameObject(frame_9d86fe552211f044f065105c19bacd7a);
+    assertFrameObject(frame_db8bb9d1f2a493cbd55b4e5a106127ce);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -6467,7 +6467,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
     PyObject *var_respdata = NULL;
     PyObject *var_pp = NULL;
     PyObject *var_res = NULL;
-    struct Nuitka_FrameObject *frame_0faf77543e08163e80cb7152a64f2b53;
+    struct Nuitka_FrameObject *frame_8af8c36b533b6d6c4b502ae920cd7bbe;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -6475,7 +6475,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_0faf77543e08163e80cb7152a64f2b53 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_8af8c36b533b6d6c4b502ae920cd7bbe = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -6483,31 +6483,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_0faf77543e08163e80cb7152a64f2b53)) {
-        Py_XDECREF(cache_frame_0faf77543e08163e80cb7152a64f2b53);
+    if (isFrameUnusable(cache_frame_8af8c36b533b6d6c4b502ae920cd7bbe)) {
+        Py_XDECREF(cache_frame_8af8c36b533b6d6c4b502ae920cd7bbe);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_0faf77543e08163e80cb7152a64f2b53 == NULL) {
+        if (cache_frame_8af8c36b533b6d6c4b502ae920cd7bbe == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_0faf77543e08163e80cb7152a64f2b53 = MAKE_FUNCTION_FRAME(codeobj_0faf77543e08163e80cb7152a64f2b53, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_8af8c36b533b6d6c4b502ae920cd7bbe = MAKE_FUNCTION_FRAME(codeobj_8af8c36b533b6d6c4b502ae920cd7bbe, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_0faf77543e08163e80cb7152a64f2b53->m_type_description == NULL);
-    frame_0faf77543e08163e80cb7152a64f2b53 = cache_frame_0faf77543e08163e80cb7152a64f2b53;
+    assert(cache_frame_8af8c36b533b6d6c4b502ae920cd7bbe->m_type_description == NULL);
+    frame_8af8c36b533b6d6c4b502ae920cd7bbe = cache_frame_8af8c36b533b6d6c4b502ae920cd7bbe;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_0faf77543e08163e80cb7152a64f2b53);
+    pushFrameStack(frame_8af8c36b533b6d6c4b502ae920cd7bbe);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_0faf77543e08163e80cb7152a64f2b53) == 2); // Frame stack
+    assert(Py_REFCNT(frame_8af8c36b533b6d6c4b502ae920cd7bbe) == 2); // Frame stack
 
     // Framed code:
     {
@@ -6515,7 +6515,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(Nuitka_Cell_GET(par_self));
         tmp_called_instance_1 = Nuitka_Cell_GET(par_self);
-        frame_0faf77543e08163e80cb7152a64f2b53->m_frame.f_lineno = 161;
+        frame_8af8c36b533b6d6c4b502ae920cd7bbe->m_frame.f_lineno = 161;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -6609,7 +6609,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
             type_description_1 = "cooo";
             goto frame_exception_exit_1;
         }
-        frame_0faf77543e08163e80cb7152a64f2b53->m_frame.f_lineno = 162;
+        frame_8af8c36b533b6d6c4b502ae920cd7bbe->m_frame.f_lineno = 162;
         tmp_assign_source_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -6735,7 +6735,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
             type_description_1 = "cooo";
             goto frame_exception_exit_1;
         }
-        frame_0faf77543e08163e80cb7152a64f2b53->m_frame.f_lineno = 163;
+        frame_8af8c36b533b6d6c4b502ae920cd7bbe->m_frame.f_lineno = 163;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_2);
@@ -6792,7 +6792,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
             type_description_1 = "cooo";
             goto frame_exception_exit_1;
         }
-        frame_0faf77543e08163e80cb7152a64f2b53->m_frame.f_lineno = 164;
+        frame_8af8c36b533b6d6c4b502ae920cd7bbe->m_frame.f_lineno = 164;
         tmp_assign_source_2 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_2,
             mod_consts[1],
@@ -6860,7 +6860,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
         tmp_args_element_name_3 = var_respdata;
         CHECK_OBJECT(var_pp);
         tmp_args_element_name_4 = var_pp;
-        frame_0faf77543e08163e80cb7152a64f2b53->m_frame.f_lineno = 165;
+        frame_8af8c36b533b6d6c4b502ae920cd7bbe->m_frame.f_lineno = 165;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_assign_source_3 = CALL_METHOD_WITH_ARGS2(
@@ -7023,7 +7023,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
             type_description_1 = "cooo";
             goto frame_exception_exit_1;
         }
-        frame_0faf77543e08163e80cb7152a64f2b53->m_frame.f_lineno = 166;
+        frame_8af8c36b533b6d6c4b502ae920cd7bbe->m_frame.f_lineno = 166;
         tmp_call_result_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_5);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_5);
@@ -7115,7 +7115,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
 
         tmp_args_element_name_7 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__10_tbs_response_bytes$$$function__1_lambda(tmp_closure_1);
 
-        frame_0faf77543e08163e80cb7152a64f2b53->m_frame.f_lineno = 167;
+        frame_8af8c36b533b6d6c4b502ae920cd7bbe->m_frame.f_lineno = 167;
         {
             PyObject *call_args[] = {tmp_args_element_name_6, tmp_args_element_name_7};
             tmp_assign_source_4 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -7198,7 +7198,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
             type_description_1 = "cooo";
             goto frame_exception_exit_1;
         }
-        frame_0faf77543e08163e80cb7152a64f2b53->m_frame.f_lineno = 170;
+        frame_8af8c36b533b6d6c4b502ae920cd7bbe->m_frame.f_lineno = 170;
         tmp_call_result_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_8);
         Py_DECREF(tmp_called_name_5);
         Py_DECREF(tmp_args_element_name_8);
@@ -7289,7 +7289,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
         }
         CHECK_OBJECT(var_res);
         tmp_args_element_name_10 = var_res;
-        frame_0faf77543e08163e80cb7152a64f2b53->m_frame.f_lineno = 171;
+        frame_8af8c36b533b6d6c4b502ae920cd7bbe->m_frame.f_lineno = 171;
         {
             PyObject *call_args[] = {tmp_args_element_name_9, tmp_args_element_name_10};
             tmp_expression_name_25 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_6, call_args);
@@ -7324,7 +7324,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0faf77543e08163e80cb7152a64f2b53);
+    RESTORE_FRAME_EXCEPTION(frame_8af8c36b533b6d6c4b502ae920cd7bbe);
 #endif
 
     // Put the previous frame back on top.
@@ -7334,7 +7334,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0faf77543e08163e80cb7152a64f2b53);
+    RESTORE_FRAME_EXCEPTION(frame_8af8c36b533b6d6c4b502ae920cd7bbe);
 #endif
 
     // Put the previous frame back on top.
@@ -7345,18 +7345,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0faf77543e08163e80cb7152a64f2b53);
+    RESTORE_FRAME_EXCEPTION(frame_8af8c36b533b6d6c4b502ae920cd7bbe);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_0faf77543e08163e80cb7152a64f2b53, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_0faf77543e08163e80cb7152a64f2b53->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_0faf77543e08163e80cb7152a64f2b53, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_8af8c36b533b6d6c4b502ae920cd7bbe, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_8af8c36b533b6d6c4b502ae920cd7bbe->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_8af8c36b533b6d6c4b502ae920cd7bbe, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_0faf77543e08163e80cb7152a64f2b53,
+        frame_8af8c36b533b6d6c4b502ae920cd7bbe,
         type_description_1,
         par_self,
         var_respdata,
@@ -7366,17 +7366,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
 
 
     // Release cached frame if used for exception.
-    if (frame_0faf77543e08163e80cb7152a64f2b53 == cache_frame_0faf77543e08163e80cb7152a64f2b53) {
+    if (frame_8af8c36b533b6d6c4b502ae920cd7bbe == cache_frame_8af8c36b533b6d6c4b502ae920cd7bbe) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_0faf77543e08163e80cb7152a64f2b53);
-        cache_frame_0faf77543e08163e80cb7152a64f2b53 = NULL;
+        Py_DECREF(cache_frame_8af8c36b533b6d6c4b502ae920cd7bbe);
+        cache_frame_8af8c36b533b6d6c4b502ae920cd7bbe = NULL;
     }
 
-    assertFrameObject(frame_0faf77543e08163e80cb7152a64f2b53);
+    assertFrameObject(frame_8af8c36b533b6d6c4b502ae920cd7bbe);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -7458,14 +7458,14 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
 
     // Local variable declarations.
     PyObject *par_pointer = python_pars[0];
-    struct Nuitka_FrameObject *frame_fdfbca7ee7d366f57f9799c8c08e45d4;
+    struct Nuitka_FrameObject *frame_26837de0c97c93a17012e9c22b44cf06;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_fdfbca7ee7d366f57f9799c8c08e45d4 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_26837de0c97c93a17012e9c22b44cf06 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -7473,31 +7473,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_fdfbca7ee7d366f57f9799c8c08e45d4)) {
-        Py_XDECREF(cache_frame_fdfbca7ee7d366f57f9799c8c08e45d4);
+    if (isFrameUnusable(cache_frame_26837de0c97c93a17012e9c22b44cf06)) {
+        Py_XDECREF(cache_frame_26837de0c97c93a17012e9c22b44cf06);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_fdfbca7ee7d366f57f9799c8c08e45d4 == NULL) {
+        if (cache_frame_26837de0c97c93a17012e9c22b44cf06 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_fdfbca7ee7d366f57f9799c8c08e45d4 = MAKE_FUNCTION_FRAME(codeobj_fdfbca7ee7d366f57f9799c8c08e45d4, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
+        cache_frame_26837de0c97c93a17012e9c22b44cf06 = MAKE_FUNCTION_FRAME(codeobj_26837de0c97c93a17012e9c22b44cf06, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_fdfbca7ee7d366f57f9799c8c08e45d4->m_type_description == NULL);
-    frame_fdfbca7ee7d366f57f9799c8c08e45d4 = cache_frame_fdfbca7ee7d366f57f9799c8c08e45d4;
+    assert(cache_frame_26837de0c97c93a17012e9c22b44cf06->m_type_description == NULL);
+    frame_26837de0c97c93a17012e9c22b44cf06 = cache_frame_26837de0c97c93a17012e9c22b44cf06;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_fdfbca7ee7d366f57f9799c8c08e45d4);
+    pushFrameStack(frame_26837de0c97c93a17012e9c22b44cf06);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_fdfbca7ee7d366f57f9799c8c08e45d4) == 2); // Frame stack
+    assert(Py_REFCNT(frame_26837de0c97c93a17012e9c22b44cf06) == 2); // Frame stack
 
     // Framed code:
     {
@@ -7570,7 +7570,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
             type_description_1 = "oc";
             goto frame_exception_exit_1;
         }
-        frame_fdfbca7ee7d366f57f9799c8c08e45d4->m_frame.f_lineno = 168;
+        frame_26837de0c97c93a17012e9c22b44cf06->m_frame.f_lineno = 168;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -7588,7 +7588,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_fdfbca7ee7d366f57f9799c8c08e45d4);
+    RESTORE_FRAME_EXCEPTION(frame_26837de0c97c93a17012e9c22b44cf06);
 #endif
 
     // Put the previous frame back on top.
@@ -7598,7 +7598,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_fdfbca7ee7d366f57f9799c8c08e45d4);
+    RESTORE_FRAME_EXCEPTION(frame_26837de0c97c93a17012e9c22b44cf06);
 #endif
 
     // Put the previous frame back on top.
@@ -7609,18 +7609,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_fdfbca7ee7d366f57f9799c8c08e45d4);
+    RESTORE_FRAME_EXCEPTION(frame_26837de0c97c93a17012e9c22b44cf06);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_fdfbca7ee7d366f57f9799c8c08e45d4, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_fdfbca7ee7d366f57f9799c8c08e45d4->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_fdfbca7ee7d366f57f9799c8c08e45d4, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_26837de0c97c93a17012e9c22b44cf06, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_26837de0c97c93a17012e9c22b44cf06->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_26837de0c97c93a17012e9c22b44cf06, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_fdfbca7ee7d366f57f9799c8c08e45d4,
+        frame_26837de0c97c93a17012e9c22b44cf06,
         type_description_1,
         par_pointer,
         self->m_closure[0]
@@ -7628,17 +7628,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_t
 
 
     // Release cached frame if used for exception.
-    if (frame_fdfbca7ee7d366f57f9799c8c08e45d4 == cache_frame_fdfbca7ee7d366f57f9799c8c08e45d4) {
+    if (frame_26837de0c97c93a17012e9c22b44cf06 == cache_frame_26837de0c97c93a17012e9c22b44cf06) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_fdfbca7ee7d366f57f9799c8c08e45d4);
-        cache_frame_fdfbca7ee7d366f57f9799c8c08e45d4 = NULL;
+        Py_DECREF(cache_frame_26837de0c97c93a17012e9c22b44cf06);
+        cache_frame_26837de0c97c93a17012e9c22b44cf06 = NULL;
     }
 
-    assertFrameObject(frame_fdfbca7ee7d366f57f9799c8c08e45d4);
+    assertFrameObject(frame_26837de0c97c93a17012e9c22b44cf06);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -7715,7 +7715,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__11_c
     PyObject *var_cert = NULL;
     PyObject *tmp_for_loop_1__for_iterator = NULL;
     PyObject *tmp_for_loop_1__iter_value = NULL;
-    struct Nuitka_FrameObject *frame_ffbbf25132e793d343d073ec16ece775;
+    struct Nuitka_FrameObject *frame_51cd6b68add931783272c2ee2f6971fe;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -7728,7 +7728,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__11_c
     PyTracebackObject *exception_keeper_tb_1;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_1;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_ffbbf25132e793d343d073ec16ece775 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_51cd6b68add931783272c2ee2f6971fe = NULL;
     PyObject *exception_keeper_type_2;
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
@@ -7736,31 +7736,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__11_c
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ffbbf25132e793d343d073ec16ece775)) {
-        Py_XDECREF(cache_frame_ffbbf25132e793d343d073ec16ece775);
+    if (isFrameUnusable(cache_frame_51cd6b68add931783272c2ee2f6971fe)) {
+        Py_XDECREF(cache_frame_51cd6b68add931783272c2ee2f6971fe);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ffbbf25132e793d343d073ec16ece775 == NULL) {
+        if (cache_frame_51cd6b68add931783272c2ee2f6971fe == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ffbbf25132e793d343d073ec16ece775 = MAKE_FUNCTION_FRAME(codeobj_ffbbf25132e793d343d073ec16ece775, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_51cd6b68add931783272c2ee2f6971fe = MAKE_FUNCTION_FRAME(codeobj_51cd6b68add931783272c2ee2f6971fe, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ffbbf25132e793d343d073ec16ece775->m_type_description == NULL);
-    frame_ffbbf25132e793d343d073ec16ece775 = cache_frame_ffbbf25132e793d343d073ec16ece775;
+    assert(cache_frame_51cd6b68add931783272c2ee2f6971fe->m_type_description == NULL);
+    frame_51cd6b68add931783272c2ee2f6971fe = cache_frame_51cd6b68add931783272c2ee2f6971fe;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ffbbf25132e793d343d073ec16ece775);
+    pushFrameStack(frame_51cd6b68add931783272c2ee2f6971fe);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ffbbf25132e793d343d073ec16ece775) == 2); // Frame stack
+    assert(Py_REFCNT(frame_51cd6b68add931783272c2ee2f6971fe) == 2); // Frame stack
 
     // Framed code:
     {
@@ -7768,7 +7768,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__11_c
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_ffbbf25132e793d343d073ec16ece775->m_frame.f_lineno = 175;
+        frame_51cd6b68add931783272c2ee2f6971fe->m_frame.f_lineno = 175;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -7862,7 +7862,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__11_c
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_ffbbf25132e793d343d073ec16ece775->m_frame.f_lineno = 176;
+        frame_51cd6b68add931783272c2ee2f6971fe->m_frame.f_lineno = 176;
         tmp_assign_source_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -7923,7 +7923,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__11_c
         }
         CHECK_OBJECT(var_sk_x509);
         tmp_args_element_name_2 = var_sk_x509;
-        frame_ffbbf25132e793d343d073ec16ece775->m_frame.f_lineno = 177;
+        frame_51cd6b68add931783272c2ee2f6971fe->m_frame.f_lineno = 177;
         tmp_assign_source_2 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[62], tmp_args_element_name_2);
         Py_DECREF(tmp_called_instance_2);
         if (tmp_assign_source_2 == NULL) {
@@ -8088,7 +8088,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__11_c
         tmp_args_element_name_3 = var_sk_x509;
         CHECK_OBJECT(var_i);
         tmp_args_element_name_4 = var_i;
-        frame_ffbbf25132e793d343d073ec16ece775->m_frame.f_lineno = 180;
+        frame_51cd6b68add931783272c2ee2f6971fe->m_frame.f_lineno = 180;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_assign_source_7 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -8221,7 +8221,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__11_c
             type_description_1 = "ooooooo";
             goto try_except_handler_2;
         }
-        frame_ffbbf25132e793d343d073ec16ece775->m_frame.f_lineno = 181;
+        frame_51cd6b68add931783272c2ee2f6971fe->m_frame.f_lineno = 181;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_5);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_5);
@@ -8285,7 +8285,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__11_c
         }
         CHECK_OBJECT(var_x509_ptr);
         tmp_args_element_name_7 = var_x509_ptr;
-        frame_ffbbf25132e793d343d073ec16ece775->m_frame.f_lineno = 182;
+        frame_51cd6b68add931783272c2ee2f6971fe->m_frame.f_lineno = 182;
         {
             PyObject *call_args[] = {tmp_args_element_name_6, tmp_args_element_name_7};
             tmp_assign_source_8 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -8358,7 +8358,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__11_c
         tmp_called_instance_3 = var_certs;
         CHECK_OBJECT(var_cert);
         tmp_args_element_name_8 = var_cert;
-        frame_ffbbf25132e793d343d073ec16ece775->m_frame.f_lineno = 187;
+        frame_51cd6b68add931783272c2ee2f6971fe->m_frame.f_lineno = 187;
         tmp_call_result_3 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[68], tmp_args_element_name_8);
         if (tmp_call_result_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -8430,7 +8430,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__11_c
     goto frame_return_exit_1;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ffbbf25132e793d343d073ec16ece775);
+    RESTORE_FRAME_EXCEPTION(frame_51cd6b68add931783272c2ee2f6971fe);
 #endif
 
     // Put the previous frame back on top.
@@ -8440,7 +8440,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__11_c
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ffbbf25132e793d343d073ec16ece775);
+    RESTORE_FRAME_EXCEPTION(frame_51cd6b68add931783272c2ee2f6971fe);
 #endif
 
     // Put the previous frame back on top.
@@ -8451,18 +8451,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__11_c
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ffbbf25132e793d343d073ec16ece775);
+    RESTORE_FRAME_EXCEPTION(frame_51cd6b68add931783272c2ee2f6971fe);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ffbbf25132e793d343d073ec16ece775, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ffbbf25132e793d343d073ec16ece775->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ffbbf25132e793d343d073ec16ece775, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_51cd6b68add931783272c2ee2f6971fe, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_51cd6b68add931783272c2ee2f6971fe->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_51cd6b68add931783272c2ee2f6971fe, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ffbbf25132e793d343d073ec16ece775,
+        frame_51cd6b68add931783272c2ee2f6971fe,
         type_description_1,
         par_self,
         var_certs,
@@ -8475,17 +8475,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__11_c
 
 
     // Release cached frame if used for exception.
-    if (frame_ffbbf25132e793d343d073ec16ece775 == cache_frame_ffbbf25132e793d343d073ec16ece775) {
+    if (frame_51cd6b68add931783272c2ee2f6971fe == cache_frame_51cd6b68add931783272c2ee2f6971fe) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ffbbf25132e793d343d073ec16ece775);
-        cache_frame_ffbbf25132e793d343d073ec16ece775 = NULL;
+        Py_DECREF(cache_frame_51cd6b68add931783272c2ee2f6971fe);
+        cache_frame_51cd6b68add931783272c2ee2f6971fe = NULL;
     }
 
-    assertFrameObject(frame_ffbbf25132e793d343d073ec16ece775);
+    assertFrameObject(frame_51cd6b68add931783272c2ee2f6971fe);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -8582,7 +8582,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__12_r
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_561ecd63e923dcff4c45f58f1d3c60df;
+    struct Nuitka_FrameObject *frame_c4eef573d52fdef8415fe43ab2dd91a1;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -8599,7 +8599,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__12_r
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_561ecd63e923dcff4c45f58f1d3c60df = NULL;
+    static struct Nuitka_FrameObject *cache_frame_c4eef573d52fdef8415fe43ab2dd91a1 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -8607,31 +8607,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__12_r
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_561ecd63e923dcff4c45f58f1d3c60df)) {
-        Py_XDECREF(cache_frame_561ecd63e923dcff4c45f58f1d3c60df);
+    if (isFrameUnusable(cache_frame_c4eef573d52fdef8415fe43ab2dd91a1)) {
+        Py_XDECREF(cache_frame_c4eef573d52fdef8415fe43ab2dd91a1);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_561ecd63e923dcff4c45f58f1d3c60df == NULL) {
+        if (cache_frame_c4eef573d52fdef8415fe43ab2dd91a1 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_561ecd63e923dcff4c45f58f1d3c60df = MAKE_FUNCTION_FRAME(codeobj_561ecd63e923dcff4c45f58f1d3c60df, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_c4eef573d52fdef8415fe43ab2dd91a1 = MAKE_FUNCTION_FRAME(codeobj_c4eef573d52fdef8415fe43ab2dd91a1, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_561ecd63e923dcff4c45f58f1d3c60df->m_type_description == NULL);
-    frame_561ecd63e923dcff4c45f58f1d3c60df = cache_frame_561ecd63e923dcff4c45f58f1d3c60df;
+    assert(cache_frame_c4eef573d52fdef8415fe43ab2dd91a1->m_type_description == NULL);
+    frame_c4eef573d52fdef8415fe43ab2dd91a1 = cache_frame_c4eef573d52fdef8415fe43ab2dd91a1;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_561ecd63e923dcff4c45f58f1d3c60df);
+    pushFrameStack(frame_c4eef573d52fdef8415fe43ab2dd91a1);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_561ecd63e923dcff4c45f58f1d3c60df) == 2); // Frame stack
+    assert(Py_REFCNT(frame_c4eef573d52fdef8415fe43ab2dd91a1) == 2); // Frame stack
 
     // Framed code:
     {
@@ -8639,7 +8639,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__12_r
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_561ecd63e923dcff4c45f58f1d3c60df->m_frame.f_lineno = 193;
+        frame_c4eef573d52fdef8415fe43ab2dd91a1->m_frame.f_lineno = 193;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -8671,7 +8671,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__12_r
         }
 
         tmp_called_instance_2 = par_self;
-        frame_561ecd63e923dcff4c45f58f1d3c60df->m_frame.f_lineno = 194;
+        frame_c4eef573d52fdef8415fe43ab2dd91a1->m_frame.f_lineno = 194;
         tmp_iter_arg_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[69]);
         if (tmp_iter_arg_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -8989,7 +8989,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__12_r
         }
         CHECK_OBJECT(var_asn1_string);
         tmp_args_element_name_2 = var_asn1_string;
-        frame_561ecd63e923dcff4c45f58f1d3c60df->m_frame.f_lineno = 198;
+        frame_c4eef573d52fdef8415fe43ab2dd91a1->m_frame.f_lineno = 198;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -9011,7 +9011,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__12_r
     branch_end_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_561ecd63e923dcff4c45f58f1d3c60df);
+    RESTORE_FRAME_EXCEPTION(frame_c4eef573d52fdef8415fe43ab2dd91a1);
 #endif
 
     // Put the previous frame back on top.
@@ -9021,7 +9021,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__12_r
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_561ecd63e923dcff4c45f58f1d3c60df);
+    RESTORE_FRAME_EXCEPTION(frame_c4eef573d52fdef8415fe43ab2dd91a1);
 #endif
 
     // Put the previous frame back on top.
@@ -9032,18 +9032,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__12_r
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_561ecd63e923dcff4c45f58f1d3c60df);
+    RESTORE_FRAME_EXCEPTION(frame_c4eef573d52fdef8415fe43ab2dd91a1);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_561ecd63e923dcff4c45f58f1d3c60df, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_561ecd63e923dcff4c45f58f1d3c60df->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_561ecd63e923dcff4c45f58f1d3c60df, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_c4eef573d52fdef8415fe43ab2dd91a1, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_c4eef573d52fdef8415fe43ab2dd91a1->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_c4eef573d52fdef8415fe43ab2dd91a1, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_561ecd63e923dcff4c45f58f1d3c60df,
+        frame_c4eef573d52fdef8415fe43ab2dd91a1,
         type_description_1,
         par_self,
         var__,
@@ -9052,17 +9052,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__12_r
 
 
     // Release cached frame if used for exception.
-    if (frame_561ecd63e923dcff4c45f58f1d3c60df == cache_frame_561ecd63e923dcff4c45f58f1d3c60df) {
+    if (frame_c4eef573d52fdef8415fe43ab2dd91a1 == cache_frame_c4eef573d52fdef8415fe43ab2dd91a1) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_561ecd63e923dcff4c45f58f1d3c60df);
-        cache_frame_561ecd63e923dcff4c45f58f1d3c60df = NULL;
+        Py_DECREF(cache_frame_c4eef573d52fdef8415fe43ab2dd91a1);
+        cache_frame_c4eef573d52fdef8415fe43ab2dd91a1 = NULL;
     }
 
-    assertFrameObject(frame_561ecd63e923dcff4c45f58f1d3c60df);
+    assertFrameObject(frame_c4eef573d52fdef8415fe43ab2dd91a1);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -9144,7 +9144,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__13_r
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_55e395e81416c16355414ac0acaa8250;
+    struct Nuitka_FrameObject *frame_77d237b8fc88d86c21b95084d834e141;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -9161,7 +9161,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__13_r
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_55e395e81416c16355414ac0acaa8250 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_77d237b8fc88d86c21b95084d834e141 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -9169,31 +9169,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__13_r
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_55e395e81416c16355414ac0acaa8250)) {
-        Py_XDECREF(cache_frame_55e395e81416c16355414ac0acaa8250);
+    if (isFrameUnusable(cache_frame_77d237b8fc88d86c21b95084d834e141)) {
+        Py_XDECREF(cache_frame_77d237b8fc88d86c21b95084d834e141);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_55e395e81416c16355414ac0acaa8250 == NULL) {
+        if (cache_frame_77d237b8fc88d86c21b95084d834e141 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_55e395e81416c16355414ac0acaa8250 = MAKE_FUNCTION_FRAME(codeobj_55e395e81416c16355414ac0acaa8250, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_77d237b8fc88d86c21b95084d834e141 = MAKE_FUNCTION_FRAME(codeobj_77d237b8fc88d86c21b95084d834e141, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_55e395e81416c16355414ac0acaa8250->m_type_description == NULL);
-    frame_55e395e81416c16355414ac0acaa8250 = cache_frame_55e395e81416c16355414ac0acaa8250;
+    assert(cache_frame_77d237b8fc88d86c21b95084d834e141->m_type_description == NULL);
+    frame_77d237b8fc88d86c21b95084d834e141 = cache_frame_77d237b8fc88d86c21b95084d834e141;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_55e395e81416c16355414ac0acaa8250);
+    pushFrameStack(frame_77d237b8fc88d86c21b95084d834e141);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_55e395e81416c16355414ac0acaa8250) == 2); // Frame stack
+    assert(Py_REFCNT(frame_77d237b8fc88d86c21b95084d834e141) == 2); // Frame stack
 
     // Framed code:
     {
@@ -9201,7 +9201,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__13_r
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_55e395e81416c16355414ac0acaa8250->m_frame.f_lineno = 202;
+        frame_77d237b8fc88d86c21b95084d834e141->m_frame.f_lineno = 202;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -9233,7 +9233,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__13_r
         }
 
         tmp_called_instance_2 = par_self;
-        frame_55e395e81416c16355414ac0acaa8250->m_frame.f_lineno = 203;
+        frame_77d237b8fc88d86c21b95084d834e141->m_frame.f_lineno = 203;
         tmp_iter_arg_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[69]);
         if (tmp_iter_arg_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -9551,7 +9551,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__13_r
         }
         CHECK_OBJECT(var_x509_name);
         tmp_args_element_name_2 = var_x509_name;
-        frame_55e395e81416c16355414ac0acaa8250->m_frame.f_lineno = 207;
+        frame_77d237b8fc88d86c21b95084d834e141->m_frame.f_lineno = 207;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -9573,7 +9573,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__13_r
     branch_end_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_55e395e81416c16355414ac0acaa8250);
+    RESTORE_FRAME_EXCEPTION(frame_77d237b8fc88d86c21b95084d834e141);
 #endif
 
     // Put the previous frame back on top.
@@ -9583,7 +9583,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__13_r
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_55e395e81416c16355414ac0acaa8250);
+    RESTORE_FRAME_EXCEPTION(frame_77d237b8fc88d86c21b95084d834e141);
 #endif
 
     // Put the previous frame back on top.
@@ -9594,18 +9594,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__13_r
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_55e395e81416c16355414ac0acaa8250);
+    RESTORE_FRAME_EXCEPTION(frame_77d237b8fc88d86c21b95084d834e141);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_55e395e81416c16355414ac0acaa8250, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_55e395e81416c16355414ac0acaa8250->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_55e395e81416c16355414ac0acaa8250, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_77d237b8fc88d86c21b95084d834e141, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_77d237b8fc88d86c21b95084d834e141->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_77d237b8fc88d86c21b95084d834e141, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_55e395e81416c16355414ac0acaa8250,
+        frame_77d237b8fc88d86c21b95084d834e141,
         type_description_1,
         par_self,
         var_x509_name,
@@ -9614,17 +9614,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__13_r
 
 
     // Release cached frame if used for exception.
-    if (frame_55e395e81416c16355414ac0acaa8250 == cache_frame_55e395e81416c16355414ac0acaa8250) {
+    if (frame_77d237b8fc88d86c21b95084d834e141 == cache_frame_77d237b8fc88d86c21b95084d834e141) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_55e395e81416c16355414ac0acaa8250);
-        cache_frame_55e395e81416c16355414ac0acaa8250 = NULL;
+        Py_DECREF(cache_frame_77d237b8fc88d86c21b95084d834e141);
+        cache_frame_77d237b8fc88d86c21b95084d834e141 = NULL;
     }
 
-    assertFrameObject(frame_55e395e81416c16355414ac0acaa8250);
+    assertFrameObject(frame_77d237b8fc88d86c21b95084d834e141);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -9704,7 +9704,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__14__
     PyObject *var_asn1_string = NULL;
     PyObject *var_x509_name = NULL;
     PyObject *var_res = NULL;
-    struct Nuitka_FrameObject *frame_90188baabc9799c67df8e32cc077b217;
+    struct Nuitka_FrameObject *frame_072b3396e27c8bcdb46e566f0672e6e1;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -9712,7 +9712,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__14__
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_90188baabc9799c67df8e32cc077b217 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_072b3396e27c8bcdb46e566f0672e6e1 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -9720,31 +9720,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__14__
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_90188baabc9799c67df8e32cc077b217)) {
-        Py_XDECREF(cache_frame_90188baabc9799c67df8e32cc077b217);
+    if (isFrameUnusable(cache_frame_072b3396e27c8bcdb46e566f0672e6e1)) {
+        Py_XDECREF(cache_frame_072b3396e27c8bcdb46e566f0672e6e1);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_90188baabc9799c67df8e32cc077b217 == NULL) {
+        if (cache_frame_072b3396e27c8bcdb46e566f0672e6e1 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_90188baabc9799c67df8e32cc077b217 = MAKE_FUNCTION_FRAME(codeobj_90188baabc9799c67df8e32cc077b217, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_072b3396e27c8bcdb46e566f0672e6e1 = MAKE_FUNCTION_FRAME(codeobj_072b3396e27c8bcdb46e566f0672e6e1, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_90188baabc9799c67df8e32cc077b217->m_type_description == NULL);
-    frame_90188baabc9799c67df8e32cc077b217 = cache_frame_90188baabc9799c67df8e32cc077b217;
+    assert(cache_frame_072b3396e27c8bcdb46e566f0672e6e1->m_type_description == NULL);
+    frame_072b3396e27c8bcdb46e566f0672e6e1 = cache_frame_072b3396e27c8bcdb46e566f0672e6e1;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_90188baabc9799c67df8e32cc077b217);
+    pushFrameStack(frame_072b3396e27c8bcdb46e566f0672e6e1);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_90188baabc9799c67df8e32cc077b217) == 2); // Frame stack
+    assert(Py_REFCNT(frame_072b3396e27c8bcdb46e566f0672e6e1) == 2); // Frame stack
 
     // Framed code:
     {
@@ -9777,7 +9777,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__14__
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_90188baabc9799c67df8e32cc077b217->m_frame.f_lineno = 210;
+        frame_072b3396e27c8bcdb46e566f0672e6e1->m_frame.f_lineno = 210;
         tmp_assign_source_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_1,
             mod_consts[1],
@@ -9839,7 +9839,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__14__
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_90188baabc9799c67df8e32cc077b217->m_frame.f_lineno = 211;
+        frame_072b3396e27c8bcdb46e566f0672e6e1->m_frame.f_lineno = 211;
         tmp_assign_source_2 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_2,
             mod_consts[1],
@@ -9946,7 +9946,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__14__
         tmp_args_element_name_2 = var_asn1_string;
         CHECK_OBJECT(var_x509_name);
         tmp_args_element_name_3 = var_x509_name;
-        frame_90188baabc9799c67df8e32cc077b217->m_frame.f_lineno = 212;
+        frame_072b3396e27c8bcdb46e566f0672e6e1->m_frame.f_lineno = 212;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_assign_source_3 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_1, call_args);
@@ -10025,7 +10025,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__14__
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_90188baabc9799c67df8e32cc077b217->m_frame.f_lineno = 215;
+        frame_072b3396e27c8bcdb46e566f0672e6e1->m_frame.f_lineno = 215;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_4);
@@ -10113,7 +10113,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__14__
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_90188baabc9799c67df8e32cc077b217);
+    RESTORE_FRAME_EXCEPTION(frame_072b3396e27c8bcdb46e566f0672e6e1);
 #endif
 
     // Put the previous frame back on top.
@@ -10123,7 +10123,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__14__
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_90188baabc9799c67df8e32cc077b217);
+    RESTORE_FRAME_EXCEPTION(frame_072b3396e27c8bcdb46e566f0672e6e1);
 #endif
 
     // Put the previous frame back on top.
@@ -10134,18 +10134,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__14__
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_90188baabc9799c67df8e32cc077b217);
+    RESTORE_FRAME_EXCEPTION(frame_072b3396e27c8bcdb46e566f0672e6e1);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_90188baabc9799c67df8e32cc077b217, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_90188baabc9799c67df8e32cc077b217->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_90188baabc9799c67df8e32cc077b217, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_072b3396e27c8bcdb46e566f0672e6e1, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_072b3396e27c8bcdb46e566f0672e6e1->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_072b3396e27c8bcdb46e566f0672e6e1, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_90188baabc9799c67df8e32cc077b217,
+        frame_072b3396e27c8bcdb46e566f0672e6e1,
         type_description_1,
         par_self,
         var_asn1_string,
@@ -10155,17 +10155,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__14__
 
 
     // Release cached frame if used for exception.
-    if (frame_90188baabc9799c67df8e32cc077b217 == cache_frame_90188baabc9799c67df8e32cc077b217) {
+    if (frame_072b3396e27c8bcdb46e566f0672e6e1 == cache_frame_072b3396e27c8bcdb46e566f0672e6e1) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_90188baabc9799c67df8e32cc077b217);
-        cache_frame_90188baabc9799c67df8e32cc077b217 = NULL;
+        Py_DECREF(cache_frame_072b3396e27c8bcdb46e566f0672e6e1);
+        cache_frame_072b3396e27c8bcdb46e566f0672e6e1 = NULL;
     }
 
-    assertFrameObject(frame_90188baabc9799c67df8e32cc077b217);
+    assertFrameObject(frame_072b3396e27c8bcdb46e566f0672e6e1);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -10246,7 +10246,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__15_p
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *var_produced_at = NULL;
-    struct Nuitka_FrameObject *frame_9f49ceddc8ff428afc4e746bf82471b2;
+    struct Nuitka_FrameObject *frame_8f70a19a8a2d202bb0a45ac17ad530ca;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -10254,7 +10254,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__15_p
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_9f49ceddc8ff428afc4e746bf82471b2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_8f70a19a8a2d202bb0a45ac17ad530ca = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -10262,31 +10262,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__15_p
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_9f49ceddc8ff428afc4e746bf82471b2)) {
-        Py_XDECREF(cache_frame_9f49ceddc8ff428afc4e746bf82471b2);
+    if (isFrameUnusable(cache_frame_8f70a19a8a2d202bb0a45ac17ad530ca)) {
+        Py_XDECREF(cache_frame_8f70a19a8a2d202bb0a45ac17ad530ca);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_9f49ceddc8ff428afc4e746bf82471b2 == NULL) {
+        if (cache_frame_8f70a19a8a2d202bb0a45ac17ad530ca == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_9f49ceddc8ff428afc4e746bf82471b2 = MAKE_FUNCTION_FRAME(codeobj_9f49ceddc8ff428afc4e746bf82471b2, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
+        cache_frame_8f70a19a8a2d202bb0a45ac17ad530ca = MAKE_FUNCTION_FRAME(codeobj_8f70a19a8a2d202bb0a45ac17ad530ca, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_9f49ceddc8ff428afc4e746bf82471b2->m_type_description == NULL);
-    frame_9f49ceddc8ff428afc4e746bf82471b2 = cache_frame_9f49ceddc8ff428afc4e746bf82471b2;
+    assert(cache_frame_8f70a19a8a2d202bb0a45ac17ad530ca->m_type_description == NULL);
+    frame_8f70a19a8a2d202bb0a45ac17ad530ca = cache_frame_8f70a19a8a2d202bb0a45ac17ad530ca;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_9f49ceddc8ff428afc4e746bf82471b2);
+    pushFrameStack(frame_8f70a19a8a2d202bb0a45ac17ad530ca);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_9f49ceddc8ff428afc4e746bf82471b2) == 2); // Frame stack
+    assert(Py_REFCNT(frame_8f70a19a8a2d202bb0a45ac17ad530ca) == 2); // Frame stack
 
     // Framed code:
     {
@@ -10294,7 +10294,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__15_p
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_9f49ceddc8ff428afc4e746bf82471b2->m_frame.f_lineno = 220;
+        frame_8f70a19a8a2d202bb0a45ac17ad530ca->m_frame.f_lineno = 220;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10388,7 +10388,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__15_p
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_9f49ceddc8ff428afc4e746bf82471b2->m_frame.f_lineno = 221;
+        frame_8f70a19a8a2d202bb0a45ac17ad530ca->m_frame.f_lineno = 221;
         tmp_assign_source_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -10452,7 +10452,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__15_p
         }
         CHECK_OBJECT(var_produced_at);
         tmp_args_element_name_3 = var_produced_at;
-        frame_9f49ceddc8ff428afc4e746bf82471b2->m_frame.f_lineno = 224;
+        frame_8f70a19a8a2d202bb0a45ac17ad530ca->m_frame.f_lineno = 224;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -10473,7 +10473,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__15_p
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9f49ceddc8ff428afc4e746bf82471b2);
+    RESTORE_FRAME_EXCEPTION(frame_8f70a19a8a2d202bb0a45ac17ad530ca);
 #endif
 
     // Put the previous frame back on top.
@@ -10483,7 +10483,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__15_p
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9f49ceddc8ff428afc4e746bf82471b2);
+    RESTORE_FRAME_EXCEPTION(frame_8f70a19a8a2d202bb0a45ac17ad530ca);
 #endif
 
     // Put the previous frame back on top.
@@ -10494,18 +10494,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__15_p
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9f49ceddc8ff428afc4e746bf82471b2);
+    RESTORE_FRAME_EXCEPTION(frame_8f70a19a8a2d202bb0a45ac17ad530ca);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_9f49ceddc8ff428afc4e746bf82471b2, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_9f49ceddc8ff428afc4e746bf82471b2->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_9f49ceddc8ff428afc4e746bf82471b2, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_8f70a19a8a2d202bb0a45ac17ad530ca, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_8f70a19a8a2d202bb0a45ac17ad530ca->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_8f70a19a8a2d202bb0a45ac17ad530ca, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_9f49ceddc8ff428afc4e746bf82471b2,
+        frame_8f70a19a8a2d202bb0a45ac17ad530ca,
         type_description_1,
         par_self,
         var_produced_at
@@ -10513,17 +10513,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__15_p
 
 
     // Release cached frame if used for exception.
-    if (frame_9f49ceddc8ff428afc4e746bf82471b2 == cache_frame_9f49ceddc8ff428afc4e746bf82471b2) {
+    if (frame_8f70a19a8a2d202bb0a45ac17ad530ca == cache_frame_8f70a19a8a2d202bb0a45ac17ad530ca) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_9f49ceddc8ff428afc4e746bf82471b2);
-        cache_frame_9f49ceddc8ff428afc4e746bf82471b2 = NULL;
+        Py_DECREF(cache_frame_8f70a19a8a2d202bb0a45ac17ad530ca);
+        cache_frame_8f70a19a8a2d202bb0a45ac17ad530ca = NULL;
     }
 
-    assertFrameObject(frame_9f49ceddc8ff428afc4e746bf82471b2);
+    assertFrameObject(frame_8f70a19a8a2d202bb0a45ac17ad530ca);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -10596,7 +10596,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__16_c
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *var_status = NULL;
-    struct Nuitka_FrameObject *frame_f935c359a424b2f41cd2b54ed47c38f2;
+    struct Nuitka_FrameObject *frame_54aee953340efb1e8b4550443ff4989a;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -10605,7 +10605,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__16_c
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_f935c359a424b2f41cd2b54ed47c38f2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_54aee953340efb1e8b4550443ff4989a = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -10613,31 +10613,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__16_c
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_f935c359a424b2f41cd2b54ed47c38f2)) {
-        Py_XDECREF(cache_frame_f935c359a424b2f41cd2b54ed47c38f2);
+    if (isFrameUnusable(cache_frame_54aee953340efb1e8b4550443ff4989a)) {
+        Py_XDECREF(cache_frame_54aee953340efb1e8b4550443ff4989a);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_f935c359a424b2f41cd2b54ed47c38f2 == NULL) {
+        if (cache_frame_54aee953340efb1e8b4550443ff4989a == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_f935c359a424b2f41cd2b54ed47c38f2 = MAKE_FUNCTION_FRAME(codeobj_f935c359a424b2f41cd2b54ed47c38f2, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
+        cache_frame_54aee953340efb1e8b4550443ff4989a = MAKE_FUNCTION_FRAME(codeobj_54aee953340efb1e8b4550443ff4989a, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_f935c359a424b2f41cd2b54ed47c38f2->m_type_description == NULL);
-    frame_f935c359a424b2f41cd2b54ed47c38f2 = cache_frame_f935c359a424b2f41cd2b54ed47c38f2;
+    assert(cache_frame_54aee953340efb1e8b4550443ff4989a->m_type_description == NULL);
+    frame_54aee953340efb1e8b4550443ff4989a = cache_frame_54aee953340efb1e8b4550443ff4989a;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_f935c359a424b2f41cd2b54ed47c38f2);
+    pushFrameStack(frame_54aee953340efb1e8b4550443ff4989a);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_f935c359a424b2f41cd2b54ed47c38f2) == 2); // Frame stack
+    assert(Py_REFCNT(frame_54aee953340efb1e8b4550443ff4989a) == 2); // Frame stack
 
     // Framed code:
     {
@@ -10645,7 +10645,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__16_c
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_f935c359a424b2f41cd2b54ed47c38f2->m_frame.f_lineno = 228;
+        frame_54aee953340efb1e8b4550443ff4989a->m_frame.f_lineno = 228;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10987,7 +10987,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__16_c
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_f935c359a424b2f41cd2b54ed47c38f2->m_frame.f_lineno = 229;
+        frame_54aee953340efb1e8b4550443ff4989a->m_frame.f_lineno = 229;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS5(tmp_called_name_1, call_args);
@@ -11086,7 +11086,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__16_c
             goto frame_exception_exit_1;
         }
         tmp_args_element_name_6 = (tmp_res == 1) ? Py_True : Py_False;
-        frame_f935c359a424b2f41cd2b54ed47c38f2->m_frame.f_lineno = 236;
+        frame_54aee953340efb1e8b4550443ff4989a->m_frame.f_lineno = 236;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_2);
         if (tmp_call_result_2 == NULL) {
@@ -11137,7 +11137,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__16_c
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f935c359a424b2f41cd2b54ed47c38f2);
+    RESTORE_FRAME_EXCEPTION(frame_54aee953340efb1e8b4550443ff4989a);
 #endif
 
     // Put the previous frame back on top.
@@ -11147,7 +11147,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__16_c
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f935c359a424b2f41cd2b54ed47c38f2);
+    RESTORE_FRAME_EXCEPTION(frame_54aee953340efb1e8b4550443ff4989a);
 #endif
 
     // Put the previous frame back on top.
@@ -11158,18 +11158,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__16_c
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f935c359a424b2f41cd2b54ed47c38f2);
+    RESTORE_FRAME_EXCEPTION(frame_54aee953340efb1e8b4550443ff4989a);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_f935c359a424b2f41cd2b54ed47c38f2, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_f935c359a424b2f41cd2b54ed47c38f2->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_f935c359a424b2f41cd2b54ed47c38f2, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_54aee953340efb1e8b4550443ff4989a, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_54aee953340efb1e8b4550443ff4989a->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_54aee953340efb1e8b4550443ff4989a, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_f935c359a424b2f41cd2b54ed47c38f2,
+        frame_54aee953340efb1e8b4550443ff4989a,
         type_description_1,
         par_self,
         var_status
@@ -11177,17 +11177,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__16_c
 
 
     // Release cached frame if used for exception.
-    if (frame_f935c359a424b2f41cd2b54ed47c38f2 == cache_frame_f935c359a424b2f41cd2b54ed47c38f2) {
+    if (frame_54aee953340efb1e8b4550443ff4989a == cache_frame_54aee953340efb1e8b4550443ff4989a) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_f935c359a424b2f41cd2b54ed47c38f2);
-        cache_frame_f935c359a424b2f41cd2b54ed47c38f2 = NULL;
+        Py_DECREF(cache_frame_54aee953340efb1e8b4550443ff4989a);
+        cache_frame_54aee953340efb1e8b4550443ff4989a = NULL;
     }
 
-    assertFrameObject(frame_f935c359a424b2f41cd2b54ed47c38f2);
+    assertFrameObject(frame_54aee953340efb1e8b4550443ff4989a);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -11260,7 +11260,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__17_r
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *var_asn1_time = NULL;
-    struct Nuitka_FrameObject *frame_ccb4b6c3123a42f154b5a414590beab3;
+    struct Nuitka_FrameObject *frame_95655e284d726503592a9b22cc4e5e2c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -11268,7 +11268,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__17_r
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_ccb4b6c3123a42f154b5a414590beab3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_95655e284d726503592a9b22cc4e5e2c = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -11276,31 +11276,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__17_r
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ccb4b6c3123a42f154b5a414590beab3)) {
-        Py_XDECREF(cache_frame_ccb4b6c3123a42f154b5a414590beab3);
+    if (isFrameUnusable(cache_frame_95655e284d726503592a9b22cc4e5e2c)) {
+        Py_XDECREF(cache_frame_95655e284d726503592a9b22cc4e5e2c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ccb4b6c3123a42f154b5a414590beab3 == NULL) {
+        if (cache_frame_95655e284d726503592a9b22cc4e5e2c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ccb4b6c3123a42f154b5a414590beab3 = MAKE_FUNCTION_FRAME(codeobj_ccb4b6c3123a42f154b5a414590beab3, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
+        cache_frame_95655e284d726503592a9b22cc4e5e2c = MAKE_FUNCTION_FRAME(codeobj_95655e284d726503592a9b22cc4e5e2c, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ccb4b6c3123a42f154b5a414590beab3->m_type_description == NULL);
-    frame_ccb4b6c3123a42f154b5a414590beab3 = cache_frame_ccb4b6c3123a42f154b5a414590beab3;
+    assert(cache_frame_95655e284d726503592a9b22cc4e5e2c->m_type_description == NULL);
+    frame_95655e284d726503592a9b22cc4e5e2c = cache_frame_95655e284d726503592a9b22cc4e5e2c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ccb4b6c3123a42f154b5a414590beab3);
+    pushFrameStack(frame_95655e284d726503592a9b22cc4e5e2c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ccb4b6c3123a42f154b5a414590beab3) == 2); // Frame stack
+    assert(Py_REFCNT(frame_95655e284d726503592a9b22cc4e5e2c) == 2); // Frame stack
 
     // Framed code:
     {
@@ -11308,7 +11308,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__17_r
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_ccb4b6c3123a42f154b5a414590beab3->m_frame.f_lineno = 241;
+        frame_95655e284d726503592a9b22cc4e5e2c->m_frame.f_lineno = 241;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -11434,7 +11434,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__17_r
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_ccb4b6c3123a42f154b5a414590beab3->m_frame.f_lineno = 245;
+        frame_95655e284d726503592a9b22cc4e5e2c->m_frame.f_lineno = 245;
         tmp_assign_source_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_2,
             mod_consts[1],
@@ -11718,7 +11718,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__17_r
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_ccb4b6c3123a42f154b5a414590beab3->m_frame.f_lineno = 246;
+        frame_95655e284d726503592a9b22cc4e5e2c->m_frame.f_lineno = 246;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_call_result_2 = CALL_FUNCTION_WITH_ARGS5(tmp_called_name_1, call_args);
@@ -11880,7 +11880,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__17_r
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_ccb4b6c3123a42f154b5a414590beab3->m_frame.f_lineno = 253;
+        frame_95655e284d726503592a9b22cc4e5e2c->m_frame.f_lineno = 253;
         tmp_call_result_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_6);
@@ -11968,7 +11968,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__17_r
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_ccb4b6c3123a42f154b5a414590beab3->m_frame.f_lineno = 254;
+        frame_95655e284d726503592a9b22cc4e5e2c->m_frame.f_lineno = 254;
         {
             PyObject *call_args[] = {tmp_args_element_name_7, tmp_args_element_name_8};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -11990,7 +11990,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__17_r
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ccb4b6c3123a42f154b5a414590beab3);
+    RESTORE_FRAME_EXCEPTION(frame_95655e284d726503592a9b22cc4e5e2c);
 #endif
 
     // Put the previous frame back on top.
@@ -12000,7 +12000,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__17_r
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ccb4b6c3123a42f154b5a414590beab3);
+    RESTORE_FRAME_EXCEPTION(frame_95655e284d726503592a9b22cc4e5e2c);
 #endif
 
     // Put the previous frame back on top.
@@ -12011,18 +12011,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__17_r
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ccb4b6c3123a42f154b5a414590beab3);
+    RESTORE_FRAME_EXCEPTION(frame_95655e284d726503592a9b22cc4e5e2c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ccb4b6c3123a42f154b5a414590beab3, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ccb4b6c3123a42f154b5a414590beab3->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ccb4b6c3123a42f154b5a414590beab3, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_95655e284d726503592a9b22cc4e5e2c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_95655e284d726503592a9b22cc4e5e2c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_95655e284d726503592a9b22cc4e5e2c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ccb4b6c3123a42f154b5a414590beab3,
+        frame_95655e284d726503592a9b22cc4e5e2c,
         type_description_1,
         par_self,
         var_asn1_time
@@ -12030,17 +12030,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__17_r
 
 
     // Release cached frame if used for exception.
-    if (frame_ccb4b6c3123a42f154b5a414590beab3 == cache_frame_ccb4b6c3123a42f154b5a414590beab3) {
+    if (frame_95655e284d726503592a9b22cc4e5e2c == cache_frame_95655e284d726503592a9b22cc4e5e2c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ccb4b6c3123a42f154b5a414590beab3);
-        cache_frame_ccb4b6c3123a42f154b5a414590beab3 = NULL;
+        Py_DECREF(cache_frame_95655e284d726503592a9b22cc4e5e2c);
+        cache_frame_95655e284d726503592a9b22cc4e5e2c = NULL;
     }
 
-    assertFrameObject(frame_ccb4b6c3123a42f154b5a414590beab3);
+    assertFrameObject(frame_95655e284d726503592a9b22cc4e5e2c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -12112,7 +12112,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__18_r
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *var_reason_ptr = NULL;
-    struct Nuitka_FrameObject *frame_c8095e7f83f37d85827a965d0fc402be;
+    struct Nuitka_FrameObject *frame_24ecd2b16bcfd07bafeeea202b85e47c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -12121,7 +12121,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__18_r
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
     int tmp_res;
-    static struct Nuitka_FrameObject *cache_frame_c8095e7f83f37d85827a965d0fc402be = NULL;
+    static struct Nuitka_FrameObject *cache_frame_24ecd2b16bcfd07bafeeea202b85e47c = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -12129,31 +12129,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__18_r
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_c8095e7f83f37d85827a965d0fc402be)) {
-        Py_XDECREF(cache_frame_c8095e7f83f37d85827a965d0fc402be);
+    if (isFrameUnusable(cache_frame_24ecd2b16bcfd07bafeeea202b85e47c)) {
+        Py_XDECREF(cache_frame_24ecd2b16bcfd07bafeeea202b85e47c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_c8095e7f83f37d85827a965d0fc402be == NULL) {
+        if (cache_frame_24ecd2b16bcfd07bafeeea202b85e47c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_c8095e7f83f37d85827a965d0fc402be = MAKE_FUNCTION_FRAME(codeobj_c8095e7f83f37d85827a965d0fc402be, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
+        cache_frame_24ecd2b16bcfd07bafeeea202b85e47c = MAKE_FUNCTION_FRAME(codeobj_24ecd2b16bcfd07bafeeea202b85e47c, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_c8095e7f83f37d85827a965d0fc402be->m_type_description == NULL);
-    frame_c8095e7f83f37d85827a965d0fc402be = cache_frame_c8095e7f83f37d85827a965d0fc402be;
+    assert(cache_frame_24ecd2b16bcfd07bafeeea202b85e47c->m_type_description == NULL);
+    frame_24ecd2b16bcfd07bafeeea202b85e47c = cache_frame_24ecd2b16bcfd07bafeeea202b85e47c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_c8095e7f83f37d85827a965d0fc402be);
+    pushFrameStack(frame_24ecd2b16bcfd07bafeeea202b85e47c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_c8095e7f83f37d85827a965d0fc402be) == 2); // Frame stack
+    assert(Py_REFCNT(frame_24ecd2b16bcfd07bafeeea202b85e47c) == 2); // Frame stack
 
     // Framed code:
     {
@@ -12161,7 +12161,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__18_r
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_c8095e7f83f37d85827a965d0fc402be->m_frame.f_lineno = 258;
+        frame_24ecd2b16bcfd07bafeeea202b85e47c->m_frame.f_lineno = 258;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -12287,7 +12287,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__18_r
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_c8095e7f83f37d85827a965d0fc402be->m_frame.f_lineno = 262;
+        frame_24ecd2b16bcfd07bafeeea202b85e47c->m_frame.f_lineno = 262;
         tmp_assign_source_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_2,
             mod_consts[1],
@@ -12571,7 +12571,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__18_r
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_c8095e7f83f37d85827a965d0fc402be->m_frame.f_lineno = 263;
+        frame_24ecd2b16bcfd07bafeeea202b85e47c->m_frame.f_lineno = 263;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_call_result_2 = CALL_FUNCTION_WITH_ARGS5(tmp_called_name_1, call_args);
@@ -12766,7 +12766,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__18_r
             goto frame_exception_exit_1;
         }
         tmp_args_element_name_6 = (tmp_res == 1) ? Py_True : Py_False;
-        frame_c8095e7f83f37d85827a965d0fc402be->m_frame.f_lineno = 274;
+        frame_24ecd2b16bcfd07bafeeea202b85e47c->m_frame.f_lineno = 274;
         tmp_call_result_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_2);
         if (tmp_call_result_3 == NULL) {
@@ -12844,7 +12844,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__18_r
     branch_end_2:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c8095e7f83f37d85827a965d0fc402be);
+    RESTORE_FRAME_EXCEPTION(frame_24ecd2b16bcfd07bafeeea202b85e47c);
 #endif
 
     // Put the previous frame back on top.
@@ -12854,7 +12854,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__18_r
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c8095e7f83f37d85827a965d0fc402be);
+    RESTORE_FRAME_EXCEPTION(frame_24ecd2b16bcfd07bafeeea202b85e47c);
 #endif
 
     // Put the previous frame back on top.
@@ -12865,18 +12865,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__18_r
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c8095e7f83f37d85827a965d0fc402be);
+    RESTORE_FRAME_EXCEPTION(frame_24ecd2b16bcfd07bafeeea202b85e47c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_c8095e7f83f37d85827a965d0fc402be, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_c8095e7f83f37d85827a965d0fc402be->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_c8095e7f83f37d85827a965d0fc402be, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_24ecd2b16bcfd07bafeeea202b85e47c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_24ecd2b16bcfd07bafeeea202b85e47c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_24ecd2b16bcfd07bafeeea202b85e47c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_c8095e7f83f37d85827a965d0fc402be,
+        frame_24ecd2b16bcfd07bafeeea202b85e47c,
         type_description_1,
         par_self,
         var_reason_ptr
@@ -12884,17 +12884,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__18_r
 
 
     // Release cached frame if used for exception.
-    if (frame_c8095e7f83f37d85827a965d0fc402be == cache_frame_c8095e7f83f37d85827a965d0fc402be) {
+    if (frame_24ecd2b16bcfd07bafeeea202b85e47c == cache_frame_24ecd2b16bcfd07bafeeea202b85e47c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_c8095e7f83f37d85827a965d0fc402be);
-        cache_frame_c8095e7f83f37d85827a965d0fc402be = NULL;
+        Py_DECREF(cache_frame_24ecd2b16bcfd07bafeeea202b85e47c);
+        cache_frame_24ecd2b16bcfd07bafeeea202b85e47c = NULL;
     }
 
-    assertFrameObject(frame_c8095e7f83f37d85827a965d0fc402be);
+    assertFrameObject(frame_24ecd2b16bcfd07bafeeea202b85e47c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -12966,7 +12966,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__19_t
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *var_asn1_time = NULL;
-    struct Nuitka_FrameObject *frame_b6163194350fa2b9c00359edfc4e194d;
+    struct Nuitka_FrameObject *frame_cb91889d886ddca2a55d78e1408d0915;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -12974,7 +12974,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__19_t
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_b6163194350fa2b9c00359edfc4e194d = NULL;
+    static struct Nuitka_FrameObject *cache_frame_cb91889d886ddca2a55d78e1408d0915 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -12982,31 +12982,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__19_t
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_b6163194350fa2b9c00359edfc4e194d)) {
-        Py_XDECREF(cache_frame_b6163194350fa2b9c00359edfc4e194d);
+    if (isFrameUnusable(cache_frame_cb91889d886ddca2a55d78e1408d0915)) {
+        Py_XDECREF(cache_frame_cb91889d886ddca2a55d78e1408d0915);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_b6163194350fa2b9c00359edfc4e194d == NULL) {
+        if (cache_frame_cb91889d886ddca2a55d78e1408d0915 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_b6163194350fa2b9c00359edfc4e194d = MAKE_FUNCTION_FRAME(codeobj_b6163194350fa2b9c00359edfc4e194d, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
+        cache_frame_cb91889d886ddca2a55d78e1408d0915 = MAKE_FUNCTION_FRAME(codeobj_cb91889d886ddca2a55d78e1408d0915, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_b6163194350fa2b9c00359edfc4e194d->m_type_description == NULL);
-    frame_b6163194350fa2b9c00359edfc4e194d = cache_frame_b6163194350fa2b9c00359edfc4e194d;
+    assert(cache_frame_cb91889d886ddca2a55d78e1408d0915->m_type_description == NULL);
+    frame_cb91889d886ddca2a55d78e1408d0915 = cache_frame_cb91889d886ddca2a55d78e1408d0915;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_b6163194350fa2b9c00359edfc4e194d);
+    pushFrameStack(frame_cb91889d886ddca2a55d78e1408d0915);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_b6163194350fa2b9c00359edfc4e194d) == 2); // Frame stack
+    assert(Py_REFCNT(frame_cb91889d886ddca2a55d78e1408d0915) == 2); // Frame stack
 
     // Framed code:
     {
@@ -13014,7 +13014,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__19_t
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_b6163194350fa2b9c00359edfc4e194d->m_frame.f_lineno = 281;
+        frame_cb91889d886ddca2a55d78e1408d0915->m_frame.f_lineno = 281;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -13069,7 +13069,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__19_t
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_b6163194350fa2b9c00359edfc4e194d->m_frame.f_lineno = 282;
+        frame_cb91889d886ddca2a55d78e1408d0915->m_frame.f_lineno = 282;
         tmp_assign_source_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_2,
             mod_consts[1],
@@ -13353,7 +13353,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__19_t
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_b6163194350fa2b9c00359edfc4e194d->m_frame.f_lineno = 283;
+        frame_cb91889d886ddca2a55d78e1408d0915->m_frame.f_lineno = 283;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_call_result_2 = CALL_FUNCTION_WITH_ARGS5(tmp_called_name_1, call_args);
@@ -13515,7 +13515,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__19_t
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_b6163194350fa2b9c00359edfc4e194d->m_frame.f_lineno = 290;
+        frame_cb91889d886ddca2a55d78e1408d0915->m_frame.f_lineno = 290;
         tmp_call_result_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_6);
@@ -13603,7 +13603,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__19_t
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_b6163194350fa2b9c00359edfc4e194d->m_frame.f_lineno = 291;
+        frame_cb91889d886ddca2a55d78e1408d0915->m_frame.f_lineno = 291;
         {
             PyObject *call_args[] = {tmp_args_element_name_7, tmp_args_element_name_8};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -13625,7 +13625,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__19_t
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b6163194350fa2b9c00359edfc4e194d);
+    RESTORE_FRAME_EXCEPTION(frame_cb91889d886ddca2a55d78e1408d0915);
 #endif
 
     // Put the previous frame back on top.
@@ -13635,7 +13635,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__19_t
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b6163194350fa2b9c00359edfc4e194d);
+    RESTORE_FRAME_EXCEPTION(frame_cb91889d886ddca2a55d78e1408d0915);
 #endif
 
     // Put the previous frame back on top.
@@ -13646,18 +13646,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__19_t
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b6163194350fa2b9c00359edfc4e194d);
+    RESTORE_FRAME_EXCEPTION(frame_cb91889d886ddca2a55d78e1408d0915);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_b6163194350fa2b9c00359edfc4e194d, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_b6163194350fa2b9c00359edfc4e194d->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_b6163194350fa2b9c00359edfc4e194d, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_cb91889d886ddca2a55d78e1408d0915, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_cb91889d886ddca2a55d78e1408d0915->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_cb91889d886ddca2a55d78e1408d0915, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_b6163194350fa2b9c00359edfc4e194d,
+        frame_cb91889d886ddca2a55d78e1408d0915,
         type_description_1,
         par_self,
         var_asn1_time
@@ -13665,17 +13665,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__19_t
 
 
     // Release cached frame if used for exception.
-    if (frame_b6163194350fa2b9c00359edfc4e194d == cache_frame_b6163194350fa2b9c00359edfc4e194d) {
+    if (frame_cb91889d886ddca2a55d78e1408d0915 == cache_frame_cb91889d886ddca2a55d78e1408d0915) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_b6163194350fa2b9c00359edfc4e194d);
-        cache_frame_b6163194350fa2b9c00359edfc4e194d = NULL;
+        Py_DECREF(cache_frame_cb91889d886ddca2a55d78e1408d0915);
+        cache_frame_cb91889d886ddca2a55d78e1408d0915 = NULL;
     }
 
-    assertFrameObject(frame_b6163194350fa2b9c00359edfc4e194d);
+    assertFrameObject(frame_cb91889d886ddca2a55d78e1408d0915);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -13747,7 +13747,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__20_n
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *var_asn1_time = NULL;
-    struct Nuitka_FrameObject *frame_c5c1c49db53cfe3f41f30b8570834649;
+    struct Nuitka_FrameObject *frame_04acc47698141b83e4168e96127ecd37;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -13755,7 +13755,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__20_n
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_c5c1c49db53cfe3f41f30b8570834649 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_04acc47698141b83e4168e96127ecd37 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -13763,31 +13763,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__20_n
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_c5c1c49db53cfe3f41f30b8570834649)) {
-        Py_XDECREF(cache_frame_c5c1c49db53cfe3f41f30b8570834649);
+    if (isFrameUnusable(cache_frame_04acc47698141b83e4168e96127ecd37)) {
+        Py_XDECREF(cache_frame_04acc47698141b83e4168e96127ecd37);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_c5c1c49db53cfe3f41f30b8570834649 == NULL) {
+        if (cache_frame_04acc47698141b83e4168e96127ecd37 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_c5c1c49db53cfe3f41f30b8570834649 = MAKE_FUNCTION_FRAME(codeobj_c5c1c49db53cfe3f41f30b8570834649, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
+        cache_frame_04acc47698141b83e4168e96127ecd37 = MAKE_FUNCTION_FRAME(codeobj_04acc47698141b83e4168e96127ecd37, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_c5c1c49db53cfe3f41f30b8570834649->m_type_description == NULL);
-    frame_c5c1c49db53cfe3f41f30b8570834649 = cache_frame_c5c1c49db53cfe3f41f30b8570834649;
+    assert(cache_frame_04acc47698141b83e4168e96127ecd37->m_type_description == NULL);
+    frame_04acc47698141b83e4168e96127ecd37 = cache_frame_04acc47698141b83e4168e96127ecd37;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_c5c1c49db53cfe3f41f30b8570834649);
+    pushFrameStack(frame_04acc47698141b83e4168e96127ecd37);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_c5c1c49db53cfe3f41f30b8570834649) == 2); // Frame stack
+    assert(Py_REFCNT(frame_04acc47698141b83e4168e96127ecd37) == 2); // Frame stack
 
     // Framed code:
     {
@@ -13795,7 +13795,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__20_n
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_c5c1c49db53cfe3f41f30b8570834649->m_frame.f_lineno = 295;
+        frame_04acc47698141b83e4168e96127ecd37->m_frame.f_lineno = 295;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -13850,7 +13850,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__20_n
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_c5c1c49db53cfe3f41f30b8570834649->m_frame.f_lineno = 296;
+        frame_04acc47698141b83e4168e96127ecd37->m_frame.f_lineno = 296;
         tmp_assign_source_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_2,
             mod_consts[1],
@@ -14134,7 +14134,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__20_n
         }
         CHECK_OBJECT(var_asn1_time);
         tmp_args_element_name_5 = var_asn1_time;
-        frame_c5c1c49db53cfe3f41f30b8570834649->m_frame.f_lineno = 297;
+        frame_04acc47698141b83e4168e96127ecd37->m_frame.f_lineno = 297;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_call_result_2 = CALL_FUNCTION_WITH_ARGS5(tmp_called_name_1, call_args);
@@ -14332,7 +14332,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__20_n
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_c5c1c49db53cfe3f41f30b8570834649->m_frame.f_lineno = 305;
+        frame_04acc47698141b83e4168e96127ecd37->m_frame.f_lineno = 305;
         {
             PyObject *call_args[] = {tmp_args_element_name_6, tmp_args_element_name_7};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -14360,7 +14360,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__20_n
     branch_end_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c5c1c49db53cfe3f41f30b8570834649);
+    RESTORE_FRAME_EXCEPTION(frame_04acc47698141b83e4168e96127ecd37);
 #endif
 
     // Put the previous frame back on top.
@@ -14370,7 +14370,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__20_n
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c5c1c49db53cfe3f41f30b8570834649);
+    RESTORE_FRAME_EXCEPTION(frame_04acc47698141b83e4168e96127ecd37);
 #endif
 
     // Put the previous frame back on top.
@@ -14381,18 +14381,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__20_n
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c5c1c49db53cfe3f41f30b8570834649);
+    RESTORE_FRAME_EXCEPTION(frame_04acc47698141b83e4168e96127ecd37);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_c5c1c49db53cfe3f41f30b8570834649, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_c5c1c49db53cfe3f41f30b8570834649->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_c5c1c49db53cfe3f41f30b8570834649, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_04acc47698141b83e4168e96127ecd37, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_04acc47698141b83e4168e96127ecd37->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_04acc47698141b83e4168e96127ecd37, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_c5c1c49db53cfe3f41f30b8570834649,
+        frame_04acc47698141b83e4168e96127ecd37,
         type_description_1,
         par_self,
         var_asn1_time
@@ -14400,17 +14400,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__20_n
 
 
     // Release cached frame if used for exception.
-    if (frame_c5c1c49db53cfe3f41f30b8570834649 == cache_frame_c5c1c49db53cfe3f41f30b8570834649) {
+    if (frame_04acc47698141b83e4168e96127ecd37 == cache_frame_04acc47698141b83e4168e96127ecd37) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_c5c1c49db53cfe3f41f30b8570834649);
-        cache_frame_c5c1c49db53cfe3f41f30b8570834649 = NULL;
+        Py_DECREF(cache_frame_04acc47698141b83e4168e96127ecd37);
+        cache_frame_04acc47698141b83e4168e96127ecd37 = NULL;
     }
 
-    assertFrameObject(frame_c5c1c49db53cfe3f41f30b8570834649);
+    assertFrameObject(frame_04acc47698141b83e4168e96127ecd37);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -14481,7 +14481,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__21_i
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_c61b28fc0c6ff6340712701d2bce435e;
+    struct Nuitka_FrameObject *frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -14489,7 +14489,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__21_i
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_c61b28fc0c6ff6340712701d2bce435e = NULL;
+    static struct Nuitka_FrameObject *cache_frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -14497,31 +14497,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__21_i
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_c61b28fc0c6ff6340712701d2bce435e)) {
-        Py_XDECREF(cache_frame_c61b28fc0c6ff6340712701d2bce435e);
+    if (isFrameUnusable(cache_frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb)) {
+        Py_XDECREF(cache_frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_c61b28fc0c6ff6340712701d2bce435e == NULL) {
+        if (cache_frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_c61b28fc0c6ff6340712701d2bce435e = MAKE_FUNCTION_FRAME(codeobj_c61b28fc0c6ff6340712701d2bce435e, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
+        cache_frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb = MAKE_FUNCTION_FRAME(codeobj_3ca11734fd7f4ee76fdfcf5b91b9e0eb, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_c61b28fc0c6ff6340712701d2bce435e->m_type_description == NULL);
-    frame_c61b28fc0c6ff6340712701d2bce435e = cache_frame_c61b28fc0c6ff6340712701d2bce435e;
+    assert(cache_frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb->m_type_description == NULL);
+    frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb = cache_frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_c61b28fc0c6ff6340712701d2bce435e);
+    pushFrameStack(frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_c61b28fc0c6ff6340712701d2bce435e) == 2); // Frame stack
+    assert(Py_REFCNT(frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb) == 2); // Frame stack
 
     // Framed code:
     {
@@ -14529,7 +14529,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__21_i
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_c61b28fc0c6ff6340712701d2bce435e->m_frame.f_lineno = 311;
+        frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb->m_frame.f_lineno = 311;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -14613,7 +14613,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__21_i
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_c61b28fc0c6ff6340712701d2bce435e->m_frame.f_lineno = 312;
+        frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb->m_frame.f_lineno = 312;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -14635,7 +14635,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__21_i
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c61b28fc0c6ff6340712701d2bce435e);
+    RESTORE_FRAME_EXCEPTION(frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb);
 #endif
 
     // Put the previous frame back on top.
@@ -14645,7 +14645,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__21_i
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c61b28fc0c6ff6340712701d2bce435e);
+    RESTORE_FRAME_EXCEPTION(frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb);
 #endif
 
     // Put the previous frame back on top.
@@ -14656,35 +14656,35 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__21_i
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c61b28fc0c6ff6340712701d2bce435e);
+    RESTORE_FRAME_EXCEPTION(frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_c61b28fc0c6ff6340712701d2bce435e, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_c61b28fc0c6ff6340712701d2bce435e->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_c61b28fc0c6ff6340712701d2bce435e, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_c61b28fc0c6ff6340712701d2bce435e,
+        frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_c61b28fc0c6ff6340712701d2bce435e == cache_frame_c61b28fc0c6ff6340712701d2bce435e) {
+    if (frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb == cache_frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_c61b28fc0c6ff6340712701d2bce435e);
-        cache_frame_c61b28fc0c6ff6340712701d2bce435e = NULL;
+        Py_DECREF(cache_frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb);
+        cache_frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb = NULL;
     }
 
-    assertFrameObject(frame_c61b28fc0c6ff6340712701d2bce435e);
+    assertFrameObject(frame_3ca11734fd7f4ee76fdfcf5b91b9e0eb);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -14751,7 +14751,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__22_i
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_e2e25348d7cc5204b1ce0c9086532438;
+    struct Nuitka_FrameObject *frame_e4f7065d671a0996ab147cccf7ef5e06;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -14759,7 +14759,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__22_i
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_e2e25348d7cc5204b1ce0c9086532438 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_e4f7065d671a0996ab147cccf7ef5e06 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -14767,31 +14767,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__22_i
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_e2e25348d7cc5204b1ce0c9086532438)) {
-        Py_XDECREF(cache_frame_e2e25348d7cc5204b1ce0c9086532438);
+    if (isFrameUnusable(cache_frame_e4f7065d671a0996ab147cccf7ef5e06)) {
+        Py_XDECREF(cache_frame_e4f7065d671a0996ab147cccf7ef5e06);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_e2e25348d7cc5204b1ce0c9086532438 == NULL) {
+        if (cache_frame_e4f7065d671a0996ab147cccf7ef5e06 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_e2e25348d7cc5204b1ce0c9086532438 = MAKE_FUNCTION_FRAME(codeobj_e2e25348d7cc5204b1ce0c9086532438, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
+        cache_frame_e4f7065d671a0996ab147cccf7ef5e06 = MAKE_FUNCTION_FRAME(codeobj_e4f7065d671a0996ab147cccf7ef5e06, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_e2e25348d7cc5204b1ce0c9086532438->m_type_description == NULL);
-    frame_e2e25348d7cc5204b1ce0c9086532438 = cache_frame_e2e25348d7cc5204b1ce0c9086532438;
+    assert(cache_frame_e4f7065d671a0996ab147cccf7ef5e06->m_type_description == NULL);
+    frame_e4f7065d671a0996ab147cccf7ef5e06 = cache_frame_e4f7065d671a0996ab147cccf7ef5e06;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_e2e25348d7cc5204b1ce0c9086532438);
+    pushFrameStack(frame_e4f7065d671a0996ab147cccf7ef5e06);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_e2e25348d7cc5204b1ce0c9086532438) == 2); // Frame stack
+    assert(Py_REFCNT(frame_e4f7065d671a0996ab147cccf7ef5e06) == 2); // Frame stack
 
     // Framed code:
     {
@@ -14799,7 +14799,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__22_i
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_e2e25348d7cc5204b1ce0c9086532438->m_frame.f_lineno = 316;
+        frame_e4f7065d671a0996ab147cccf7ef5e06->m_frame.f_lineno = 316;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -14883,7 +14883,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__22_i
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_e2e25348d7cc5204b1ce0c9086532438->m_frame.f_lineno = 317;
+        frame_e4f7065d671a0996ab147cccf7ef5e06->m_frame.f_lineno = 317;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -14905,7 +14905,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__22_i
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e2e25348d7cc5204b1ce0c9086532438);
+    RESTORE_FRAME_EXCEPTION(frame_e4f7065d671a0996ab147cccf7ef5e06);
 #endif
 
     // Put the previous frame back on top.
@@ -14915,7 +14915,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__22_i
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e2e25348d7cc5204b1ce0c9086532438);
+    RESTORE_FRAME_EXCEPTION(frame_e4f7065d671a0996ab147cccf7ef5e06);
 #endif
 
     // Put the previous frame back on top.
@@ -14926,35 +14926,35 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__22_i
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e2e25348d7cc5204b1ce0c9086532438);
+    RESTORE_FRAME_EXCEPTION(frame_e4f7065d671a0996ab147cccf7ef5e06);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_e2e25348d7cc5204b1ce0c9086532438, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_e2e25348d7cc5204b1ce0c9086532438->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_e2e25348d7cc5204b1ce0c9086532438, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_e4f7065d671a0996ab147cccf7ef5e06, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_e4f7065d671a0996ab147cccf7ef5e06->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_e4f7065d671a0996ab147cccf7ef5e06, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_e2e25348d7cc5204b1ce0c9086532438,
+        frame_e4f7065d671a0996ab147cccf7ef5e06,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_e2e25348d7cc5204b1ce0c9086532438 == cache_frame_e2e25348d7cc5204b1ce0c9086532438) {
+    if (frame_e4f7065d671a0996ab147cccf7ef5e06 == cache_frame_e4f7065d671a0996ab147cccf7ef5e06) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_e2e25348d7cc5204b1ce0c9086532438);
-        cache_frame_e2e25348d7cc5204b1ce0c9086532438 = NULL;
+        Py_DECREF(cache_frame_e4f7065d671a0996ab147cccf7ef5e06);
+        cache_frame_e4f7065d671a0996ab147cccf7ef5e06 = NULL;
     }
 
-    assertFrameObject(frame_e2e25348d7cc5204b1ce0c9086532438);
+    assertFrameObject(frame_e4f7065d671a0996ab147cccf7ef5e06);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -15021,7 +15021,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__23_h
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_1a66b125dea58a6465319d668191b468;
+    struct Nuitka_FrameObject *frame_aa42893628de564cc1a88404a21ac482;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -15029,7 +15029,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__23_h
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_1a66b125dea58a6465319d668191b468 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_aa42893628de564cc1a88404a21ac482 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -15037,31 +15037,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__23_h
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_1a66b125dea58a6465319d668191b468)) {
-        Py_XDECREF(cache_frame_1a66b125dea58a6465319d668191b468);
+    if (isFrameUnusable(cache_frame_aa42893628de564cc1a88404a21ac482)) {
+        Py_XDECREF(cache_frame_aa42893628de564cc1a88404a21ac482);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_1a66b125dea58a6465319d668191b468 == NULL) {
+        if (cache_frame_aa42893628de564cc1a88404a21ac482 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_1a66b125dea58a6465319d668191b468 = MAKE_FUNCTION_FRAME(codeobj_1a66b125dea58a6465319d668191b468, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
+        cache_frame_aa42893628de564cc1a88404a21ac482 = MAKE_FUNCTION_FRAME(codeobj_aa42893628de564cc1a88404a21ac482, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_1a66b125dea58a6465319d668191b468->m_type_description == NULL);
-    frame_1a66b125dea58a6465319d668191b468 = cache_frame_1a66b125dea58a6465319d668191b468;
+    assert(cache_frame_aa42893628de564cc1a88404a21ac482->m_type_description == NULL);
+    frame_aa42893628de564cc1a88404a21ac482 = cache_frame_aa42893628de564cc1a88404a21ac482;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_1a66b125dea58a6465319d668191b468);
+    pushFrameStack(frame_aa42893628de564cc1a88404a21ac482);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_1a66b125dea58a6465319d668191b468) == 2); // Frame stack
+    assert(Py_REFCNT(frame_aa42893628de564cc1a88404a21ac482) == 2); // Frame stack
 
     // Framed code:
     {
@@ -15069,7 +15069,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__23_h
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_1a66b125dea58a6465319d668191b468->m_frame.f_lineno = 321;
+        frame_aa42893628de564cc1a88404a21ac482->m_frame.f_lineno = 321;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -15153,7 +15153,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__23_h
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_1a66b125dea58a6465319d668191b468->m_frame.f_lineno = 322;
+        frame_aa42893628de564cc1a88404a21ac482->m_frame.f_lineno = 322;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -15175,7 +15175,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__23_h
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_1a66b125dea58a6465319d668191b468);
+    RESTORE_FRAME_EXCEPTION(frame_aa42893628de564cc1a88404a21ac482);
 #endif
 
     // Put the previous frame back on top.
@@ -15185,7 +15185,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__23_h
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_1a66b125dea58a6465319d668191b468);
+    RESTORE_FRAME_EXCEPTION(frame_aa42893628de564cc1a88404a21ac482);
 #endif
 
     // Put the previous frame back on top.
@@ -15196,35 +15196,35 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__23_h
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_1a66b125dea58a6465319d668191b468);
+    RESTORE_FRAME_EXCEPTION(frame_aa42893628de564cc1a88404a21ac482);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_1a66b125dea58a6465319d668191b468, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_1a66b125dea58a6465319d668191b468->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_1a66b125dea58a6465319d668191b468, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_aa42893628de564cc1a88404a21ac482, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_aa42893628de564cc1a88404a21ac482->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_aa42893628de564cc1a88404a21ac482, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_1a66b125dea58a6465319d668191b468,
+        frame_aa42893628de564cc1a88404a21ac482,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_1a66b125dea58a6465319d668191b468 == cache_frame_1a66b125dea58a6465319d668191b468) {
+    if (frame_aa42893628de564cc1a88404a21ac482 == cache_frame_aa42893628de564cc1a88404a21ac482) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_1a66b125dea58a6465319d668191b468);
-        cache_frame_1a66b125dea58a6465319d668191b468 = NULL;
+        Py_DECREF(cache_frame_aa42893628de564cc1a88404a21ac482);
+        cache_frame_aa42893628de564cc1a88404a21ac482 = NULL;
     }
 
-    assertFrameObject(frame_1a66b125dea58a6465319d668191b468);
+    assertFrameObject(frame_aa42893628de564cc1a88404a21ac482);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -15291,7 +15291,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__24_s
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_a19c84336ff058670ebc34fad620eb27;
+    struct Nuitka_FrameObject *frame_290aab390330fec794aee3c0034e24ed;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -15299,7 +15299,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__24_s
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_a19c84336ff058670ebc34fad620eb27 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_290aab390330fec794aee3c0034e24ed = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -15307,31 +15307,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__24_s
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_a19c84336ff058670ebc34fad620eb27)) {
-        Py_XDECREF(cache_frame_a19c84336ff058670ebc34fad620eb27);
+    if (isFrameUnusable(cache_frame_290aab390330fec794aee3c0034e24ed)) {
+        Py_XDECREF(cache_frame_290aab390330fec794aee3c0034e24ed);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_a19c84336ff058670ebc34fad620eb27 == NULL) {
+        if (cache_frame_290aab390330fec794aee3c0034e24ed == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_a19c84336ff058670ebc34fad620eb27 = MAKE_FUNCTION_FRAME(codeobj_a19c84336ff058670ebc34fad620eb27, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
+        cache_frame_290aab390330fec794aee3c0034e24ed = MAKE_FUNCTION_FRAME(codeobj_290aab390330fec794aee3c0034e24ed, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_a19c84336ff058670ebc34fad620eb27->m_type_description == NULL);
-    frame_a19c84336ff058670ebc34fad620eb27 = cache_frame_a19c84336ff058670ebc34fad620eb27;
+    assert(cache_frame_290aab390330fec794aee3c0034e24ed->m_type_description == NULL);
+    frame_290aab390330fec794aee3c0034e24ed = cache_frame_290aab390330fec794aee3c0034e24ed;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_a19c84336ff058670ebc34fad620eb27);
+    pushFrameStack(frame_290aab390330fec794aee3c0034e24ed);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_a19c84336ff058670ebc34fad620eb27) == 2); // Frame stack
+    assert(Py_REFCNT(frame_290aab390330fec794aee3c0034e24ed) == 2); // Frame stack
 
     // Framed code:
     {
@@ -15339,7 +15339,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__24_s
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_a19c84336ff058670ebc34fad620eb27->m_frame.f_lineno = 326;
+        frame_290aab390330fec794aee3c0034e24ed->m_frame.f_lineno = 326;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -15423,7 +15423,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__24_s
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_a19c84336ff058670ebc34fad620eb27->m_frame.f_lineno = 327;
+        frame_290aab390330fec794aee3c0034e24ed->m_frame.f_lineno = 327;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -15445,7 +15445,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__24_s
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a19c84336ff058670ebc34fad620eb27);
+    RESTORE_FRAME_EXCEPTION(frame_290aab390330fec794aee3c0034e24ed);
 #endif
 
     // Put the previous frame back on top.
@@ -15455,7 +15455,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__24_s
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a19c84336ff058670ebc34fad620eb27);
+    RESTORE_FRAME_EXCEPTION(frame_290aab390330fec794aee3c0034e24ed);
 #endif
 
     // Put the previous frame back on top.
@@ -15466,35 +15466,35 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__24_s
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a19c84336ff058670ebc34fad620eb27);
+    RESTORE_FRAME_EXCEPTION(frame_290aab390330fec794aee3c0034e24ed);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a19c84336ff058670ebc34fad620eb27, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a19c84336ff058670ebc34fad620eb27->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a19c84336ff058670ebc34fad620eb27, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_290aab390330fec794aee3c0034e24ed, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_290aab390330fec794aee3c0034e24ed->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_290aab390330fec794aee3c0034e24ed, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_a19c84336ff058670ebc34fad620eb27,
+        frame_290aab390330fec794aee3c0034e24ed,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_a19c84336ff058670ebc34fad620eb27 == cache_frame_a19c84336ff058670ebc34fad620eb27) {
+    if (frame_290aab390330fec794aee3c0034e24ed == cache_frame_290aab390330fec794aee3c0034e24ed) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_a19c84336ff058670ebc34fad620eb27);
-        cache_frame_a19c84336ff058670ebc34fad620eb27 = NULL;
+        Py_DECREF(cache_frame_290aab390330fec794aee3c0034e24ed);
+        cache_frame_290aab390330fec794aee3c0034e24ed = NULL;
     }
 
-    assertFrameObject(frame_a19c84336ff058670ebc34fad620eb27);
+    assertFrameObject(frame_290aab390330fec794aee3c0034e24ed);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -15561,7 +15561,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__25_e
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_89440a3060529ecfeb43ab8047d293f3;
+    struct Nuitka_FrameObject *frame_5fb750e5e43029ee00984ea34ba9db1a;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -15569,7 +15569,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__25_e
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_89440a3060529ecfeb43ab8047d293f3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_5fb750e5e43029ee00984ea34ba9db1a = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -15577,31 +15577,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__25_e
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_89440a3060529ecfeb43ab8047d293f3)) {
-        Py_XDECREF(cache_frame_89440a3060529ecfeb43ab8047d293f3);
+    if (isFrameUnusable(cache_frame_5fb750e5e43029ee00984ea34ba9db1a)) {
+        Py_XDECREF(cache_frame_5fb750e5e43029ee00984ea34ba9db1a);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_89440a3060529ecfeb43ab8047d293f3 == NULL) {
+        if (cache_frame_5fb750e5e43029ee00984ea34ba9db1a == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_89440a3060529ecfeb43ab8047d293f3 = MAKE_FUNCTION_FRAME(codeobj_89440a3060529ecfeb43ab8047d293f3, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
+        cache_frame_5fb750e5e43029ee00984ea34ba9db1a = MAKE_FUNCTION_FRAME(codeobj_5fb750e5e43029ee00984ea34ba9db1a, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_89440a3060529ecfeb43ab8047d293f3->m_type_description == NULL);
-    frame_89440a3060529ecfeb43ab8047d293f3 = cache_frame_89440a3060529ecfeb43ab8047d293f3;
+    assert(cache_frame_5fb750e5e43029ee00984ea34ba9db1a->m_type_description == NULL);
+    frame_5fb750e5e43029ee00984ea34ba9db1a = cache_frame_5fb750e5e43029ee00984ea34ba9db1a;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_89440a3060529ecfeb43ab8047d293f3);
+    pushFrameStack(frame_5fb750e5e43029ee00984ea34ba9db1a);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_89440a3060529ecfeb43ab8047d293f3) == 2); // Frame stack
+    assert(Py_REFCNT(frame_5fb750e5e43029ee00984ea34ba9db1a) == 2); // Frame stack
 
     // Framed code:
     {
@@ -15609,7 +15609,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__25_e
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_89440a3060529ecfeb43ab8047d293f3->m_frame.f_lineno = 331;
+        frame_5fb750e5e43029ee00984ea34ba9db1a->m_frame.f_lineno = 331;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -15702,7 +15702,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__25_e
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_89440a3060529ecfeb43ab8047d293f3->m_frame.f_lineno = 332;
+        frame_5fb750e5e43029ee00984ea34ba9db1a->m_frame.f_lineno = 332;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -15720,7 +15720,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__25_e
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_89440a3060529ecfeb43ab8047d293f3);
+    RESTORE_FRAME_EXCEPTION(frame_5fb750e5e43029ee00984ea34ba9db1a);
 #endif
 
     // Put the previous frame back on top.
@@ -15730,7 +15730,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__25_e
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_89440a3060529ecfeb43ab8047d293f3);
+    RESTORE_FRAME_EXCEPTION(frame_5fb750e5e43029ee00984ea34ba9db1a);
 #endif
 
     // Put the previous frame back on top.
@@ -15741,35 +15741,35 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__25_e
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_89440a3060529ecfeb43ab8047d293f3);
+    RESTORE_FRAME_EXCEPTION(frame_5fb750e5e43029ee00984ea34ba9db1a);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_89440a3060529ecfeb43ab8047d293f3, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_89440a3060529ecfeb43ab8047d293f3->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_89440a3060529ecfeb43ab8047d293f3, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_5fb750e5e43029ee00984ea34ba9db1a, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_5fb750e5e43029ee00984ea34ba9db1a->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_5fb750e5e43029ee00984ea34ba9db1a, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_89440a3060529ecfeb43ab8047d293f3,
+        frame_5fb750e5e43029ee00984ea34ba9db1a,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_89440a3060529ecfeb43ab8047d293f3 == cache_frame_89440a3060529ecfeb43ab8047d293f3) {
+    if (frame_5fb750e5e43029ee00984ea34ba9db1a == cache_frame_5fb750e5e43029ee00984ea34ba9db1a) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_89440a3060529ecfeb43ab8047d293f3);
-        cache_frame_89440a3060529ecfeb43ab8047d293f3 = NULL;
+        Py_DECREF(cache_frame_5fb750e5e43029ee00984ea34ba9db1a);
+        cache_frame_5fb750e5e43029ee00984ea34ba9db1a = NULL;
     }
 
-    assertFrameObject(frame_89440a3060529ecfeb43ab8047d293f3);
+    assertFrameObject(frame_5fb750e5e43029ee00984ea34ba9db1a);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -15836,7 +15836,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__26_s
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_376b604b39548fc12e7b7ec6600fdcc8;
+    struct Nuitka_FrameObject *frame_676fa3061e3836a5ae239f77f0796a47;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -15844,7 +15844,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__26_s
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_376b604b39548fc12e7b7ec6600fdcc8 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_676fa3061e3836a5ae239f77f0796a47 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -15852,31 +15852,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__26_s
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_376b604b39548fc12e7b7ec6600fdcc8)) {
-        Py_XDECREF(cache_frame_376b604b39548fc12e7b7ec6600fdcc8);
+    if (isFrameUnusable(cache_frame_676fa3061e3836a5ae239f77f0796a47)) {
+        Py_XDECREF(cache_frame_676fa3061e3836a5ae239f77f0796a47);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_376b604b39548fc12e7b7ec6600fdcc8 == NULL) {
+        if (cache_frame_676fa3061e3836a5ae239f77f0796a47 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_376b604b39548fc12e7b7ec6600fdcc8 = MAKE_FUNCTION_FRAME(codeobj_376b604b39548fc12e7b7ec6600fdcc8, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
+        cache_frame_676fa3061e3836a5ae239f77f0796a47 = MAKE_FUNCTION_FRAME(codeobj_676fa3061e3836a5ae239f77f0796a47, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_376b604b39548fc12e7b7ec6600fdcc8->m_type_description == NULL);
-    frame_376b604b39548fc12e7b7ec6600fdcc8 = cache_frame_376b604b39548fc12e7b7ec6600fdcc8;
+    assert(cache_frame_676fa3061e3836a5ae239f77f0796a47->m_type_description == NULL);
+    frame_676fa3061e3836a5ae239f77f0796a47 = cache_frame_676fa3061e3836a5ae239f77f0796a47;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_376b604b39548fc12e7b7ec6600fdcc8);
+    pushFrameStack(frame_676fa3061e3836a5ae239f77f0796a47);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_376b604b39548fc12e7b7ec6600fdcc8) == 2); // Frame stack
+    assert(Py_REFCNT(frame_676fa3061e3836a5ae239f77f0796a47) == 2); // Frame stack
 
     // Framed code:
     {
@@ -15884,7 +15884,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__26_s
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_376b604b39548fc12e7b7ec6600fdcc8->m_frame.f_lineno = 336;
+        frame_676fa3061e3836a5ae239f77f0796a47->m_frame.f_lineno = 336;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[43]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -15977,7 +15977,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__26_s
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_376b604b39548fc12e7b7ec6600fdcc8->m_frame.f_lineno = 337;
+        frame_676fa3061e3836a5ae239f77f0796a47->m_frame.f_lineno = 337;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -15995,7 +15995,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__26_s
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_376b604b39548fc12e7b7ec6600fdcc8);
+    RESTORE_FRAME_EXCEPTION(frame_676fa3061e3836a5ae239f77f0796a47);
 #endif
 
     // Put the previous frame back on top.
@@ -16005,7 +16005,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__26_s
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_376b604b39548fc12e7b7ec6600fdcc8);
+    RESTORE_FRAME_EXCEPTION(frame_676fa3061e3836a5ae239f77f0796a47);
 #endif
 
     // Put the previous frame back on top.
@@ -16016,35 +16016,35 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__26_s
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_376b604b39548fc12e7b7ec6600fdcc8);
+    RESTORE_FRAME_EXCEPTION(frame_676fa3061e3836a5ae239f77f0796a47);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_376b604b39548fc12e7b7ec6600fdcc8, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_376b604b39548fc12e7b7ec6600fdcc8->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_376b604b39548fc12e7b7ec6600fdcc8, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_676fa3061e3836a5ae239f77f0796a47, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_676fa3061e3836a5ae239f77f0796a47->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_676fa3061e3836a5ae239f77f0796a47, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_376b604b39548fc12e7b7ec6600fdcc8,
+        frame_676fa3061e3836a5ae239f77f0796a47,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_376b604b39548fc12e7b7ec6600fdcc8 == cache_frame_376b604b39548fc12e7b7ec6600fdcc8) {
+    if (frame_676fa3061e3836a5ae239f77f0796a47 == cache_frame_676fa3061e3836a5ae239f77f0796a47) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_376b604b39548fc12e7b7ec6600fdcc8);
-        cache_frame_376b604b39548fc12e7b7ec6600fdcc8 = NULL;
+        Py_DECREF(cache_frame_676fa3061e3836a5ae239f77f0796a47);
+        cache_frame_676fa3061e3836a5ae239f77f0796a47 = NULL;
     }
 
-    assertFrameObject(frame_376b604b39548fc12e7b7ec6600fdcc8);
+    assertFrameObject(frame_676fa3061e3836a5ae239f77f0796a47);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -16114,7 +16114,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__27_p
     PyObject *par_encoding = python_pars[1];
     PyObject *var_bio = NULL;
     PyObject *var_res = NULL;
-    struct Nuitka_FrameObject *frame_a09c9f3aca1c2c888902eeb866bdf197;
+    struct Nuitka_FrameObject *frame_857683ad424a1224d8172f3ada247e75;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -16122,7 +16122,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__27_p
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_a09c9f3aca1c2c888902eeb866bdf197 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_857683ad424a1224d8172f3ada247e75 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -16130,31 +16130,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__27_p
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_a09c9f3aca1c2c888902eeb866bdf197)) {
-        Py_XDECREF(cache_frame_a09c9f3aca1c2c888902eeb866bdf197);
+    if (isFrameUnusable(cache_frame_857683ad424a1224d8172f3ada247e75)) {
+        Py_XDECREF(cache_frame_857683ad424a1224d8172f3ada247e75);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_a09c9f3aca1c2c888902eeb866bdf197 == NULL) {
+        if (cache_frame_857683ad424a1224d8172f3ada247e75 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_a09c9f3aca1c2c888902eeb866bdf197 = MAKE_FUNCTION_FRAME(codeobj_a09c9f3aca1c2c888902eeb866bdf197, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_857683ad424a1224d8172f3ada247e75 = MAKE_FUNCTION_FRAME(codeobj_857683ad424a1224d8172f3ada247e75, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_a09c9f3aca1c2c888902eeb866bdf197->m_type_description == NULL);
-    frame_a09c9f3aca1c2c888902eeb866bdf197 = cache_frame_a09c9f3aca1c2c888902eeb866bdf197;
+    assert(cache_frame_857683ad424a1224d8172f3ada247e75->m_type_description == NULL);
+    frame_857683ad424a1224d8172f3ada247e75 = cache_frame_857683ad424a1224d8172f3ada247e75;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_a09c9f3aca1c2c888902eeb866bdf197);
+    pushFrameStack(frame_857683ad424a1224d8172f3ada247e75);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_a09c9f3aca1c2c888902eeb866bdf197) == 2); // Frame stack
+    assert(Py_REFCNT(frame_857683ad424a1224d8172f3ada247e75) == 2); // Frame stack
 
     // Framed code:
     {
@@ -16217,7 +16217,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__27_p
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[99];
-        frame_a09c9f3aca1c2c888902eeb866bdf197->m_frame.f_lineno = 341;
+        frame_857683ad424a1224d8172f3ada247e75->m_frame.f_lineno = 341;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -16244,7 +16244,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__27_p
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_a09c9f3aca1c2c888902eeb866bdf197->m_frame.f_lineno = 343;
+        frame_857683ad424a1224d8172f3ada247e75->m_frame.f_lineno = 343;
         tmp_assign_source_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[100]);
         Py_DECREF(tmp_called_instance_1);
         if (tmp_assign_source_1 == NULL) {
@@ -16343,7 +16343,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__27_p
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_a09c9f3aca1c2c888902eeb866bdf197->m_frame.f_lineno = 344;
+        frame_857683ad424a1224d8172f3ada247e75->m_frame.f_lineno = 344;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -16422,7 +16422,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__27_p
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_a09c9f3aca1c2c888902eeb866bdf197->m_frame.f_lineno = 347;
+        frame_857683ad424a1224d8172f3ada247e75->m_frame.f_lineno = 347;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_3);
@@ -16492,7 +16492,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__27_p
         }
 
         tmp_args_element_name_4 = var_bio;
-        frame_a09c9f3aca1c2c888902eeb866bdf197->m_frame.f_lineno = 348;
+        frame_857683ad424a1224d8172f3ada247e75->m_frame.f_lineno = 348;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_3);
         if (tmp_return_value == NULL) {
@@ -16509,7 +16509,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__27_p
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a09c9f3aca1c2c888902eeb866bdf197);
+    RESTORE_FRAME_EXCEPTION(frame_857683ad424a1224d8172f3ada247e75);
 #endif
 
     // Put the previous frame back on top.
@@ -16519,7 +16519,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__27_p
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a09c9f3aca1c2c888902eeb866bdf197);
+    RESTORE_FRAME_EXCEPTION(frame_857683ad424a1224d8172f3ada247e75);
 #endif
 
     // Put the previous frame back on top.
@@ -16530,18 +16530,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__27_p
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a09c9f3aca1c2c888902eeb866bdf197);
+    RESTORE_FRAME_EXCEPTION(frame_857683ad424a1224d8172f3ada247e75);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a09c9f3aca1c2c888902eeb866bdf197, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a09c9f3aca1c2c888902eeb866bdf197->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a09c9f3aca1c2c888902eeb866bdf197, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_857683ad424a1224d8172f3ada247e75, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_857683ad424a1224d8172f3ada247e75->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_857683ad424a1224d8172f3ada247e75, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_a09c9f3aca1c2c888902eeb866bdf197,
+        frame_857683ad424a1224d8172f3ada247e75,
         type_description_1,
         par_self,
         par_encoding,
@@ -16551,17 +16551,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__27_p
 
 
     // Release cached frame if used for exception.
-    if (frame_a09c9f3aca1c2c888902eeb866bdf197 == cache_frame_a09c9f3aca1c2c888902eeb866bdf197) {
+    if (frame_857683ad424a1224d8172f3ada247e75 == cache_frame_857683ad424a1224d8172f3ada247e75) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_a09c9f3aca1c2c888902eeb866bdf197);
-        cache_frame_a09c9f3aca1c2c888902eeb866bdf197 = NULL;
+        Py_DECREF(cache_frame_857683ad424a1224d8172f3ada247e75);
+        cache_frame_857683ad424a1224d8172f3ada247e75 = NULL;
     }
 
-    assertFrameObject(frame_a09c9f3aca1c2c888902eeb866bdf197);
+    assertFrameObject(frame_857683ad424a1224d8172f3ada247e75);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -16645,7 +16645,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__28__
     PyObject *par_self = python_pars[0];
     PyObject *par_backend = python_pars[1];
     PyObject *par_ocsp_request = python_pars[2];
-    struct Nuitka_FrameObject *frame_3ec5d86ec2942f1402e62e95e956416e;
+    struct Nuitka_FrameObject *frame_c09d76c004d190344199ee81b60bbc8e;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -16653,7 +16653,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__28__
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_3ec5d86ec2942f1402e62e95e956416e = NULL;
+    static struct Nuitka_FrameObject *cache_frame_c09d76c004d190344199ee81b60bbc8e = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -16662,31 +16662,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__28__
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_3ec5d86ec2942f1402e62e95e956416e)) {
-        Py_XDECREF(cache_frame_3ec5d86ec2942f1402e62e95e956416e);
+    if (isFrameUnusable(cache_frame_c09d76c004d190344199ee81b60bbc8e)) {
+        Py_XDECREF(cache_frame_c09d76c004d190344199ee81b60bbc8e);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_3ec5d86ec2942f1402e62e95e956416e == NULL) {
+        if (cache_frame_c09d76c004d190344199ee81b60bbc8e == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_3ec5d86ec2942f1402e62e95e956416e = MAKE_FUNCTION_FRAME(codeobj_3ec5d86ec2942f1402e62e95e956416e, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_c09d76c004d190344199ee81b60bbc8e = MAKE_FUNCTION_FRAME(codeobj_c09d76c004d190344199ee81b60bbc8e, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_3ec5d86ec2942f1402e62e95e956416e->m_type_description == NULL);
-    frame_3ec5d86ec2942f1402e62e95e956416e = cache_frame_3ec5d86ec2942f1402e62e95e956416e;
+    assert(cache_frame_c09d76c004d190344199ee81b60bbc8e->m_type_description == NULL);
+    frame_c09d76c004d190344199ee81b60bbc8e = cache_frame_c09d76c004d190344199ee81b60bbc8e;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_3ec5d86ec2942f1402e62e95e956416e);
+    pushFrameStack(frame_c09d76c004d190344199ee81b60bbc8e);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_3ec5d86ec2942f1402e62e95e956416e) == 2); // Frame stack
+    assert(Py_REFCNT(frame_c09d76c004d190344199ee81b60bbc8e) == 2); // Frame stack
 
     // Framed code:
     {
@@ -16713,7 +16713,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__28__
         }
         CHECK_OBJECT(par_ocsp_request);
         tmp_args_element_name_1 = par_ocsp_request;
-        frame_3ec5d86ec2942f1402e62e95e956416e->m_frame.f_lineno = 353;
+        frame_c09d76c004d190344199ee81b60bbc8e->m_frame.f_lineno = 353;
         tmp_compexpr_left_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[104], tmp_args_element_name_1);
         Py_DECREF(tmp_called_instance_1);
         if (tmp_compexpr_left_1 == NULL) {
@@ -16763,7 +16763,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__28__
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[105];
-        frame_3ec5d86ec2942f1402e62e95e956416e->m_frame.f_lineno = 354;
+        frame_c09d76c004d190344199ee81b60bbc8e->m_frame.f_lineno = 354;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_NotImplementedError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -16905,7 +16905,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__28__
             goto frame_exception_exit_1;
         }
         tmp_args_element_name_3 = mod_consts[10];
-        frame_3ec5d86ec2942f1402e62e95e956416e->m_frame.f_lineno = 359;
+        frame_c09d76c004d190344199ee81b60bbc8e->m_frame.f_lineno = 359;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_assattr_name_3 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -17086,7 +17086,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__28__
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_3ec5d86ec2942f1402e62e95e956416e->m_frame.f_lineno = 362;
+        frame_c09d76c004d190344199ee81b60bbc8e->m_frame.f_lineno = 362;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_4);
@@ -17183,7 +17183,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__28__
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_3ec5d86ec2942f1402e62e95e956416e->m_frame.f_lineno = 363;
+        frame_c09d76c004d190344199ee81b60bbc8e->m_frame.f_lineno = 363;
         tmp_assattr_name_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_5);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_5);
@@ -17360,7 +17360,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__28__
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_3ec5d86ec2942f1402e62e95e956416e->m_frame.f_lineno = 364;
+        frame_c09d76c004d190344199ee81b60bbc8e->m_frame.f_lineno = 364;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_4);
         Py_DECREF(tmp_args_element_name_6);
@@ -17378,7 +17378,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__28__
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3ec5d86ec2942f1402e62e95e956416e);
+    RESTORE_FRAME_EXCEPTION(frame_c09d76c004d190344199ee81b60bbc8e);
 #endif
 
     // Put the previous frame back on top.
@@ -17389,18 +17389,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__28__
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3ec5d86ec2942f1402e62e95e956416e);
+    RESTORE_FRAME_EXCEPTION(frame_c09d76c004d190344199ee81b60bbc8e);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_3ec5d86ec2942f1402e62e95e956416e, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_3ec5d86ec2942f1402e62e95e956416e->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_3ec5d86ec2942f1402e62e95e956416e, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_c09d76c004d190344199ee81b60bbc8e, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_c09d76c004d190344199ee81b60bbc8e->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_c09d76c004d190344199ee81b60bbc8e, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_3ec5d86ec2942f1402e62e95e956416e,
+        frame_c09d76c004d190344199ee81b60bbc8e,
         type_description_1,
         par_self,
         par_backend,
@@ -17409,17 +17409,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__28__
 
 
     // Release cached frame if used for exception.
-    if (frame_3ec5d86ec2942f1402e62e95e956416e == cache_frame_3ec5d86ec2942f1402e62e95e956416e) {
+    if (frame_c09d76c004d190344199ee81b60bbc8e == cache_frame_c09d76c004d190344199ee81b60bbc8e) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_3ec5d86ec2942f1402e62e95e956416e);
-        cache_frame_3ec5d86ec2942f1402e62e95e956416e = NULL;
+        Py_DECREF(cache_frame_c09d76c004d190344199ee81b60bbc8e);
+        cache_frame_c09d76c004d190344199ee81b60bbc8e = NULL;
     }
 
-    assertFrameObject(frame_3ec5d86ec2942f1402e62e95e956416e);
+    assertFrameObject(frame_c09d76c004d190344199ee81b60bbc8e);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -17497,14 +17497,14 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__29_i
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_f132c09ddadf07ca28ea67e2d2c696cd;
+    struct Nuitka_FrameObject *frame_166e1da923f58cde9fbe607dd496c381;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_f132c09ddadf07ca28ea67e2d2c696cd = NULL;
+    static struct Nuitka_FrameObject *cache_frame_166e1da923f58cde9fbe607dd496c381 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -17512,31 +17512,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__29_i
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_f132c09ddadf07ca28ea67e2d2c696cd)) {
-        Py_XDECREF(cache_frame_f132c09ddadf07ca28ea67e2d2c696cd);
+    if (isFrameUnusable(cache_frame_166e1da923f58cde9fbe607dd496c381)) {
+        Py_XDECREF(cache_frame_166e1da923f58cde9fbe607dd496c381);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_f132c09ddadf07ca28ea67e2d2c696cd == NULL) {
+        if (cache_frame_166e1da923f58cde9fbe607dd496c381 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_f132c09ddadf07ca28ea67e2d2c696cd = MAKE_FUNCTION_FRAME(codeobj_f132c09ddadf07ca28ea67e2d2c696cd, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
+        cache_frame_166e1da923f58cde9fbe607dd496c381 = MAKE_FUNCTION_FRAME(codeobj_166e1da923f58cde9fbe607dd496c381, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_f132c09ddadf07ca28ea67e2d2c696cd->m_type_description == NULL);
-    frame_f132c09ddadf07ca28ea67e2d2c696cd = cache_frame_f132c09ddadf07ca28ea67e2d2c696cd;
+    assert(cache_frame_166e1da923f58cde9fbe607dd496c381->m_type_description == NULL);
+    frame_166e1da923f58cde9fbe607dd496c381 = cache_frame_166e1da923f58cde9fbe607dd496c381;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_f132c09ddadf07ca28ea67e2d2c696cd);
+    pushFrameStack(frame_166e1da923f58cde9fbe607dd496c381);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_f132c09ddadf07ca28ea67e2d2c696cd) == 2); // Frame stack
+    assert(Py_REFCNT(frame_166e1da923f58cde9fbe607dd496c381) == 2); // Frame stack
 
     // Framed code:
     {
@@ -17598,7 +17598,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__29_i
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_f132c09ddadf07ca28ea67e2d2c696cd->m_frame.f_lineno = 368;
+        frame_166e1da923f58cde9fbe607dd496c381->m_frame.f_lineno = 368;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -17620,7 +17620,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__29_i
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f132c09ddadf07ca28ea67e2d2c696cd);
+    RESTORE_FRAME_EXCEPTION(frame_166e1da923f58cde9fbe607dd496c381);
 #endif
 
     // Put the previous frame back on top.
@@ -17630,7 +17630,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__29_i
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f132c09ddadf07ca28ea67e2d2c696cd);
+    RESTORE_FRAME_EXCEPTION(frame_166e1da923f58cde9fbe607dd496c381);
 #endif
 
     // Put the previous frame back on top.
@@ -17641,35 +17641,35 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__29_i
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f132c09ddadf07ca28ea67e2d2c696cd);
+    RESTORE_FRAME_EXCEPTION(frame_166e1da923f58cde9fbe607dd496c381);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_f132c09ddadf07ca28ea67e2d2c696cd, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_f132c09ddadf07ca28ea67e2d2c696cd->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_f132c09ddadf07ca28ea67e2d2c696cd, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_166e1da923f58cde9fbe607dd496c381, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_166e1da923f58cde9fbe607dd496c381->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_166e1da923f58cde9fbe607dd496c381, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_f132c09ddadf07ca28ea67e2d2c696cd,
+        frame_166e1da923f58cde9fbe607dd496c381,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_f132c09ddadf07ca28ea67e2d2c696cd == cache_frame_f132c09ddadf07ca28ea67e2d2c696cd) {
+    if (frame_166e1da923f58cde9fbe607dd496c381 == cache_frame_166e1da923f58cde9fbe607dd496c381) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_f132c09ddadf07ca28ea67e2d2c696cd);
-        cache_frame_f132c09ddadf07ca28ea67e2d2c696cd = NULL;
+        Py_DECREF(cache_frame_166e1da923f58cde9fbe607dd496c381);
+        cache_frame_166e1da923f58cde9fbe607dd496c381 = NULL;
     }
 
-    assertFrameObject(frame_f132c09ddadf07ca28ea67e2d2c696cd);
+    assertFrameObject(frame_166e1da923f58cde9fbe607dd496c381);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -17736,14 +17736,14 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__30_i
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_ef9307a23bbfc2398b6d24909e08cb96;
+    struct Nuitka_FrameObject *frame_0b856d51fba83b73b7c7bb633e67c862;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_ef9307a23bbfc2398b6d24909e08cb96 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_0b856d51fba83b73b7c7bb633e67c862 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -17751,31 +17751,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__30_i
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ef9307a23bbfc2398b6d24909e08cb96)) {
-        Py_XDECREF(cache_frame_ef9307a23bbfc2398b6d24909e08cb96);
+    if (isFrameUnusable(cache_frame_0b856d51fba83b73b7c7bb633e67c862)) {
+        Py_XDECREF(cache_frame_0b856d51fba83b73b7c7bb633e67c862);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ef9307a23bbfc2398b6d24909e08cb96 == NULL) {
+        if (cache_frame_0b856d51fba83b73b7c7bb633e67c862 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ef9307a23bbfc2398b6d24909e08cb96 = MAKE_FUNCTION_FRAME(codeobj_ef9307a23bbfc2398b6d24909e08cb96, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
+        cache_frame_0b856d51fba83b73b7c7bb633e67c862 = MAKE_FUNCTION_FRAME(codeobj_0b856d51fba83b73b7c7bb633e67c862, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ef9307a23bbfc2398b6d24909e08cb96->m_type_description == NULL);
-    frame_ef9307a23bbfc2398b6d24909e08cb96 = cache_frame_ef9307a23bbfc2398b6d24909e08cb96;
+    assert(cache_frame_0b856d51fba83b73b7c7bb633e67c862->m_type_description == NULL);
+    frame_0b856d51fba83b73b7c7bb633e67c862 = cache_frame_0b856d51fba83b73b7c7bb633e67c862;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ef9307a23bbfc2398b6d24909e08cb96);
+    pushFrameStack(frame_0b856d51fba83b73b7c7bb633e67c862);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ef9307a23bbfc2398b6d24909e08cb96) == 2); // Frame stack
+    assert(Py_REFCNT(frame_0b856d51fba83b73b7c7bb633e67c862) == 2); // Frame stack
 
     // Framed code:
     {
@@ -17837,7 +17837,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__30_i
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_ef9307a23bbfc2398b6d24909e08cb96->m_frame.f_lineno = 372;
+        frame_0b856d51fba83b73b7c7bb633e67c862->m_frame.f_lineno = 372;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -17859,7 +17859,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__30_i
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ef9307a23bbfc2398b6d24909e08cb96);
+    RESTORE_FRAME_EXCEPTION(frame_0b856d51fba83b73b7c7bb633e67c862);
 #endif
 
     // Put the previous frame back on top.
@@ -17869,7 +17869,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__30_i
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ef9307a23bbfc2398b6d24909e08cb96);
+    RESTORE_FRAME_EXCEPTION(frame_0b856d51fba83b73b7c7bb633e67c862);
 #endif
 
     // Put the previous frame back on top.
@@ -17880,35 +17880,35 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__30_i
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ef9307a23bbfc2398b6d24909e08cb96);
+    RESTORE_FRAME_EXCEPTION(frame_0b856d51fba83b73b7c7bb633e67c862);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ef9307a23bbfc2398b6d24909e08cb96, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ef9307a23bbfc2398b6d24909e08cb96->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ef9307a23bbfc2398b6d24909e08cb96, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_0b856d51fba83b73b7c7bb633e67c862, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_0b856d51fba83b73b7c7bb633e67c862->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_0b856d51fba83b73b7c7bb633e67c862, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ef9307a23bbfc2398b6d24909e08cb96,
+        frame_0b856d51fba83b73b7c7bb633e67c862,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_ef9307a23bbfc2398b6d24909e08cb96 == cache_frame_ef9307a23bbfc2398b6d24909e08cb96) {
+    if (frame_0b856d51fba83b73b7c7bb633e67c862 == cache_frame_0b856d51fba83b73b7c7bb633e67c862) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ef9307a23bbfc2398b6d24909e08cb96);
-        cache_frame_ef9307a23bbfc2398b6d24909e08cb96 = NULL;
+        Py_DECREF(cache_frame_0b856d51fba83b73b7c7bb633e67c862);
+        cache_frame_0b856d51fba83b73b7c7bb633e67c862 = NULL;
     }
 
-    assertFrameObject(frame_ef9307a23bbfc2398b6d24909e08cb96);
+    assertFrameObject(frame_0b856d51fba83b73b7c7bb633e67c862);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -17975,14 +17975,14 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__31_s
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_0dda85fae30a90078f30c347c28f9728;
+    struct Nuitka_FrameObject *frame_17f580e0271fe735b6a5cd14e92891ce;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_0dda85fae30a90078f30c347c28f9728 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_17f580e0271fe735b6a5cd14e92891ce = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -17990,31 +17990,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__31_s
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_0dda85fae30a90078f30c347c28f9728)) {
-        Py_XDECREF(cache_frame_0dda85fae30a90078f30c347c28f9728);
+    if (isFrameUnusable(cache_frame_17f580e0271fe735b6a5cd14e92891ce)) {
+        Py_XDECREF(cache_frame_17f580e0271fe735b6a5cd14e92891ce);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_0dda85fae30a90078f30c347c28f9728 == NULL) {
+        if (cache_frame_17f580e0271fe735b6a5cd14e92891ce == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_0dda85fae30a90078f30c347c28f9728 = MAKE_FUNCTION_FRAME(codeobj_0dda85fae30a90078f30c347c28f9728, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
+        cache_frame_17f580e0271fe735b6a5cd14e92891ce = MAKE_FUNCTION_FRAME(codeobj_17f580e0271fe735b6a5cd14e92891ce, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_0dda85fae30a90078f30c347c28f9728->m_type_description == NULL);
-    frame_0dda85fae30a90078f30c347c28f9728 = cache_frame_0dda85fae30a90078f30c347c28f9728;
+    assert(cache_frame_17f580e0271fe735b6a5cd14e92891ce->m_type_description == NULL);
+    frame_17f580e0271fe735b6a5cd14e92891ce = cache_frame_17f580e0271fe735b6a5cd14e92891ce;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_0dda85fae30a90078f30c347c28f9728);
+    pushFrameStack(frame_17f580e0271fe735b6a5cd14e92891ce);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_0dda85fae30a90078f30c347c28f9728) == 2); // Frame stack
+    assert(Py_REFCNT(frame_17f580e0271fe735b6a5cd14e92891ce) == 2); // Frame stack
 
     // Framed code:
     {
@@ -18076,7 +18076,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__31_s
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_0dda85fae30a90078f30c347c28f9728->m_frame.f_lineno = 376;
+        frame_17f580e0271fe735b6a5cd14e92891ce->m_frame.f_lineno = 376;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -18098,7 +18098,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__31_s
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0dda85fae30a90078f30c347c28f9728);
+    RESTORE_FRAME_EXCEPTION(frame_17f580e0271fe735b6a5cd14e92891ce);
 #endif
 
     // Put the previous frame back on top.
@@ -18108,7 +18108,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__31_s
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0dda85fae30a90078f30c347c28f9728);
+    RESTORE_FRAME_EXCEPTION(frame_17f580e0271fe735b6a5cd14e92891ce);
 #endif
 
     // Put the previous frame back on top.
@@ -18119,35 +18119,35 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__31_s
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0dda85fae30a90078f30c347c28f9728);
+    RESTORE_FRAME_EXCEPTION(frame_17f580e0271fe735b6a5cd14e92891ce);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_0dda85fae30a90078f30c347c28f9728, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_0dda85fae30a90078f30c347c28f9728->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_0dda85fae30a90078f30c347c28f9728, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_17f580e0271fe735b6a5cd14e92891ce, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_17f580e0271fe735b6a5cd14e92891ce->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_17f580e0271fe735b6a5cd14e92891ce, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_0dda85fae30a90078f30c347c28f9728,
+        frame_17f580e0271fe735b6a5cd14e92891ce,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_0dda85fae30a90078f30c347c28f9728 == cache_frame_0dda85fae30a90078f30c347c28f9728) {
+    if (frame_17f580e0271fe735b6a5cd14e92891ce == cache_frame_17f580e0271fe735b6a5cd14e92891ce) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_0dda85fae30a90078f30c347c28f9728);
-        cache_frame_0dda85fae30a90078f30c347c28f9728 = NULL;
+        Py_DECREF(cache_frame_17f580e0271fe735b6a5cd14e92891ce);
+        cache_frame_17f580e0271fe735b6a5cd14e92891ce = NULL;
     }
 
-    assertFrameObject(frame_0dda85fae30a90078f30c347c28f9728);
+    assertFrameObject(frame_17f580e0271fe735b6a5cd14e92891ce);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -18214,14 +18214,14 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__32_h
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_b26c212bd99d0ab5ccc394cf23a01f29;
+    struct Nuitka_FrameObject *frame_f447a3bbe3291609995df770c13bd7a5;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_b26c212bd99d0ab5ccc394cf23a01f29 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f447a3bbe3291609995df770c13bd7a5 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -18229,31 +18229,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__32_h
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_b26c212bd99d0ab5ccc394cf23a01f29)) {
-        Py_XDECREF(cache_frame_b26c212bd99d0ab5ccc394cf23a01f29);
+    if (isFrameUnusable(cache_frame_f447a3bbe3291609995df770c13bd7a5)) {
+        Py_XDECREF(cache_frame_f447a3bbe3291609995df770c13bd7a5);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_b26c212bd99d0ab5ccc394cf23a01f29 == NULL) {
+        if (cache_frame_f447a3bbe3291609995df770c13bd7a5 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_b26c212bd99d0ab5ccc394cf23a01f29 = MAKE_FUNCTION_FRAME(codeobj_b26c212bd99d0ab5ccc394cf23a01f29, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
+        cache_frame_f447a3bbe3291609995df770c13bd7a5 = MAKE_FUNCTION_FRAME(codeobj_f447a3bbe3291609995df770c13bd7a5, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_b26c212bd99d0ab5ccc394cf23a01f29->m_type_description == NULL);
-    frame_b26c212bd99d0ab5ccc394cf23a01f29 = cache_frame_b26c212bd99d0ab5ccc394cf23a01f29;
+    assert(cache_frame_f447a3bbe3291609995df770c13bd7a5->m_type_description == NULL);
+    frame_f447a3bbe3291609995df770c13bd7a5 = cache_frame_f447a3bbe3291609995df770c13bd7a5;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_b26c212bd99d0ab5ccc394cf23a01f29);
+    pushFrameStack(frame_f447a3bbe3291609995df770c13bd7a5);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_b26c212bd99d0ab5ccc394cf23a01f29) == 2); // Frame stack
+    assert(Py_REFCNT(frame_f447a3bbe3291609995df770c13bd7a5) == 2); // Frame stack
 
     // Framed code:
     {
@@ -18315,7 +18315,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__32_h
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_b26c212bd99d0ab5ccc394cf23a01f29->m_frame.f_lineno = 380;
+        frame_f447a3bbe3291609995df770c13bd7a5->m_frame.f_lineno = 380;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -18337,7 +18337,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__32_h
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b26c212bd99d0ab5ccc394cf23a01f29);
+    RESTORE_FRAME_EXCEPTION(frame_f447a3bbe3291609995df770c13bd7a5);
 #endif
 
     // Put the previous frame back on top.
@@ -18347,7 +18347,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__32_h
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b26c212bd99d0ab5ccc394cf23a01f29);
+    RESTORE_FRAME_EXCEPTION(frame_f447a3bbe3291609995df770c13bd7a5);
 #endif
 
     // Put the previous frame back on top.
@@ -18358,35 +18358,35 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__32_h
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b26c212bd99d0ab5ccc394cf23a01f29);
+    RESTORE_FRAME_EXCEPTION(frame_f447a3bbe3291609995df770c13bd7a5);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_b26c212bd99d0ab5ccc394cf23a01f29, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_b26c212bd99d0ab5ccc394cf23a01f29->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_b26c212bd99d0ab5ccc394cf23a01f29, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_f447a3bbe3291609995df770c13bd7a5, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_f447a3bbe3291609995df770c13bd7a5->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_f447a3bbe3291609995df770c13bd7a5, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_b26c212bd99d0ab5ccc394cf23a01f29,
+        frame_f447a3bbe3291609995df770c13bd7a5,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_b26c212bd99d0ab5ccc394cf23a01f29 == cache_frame_b26c212bd99d0ab5ccc394cf23a01f29) {
+    if (frame_f447a3bbe3291609995df770c13bd7a5 == cache_frame_f447a3bbe3291609995df770c13bd7a5) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_b26c212bd99d0ab5ccc394cf23a01f29);
-        cache_frame_b26c212bd99d0ab5ccc394cf23a01f29 = NULL;
+        Py_DECREF(cache_frame_f447a3bbe3291609995df770c13bd7a5);
+        cache_frame_f447a3bbe3291609995df770c13bd7a5 = NULL;
     }
 
-    assertFrameObject(frame_b26c212bd99d0ab5ccc394cf23a01f29);
+    assertFrameObject(frame_f447a3bbe3291609995df770c13bd7a5);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -18453,14 +18453,14 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__33_e
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_57950d8605f771b1929c476cf66766a4;
+    struct Nuitka_FrameObject *frame_5b314488ecae5598211aa67bcc6ccbe8;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_57950d8605f771b1929c476cf66766a4 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_5b314488ecae5598211aa67bcc6ccbe8 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -18468,31 +18468,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__33_e
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_57950d8605f771b1929c476cf66766a4)) {
-        Py_XDECREF(cache_frame_57950d8605f771b1929c476cf66766a4);
+    if (isFrameUnusable(cache_frame_5b314488ecae5598211aa67bcc6ccbe8)) {
+        Py_XDECREF(cache_frame_5b314488ecae5598211aa67bcc6ccbe8);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_57950d8605f771b1929c476cf66766a4 == NULL) {
+        if (cache_frame_5b314488ecae5598211aa67bcc6ccbe8 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_57950d8605f771b1929c476cf66766a4 = MAKE_FUNCTION_FRAME(codeobj_57950d8605f771b1929c476cf66766a4, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
+        cache_frame_5b314488ecae5598211aa67bcc6ccbe8 = MAKE_FUNCTION_FRAME(codeobj_5b314488ecae5598211aa67bcc6ccbe8, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_57950d8605f771b1929c476cf66766a4->m_type_description == NULL);
-    frame_57950d8605f771b1929c476cf66766a4 = cache_frame_57950d8605f771b1929c476cf66766a4;
+    assert(cache_frame_5b314488ecae5598211aa67bcc6ccbe8->m_type_description == NULL);
+    frame_5b314488ecae5598211aa67bcc6ccbe8 = cache_frame_5b314488ecae5598211aa67bcc6ccbe8;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_57950d8605f771b1929c476cf66766a4);
+    pushFrameStack(frame_5b314488ecae5598211aa67bcc6ccbe8);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_57950d8605f771b1929c476cf66766a4) == 2); // Frame stack
+    assert(Py_REFCNT(frame_5b314488ecae5598211aa67bcc6ccbe8) == 2); // Frame stack
 
     // Framed code:
     {
@@ -18563,7 +18563,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__33_e
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_57950d8605f771b1929c476cf66766a4->m_frame.f_lineno = 384;
+        frame_5b314488ecae5598211aa67bcc6ccbe8->m_frame.f_lineno = 384;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -18581,7 +18581,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__33_e
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_57950d8605f771b1929c476cf66766a4);
+    RESTORE_FRAME_EXCEPTION(frame_5b314488ecae5598211aa67bcc6ccbe8);
 #endif
 
     // Put the previous frame back on top.
@@ -18591,7 +18591,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__33_e
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_57950d8605f771b1929c476cf66766a4);
+    RESTORE_FRAME_EXCEPTION(frame_5b314488ecae5598211aa67bcc6ccbe8);
 #endif
 
     // Put the previous frame back on top.
@@ -18602,35 +18602,35 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__33_e
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_57950d8605f771b1929c476cf66766a4);
+    RESTORE_FRAME_EXCEPTION(frame_5b314488ecae5598211aa67bcc6ccbe8);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_57950d8605f771b1929c476cf66766a4, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_57950d8605f771b1929c476cf66766a4->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_57950d8605f771b1929c476cf66766a4, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_5b314488ecae5598211aa67bcc6ccbe8, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_5b314488ecae5598211aa67bcc6ccbe8->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_5b314488ecae5598211aa67bcc6ccbe8, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_57950d8605f771b1929c476cf66766a4,
+        frame_5b314488ecae5598211aa67bcc6ccbe8,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_57950d8605f771b1929c476cf66766a4 == cache_frame_57950d8605f771b1929c476cf66766a4) {
+    if (frame_5b314488ecae5598211aa67bcc6ccbe8 == cache_frame_5b314488ecae5598211aa67bcc6ccbe8) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_57950d8605f771b1929c476cf66766a4);
-        cache_frame_57950d8605f771b1929c476cf66766a4 = NULL;
+        Py_DECREF(cache_frame_5b314488ecae5598211aa67bcc6ccbe8);
+        cache_frame_5b314488ecae5598211aa67bcc6ccbe8 = NULL;
     }
 
-    assertFrameObject(frame_57950d8605f771b1929c476cf66766a4);
+    assertFrameObject(frame_5b314488ecae5598211aa67bcc6ccbe8);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -18700,7 +18700,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__34_p
     PyObject *par_encoding = python_pars[1];
     PyObject *var_bio = NULL;
     PyObject *var_res = NULL;
-    struct Nuitka_FrameObject *frame_a46dda453a437b30b8129cca1467e188;
+    struct Nuitka_FrameObject *frame_674461be89df69cb72b007aeb90537ac;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -18708,7 +18708,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__34_p
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_a46dda453a437b30b8129cca1467e188 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_674461be89df69cb72b007aeb90537ac = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -18716,31 +18716,31 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__34_p
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_a46dda453a437b30b8129cca1467e188)) {
-        Py_XDECREF(cache_frame_a46dda453a437b30b8129cca1467e188);
+    if (isFrameUnusable(cache_frame_674461be89df69cb72b007aeb90537ac)) {
+        Py_XDECREF(cache_frame_674461be89df69cb72b007aeb90537ac);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_a46dda453a437b30b8129cca1467e188 == NULL) {
+        if (cache_frame_674461be89df69cb72b007aeb90537ac == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_a46dda453a437b30b8129cca1467e188 = MAKE_FUNCTION_FRAME(codeobj_a46dda453a437b30b8129cca1467e188, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_674461be89df69cb72b007aeb90537ac = MAKE_FUNCTION_FRAME(codeobj_674461be89df69cb72b007aeb90537ac, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_a46dda453a437b30b8129cca1467e188->m_type_description == NULL);
-    frame_a46dda453a437b30b8129cca1467e188 = cache_frame_a46dda453a437b30b8129cca1467e188;
+    assert(cache_frame_674461be89df69cb72b007aeb90537ac->m_type_description == NULL);
+    frame_674461be89df69cb72b007aeb90537ac = cache_frame_674461be89df69cb72b007aeb90537ac;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_a46dda453a437b30b8129cca1467e188);
+    pushFrameStack(frame_674461be89df69cb72b007aeb90537ac);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_a46dda453a437b30b8129cca1467e188) == 2); // Frame stack
+    assert(Py_REFCNT(frame_674461be89df69cb72b007aeb90537ac) == 2); // Frame stack
 
     // Framed code:
     {
@@ -18803,7 +18803,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__34_p
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[99];
-        frame_a46dda453a437b30b8129cca1467e188->m_frame.f_lineno = 388;
+        frame_674461be89df69cb72b007aeb90537ac->m_frame.f_lineno = 388;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -18830,7 +18830,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__34_p
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_a46dda453a437b30b8129cca1467e188->m_frame.f_lineno = 390;
+        frame_674461be89df69cb72b007aeb90537ac->m_frame.f_lineno = 390;
         tmp_assign_source_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[100]);
         Py_DECREF(tmp_called_instance_1);
         if (tmp_assign_source_1 == NULL) {
@@ -18929,7 +18929,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__34_p
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_a46dda453a437b30b8129cca1467e188->m_frame.f_lineno = 391;
+        frame_674461be89df69cb72b007aeb90537ac->m_frame.f_lineno = 391;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -19008,7 +19008,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__34_p
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_a46dda453a437b30b8129cca1467e188->m_frame.f_lineno = 392;
+        frame_674461be89df69cb72b007aeb90537ac->m_frame.f_lineno = 392;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_3);
@@ -19078,7 +19078,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__34_p
         }
 
         tmp_args_element_name_4 = var_bio;
-        frame_a46dda453a437b30b8129cca1467e188->m_frame.f_lineno = 393;
+        frame_674461be89df69cb72b007aeb90537ac->m_frame.f_lineno = 393;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_3);
         if (tmp_return_value == NULL) {
@@ -19095,7 +19095,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__34_p
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a46dda453a437b30b8129cca1467e188);
+    RESTORE_FRAME_EXCEPTION(frame_674461be89df69cb72b007aeb90537ac);
 #endif
 
     // Put the previous frame back on top.
@@ -19105,7 +19105,7 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__34_p
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a46dda453a437b30b8129cca1467e188);
+    RESTORE_FRAME_EXCEPTION(frame_674461be89df69cb72b007aeb90537ac);
 #endif
 
     // Put the previous frame back on top.
@@ -19116,18 +19116,18 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__34_p
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a46dda453a437b30b8129cca1467e188);
+    RESTORE_FRAME_EXCEPTION(frame_674461be89df69cb72b007aeb90537ac);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a46dda453a437b30b8129cca1467e188, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a46dda453a437b30b8129cca1467e188->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a46dda453a437b30b8129cca1467e188, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_674461be89df69cb72b007aeb90537ac, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_674461be89df69cb72b007aeb90537ac->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_674461be89df69cb72b007aeb90537ac, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_a46dda453a437b30b8129cca1467e188,
+        frame_674461be89df69cb72b007aeb90537ac,
         type_description_1,
         par_self,
         par_encoding,
@@ -19137,17 +19137,17 @@ static PyObject *impl_cryptography$hazmat$backends$openssl$ocsp$$$function__34_p
 
 
     // Release cached frame if used for exception.
-    if (frame_a46dda453a437b30b8129cca1467e188 == cache_frame_a46dda453a437b30b8129cca1467e188) {
+    if (frame_674461be89df69cb72b007aeb90537ac == cache_frame_674461be89df69cb72b007aeb90537ac) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_a46dda453a437b30b8129cca1467e188);
-        cache_frame_a46dda453a437b30b8129cca1467e188 = NULL;
+        Py_DECREF(cache_frame_674461be89df69cb72b007aeb90537ac);
+        cache_frame_674461be89df69cb72b007aeb90537ac = NULL;
     }
 
-    assertFrameObject(frame_a46dda453a437b30b8129cca1467e188);
+    assertFrameObject(frame_674461be89df69cb72b007aeb90537ac);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -19225,11 +19225,11 @@ function_return_exit:
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__10_tbs_response_bytes(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__10_tbs_response_bytes,
-        mod_consts[164],
+        mod_consts[163],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[165],
+        mod_consts[164],
 #endif
-        codeobj_0faf77543e08163e80cb7152a64f2b53,
+        codeobj_8af8c36b533b6d6c4b502ae920cd7bbe,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19254,7 +19254,7 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 #if PYTHON_VERSION >= 0x300
         mod_consts[57],
 #endif
-        codeobj_fdfbca7ee7d366f57f9799c8c08e45d4,
+        codeobj_26837de0c97c93a17012e9c22b44cf06,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19275,11 +19275,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__11_certificates(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__11_certificates,
-        mod_consts[168],
+        mod_consts[167],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[169],
+        mod_consts[168],
 #endif
-        codeobj_ffbbf25132e793d343d073ec16ece775,
+        codeobj_51cd6b68add931783272c2ee2f6971fe,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19300,11 +19300,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__12_responder_key_hash(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__12_responder_key_hash,
-        mod_consts[170],
+        mod_consts[169],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[171],
+        mod_consts[170],
 #endif
-        codeobj_561ecd63e923dcff4c45f58f1d3c60df,
+        codeobj_c4eef573d52fdef8415fe43ab2dd91a1,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19325,11 +19325,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__13_responder_name(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__13_responder_name,
-        mod_consts[173],
+        mod_consts[172],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[174],
+        mod_consts[173],
 #endif
-        codeobj_55e395e81416c16355414ac0acaa8250,
+        codeobj_77d237b8fc88d86c21b95084d834e141,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19352,9 +19352,9 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__14__responder_key_name,
         mod_consts[69],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[175],
+        mod_consts[174],
 #endif
-        codeobj_90188baabc9799c67df8e32cc077b217,
+        codeobj_072b3396e27c8bcdb46e566f0672e6e1,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19375,11 +19375,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__15_produced_at(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__15_produced_at,
-        mod_consts[176],
+        mod_consts[175],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[177],
+        mod_consts[176],
 #endif
-        codeobj_9f49ceddc8ff428afc4e746bf82471b2,
+        codeobj_8f70a19a8a2d202bb0a45ac17ad530ca,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19402,9 +19402,9 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__16_certificate_status,
         mod_consts[80],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[178],
+        mod_consts[177],
 #endif
-        codeobj_f935c359a424b2f41cd2b54ed47c38f2,
+        codeobj_54aee953340efb1e8b4550443ff4989a,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19425,11 +19425,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__17_revocation_time(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__17_revocation_time,
-        mod_consts[179],
+        mod_consts[178],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[180],
+        mod_consts[179],
 #endif
-        codeobj_ccb4b6c3123a42f154b5a414590beab3,
+        codeobj_95655e284d726503592a9b22cc4e5e2c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19450,11 +19450,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__18_revocation_reason(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__18_revocation_reason,
-        mod_consts[182],
+        mod_consts[181],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[183],
+        mod_consts[182],
 #endif
-        codeobj_c8095e7f83f37d85827a965d0fc402be,
+        codeobj_24ecd2b16bcfd07bafeeea202b85e47c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19475,11 +19475,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__19_this_update(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__19_this_update,
-        mod_consts[184],
+        mod_consts[183],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[185],
+        mod_consts[184],
 #endif
-        codeobj_b6163194350fa2b9c00359edfc4e194d,
+        codeobj_cb91889d886ddca2a55d78e1408d0915,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19504,7 +19504,7 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_48f47c4377f6279e578ceb2fefabfad8,
+        codeobj_981fb477039407255ceeddeffb6763a8,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19525,11 +19525,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__20_next_update(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__20_next_update,
-        mod_consts[186],
+        mod_consts[185],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[187],
+        mod_consts[186],
 #endif
-        codeobj_c5c1c49db53cfe3f41f30b8570834649,
+        codeobj_04acc47698141b83e4168e96127ecd37,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19550,11 +19550,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__21_issuer_key_hash(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__21_issuer_key_hash,
-        mod_consts[188],
+        mod_consts[187],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[189],
+        mod_consts[188],
 #endif
-        codeobj_c61b28fc0c6ff6340712701d2bce435e,
+        codeobj_3ca11734fd7f4ee76fdfcf5b91b9e0eb,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19575,11 +19575,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__22_issuer_name_hash(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__22_issuer_name_hash,
-        mod_consts[190],
+        mod_consts[189],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[191],
+        mod_consts[190],
 #endif
-        codeobj_e2e25348d7cc5204b1ce0c9086532438,
+        codeobj_e4f7065d671a0996ab147cccf7ef5e06,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19600,11 +19600,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__23_hash_algorithm(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__23_hash_algorithm,
-        mod_consts[192],
+        mod_consts[191],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[193],
+        mod_consts[192],
 #endif
-        codeobj_1a66b125dea58a6465319d668191b468,
+        codeobj_aa42893628de564cc1a88404a21ac482,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19625,11 +19625,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__24_serial_number(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__24_serial_number,
-        mod_consts[195],
+        mod_consts[194],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[196],
+        mod_consts[195],
 #endif
-        codeobj_a19c84336ff058670ebc34fad620eb27,
+        codeobj_290aab390330fec794aee3c0034e24ed,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19650,11 +19650,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__25_extensions(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__25_extensions,
-        mod_consts[199],
+        mod_consts[198],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[200],
+        mod_consts[199],
 #endif
-        codeobj_89440a3060529ecfeb43ab8047d293f3,
+        codeobj_5fb750e5e43029ee00984ea34ba9db1a,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19675,11 +19675,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__26_single_extensions(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__26_single_extensions,
-        mod_consts[201],
+        mod_consts[200],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[202],
+        mod_consts[201],
 #endif
-        codeobj_376b604b39548fc12e7b7ec6600fdcc8,
+        codeobj_676fa3061e3836a5ae239f77f0796a47,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19700,11 +19700,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__27_public_bytes(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__27_public_bytes,
-        mod_consts[204],
+        mod_consts[203],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[205],
+        mod_consts[204],
 #endif
-        codeobj_a09c9f3aca1c2c888902eeb866bdf197,
+        codeobj_857683ad424a1224d8172f3ada247e75,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19725,11 +19725,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__28___init__() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__28___init__,
-        mod_consts[148],
+        mod_consts[147],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[208],
+        mod_consts[207],
 #endif
-        codeobj_3ec5d86ec2942f1402e62e95e956416e,
+        codeobj_c09d76c004d190344199ee81b60bbc8e,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19750,11 +19750,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__29_issuer_key_hash(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__29_issuer_key_hash,
-        mod_consts[188],
+        mod_consts[187],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[209],
+        mod_consts[208],
 #endif
-        codeobj_f132c09ddadf07ca28ea67e2d2c696cd,
+        codeobj_166e1da923f58cde9fbe607dd496c381,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19779,7 +19779,7 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_29956deb664627d5a27ded2924f5b7c4,
+        codeobj_7eef1f7e334268aaaa05e5ce548af785,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19800,11 +19800,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__30_issuer_name_hash(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__30_issuer_name_hash,
-        mod_consts[190],
+        mod_consts[189],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[210],
+        mod_consts[209],
 #endif
-        codeobj_ef9307a23bbfc2398b6d24909e08cb96,
+        codeobj_0b856d51fba83b73b7c7bb633e67c862,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19825,11 +19825,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__31_serial_number(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__31_serial_number,
-        mod_consts[195],
+        mod_consts[194],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[211],
+        mod_consts[210],
 #endif
-        codeobj_0dda85fae30a90078f30c347c28f9728,
+        codeobj_17f580e0271fe735b6a5cd14e92891ce,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19850,11 +19850,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__32_hash_algorithm(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__32_hash_algorithm,
-        mod_consts[192],
+        mod_consts[191],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[212],
+        mod_consts[211],
 #endif
-        codeobj_b26c212bd99d0ab5ccc394cf23a01f29,
+        codeobj_f447a3bbe3291609995df770c13bd7a5,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19875,11 +19875,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__33_extensions(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__33_extensions,
-        mod_consts[199],
+        mod_consts[198],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[213],
+        mod_consts[212],
 #endif
-        codeobj_57950d8605f771b1929c476cf66766a4,
+        codeobj_5b314488ecae5598211aa67bcc6ccbe8,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19900,11 +19900,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__34_public_bytes(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__34_public_bytes,
-        mod_consts[204],
+        mod_consts[203],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[214],
+        mod_consts[213],
 #endif
-        codeobj_a46dda453a437b30b8129cca1467e188,
+        codeobj_674461be89df69cb72b007aeb90537ac,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19929,7 +19929,7 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_8c21580ac96fc6707e57269fa5955f70,
+        codeobj_733aefeb0e0b8a437b8c9709343ed9d3,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19954,7 +19954,7 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_688a6da22ac15e8bf87374673d137510,
+        codeobj_9bb00e6a311f8b856c4787dc1def0b93,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19975,11 +19975,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__5___init__() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__5___init__,
-        mod_consts[148],
+        mod_consts[147],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[149],
+        mod_consts[148],
 #endif
-        codeobj_e6a406cff187e778c503eabbafc4c17f,
+        codeobj_987ca0aa0f6624354f8e0f380a00606c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20002,9 +20002,9 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__6__requires_successful_response,
         mod_consts[43],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[153],
+        mod_consts[152],
 #endif
-        codeobj_75a745df1449917ba035dfca3c1f4078,
+        codeobj_6b2af3278731726d9c7db38ad557b794,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20027,9 +20027,9 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__7_signature_algorithm_oid,
         mod_consts[48],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[156],
+        mod_consts[155],
 #endif
-        codeobj_e9680aea913457b832b928a65c287748,
+        codeobj_26aabfb0b2723e953d08aec792cd9939,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20050,11 +20050,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__8_signature_hash_algorithm(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__8_signature_hash_algorithm,
-        mod_consts[159],
+        mod_consts[158],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[160],
+        mod_consts[159],
 #endif
-        codeobj_a632f14b4264d0d23912d9a00771bf14,
+        codeobj_cb2597e4395f3eb4b675521354f80c43,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20075,11 +20075,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__9_signature(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$backends$openssl$ocsp$$$function__9_signature,
-        mod_consts[162],
+        mod_consts[161],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[163],
+        mod_consts[162],
 #endif
-        codeobj_9d86fe552211f044f065105c19bacd7a,
+        codeobj_db8bb9d1f2a493cbd55b4e5a106127ce,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20517,7 +20517,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
     PyObject *tmp_import_from_2__module = NULL;
     PyObject *tmp_import_from_3__module = NULL;
     PyObject *tmp_import_from_4__module = NULL;
-    struct Nuitka_FrameObject *frame_1aac2c3214ab2556ddd37304b4cff14b;
+    struct Nuitka_FrameObject *frame_842369e66f8ab62f83ad1ae7fd88c32f;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -20545,9 +20545,9 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
     PyObject *tmp_dictdel_key;
     PyObject *locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89 = NULL;
     PyObject *tmp_dictset_value;
-    struct Nuitka_FrameObject *frame_de22be5462f633649e8aa23f6c7e485b_2;
+    struct Nuitka_FrameObject *frame_d6ace286f606e0a966621b6eba0538b6_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_de22be5462f633649e8aa23f6c7e485b_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d6ace286f606e0a966621b6eba0538b6_2 = NULL;
     PyObject *exception_keeper_type_5;
     PyObject *exception_keeper_value_5;
     PyTracebackObject *exception_keeper_tb_5;
@@ -20561,9 +20561,9 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
     PyTracebackObject *exception_keeper_tb_7;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_7;
     PyObject *locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351 = NULL;
-    struct Nuitka_FrameObject *frame_5220ae7b5febe65175316b2f861333a9_3;
+    struct Nuitka_FrameObject *frame_cdf1479cdb9595f949b129b3056a7369_3;
     NUITKA_MAY_BE_UNUSED char const *type_description_3 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_5220ae7b5febe65175316b2f861333a9_3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_cdf1479cdb9595f949b129b3056a7369_3 = NULL;
     PyObject *exception_keeper_type_8;
     PyObject *exception_keeper_value_8;
     PyTracebackObject *exception_keeper_tb_8;
@@ -20585,30 +20585,30 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[114];
-        UPDATE_STRING_DICT0(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[115], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[114], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_1aac2c3214ab2556ddd37304b4cff14b = MAKE_MODULE_FRAME(codeobj_1aac2c3214ab2556ddd37304b4cff14b, module_cryptography$hazmat$backends$openssl$ocsp);
+    frame_842369e66f8ab62f83ad1ae7fd88c32f = MAKE_MODULE_FRAME(codeobj_842369e66f8ab62f83ad1ae7fd88c32f, module_cryptography$hazmat$backends$openssl$ocsp);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_1aac2c3214ab2556ddd37304b4cff14b);
-    assert(Py_REFCNT(frame_1aac2c3214ab2556ddd37304b4cff14b) == 2);
+    pushFrameStack(frame_842369e66f8ab62f83ad1ae7fd88c32f);
+    assert(Py_REFCNT(frame_842369e66f8ab62f83ad1ae7fd88c32f) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[114];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[116]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[115]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[116]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[115]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[117], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[116], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -20624,14 +20624,14 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[116]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[115]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[116]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[115]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[118], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[117], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -20646,7 +20646,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[119], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[118], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -20655,12 +20655,12 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[120];
+        tmp_name_name_1 = mod_consts[119];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_cryptography$hazmat$backends$openssl$ocsp;
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = Py_None;
         tmp_level_name_1 = mod_consts[10];
-        frame_1aac2c3214ab2556ddd37304b4cff14b->m_frame.f_lineno = 5;
+        frame_842369e66f8ab62f83ad1ae7fd88c32f->m_frame.f_lineno = 5;
         tmp_assign_source_4 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -20672,7 +20672,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120], tmp_assign_source_4);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[119], tmp_assign_source_4);
     }
     {
         PyObject *tmp_assign_source_5;
@@ -20681,12 +20681,12 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_locals_arg_name_2;
         PyObject *tmp_fromlist_name_2;
         PyObject *tmp_level_name_2;
-        tmp_name_name_2 = mod_consts[121];
+        tmp_name_name_2 = mod_consts[120];
         tmp_globals_arg_name_2 = (PyObject *)moduledict_cryptography$hazmat$backends$openssl$ocsp;
         tmp_locals_arg_name_2 = Py_None;
         tmp_fromlist_name_2 = Py_None;
         tmp_level_name_2 = mod_consts[10];
-        frame_1aac2c3214ab2556ddd37304b4cff14b->m_frame.f_lineno = 6;
+        frame_842369e66f8ab62f83ad1ae7fd88c32f->m_frame.f_lineno = 6;
         tmp_assign_source_5 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_assign_source_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -20698,7 +20698,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[121], tmp_assign_source_5);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120], tmp_assign_source_5);
     }
     {
         PyObject *tmp_assign_source_6;
@@ -20707,12 +20707,12 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_locals_arg_name_3;
         PyObject *tmp_fromlist_name_3;
         PyObject *tmp_level_name_3;
-        tmp_name_name_3 = mod_consts[122];
+        tmp_name_name_3 = mod_consts[121];
         tmp_globals_arg_name_3 = (PyObject *)moduledict_cryptography$hazmat$backends$openssl$ocsp;
         tmp_locals_arg_name_3 = Py_None;
-        tmp_fromlist_name_3 = mod_consts[123];
+        tmp_fromlist_name_3 = mod_consts[122];
         tmp_level_name_3 = mod_consts[10];
-        frame_1aac2c3214ab2556ddd37304b4cff14b->m_frame.f_lineno = 8;
+        frame_842369e66f8ab62f83ad1ae7fd88c32f->m_frame.f_lineno = 8;
         tmp_assign_source_6 = IMPORT_MODULE5(tmp_name_name_3, tmp_globals_arg_name_3, tmp_locals_arg_name_3, tmp_fromlist_name_3, tmp_level_name_3);
         if (tmp_assign_source_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -20737,11 +20737,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             tmp_assign_source_7 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_1,
                 (PyObject *)moduledict_cryptography$hazmat$backends$openssl$ocsp,
-                mod_consts[124],
+                mod_consts[123],
                 mod_consts[10]
             );
         } else {
-            tmp_assign_source_7 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[124]);
+            tmp_assign_source_7 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[123]);
         }
 
         if (tmp_assign_source_7 == NULL) {
@@ -20754,7 +20754,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             goto try_except_handler_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[124], tmp_assign_source_7);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[123], tmp_assign_source_7);
     }
     {
         PyObject *tmp_assign_source_8;
@@ -20819,12 +20819,12 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_locals_arg_name_4;
         PyObject *tmp_fromlist_name_4;
         PyObject *tmp_level_name_4;
-        tmp_name_name_4 = mod_consts[125];
+        tmp_name_name_4 = mod_consts[124];
         tmp_globals_arg_name_4 = (PyObject *)moduledict_cryptography$hazmat$backends$openssl$ocsp;
         tmp_locals_arg_name_4 = Py_None;
-        tmp_fromlist_name_4 = mod_consts[126];
+        tmp_fromlist_name_4 = mod_consts[125];
         tmp_level_name_4 = mod_consts[10];
-        frame_1aac2c3214ab2556ddd37304b4cff14b->m_frame.f_lineno = 9;
+        frame_842369e66f8ab62f83ad1ae7fd88c32f->m_frame.f_lineno = 9;
         tmp_import_name_from_3 = IMPORT_MODULE5(tmp_name_name_4, tmp_globals_arg_name_4, tmp_locals_arg_name_4, tmp_fromlist_name_4, tmp_level_name_4);
         if (tmp_import_name_from_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -20867,12 +20867,12 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_locals_arg_name_5;
         PyObject *tmp_fromlist_name_5;
         PyObject *tmp_level_name_5;
-        tmp_name_name_5 = mod_consts[127];
+        tmp_name_name_5 = mod_consts[126];
         tmp_globals_arg_name_5 = (PyObject *)moduledict_cryptography$hazmat$backends$openssl$ocsp;
         tmp_locals_arg_name_5 = Py_None;
-        tmp_fromlist_name_5 = mod_consts[128];
+        tmp_fromlist_name_5 = mod_consts[127];
         tmp_level_name_5 = mod_consts[10];
-        frame_1aac2c3214ab2556ddd37304b4cff14b->m_frame.f_lineno = 10;
+        frame_842369e66f8ab62f83ad1ae7fd88c32f->m_frame.f_lineno = 10;
         tmp_assign_source_10 = IMPORT_MODULE5(tmp_name_name_5, tmp_globals_arg_name_5, tmp_locals_arg_name_5, tmp_fromlist_name_5, tmp_level_name_5);
         if (tmp_assign_source_10 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21091,12 +21091,12 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_locals_arg_name_6;
         PyObject *tmp_fromlist_name_6;
         PyObject *tmp_level_name_6;
-        tmp_name_name_6 = mod_consts[129];
+        tmp_name_name_6 = mod_consts[128];
         tmp_globals_arg_name_6 = (PyObject *)moduledict_cryptography$hazmat$backends$openssl$ocsp;
         tmp_locals_arg_name_6 = Py_None;
-        tmp_fromlist_name_6 = mod_consts[130];
+        tmp_fromlist_name_6 = mod_consts[129];
         tmp_level_name_6 = mod_consts[10];
-        frame_1aac2c3214ab2556ddd37304b4cff14b->m_frame.f_lineno = 18;
+        frame_842369e66f8ab62f83ad1ae7fd88c32f->m_frame.f_lineno = 18;
         tmp_import_name_from_10 = IMPORT_MODULE5(tmp_name_name_6, tmp_globals_arg_name_6, tmp_locals_arg_name_6, tmp_fromlist_name_6, tmp_level_name_6);
         if (tmp_import_name_from_10 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21139,12 +21139,12 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_locals_arg_name_7;
         PyObject *tmp_fromlist_name_7;
         PyObject *tmp_level_name_7;
-        tmp_name_name_7 = mod_consts[131];
+        tmp_name_name_7 = mod_consts[130];
         tmp_globals_arg_name_7 = (PyObject *)moduledict_cryptography$hazmat$backends$openssl$ocsp;
         tmp_locals_arg_name_7 = Py_None;
-        tmp_fromlist_name_7 = mod_consts[132];
+        tmp_fromlist_name_7 = mod_consts[131];
         tmp_level_name_7 = mod_consts[10];
-        frame_1aac2c3214ab2556ddd37304b4cff14b->m_frame.f_lineno = 19;
+        frame_842369e66f8ab62f83ad1ae7fd88c32f->m_frame.f_lineno = 19;
         tmp_assign_source_18 = IMPORT_MODULE5(tmp_name_name_7, tmp_globals_arg_name_7, tmp_locals_arg_name_7, tmp_fromlist_name_7, tmp_level_name_7);
         if (tmp_assign_source_18 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21169,11 +21169,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             tmp_assign_source_19 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_11,
                 (PyObject *)moduledict_cryptography$hazmat$backends$openssl$ocsp,
-                mod_consts[133],
+                mod_consts[132],
                 mod_consts[10]
             );
         } else {
-            tmp_assign_source_19 = IMPORT_NAME(tmp_import_name_from_11, mod_consts[133]);
+            tmp_assign_source_19 = IMPORT_NAME(tmp_import_name_from_11, mod_consts[132]);
         }
 
         if (tmp_assign_source_19 == NULL) {
@@ -21186,7 +21186,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             goto try_except_handler_3;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[133], tmp_assign_source_19);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[132], tmp_assign_source_19);
     }
     {
         PyObject *tmp_assign_source_20;
@@ -21250,12 +21250,12 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_locals_arg_name_8;
         PyObject *tmp_fromlist_name_8;
         PyObject *tmp_level_name_8;
-        tmp_name_name_8 = mod_consts[134];
+        tmp_name_name_8 = mod_consts[133];
         tmp_globals_arg_name_8 = (PyObject *)moduledict_cryptography$hazmat$backends$openssl$ocsp;
         tmp_locals_arg_name_8 = Py_None;
-        tmp_fromlist_name_8 = mod_consts[135];
+        tmp_fromlist_name_8 = mod_consts[134];
         tmp_level_name_8 = mod_consts[10];
-        frame_1aac2c3214ab2556ddd37304b4cff14b->m_frame.f_lineno = 20;
+        frame_842369e66f8ab62f83ad1ae7fd88c32f->m_frame.f_lineno = 20;
         tmp_assign_source_21 = IMPORT_MODULE5(tmp_name_name_8, tmp_globals_arg_name_8, tmp_locals_arg_name_8, tmp_fromlist_name_8, tmp_level_name_8);
         if (tmp_assign_source_21 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21308,11 +21308,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             tmp_assign_source_23 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_14,
                 (PyObject *)moduledict_cryptography$hazmat$backends$openssl$ocsp,
-                mod_consts[136],
+                mod_consts[135],
                 mod_consts[10]
             );
         } else {
-            tmp_assign_source_23 = IMPORT_NAME(tmp_import_name_from_14, mod_consts[136]);
+            tmp_assign_source_23 = IMPORT_NAME(tmp_import_name_from_14, mod_consts[135]);
         }
 
         if (tmp_assign_source_23 == NULL) {
@@ -21325,7 +21325,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             goto try_except_handler_4;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[136], tmp_assign_source_23);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[135], tmp_assign_source_23);
     }
     {
         PyObject *tmp_assign_source_24;
@@ -21336,11 +21336,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             tmp_assign_source_24 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_15,
                 (PyObject *)moduledict_cryptography$hazmat$backends$openssl$ocsp,
-                mod_consts[137],
+                mod_consts[136],
                 mod_consts[10]
             );
         } else {
-            tmp_assign_source_24 = IMPORT_NAME(tmp_import_name_from_15, mod_consts[137]);
+            tmp_assign_source_24 = IMPORT_NAME(tmp_import_name_from_15, mod_consts[136]);
         }
 
         if (tmp_assign_source_24 == NULL) {
@@ -21353,7 +21353,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             goto try_except_handler_4;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[137], tmp_assign_source_24);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[136], tmp_assign_source_24);
     }
     {
         PyObject *tmp_assign_source_25;
@@ -21530,10 +21530,10 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
     {
         PyObject *tmp_assign_source_33;
         PyObject *tmp_tuple_element_1;
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[137]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[136]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[137]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[136]);
         }
 
         if (tmp_tuple_element_1 == NULL) {
@@ -21595,7 +21595,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_expression_name_1;
         PyObject *tmp_subscript_name_1;
         PyObject *tmp_bases_name_1;
-        tmp_key_name_1 = mod_consts[138];
+        tmp_key_name_1 = mod_consts[137];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_1 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_1, tmp_key_name_1);
@@ -21609,7 +21609,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         condexpr_true_1:;
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_2 = tmp_class_creation_1__class_decl_dict;
-        tmp_key_name_2 = mod_consts[138];
+        tmp_key_name_2 = mod_consts[137];
         tmp_metaclass_name_1 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_2, tmp_key_name_2);
         if (tmp_metaclass_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21695,7 +21695,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         nuitka_bool tmp_condition_result_3;
         PyObject *tmp_key_name_3;
         PyObject *tmp_dict_arg_name_3;
-        tmp_key_name_3 = mod_consts[138];
+        tmp_key_name_3 = mod_consts[137];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_3 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_3, tmp_key_name_3);
@@ -21710,7 +21710,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
     branch_yes_1:;
     CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_1__class_decl_dict;
-    tmp_dictdel_key = mod_consts[138];
+    tmp_dictdel_key = mod_consts[137];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -21728,7 +21728,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_expression_name_2;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_2 = tmp_class_creation_1__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_2, mod_consts[139]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_2, mod_consts[138]);
         tmp_condition_result_4 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_4 == NUITKA_BOOL_TRUE) {
             goto branch_yes_2;
@@ -21746,7 +21746,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_kwargs_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_3 = tmp_class_creation_1__metaclass;
-        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[139]);
+        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[138]);
         if (tmp_called_name_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -21757,7 +21757,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             goto try_except_handler_5;
         }
-        tmp_tuple_element_2 = mod_consts[140];
+        tmp_tuple_element_2 = mod_consts[139];
         tmp_args_name_1 = PyTuple_New(2);
         PyTuple_SET_ITEM0(tmp_args_name_1, 0, tmp_tuple_element_2);
         CHECK_OBJECT(tmp_class_creation_1__bases);
@@ -21765,7 +21765,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyTuple_SET_ITEM0(tmp_args_name_1, 1, tmp_tuple_element_2);
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_kwargs_name_1 = tmp_class_creation_1__class_decl_dict;
-        frame_1aac2c3214ab2556ddd37304b4cff14b->m_frame.f_lineno = 89;
+        frame_842369e66f8ab62f83ad1ae7fd88c32f->m_frame.f_lineno = 89;
         tmp_assign_source_37 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -21788,7 +21788,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_expression_name_4;
         CHECK_OBJECT(tmp_class_creation_1__prepared);
         tmp_expression_name_4 = tmp_class_creation_1__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_4, mod_consts[141]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_4, mod_consts[140]);
         tmp_operand_name_1 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_1);
         if (tmp_res == -1) {
@@ -21819,11 +21819,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_getattr_attr_1;
         PyObject *tmp_getattr_default_1;
         tmp_raise_type_1 = PyExc_TypeError;
-        tmp_left_name_1 = mod_consts[142];
+        tmp_left_name_1 = mod_consts[141];
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_getattr_target_1 = tmp_class_creation_1__metaclass;
-        tmp_getattr_attr_1 = mod_consts[143];
-        tmp_getattr_default_1 = mod_consts[144];
+        tmp_getattr_attr_1 = mod_consts[142];
+        tmp_getattr_default_1 = mod_consts[143];
         tmp_tuple_element_3 = BUILTIN_GETATTR(tmp_getattr_target_1, tmp_getattr_attr_1, tmp_getattr_default_1);
         if (tmp_tuple_element_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21844,7 +21844,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             tmp_type_arg_2 = tmp_class_creation_1__prepared;
             tmp_expression_name_5 = BUILTIN_TYPE1(tmp_type_arg_2);
             assert(!(tmp_expression_name_5 == NULL));
-            tmp_tuple_element_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_5, mod_consts[143]);
+            tmp_tuple_element_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_5, mod_consts[142]);
             Py_DECREF(tmp_expression_name_5);
             if (tmp_tuple_element_3 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -21906,7 +21906,19 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[145];
+        tmp_dictset_value = mod_consts[144];
+        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[145], tmp_dictset_value);
+        if (tmp_res != 0) {
+            assert(ERROR_OCCURRED());
+
+            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+            exception_lineno = 89;
+
+            goto try_except_handler_7;
+        }
+        tmp_dictset_value = mod_consts[139];
         tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[146], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -21918,50 +21930,38 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             goto try_except_handler_7;
         }
-        tmp_dictset_value = mod_consts[140];
-        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[147], tmp_dictset_value);
-        if (tmp_res != 0) {
-            assert(ERROR_OCCURRED());
-
-            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
-
-
-            exception_lineno = 89;
-
-            goto try_except_handler_7;
-        }
-        if (isFrameUnusable(cache_frame_de22be5462f633649e8aa23f6c7e485b_2)) {
-            Py_XDECREF(cache_frame_de22be5462f633649e8aa23f6c7e485b_2);
+        if (isFrameUnusable(cache_frame_d6ace286f606e0a966621b6eba0538b6_2)) {
+            Py_XDECREF(cache_frame_d6ace286f606e0a966621b6eba0538b6_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_de22be5462f633649e8aa23f6c7e485b_2 == NULL) {
+            if (cache_frame_d6ace286f606e0a966621b6eba0538b6_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_de22be5462f633649e8aa23f6c7e485b_2 = MAKE_FUNCTION_FRAME(codeobj_de22be5462f633649e8aa23f6c7e485b, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
+            cache_frame_d6ace286f606e0a966621b6eba0538b6_2 = MAKE_FUNCTION_FRAME(codeobj_d6ace286f606e0a966621b6eba0538b6, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_de22be5462f633649e8aa23f6c7e485b_2->m_type_description == NULL);
-        frame_de22be5462f633649e8aa23f6c7e485b_2 = cache_frame_de22be5462f633649e8aa23f6c7e485b_2;
+        assert(cache_frame_d6ace286f606e0a966621b6eba0538b6_2->m_type_description == NULL);
+        frame_d6ace286f606e0a966621b6eba0538b6_2 = cache_frame_d6ace286f606e0a966621b6eba0538b6_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_de22be5462f633649e8aa23f6c7e485b_2);
+        pushFrameStack(frame_d6ace286f606e0a966621b6eba0538b6_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_de22be5462f633649e8aa23f6c7e485b_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_d6ace286f606e0a966621b6eba0538b6_2) == 2); // Frame stack
 
         // Framed code:
 
 
         tmp_dictset_value = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__5___init__();
 
-        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[148], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[147], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -21975,14 +21975,14 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         }
         {
             PyObject *tmp_called_instance_1;
-            tmp_called_instance_1 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[124]);
+            tmp_called_instance_1 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[123]);
 
             if (tmp_called_instance_1 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_instance_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[124]);
+                    tmp_called_instance_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[123]);
 
                     if (unlikely(tmp_called_instance_1 == NULL)) {
-                        tmp_called_instance_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[124]);
+                        tmp_called_instance_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[123]);
                     }
 
                     if (tmp_called_instance_1 == NULL) {
@@ -21999,11 +21999,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 122;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 122;
             tmp_dictset_value = CALL_METHOD_WITH_ARGS1(
                 tmp_called_instance_1,
-                mod_consts[150],
-                &PyTuple_GET_ITEM(mod_consts[151], 0)
+                mod_consts[149],
+                &PyTuple_GET_ITEM(mod_consts[150], 0)
             );
 
             Py_DECREF(tmp_called_instance_1);
@@ -22032,7 +22032,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         }
         {
             PyObject *tmp_annotations_1;
-            tmp_annotations_1 = PyDict_Copy(mod_consts[152]);
+            tmp_annotations_1 = PyDict_Copy(mod_consts[151]);
 
 
             tmp_dictset_value = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__6__requires_successful_response(tmp_annotations_1);
@@ -22064,7 +22064,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_dict_key_2;
             PyObject *tmp_dict_value_2;
             PyObject *tmp_expression_name_7;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -22083,11 +22083,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_3;
             }
             condexpr_true_3:;
-            tmp_called_name_2 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_2 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_2 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -22106,7 +22106,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_1 = mod_consts[155];
+            tmp_dict_key_1 = mod_consts[154];
             tmp_expression_name_6 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[46]);
 
             if (tmp_expression_name_6 == NULL) {
@@ -22151,7 +22151,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_1 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__7_signature_algorithm_oid(tmp_annotations_2);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 131;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 131;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_1);
             Py_DECREF(tmp_called_name_2);
             Py_DECREF(tmp_args_element_name_1);
@@ -22168,7 +22168,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_3;
             condexpr_false_3:;
             tmp_called_name_3 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_2 = mod_consts[155];
+            tmp_dict_key_2 = mod_consts[154];
             tmp_expression_name_7 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[46]);
 
             if (tmp_expression_name_7 == NULL) {
@@ -22213,7 +22213,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_2 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__7_signature_algorithm_oid(tmp_annotations_3);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 131;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 131;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_2);
             Py_DECREF(tmp_args_element_name_2);
             if (tmp_dictset_value == NULL) {
@@ -22260,7 +22260,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_expression_name_12;
             PyObject *tmp_subscript_name_3;
             PyObject *tmp_expression_name_13;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -22279,11 +22279,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_4;
             }
             condexpr_true_4:;
-            tmp_called_name_4 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_4 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_4 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -22302,15 +22302,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_3 = mod_consts[155];
-            tmp_expression_name_9 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[121]);
+            tmp_dict_key_3 = mod_consts[154];
+            tmp_expression_name_9 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
 
             if (tmp_expression_name_9 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_9 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[121]);
+                    tmp_expression_name_9 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
 
                     if (unlikely(tmp_expression_name_9 == NULL)) {
-                        tmp_expression_name_9 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
+                        tmp_expression_name_9 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
                     }
 
                     if (tmp_expression_name_9 == NULL) {
@@ -22327,7 +22327,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_expression_name_8 = LOOKUP_ATTRIBUTE(tmp_expression_name_9, mod_consts[157]);
+            tmp_expression_name_8 = LOOKUP_ATTRIBUTE(tmp_expression_name_9, mod_consts[156]);
             Py_DECREF(tmp_expression_name_9);
             if (tmp_expression_name_8 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -22339,14 +22339,14 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_expression_name_10 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[133]);
+            tmp_expression_name_10 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[132]);
 
             if (tmp_expression_name_10 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_10 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[133]);
+                    tmp_expression_name_10 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[132]);
 
                     if (unlikely(tmp_expression_name_10 == NULL)) {
-                        tmp_expression_name_10 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[133]);
+                        tmp_expression_name_10 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[132]);
                     }
 
                     if (tmp_expression_name_10 == NULL) {
@@ -22364,7 +22364,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_subscript_name_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_10, mod_consts[158]);
+            tmp_subscript_name_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_10, mod_consts[157]);
             Py_DECREF(tmp_expression_name_10);
             if (tmp_subscript_name_2 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -22398,7 +22398,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_3 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__8_signature_hash_algorithm(tmp_annotations_4);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 139;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 139;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_3);
             Py_DECREF(tmp_called_name_4);
             Py_DECREF(tmp_args_element_name_3);
@@ -22415,15 +22415,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_4;
             condexpr_false_4:;
             tmp_called_name_5 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_4 = mod_consts[155];
-            tmp_expression_name_12 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[121]);
+            tmp_dict_key_4 = mod_consts[154];
+            tmp_expression_name_12 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
 
             if (tmp_expression_name_12 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_12 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[121]);
+                    tmp_expression_name_12 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
 
                     if (unlikely(tmp_expression_name_12 == NULL)) {
-                        tmp_expression_name_12 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
+                        tmp_expression_name_12 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
                     }
 
                     if (tmp_expression_name_12 == NULL) {
@@ -22440,7 +22440,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_expression_name_11 = LOOKUP_ATTRIBUTE(tmp_expression_name_12, mod_consts[157]);
+            tmp_expression_name_11 = LOOKUP_ATTRIBUTE(tmp_expression_name_12, mod_consts[156]);
             Py_DECREF(tmp_expression_name_12);
             if (tmp_expression_name_11 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -22452,14 +22452,14 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_expression_name_13 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[133]);
+            tmp_expression_name_13 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[132]);
 
             if (tmp_expression_name_13 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_13 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[133]);
+                    tmp_expression_name_13 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[132]);
 
                     if (unlikely(tmp_expression_name_13 == NULL)) {
-                        tmp_expression_name_13 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[133]);
+                        tmp_expression_name_13 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[132]);
                     }
 
                     if (tmp_expression_name_13 == NULL) {
@@ -22476,7 +22476,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_subscript_name_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_13, mod_consts[158]);
+            tmp_subscript_name_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_13, mod_consts[157]);
             Py_DECREF(tmp_expression_name_13);
             if (tmp_subscript_name_3 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -22509,7 +22509,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_4 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__8_signature_hash_algorithm(tmp_annotations_5);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 139;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 139;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_4);
             Py_DECREF(tmp_args_element_name_4);
             if (tmp_dictset_value == NULL) {
@@ -22523,7 +22523,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_2;
             }
             condexpr_end_4:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[159], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[158], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -22548,7 +22548,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_annotations_7;
             PyObject *tmp_dict_key_6;
             PyObject *tmp_dict_value_6;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -22567,11 +22567,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_5;
             }
             condexpr_true_5:;
-            tmp_called_name_6 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_6 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_6 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -22590,8 +22590,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_5 = mod_consts[155];
-            tmp_dict_value_5 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[161]);
+            tmp_dict_key_5 = mod_consts[154];
+            tmp_dict_value_5 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[160]);
 
             if (tmp_dict_value_5 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -22608,7 +22608,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_5 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__9_signature(tmp_annotations_6);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 152;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 152;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_5);
             Py_DECREF(tmp_called_name_6);
             Py_DECREF(tmp_args_element_name_5);
@@ -22625,8 +22625,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_5;
             condexpr_false_5:;
             tmp_called_name_7 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_6 = mod_consts[155];
-            tmp_dict_value_6 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[161]);
+            tmp_dict_key_6 = mod_consts[154];
+            tmp_dict_value_6 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[160]);
 
             if (tmp_dict_value_6 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -22643,7 +22643,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_6 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__9_signature(tmp_annotations_7);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 152;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 152;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_7, tmp_args_element_name_6);
             Py_DECREF(tmp_args_element_name_6);
             if (tmp_dictset_value == NULL) {
@@ -22657,7 +22657,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_2;
             }
             condexpr_end_5:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[162], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[161], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -22682,7 +22682,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_annotations_9;
             PyObject *tmp_dict_key_8;
             PyObject *tmp_dict_value_8;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -22701,11 +22701,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_6;
             }
             condexpr_true_6:;
-            tmp_called_name_8 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_8 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_8 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -22724,8 +22724,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_7 = mod_consts[155];
-            tmp_dict_value_7 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[161]);
+            tmp_dict_key_7 = mod_consts[154];
+            tmp_dict_value_7 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[160]);
 
             if (tmp_dict_value_7 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -22742,7 +22742,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_7 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__10_tbs_response_bytes(tmp_annotations_8);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 159;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 159;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_8, tmp_args_element_name_7);
             Py_DECREF(tmp_called_name_8);
             Py_DECREF(tmp_args_element_name_7);
@@ -22759,8 +22759,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_6;
             condexpr_false_6:;
             tmp_called_name_9 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_8 = mod_consts[155];
-            tmp_dict_value_8 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[161]);
+            tmp_dict_key_8 = mod_consts[154];
+            tmp_dict_value_8 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[160]);
 
             if (tmp_dict_value_8 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -22777,7 +22777,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_8 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__10_tbs_response_bytes(tmp_annotations_9);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 159;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 159;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_9, tmp_args_element_name_8);
             Py_DECREF(tmp_args_element_name_8);
             if (tmp_dictset_value == NULL) {
@@ -22791,7 +22791,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_2;
             }
             condexpr_end_6:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[164], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[163], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -22824,7 +22824,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_expression_name_18;
             PyObject *tmp_subscript_name_5;
             PyObject *tmp_expression_name_19;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -22843,11 +22843,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_7;
             }
             condexpr_true_7:;
-            tmp_called_name_10 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_10 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_10 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -22866,15 +22866,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_9 = mod_consts[155];
-            tmp_expression_name_15 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[121]);
+            tmp_dict_key_9 = mod_consts[154];
+            tmp_expression_name_15 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
 
             if (tmp_expression_name_15 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_15 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[121]);
+                    tmp_expression_name_15 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
 
                     if (unlikely(tmp_expression_name_15 == NULL)) {
-                        tmp_expression_name_15 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
+                        tmp_expression_name_15 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
                     }
 
                     if (tmp_expression_name_15 == NULL) {
@@ -22891,7 +22891,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_expression_name_14 = LOOKUP_ATTRIBUTE(tmp_expression_name_15, mod_consts[166]);
+            tmp_expression_name_14 = LOOKUP_ATTRIBUTE(tmp_expression_name_15, mod_consts[165]);
             Py_DECREF(tmp_expression_name_15);
             if (tmp_expression_name_14 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -22928,7 +22928,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_subscript_name_4 = LOOKUP_ATTRIBUTE(tmp_expression_name_16, mod_consts[167]);
+            tmp_subscript_name_4 = LOOKUP_ATTRIBUTE(tmp_expression_name_16, mod_consts[166]);
             Py_DECREF(tmp_expression_name_16);
             if (tmp_subscript_name_4 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -22962,7 +22962,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_9 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__11_certificates(tmp_annotations_10);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 173;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 173;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_10, tmp_args_element_name_9);
             Py_DECREF(tmp_called_name_10);
             Py_DECREF(tmp_args_element_name_9);
@@ -22979,15 +22979,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_7;
             condexpr_false_7:;
             tmp_called_name_11 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_10 = mod_consts[155];
-            tmp_expression_name_18 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[121]);
+            tmp_dict_key_10 = mod_consts[154];
+            tmp_expression_name_18 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
 
             if (tmp_expression_name_18 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_18 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[121]);
+                    tmp_expression_name_18 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
 
                     if (unlikely(tmp_expression_name_18 == NULL)) {
-                        tmp_expression_name_18 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
+                        tmp_expression_name_18 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
                     }
 
                     if (tmp_expression_name_18 == NULL) {
@@ -23004,7 +23004,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_expression_name_17 = LOOKUP_ATTRIBUTE(tmp_expression_name_18, mod_consts[166]);
+            tmp_expression_name_17 = LOOKUP_ATTRIBUTE(tmp_expression_name_18, mod_consts[165]);
             Py_DECREF(tmp_expression_name_18);
             if (tmp_expression_name_17 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -23040,7 +23040,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_subscript_name_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_19, mod_consts[167]);
+            tmp_subscript_name_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_19, mod_consts[166]);
             Py_DECREF(tmp_expression_name_19);
             if (tmp_subscript_name_5 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -23073,7 +23073,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_10 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__11_certificates(tmp_annotations_11);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 173;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 173;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_11, tmp_args_element_name_10);
             Py_DECREF(tmp_args_element_name_10);
             if (tmp_dictset_value == NULL) {
@@ -23087,7 +23087,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_2;
             }
             condexpr_end_7:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[168], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[167], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -23118,7 +23118,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_expression_name_22;
             PyObject *tmp_expression_name_23;
             PyObject *tmp_subscript_name_7;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -23137,11 +23137,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_8;
             }
             condexpr_true_8:;
-            tmp_called_name_12 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_12 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_12 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -23160,15 +23160,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_11 = mod_consts[155];
-            tmp_expression_name_21 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[121]);
+            tmp_dict_key_11 = mod_consts[154];
+            tmp_expression_name_21 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
 
             if (tmp_expression_name_21 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_21 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[121]);
+                    tmp_expression_name_21 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
 
                     if (unlikely(tmp_expression_name_21 == NULL)) {
-                        tmp_expression_name_21 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
+                        tmp_expression_name_21 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
                     }
 
                     if (tmp_expression_name_21 == NULL) {
@@ -23185,7 +23185,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_expression_name_20 = LOOKUP_ATTRIBUTE(tmp_expression_name_21, mod_consts[157]);
+            tmp_expression_name_20 = LOOKUP_ATTRIBUTE(tmp_expression_name_21, mod_consts[156]);
             Py_DECREF(tmp_expression_name_21);
             if (tmp_expression_name_20 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -23197,7 +23197,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_subscript_name_6 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[161]);
+            tmp_subscript_name_6 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[160]);
 
             if (tmp_subscript_name_6 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -23227,7 +23227,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_11 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__12_responder_key_hash(tmp_annotations_12);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 191;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 191;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_12, tmp_args_element_name_11);
             Py_DECREF(tmp_called_name_12);
             Py_DECREF(tmp_args_element_name_11);
@@ -23244,15 +23244,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_8;
             condexpr_false_8:;
             tmp_called_name_13 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_12 = mod_consts[155];
-            tmp_expression_name_23 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[121]);
+            tmp_dict_key_12 = mod_consts[154];
+            tmp_expression_name_23 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
 
             if (tmp_expression_name_23 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_23 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[121]);
+                    tmp_expression_name_23 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
 
                     if (unlikely(tmp_expression_name_23 == NULL)) {
-                        tmp_expression_name_23 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
+                        tmp_expression_name_23 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
                     }
 
                     if (tmp_expression_name_23 == NULL) {
@@ -23269,7 +23269,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_expression_name_22 = LOOKUP_ATTRIBUTE(tmp_expression_name_23, mod_consts[157]);
+            tmp_expression_name_22 = LOOKUP_ATTRIBUTE(tmp_expression_name_23, mod_consts[156]);
             Py_DECREF(tmp_expression_name_23);
             if (tmp_expression_name_22 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -23281,7 +23281,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_subscript_name_7 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[161]);
+            tmp_subscript_name_7 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[160]);
 
             if (tmp_subscript_name_7 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -23311,7 +23311,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_12 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__12_responder_key_hash(tmp_annotations_13);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 191;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 191;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_13, tmp_args_element_name_12);
             Py_DECREF(tmp_args_element_name_12);
             if (tmp_dictset_value == NULL) {
@@ -23325,7 +23325,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_2;
             }
             condexpr_end_8:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[170], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[169], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -23358,7 +23358,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_expression_name_28;
             PyObject *tmp_subscript_name_9;
             PyObject *tmp_expression_name_29;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -23377,11 +23377,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_9;
             }
             condexpr_true_9:;
-            tmp_called_name_14 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_14 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_14 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -23400,15 +23400,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_13 = mod_consts[155];
-            tmp_expression_name_25 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[121]);
+            tmp_dict_key_13 = mod_consts[154];
+            tmp_expression_name_25 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
 
             if (tmp_expression_name_25 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_25 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[121]);
+                    tmp_expression_name_25 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
 
                     if (unlikely(tmp_expression_name_25 == NULL)) {
-                        tmp_expression_name_25 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
+                        tmp_expression_name_25 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
                     }
 
                     if (tmp_expression_name_25 == NULL) {
@@ -23425,7 +23425,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_expression_name_24 = LOOKUP_ATTRIBUTE(tmp_expression_name_25, mod_consts[157]);
+            tmp_expression_name_24 = LOOKUP_ATTRIBUTE(tmp_expression_name_25, mod_consts[156]);
             Py_DECREF(tmp_expression_name_25);
             if (tmp_expression_name_24 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -23462,7 +23462,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_subscript_name_8 = LOOKUP_ATTRIBUTE(tmp_expression_name_26, mod_consts[172]);
+            tmp_subscript_name_8 = LOOKUP_ATTRIBUTE(tmp_expression_name_26, mod_consts[171]);
             Py_DECREF(tmp_expression_name_26);
             if (tmp_subscript_name_8 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -23496,7 +23496,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_13 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__13_responder_name(tmp_annotations_14);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 200;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 200;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_14, tmp_args_element_name_13);
             Py_DECREF(tmp_called_name_14);
             Py_DECREF(tmp_args_element_name_13);
@@ -23513,15 +23513,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_9;
             condexpr_false_9:;
             tmp_called_name_15 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_14 = mod_consts[155];
-            tmp_expression_name_28 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[121]);
+            tmp_dict_key_14 = mod_consts[154];
+            tmp_expression_name_28 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
 
             if (tmp_expression_name_28 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_28 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[121]);
+                    tmp_expression_name_28 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
 
                     if (unlikely(tmp_expression_name_28 == NULL)) {
-                        tmp_expression_name_28 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
+                        tmp_expression_name_28 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
                     }
 
                     if (tmp_expression_name_28 == NULL) {
@@ -23538,7 +23538,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_expression_name_27 = LOOKUP_ATTRIBUTE(tmp_expression_name_28, mod_consts[157]);
+            tmp_expression_name_27 = LOOKUP_ATTRIBUTE(tmp_expression_name_28, mod_consts[156]);
             Py_DECREF(tmp_expression_name_28);
             if (tmp_expression_name_27 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -23574,7 +23574,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_subscript_name_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_29, mod_consts[172]);
+            tmp_subscript_name_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_29, mod_consts[171]);
             Py_DECREF(tmp_expression_name_29);
             if (tmp_subscript_name_9 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -23607,7 +23607,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_14 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__13_responder_name(tmp_annotations_15);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 200;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 200;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_15, tmp_args_element_name_14);
             Py_DECREF(tmp_args_element_name_14);
             if (tmp_dictset_value == NULL) {
@@ -23621,7 +23621,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_2;
             }
             condexpr_end_9:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[173], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[172], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -23664,7 +23664,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_dict_key_16;
             PyObject *tmp_dict_value_16;
             PyObject *tmp_expression_name_31;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -23683,11 +23683,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_10;
             }
             condexpr_true_10:;
-            tmp_called_name_16 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_16 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_16 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -23706,15 +23706,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_15 = mod_consts[155];
-            tmp_expression_name_30 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
+            tmp_dict_key_15 = mod_consts[154];
+            tmp_expression_name_30 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[119]);
 
             if (tmp_expression_name_30 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_30 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
+                    tmp_expression_name_30 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[119]);
 
                     if (unlikely(tmp_expression_name_30 == NULL)) {
-                        tmp_expression_name_30 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
+                        tmp_expression_name_30 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[119]);
                     }
 
                     if (tmp_expression_name_30 == NULL) {
@@ -23731,7 +23731,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_dict_value_15 = LOOKUP_ATTRIBUTE(tmp_expression_name_30, mod_consts[120]);
+            tmp_dict_value_15 = LOOKUP_ATTRIBUTE(tmp_expression_name_30, mod_consts[119]);
             Py_DECREF(tmp_expression_name_30);
             if (tmp_dict_value_15 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -23751,7 +23751,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_15 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__15_produced_at(tmp_annotations_16);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 218;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 218;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_16, tmp_args_element_name_15);
             Py_DECREF(tmp_called_name_16);
             Py_DECREF(tmp_args_element_name_15);
@@ -23768,15 +23768,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_10;
             condexpr_false_10:;
             tmp_called_name_17 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_16 = mod_consts[155];
-            tmp_expression_name_31 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
+            tmp_dict_key_16 = mod_consts[154];
+            tmp_expression_name_31 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[119]);
 
             if (tmp_expression_name_31 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_31 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
+                    tmp_expression_name_31 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[119]);
 
                     if (unlikely(tmp_expression_name_31 == NULL)) {
-                        tmp_expression_name_31 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
+                        tmp_expression_name_31 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[119]);
                     }
 
                     if (tmp_expression_name_31 == NULL) {
@@ -23793,7 +23793,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_dict_value_16 = LOOKUP_ATTRIBUTE(tmp_expression_name_31, mod_consts[120]);
+            tmp_dict_value_16 = LOOKUP_ATTRIBUTE(tmp_expression_name_31, mod_consts[119]);
             Py_DECREF(tmp_expression_name_31);
             if (tmp_dict_value_16 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -23813,7 +23813,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_16 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__15_produced_at(tmp_annotations_17);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 218;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 218;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_17, tmp_args_element_name_16);
             Py_DECREF(tmp_args_element_name_16);
             if (tmp_dictset_value == NULL) {
@@ -23827,7 +23827,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_2;
             }
             condexpr_end_10:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[176], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[175], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -23852,7 +23852,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_annotations_19;
             PyObject *tmp_dict_key_18;
             PyObject *tmp_dict_value_18;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -23871,11 +23871,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_11;
             }
             condexpr_true_11:;
-            tmp_called_name_18 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_18 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_18 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -23894,7 +23894,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_17 = mod_consts[155];
+            tmp_dict_key_17 = mod_consts[154];
             tmp_dict_value_17 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[81]);
 
             if (tmp_dict_value_17 == NULL) {
@@ -23927,7 +23927,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_17 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__16_certificate_status(tmp_annotations_18);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 226;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 226;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_18, tmp_args_element_name_17);
             Py_DECREF(tmp_called_name_18);
             Py_DECREF(tmp_args_element_name_17);
@@ -23944,7 +23944,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_11;
             condexpr_false_11:;
             tmp_called_name_19 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_18 = mod_consts[155];
+            tmp_dict_key_18 = mod_consts[154];
             tmp_dict_value_18 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[81]);
 
             if (tmp_dict_value_18 == NULL) {
@@ -23977,7 +23977,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_18 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__16_certificate_status(tmp_annotations_19);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 226;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 226;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_19, tmp_args_element_name_18);
             Py_DECREF(tmp_args_element_name_18);
             if (tmp_dictset_value == NULL) {
@@ -24024,7 +24024,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_expression_name_36;
             PyObject *tmp_subscript_name_11;
             PyObject *tmp_expression_name_37;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -24043,11 +24043,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_12;
             }
             condexpr_true_12:;
-            tmp_called_name_20 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_20 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_20 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -24066,15 +24066,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_19 = mod_consts[155];
-            tmp_expression_name_33 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[121]);
+            tmp_dict_key_19 = mod_consts[154];
+            tmp_expression_name_33 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
 
             if (tmp_expression_name_33 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_33 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[121]);
+                    tmp_expression_name_33 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
 
                     if (unlikely(tmp_expression_name_33 == NULL)) {
-                        tmp_expression_name_33 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
+                        tmp_expression_name_33 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
                     }
 
                     if (tmp_expression_name_33 == NULL) {
@@ -24091,7 +24091,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_expression_name_32 = LOOKUP_ATTRIBUTE(tmp_expression_name_33, mod_consts[157]);
+            tmp_expression_name_32 = LOOKUP_ATTRIBUTE(tmp_expression_name_33, mod_consts[156]);
             Py_DECREF(tmp_expression_name_33);
             if (tmp_expression_name_32 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -24103,14 +24103,14 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_expression_name_34 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
+            tmp_expression_name_34 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[119]);
 
             if (tmp_expression_name_34 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_34 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
+                    tmp_expression_name_34 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[119]);
 
                     if (unlikely(tmp_expression_name_34 == NULL)) {
-                        tmp_expression_name_34 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
+                        tmp_expression_name_34 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[119]);
                     }
 
                     if (tmp_expression_name_34 == NULL) {
@@ -24128,7 +24128,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_subscript_name_10 = LOOKUP_ATTRIBUTE(tmp_expression_name_34, mod_consts[120]);
+            tmp_subscript_name_10 = LOOKUP_ATTRIBUTE(tmp_expression_name_34, mod_consts[119]);
             Py_DECREF(tmp_expression_name_34);
             if (tmp_subscript_name_10 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -24162,7 +24162,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_19 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__17_revocation_time(tmp_annotations_20);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 239;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 239;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_20, tmp_args_element_name_19);
             Py_DECREF(tmp_called_name_20);
             Py_DECREF(tmp_args_element_name_19);
@@ -24179,15 +24179,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_12;
             condexpr_false_12:;
             tmp_called_name_21 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_20 = mod_consts[155];
-            tmp_expression_name_36 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[121]);
+            tmp_dict_key_20 = mod_consts[154];
+            tmp_expression_name_36 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
 
             if (tmp_expression_name_36 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_36 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[121]);
+                    tmp_expression_name_36 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
 
                     if (unlikely(tmp_expression_name_36 == NULL)) {
-                        tmp_expression_name_36 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
+                        tmp_expression_name_36 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
                     }
 
                     if (tmp_expression_name_36 == NULL) {
@@ -24204,7 +24204,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_expression_name_35 = LOOKUP_ATTRIBUTE(tmp_expression_name_36, mod_consts[157]);
+            tmp_expression_name_35 = LOOKUP_ATTRIBUTE(tmp_expression_name_36, mod_consts[156]);
             Py_DECREF(tmp_expression_name_36);
             if (tmp_expression_name_35 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -24216,14 +24216,14 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_expression_name_37 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
+            tmp_expression_name_37 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[119]);
 
             if (tmp_expression_name_37 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_37 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
+                    tmp_expression_name_37 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[119]);
 
                     if (unlikely(tmp_expression_name_37 == NULL)) {
-                        tmp_expression_name_37 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
+                        tmp_expression_name_37 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[119]);
                     }
 
                     if (tmp_expression_name_37 == NULL) {
@@ -24240,7 +24240,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_subscript_name_11 = LOOKUP_ATTRIBUTE(tmp_expression_name_37, mod_consts[120]);
+            tmp_subscript_name_11 = LOOKUP_ATTRIBUTE(tmp_expression_name_37, mod_consts[119]);
             Py_DECREF(tmp_expression_name_37);
             if (tmp_subscript_name_11 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -24273,7 +24273,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_20 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__17_revocation_time(tmp_annotations_21);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 239;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 239;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_21, tmp_args_element_name_20);
             Py_DECREF(tmp_args_element_name_20);
             if (tmp_dictset_value == NULL) {
@@ -24287,7 +24287,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_2;
             }
             condexpr_end_12:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[179], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[178], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -24320,7 +24320,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_expression_name_42;
             PyObject *tmp_subscript_name_13;
             PyObject *tmp_expression_name_43;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -24339,11 +24339,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_13;
             }
             condexpr_true_13:;
-            tmp_called_name_22 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_22 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_22 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -24362,15 +24362,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_21 = mod_consts[155];
-            tmp_expression_name_39 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[121]);
+            tmp_dict_key_21 = mod_consts[154];
+            tmp_expression_name_39 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
 
             if (tmp_expression_name_39 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_39 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[121]);
+                    tmp_expression_name_39 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
 
                     if (unlikely(tmp_expression_name_39 == NULL)) {
-                        tmp_expression_name_39 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
+                        tmp_expression_name_39 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
                     }
 
                     if (tmp_expression_name_39 == NULL) {
@@ -24387,7 +24387,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_expression_name_38 = LOOKUP_ATTRIBUTE(tmp_expression_name_39, mod_consts[157]);
+            tmp_expression_name_38 = LOOKUP_ATTRIBUTE(tmp_expression_name_39, mod_consts[156]);
             Py_DECREF(tmp_expression_name_39);
             if (tmp_expression_name_38 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -24424,7 +24424,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_subscript_name_12 = LOOKUP_ATTRIBUTE(tmp_expression_name_40, mod_consts[181]);
+            tmp_subscript_name_12 = LOOKUP_ATTRIBUTE(tmp_expression_name_40, mod_consts[180]);
             Py_DECREF(tmp_expression_name_40);
             if (tmp_subscript_name_12 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -24458,7 +24458,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_21 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__18_revocation_reason(tmp_annotations_22);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 256;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 256;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_22, tmp_args_element_name_21);
             Py_DECREF(tmp_called_name_22);
             Py_DECREF(tmp_args_element_name_21);
@@ -24475,15 +24475,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_13;
             condexpr_false_13:;
             tmp_called_name_23 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_22 = mod_consts[155];
-            tmp_expression_name_42 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[121]);
+            tmp_dict_key_22 = mod_consts[154];
+            tmp_expression_name_42 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
 
             if (tmp_expression_name_42 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_42 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[121]);
+                    tmp_expression_name_42 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
 
                     if (unlikely(tmp_expression_name_42 == NULL)) {
-                        tmp_expression_name_42 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
+                        tmp_expression_name_42 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
                     }
 
                     if (tmp_expression_name_42 == NULL) {
@@ -24500,7 +24500,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_expression_name_41 = LOOKUP_ATTRIBUTE(tmp_expression_name_42, mod_consts[157]);
+            tmp_expression_name_41 = LOOKUP_ATTRIBUTE(tmp_expression_name_42, mod_consts[156]);
             Py_DECREF(tmp_expression_name_42);
             if (tmp_expression_name_41 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -24536,7 +24536,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_subscript_name_13 = LOOKUP_ATTRIBUTE(tmp_expression_name_43, mod_consts[181]);
+            tmp_subscript_name_13 = LOOKUP_ATTRIBUTE(tmp_expression_name_43, mod_consts[180]);
             Py_DECREF(tmp_expression_name_43);
             if (tmp_subscript_name_13 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -24569,7 +24569,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_22 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__18_revocation_reason(tmp_annotations_23);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 256;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 256;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_23, tmp_args_element_name_22);
             Py_DECREF(tmp_args_element_name_22);
             if (tmp_dictset_value == NULL) {
@@ -24583,7 +24583,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_2;
             }
             condexpr_end_13:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[182], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[181], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -24610,7 +24610,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_dict_key_24;
             PyObject *tmp_dict_value_24;
             PyObject *tmp_expression_name_45;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -24629,11 +24629,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_14;
             }
             condexpr_true_14:;
-            tmp_called_name_24 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_24 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_24 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -24652,15 +24652,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_23 = mod_consts[155];
-            tmp_expression_name_44 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
+            tmp_dict_key_23 = mod_consts[154];
+            tmp_expression_name_44 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[119]);
 
             if (tmp_expression_name_44 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_44 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
+                    tmp_expression_name_44 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[119]);
 
                     if (unlikely(tmp_expression_name_44 == NULL)) {
-                        tmp_expression_name_44 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
+                        tmp_expression_name_44 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[119]);
                     }
 
                     if (tmp_expression_name_44 == NULL) {
@@ -24677,7 +24677,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_dict_value_23 = LOOKUP_ATTRIBUTE(tmp_expression_name_44, mod_consts[120]);
+            tmp_dict_value_23 = LOOKUP_ATTRIBUTE(tmp_expression_name_44, mod_consts[119]);
             Py_DECREF(tmp_expression_name_44);
             if (tmp_dict_value_23 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -24697,7 +24697,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_23 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__19_this_update(tmp_annotations_24);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 279;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 279;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_24, tmp_args_element_name_23);
             Py_DECREF(tmp_called_name_24);
             Py_DECREF(tmp_args_element_name_23);
@@ -24714,15 +24714,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_14;
             condexpr_false_14:;
             tmp_called_name_25 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_24 = mod_consts[155];
-            tmp_expression_name_45 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
+            tmp_dict_key_24 = mod_consts[154];
+            tmp_expression_name_45 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[119]);
 
             if (tmp_expression_name_45 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_45 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
+                    tmp_expression_name_45 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[119]);
 
                     if (unlikely(tmp_expression_name_45 == NULL)) {
-                        tmp_expression_name_45 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
+                        tmp_expression_name_45 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[119]);
                     }
 
                     if (tmp_expression_name_45 == NULL) {
@@ -24739,7 +24739,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_dict_value_24 = LOOKUP_ATTRIBUTE(tmp_expression_name_45, mod_consts[120]);
+            tmp_dict_value_24 = LOOKUP_ATTRIBUTE(tmp_expression_name_45, mod_consts[119]);
             Py_DECREF(tmp_expression_name_45);
             if (tmp_dict_value_24 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -24759,7 +24759,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_24 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__19_this_update(tmp_annotations_25);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 279;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 279;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_25, tmp_args_element_name_24);
             Py_DECREF(tmp_args_element_name_24);
             if (tmp_dictset_value == NULL) {
@@ -24773,7 +24773,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_2;
             }
             condexpr_end_14:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[184], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[183], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -24806,7 +24806,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_expression_name_50;
             PyObject *tmp_subscript_name_15;
             PyObject *tmp_expression_name_51;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -24825,11 +24825,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_15;
             }
             condexpr_true_15:;
-            tmp_called_name_26 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_26 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_26 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -24848,15 +24848,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_25 = mod_consts[155];
-            tmp_expression_name_47 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[121]);
+            tmp_dict_key_25 = mod_consts[154];
+            tmp_expression_name_47 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
 
             if (tmp_expression_name_47 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_47 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[121]);
+                    tmp_expression_name_47 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
 
                     if (unlikely(tmp_expression_name_47 == NULL)) {
-                        tmp_expression_name_47 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
+                        tmp_expression_name_47 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
                     }
 
                     if (tmp_expression_name_47 == NULL) {
@@ -24873,7 +24873,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_expression_name_46 = LOOKUP_ATTRIBUTE(tmp_expression_name_47, mod_consts[157]);
+            tmp_expression_name_46 = LOOKUP_ATTRIBUTE(tmp_expression_name_47, mod_consts[156]);
             Py_DECREF(tmp_expression_name_47);
             if (tmp_expression_name_46 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -24885,14 +24885,14 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_expression_name_48 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
+            tmp_expression_name_48 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[119]);
 
             if (tmp_expression_name_48 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_48 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
+                    tmp_expression_name_48 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[119]);
 
                     if (unlikely(tmp_expression_name_48 == NULL)) {
-                        tmp_expression_name_48 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
+                        tmp_expression_name_48 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[119]);
                     }
 
                     if (tmp_expression_name_48 == NULL) {
@@ -24910,7 +24910,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_subscript_name_14 = LOOKUP_ATTRIBUTE(tmp_expression_name_48, mod_consts[120]);
+            tmp_subscript_name_14 = LOOKUP_ATTRIBUTE(tmp_expression_name_48, mod_consts[119]);
             Py_DECREF(tmp_expression_name_48);
             if (tmp_subscript_name_14 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -24944,7 +24944,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_25 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__20_next_update(tmp_annotations_26);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 293;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 293;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_26, tmp_args_element_name_25);
             Py_DECREF(tmp_called_name_26);
             Py_DECREF(tmp_args_element_name_25);
@@ -24961,15 +24961,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_15;
             condexpr_false_15:;
             tmp_called_name_27 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_26 = mod_consts[155];
-            tmp_expression_name_50 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[121]);
+            tmp_dict_key_26 = mod_consts[154];
+            tmp_expression_name_50 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
 
             if (tmp_expression_name_50 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_50 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[121]);
+                    tmp_expression_name_50 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
 
                     if (unlikely(tmp_expression_name_50 == NULL)) {
-                        tmp_expression_name_50 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
+                        tmp_expression_name_50 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
                     }
 
                     if (tmp_expression_name_50 == NULL) {
@@ -24986,7 +24986,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_expression_name_49 = LOOKUP_ATTRIBUTE(tmp_expression_name_50, mod_consts[157]);
+            tmp_expression_name_49 = LOOKUP_ATTRIBUTE(tmp_expression_name_50, mod_consts[156]);
             Py_DECREF(tmp_expression_name_50);
             if (tmp_expression_name_49 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -24998,14 +24998,14 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_expression_name_51 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[120]);
+            tmp_expression_name_51 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[119]);
 
             if (tmp_expression_name_51 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_51 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[120]);
+                    tmp_expression_name_51 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[119]);
 
                     if (unlikely(tmp_expression_name_51 == NULL)) {
-                        tmp_expression_name_51 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[120]);
+                        tmp_expression_name_51 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[119]);
                     }
 
                     if (tmp_expression_name_51 == NULL) {
@@ -25022,7 +25022,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_subscript_name_15 = LOOKUP_ATTRIBUTE(tmp_expression_name_51, mod_consts[120]);
+            tmp_subscript_name_15 = LOOKUP_ATTRIBUTE(tmp_expression_name_51, mod_consts[119]);
             Py_DECREF(tmp_expression_name_51);
             if (tmp_subscript_name_15 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -25055,7 +25055,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_26 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__20_next_update(tmp_annotations_27);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 293;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 293;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_27, tmp_args_element_name_26);
             Py_DECREF(tmp_args_element_name_26);
             if (tmp_dictset_value == NULL) {
@@ -25069,7 +25069,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_2;
             }
             condexpr_end_15:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[186], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[185], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -25094,7 +25094,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_annotations_29;
             PyObject *tmp_dict_key_28;
             PyObject *tmp_dict_value_28;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -25113,11 +25113,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_16;
             }
             condexpr_true_16:;
-            tmp_called_name_28 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_28 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_28 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -25136,8 +25136,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_27 = mod_consts[155];
-            tmp_dict_value_27 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[161]);
+            tmp_dict_key_27 = mod_consts[154];
+            tmp_dict_value_27 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[160]);
 
             if (tmp_dict_value_27 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -25154,7 +25154,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_27 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__21_issuer_key_hash(tmp_annotations_28);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 309;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 309;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_28, tmp_args_element_name_27);
             Py_DECREF(tmp_called_name_28);
             Py_DECREF(tmp_args_element_name_27);
@@ -25171,8 +25171,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_16;
             condexpr_false_16:;
             tmp_called_name_29 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_28 = mod_consts[155];
-            tmp_dict_value_28 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[161]);
+            tmp_dict_key_28 = mod_consts[154];
+            tmp_dict_value_28 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[160]);
 
             if (tmp_dict_value_28 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -25189,7 +25189,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_28 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__21_issuer_key_hash(tmp_annotations_29);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 309;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 309;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_29, tmp_args_element_name_28);
             Py_DECREF(tmp_args_element_name_28);
             if (tmp_dictset_value == NULL) {
@@ -25203,7 +25203,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_2;
             }
             condexpr_end_16:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[188], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[187], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -25228,7 +25228,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_annotations_31;
             PyObject *tmp_dict_key_30;
             PyObject *tmp_dict_value_30;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -25247,11 +25247,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_17;
             }
             condexpr_true_17:;
-            tmp_called_name_30 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_30 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_30 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -25270,8 +25270,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_29 = mod_consts[155];
-            tmp_dict_value_29 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[161]);
+            tmp_dict_key_29 = mod_consts[154];
+            tmp_dict_value_29 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[160]);
 
             if (tmp_dict_value_29 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -25288,7 +25288,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_29 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__22_issuer_name_hash(tmp_annotations_30);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 314;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 314;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_30, tmp_args_element_name_29);
             Py_DECREF(tmp_called_name_30);
             Py_DECREF(tmp_args_element_name_29);
@@ -25305,8 +25305,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_17;
             condexpr_false_17:;
             tmp_called_name_31 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_30 = mod_consts[155];
-            tmp_dict_value_30 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[161]);
+            tmp_dict_key_30 = mod_consts[154];
+            tmp_dict_value_30 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[160]);
 
             if (tmp_dict_value_30 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -25323,7 +25323,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_30 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__22_issuer_name_hash(tmp_annotations_31);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 314;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 314;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_31, tmp_args_element_name_30);
             Py_DECREF(tmp_args_element_name_30);
             if (tmp_dictset_value == NULL) {
@@ -25337,7 +25337,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_2;
             }
             condexpr_end_17:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[190], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[189], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -25364,7 +25364,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_dict_key_32;
             PyObject *tmp_dict_value_32;
             PyObject *tmp_expression_name_53;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -25383,11 +25383,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_18;
             }
             condexpr_true_18:;
-            tmp_called_name_32 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_32 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_32 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -25406,15 +25406,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_31 = mod_consts[155];
-            tmp_expression_name_52 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[133]);
+            tmp_dict_key_31 = mod_consts[154];
+            tmp_expression_name_52 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[132]);
 
             if (tmp_expression_name_52 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_52 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[133]);
+                    tmp_expression_name_52 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[132]);
 
                     if (unlikely(tmp_expression_name_52 == NULL)) {
-                        tmp_expression_name_52 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[133]);
+                        tmp_expression_name_52 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[132]);
                     }
 
                     if (tmp_expression_name_52 == NULL) {
@@ -25431,7 +25431,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_dict_value_31 = LOOKUP_ATTRIBUTE(tmp_expression_name_52, mod_consts[158]);
+            tmp_dict_value_31 = LOOKUP_ATTRIBUTE(tmp_expression_name_52, mod_consts[157]);
             Py_DECREF(tmp_expression_name_52);
             if (tmp_dict_value_31 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -25451,7 +25451,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_31 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__23_hash_algorithm(tmp_annotations_32);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 319;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 319;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_32, tmp_args_element_name_31);
             Py_DECREF(tmp_called_name_32);
             Py_DECREF(tmp_args_element_name_31);
@@ -25468,15 +25468,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_18;
             condexpr_false_18:;
             tmp_called_name_33 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_32 = mod_consts[155];
-            tmp_expression_name_53 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[133]);
+            tmp_dict_key_32 = mod_consts[154];
+            tmp_expression_name_53 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[132]);
 
             if (tmp_expression_name_53 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_53 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[133]);
+                    tmp_expression_name_53 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[132]);
 
                     if (unlikely(tmp_expression_name_53 == NULL)) {
-                        tmp_expression_name_53 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[133]);
+                        tmp_expression_name_53 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[132]);
                     }
 
                     if (tmp_expression_name_53 == NULL) {
@@ -25493,7 +25493,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_dict_value_32 = LOOKUP_ATTRIBUTE(tmp_expression_name_53, mod_consts[158]);
+            tmp_dict_value_32 = LOOKUP_ATTRIBUTE(tmp_expression_name_53, mod_consts[157]);
             Py_DECREF(tmp_expression_name_53);
             if (tmp_dict_value_32 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -25513,7 +25513,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_32 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__23_hash_algorithm(tmp_annotations_33);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 319;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 319;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_33, tmp_args_element_name_32);
             Py_DECREF(tmp_args_element_name_32);
             if (tmp_dictset_value == NULL) {
@@ -25527,7 +25527,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_2;
             }
             condexpr_end_18:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[192], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[191], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -25552,7 +25552,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_annotations_35;
             PyObject *tmp_dict_key_34;
             PyObject *tmp_dict_value_34;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -25571,11 +25571,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_19;
             }
             condexpr_true_19:;
-            tmp_called_name_34 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[154]);
+            tmp_called_name_34 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[153]);
 
             if (unlikely(tmp_called_name_34 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -25594,8 +25594,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_33 = mod_consts[155];
-            tmp_dict_value_33 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[194]);
+            tmp_dict_key_33 = mod_consts[154];
+            tmp_dict_value_33 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[193]);
 
             if (tmp_dict_value_33 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -25612,7 +25612,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_33 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__24_serial_number(tmp_annotations_34);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 324;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 324;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_34, tmp_args_element_name_33);
             Py_DECREF(tmp_called_name_34);
             Py_DECREF(tmp_args_element_name_33);
@@ -25629,8 +25629,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_19;
             condexpr_false_19:;
             tmp_called_name_35 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_34 = mod_consts[155];
-            tmp_dict_value_34 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[194]);
+            tmp_dict_key_34 = mod_consts[154];
+            tmp_dict_value_34 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[193]);
 
             if (tmp_dict_value_34 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -25647,7 +25647,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_34 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__24_serial_number(tmp_annotations_35);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 324;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 324;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_35, tmp_args_element_name_34);
             Py_DECREF(tmp_args_element_name_34);
             if (tmp_dictset_value == NULL) {
@@ -25661,7 +25661,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_2;
             }
             condexpr_end_19:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[195], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[194], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -25682,14 +25682,14 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_dict_key_35;
             PyObject *tmp_dict_value_35;
             PyObject *tmp_expression_name_55;
-            tmp_expression_name_54 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[124]);
+            tmp_expression_name_54 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[123]);
 
             if (tmp_expression_name_54 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_54 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[124]);
+                    tmp_expression_name_54 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[123]);
 
                     if (unlikely(tmp_expression_name_54 == NULL)) {
-                        tmp_expression_name_54 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[124]);
+                        tmp_expression_name_54 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[123]);
                     }
 
                     if (tmp_expression_name_54 == NULL) {
@@ -25706,7 +25706,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_called_name_36 = LOOKUP_ATTRIBUTE(tmp_expression_name_54, mod_consts[197]);
+            tmp_called_name_36 = LOOKUP_ATTRIBUTE(tmp_expression_name_54, mod_consts[196]);
             Py_DECREF(tmp_expression_name_54);
             if (tmp_called_name_36 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -25718,7 +25718,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_35 = mod_consts[155];
+            tmp_dict_key_35 = mod_consts[154];
             tmp_expression_name_55 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[46]);
 
             if (tmp_expression_name_55 == NULL) {
@@ -25743,7 +25743,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_dict_value_35 = LOOKUP_ATTRIBUTE(tmp_expression_name_55, mod_consts[198]);
+            tmp_dict_value_35 = LOOKUP_ATTRIBUTE(tmp_expression_name_55, mod_consts[197]);
             Py_DECREF(tmp_expression_name_55);
             if (tmp_dict_value_35 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -25763,7 +25763,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_35 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__25_extensions(tmp_annotations_36);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 329;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 329;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_36, tmp_args_element_name_35);
             Py_DECREF(tmp_called_name_36);
             Py_DECREF(tmp_args_element_name_35);
@@ -25777,7 +25777,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[199], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[198], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -25798,14 +25798,14 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_dict_key_36;
             PyObject *tmp_dict_value_36;
             PyObject *tmp_expression_name_57;
-            tmp_expression_name_56 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[124]);
+            tmp_expression_name_56 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[123]);
 
             if (tmp_expression_name_56 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_56 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[124]);
+                    tmp_expression_name_56 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[123]);
 
                     if (unlikely(tmp_expression_name_56 == NULL)) {
-                        tmp_expression_name_56 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[124]);
+                        tmp_expression_name_56 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[123]);
                     }
 
                     if (tmp_expression_name_56 == NULL) {
@@ -25822,7 +25822,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_called_name_37 = LOOKUP_ATTRIBUTE(tmp_expression_name_56, mod_consts[197]);
+            tmp_called_name_37 = LOOKUP_ATTRIBUTE(tmp_expression_name_56, mod_consts[196]);
             Py_DECREF(tmp_expression_name_56);
             if (tmp_called_name_37 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -25834,7 +25834,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_dict_key_36 = mod_consts[155];
+            tmp_dict_key_36 = mod_consts[154];
             tmp_expression_name_57 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[46]);
 
             if (tmp_expression_name_57 == NULL) {
@@ -25859,7 +25859,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_dict_value_36 = LOOKUP_ATTRIBUTE(tmp_expression_name_57, mod_consts[198]);
+            tmp_dict_value_36 = LOOKUP_ATTRIBUTE(tmp_expression_name_57, mod_consts[197]);
             Py_DECREF(tmp_expression_name_57);
             if (tmp_dict_value_36 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -25879,7 +25879,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_36 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__26_single_extensions(tmp_annotations_37);
 
-            frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame.f_lineno = 334;
+            frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame.f_lineno = 334;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_37, tmp_args_element_name_36);
             Py_DECREF(tmp_called_name_37);
             Py_DECREF(tmp_args_element_name_36);
@@ -25893,7 +25893,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[201], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[200], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -25911,7 +25911,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_dict_key_37;
             PyObject *tmp_dict_value_37;
             PyObject *tmp_expression_name_58;
-            tmp_dict_key_37 = mod_consts[203];
+            tmp_dict_key_37 = mod_consts[202];
             tmp_expression_name_58 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[96]);
 
             if (tmp_expression_name_58 == NULL) {
@@ -25952,8 +25952,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             tmp_res = PyDict_SetItem(tmp_annotations_38, tmp_dict_key_37, tmp_dict_value_37);
             Py_DECREF(tmp_dict_value_37);
             assert(!(tmp_res != 0));
-            tmp_dict_key_37 = mod_consts[155];
-            tmp_dict_value_37 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[161]);
+            tmp_dict_key_37 = mod_consts[154];
+            tmp_dict_value_37 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[160]);
 
             if (tmp_dict_value_37 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -25969,7 +25969,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_dictset_value = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__27_public_bytes(tmp_annotations_38);
 
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[204], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[203], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -25984,7 +25984,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_de22be5462f633649e8aa23f6c7e485b_2);
+        RESTORE_FRAME_EXCEPTION(frame_d6ace286f606e0a966621b6eba0538b6_2);
 #endif
 
         // Put the previous frame back on top.
@@ -25995,35 +25995,35 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_de22be5462f633649e8aa23f6c7e485b_2);
+        RESTORE_FRAME_EXCEPTION(frame_d6ace286f606e0a966621b6eba0538b6_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_de22be5462f633649e8aa23f6c7e485b_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_de22be5462f633649e8aa23f6c7e485b_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_de22be5462f633649e8aa23f6c7e485b_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_d6ace286f606e0a966621b6eba0538b6_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_d6ace286f606e0a966621b6eba0538b6_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_d6ace286f606e0a966621b6eba0538b6_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_de22be5462f633649e8aa23f6c7e485b_2,
+            frame_d6ace286f606e0a966621b6eba0538b6_2,
             type_description_2,
             outline_0_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_de22be5462f633649e8aa23f6c7e485b_2 == cache_frame_de22be5462f633649e8aa23f6c7e485b_2) {
+        if (frame_d6ace286f606e0a966621b6eba0538b6_2 == cache_frame_d6ace286f606e0a966621b6eba0538b6_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_de22be5462f633649e8aa23f6c7e485b_2);
-            cache_frame_de22be5462f633649e8aa23f6c7e485b_2 = NULL;
+            Py_DECREF(cache_frame_d6ace286f606e0a966621b6eba0538b6_2);
+            cache_frame_d6ace286f606e0a966621b6eba0538b6_2 = NULL;
         }
 
-        assertFrameObject(frame_de22be5462f633649e8aa23f6c7e485b_2);
+        assertFrameObject(frame_d6ace286f606e0a966621b6eba0538b6_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -26066,7 +26066,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         branch_yes_4:;
         CHECK_OBJECT(tmp_class_creation_1__bases_orig);
         tmp_dictset_value = tmp_class_creation_1__bases_orig;
-        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[206], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__1__OCSPResponse_89, mod_consts[205], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -26086,7 +26086,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_kwargs_name_2;
             CHECK_OBJECT(tmp_class_creation_1__metaclass);
             tmp_called_name_38 = tmp_class_creation_1__metaclass;
-            tmp_tuple_element_4 = mod_consts[140];
+            tmp_tuple_element_4 = mod_consts[139];
             tmp_args_name_2 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_args_name_2, 0, tmp_tuple_element_4);
             CHECK_OBJECT(tmp_class_creation_1__bases);
@@ -26096,7 +26096,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyTuple_SET_ITEM0(tmp_args_name_2, 2, tmp_tuple_element_4);
             CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
             tmp_kwargs_name_2 = tmp_class_creation_1__class_decl_dict;
-            frame_1aac2c3214ab2556ddd37304b4cff14b->m_frame.f_lineno = 89;
+            frame_842369e66f8ab62f83ad1ae7fd88c32f->m_frame.f_lineno = 89;
             tmp_assign_source_40 = CALL_FUNCTION(tmp_called_name_38, tmp_args_name_2, tmp_kwargs_name_2);
             Py_DECREF(tmp_args_name_2);
             if (tmp_assign_source_40 == NULL) {
@@ -26177,7 +26177,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         exception_lineno = 89;
         goto try_except_handler_5;
         outline_result_1:;
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[140], tmp_assign_source_39);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[139], tmp_assign_source_39);
     }
     goto try_end_5;
     // Exception handler code:
@@ -26226,10 +26226,10 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
     {
         PyObject *tmp_assign_source_41;
         PyObject *tmp_tuple_element_5;
-        tmp_tuple_element_5 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[136]);
+        tmp_tuple_element_5 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[135]);
 
         if (unlikely(tmp_tuple_element_5 == NULL)) {
-            tmp_tuple_element_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[136]);
+            tmp_tuple_element_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[135]);
         }
 
         if (tmp_tuple_element_5 == NULL) {
@@ -26291,7 +26291,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_expression_name_59;
         PyObject *tmp_subscript_name_16;
         PyObject *tmp_bases_name_2;
-        tmp_key_name_4 = mod_consts[138];
+        tmp_key_name_4 = mod_consts[137];
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_4 = tmp_class_creation_2__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_4, tmp_key_name_4);
@@ -26305,7 +26305,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         condexpr_true_20:;
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_5 = tmp_class_creation_2__class_decl_dict;
-        tmp_key_name_5 = mod_consts[138];
+        tmp_key_name_5 = mod_consts[137];
         tmp_metaclass_name_2 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_5, tmp_key_name_5);
         if (tmp_metaclass_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -26391,7 +26391,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         nuitka_bool tmp_condition_result_26;
         PyObject *tmp_key_name_6;
         PyObject *tmp_dict_arg_name_6;
-        tmp_key_name_6 = mod_consts[138];
+        tmp_key_name_6 = mod_consts[137];
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_6 = tmp_class_creation_2__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_6, tmp_key_name_6);
@@ -26406,7 +26406,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
     branch_yes_5:;
     CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_2__class_decl_dict;
-    tmp_dictdel_key = mod_consts[138];
+    tmp_dictdel_key = mod_consts[137];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -26424,7 +26424,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_expression_name_60;
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_expression_name_60 = tmp_class_creation_2__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_60, mod_consts[139]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_60, mod_consts[138]);
         tmp_condition_result_27 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_27 == NUITKA_BOOL_TRUE) {
             goto branch_yes_6;
@@ -26442,7 +26442,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_kwargs_name_3;
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_expression_name_61 = tmp_class_creation_2__metaclass;
-        tmp_called_name_39 = LOOKUP_ATTRIBUTE(tmp_expression_name_61, mod_consts[139]);
+        tmp_called_name_39 = LOOKUP_ATTRIBUTE(tmp_expression_name_61, mod_consts[138]);
         if (tmp_called_name_39 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -26453,7 +26453,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             goto try_except_handler_8;
         }
-        tmp_tuple_element_6 = mod_consts[207];
+        tmp_tuple_element_6 = mod_consts[206];
         tmp_args_name_3 = PyTuple_New(2);
         PyTuple_SET_ITEM0(tmp_args_name_3, 0, tmp_tuple_element_6);
         CHECK_OBJECT(tmp_class_creation_2__bases);
@@ -26461,7 +26461,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyTuple_SET_ITEM0(tmp_args_name_3, 1, tmp_tuple_element_6);
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_kwargs_name_3 = tmp_class_creation_2__class_decl_dict;
-        frame_1aac2c3214ab2556ddd37304b4cff14b->m_frame.f_lineno = 351;
+        frame_842369e66f8ab62f83ad1ae7fd88c32f->m_frame.f_lineno = 351;
         tmp_assign_source_45 = CALL_FUNCTION(tmp_called_name_39, tmp_args_name_3, tmp_kwargs_name_3);
         Py_DECREF(tmp_called_name_39);
         Py_DECREF(tmp_args_name_3);
@@ -26484,7 +26484,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_expression_name_62;
         CHECK_OBJECT(tmp_class_creation_2__prepared);
         tmp_expression_name_62 = tmp_class_creation_2__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_62, mod_consts[141]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_62, mod_consts[140]);
         tmp_operand_name_2 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_2);
         if (tmp_res == -1) {
@@ -26515,11 +26515,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         PyObject *tmp_getattr_attr_2;
         PyObject *tmp_getattr_default_2;
         tmp_raise_type_2 = PyExc_TypeError;
-        tmp_left_name_2 = mod_consts[142];
+        tmp_left_name_2 = mod_consts[141];
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_getattr_target_2 = tmp_class_creation_2__metaclass;
-        tmp_getattr_attr_2 = mod_consts[143];
-        tmp_getattr_default_2 = mod_consts[144];
+        tmp_getattr_attr_2 = mod_consts[142];
+        tmp_getattr_default_2 = mod_consts[143];
         tmp_tuple_element_7 = BUILTIN_GETATTR(tmp_getattr_target_2, tmp_getattr_attr_2, tmp_getattr_default_2);
         if (tmp_tuple_element_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -26540,7 +26540,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             tmp_type_arg_4 = tmp_class_creation_2__prepared;
             tmp_expression_name_63 = BUILTIN_TYPE1(tmp_type_arg_4);
             assert(!(tmp_expression_name_63 == NULL));
-            tmp_tuple_element_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_63, mod_consts[143]);
+            tmp_tuple_element_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_63, mod_consts[142]);
             Py_DECREF(tmp_expression_name_63);
             if (tmp_tuple_element_7 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -26602,7 +26602,19 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[145];
+        tmp_dictset_value = mod_consts[144];
+        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[145], tmp_dictset_value);
+        if (tmp_res != 0) {
+            assert(ERROR_OCCURRED());
+
+            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+            exception_lineno = 351;
+
+            goto try_except_handler_10;
+        }
+        tmp_dictset_value = mod_consts[206];
         tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[146], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -26614,50 +26626,38 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             goto try_except_handler_10;
         }
-        tmp_dictset_value = mod_consts[207];
-        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[147], tmp_dictset_value);
-        if (tmp_res != 0) {
-            assert(ERROR_OCCURRED());
-
-            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
-
-
-            exception_lineno = 351;
-
-            goto try_except_handler_10;
-        }
-        if (isFrameUnusable(cache_frame_5220ae7b5febe65175316b2f861333a9_3)) {
-            Py_XDECREF(cache_frame_5220ae7b5febe65175316b2f861333a9_3);
+        if (isFrameUnusable(cache_frame_cdf1479cdb9595f949b129b3056a7369_3)) {
+            Py_XDECREF(cache_frame_cdf1479cdb9595f949b129b3056a7369_3);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_5220ae7b5febe65175316b2f861333a9_3 == NULL) {
+            if (cache_frame_cdf1479cdb9595f949b129b3056a7369_3 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_5220ae7b5febe65175316b2f861333a9_3 = MAKE_FUNCTION_FRAME(codeobj_5220ae7b5febe65175316b2f861333a9, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
+            cache_frame_cdf1479cdb9595f949b129b3056a7369_3 = MAKE_FUNCTION_FRAME(codeobj_cdf1479cdb9595f949b129b3056a7369, module_cryptography$hazmat$backends$openssl$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_5220ae7b5febe65175316b2f861333a9_3->m_type_description == NULL);
-        frame_5220ae7b5febe65175316b2f861333a9_3 = cache_frame_5220ae7b5febe65175316b2f861333a9_3;
+        assert(cache_frame_cdf1479cdb9595f949b129b3056a7369_3->m_type_description == NULL);
+        frame_cdf1479cdb9595f949b129b3056a7369_3 = cache_frame_cdf1479cdb9595f949b129b3056a7369_3;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_5220ae7b5febe65175316b2f861333a9_3);
+        pushFrameStack(frame_cdf1479cdb9595f949b129b3056a7369_3);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_5220ae7b5febe65175316b2f861333a9_3) == 2); // Frame stack
+        assert(Py_REFCNT(frame_cdf1479cdb9595f949b129b3056a7369_3) == 2); // Frame stack
 
         // Framed code:
 
 
         tmp_dictset_value = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__28___init__();
 
-        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[148], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[147], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -26681,7 +26681,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_annotations_40;
             PyObject *tmp_dict_key_39;
             PyObject *tmp_dict_value_39;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -26700,11 +26700,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_22;
             }
             condexpr_true_22:;
-            tmp_called_name_40 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[154]);
+            tmp_called_name_40 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[153]);
 
             if (unlikely(tmp_called_name_40 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -26723,8 +26723,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_3;
             }
-            tmp_dict_key_38 = mod_consts[155];
-            tmp_dict_value_38 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[161]);
+            tmp_dict_key_38 = mod_consts[154];
+            tmp_dict_value_38 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[160]);
 
             if (tmp_dict_value_38 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -26741,7 +26741,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_37 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__29_issuer_key_hash(tmp_annotations_39);
 
-            frame_5220ae7b5febe65175316b2f861333a9_3->m_frame.f_lineno = 366;
+            frame_cdf1479cdb9595f949b129b3056a7369_3->m_frame.f_lineno = 366;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_40, tmp_args_element_name_37);
             Py_DECREF(tmp_called_name_40);
             Py_DECREF(tmp_args_element_name_37);
@@ -26758,8 +26758,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_22;
             condexpr_false_22:;
             tmp_called_name_41 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_39 = mod_consts[155];
-            tmp_dict_value_39 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[161]);
+            tmp_dict_key_39 = mod_consts[154];
+            tmp_dict_value_39 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[160]);
 
             if (tmp_dict_value_39 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -26776,7 +26776,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_38 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__29_issuer_key_hash(tmp_annotations_40);
 
-            frame_5220ae7b5febe65175316b2f861333a9_3->m_frame.f_lineno = 366;
+            frame_cdf1479cdb9595f949b129b3056a7369_3->m_frame.f_lineno = 366;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_41, tmp_args_element_name_38);
             Py_DECREF(tmp_args_element_name_38);
             if (tmp_dictset_value == NULL) {
@@ -26790,7 +26790,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_3;
             }
             condexpr_end_22:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[188], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[187], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -26815,7 +26815,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_annotations_42;
             PyObject *tmp_dict_key_41;
             PyObject *tmp_dict_value_41;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -26834,11 +26834,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_23;
             }
             condexpr_true_23:;
-            tmp_called_name_42 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[154]);
+            tmp_called_name_42 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[153]);
 
             if (unlikely(tmp_called_name_42 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -26857,8 +26857,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_3;
             }
-            tmp_dict_key_40 = mod_consts[155];
-            tmp_dict_value_40 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[161]);
+            tmp_dict_key_40 = mod_consts[154];
+            tmp_dict_value_40 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[160]);
 
             if (tmp_dict_value_40 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -26875,7 +26875,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_39 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__30_issuer_name_hash(tmp_annotations_41);
 
-            frame_5220ae7b5febe65175316b2f861333a9_3->m_frame.f_lineno = 370;
+            frame_cdf1479cdb9595f949b129b3056a7369_3->m_frame.f_lineno = 370;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_42, tmp_args_element_name_39);
             Py_DECREF(tmp_called_name_42);
             Py_DECREF(tmp_args_element_name_39);
@@ -26892,8 +26892,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_23;
             condexpr_false_23:;
             tmp_called_name_43 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_41 = mod_consts[155];
-            tmp_dict_value_41 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[161]);
+            tmp_dict_key_41 = mod_consts[154];
+            tmp_dict_value_41 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[160]);
 
             if (tmp_dict_value_41 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -26910,7 +26910,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_40 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__30_issuer_name_hash(tmp_annotations_42);
 
-            frame_5220ae7b5febe65175316b2f861333a9_3->m_frame.f_lineno = 370;
+            frame_cdf1479cdb9595f949b129b3056a7369_3->m_frame.f_lineno = 370;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_43, tmp_args_element_name_40);
             Py_DECREF(tmp_args_element_name_40);
             if (tmp_dictset_value == NULL) {
@@ -26924,7 +26924,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_3;
             }
             condexpr_end_23:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[190], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[189], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -26949,7 +26949,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_annotations_44;
             PyObject *tmp_dict_key_43;
             PyObject *tmp_dict_value_43;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -26968,11 +26968,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_24;
             }
             condexpr_true_24:;
-            tmp_called_name_44 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[154]);
+            tmp_called_name_44 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[153]);
 
             if (unlikely(tmp_called_name_44 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -26991,8 +26991,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_3;
             }
-            tmp_dict_key_42 = mod_consts[155];
-            tmp_dict_value_42 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[194]);
+            tmp_dict_key_42 = mod_consts[154];
+            tmp_dict_value_42 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[193]);
 
             if (tmp_dict_value_42 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -27009,7 +27009,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_41 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__31_serial_number(tmp_annotations_43);
 
-            frame_5220ae7b5febe65175316b2f861333a9_3->m_frame.f_lineno = 374;
+            frame_cdf1479cdb9595f949b129b3056a7369_3->m_frame.f_lineno = 374;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_44, tmp_args_element_name_41);
             Py_DECREF(tmp_called_name_44);
             Py_DECREF(tmp_args_element_name_41);
@@ -27026,8 +27026,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_24;
             condexpr_false_24:;
             tmp_called_name_45 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_43 = mod_consts[155];
-            tmp_dict_value_43 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[194]);
+            tmp_dict_key_43 = mod_consts[154];
+            tmp_dict_value_43 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[193]);
 
             if (tmp_dict_value_43 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -27044,7 +27044,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_42 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__31_serial_number(tmp_annotations_44);
 
-            frame_5220ae7b5febe65175316b2f861333a9_3->m_frame.f_lineno = 374;
+            frame_cdf1479cdb9595f949b129b3056a7369_3->m_frame.f_lineno = 374;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_45, tmp_args_element_name_42);
             Py_DECREF(tmp_args_element_name_42);
             if (tmp_dictset_value == NULL) {
@@ -27058,7 +27058,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_3;
             }
             condexpr_end_24:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[195], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[194], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -27085,7 +27085,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_dict_key_45;
             PyObject *tmp_dict_value_45;
             PyObject *tmp_expression_name_65;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[154]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[153]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -27104,11 +27104,11 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto condexpr_false_25;
             }
             condexpr_true_25:;
-            tmp_called_name_46 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[154]);
+            tmp_called_name_46 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[153]);
 
             if (unlikely(tmp_called_name_46 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[154]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[153]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -27127,15 +27127,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_3;
             }
-            tmp_dict_key_44 = mod_consts[155];
-            tmp_expression_name_64 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[133]);
+            tmp_dict_key_44 = mod_consts[154];
+            tmp_expression_name_64 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[132]);
 
             if (tmp_expression_name_64 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_64 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[133]);
+                    tmp_expression_name_64 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[132]);
 
                     if (unlikely(tmp_expression_name_64 == NULL)) {
-                        tmp_expression_name_64 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[133]);
+                        tmp_expression_name_64 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[132]);
                     }
 
                     if (tmp_expression_name_64 == NULL) {
@@ -27152,7 +27152,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_dict_value_44 = LOOKUP_ATTRIBUTE(tmp_expression_name_64, mod_consts[158]);
+            tmp_dict_value_44 = LOOKUP_ATTRIBUTE(tmp_expression_name_64, mod_consts[157]);
             Py_DECREF(tmp_expression_name_64);
             if (tmp_dict_value_44 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -27172,7 +27172,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_43 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__32_hash_algorithm(tmp_annotations_45);
 
-            frame_5220ae7b5febe65175316b2f861333a9_3->m_frame.f_lineno = 378;
+            frame_cdf1479cdb9595f949b129b3056a7369_3->m_frame.f_lineno = 378;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_46, tmp_args_element_name_43);
             Py_DECREF(tmp_called_name_46);
             Py_DECREF(tmp_args_element_name_43);
@@ -27189,15 +27189,15 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             goto condexpr_end_25;
             condexpr_false_25:;
             tmp_called_name_47 = (PyObject *)&PyProperty_Type;
-            tmp_dict_key_45 = mod_consts[155];
-            tmp_expression_name_65 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[133]);
+            tmp_dict_key_45 = mod_consts[154];
+            tmp_expression_name_65 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[132]);
 
             if (tmp_expression_name_65 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_65 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[133]);
+                    tmp_expression_name_65 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[132]);
 
                     if (unlikely(tmp_expression_name_65 == NULL)) {
-                        tmp_expression_name_65 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[133]);
+                        tmp_expression_name_65 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[132]);
                     }
 
                     if (tmp_expression_name_65 == NULL) {
@@ -27214,7 +27214,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_dict_value_45 = LOOKUP_ATTRIBUTE(tmp_expression_name_65, mod_consts[158]);
+            tmp_dict_value_45 = LOOKUP_ATTRIBUTE(tmp_expression_name_65, mod_consts[157]);
             Py_DECREF(tmp_expression_name_65);
             if (tmp_dict_value_45 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -27234,7 +27234,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_44 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__32_hash_algorithm(tmp_annotations_46);
 
-            frame_5220ae7b5febe65175316b2f861333a9_3->m_frame.f_lineno = 378;
+            frame_cdf1479cdb9595f949b129b3056a7369_3->m_frame.f_lineno = 378;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_47, tmp_args_element_name_44);
             Py_DECREF(tmp_args_element_name_44);
             if (tmp_dictset_value == NULL) {
@@ -27248,7 +27248,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 goto frame_exception_exit_3;
             }
             condexpr_end_25:;
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[192], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[191], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -27269,14 +27269,14 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_dict_key_46;
             PyObject *tmp_dict_value_46;
             PyObject *tmp_expression_name_67;
-            tmp_expression_name_66 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[124]);
+            tmp_expression_name_66 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[123]);
 
             if (tmp_expression_name_66 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_66 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[124]);
+                    tmp_expression_name_66 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[123]);
 
                     if (unlikely(tmp_expression_name_66 == NULL)) {
-                        tmp_expression_name_66 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[124]);
+                        tmp_expression_name_66 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[123]);
                     }
 
                     if (tmp_expression_name_66 == NULL) {
@@ -27293,7 +27293,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_called_name_48 = LOOKUP_ATTRIBUTE(tmp_expression_name_66, mod_consts[197]);
+            tmp_called_name_48 = LOOKUP_ATTRIBUTE(tmp_expression_name_66, mod_consts[196]);
             Py_DECREF(tmp_expression_name_66);
             if (tmp_called_name_48 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -27305,7 +27305,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_3;
             }
-            tmp_dict_key_46 = mod_consts[155];
+            tmp_dict_key_46 = mod_consts[154];
             tmp_expression_name_67 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[46]);
 
             if (tmp_expression_name_67 == NULL) {
@@ -27330,7 +27330,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 }
             }
 
-            tmp_dict_value_46 = LOOKUP_ATTRIBUTE(tmp_expression_name_67, mod_consts[198]);
+            tmp_dict_value_46 = LOOKUP_ATTRIBUTE(tmp_expression_name_67, mod_consts[197]);
             Py_DECREF(tmp_expression_name_67);
             if (tmp_dict_value_46 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -27350,7 +27350,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_args_element_name_45 = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__33_extensions(tmp_annotations_47);
 
-            frame_5220ae7b5febe65175316b2f861333a9_3->m_frame.f_lineno = 382;
+            frame_cdf1479cdb9595f949b129b3056a7369_3->m_frame.f_lineno = 382;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_48, tmp_args_element_name_45);
             Py_DECREF(tmp_called_name_48);
             Py_DECREF(tmp_args_element_name_45);
@@ -27364,7 +27364,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_3;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[199], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[198], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -27382,7 +27382,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_dict_key_47;
             PyObject *tmp_dict_value_47;
             PyObject *tmp_expression_name_68;
-            tmp_dict_key_47 = mod_consts[203];
+            tmp_dict_key_47 = mod_consts[202];
             tmp_expression_name_68 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[96]);
 
             if (tmp_expression_name_68 == NULL) {
@@ -27423,8 +27423,8 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             tmp_res = PyDict_SetItem(tmp_annotations_48, tmp_dict_key_47, tmp_dict_value_47);
             Py_DECREF(tmp_dict_value_47);
             assert(!(tmp_res != 0));
-            tmp_dict_key_47 = mod_consts[155];
-            tmp_dict_value_47 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[161]);
+            tmp_dict_key_47 = mod_consts[154];
+            tmp_dict_value_47 = PyObject_GetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[160]);
 
             if (tmp_dict_value_47 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -27440,7 +27440,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
             tmp_dictset_value = MAKE_FUNCTION_cryptography$hazmat$backends$openssl$ocsp$$$function__34_public_bytes(tmp_annotations_48);
 
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[204], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[203], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -27455,7 +27455,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_5220ae7b5febe65175316b2f861333a9_3);
+        RESTORE_FRAME_EXCEPTION(frame_cdf1479cdb9595f949b129b3056a7369_3);
 #endif
 
         // Put the previous frame back on top.
@@ -27466,35 +27466,35 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         frame_exception_exit_3:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_5220ae7b5febe65175316b2f861333a9_3);
+        RESTORE_FRAME_EXCEPTION(frame_cdf1479cdb9595f949b129b3056a7369_3);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_5220ae7b5febe65175316b2f861333a9_3, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_5220ae7b5febe65175316b2f861333a9_3->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_5220ae7b5febe65175316b2f861333a9_3, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_cdf1479cdb9595f949b129b3056a7369_3, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_cdf1479cdb9595f949b129b3056a7369_3->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_cdf1479cdb9595f949b129b3056a7369_3, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_5220ae7b5febe65175316b2f861333a9_3,
+            frame_cdf1479cdb9595f949b129b3056a7369_3,
             type_description_2,
             outline_1_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_5220ae7b5febe65175316b2f861333a9_3 == cache_frame_5220ae7b5febe65175316b2f861333a9_3) {
+        if (frame_cdf1479cdb9595f949b129b3056a7369_3 == cache_frame_cdf1479cdb9595f949b129b3056a7369_3) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_5220ae7b5febe65175316b2f861333a9_3);
-            cache_frame_5220ae7b5febe65175316b2f861333a9_3 = NULL;
+            Py_DECREF(cache_frame_cdf1479cdb9595f949b129b3056a7369_3);
+            cache_frame_cdf1479cdb9595f949b129b3056a7369_3 = NULL;
         }
 
-        assertFrameObject(frame_5220ae7b5febe65175316b2f861333a9_3);
+        assertFrameObject(frame_cdf1479cdb9595f949b129b3056a7369_3);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -27537,7 +27537,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         branch_yes_8:;
         CHECK_OBJECT(tmp_class_creation_2__bases_orig);
         tmp_dictset_value = tmp_class_creation_2__bases_orig;
-        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[206], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$backends$openssl$ocsp$$$class__2__OCSPRequest_351, mod_consts[205], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -27557,7 +27557,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyObject *tmp_kwargs_name_4;
             CHECK_OBJECT(tmp_class_creation_2__metaclass);
             tmp_called_name_49 = tmp_class_creation_2__metaclass;
-            tmp_tuple_element_8 = mod_consts[207];
+            tmp_tuple_element_8 = mod_consts[206];
             tmp_args_name_4 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_args_name_4, 0, tmp_tuple_element_8);
             CHECK_OBJECT(tmp_class_creation_2__bases);
@@ -27567,7 +27567,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
             PyTuple_SET_ITEM0(tmp_args_name_4, 2, tmp_tuple_element_8);
             CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
             tmp_kwargs_name_4 = tmp_class_creation_2__class_decl_dict;
-            frame_1aac2c3214ab2556ddd37304b4cff14b->m_frame.f_lineno = 351;
+            frame_842369e66f8ab62f83ad1ae7fd88c32f->m_frame.f_lineno = 351;
             tmp_assign_source_48 = CALL_FUNCTION(tmp_called_name_49, tmp_args_name_4, tmp_kwargs_name_4);
             Py_DECREF(tmp_args_name_4);
             if (tmp_assign_source_48 == NULL) {
@@ -27648,7 +27648,7 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
         exception_lineno = 351;
         goto try_except_handler_8;
         outline_result_2:;
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[207], tmp_assign_source_47);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$backends$openssl$ocsp, (Nuitka_StringObject *)mod_consts[206], tmp_assign_source_47);
     }
     goto try_end_6;
     // Exception handler code:
@@ -27684,23 +27684,23 @@ PyObject *modulecode_cryptography$hazmat$backends$openssl$ocsp(PyObject *module,
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_1aac2c3214ab2556ddd37304b4cff14b);
+    RESTORE_FRAME_EXCEPTION(frame_842369e66f8ab62f83ad1ae7fd88c32f);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_1aac2c3214ab2556ddd37304b4cff14b);
+    assertFrameObject(frame_842369e66f8ab62f83ad1ae7fd88c32f);
 
     goto frame_no_exception_3;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_1aac2c3214ab2556ddd37304b4cff14b);
+    RESTORE_FRAME_EXCEPTION(frame_842369e66f8ab62f83ad1ae7fd88c32f);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_1aac2c3214ab2556ddd37304b4cff14b, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_1aac2c3214ab2556ddd37304b4cff14b->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_1aac2c3214ab2556ddd37304b4cff14b, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_842369e66f8ab62f83ad1ae7fd88c32f, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_842369e66f8ab62f83ad1ae7fd88c32f->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_842369e66f8ab62f83ad1ae7fd88c32f, exception_lineno);
     }
 
     // Put the previous frame back on top.

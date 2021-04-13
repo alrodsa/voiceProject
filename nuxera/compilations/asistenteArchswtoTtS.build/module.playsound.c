@@ -65,19 +65,19 @@ void checkModuleConstants_playsound(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_da88c807d562075bb00f38e157f98843;
-static PyCodeObject *codeobj_c5dd6d1722d3ccd57a156f4be4fc85e0;
-static PyCodeObject *codeobj_ade1e972ad7f561501382360f6e5427c;
-static PyCodeObject *codeobj_6dde6d170eadcacce5533ece2512194d;
-static PyCodeObject *codeobj_4f1e419d4e8d7dabd166f80318867479;
+static PyCodeObject *codeobj_e6e260e19945cc9848e8d5b392ffbcc0;
+static PyCodeObject *codeobj_3084da039571f30aed4a3fa5cc48d95a;
+static PyCodeObject *codeobj_fea7b912d1ef68be592747929f484165;
+static PyCodeObject *codeobj_64f24e62d8354f710dc94ea4ec7ef81f;
+static PyCodeObject *codeobj_9b850180e634fa889a9f98d2854f555c;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[99]; CHECK_OBJECT(module_filename_obj);
-    codeobj_da88c807d562075bb00f38e157f98843 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[125], NULL, NULL, 0, 0, 0);
-    codeobj_c5dd6d1722d3ccd57a156f4be4fc85e0 = MAKE_CODEOBJECT(module_filename_obj, 73, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[119], mod_consts[126], NULL, 2, 0, 0);
-    codeobj_ade1e972ad7f561501382360f6e5427c = MAKE_CODEOBJECT(module_filename_obj, 43, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[118], mod_consts[127], NULL, 2, 0, 0);
-    codeobj_6dde6d170eadcacce5533ece2512194d = MAKE_CODEOBJECT(module_filename_obj, 4, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[117], mod_consts[128], NULL, 2, 0, 0);
-    codeobj_4f1e419d4e8d7dabd166f80318867479 = MAKE_CODEOBJECT(module_filename_obj, 21, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS, mod_consts[11], mod_consts[129], mod_consts[130], 0, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[124]); CHECK_OBJECT(module_filename_obj);
+    codeobj_e6e260e19945cc9848e8d5b392ffbcc0 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[125], NULL, NULL, 0, 0, 0);
+    codeobj_3084da039571f30aed4a3fa5cc48d95a = MAKE_CODEOBJECT(module_filename_obj, 73, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[118], mod_consts[126], NULL, 2, 0, 0);
+    codeobj_fea7b912d1ef68be592747929f484165 = MAKE_CODEOBJECT(module_filename_obj, 43, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[117], mod_consts[127], NULL, 2, 0, 0);
+    codeobj_64f24e62d8354f710dc94ea4ec7ef81f = MAKE_CODEOBJECT(module_filename_obj, 4, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[116], mod_consts[128], NULL, 2, 0, 0);
+    codeobj_9b850180e634fa889a9f98d2854f555c = MAKE_CODEOBJECT(module_filename_obj, 21, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS, mod_consts[11], mod_consts[129], mod_consts[130], 0, 0, 0);
 }
 
 // The module function declarations.
@@ -115,7 +115,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
     PyObject *var_alias = NULL;
     PyObject *var_durationInMS = NULL;
     PyObject *tmp_import_from_1__module = NULL;
-    struct Nuitka_FrameObject *frame_6dde6d170eadcacce5533ece2512194d;
+    struct Nuitka_FrameObject *frame_64f24e62d8354f710dc94ea4ec7ef81f;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -126,7 +126,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
     PyTracebackObject *exception_keeper_tb_1;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_1;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_6dde6d170eadcacce5533ece2512194d = NULL;
+    static struct Nuitka_FrameObject *cache_frame_64f24e62d8354f710dc94ea4ec7ef81f = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_2;
     PyObject *exception_keeper_value_2;
@@ -135,31 +135,31 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_6dde6d170eadcacce5533ece2512194d)) {
-        Py_XDECREF(cache_frame_6dde6d170eadcacce5533ece2512194d);
+    if (isFrameUnusable(cache_frame_64f24e62d8354f710dc94ea4ec7ef81f)) {
+        Py_XDECREF(cache_frame_64f24e62d8354f710dc94ea4ec7ef81f);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_6dde6d170eadcacce5533ece2512194d == NULL) {
+        if (cache_frame_64f24e62d8354f710dc94ea4ec7ef81f == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_6dde6d170eadcacce5533ece2512194d = MAKE_FUNCTION_FRAME(codeobj_6dde6d170eadcacce5533ece2512194d, module_playsound, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_64f24e62d8354f710dc94ea4ec7ef81f = MAKE_FUNCTION_FRAME(codeobj_64f24e62d8354f710dc94ea4ec7ef81f, module_playsound, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_6dde6d170eadcacce5533ece2512194d->m_type_description == NULL);
-    frame_6dde6d170eadcacce5533ece2512194d = cache_frame_6dde6d170eadcacce5533ece2512194d;
+    assert(cache_frame_64f24e62d8354f710dc94ea4ec7ef81f->m_type_description == NULL);
+    frame_64f24e62d8354f710dc94ea4ec7ef81f = cache_frame_64f24e62d8354f710dc94ea4ec7ef81f;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_6dde6d170eadcacce5533ece2512194d);
+    pushFrameStack(frame_64f24e62d8354f710dc94ea4ec7ef81f);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_6dde6d170eadcacce5533ece2512194d) == 2); // Frame stack
+    assert(Py_REFCNT(frame_64f24e62d8354f710dc94ea4ec7ef81f) == 2); // Frame stack
 
     // Framed code:
     {
@@ -174,7 +174,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = mod_consts[1];
         tmp_level_name_1 = mod_consts[2];
-        frame_6dde6d170eadcacce5533ece2512194d->m_frame.f_lineno = 16;
+        frame_64f24e62d8354f710dc94ea4ec7ef81f->m_frame.f_lineno = 16;
         tmp_assign_source_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -290,7 +290,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
         tmp_locals_arg_name_2 = Py_None;
         tmp_fromlist_name_2 = mod_consts[6];
         tmp_level_name_2 = mod_consts[2];
-        frame_6dde6d170eadcacce5533ece2512194d->m_frame.f_lineno = 17;
+        frame_64f24e62d8354f710dc94ea4ec7ef81f->m_frame.f_lineno = 17;
         tmp_import_name_from_3 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_import_name_from_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -340,7 +340,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
         tmp_locals_arg_name_3 = Py_None;
         tmp_fromlist_name_3 = mod_consts[8];
         tmp_level_name_3 = mod_consts[2];
-        frame_6dde6d170eadcacce5533ece2512194d->m_frame.f_lineno = 18;
+        frame_64f24e62d8354f710dc94ea4ec7ef81f->m_frame.f_lineno = 18;
         tmp_import_name_from_4 = IMPORT_MODULE5(tmp_name_name_3, tmp_globals_arg_name_3, tmp_locals_arg_name_3, tmp_fromlist_name_3, tmp_level_name_3);
         assert(!(tmp_import_name_from_4 == NULL));
         if (PyModule_Check(tmp_import_name_from_4)) {
@@ -362,7 +362,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
     {
         PyObject *tmp_assign_source_6;
         PyObject *tmp_import_name_from_5;
-        frame_6dde6d170eadcacce5533ece2512194d->m_frame.f_lineno = 19;
+        frame_64f24e62d8354f710dc94ea4ec7ef81f->m_frame.f_lineno = 19;
         tmp_import_name_from_5 = IMPORT_HARD_SYS();
         assert(!(tmp_import_name_from_5 == NULL));
         if (PyModule_Check(tmp_import_name_from_5)) {
@@ -415,7 +415,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
         tmp_left_name_1 = mod_consts[13];
         CHECK_OBJECT(var_random);
         tmp_called_name_1 = var_random;
-        frame_6dde6d170eadcacce5533ece2512194d->m_frame.f_lineno = 34;
+        frame_64f24e62d8354f710dc94ea4ec7ef81f->m_frame.f_lineno = 34;
         tmp_unicode_arg_1 = CALL_FUNCTION_NO_ARGS(tmp_called_name_1);
         if (tmp_unicode_arg_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -494,7 +494,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
         }
         CHECK_OBJECT(var_alias);
         tmp_args_element_name_2 = var_alias;
-        frame_6dde6d170eadcacce5533ece2512194d->m_frame.f_lineno = 35;
+        frame_64f24e62d8354f710dc94ea4ec7ef81f->m_frame.f_lineno = 35;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -525,7 +525,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
         CHECK_OBJECT(var_alias);
         tmp_args_element_name_4 = var_alias;
         tmp_args_element_name_5 = mod_consts[17];
-        frame_6dde6d170eadcacce5533ece2512194d->m_frame.f_lineno = 36;
+        frame_64f24e62d8354f710dc94ea4ec7ef81f->m_frame.f_lineno = 36;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_call_result_2 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_3, call_args);
@@ -555,7 +555,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
         CHECK_OBJECT(var_alias);
         tmp_args_element_name_7 = var_alias;
         tmp_args_element_name_8 = mod_consts[19];
-        frame_6dde6d170eadcacce5533ece2512194d->m_frame.f_lineno = 37;
+        frame_64f24e62d8354f710dc94ea4ec7ef81f->m_frame.f_lineno = 37;
         {
             PyObject *call_args[] = {tmp_args_element_name_6, tmp_args_element_name_7, tmp_args_element_name_8};
             tmp_assign_source_9 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_4, call_args);
@@ -590,7 +590,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
         tmp_args_element_name_11 = mod_consts[21];
         CHECK_OBJECT(var_durationInMS);
         tmp_called_instance_1 = var_durationInMS;
-        frame_6dde6d170eadcacce5533ece2512194d->m_frame.f_lineno = 38;
+        frame_64f24e62d8354f710dc94ea4ec7ef81f->m_frame.f_lineno = 38;
         tmp_args_element_name_12 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[22]);
         if (tmp_args_element_name_12 == NULL) {
             assert(ERROR_OCCURRED());
@@ -602,7 +602,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
             type_description_1 = "ooccoocooo";
             goto frame_exception_exit_1;
         }
-        frame_6dde6d170eadcacce5533ece2512194d->m_frame.f_lineno = 38;
+        frame_64f24e62d8354f710dc94ea4ec7ef81f->m_frame.f_lineno = 38;
         {
             PyObject *call_args[] = {tmp_args_element_name_9, tmp_args_element_name_10, tmp_args_element_name_11, tmp_args_element_name_12};
             tmp_call_result_3 = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_5, call_args);
@@ -690,7 +690,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
             type_description_1 = "ooccoocooo";
             goto frame_exception_exit_1;
         }
-        frame_6dde6d170eadcacce5533ece2512194d->m_frame.f_lineno = 41;
+        frame_64f24e62d8354f710dc94ea4ec7ef81f->m_frame.f_lineno = 41;
         tmp_call_result_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_13);
         Py_DECREF(tmp_args_element_name_13);
         if (tmp_call_result_4 == NULL) {
@@ -708,7 +708,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
     branch_no_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6dde6d170eadcacce5533ece2512194d);
+    RESTORE_FRAME_EXCEPTION(frame_64f24e62d8354f710dc94ea4ec7ef81f);
 #endif
 
     // Put the previous frame back on top.
@@ -719,18 +719,18 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6dde6d170eadcacce5533ece2512194d);
+    RESTORE_FRAME_EXCEPTION(frame_64f24e62d8354f710dc94ea4ec7ef81f);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_6dde6d170eadcacce5533ece2512194d, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_6dde6d170eadcacce5533ece2512194d->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_6dde6d170eadcacce5533ece2512194d, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_64f24e62d8354f710dc94ea4ec7ef81f, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_64f24e62d8354f710dc94ea4ec7ef81f->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_64f24e62d8354f710dc94ea4ec7ef81f, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_6dde6d170eadcacce5533ece2512194d,
+        frame_64f24e62d8354f710dc94ea4ec7ef81f,
         type_description_1,
         par_sound,
         par_block,
@@ -746,17 +746,17 @@ static PyObject *impl_playsound$$$function__1__playsoundWin(struct Nuitka_Functi
 
 
     // Release cached frame if used for exception.
-    if (frame_6dde6d170eadcacce5533ece2512194d == cache_frame_6dde6d170eadcacce5533ece2512194d) {
+    if (frame_64f24e62d8354f710dc94ea4ec7ef81f == cache_frame_64f24e62d8354f710dc94ea4ec7ef81f) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_6dde6d170eadcacce5533ece2512194d);
-        cache_frame_6dde6d170eadcacce5533ece2512194d = NULL;
+        Py_DECREF(cache_frame_64f24e62d8354f710dc94ea4ec7ef81f);
+        cache_frame_64f24e62d8354f710dc94ea4ec7ef81f = NULL;
     }
 
-    assertFrameObject(frame_6dde6d170eadcacce5533ece2512194d);
+    assertFrameObject(frame_64f24e62d8354f710dc94ea4ec7ef81f);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -878,7 +878,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
     PyObject *var_errorCode = NULL;
     PyObject *var_errorBuffer = NULL;
     PyObject *var_exceptionMessage = NULL;
-    struct Nuitka_FrameObject *frame_4f1e419d4e8d7dabd166f80318867479;
+    struct Nuitka_FrameObject *frame_9b850180e634fa889a9f98d2854f555c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -886,7 +886,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_4f1e419d4e8d7dabd166f80318867479 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_9b850180e634fa889a9f98d2854f555c = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -894,31 +894,31 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_4f1e419d4e8d7dabd166f80318867479)) {
-        Py_XDECREF(cache_frame_4f1e419d4e8d7dabd166f80318867479);
+    if (isFrameUnusable(cache_frame_9b850180e634fa889a9f98d2854f555c)) {
+        Py_XDECREF(cache_frame_9b850180e634fa889a9f98d2854f555c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_4f1e419d4e8d7dabd166f80318867479 == NULL) {
+        if (cache_frame_9b850180e634fa889a9f98d2854f555c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_4f1e419d4e8d7dabd166f80318867479 = MAKE_FUNCTION_FRAME(codeobj_4f1e419d4e8d7dabd166f80318867479, module_playsound, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_9b850180e634fa889a9f98d2854f555c = MAKE_FUNCTION_FRAME(codeobj_9b850180e634fa889a9f98d2854f555c, module_playsound, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_4f1e419d4e8d7dabd166f80318867479->m_type_description == NULL);
-    frame_4f1e419d4e8d7dabd166f80318867479 = cache_frame_4f1e419d4e8d7dabd166f80318867479;
+    assert(cache_frame_9b850180e634fa889a9f98d2854f555c->m_type_description == NULL);
+    frame_9b850180e634fa889a9f98d2854f555c = cache_frame_9b850180e634fa889a9f98d2854f555c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_4f1e419d4e8d7dabd166f80318867479);
+    pushFrameStack(frame_9b850180e634fa889a9f98d2854f555c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_4f1e419d4e8d7dabd166f80318867479) == 2); // Frame stack
+    assert(Py_REFCNT(frame_9b850180e634fa889a9f98d2854f555c) == 2); // Frame stack
 
     // Framed code:
     {
@@ -937,7 +937,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
         }
 
         tmp_called_name_1 = Nuitka_Cell_GET(self->m_closure[0]);
-        frame_4f1e419d4e8d7dabd166f80318867479->m_frame.f_lineno = 22;
+        frame_9b850180e634fa889a9f98d2854f555c->m_frame.f_lineno = 22;
         tmp_assign_source_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, mod_consts[26]);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -963,7 +963,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
         tmp_called_instance_1 = mod_consts[27];
         CHECK_OBJECT(par_command);
         tmp_args_element_name_1 = par_command;
-        frame_4f1e419d4e8d7dabd166f80318867479->m_frame.f_lineno = 23;
+        frame_9b850180e634fa889a9f98d2854f555c->m_frame.f_lineno = 23;
         tmp_expression_name_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[28], tmp_args_element_name_1);
         if (tmp_expression_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1000,7 +1000,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
         }
 
         tmp_called_name_3 = Nuitka_Cell_GET(self->m_closure[1]);
-        frame_4f1e419d4e8d7dabd166f80318867479->m_frame.f_lineno = 23;
+        frame_9b850180e634fa889a9f98d2854f555c->m_frame.f_lineno = 23;
         tmp_args_element_name_2 = CALL_FUNCTION_NO_ARGS(tmp_called_name_3);
         if (tmp_args_element_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1012,7 +1012,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
             type_description_1 = "oooooccc";
             goto frame_exception_exit_1;
         }
-        frame_4f1e419d4e8d7dabd166f80318867479->m_frame.f_lineno = 23;
+        frame_9b850180e634fa889a9f98d2854f555c->m_frame.f_lineno = 23;
         tmp_assign_source_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_2);
@@ -1072,7 +1072,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
         tmp_args_element_name_4 = var_buf;
         tmp_args_element_name_5 = mod_consts[32];
         tmp_args_element_name_6 = mod_consts[2];
-        frame_4f1e419d4e8d7dabd166f80318867479->m_frame.f_lineno = 24;
+        frame_9b850180e634fa889a9f98d2854f555c->m_frame.f_lineno = 24;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_int_arg_1 = CALL_METHOD_WITH_ARGS4(
@@ -1147,7 +1147,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
         }
 
         tmp_called_name_4 = Nuitka_Cell_GET(self->m_closure[0]);
-        frame_4f1e419d4e8d7dabd166f80318867479->m_frame.f_lineno = 26;
+        frame_9b850180e634fa889a9f98d2854f555c->m_frame.f_lineno = 26;
         tmp_assign_source_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, mod_consts[26]);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1198,7 +1198,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
         CHECK_OBJECT(var_errorBuffer);
         tmp_args_element_name_8 = var_errorBuffer;
         tmp_args_element_name_9 = mod_consts[32];
-        frame_4f1e419d4e8d7dabd166f80318867479->m_frame.f_lineno = 27;
+        frame_9b850180e634fa889a9f98d2854f555c->m_frame.f_lineno = 27;
         {
             PyObject *call_args[] = {tmp_args_element_name_7, tmp_args_element_name_8, tmp_args_element_name_9};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS3(
@@ -1300,7 +1300,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
         }
 
         tmp_called_instance_4 = par_command;
-        frame_4f1e419d4e8d7dabd166f80318867479->m_frame.f_lineno = 29;
+        frame_9b850180e634fa889a9f98d2854f555c->m_frame.f_lineno = 29;
         tmp_right_name_3 = CALL_METHOD_NO_ARGS(tmp_called_instance_4, mod_consts[22]);
         if (tmp_right_name_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1362,7 +1362,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
             type_description_1 = "oooooccc";
             goto frame_exception_exit_1;
         }
-        frame_4f1e419d4e8d7dabd166f80318867479->m_frame.f_lineno = 30;
+        frame_9b850180e634fa889a9f98d2854f555c->m_frame.f_lineno = 30;
         tmp_right_name_5 = CALL_METHOD_NO_ARGS(tmp_called_instance_5, mod_consts[22]);
         Py_DECREF(tmp_called_instance_5);
         if (tmp_right_name_5 == NULL) {
@@ -1413,7 +1413,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
         }
         CHECK_OBJECT(var_exceptionMessage);
         tmp_args_element_name_10 = var_exceptionMessage;
-        frame_4f1e419d4e8d7dabd166f80318867479->m_frame.f_lineno = 31;
+        frame_9b850180e634fa889a9f98d2854f555c->m_frame.f_lineno = 31;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_10);
         if (tmp_raise_type_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1462,7 +1462,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4f1e419d4e8d7dabd166f80318867479);
+    RESTORE_FRAME_EXCEPTION(frame_9b850180e634fa889a9f98d2854f555c);
 #endif
 
     // Put the previous frame back on top.
@@ -1472,7 +1472,7 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4f1e419d4e8d7dabd166f80318867479);
+    RESTORE_FRAME_EXCEPTION(frame_9b850180e634fa889a9f98d2854f555c);
 #endif
 
     // Put the previous frame back on top.
@@ -1483,18 +1483,18 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4f1e419d4e8d7dabd166f80318867479);
+    RESTORE_FRAME_EXCEPTION(frame_9b850180e634fa889a9f98d2854f555c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_4f1e419d4e8d7dabd166f80318867479, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_4f1e419d4e8d7dabd166f80318867479->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_4f1e419d4e8d7dabd166f80318867479, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_9b850180e634fa889a9f98d2854f555c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_9b850180e634fa889a9f98d2854f555c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_9b850180e634fa889a9f98d2854f555c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_4f1e419d4e8d7dabd166f80318867479,
+        frame_9b850180e634fa889a9f98d2854f555c,
         type_description_1,
         par_command,
         var_buf,
@@ -1508,17 +1508,17 @@ static PyObject *impl_playsound$$$function__1__playsoundWin$$$function__1_winCom
 
 
     // Release cached frame if used for exception.
-    if (frame_4f1e419d4e8d7dabd166f80318867479 == cache_frame_4f1e419d4e8d7dabd166f80318867479) {
+    if (frame_9b850180e634fa889a9f98d2854f555c == cache_frame_9b850180e634fa889a9f98d2854f555c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_4f1e419d4e8d7dabd166f80318867479);
-        cache_frame_4f1e419d4e8d7dabd166f80318867479 = NULL;
+        Py_DECREF(cache_frame_9b850180e634fa889a9f98d2854f555c);
+        cache_frame_9b850180e634fa889a9f98d2854f555c = NULL;
     }
 
-    assertFrameObject(frame_4f1e419d4e8d7dabd166f80318867479);
+    assertFrameObject(frame_9b850180e634fa889a9f98d2854f555c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1605,7 +1605,7 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
     PyObject *var_getcwd = NULL;
     PyObject *var_url = NULL;
     PyObject *var_nssound = NULL;
-    struct Nuitka_FrameObject *frame_ade1e972ad7f561501382360f6e5427c;
+    struct Nuitka_FrameObject *frame_fea7b912d1ef68be592747929f484165;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -1613,7 +1613,7 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_ade1e972ad7f561501382360f6e5427c = NULL;
+    static struct Nuitka_FrameObject *cache_frame_fea7b912d1ef68be592747929f484165 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -1622,31 +1622,31 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ade1e972ad7f561501382360f6e5427c)) {
-        Py_XDECREF(cache_frame_ade1e972ad7f561501382360f6e5427c);
+    if (isFrameUnusable(cache_frame_fea7b912d1ef68be592747929f484165)) {
+        Py_XDECREF(cache_frame_fea7b912d1ef68be592747929f484165);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ade1e972ad7f561501382360f6e5427c == NULL) {
+        if (cache_frame_fea7b912d1ef68be592747929f484165 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ade1e972ad7f561501382360f6e5427c = MAKE_FUNCTION_FRAME(codeobj_ade1e972ad7f561501382360f6e5427c, module_playsound, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_fea7b912d1ef68be592747929f484165 = MAKE_FUNCTION_FRAME(codeobj_fea7b912d1ef68be592747929f484165, module_playsound, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ade1e972ad7f561501382360f6e5427c->m_type_description == NULL);
-    frame_ade1e972ad7f561501382360f6e5427c = cache_frame_ade1e972ad7f561501382360f6e5427c;
+    assert(cache_frame_fea7b912d1ef68be592747929f484165->m_type_description == NULL);
+    frame_fea7b912d1ef68be592747929f484165 = cache_frame_fea7b912d1ef68be592747929f484165;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ade1e972ad7f561501382360f6e5427c);
+    pushFrameStack(frame_fea7b912d1ef68be592747929f484165);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ade1e972ad7f561501382360f6e5427c) == 2); // Frame stack
+    assert(Py_REFCNT(frame_fea7b912d1ef68be592747929f484165) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1662,7 +1662,7 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = mod_consts[44];
         tmp_level_name_1 = mod_consts[2];
-        frame_ade1e972ad7f561501382360f6e5427c->m_frame.f_lineno = 55;
+        frame_fea7b912d1ef68be592747929f484165->m_frame.f_lineno = 55;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1712,7 +1712,7 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
         tmp_locals_arg_name_2 = Py_None;
         tmp_fromlist_name_2 = mod_consts[47];
         tmp_level_name_2 = mod_consts[2];
-        frame_ade1e972ad7f561501382360f6e5427c->m_frame.f_lineno = 56;
+        frame_fea7b912d1ef68be592747929f484165->m_frame.f_lineno = 56;
         tmp_import_name_from_2 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_import_name_from_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1762,7 +1762,7 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
         tmp_locals_arg_name_3 = Py_None;
         tmp_fromlist_name_3 = mod_consts[8];
         tmp_level_name_3 = mod_consts[2];
-        frame_ade1e972ad7f561501382360f6e5427c->m_frame.f_lineno = 57;
+        frame_fea7b912d1ef68be592747929f484165->m_frame.f_lineno = 57;
         tmp_import_name_from_3 = IMPORT_MODULE5(tmp_name_name_3, tmp_globals_arg_name_3, tmp_locals_arg_name_3, tmp_fromlist_name_3, tmp_level_name_3);
         assert(!(tmp_import_name_from_3 == NULL));
         if (PyModule_Check(tmp_import_name_from_3)) {
@@ -1813,7 +1813,7 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
         PyObject *tmp_called_instance_1;
         CHECK_OBJECT(par_sound);
         tmp_called_instance_1 = par_sound;
-        frame_ade1e972ad7f561501382360f6e5427c->m_frame.f_lineno = 60;
+        frame_fea7b912d1ef68be592747929f484165->m_frame.f_lineno = 60;
         tmp_operand_name_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_1,
             mod_consts[50],
@@ -1853,7 +1853,7 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
     {
         PyObject *tmp_assign_source_4;
         PyObject *tmp_import_name_from_4;
-        frame_ade1e972ad7f561501382360f6e5427c->m_frame.f_lineno = 61;
+        frame_fea7b912d1ef68be592747929f484165->m_frame.f_lineno = 61;
         tmp_import_name_from_4 = IMPORT_HARD_OS();
         assert(!(tmp_import_name_from_4 == NULL));
         if (PyModule_Check(tmp_import_name_from_4)) {
@@ -1889,7 +1889,7 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
         PyObject *tmp_right_name_2;
         CHECK_OBJECT(var_getcwd);
         tmp_called_name_1 = var_getcwd;
-        frame_ade1e972ad7f561501382360f6e5427c->m_frame.f_lineno = 62;
+        frame_fea7b912d1ef68be592747929f484165->m_frame.f_lineno = 62;
         tmp_left_name_2 = CALL_FUNCTION_NO_ARGS(tmp_called_name_1);
         if (tmp_left_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1992,7 +1992,7 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
         tmp_called_instance_2 = var_NSURL;
         CHECK_OBJECT(par_sound);
         tmp_args_element_name_1 = par_sound;
-        frame_ade1e972ad7f561501382360f6e5427c->m_frame.f_lineno = 64;
+        frame_fea7b912d1ef68be592747929f484165->m_frame.f_lineno = 64;
         tmp_assign_source_7 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[56], tmp_args_element_name_1);
         if (tmp_assign_source_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2015,7 +2015,7 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
         PyObject *tmp_args_element_name_3;
         CHECK_OBJECT(var_NSSound);
         tmp_called_instance_4 = var_NSSound;
-        frame_ade1e972ad7f561501382360f6e5427c->m_frame.f_lineno = 65;
+        frame_fea7b912d1ef68be592747929f484165->m_frame.f_lineno = 65;
         tmp_called_instance_3 = CALL_METHOD_NO_ARGS(tmp_called_instance_4, mod_consts[57]);
         if (tmp_called_instance_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2030,7 +2030,7 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
         CHECK_OBJECT(var_url);
         tmp_args_element_name_2 = var_url;
         tmp_args_element_name_3 = Py_True;
-        frame_ade1e972ad7f561501382360f6e5427c->m_frame.f_lineno = 65;
+        frame_fea7b912d1ef68be592747929f484165->m_frame.f_lineno = 65;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_assign_source_8 = CALL_METHOD_WITH_ARGS2(
@@ -2108,7 +2108,7 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
             type_description_1 = "oooooooo";
             goto frame_exception_exit_1;
         }
-        frame_ade1e972ad7f561501382360f6e5427c->m_frame.f_lineno = 67;
+        frame_fea7b912d1ef68be592747929f484165->m_frame.f_lineno = 67;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_IOError, tmp_make_exception_arg_1);
         Py_DECREF(tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
@@ -2124,7 +2124,7 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(var_nssound);
         tmp_called_instance_5 = var_nssound;
-        frame_ade1e972ad7f561501382360f6e5427c->m_frame.f_lineno = 68;
+        frame_fea7b912d1ef68be592747929f484165->m_frame.f_lineno = 68;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_5, mod_consts[20]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2181,7 +2181,7 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
         }
 
         tmp_called_instance_6 = var_nssound;
-        frame_ade1e972ad7f561501382360f6e5427c->m_frame.f_lineno = 71;
+        frame_fea7b912d1ef68be592747929f484165->m_frame.f_lineno = 71;
         tmp_args_element_name_4 = CALL_METHOD_NO_ARGS(tmp_called_instance_6, mod_consts[61]);
         if (tmp_args_element_name_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2193,7 +2193,7 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
             type_description_1 = "oooooooo";
             goto frame_exception_exit_1;
         }
-        frame_ade1e972ad7f561501382360f6e5427c->m_frame.f_lineno = 71;
+        frame_fea7b912d1ef68be592747929f484165->m_frame.f_lineno = 71;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_4);
         Py_DECREF(tmp_args_element_name_4);
         if (tmp_call_result_2 == NULL) {
@@ -2211,7 +2211,7 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
     branch_no_4:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ade1e972ad7f561501382360f6e5427c);
+    RESTORE_FRAME_EXCEPTION(frame_fea7b912d1ef68be592747929f484165);
 #endif
 
     // Put the previous frame back on top.
@@ -2222,18 +2222,18 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ade1e972ad7f561501382360f6e5427c);
+    RESTORE_FRAME_EXCEPTION(frame_fea7b912d1ef68be592747929f484165);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ade1e972ad7f561501382360f6e5427c, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ade1e972ad7f561501382360f6e5427c->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ade1e972ad7f561501382360f6e5427c, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_fea7b912d1ef68be592747929f484165, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_fea7b912d1ef68be592747929f484165->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_fea7b912d1ef68be592747929f484165, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ade1e972ad7f561501382360f6e5427c,
+        frame_fea7b912d1ef68be592747929f484165,
         type_description_1,
         par_sound,
         par_block,
@@ -2247,17 +2247,17 @@ static PyObject *impl_playsound$$$function__2__playsoundOSX(struct Nuitka_Functi
 
 
     // Release cached frame if used for exception.
-    if (frame_ade1e972ad7f561501382360f6e5427c == cache_frame_ade1e972ad7f561501382360f6e5427c) {
+    if (frame_fea7b912d1ef68be592747929f484165 == cache_frame_fea7b912d1ef68be592747929f484165) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ade1e972ad7f561501382360f6e5427c);
-        cache_frame_ade1e972ad7f561501382360f6e5427c = NULL;
+        Py_DECREF(cache_frame_fea7b912d1ef68be592747929f484165);
+        cache_frame_fea7b912d1ef68be592747929f484165 = NULL;
     }
 
-    assertFrameObject(frame_ade1e972ad7f561501382360f6e5427c);
+    assertFrameObject(frame_fea7b912d1ef68be592747929f484165);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2366,7 +2366,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
     PyObject *var_playbin = NULL;
     PyObject *var_set_result = NULL;
     PyObject *var_bus = NULL;
-    struct Nuitka_FrameObject *frame_c5dd6d1722d3ccd57a156f4be4fc85e0;
+    struct Nuitka_FrameObject *frame_3084da039571f30aed4a3fa5cc48d95a;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     int tmp_res;
     PyObject *exception_type = NULL;
@@ -2386,7 +2386,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_c5dd6d1722d3ccd57a156f4be4fc85e0 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_3084da039571f30aed4a3fa5cc48d95a = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
@@ -2395,31 +2395,31 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_c5dd6d1722d3ccd57a156f4be4fc85e0)) {
-        Py_XDECREF(cache_frame_c5dd6d1722d3ccd57a156f4be4fc85e0);
+    if (isFrameUnusable(cache_frame_3084da039571f30aed4a3fa5cc48d95a)) {
+        Py_XDECREF(cache_frame_3084da039571f30aed4a3fa5cc48d95a);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_c5dd6d1722d3ccd57a156f4be4fc85e0 == NULL) {
+        if (cache_frame_3084da039571f30aed4a3fa5cc48d95a == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_c5dd6d1722d3ccd57a156f4be4fc85e0 = MAKE_FUNCTION_FRAME(codeobj_c5dd6d1722d3ccd57a156f4be4fc85e0, module_playsound, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_3084da039571f30aed4a3fa5cc48d95a = MAKE_FUNCTION_FRAME(codeobj_3084da039571f30aed4a3fa5cc48d95a, module_playsound, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_type_description == NULL);
-    frame_c5dd6d1722d3ccd57a156f4be4fc85e0 = cache_frame_c5dd6d1722d3ccd57a156f4be4fc85e0;
+    assert(cache_frame_3084da039571f30aed4a3fa5cc48d95a->m_type_description == NULL);
+    frame_3084da039571f30aed4a3fa5cc48d95a = cache_frame_3084da039571f30aed4a3fa5cc48d95a;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_c5dd6d1722d3ccd57a156f4be4fc85e0);
+    pushFrameStack(frame_3084da039571f30aed4a3fa5cc48d95a);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_c5dd6d1722d3ccd57a156f4be4fc85e0) == 2); // Frame stack
+    assert(Py_REFCNT(frame_3084da039571f30aed4a3fa5cc48d95a) == 2); // Frame stack
 
     // Framed code:
     {
@@ -2450,7 +2450,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[63];
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 80;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 80;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_NotImplementedError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -2462,7 +2462,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
     branch_no_1:;
     {
         PyObject *tmp_assign_source_1;
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 84;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 84;
         tmp_assign_source_1 = IMPORT_HARD_OS();
         assert(!(tmp_assign_source_1 == NULL));
         assert(var_os == NULL);
@@ -2483,7 +2483,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = mod_consts[65];
         tmp_level_name_1 = mod_consts[2];
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 86;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 86;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2536,9 +2536,9 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
     GET_CURRENT_EXCEPTION(&exception_preserved_type_1, &exception_preserved_value_1, &exception_preserved_tb_1);
 
     if (exception_keeper_tb_1 == NULL) {
-        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_c5dd6d1722d3ccd57a156f4be4fc85e0, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_3084da039571f30aed4a3fa5cc48d95a, exception_keeper_lineno_1);
     } else if (exception_keeper_lineno_1 != 0) {
-        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_c5dd6d1722d3ccd57a156f4be4fc85e0, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_3084da039571f30aed4a3fa5cc48d95a, exception_keeper_lineno_1);
     }
 
     NORMALIZE_EXCEPTION(&exception_keeper_type_1, &exception_keeper_value_1, &exception_keeper_tb_1);
@@ -2574,7 +2574,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
         tmp_locals_arg_name_2 = Py_None;
         tmp_fromlist_name_2 = mod_consts[65];
         tmp_level_name_2 = mod_consts[2];
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 89;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 89;
         tmp_import_name_from_2 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_import_name_from_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2618,7 +2618,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
         exception_lineno = 85;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame) frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_3084da039571f30aed4a3fa5cc48d95a->m_frame) frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "ooooooooo";
     goto try_except_handler_3;
     branch_end_2:;
@@ -2666,7 +2666,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
         tmp_locals_arg_name_3 = Py_None;
         tmp_fromlist_name_3 = Py_None;
         tmp_level_name_3 = mod_consts[2];
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 91;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 91;
         tmp_assign_source_4 = IMPORT_MODULE5(tmp_name_name_3, tmp_globals_arg_name_3, tmp_locals_arg_name_3, tmp_fromlist_name_3, tmp_level_name_3);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2686,7 +2686,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(var_gi);
         tmp_called_instance_1 = var_gi;
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 92;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 92;
         tmp_call_result_1 = CALL_METHOD_WITH_ARGS2(
             tmp_called_instance_1,
             mod_consts[69],
@@ -2718,7 +2718,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
         tmp_locals_arg_name_4 = Py_None;
         tmp_fromlist_name_4 = mod_consts[72];
         tmp_level_name_4 = mod_consts[2];
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 93;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 93;
         tmp_import_name_from_3 = IMPORT_MODULE5(tmp_name_name_4, tmp_globals_arg_name_4, tmp_locals_arg_name_4, tmp_fromlist_name_4, tmp_level_name_4);
         if (tmp_import_name_from_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2760,7 +2760,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
         PyObject *tmp_call_result_2;
         CHECK_OBJECT(var_Gst);
         tmp_called_instance_2 = var_Gst;
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 95;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 95;
         tmp_call_result_2 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_2,
             mod_consts[74],
@@ -2807,7 +2807,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
             type_description_1 = "ooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 97;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 97;
         tmp_assign_source_6 = CALL_METHOD_WITH_ARGS2(
             tmp_called_instance_3,
             mod_consts[77],
@@ -2835,7 +2835,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
         int tmp_truth_name_1;
         CHECK_OBJECT(par_sound);
         tmp_called_instance_4 = par_sound;
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 98;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 98;
         tmp_call_result_3 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_4,
             mod_consts[50],
@@ -2981,7 +2981,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
         }
 
         tmp_args_element_name_2 = par_sound;
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 101;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 101;
         tmp_args_element_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         if (tmp_args_element_name_1 == NULL) {
@@ -2994,7 +2994,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
             type_description_1 = "ooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 101;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 101;
         tmp_right_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_right_name_1 == NULL) {
@@ -3114,7 +3114,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
             type_description_1 = "ooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 103;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 103;
         tmp_assign_source_7 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_3);
@@ -3235,7 +3235,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
         tmp_args_element_name_4 = BINARY_OPERATION_ADD_OBJECT_UNICODE_UNICODE(tmp_left_name_2, tmp_right_name_2);
         Py_DECREF(tmp_right_name_2);
         assert(!(tmp_args_element_name_4 == NULL));
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 105;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 105;
         tmp_raise_type_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_4);
         Py_DECREF(tmp_args_element_name_4);
         if (tmp_raise_type_2 == NULL) {
@@ -3271,7 +3271,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
         }
 
         tmp_called_instance_5 = var_playbin;
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 110;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 110;
         tmp_assign_source_8 = CALL_METHOD_NO_ARGS(tmp_called_instance_5, mod_consts[91]);
         if (tmp_assign_source_8 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3370,7 +3370,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
             type_description_1 = "ooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 111;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 111;
         {
             PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_call_result_4 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_5, call_args);
@@ -3458,7 +3458,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
             type_description_1 = "ooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame.f_lineno = 112;
+        frame_3084da039571f30aed4a3fa5cc48d95a->m_frame.f_lineno = 112;
         tmp_call_result_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_6);
         Py_DECREF(tmp_args_element_name_7);
@@ -3476,7 +3476,7 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c5dd6d1722d3ccd57a156f4be4fc85e0);
+    RESTORE_FRAME_EXCEPTION(frame_3084da039571f30aed4a3fa5cc48d95a);
 #endif
 
     // Put the previous frame back on top.
@@ -3487,18 +3487,18 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c5dd6d1722d3ccd57a156f4be4fc85e0);
+    RESTORE_FRAME_EXCEPTION(frame_3084da039571f30aed4a3fa5cc48d95a);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_c5dd6d1722d3ccd57a156f4be4fc85e0, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_c5dd6d1722d3ccd57a156f4be4fc85e0->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_c5dd6d1722d3ccd57a156f4be4fc85e0, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_3084da039571f30aed4a3fa5cc48d95a, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_3084da039571f30aed4a3fa5cc48d95a->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_3084da039571f30aed4a3fa5cc48d95a, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_c5dd6d1722d3ccd57a156f4be4fc85e0,
+        frame_3084da039571f30aed4a3fa5cc48d95a,
         type_description_1,
         par_sound,
         par_block,
@@ -3513,17 +3513,17 @@ static PyObject *impl_playsound$$$function__3__playsoundNix(struct Nuitka_Functi
 
 
     // Release cached frame if used for exception.
-    if (frame_c5dd6d1722d3ccd57a156f4be4fc85e0 == cache_frame_c5dd6d1722d3ccd57a156f4be4fc85e0) {
+    if (frame_3084da039571f30aed4a3fa5cc48d95a == cache_frame_3084da039571f30aed4a3fa5cc48d95a) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_c5dd6d1722d3ccd57a156f4be4fc85e0);
-        cache_frame_c5dd6d1722d3ccd57a156f4be4fc85e0 = NULL;
+        Py_DECREF(cache_frame_3084da039571f30aed4a3fa5cc48d95a);
+        cache_frame_3084da039571f30aed4a3fa5cc48d95a = NULL;
     }
 
-    assertFrameObject(frame_c5dd6d1722d3ccd57a156f4be4fc85e0);
+    assertFrameObject(frame_3084da039571f30aed4a3fa5cc48d95a);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -3624,11 +3624,11 @@ function_return_exit:
 static PyObject *MAKE_FUNCTION_playsound$$$function__1__playsoundWin(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_playsound$$$function__1__playsoundWin,
-        mod_consts[117],
+        mod_consts[116],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_6dde6d170eadcacce5533ece2512194d,
+        codeobj_64f24e62d8354f710dc94ea4ec7ef81f,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -3653,7 +3653,7 @@ static PyObject *MAKE_FUNCTION_playsound$$$function__1__playsoundWin$$$function_
 #if PYTHON_VERSION >= 0x300
         mod_consts[12],
 #endif
-        codeobj_4f1e419d4e8d7dabd166f80318867479,
+        codeobj_9b850180e634fa889a9f98d2854f555c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -3674,11 +3674,11 @@ static PyObject *MAKE_FUNCTION_playsound$$$function__1__playsoundWin$$$function_
 static PyObject *MAKE_FUNCTION_playsound$$$function__2__playsoundOSX(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_playsound$$$function__2__playsoundOSX,
-        mod_consts[118],
+        mod_consts[117],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_ade1e972ad7f561501382360f6e5427c,
+        codeobj_fea7b912d1ef68be592747929f484165,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -3699,11 +3699,11 @@ static PyObject *MAKE_FUNCTION_playsound$$$function__2__playsoundOSX(PyObject *d
 static PyObject *MAKE_FUNCTION_playsound$$$function__3__playsoundNix(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_playsound$$$function__3__playsoundNix,
-        mod_consts[119],
+        mod_consts[118],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_c5dd6d1722d3ccd57a156f4be4fc85e0,
+        codeobj_3084da039571f30aed4a3fa5cc48d95a,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -4099,7 +4099,7 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
     PyObject *tmp_class_creation_1__class_decl_dict = NULL;
     PyObject *tmp_class_creation_1__metaclass = NULL;
     PyObject *tmp_class_creation_1__prepared = NULL;
-    struct Nuitka_FrameObject *frame_da88c807d562075bb00f38e157f98843;
+    struct Nuitka_FrameObject *frame_e6e260e19945cc9848e8d5b392ffbcc0;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -4132,30 +4132,30 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[99];
-        UPDATE_STRING_DICT0(moduledict_playsound, (Nuitka_StringObject *)mod_consts[100], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_playsound, (Nuitka_StringObject *)mod_consts[99], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_da88c807d562075bb00f38e157f98843 = MAKE_MODULE_FRAME(codeobj_da88c807d562075bb00f38e157f98843, module_playsound);
+    frame_e6e260e19945cc9848e8d5b392ffbcc0 = MAKE_MODULE_FRAME(codeobj_e6e260e19945cc9848e8d5b392ffbcc0, module_playsound);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_da88c807d562075bb00f38e157f98843);
-    assert(Py_REFCNT(frame_da88c807d562075bb00f38e157f98843) == 2);
+    pushFrameStack(frame_e6e260e19945cc9848e8d5b392ffbcc0);
+    assert(Py_REFCNT(frame_e6e260e19945cc9848e8d5b392ffbcc0) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[99];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_playsound, (Nuitka_StringObject *)mod_consts[101]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_playsound, (Nuitka_StringObject *)mod_consts[100]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[101]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[102], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[101], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -4171,14 +4171,14 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_playsound, (Nuitka_StringObject *)mod_consts[101]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_playsound, (Nuitka_StringObject *)mod_consts[100]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[101]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[103], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[102], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -4193,13 +4193,13 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_playsound, (Nuitka_StringObject *)mod_consts[104], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_playsound, (Nuitka_StringObject *)mod_consts[103], tmp_assign_source_3);
     }
     // Tried code:
     {
         PyObject *tmp_assign_source_4;
         PyObject *tmp_dircall_arg1_1;
-        tmp_dircall_arg1_1 = mod_consts[105];
+        tmp_dircall_arg1_1 = mod_consts[104];
         Py_INCREF(tmp_dircall_arg1_1);
 
         {
@@ -4239,7 +4239,7 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_expression_name_1;
         PyObject *tmp_subscript_name_1;
         PyObject *tmp_bases_name_1;
-        tmp_key_name_1 = mod_consts[106];
+        tmp_key_name_1 = mod_consts[105];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_1 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_1, tmp_key_name_1);
@@ -4253,7 +4253,7 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
         condexpr_true_1:;
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_2 = tmp_class_creation_1__class_decl_dict;
-        tmp_key_name_2 = mod_consts[106];
+        tmp_key_name_2 = mod_consts[105];
         tmp_metaclass_name_1 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_2, tmp_key_name_2);
         if (tmp_metaclass_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4339,7 +4339,7 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
         nuitka_bool tmp_condition_result_3;
         PyObject *tmp_key_name_3;
         PyObject *tmp_dict_arg_name_3;
-        tmp_key_name_3 = mod_consts[106];
+        tmp_key_name_3 = mod_consts[105];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_3 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_3, tmp_key_name_3);
@@ -4354,7 +4354,7 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
     branch_yes_1:;
     CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_1__class_decl_dict;
-    tmp_dictdel_key = mod_consts[106];
+    tmp_dictdel_key = mod_consts[105];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -4372,7 +4372,7 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_expression_name_2;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_2 = tmp_class_creation_1__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_2, mod_consts[107]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_2, mod_consts[106]);
         tmp_condition_result_4 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_4 == NUITKA_BOOL_TRUE) {
             goto branch_yes_2;
@@ -4390,7 +4390,7 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_kwargs_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_3 = tmp_class_creation_1__metaclass;
-        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[107]);
+        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[106]);
         if (tmp_called_name_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -4409,7 +4409,7 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyTuple_SET_ITEM0(tmp_args_name_1, 1, tmp_tuple_element_1);
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_kwargs_name_1 = tmp_class_creation_1__class_decl_dict;
-        frame_da88c807d562075bb00f38e157f98843->m_frame.f_lineno = 1;
+        frame_e6e260e19945cc9848e8d5b392ffbcc0->m_frame.f_lineno = 1;
         tmp_assign_source_7 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -4432,7 +4432,7 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_expression_name_4;
         CHECK_OBJECT(tmp_class_creation_1__prepared);
         tmp_expression_name_4 = tmp_class_creation_1__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_4, mod_consts[108]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_4, mod_consts[107]);
         tmp_operand_name_1 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_1);
         if (tmp_res == -1) {
@@ -4463,11 +4463,11 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_getattr_attr_1;
         PyObject *tmp_getattr_default_1;
         tmp_raise_type_1 = PyExc_TypeError;
-        tmp_left_name_1 = mod_consts[109];
+        tmp_left_name_1 = mod_consts[108];
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_getattr_target_1 = tmp_class_creation_1__metaclass;
-        tmp_getattr_attr_1 = mod_consts[110];
-        tmp_getattr_default_1 = mod_consts[111];
+        tmp_getattr_attr_1 = mod_consts[109];
+        tmp_getattr_default_1 = mod_consts[110];
         tmp_tuple_element_2 = BUILTIN_GETATTR(tmp_getattr_target_1, tmp_getattr_attr_1, tmp_getattr_default_1);
         if (tmp_tuple_element_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4488,7 +4488,7 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
             tmp_type_arg_2 = tmp_class_creation_1__prepared;
             tmp_expression_name_5 = BUILTIN_TYPE1(tmp_type_arg_2);
             assert(!(tmp_expression_name_5 == NULL));
-            tmp_tuple_element_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_5, mod_consts[110]);
+            tmp_tuple_element_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_5, mod_consts[109]);
             Py_DECREF(tmp_expression_name_5);
             if (tmp_tuple_element_2 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -4550,8 +4550,8 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[112];
-        tmp_res = PyObject_SetItem(locals_playsound$$$class__1_PlaysoundException_1, mod_consts[113], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[111];
+        tmp_res = PyObject_SetItem(locals_playsound$$$class__1_PlaysoundException_1, mod_consts[112], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -4563,7 +4563,7 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
             goto try_except_handler_3;
         }
         tmp_dictset_value = mod_consts[41];
-        tmp_res = PyObject_SetItem(locals_playsound$$$class__1_PlaysoundException_1, mod_consts[114], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_playsound$$$class__1_PlaysoundException_1, mod_consts[113], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -4580,7 +4580,7 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
             PyObject *tmp_compexpr_right_1;
             CHECK_OBJECT(tmp_class_creation_1__bases);
             tmp_compexpr_left_1 = tmp_class_creation_1__bases;
-            tmp_compexpr_right_1 = mod_consts[105];
+            tmp_compexpr_right_1 = mod_consts[104];
             tmp_condition_result_6 = RICH_COMPARE_NE_NBOOL_OBJECT_TUPLE(tmp_compexpr_left_1, tmp_compexpr_right_1);
             if (tmp_condition_result_6 == NUITKA_BOOL_EXCEPTION) {
                 assert(ERROR_OCCURRED());
@@ -4600,8 +4600,8 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
             assert(tmp_condition_result_6 != NUITKA_BOOL_UNASSIGNED);
         }
         branch_yes_4:;
-        tmp_dictset_value = mod_consts[105];
-        tmp_res = PyObject_SetItem(locals_playsound$$$class__1_PlaysoundException_1, mod_consts[115], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[104];
+        tmp_res = PyObject_SetItem(locals_playsound$$$class__1_PlaysoundException_1, mod_consts[114], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -4631,7 +4631,7 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
             PyTuple_SET_ITEM0(tmp_args_name_2, 2, tmp_tuple_element_3);
             CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
             tmp_kwargs_name_2 = tmp_class_creation_1__class_decl_dict;
-            frame_da88c807d562075bb00f38e157f98843->m_frame.f_lineno = 1;
+            frame_e6e260e19945cc9848e8d5b392ffbcc0->m_frame.f_lineno = 1;
             tmp_assign_source_10 = CALL_FUNCTION(tmp_called_name_2, tmp_args_name_2, tmp_kwargs_name_2);
             Py_DECREF(tmp_args_name_2);
             if (tmp_assign_source_10 == NULL) {
@@ -4755,35 +4755,35 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
     {
         PyObject *tmp_assign_source_11;
         PyObject *tmp_defaults_1;
-        tmp_defaults_1 = mod_consts[116];
+        tmp_defaults_1 = mod_consts[115];
         Py_INCREF(tmp_defaults_1);
 
 
         tmp_assign_source_11 = MAKE_FUNCTION_playsound$$$function__1__playsoundWin(tmp_defaults_1);
 
-        UPDATE_STRING_DICT1(moduledict_playsound, (Nuitka_StringObject *)mod_consts[117], tmp_assign_source_11);
+        UPDATE_STRING_DICT1(moduledict_playsound, (Nuitka_StringObject *)mod_consts[116], tmp_assign_source_11);
     }
     {
         PyObject *tmp_assign_source_12;
         PyObject *tmp_defaults_2;
-        tmp_defaults_2 = mod_consts[116];
+        tmp_defaults_2 = mod_consts[115];
         Py_INCREF(tmp_defaults_2);
 
 
         tmp_assign_source_12 = MAKE_FUNCTION_playsound$$$function__2__playsoundOSX(tmp_defaults_2);
 
-        UPDATE_STRING_DICT1(moduledict_playsound, (Nuitka_StringObject *)mod_consts[118], tmp_assign_source_12);
+        UPDATE_STRING_DICT1(moduledict_playsound, (Nuitka_StringObject *)mod_consts[117], tmp_assign_source_12);
     }
     {
         PyObject *tmp_assign_source_13;
         PyObject *tmp_defaults_3;
-        tmp_defaults_3 = mod_consts[116];
+        tmp_defaults_3 = mod_consts[115];
         Py_INCREF(tmp_defaults_3);
 
 
         tmp_assign_source_13 = MAKE_FUNCTION_playsound$$$function__3__playsoundNix(tmp_defaults_3);
 
-        UPDATE_STRING_DICT1(moduledict_playsound, (Nuitka_StringObject *)mod_consts[119], tmp_assign_source_13);
+        UPDATE_STRING_DICT1(moduledict_playsound, (Nuitka_StringObject *)mod_consts[118], tmp_assign_source_13);
     }
     {
         PyObject *tmp_assign_source_14;
@@ -4793,12 +4793,12 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[120];
+        tmp_name_name_1 = mod_consts[119];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_playsound;
         tmp_locals_arg_name_1 = Py_None;
-        tmp_fromlist_name_1 = mod_consts[121];
+        tmp_fromlist_name_1 = mod_consts[120];
         tmp_level_name_1 = mod_consts[2];
-        frame_da88c807d562075bb00f38e157f98843->m_frame.f_lineno = 115;
+        frame_e6e260e19945cc9848e8d5b392ffbcc0->m_frame.f_lineno = 115;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4814,11 +4814,11 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
             tmp_assign_source_14 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_1,
                 (PyObject *)moduledict_playsound,
-                mod_consts[122],
+                mod_consts[121],
                 mod_consts[2]
             );
         } else {
-            tmp_assign_source_14 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[122]);
+            tmp_assign_source_14 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[121]);
         }
 
         Py_DECREF(tmp_import_name_from_1);
@@ -4832,19 +4832,19 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_playsound, (Nuitka_StringObject *)mod_consts[122], tmp_assign_source_14);
+        UPDATE_STRING_DICT1(moduledict_playsound, (Nuitka_StringObject *)mod_consts[121], tmp_assign_source_14);
     }
     {
         PyObject *tmp_assign_source_15;
         PyObject *tmp_called_name_3;
-        tmp_called_name_3 = GET_STRING_DICT_VALUE(moduledict_playsound, (Nuitka_StringObject *)mod_consts[122]);
+        tmp_called_name_3 = GET_STRING_DICT_VALUE(moduledict_playsound, (Nuitka_StringObject *)mod_consts[121]);
 
         if (unlikely(tmp_called_name_3 == NULL)) {
-            tmp_called_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[122]);
+            tmp_called_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
         }
 
         assert(!(tmp_called_name_3 == NULL));
-        frame_da88c807d562075bb00f38e157f98843->m_frame.f_lineno = 116;
+        frame_e6e260e19945cc9848e8d5b392ffbcc0->m_frame.f_lineno = 116;
         tmp_assign_source_15 = CALL_FUNCTION_NO_ARGS(tmp_called_name_3);
         if (tmp_assign_source_15 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4856,7 +4856,7 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_playsound, (Nuitka_StringObject *)mod_consts[122], tmp_assign_source_15);
+        UPDATE_STRING_DICT1(moduledict_playsound, (Nuitka_StringObject *)mod_consts[121], tmp_assign_source_15);
     }
     {
         nuitka_bool tmp_condition_result_7;
@@ -4864,14 +4864,14 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_compexpr_right_2;
         PyObject *tmp_tmp_condition_result_7_object_1;
         int tmp_truth_name_2;
-        tmp_compexpr_left_2 = GET_STRING_DICT_VALUE(moduledict_playsound, (Nuitka_StringObject *)mod_consts[122]);
+        tmp_compexpr_left_2 = GET_STRING_DICT_VALUE(moduledict_playsound, (Nuitka_StringObject *)mod_consts[121]);
 
         if (unlikely(tmp_compexpr_left_2 == NULL)) {
-            tmp_compexpr_left_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[122]);
+            tmp_compexpr_left_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
         }
 
         assert(!(tmp_compexpr_left_2 == NULL));
-        tmp_compexpr_right_2 = mod_consts[123];
+        tmp_compexpr_right_2 = mod_consts[122];
         tmp_tmp_condition_result_7_object_1 = RICH_COMPARE_EQ_OBJECT_OBJECT_OBJECT(tmp_compexpr_left_2, tmp_compexpr_right_2);
         if (tmp_tmp_condition_result_7_object_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4905,10 +4905,10 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
     branch_yes_5:;
     {
         PyObject *tmp_assign_source_16;
-        tmp_assign_source_16 = GET_STRING_DICT_VALUE(moduledict_playsound, (Nuitka_StringObject *)mod_consts[117]);
+        tmp_assign_source_16 = GET_STRING_DICT_VALUE(moduledict_playsound, (Nuitka_StringObject *)mod_consts[116]);
 
         if (unlikely(tmp_assign_source_16 == NULL)) {
-            tmp_assign_source_16 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[117]);
+            tmp_assign_source_16 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[116]);
         }
 
         if (tmp_assign_source_16 == NULL) {
@@ -4921,7 +4921,7 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT0(moduledict_playsound, (Nuitka_StringObject *)mod_consts[112], tmp_assign_source_16);
+        UPDATE_STRING_DICT0(moduledict_playsound, (Nuitka_StringObject *)mod_consts[111], tmp_assign_source_16);
     }
     goto branch_end_5;
     branch_no_5:;
@@ -4931,10 +4931,10 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_compexpr_right_3;
         PyObject *tmp_tmp_condition_result_8_object_1;
         int tmp_truth_name_3;
-        tmp_compexpr_left_3 = GET_STRING_DICT_VALUE(moduledict_playsound, (Nuitka_StringObject *)mod_consts[122]);
+        tmp_compexpr_left_3 = GET_STRING_DICT_VALUE(moduledict_playsound, (Nuitka_StringObject *)mod_consts[121]);
 
         if (unlikely(tmp_compexpr_left_3 == NULL)) {
-            tmp_compexpr_left_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[122]);
+            tmp_compexpr_left_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[121]);
         }
 
         if (tmp_compexpr_left_3 == NULL) {
@@ -4947,7 +4947,7 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
 
             goto frame_exception_exit_1;
         }
-        tmp_compexpr_right_3 = mod_consts[124];
+        tmp_compexpr_right_3 = mod_consts[123];
         tmp_tmp_condition_result_8_object_1 = RICH_COMPARE_EQ_OBJECT_OBJECT_OBJECT(tmp_compexpr_left_3, tmp_compexpr_right_3);
         if (tmp_tmp_condition_result_8_object_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4981,10 +4981,10 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
     branch_yes_6:;
     {
         PyObject *tmp_assign_source_17;
-        tmp_assign_source_17 = GET_STRING_DICT_VALUE(moduledict_playsound, (Nuitka_StringObject *)mod_consts[118]);
+        tmp_assign_source_17 = GET_STRING_DICT_VALUE(moduledict_playsound, (Nuitka_StringObject *)mod_consts[117]);
 
         if (unlikely(tmp_assign_source_17 == NULL)) {
-            tmp_assign_source_17 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[118]);
+            tmp_assign_source_17 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[117]);
         }
 
         if (tmp_assign_source_17 == NULL) {
@@ -4997,16 +4997,16 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT0(moduledict_playsound, (Nuitka_StringObject *)mod_consts[112], tmp_assign_source_17);
+        UPDATE_STRING_DICT0(moduledict_playsound, (Nuitka_StringObject *)mod_consts[111], tmp_assign_source_17);
     }
     goto branch_end_6;
     branch_no_6:;
     {
         PyObject *tmp_assign_source_18;
-        tmp_assign_source_18 = GET_STRING_DICT_VALUE(moduledict_playsound, (Nuitka_StringObject *)mod_consts[119]);
+        tmp_assign_source_18 = GET_STRING_DICT_VALUE(moduledict_playsound, (Nuitka_StringObject *)mod_consts[118]);
 
         if (unlikely(tmp_assign_source_18 == NULL)) {
-            tmp_assign_source_18 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[119]);
+            tmp_assign_source_18 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[118]);
         }
 
         if (tmp_assign_source_18 == NULL) {
@@ -5019,17 +5019,17 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT0(moduledict_playsound, (Nuitka_StringObject *)mod_consts[112], tmp_assign_source_18);
+        UPDATE_STRING_DICT0(moduledict_playsound, (Nuitka_StringObject *)mod_consts[111], tmp_assign_source_18);
     }
     branch_end_6:;
     branch_end_5:;
-    tmp_res = PyDict_DelItem((PyObject *)moduledict_playsound, mod_consts[122]);
+    tmp_res = PyDict_DelItem((PyObject *)moduledict_playsound, mod_consts[121]);
     tmp_result = tmp_res != -1;
     if (tmp_result == false) CLEAR_ERROR_OCCURRED();
 
     if (unlikely(tmp_result == false)) {
 
-        FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[122]);
+        FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[121]);
         NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
         CHAIN_EXCEPTION(exception_value);
 
@@ -5041,23 +5041,23 @@ PyObject *modulecode_playsound(PyObject *module, struct Nuitka_MetaPathBasedLoad
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_da88c807d562075bb00f38e157f98843);
+    RESTORE_FRAME_EXCEPTION(frame_e6e260e19945cc9848e8d5b392ffbcc0);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_da88c807d562075bb00f38e157f98843);
+    assertFrameObject(frame_e6e260e19945cc9848e8d5b392ffbcc0);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_da88c807d562075bb00f38e157f98843);
+    RESTORE_FRAME_EXCEPTION(frame_e6e260e19945cc9848e8d5b392ffbcc0);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_da88c807d562075bb00f38e157f98843, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_da88c807d562075bb00f38e157f98843->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_da88c807d562075bb00f38e157f98843, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_e6e260e19945cc9848e8d5b392ffbcc0, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_e6e260e19945cc9848e8d5b392ffbcc0->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_e6e260e19945cc9848e8d5b392ffbcc0, exception_lineno);
     }
 
     // Put the previous frame back on top.

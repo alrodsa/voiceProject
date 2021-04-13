@@ -65,11 +65,11 @@ void checkModuleConstants_bcrypt$__about__(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_0ebc7ab2edc2c166ae5ef60bb0da3a97;
+static PyCodeObject *codeobj_e46a4f8352e6d9724797e28495e1cb34;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[1]; CHECK_OBJECT(module_filename_obj);
-    codeobj_0ebc7ab2edc2c166ae5ef60bb0da3a97 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE | CO_FUTURE_UNICODE_LITERALS, mod_consts[29], NULL, NULL, 0, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[28]); CHECK_OBJECT(module_filename_obj);
+    codeobj_e46a4f8352e6d9724797e28495e1cb34 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE | CO_FUTURE_UNICODE_LITERALS, mod_consts[29], NULL, NULL, 0, 0, 0);
 }
 
 // The module function declarations.
@@ -449,7 +449,7 @@ PyObject *modulecode_bcrypt$__about__(PyObject *module, struct Nuitka_MetaPathBa
 #endif
 
     // Temp variables if any
-    struct Nuitka_FrameObject *frame_0ebc7ab2edc2c166ae5ef60bb0da3a97;
+    struct Nuitka_FrameObject *frame_e46a4f8352e6d9724797e28495e1cb34;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -465,30 +465,30 @@ PyObject *modulecode_bcrypt$__about__(PyObject *module, struct Nuitka_MetaPathBa
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[1];
-        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[2], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[1], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_0ebc7ab2edc2c166ae5ef60bb0da3a97 = MAKE_MODULE_FRAME(codeobj_0ebc7ab2edc2c166ae5ef60bb0da3a97, module_bcrypt$__about__);
+    frame_e46a4f8352e6d9724797e28495e1cb34 = MAKE_MODULE_FRAME(codeobj_e46a4f8352e6d9724797e28495e1cb34, module_bcrypt$__about__);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_0ebc7ab2edc2c166ae5ef60bb0da3a97);
-    assert(Py_REFCNT(frame_0ebc7ab2edc2c166ae5ef60bb0da3a97) == 2);
+    pushFrameStack(frame_e46a4f8352e6d9724797e28495e1cb34);
+    assert(Py_REFCNT(frame_e46a4f8352e6d9724797e28495e1cb34) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[1];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[3]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[2]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[2]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[4], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[3], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -504,14 +504,14 @@ PyObject *modulecode_bcrypt$__about__(PyObject *module, struct Nuitka_MetaPathBa
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[3]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[2]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[2]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[5], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[4], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -526,95 +526,95 @@ PyObject *modulecode_bcrypt$__about__(PyObject *module, struct Nuitka_MetaPathBa
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[6], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[5], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
-        frame_0ebc7ab2edc2c166ae5ef60bb0da3a97->m_frame.f_lineno = 16;
+        frame_e46a4f8352e6d9724797e28495e1cb34->m_frame.f_lineno = 16;
         {
             PyObject *hard_module = IMPORT_HARD___FUTURE__();
-            tmp_assign_source_4 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[7]);
+            tmp_assign_source_4 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[6]);
         }
 
         assert(!(tmp_assign_source_4 == NULL));
-        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[7], tmp_assign_source_4);
+        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[6], tmp_assign_source_4);
     }
     {
         PyObject *tmp_assign_source_5;
-        frame_0ebc7ab2edc2c166ae5ef60bb0da3a97->m_frame.f_lineno = 17;
+        frame_e46a4f8352e6d9724797e28495e1cb34->m_frame.f_lineno = 17;
         {
             PyObject *hard_module = IMPORT_HARD___FUTURE__();
-            tmp_assign_source_5 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[8]);
+            tmp_assign_source_5 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[7]);
         }
 
         assert(!(tmp_assign_source_5 == NULL));
-        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[8], tmp_assign_source_5);
+        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[7], tmp_assign_source_5);
     }
     {
         PyObject *tmp_assign_source_6;
-        frame_0ebc7ab2edc2c166ae5ef60bb0da3a97->m_frame.f_lineno = 18;
+        frame_e46a4f8352e6d9724797e28495e1cb34->m_frame.f_lineno = 18;
         {
             PyObject *hard_module = IMPORT_HARD___FUTURE__();
-            tmp_assign_source_6 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[9]);
+            tmp_assign_source_6 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[8]);
         }
 
         assert(!(tmp_assign_source_6 == NULL));
-        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[9], tmp_assign_source_6);
+        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[8], tmp_assign_source_6);
     }
     {
         PyObject *tmp_assign_source_7;
-        tmp_assign_source_7 = LIST_COPY(mod_consts[10]);
-        UPDATE_STRING_DICT1(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[11], tmp_assign_source_7);
+        tmp_assign_source_7 = LIST_COPY(mod_consts[9]);
+        UPDATE_STRING_DICT1(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[10], tmp_assign_source_7);
     }
     {
         PyObject *tmp_assign_source_8;
-        tmp_assign_source_8 = mod_consts[12];
-        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[13], tmp_assign_source_8);
+        tmp_assign_source_8 = mod_consts[11];
+        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[12], tmp_assign_source_8);
     }
     {
         PyObject *tmp_assign_source_9;
-        tmp_assign_source_9 = mod_consts[14];
-        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[15], tmp_assign_source_9);
+        tmp_assign_source_9 = mod_consts[13];
+        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[14], tmp_assign_source_9);
     }
     {
         PyObject *tmp_assign_source_10;
-        tmp_assign_source_10 = mod_consts[16];
-        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[17], tmp_assign_source_10);
+        tmp_assign_source_10 = mod_consts[15];
+        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[16], tmp_assign_source_10);
     }
     {
         PyObject *tmp_assign_source_11;
-        tmp_assign_source_11 = mod_consts[18];
-        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[19], tmp_assign_source_11);
+        tmp_assign_source_11 = mod_consts[17];
+        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[18], tmp_assign_source_11);
     }
     {
         PyObject *tmp_assign_source_12;
-        tmp_assign_source_12 = mod_consts[20];
-        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[21], tmp_assign_source_12);
+        tmp_assign_source_12 = mod_consts[19];
+        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[20], tmp_assign_source_12);
     }
     {
         PyObject *tmp_assign_source_13;
-        tmp_assign_source_13 = mod_consts[22];
-        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[23], tmp_assign_source_13);
+        tmp_assign_source_13 = mod_consts[21];
+        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[22], tmp_assign_source_13);
     }
     {
         PyObject *tmp_assign_source_14;
-        tmp_assign_source_14 = mod_consts[24];
-        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[25], tmp_assign_source_14);
+        tmp_assign_source_14 = mod_consts[23];
+        UPDATE_STRING_DICT0(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[24], tmp_assign_source_14);
     }
     {
         PyObject *tmp_assign_source_15;
         PyObject *tmp_called_instance_1;
         PyObject *tmp_args_element_name_1;
-        tmp_called_instance_1 = mod_consts[26];
-        tmp_args_element_name_1 = GET_STRING_DICT_VALUE(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[21]);
+        tmp_called_instance_1 = mod_consts[25];
+        tmp_args_element_name_1 = GET_STRING_DICT_VALUE(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[20]);
 
         if (unlikely(tmp_args_element_name_1 == NULL)) {
-            tmp_args_element_name_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[21]);
+            tmp_args_element_name_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[20]);
         }
 
         assert(!(tmp_args_element_name_1 == NULL));
-        frame_0ebc7ab2edc2c166ae5ef60bb0da3a97->m_frame.f_lineno = 35;
-        tmp_assign_source_15 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[27], tmp_args_element_name_1);
+        frame_e46a4f8352e6d9724797e28495e1cb34->m_frame.f_lineno = 35;
+        tmp_assign_source_15 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[26], tmp_args_element_name_1);
         if (tmp_assign_source_15 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -625,28 +625,28 @@ PyObject *modulecode_bcrypt$__about__(PyObject *module, struct Nuitka_MetaPathBa
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[28], tmp_assign_source_15);
+        UPDATE_STRING_DICT1(moduledict_bcrypt$__about__, (Nuitka_StringObject *)mod_consts[27], tmp_assign_source_15);
     }
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0ebc7ab2edc2c166ae5ef60bb0da3a97);
+    RESTORE_FRAME_EXCEPTION(frame_e46a4f8352e6d9724797e28495e1cb34);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_0ebc7ab2edc2c166ae5ef60bb0da3a97);
+    assertFrameObject(frame_e46a4f8352e6d9724797e28495e1cb34);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0ebc7ab2edc2c166ae5ef60bb0da3a97);
+    RESTORE_FRAME_EXCEPTION(frame_e46a4f8352e6d9724797e28495e1cb34);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_0ebc7ab2edc2c166ae5ef60bb0da3a97, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_0ebc7ab2edc2c166ae5ef60bb0da3a97->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_0ebc7ab2edc2c166ae5ef60bb0da3a97, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_e46a4f8352e6d9724797e28495e1cb34, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_e46a4f8352e6d9724797e28495e1cb34->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_e46a4f8352e6d9724797e28495e1cb34, exception_lineno);
     }
 
     // Put the previous frame back on top.

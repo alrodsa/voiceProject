@@ -65,55 +65,55 @@ void checkModuleConstants_numpy$lib$histograms(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_516dc1da6ec998d96a6fba4ca479f601;
-static PyCodeObject *codeobj_7b6106a5c6b38cd6de7675343fe1a96e;
-static PyCodeObject *codeobj_93257d6aeb08df15ecea1d404c77acda;
-static PyCodeObject *codeobj_cfd7fe52a6fd278fbdb1ae1d7d131739;
-static PyCodeObject *codeobj_85ab3b3629fa8ab2527511632e270e56;
-static PyCodeObject *codeobj_702dbc8faadc2aa251f951ed3b493ea7;
-static PyCodeObject *codeobj_2d3888b3b54eefefe2dedb3b6d5312be;
-static PyCodeObject *codeobj_a9539b3a036ce69b4cc6e4e3aab19b3c;
-static PyCodeObject *codeobj_acf36e01c4d42e959b89aeccbf84731c;
-static PyCodeObject *codeobj_80bb0bddabaa425be2a350f67b1f21d1;
-static PyCodeObject *codeobj_6c55638e01dc6a365218193d832fccb7;
-static PyCodeObject *codeobj_f93c9f73226f6da47a70872c9ef49106;
-static PyCodeObject *codeobj_439caea15587733bc66a50cf80543890;
-static PyCodeObject *codeobj_c5a77e3c789f4dcaefd3aab7973bb8ba;
-static PyCodeObject *codeobj_165f7fb9160bf89406fc90bfe5b0ce6e;
-static PyCodeObject *codeobj_6b1930e2f78544f8eb3d99d9dd868b8c;
-static PyCodeObject *codeobj_948e8fdafbbbcacb2062bc9ed669314d;
-static PyCodeObject *codeobj_ca0c2a106f8ebde2064639a5a91e3c19;
-static PyCodeObject *codeobj_7ca71fba5944706cbbb8806870216e9f;
-static PyCodeObject *codeobj_14ef45262daac5c5cf277b5f825ef921;
-static PyCodeObject *codeobj_e6ccc49868664af4874e9f2b2cdac7ba;
-static PyCodeObject *codeobj_17bda2bceb180c9071a3f68d7042d739;
-static PyCodeObject *codeobj_3621bafdd865e9f42483d86dba037e9d;
+static PyCodeObject *codeobj_dc09b056608837ee00f14b4a6aed8539;
+static PyCodeObject *codeobj_93fd70631d4095a867adf4a19906fa75;
+static PyCodeObject *codeobj_9bcc1eac5f4c3fa8ef2fe0c3200a30a2;
+static PyCodeObject *codeobj_d843e36049f7f1fe39c1e1c35572246c;
+static PyCodeObject *codeobj_957118e7501aea565cfa42abee68919f;
+static PyCodeObject *codeobj_e155178e7fff35483c594289bab048a8;
+static PyCodeObject *codeobj_8778fbffa990959de07c6fe53f966387;
+static PyCodeObject *codeobj_2acd9dc88dc139e0004095a8d967bc5f;
+static PyCodeObject *codeobj_f2e9138814a2de1df29be05413e41db2;
+static PyCodeObject *codeobj_a9109e4bb8cacf7210b09d37e859aef3;
+static PyCodeObject *codeobj_77a1afcb66c8f079dae8dd263be50657;
+static PyCodeObject *codeobj_581630cf36e9eacd3a667b98c1ba6423;
+static PyCodeObject *codeobj_691f780ad61c45341781321693e8b33e;
+static PyCodeObject *codeobj_2b5174909173833bc3e4b637a5c4cc7f;
+static PyCodeObject *codeobj_ba09d5e1b138f80d37de670923f60cce;
+static PyCodeObject *codeobj_da108107199920bd314aa2cff07552d4;
+static PyCodeObject *codeobj_11f963722d05907f8da5f3fbfa8b2230;
+static PyCodeObject *codeobj_52d9a704794cbcc6c829a61dda667143;
+static PyCodeObject *codeobj_4faec388b420eaa5054e30d8aec9a10f;
+static PyCodeObject *codeobj_2ee63e08c1622506691159776bf34f4c;
+static PyCodeObject *codeobj_2005da7fd576c1ec9af2b974dc4d3727;
+static PyCodeObject *codeobj_05c39b0323595cdd4ceb8e27cc9b7326;
+static PyCodeObject *codeobj_64b8f04a1d390dc5fe62b20e6d5b085d;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[215]; CHECK_OBJECT(module_filename_obj);
-    codeobj_516dc1da6ec998d96a6fba4ca479f601 = MAKE_CODEOBJECT(module_filename_obj, 1073, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[211], mod_consts[251], NULL, 1, 0, 0);
-    codeobj_7b6106a5c6b38cd6de7675343fe1a96e = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[252], NULL, NULL, 0, 0, 0);
-    codeobj_93257d6aeb08df15ecea1d404c77acda = MAKE_CODEOBJECT(module_filename_obj, 360, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[133], mod_consts[253], NULL, 4, 0, 0);
-    codeobj_cfd7fe52a6fd278fbdb1ae1d7d131739 = MAKE_CODEOBJECT(module_filename_obj, 304, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[103], mod_consts[254], NULL, 2, 0, 0);
-    codeobj_85ab3b3629fa8ab2527511632e270e56 = MAKE_CODEOBJECT(module_filename_obj, 229, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[236], mod_consts[255], NULL, 2, 0, 0);
-    codeobj_702dbc8faadc2aa251f951ed3b493ea7 = MAKE_CODEOBJECT(module_filename_obj, 164, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[235], mod_consts[256], NULL, 2, 0, 0);
-    codeobj_2d3888b3b54eefefe2dedb3b6d5312be = MAKE_CODEOBJECT(module_filename_obj, 199, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[58], mod_consts[257], NULL, 2, 0, 0);
-    codeobj_a9539b3a036ce69b4cc6e4e3aab19b3c = MAKE_CODEOBJECT(module_filename_obj, 76, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[232], mod_consts[258], NULL, 2, 0, 0);
-    codeobj_acf36e01c4d42e959b89aeccbf84731c = MAKE_CODEOBJECT(module_filename_obj, 100, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[233], mod_consts[258], NULL, 2, 0, 0);
-    codeobj_80bb0bddabaa425be2a350f67b1f21d1 = MAKE_CODEOBJECT(module_filename_obj, 32, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[231], mod_consts[258], NULL, 2, 0, 0);
-    codeobj_6c55638e01dc6a365218193d832fccb7 = MAKE_CODEOBJECT(module_filename_obj, 122, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[234], mod_consts[259], NULL, 2, 0, 0);
-    codeobj_f93c9f73226f6da47a70872c9ef49106 = MAKE_CODEOBJECT(module_filename_obj, 53, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[59], mod_consts[258], NULL, 2, 0, 0);
-    codeobj_439caea15587733bc66a50cf80543890 = MAKE_CODEOBJECT(module_filename_obj, 466, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[244], mod_consts[260], NULL, 4, 0, 0);
-    codeobj_c5a77e3c789f4dcaefd3aab7973bb8ba = MAKE_CODEOBJECT(module_filename_obj, 672, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[248], mod_consts[261], NULL, 6, 0, 0);
-    codeobj_165f7fb9160bf89406fc90bfe5b0ce6e = MAKE_CODEOBJECT(module_filename_obj, 931, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[178], mod_consts[262], NULL, 6, 0, 0);
-    codeobj_6b1930e2f78544f8eb3d99d9dd868b8c = MAKE_CODEOBJECT(module_filename_obj, 22, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[5], mod_consts[263], NULL, 1, 0, 0);
-    codeobj_948e8fdafbbbcacb2062bc9ed669314d = MAKE_CODEOBJECT(module_filename_obj, 283, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[132], mod_consts[264], NULL, 2, 0, 0);
-    codeobj_ca0c2a106f8ebde2064639a5a91e3c19 = MAKE_CODEOBJECT(module_filename_obj, 454, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[156], mod_consts[265], NULL, 2, 0, 0);
-    codeobj_7ca71fba5944706cbbb8806870216e9f = MAKE_CODEOBJECT(module_filename_obj, 334, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[0], mod_consts[266], NULL, 2, 0, 0);
-    codeobj_14ef45262daac5c5cf277b5f825ef921 = MAKE_CODEOBJECT(module_filename_obj, 678, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[37], mod_consts[267], NULL, 6, 0, 0);
-    codeobj_e6ccc49868664af4874e9f2b2cdac7ba = MAKE_CODEOBJECT(module_filename_obj, 471, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[246], mod_consts[268], NULL, 4, 0, 0);
-    codeobj_17bda2bceb180c9071a3f68d7042d739 = MAKE_CODEOBJECT(module_filename_obj, 943, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[250], mod_consts[269], NULL, 6, 0, 0);
-    codeobj_3621bafdd865e9f42483d86dba037e9d = MAKE_CODEOBJECT(module_filename_obj, 151, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[25], mod_consts[270], mod_consts[271], 1, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[250]); CHECK_OBJECT(module_filename_obj);
+    codeobj_dc09b056608837ee00f14b4a6aed8539 = MAKE_CODEOBJECT(module_filename_obj, 1073, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[211], mod_consts[251], NULL, 1, 0, 0);
+    codeobj_93fd70631d4095a867adf4a19906fa75 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[252], NULL, NULL, 0, 0, 0);
+    codeobj_9bcc1eac5f4c3fa8ef2fe0c3200a30a2 = MAKE_CODEOBJECT(module_filename_obj, 360, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[133], mod_consts[253], NULL, 4, 0, 0);
+    codeobj_d843e36049f7f1fe39c1e1c35572246c = MAKE_CODEOBJECT(module_filename_obj, 304, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[103], mod_consts[254], NULL, 2, 0, 0);
+    codeobj_957118e7501aea565cfa42abee68919f = MAKE_CODEOBJECT(module_filename_obj, 229, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[235], mod_consts[255], NULL, 2, 0, 0);
+    codeobj_e155178e7fff35483c594289bab048a8 = MAKE_CODEOBJECT(module_filename_obj, 164, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[234], mod_consts[256], NULL, 2, 0, 0);
+    codeobj_8778fbffa990959de07c6fe53f966387 = MAKE_CODEOBJECT(module_filename_obj, 199, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[58], mod_consts[257], NULL, 2, 0, 0);
+    codeobj_2acd9dc88dc139e0004095a8d967bc5f = MAKE_CODEOBJECT(module_filename_obj, 76, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[231], mod_consts[258], NULL, 2, 0, 0);
+    codeobj_f2e9138814a2de1df29be05413e41db2 = MAKE_CODEOBJECT(module_filename_obj, 100, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[232], mod_consts[258], NULL, 2, 0, 0);
+    codeobj_a9109e4bb8cacf7210b09d37e859aef3 = MAKE_CODEOBJECT(module_filename_obj, 32, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[230], mod_consts[258], NULL, 2, 0, 0);
+    codeobj_77a1afcb66c8f079dae8dd263be50657 = MAKE_CODEOBJECT(module_filename_obj, 122, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[233], mod_consts[259], NULL, 2, 0, 0);
+    codeobj_581630cf36e9eacd3a667b98c1ba6423 = MAKE_CODEOBJECT(module_filename_obj, 53, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[59], mod_consts[258], NULL, 2, 0, 0);
+    codeobj_691f780ad61c45341781321693e8b33e = MAKE_CODEOBJECT(module_filename_obj, 466, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[243], mod_consts[260], NULL, 4, 0, 0);
+    codeobj_2b5174909173833bc3e4b637a5c4cc7f = MAKE_CODEOBJECT(module_filename_obj, 672, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[247], mod_consts[261], NULL, 6, 0, 0);
+    codeobj_ba09d5e1b138f80d37de670923f60cce = MAKE_CODEOBJECT(module_filename_obj, 931, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[178], mod_consts[262], NULL, 6, 0, 0);
+    codeobj_da108107199920bd314aa2cff07552d4 = MAKE_CODEOBJECT(module_filename_obj, 22, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[5], mod_consts[263], NULL, 1, 0, 0);
+    codeobj_11f963722d05907f8da5f3fbfa8b2230 = MAKE_CODEOBJECT(module_filename_obj, 283, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[132], mod_consts[264], NULL, 2, 0, 0);
+    codeobj_52d9a704794cbcc6c829a61dda667143 = MAKE_CODEOBJECT(module_filename_obj, 454, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[156], mod_consts[265], NULL, 2, 0, 0);
+    codeobj_4faec388b420eaa5054e30d8aec9a10f = MAKE_CODEOBJECT(module_filename_obj, 334, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[0], mod_consts[266], NULL, 2, 0, 0);
+    codeobj_2ee63e08c1622506691159776bf34f4c = MAKE_CODEOBJECT(module_filename_obj, 678, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[37], mod_consts[267], NULL, 6, 0, 0);
+    codeobj_2005da7fd576c1ec9af2b974dc4d3727 = MAKE_CODEOBJECT(module_filename_obj, 471, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[245], mod_consts[268], NULL, 4, 0, 0);
+    codeobj_05c39b0323595cdd4ceb8e27cc9b7326 = MAKE_CODEOBJECT(module_filename_obj, 943, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[249], mod_consts[269], NULL, 6, 0, 0);
+    codeobj_64b8f04a1d390dc5fe62b20e6d5b085d = MAKE_CODEOBJECT(module_filename_obj, 151, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[25], mod_consts[270], mod_consts[271], 1, 0, 0);
 }
 
 // The module function declarations.
@@ -198,14 +198,14 @@ static PyObject *impl_numpy$lib$histograms$$$function__1__ptp(struct Nuitka_Func
 
     // Local variable declarations.
     PyObject *par_x = python_pars[0];
-    struct Nuitka_FrameObject *frame_6b1930e2f78544f8eb3d99d9dd868b8c;
+    struct Nuitka_FrameObject *frame_da108107199920bd314aa2cff07552d4;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_6b1930e2f78544f8eb3d99d9dd868b8c = NULL;
+    static struct Nuitka_FrameObject *cache_frame_da108107199920bd314aa2cff07552d4 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -213,31 +213,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__1__ptp(struct Nuitka_Func
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_6b1930e2f78544f8eb3d99d9dd868b8c)) {
-        Py_XDECREF(cache_frame_6b1930e2f78544f8eb3d99d9dd868b8c);
+    if (isFrameUnusable(cache_frame_da108107199920bd314aa2cff07552d4)) {
+        Py_XDECREF(cache_frame_da108107199920bd314aa2cff07552d4);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_6b1930e2f78544f8eb3d99d9dd868b8c == NULL) {
+        if (cache_frame_da108107199920bd314aa2cff07552d4 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_6b1930e2f78544f8eb3d99d9dd868b8c = MAKE_FUNCTION_FRAME(codeobj_6b1930e2f78544f8eb3d99d9dd868b8c, module_numpy$lib$histograms, sizeof(void *));
+        cache_frame_da108107199920bd314aa2cff07552d4 = MAKE_FUNCTION_FRAME(codeobj_da108107199920bd314aa2cff07552d4, module_numpy$lib$histograms, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_6b1930e2f78544f8eb3d99d9dd868b8c->m_type_description == NULL);
-    frame_6b1930e2f78544f8eb3d99d9dd868b8c = cache_frame_6b1930e2f78544f8eb3d99d9dd868b8c;
+    assert(cache_frame_da108107199920bd314aa2cff07552d4->m_type_description == NULL);
+    frame_da108107199920bd314aa2cff07552d4 = cache_frame_da108107199920bd314aa2cff07552d4;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_6b1930e2f78544f8eb3d99d9dd868b8c);
+    pushFrameStack(frame_da108107199920bd314aa2cff07552d4);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_6b1930e2f78544f8eb3d99d9dd868b8c) == 2); // Frame stack
+    assert(Py_REFCNT(frame_da108107199920bd314aa2cff07552d4) == 2); // Frame stack
 
     // Framed code:
     {
@@ -264,7 +264,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__1__ptp(struct Nuitka_Func
         }
         CHECK_OBJECT(par_x);
         tmp_called_instance_1 = par_x;
-        frame_6b1930e2f78544f8eb3d99d9dd868b8c->m_frame.f_lineno = 29;
+        frame_da108107199920bd314aa2cff07552d4->m_frame.f_lineno = 29;
         tmp_args_element_name_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[1]);
         if (tmp_args_element_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -289,7 +289,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__1__ptp(struct Nuitka_Func
         }
 
         tmp_called_instance_2 = par_x;
-        frame_6b1930e2f78544f8eb3d99d9dd868b8c->m_frame.f_lineno = 29;
+        frame_da108107199920bd314aa2cff07552d4->m_frame.f_lineno = 29;
         tmp_args_element_name_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[3]);
         if (tmp_args_element_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -301,7 +301,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__1__ptp(struct Nuitka_Func
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_6b1930e2f78544f8eb3d99d9dd868b8c->m_frame.f_lineno = 29;
+        frame_da108107199920bd314aa2cff07552d4->m_frame.f_lineno = 29;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -323,7 +323,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__1__ptp(struct Nuitka_Func
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6b1930e2f78544f8eb3d99d9dd868b8c);
+    RESTORE_FRAME_EXCEPTION(frame_da108107199920bd314aa2cff07552d4);
 #endif
 
     // Put the previous frame back on top.
@@ -333,7 +333,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__1__ptp(struct Nuitka_Func
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6b1930e2f78544f8eb3d99d9dd868b8c);
+    RESTORE_FRAME_EXCEPTION(frame_da108107199920bd314aa2cff07552d4);
 #endif
 
     // Put the previous frame back on top.
@@ -344,35 +344,35 @@ static PyObject *impl_numpy$lib$histograms$$$function__1__ptp(struct Nuitka_Func
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6b1930e2f78544f8eb3d99d9dd868b8c);
+    RESTORE_FRAME_EXCEPTION(frame_da108107199920bd314aa2cff07552d4);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_6b1930e2f78544f8eb3d99d9dd868b8c, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_6b1930e2f78544f8eb3d99d9dd868b8c->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_6b1930e2f78544f8eb3d99d9dd868b8c, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_da108107199920bd314aa2cff07552d4, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_da108107199920bd314aa2cff07552d4->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_da108107199920bd314aa2cff07552d4, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_6b1930e2f78544f8eb3d99d9dd868b8c,
+        frame_da108107199920bd314aa2cff07552d4,
         type_description_1,
         par_x
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_6b1930e2f78544f8eb3d99d9dd868b8c == cache_frame_6b1930e2f78544f8eb3d99d9dd868b8c) {
+    if (frame_da108107199920bd314aa2cff07552d4 == cache_frame_da108107199920bd314aa2cff07552d4) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_6b1930e2f78544f8eb3d99d9dd868b8c);
-        cache_frame_6b1930e2f78544f8eb3d99d9dd868b8c = NULL;
+        Py_DECREF(cache_frame_da108107199920bd314aa2cff07552d4);
+        cache_frame_da108107199920bd314aa2cff07552d4 = NULL;
     }
 
-    assertFrameObject(frame_6b1930e2f78544f8eb3d99d9dd868b8c);
+    assertFrameObject(frame_da108107199920bd314aa2cff07552d4);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -440,14 +440,14 @@ static PyObject *impl_numpy$lib$histograms$$$function__2__hist_bin_sqrt(struct N
     // Local variable declarations.
     PyObject *par_x = python_pars[0];
     PyObject *par_range = python_pars[1];
-    struct Nuitka_FrameObject *frame_80bb0bddabaa425be2a350f67b1f21d1;
+    struct Nuitka_FrameObject *frame_a9109e4bb8cacf7210b09d37e859aef3;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_80bb0bddabaa425be2a350f67b1f21d1 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_a9109e4bb8cacf7210b09d37e859aef3 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -459,31 +459,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__2__hist_bin_sqrt(struct N
     par_range = NULL;
 
     // Tried code:
-    if (isFrameUnusable(cache_frame_80bb0bddabaa425be2a350f67b1f21d1)) {
-        Py_XDECREF(cache_frame_80bb0bddabaa425be2a350f67b1f21d1);
+    if (isFrameUnusable(cache_frame_a9109e4bb8cacf7210b09d37e859aef3)) {
+        Py_XDECREF(cache_frame_a9109e4bb8cacf7210b09d37e859aef3);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_80bb0bddabaa425be2a350f67b1f21d1 == NULL) {
+        if (cache_frame_a9109e4bb8cacf7210b09d37e859aef3 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_80bb0bddabaa425be2a350f67b1f21d1 = MAKE_FUNCTION_FRAME(codeobj_80bb0bddabaa425be2a350f67b1f21d1, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *));
+        cache_frame_a9109e4bb8cacf7210b09d37e859aef3 = MAKE_FUNCTION_FRAME(codeobj_a9109e4bb8cacf7210b09d37e859aef3, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_80bb0bddabaa425be2a350f67b1f21d1->m_type_description == NULL);
-    frame_80bb0bddabaa425be2a350f67b1f21d1 = cache_frame_80bb0bddabaa425be2a350f67b1f21d1;
+    assert(cache_frame_a9109e4bb8cacf7210b09d37e859aef3->m_type_description == NULL);
+    frame_a9109e4bb8cacf7210b09d37e859aef3 = cache_frame_a9109e4bb8cacf7210b09d37e859aef3;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_80bb0bddabaa425be2a350f67b1f21d1);
+    pushFrameStack(frame_a9109e4bb8cacf7210b09d37e859aef3);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_80bb0bddabaa425be2a350f67b1f21d1) == 2); // Frame stack
+    assert(Py_REFCNT(frame_a9109e4bb8cacf7210b09d37e859aef3) == 2); // Frame stack
 
     // Framed code:
     {
@@ -513,7 +513,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__2__hist_bin_sqrt(struct N
         }
         CHECK_OBJECT(par_x);
         tmp_args_element_name_1 = par_x;
-        frame_80bb0bddabaa425be2a350f67b1f21d1->m_frame.f_lineno = 50;
+        frame_a9109e4bb8cacf7210b09d37e859aef3->m_frame.f_lineno = 50;
         tmp_left_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         if (tmp_left_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -566,7 +566,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__2__hist_bin_sqrt(struct N
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_80bb0bddabaa425be2a350f67b1f21d1->m_frame.f_lineno = 50;
+        frame_a9109e4bb8cacf7210b09d37e859aef3->m_frame.f_lineno = 50;
         tmp_right_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_2);
@@ -597,7 +597,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__2__hist_bin_sqrt(struct N
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_80bb0bddabaa425be2a350f67b1f21d1);
+    RESTORE_FRAME_EXCEPTION(frame_a9109e4bb8cacf7210b09d37e859aef3);
 #endif
 
     // Put the previous frame back on top.
@@ -607,7 +607,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__2__hist_bin_sqrt(struct N
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_80bb0bddabaa425be2a350f67b1f21d1);
+    RESTORE_FRAME_EXCEPTION(frame_a9109e4bb8cacf7210b09d37e859aef3);
 #endif
 
     // Put the previous frame back on top.
@@ -618,18 +618,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__2__hist_bin_sqrt(struct N
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_80bb0bddabaa425be2a350f67b1f21d1);
+    RESTORE_FRAME_EXCEPTION(frame_a9109e4bb8cacf7210b09d37e859aef3);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_80bb0bddabaa425be2a350f67b1f21d1, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_80bb0bddabaa425be2a350f67b1f21d1->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_80bb0bddabaa425be2a350f67b1f21d1, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_a9109e4bb8cacf7210b09d37e859aef3, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_a9109e4bb8cacf7210b09d37e859aef3->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_a9109e4bb8cacf7210b09d37e859aef3, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_80bb0bddabaa425be2a350f67b1f21d1,
+        frame_a9109e4bb8cacf7210b09d37e859aef3,
         type_description_1,
         par_x,
         par_range
@@ -637,17 +637,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__2__hist_bin_sqrt(struct N
 
 
     // Release cached frame if used for exception.
-    if (frame_80bb0bddabaa425be2a350f67b1f21d1 == cache_frame_80bb0bddabaa425be2a350f67b1f21d1) {
+    if (frame_a9109e4bb8cacf7210b09d37e859aef3 == cache_frame_a9109e4bb8cacf7210b09d37e859aef3) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_80bb0bddabaa425be2a350f67b1f21d1);
-        cache_frame_80bb0bddabaa425be2a350f67b1f21d1 = NULL;
+        Py_DECREF(cache_frame_a9109e4bb8cacf7210b09d37e859aef3);
+        cache_frame_a9109e4bb8cacf7210b09d37e859aef3 = NULL;
     }
 
-    assertFrameObject(frame_80bb0bddabaa425be2a350f67b1f21d1);
+    assertFrameObject(frame_a9109e4bb8cacf7210b09d37e859aef3);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -719,14 +719,14 @@ static PyObject *impl_numpy$lib$histograms$$$function__3__hist_bin_sturges(struc
     // Local variable declarations.
     PyObject *par_x = python_pars[0];
     PyObject *par_range = python_pars[1];
-    struct Nuitka_FrameObject *frame_f93c9f73226f6da47a70872c9ef49106;
+    struct Nuitka_FrameObject *frame_581630cf36e9eacd3a667b98c1ba6423;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_f93c9f73226f6da47a70872c9ef49106 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_581630cf36e9eacd3a667b98c1ba6423 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -738,31 +738,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__3__hist_bin_sturges(struc
     par_range = NULL;
 
     // Tried code:
-    if (isFrameUnusable(cache_frame_f93c9f73226f6da47a70872c9ef49106)) {
-        Py_XDECREF(cache_frame_f93c9f73226f6da47a70872c9ef49106);
+    if (isFrameUnusable(cache_frame_581630cf36e9eacd3a667b98c1ba6423)) {
+        Py_XDECREF(cache_frame_581630cf36e9eacd3a667b98c1ba6423);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_f93c9f73226f6da47a70872c9ef49106 == NULL) {
+        if (cache_frame_581630cf36e9eacd3a667b98c1ba6423 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_f93c9f73226f6da47a70872c9ef49106 = MAKE_FUNCTION_FRAME(codeobj_f93c9f73226f6da47a70872c9ef49106, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *));
+        cache_frame_581630cf36e9eacd3a667b98c1ba6423 = MAKE_FUNCTION_FRAME(codeobj_581630cf36e9eacd3a667b98c1ba6423, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_f93c9f73226f6da47a70872c9ef49106->m_type_description == NULL);
-    frame_f93c9f73226f6da47a70872c9ef49106 = cache_frame_f93c9f73226f6da47a70872c9ef49106;
+    assert(cache_frame_581630cf36e9eacd3a667b98c1ba6423->m_type_description == NULL);
+    frame_581630cf36e9eacd3a667b98c1ba6423 = cache_frame_581630cf36e9eacd3a667b98c1ba6423;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_f93c9f73226f6da47a70872c9ef49106);
+    pushFrameStack(frame_581630cf36e9eacd3a667b98c1ba6423);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_f93c9f73226f6da47a70872c9ef49106) == 2); // Frame stack
+    assert(Py_REFCNT(frame_581630cf36e9eacd3a667b98c1ba6423) == 2); // Frame stack
 
     // Framed code:
     {
@@ -794,7 +794,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__3__hist_bin_sturges(struc
         }
         CHECK_OBJECT(par_x);
         tmp_args_element_name_1 = par_x;
-        frame_f93c9f73226f6da47a70872c9ef49106->m_frame.f_lineno = 73;
+        frame_581630cf36e9eacd3a667b98c1ba6423->m_frame.f_lineno = 73;
         tmp_left_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         if (tmp_left_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -847,7 +847,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__3__hist_bin_sturges(struc
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_f93c9f73226f6da47a70872c9ef49106->m_frame.f_lineno = 73;
+        frame_581630cf36e9eacd3a667b98c1ba6423->m_frame.f_lineno = 73;
         tmp_left_name_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_2);
@@ -891,7 +891,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__3__hist_bin_sturges(struc
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f93c9f73226f6da47a70872c9ef49106);
+    RESTORE_FRAME_EXCEPTION(frame_581630cf36e9eacd3a667b98c1ba6423);
 #endif
 
     // Put the previous frame back on top.
@@ -901,7 +901,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__3__hist_bin_sturges(struc
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f93c9f73226f6da47a70872c9ef49106);
+    RESTORE_FRAME_EXCEPTION(frame_581630cf36e9eacd3a667b98c1ba6423);
 #endif
 
     // Put the previous frame back on top.
@@ -912,18 +912,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__3__hist_bin_sturges(struc
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f93c9f73226f6da47a70872c9ef49106);
+    RESTORE_FRAME_EXCEPTION(frame_581630cf36e9eacd3a667b98c1ba6423);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_f93c9f73226f6da47a70872c9ef49106, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_f93c9f73226f6da47a70872c9ef49106->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_f93c9f73226f6da47a70872c9ef49106, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_581630cf36e9eacd3a667b98c1ba6423, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_581630cf36e9eacd3a667b98c1ba6423->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_581630cf36e9eacd3a667b98c1ba6423, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_f93c9f73226f6da47a70872c9ef49106,
+        frame_581630cf36e9eacd3a667b98c1ba6423,
         type_description_1,
         par_x,
         par_range
@@ -931,17 +931,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__3__hist_bin_sturges(struc
 
 
     // Release cached frame if used for exception.
-    if (frame_f93c9f73226f6da47a70872c9ef49106 == cache_frame_f93c9f73226f6da47a70872c9ef49106) {
+    if (frame_581630cf36e9eacd3a667b98c1ba6423 == cache_frame_581630cf36e9eacd3a667b98c1ba6423) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_f93c9f73226f6da47a70872c9ef49106);
-        cache_frame_f93c9f73226f6da47a70872c9ef49106 = NULL;
+        Py_DECREF(cache_frame_581630cf36e9eacd3a667b98c1ba6423);
+        cache_frame_581630cf36e9eacd3a667b98c1ba6423 = NULL;
     }
 
-    assertFrameObject(frame_f93c9f73226f6da47a70872c9ef49106);
+    assertFrameObject(frame_581630cf36e9eacd3a667b98c1ba6423);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1013,14 +1013,14 @@ static PyObject *impl_numpy$lib$histograms$$$function__4__hist_bin_rice(struct N
     // Local variable declarations.
     PyObject *par_x = python_pars[0];
     PyObject *par_range = python_pars[1];
-    struct Nuitka_FrameObject *frame_a9539b3a036ce69b4cc6e4e3aab19b3c;
+    struct Nuitka_FrameObject *frame_2acd9dc88dc139e0004095a8d967bc5f;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_a9539b3a036ce69b4cc6e4e3aab19b3c = NULL;
+    static struct Nuitka_FrameObject *cache_frame_2acd9dc88dc139e0004095a8d967bc5f = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -1032,31 +1032,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__4__hist_bin_rice(struct N
     par_range = NULL;
 
     // Tried code:
-    if (isFrameUnusable(cache_frame_a9539b3a036ce69b4cc6e4e3aab19b3c)) {
-        Py_XDECREF(cache_frame_a9539b3a036ce69b4cc6e4e3aab19b3c);
+    if (isFrameUnusable(cache_frame_2acd9dc88dc139e0004095a8d967bc5f)) {
+        Py_XDECREF(cache_frame_2acd9dc88dc139e0004095a8d967bc5f);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_a9539b3a036ce69b4cc6e4e3aab19b3c == NULL) {
+        if (cache_frame_2acd9dc88dc139e0004095a8d967bc5f == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_a9539b3a036ce69b4cc6e4e3aab19b3c = MAKE_FUNCTION_FRAME(codeobj_a9539b3a036ce69b4cc6e4e3aab19b3c, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *));
+        cache_frame_2acd9dc88dc139e0004095a8d967bc5f = MAKE_FUNCTION_FRAME(codeobj_2acd9dc88dc139e0004095a8d967bc5f, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_a9539b3a036ce69b4cc6e4e3aab19b3c->m_type_description == NULL);
-    frame_a9539b3a036ce69b4cc6e4e3aab19b3c = cache_frame_a9539b3a036ce69b4cc6e4e3aab19b3c;
+    assert(cache_frame_2acd9dc88dc139e0004095a8d967bc5f->m_type_description == NULL);
+    frame_2acd9dc88dc139e0004095a8d967bc5f = cache_frame_2acd9dc88dc139e0004095a8d967bc5f;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_a9539b3a036ce69b4cc6e4e3aab19b3c);
+    pushFrameStack(frame_2acd9dc88dc139e0004095a8d967bc5f);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_a9539b3a036ce69b4cc6e4e3aab19b3c) == 2); // Frame stack
+    assert(Py_REFCNT(frame_2acd9dc88dc139e0004095a8d967bc5f) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1087,7 +1087,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__4__hist_bin_rice(struct N
         }
         CHECK_OBJECT(par_x);
         tmp_args_element_name_1 = par_x;
-        frame_a9539b3a036ce69b4cc6e4e3aab19b3c->m_frame.f_lineno = 97;
+        frame_2acd9dc88dc139e0004095a8d967bc5f->m_frame.f_lineno = 97;
         tmp_left_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         if (tmp_left_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1155,7 +1155,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__4__hist_bin_rice(struct N
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a9539b3a036ce69b4cc6e4e3aab19b3c);
+    RESTORE_FRAME_EXCEPTION(frame_2acd9dc88dc139e0004095a8d967bc5f);
 #endif
 
     // Put the previous frame back on top.
@@ -1165,7 +1165,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__4__hist_bin_rice(struct N
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a9539b3a036ce69b4cc6e4e3aab19b3c);
+    RESTORE_FRAME_EXCEPTION(frame_2acd9dc88dc139e0004095a8d967bc5f);
 #endif
 
     // Put the previous frame back on top.
@@ -1176,18 +1176,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__4__hist_bin_rice(struct N
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a9539b3a036ce69b4cc6e4e3aab19b3c);
+    RESTORE_FRAME_EXCEPTION(frame_2acd9dc88dc139e0004095a8d967bc5f);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a9539b3a036ce69b4cc6e4e3aab19b3c, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a9539b3a036ce69b4cc6e4e3aab19b3c->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a9539b3a036ce69b4cc6e4e3aab19b3c, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_2acd9dc88dc139e0004095a8d967bc5f, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_2acd9dc88dc139e0004095a8d967bc5f->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_2acd9dc88dc139e0004095a8d967bc5f, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_a9539b3a036ce69b4cc6e4e3aab19b3c,
+        frame_2acd9dc88dc139e0004095a8d967bc5f,
         type_description_1,
         par_x,
         par_range
@@ -1195,17 +1195,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__4__hist_bin_rice(struct N
 
 
     // Release cached frame if used for exception.
-    if (frame_a9539b3a036ce69b4cc6e4e3aab19b3c == cache_frame_a9539b3a036ce69b4cc6e4e3aab19b3c) {
+    if (frame_2acd9dc88dc139e0004095a8d967bc5f == cache_frame_2acd9dc88dc139e0004095a8d967bc5f) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_a9539b3a036ce69b4cc6e4e3aab19b3c);
-        cache_frame_a9539b3a036ce69b4cc6e4e3aab19b3c = NULL;
+        Py_DECREF(cache_frame_2acd9dc88dc139e0004095a8d967bc5f);
+        cache_frame_2acd9dc88dc139e0004095a8d967bc5f = NULL;
     }
 
-    assertFrameObject(frame_a9539b3a036ce69b4cc6e4e3aab19b3c);
+    assertFrameObject(frame_2acd9dc88dc139e0004095a8d967bc5f);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1277,14 +1277,14 @@ static PyObject *impl_numpy$lib$histograms$$$function__5__hist_bin_scott(struct 
     // Local variable declarations.
     PyObject *par_x = python_pars[0];
     PyObject *par_range = python_pars[1];
-    struct Nuitka_FrameObject *frame_acf36e01c4d42e959b89aeccbf84731c;
+    struct Nuitka_FrameObject *frame_f2e9138814a2de1df29be05413e41db2;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_acf36e01c4d42e959b89aeccbf84731c = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f2e9138814a2de1df29be05413e41db2 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -1296,31 +1296,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__5__hist_bin_scott(struct 
     par_range = NULL;
 
     // Tried code:
-    if (isFrameUnusable(cache_frame_acf36e01c4d42e959b89aeccbf84731c)) {
-        Py_XDECREF(cache_frame_acf36e01c4d42e959b89aeccbf84731c);
+    if (isFrameUnusable(cache_frame_f2e9138814a2de1df29be05413e41db2)) {
+        Py_XDECREF(cache_frame_f2e9138814a2de1df29be05413e41db2);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_acf36e01c4d42e959b89aeccbf84731c == NULL) {
+        if (cache_frame_f2e9138814a2de1df29be05413e41db2 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_acf36e01c4d42e959b89aeccbf84731c = MAKE_FUNCTION_FRAME(codeobj_acf36e01c4d42e959b89aeccbf84731c, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *));
+        cache_frame_f2e9138814a2de1df29be05413e41db2 = MAKE_FUNCTION_FRAME(codeobj_f2e9138814a2de1df29be05413e41db2, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_acf36e01c4d42e959b89aeccbf84731c->m_type_description == NULL);
-    frame_acf36e01c4d42e959b89aeccbf84731c = cache_frame_acf36e01c4d42e959b89aeccbf84731c;
+    assert(cache_frame_f2e9138814a2de1df29be05413e41db2->m_type_description == NULL);
+    frame_f2e9138814a2de1df29be05413e41db2 = cache_frame_f2e9138814a2de1df29be05413e41db2;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_acf36e01c4d42e959b89aeccbf84731c);
+    pushFrameStack(frame_f2e9138814a2de1df29be05413e41db2);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_acf36e01c4d42e959b89aeccbf84731c) == 2); // Frame stack
+    assert(Py_REFCNT(frame_f2e9138814a2de1df29be05413e41db2) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1472,7 +1472,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__5__hist_bin_scott(struct 
         }
 
         tmp_args_element_name_1 = par_x;
-        frame_acf36e01c4d42e959b89aeccbf84731c->m_frame.f_lineno = 119;
+        frame_f2e9138814a2de1df29be05413e41db2->m_frame.f_lineno = 119;
         tmp_right_name_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         if (tmp_right_name_5 == NULL) {
@@ -1502,7 +1502,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__5__hist_bin_scott(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_acf36e01c4d42e959b89aeccbf84731c);
+    RESTORE_FRAME_EXCEPTION(frame_f2e9138814a2de1df29be05413e41db2);
 #endif
 
     // Put the previous frame back on top.
@@ -1512,7 +1512,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__5__hist_bin_scott(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_acf36e01c4d42e959b89aeccbf84731c);
+    RESTORE_FRAME_EXCEPTION(frame_f2e9138814a2de1df29be05413e41db2);
 #endif
 
     // Put the previous frame back on top.
@@ -1523,18 +1523,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__5__hist_bin_scott(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_acf36e01c4d42e959b89aeccbf84731c);
+    RESTORE_FRAME_EXCEPTION(frame_f2e9138814a2de1df29be05413e41db2);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_acf36e01c4d42e959b89aeccbf84731c, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_acf36e01c4d42e959b89aeccbf84731c->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_acf36e01c4d42e959b89aeccbf84731c, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_f2e9138814a2de1df29be05413e41db2, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_f2e9138814a2de1df29be05413e41db2->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_f2e9138814a2de1df29be05413e41db2, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_acf36e01c4d42e959b89aeccbf84731c,
+        frame_f2e9138814a2de1df29be05413e41db2,
         type_description_1,
         par_x,
         par_range
@@ -1542,17 +1542,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__5__hist_bin_scott(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_acf36e01c4d42e959b89aeccbf84731c == cache_frame_acf36e01c4d42e959b89aeccbf84731c) {
+    if (frame_f2e9138814a2de1df29be05413e41db2 == cache_frame_f2e9138814a2de1df29be05413e41db2) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_acf36e01c4d42e959b89aeccbf84731c);
-        cache_frame_acf36e01c4d42e959b89aeccbf84731c = NULL;
+        Py_DECREF(cache_frame_f2e9138814a2de1df29be05413e41db2);
+        cache_frame_f2e9138814a2de1df29be05413e41db2 = NULL;
     }
 
-    assertFrameObject(frame_acf36e01c4d42e959b89aeccbf84731c);
+    assertFrameObject(frame_f2e9138814a2de1df29be05413e41db2);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1629,7 +1629,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone(struct 
     PyObject *var_jhat = NULL;
     PyObject *var_nbins_upper_bound = NULL;
     PyObject *var_nbins = NULL;
-    struct Nuitka_FrameObject *frame_6c55638e01dc6a365218193d832fccb7;
+    struct Nuitka_FrameObject *frame_77a1afcb66c8f079dae8dd263be50657;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -1638,7 +1638,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone(struct 
     PyObject *tmp_return_value = NULL;
     int tmp_res;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_6c55638e01dc6a365218193d832fccb7 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_77a1afcb66c8f079dae8dd263be50657 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -1646,31 +1646,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_6c55638e01dc6a365218193d832fccb7)) {
-        Py_XDECREF(cache_frame_6c55638e01dc6a365218193d832fccb7);
+    if (isFrameUnusable(cache_frame_77a1afcb66c8f079dae8dd263be50657)) {
+        Py_XDECREF(cache_frame_77a1afcb66c8f079dae8dd263be50657);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_6c55638e01dc6a365218193d832fccb7 == NULL) {
+        if (cache_frame_77a1afcb66c8f079dae8dd263be50657 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_6c55638e01dc6a365218193d832fccb7 = MAKE_FUNCTION_FRAME(codeobj_6c55638e01dc6a365218193d832fccb7, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_77a1afcb66c8f079dae8dd263be50657 = MAKE_FUNCTION_FRAME(codeobj_77a1afcb66c8f079dae8dd263be50657, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_6c55638e01dc6a365218193d832fccb7->m_type_description == NULL);
-    frame_6c55638e01dc6a365218193d832fccb7 = cache_frame_6c55638e01dc6a365218193d832fccb7;
+    assert(cache_frame_77a1afcb66c8f079dae8dd263be50657->m_type_description == NULL);
+    frame_77a1afcb66c8f079dae8dd263be50657 = cache_frame_77a1afcb66c8f079dae8dd263be50657;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_6c55638e01dc6a365218193d832fccb7);
+    pushFrameStack(frame_77a1afcb66c8f079dae8dd263be50657);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_6c55638e01dc6a365218193d832fccb7) == 2); // Frame stack
+    assert(Py_REFCNT(frame_77a1afcb66c8f079dae8dd263be50657) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1726,7 +1726,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone(struct 
         }
 
         tmp_args_element_name_1 = Nuitka_Cell_GET(par_x);
-        frame_6c55638e01dc6a365218193d832fccb7->m_frame.f_lineno = 147;
+        frame_77a1afcb66c8f079dae8dd263be50657->m_frame.f_lineno = 147;
         tmp_assign_source_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         if (tmp_assign_source_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1934,7 +1934,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone(struct 
         }
 
         tmp_args_element_name_4 = Nuitka_Cell_GET(var_n);
-        frame_6c55638e01dc6a365218193d832fccb7->m_frame.f_lineno = 156;
+        frame_77a1afcb66c8f079dae8dd263be50657->m_frame.f_lineno = 156;
         tmp_int_arg_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_3);
         if (tmp_int_arg_1 == NULL) {
@@ -1959,7 +1959,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone(struct 
             type_description_1 = "ccccooo";
             goto frame_exception_exit_1;
         }
-        frame_6c55638e01dc6a365218193d832fccb7->m_frame.f_lineno = 156;
+        frame_77a1afcb66c8f079dae8dd263be50657->m_frame.f_lineno = 156;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_assign_source_4 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -2025,7 +2025,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone(struct 
             type_description_1 = "ccccooo";
             goto frame_exception_exit_1;
         }
-        frame_6c55638e01dc6a365218193d832fccb7->m_frame.f_lineno = 157;
+        frame_77a1afcb66c8f079dae8dd263be50657->m_frame.f_lineno = 157;
         {
             PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_tuple_element_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_5, call_args);
@@ -2050,7 +2050,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone(struct 
         tmp_kwargs_name_1 = _PyDict_NewPresized( 1 );
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_6c55638e01dc6a365218193d832fccb7->m_frame.f_lineno = 157;
+        frame_77a1afcb66c8f079dae8dd263be50657->m_frame.f_lineno = 157;
         tmp_assign_source_5 = CALL_FUNCTION(tmp_called_name_4, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_args_name_1);
         Py_DECREF(tmp_kwargs_name_1);
@@ -2168,7 +2168,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone(struct 
         // Finished with no exception for tuple_build:
         tuple_build_noexception_1:;
         tmp_kwargs_name_2 = PyDict_Copy(mod_consts[35]);
-        frame_6c55638e01dc6a365218193d832fccb7->m_frame.f_lineno = 159;
+        frame_77a1afcb66c8f079dae8dd263be50657->m_frame.f_lineno = 159;
         tmp_call_result_1 = CALL_FUNCTION(tmp_called_name_6, tmp_args_name_2, tmp_kwargs_name_2);
         Py_DECREF(tmp_called_name_6);
         Py_DECREF(tmp_args_name_2);
@@ -2219,7 +2219,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6c55638e01dc6a365218193d832fccb7);
+    RESTORE_FRAME_EXCEPTION(frame_77a1afcb66c8f079dae8dd263be50657);
 #endif
 
     // Put the previous frame back on top.
@@ -2229,7 +2229,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6c55638e01dc6a365218193d832fccb7);
+    RESTORE_FRAME_EXCEPTION(frame_77a1afcb66c8f079dae8dd263be50657);
 #endif
 
     // Put the previous frame back on top.
@@ -2240,18 +2240,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6c55638e01dc6a365218193d832fccb7);
+    RESTORE_FRAME_EXCEPTION(frame_77a1afcb66c8f079dae8dd263be50657);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_6c55638e01dc6a365218193d832fccb7, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_6c55638e01dc6a365218193d832fccb7->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_6c55638e01dc6a365218193d832fccb7, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_77a1afcb66c8f079dae8dd263be50657, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_77a1afcb66c8f079dae8dd263be50657->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_77a1afcb66c8f079dae8dd263be50657, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_6c55638e01dc6a365218193d832fccb7,
+        frame_77a1afcb66c8f079dae8dd263be50657,
         type_description_1,
         par_x,
         par_range,
@@ -2264,17 +2264,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_6c55638e01dc6a365218193d832fccb7 == cache_frame_6c55638e01dc6a365218193d832fccb7) {
+    if (frame_77a1afcb66c8f079dae8dd263be50657 == cache_frame_77a1afcb66c8f079dae8dd263be50657) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_6c55638e01dc6a365218193d832fccb7);
-        cache_frame_6c55638e01dc6a365218193d832fccb7 = NULL;
+        Py_DECREF(cache_frame_77a1afcb66c8f079dae8dd263be50657);
+        cache_frame_77a1afcb66c8f079dae8dd263be50657 = NULL;
     }
 
-    assertFrameObject(frame_6c55638e01dc6a365218193d832fccb7);
+    assertFrameObject(frame_77a1afcb66c8f079dae8dd263be50657);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2375,7 +2375,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone$$$funct
     PyObject *par_nbins = python_pars[0];
     PyObject *var_hh = NULL;
     PyObject *var_p_k = NULL;
-    struct Nuitka_FrameObject *frame_3621bafdd865e9f42483d86dba037e9d;
+    struct Nuitka_FrameObject *frame_64b8f04a1d390dc5fe62b20e6d5b085d;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -2383,7 +2383,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone$$$funct
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_3621bafdd865e9f42483d86dba037e9d = NULL;
+    static struct Nuitka_FrameObject *cache_frame_64b8f04a1d390dc5fe62b20e6d5b085d = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -2391,31 +2391,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone$$$funct
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_3621bafdd865e9f42483d86dba037e9d)) {
-        Py_XDECREF(cache_frame_3621bafdd865e9f42483d86dba037e9d);
+    if (isFrameUnusable(cache_frame_64b8f04a1d390dc5fe62b20e6d5b085d)) {
+        Py_XDECREF(cache_frame_64b8f04a1d390dc5fe62b20e6d5b085d);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_3621bafdd865e9f42483d86dba037e9d == NULL) {
+        if (cache_frame_64b8f04a1d390dc5fe62b20e6d5b085d == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_3621bafdd865e9f42483d86dba037e9d = MAKE_FUNCTION_FRAME(codeobj_3621bafdd865e9f42483d86dba037e9d, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_64b8f04a1d390dc5fe62b20e6d5b085d = MAKE_FUNCTION_FRAME(codeobj_64b8f04a1d390dc5fe62b20e6d5b085d, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_3621bafdd865e9f42483d86dba037e9d->m_type_description == NULL);
-    frame_3621bafdd865e9f42483d86dba037e9d = cache_frame_3621bafdd865e9f42483d86dba037e9d;
+    assert(cache_frame_64b8f04a1d390dc5fe62b20e6d5b085d->m_type_description == NULL);
+    frame_64b8f04a1d390dc5fe62b20e6d5b085d = cache_frame_64b8f04a1d390dc5fe62b20e6d5b085d;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_3621bafdd865e9f42483d86dba037e9d);
+    pushFrameStack(frame_64b8f04a1d390dc5fe62b20e6d5b085d);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_3621bafdd865e9f42483d86dba037e9d) == 2); // Frame stack
+    assert(Py_REFCNT(frame_64b8f04a1d390dc5fe62b20e6d5b085d) == 2); // Frame stack
 
     // Framed code:
     {
@@ -2549,7 +2549,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone$$$funct
         goto frame_exception_exit_1;
         // Finished with no exception for dict_build:
         dict_build_noexception_1:;
-        frame_3621bafdd865e9f42483d86dba037e9d->m_frame.f_lineno = 153;
+        frame_64b8f04a1d390dc5fe62b20e6d5b085d->m_frame.f_lineno = 153;
         tmp_expression_name_1 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -2670,7 +2670,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone$$$funct
         }
 
         tmp_args_element_name_1 = var_p_k;
-        frame_3621bafdd865e9f42483d86dba037e9d->m_frame.f_lineno = 154;
+        frame_64b8f04a1d390dc5fe62b20e6d5b085d->m_frame.f_lineno = 154;
         tmp_right_name_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_2);
         if (tmp_right_name_5 == NULL) {
@@ -2726,7 +2726,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone$$$funct
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3621bafdd865e9f42483d86dba037e9d);
+    RESTORE_FRAME_EXCEPTION(frame_64b8f04a1d390dc5fe62b20e6d5b085d);
 #endif
 
     // Put the previous frame back on top.
@@ -2736,7 +2736,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone$$$funct
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3621bafdd865e9f42483d86dba037e9d);
+    RESTORE_FRAME_EXCEPTION(frame_64b8f04a1d390dc5fe62b20e6d5b085d);
 #endif
 
     // Put the previous frame back on top.
@@ -2747,18 +2747,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone$$$funct
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3621bafdd865e9f42483d86dba037e9d);
+    RESTORE_FRAME_EXCEPTION(frame_64b8f04a1d390dc5fe62b20e6d5b085d);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_3621bafdd865e9f42483d86dba037e9d, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_3621bafdd865e9f42483d86dba037e9d->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_3621bafdd865e9f42483d86dba037e9d, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_64b8f04a1d390dc5fe62b20e6d5b085d, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_64b8f04a1d390dc5fe62b20e6d5b085d->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_64b8f04a1d390dc5fe62b20e6d5b085d, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_3621bafdd865e9f42483d86dba037e9d,
+        frame_64b8f04a1d390dc5fe62b20e6d5b085d,
         type_description_1,
         par_nbins,
         var_hh,
@@ -2771,17 +2771,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__6__hist_bin_stone$$$funct
 
 
     // Release cached frame if used for exception.
-    if (frame_3621bafdd865e9f42483d86dba037e9d == cache_frame_3621bafdd865e9f42483d86dba037e9d) {
+    if (frame_64b8f04a1d390dc5fe62b20e6d5b085d == cache_frame_64b8f04a1d390dc5fe62b20e6d5b085d) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_3621bafdd865e9f42483d86dba037e9d);
-        cache_frame_3621bafdd865e9f42483d86dba037e9d = NULL;
+        Py_DECREF(cache_frame_64b8f04a1d390dc5fe62b20e6d5b085d);
+        cache_frame_64b8f04a1d390dc5fe62b20e6d5b085d = NULL;
     }
 
-    assertFrameObject(frame_3621bafdd865e9f42483d86dba037e9d);
+    assertFrameObject(frame_64b8f04a1d390dc5fe62b20e6d5b085d);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2861,7 +2861,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
     PyObject *var_sigma = NULL;
     PyObject *var_temp = NULL;
     PyObject *var_g1 = NULL;
-    struct Nuitka_FrameObject *frame_702dbc8faadc2aa251f951ed3b493ea7;
+    struct Nuitka_FrameObject *frame_e155178e7fff35483c594289bab048a8;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -2869,7 +2869,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_702dbc8faadc2aa251f951ed3b493ea7 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_e155178e7fff35483c594289bab048a8 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -2881,31 +2881,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
     par_range = NULL;
 
     // Tried code:
-    if (isFrameUnusable(cache_frame_702dbc8faadc2aa251f951ed3b493ea7)) {
-        Py_XDECREF(cache_frame_702dbc8faadc2aa251f951ed3b493ea7);
+    if (isFrameUnusable(cache_frame_e155178e7fff35483c594289bab048a8)) {
+        Py_XDECREF(cache_frame_e155178e7fff35483c594289bab048a8);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_702dbc8faadc2aa251f951ed3b493ea7 == NULL) {
+        if (cache_frame_e155178e7fff35483c594289bab048a8 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_702dbc8faadc2aa251f951ed3b493ea7 = MAKE_FUNCTION_FRAME(codeobj_702dbc8faadc2aa251f951ed3b493ea7, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_e155178e7fff35483c594289bab048a8 = MAKE_FUNCTION_FRAME(codeobj_e155178e7fff35483c594289bab048a8, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_702dbc8faadc2aa251f951ed3b493ea7->m_type_description == NULL);
-    frame_702dbc8faadc2aa251f951ed3b493ea7 = cache_frame_702dbc8faadc2aa251f951ed3b493ea7;
+    assert(cache_frame_e155178e7fff35483c594289bab048a8->m_type_description == NULL);
+    frame_e155178e7fff35483c594289bab048a8 = cache_frame_e155178e7fff35483c594289bab048a8;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_702dbc8faadc2aa251f951ed3b493ea7);
+    pushFrameStack(frame_e155178e7fff35483c594289bab048a8);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_702dbc8faadc2aa251f951ed3b493ea7) == 2); // Frame stack
+    assert(Py_REFCNT(frame_e155178e7fff35483c594289bab048a8) == 2); // Frame stack
 
     // Framed code:
     {
@@ -3168,7 +3168,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_702dbc8faadc2aa251f951ed3b493ea7->m_frame.f_lineno = 184;
+        frame_e155178e7fff35483c594289bab048a8->m_frame.f_lineno = 184;
         tmp_assign_source_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -3230,7 +3230,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
         }
 
         tmp_args_element_name_2 = par_x;
-        frame_702dbc8faadc2aa251f951ed3b493ea7->m_frame.f_lineno = 185;
+        frame_e155178e7fff35483c594289bab048a8->m_frame.f_lineno = 185;
         tmp_assign_source_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         if (tmp_assign_source_2 == NULL) {
@@ -3332,7 +3332,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
         }
 
         tmp_args_element_name_3 = par_x;
-        frame_702dbc8faadc2aa251f951ed3b493ea7->m_frame.f_lineno = 190;
+        frame_e155178e7fff35483c594289bab048a8->m_frame.f_lineno = 190;
         tmp_right_name_7 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_3);
         if (tmp_right_name_7 == NULL) {
@@ -3388,7 +3388,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
         tmp_args_element_name_5 = var_sigma;
         CHECK_OBJECT(var_temp);
         tmp_args_element_name_6 = var_temp;
-        frame_702dbc8faadc2aa251f951ed3b493ea7->m_frame.f_lineno = 191;
+        frame_e155178e7fff35483c594289bab048a8->m_frame.f_lineno = 191;
         {
             PyObject *call_args[] = {tmp_args_element_name_4, tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS3(
@@ -3471,7 +3471,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
         }
 
         tmp_args_element_name_9 = var_temp;
-        frame_702dbc8faadc2aa251f951ed3b493ea7->m_frame.f_lineno = 192;
+        frame_e155178e7fff35483c594289bab048a8->m_frame.f_lineno = 192;
         {
             PyObject *call_args[] = {tmp_args_element_name_7, tmp_args_element_name_8, tmp_args_element_name_9};
             tmp_call_result_2 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_4, call_args);
@@ -3535,7 +3535,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
         }
 
         tmp_args_element_name_10 = var_temp;
-        frame_702dbc8faadc2aa251f951ed3b493ea7->m_frame.f_lineno = 193;
+        frame_e155178e7fff35483c594289bab048a8->m_frame.f_lineno = 193;
         tmp_assign_source_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_10);
         Py_DECREF(tmp_called_name_5);
         if (tmp_assign_source_4 == NULL) {
@@ -3602,7 +3602,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
         }
 
         tmp_args_element_name_11 = par_x;
-        frame_702dbc8faadc2aa251f951ed3b493ea7->m_frame.f_lineno = 194;
+        frame_e155178e7fff35483c594289bab048a8->m_frame.f_lineno = 194;
         tmp_left_name_8 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_11);
         if (tmp_left_name_8 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3668,7 +3668,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_702dbc8faadc2aa251f951ed3b493ea7->m_frame.f_lineno = 194;
+        frame_e155178e7fff35483c594289bab048a8->m_frame.f_lineno = 194;
         tmp_right_name_9 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_7, tmp_args_element_name_12);
         Py_DECREF(tmp_called_name_7);
         Py_DECREF(tmp_args_element_name_12);
@@ -3744,7 +3744,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
         }
         CHECK_OBJECT(var_g1);
         tmp_args_element_name_14 = var_g1;
-        frame_702dbc8faadc2aa251f951ed3b493ea7->m_frame.f_lineno = 195;
+        frame_e155178e7fff35483c594289bab048a8->m_frame.f_lineno = 195;
         tmp_left_name_12 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[51], tmp_args_element_name_14);
         if (tmp_left_name_12 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3788,7 +3788,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_702dbc8faadc2aa251f951ed3b493ea7->m_frame.f_lineno = 195;
+        frame_e155178e7fff35483c594289bab048a8->m_frame.f_lineno = 195;
         tmp_right_name_10 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_8, tmp_args_element_name_13);
         Py_DECREF(tmp_called_name_8);
         Py_DECREF(tmp_args_element_name_13);
@@ -3835,7 +3835,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
     branch_no_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_702dbc8faadc2aa251f951ed3b493ea7);
+    RESTORE_FRAME_EXCEPTION(frame_e155178e7fff35483c594289bab048a8);
 #endif
 
     // Put the previous frame back on top.
@@ -3845,7 +3845,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_702dbc8faadc2aa251f951ed3b493ea7);
+    RESTORE_FRAME_EXCEPTION(frame_e155178e7fff35483c594289bab048a8);
 #endif
 
     // Put the previous frame back on top.
@@ -3856,18 +3856,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_702dbc8faadc2aa251f951ed3b493ea7);
+    RESTORE_FRAME_EXCEPTION(frame_e155178e7fff35483c594289bab048a8);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_702dbc8faadc2aa251f951ed3b493ea7, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_702dbc8faadc2aa251f951ed3b493ea7->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_702dbc8faadc2aa251f951ed3b493ea7, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_e155178e7fff35483c594289bab048a8, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_e155178e7fff35483c594289bab048a8->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_e155178e7fff35483c594289bab048a8, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_702dbc8faadc2aa251f951ed3b493ea7,
+        frame_e155178e7fff35483c594289bab048a8,
         type_description_1,
         par_x,
         par_range,
@@ -3879,17 +3879,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__7__hist_bin_doane(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_702dbc8faadc2aa251f951ed3b493ea7 == cache_frame_702dbc8faadc2aa251f951ed3b493ea7) {
+    if (frame_e155178e7fff35483c594289bab048a8 == cache_frame_e155178e7fff35483c594289bab048a8) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_702dbc8faadc2aa251f951ed3b493ea7);
-        cache_frame_702dbc8faadc2aa251f951ed3b493ea7 = NULL;
+        Py_DECREF(cache_frame_e155178e7fff35483c594289bab048a8);
+        cache_frame_e155178e7fff35483c594289bab048a8 = NULL;
     }
 
-    assertFrameObject(frame_702dbc8faadc2aa251f951ed3b493ea7);
+    assertFrameObject(frame_e155178e7fff35483c594289bab048a8);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -3981,14 +3981,14 @@ static PyObject *impl_numpy$lib$histograms$$$function__8__hist_bin_fd(struct Nui
     PyObject *par_x = python_pars[0];
     PyObject *par_range = python_pars[1];
     PyObject *var_iqr = NULL;
-    struct Nuitka_FrameObject *frame_2d3888b3b54eefefe2dedb3b6d5312be;
+    struct Nuitka_FrameObject *frame_8778fbffa990959de07c6fe53f966387;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_2d3888b3b54eefefe2dedb3b6d5312be = NULL;
+    static struct Nuitka_FrameObject *cache_frame_8778fbffa990959de07c6fe53f966387 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -4000,31 +4000,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__8__hist_bin_fd(struct Nui
     par_range = NULL;
 
     // Tried code:
-    if (isFrameUnusable(cache_frame_2d3888b3b54eefefe2dedb3b6d5312be)) {
-        Py_XDECREF(cache_frame_2d3888b3b54eefefe2dedb3b6d5312be);
+    if (isFrameUnusable(cache_frame_8778fbffa990959de07c6fe53f966387)) {
+        Py_XDECREF(cache_frame_8778fbffa990959de07c6fe53f966387);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_2d3888b3b54eefefe2dedb3b6d5312be == NULL) {
+        if (cache_frame_8778fbffa990959de07c6fe53f966387 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_2d3888b3b54eefefe2dedb3b6d5312be = MAKE_FUNCTION_FRAME(codeobj_2d3888b3b54eefefe2dedb3b6d5312be, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_8778fbffa990959de07c6fe53f966387 = MAKE_FUNCTION_FRAME(codeobj_8778fbffa990959de07c6fe53f966387, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_2d3888b3b54eefefe2dedb3b6d5312be->m_type_description == NULL);
-    frame_2d3888b3b54eefefe2dedb3b6d5312be = cache_frame_2d3888b3b54eefefe2dedb3b6d5312be;
+    assert(cache_frame_8778fbffa990959de07c6fe53f966387->m_type_description == NULL);
+    frame_8778fbffa990959de07c6fe53f966387 = cache_frame_8778fbffa990959de07c6fe53f966387;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_2d3888b3b54eefefe2dedb3b6d5312be);
+    pushFrameStack(frame_8778fbffa990959de07c6fe53f966387);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_2d3888b3b54eefefe2dedb3b6d5312be) == 2); // Frame stack
+    assert(Py_REFCNT(frame_8778fbffa990959de07c6fe53f966387) == 2); // Frame stack
 
     // Framed code:
     {
@@ -4081,7 +4081,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__8__hist_bin_fd(struct Nui
         CHECK_OBJECT(par_x);
         tmp_args_element_name_1 = par_x;
         tmp_args_element_name_2 = LIST_COPY(mod_consts[55]);
-        frame_2d3888b3b54eefefe2dedb3b6d5312be->m_frame.f_lineno = 225;
+        frame_8778fbffa990959de07c6fe53f966387->m_frame.f_lineno = 225;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_dircall_arg2_1 = CALL_METHOD_WITH_ARGS2(
@@ -4196,7 +4196,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__8__hist_bin_fd(struct Nui
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_2d3888b3b54eefefe2dedb3b6d5312be);
+    RESTORE_FRAME_EXCEPTION(frame_8778fbffa990959de07c6fe53f966387);
 #endif
 
     // Put the previous frame back on top.
@@ -4206,7 +4206,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__8__hist_bin_fd(struct Nui
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_2d3888b3b54eefefe2dedb3b6d5312be);
+    RESTORE_FRAME_EXCEPTION(frame_8778fbffa990959de07c6fe53f966387);
 #endif
 
     // Put the previous frame back on top.
@@ -4217,18 +4217,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__8__hist_bin_fd(struct Nui
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_2d3888b3b54eefefe2dedb3b6d5312be);
+    RESTORE_FRAME_EXCEPTION(frame_8778fbffa990959de07c6fe53f966387);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_2d3888b3b54eefefe2dedb3b6d5312be, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_2d3888b3b54eefefe2dedb3b6d5312be->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_2d3888b3b54eefefe2dedb3b6d5312be, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_8778fbffa990959de07c6fe53f966387, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_8778fbffa990959de07c6fe53f966387->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_8778fbffa990959de07c6fe53f966387, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_2d3888b3b54eefefe2dedb3b6d5312be,
+        frame_8778fbffa990959de07c6fe53f966387,
         type_description_1,
         par_x,
         par_range,
@@ -4237,17 +4237,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__8__hist_bin_fd(struct Nui
 
 
     // Release cached frame if used for exception.
-    if (frame_2d3888b3b54eefefe2dedb3b6d5312be == cache_frame_2d3888b3b54eefefe2dedb3b6d5312be) {
+    if (frame_8778fbffa990959de07c6fe53f966387 == cache_frame_8778fbffa990959de07c6fe53f966387) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_2d3888b3b54eefefe2dedb3b6d5312be);
-        cache_frame_2d3888b3b54eefefe2dedb3b6d5312be = NULL;
+        Py_DECREF(cache_frame_8778fbffa990959de07c6fe53f966387);
+        cache_frame_8778fbffa990959de07c6fe53f966387 = NULL;
     }
 
-    assertFrameObject(frame_2d3888b3b54eefefe2dedb3b6d5312be);
+    assertFrameObject(frame_8778fbffa990959de07c6fe53f966387);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -4325,14 +4325,14 @@ static PyObject *impl_numpy$lib$histograms$$$function__9__hist_bin_auto(struct N
     PyObject *par_range = python_pars[1];
     PyObject *var_fd_bw = NULL;
     PyObject *var_sturges_bw = NULL;
-    struct Nuitka_FrameObject *frame_85ab3b3629fa8ab2527511632e270e56;
+    struct Nuitka_FrameObject *frame_957118e7501aea565cfa42abee68919f;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_85ab3b3629fa8ab2527511632e270e56 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_957118e7501aea565cfa42abee68919f = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -4340,31 +4340,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__9__hist_bin_auto(struct N
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_85ab3b3629fa8ab2527511632e270e56)) {
-        Py_XDECREF(cache_frame_85ab3b3629fa8ab2527511632e270e56);
+    if (isFrameUnusable(cache_frame_957118e7501aea565cfa42abee68919f)) {
+        Py_XDECREF(cache_frame_957118e7501aea565cfa42abee68919f);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_85ab3b3629fa8ab2527511632e270e56 == NULL) {
+        if (cache_frame_957118e7501aea565cfa42abee68919f == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_85ab3b3629fa8ab2527511632e270e56 = MAKE_FUNCTION_FRAME(codeobj_85ab3b3629fa8ab2527511632e270e56, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_957118e7501aea565cfa42abee68919f = MAKE_FUNCTION_FRAME(codeobj_957118e7501aea565cfa42abee68919f, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_85ab3b3629fa8ab2527511632e270e56->m_type_description == NULL);
-    frame_85ab3b3629fa8ab2527511632e270e56 = cache_frame_85ab3b3629fa8ab2527511632e270e56;
+    assert(cache_frame_957118e7501aea565cfa42abee68919f->m_type_description == NULL);
+    frame_957118e7501aea565cfa42abee68919f = cache_frame_957118e7501aea565cfa42abee68919f;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_85ab3b3629fa8ab2527511632e270e56);
+    pushFrameStack(frame_957118e7501aea565cfa42abee68919f);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_85ab3b3629fa8ab2527511632e270e56) == 2); // Frame stack
+    assert(Py_REFCNT(frame_957118e7501aea565cfa42abee68919f) == 2); // Frame stack
 
     // Framed code:
     {
@@ -4392,7 +4392,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__9__hist_bin_auto(struct N
         tmp_args_element_name_1 = par_x;
         CHECK_OBJECT(par_range);
         tmp_args_element_name_2 = par_range;
-        frame_85ab3b3629fa8ab2527511632e270e56->m_frame.f_lineno = 263;
+        frame_957118e7501aea565cfa42abee68919f->m_frame.f_lineno = 263;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -4436,7 +4436,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__9__hist_bin_auto(struct N
         tmp_args_element_name_3 = par_x;
         CHECK_OBJECT(par_range);
         tmp_args_element_name_4 = par_range;
-        frame_85ab3b3629fa8ab2527511632e270e56->m_frame.f_lineno = 264;
+        frame_957118e7501aea565cfa42abee68919f->m_frame.f_lineno = 264;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_assign_source_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -4492,7 +4492,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__9__hist_bin_auto(struct N
         tmp_args_element_name_5 = var_fd_bw;
         CHECK_OBJECT(var_sturges_bw);
         tmp_args_element_name_6 = var_sturges_bw;
-        frame_85ab3b3629fa8ab2527511632e270e56->m_frame.f_lineno = 267;
+        frame_957118e7501aea565cfa42abee68919f->m_frame.f_lineno = 267;
         {
             PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -4519,7 +4519,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__9__hist_bin_auto(struct N
     branch_end_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_85ab3b3629fa8ab2527511632e270e56);
+    RESTORE_FRAME_EXCEPTION(frame_957118e7501aea565cfa42abee68919f);
 #endif
 
     // Put the previous frame back on top.
@@ -4529,7 +4529,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__9__hist_bin_auto(struct N
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_85ab3b3629fa8ab2527511632e270e56);
+    RESTORE_FRAME_EXCEPTION(frame_957118e7501aea565cfa42abee68919f);
 #endif
 
     // Put the previous frame back on top.
@@ -4540,18 +4540,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__9__hist_bin_auto(struct N
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_85ab3b3629fa8ab2527511632e270e56);
+    RESTORE_FRAME_EXCEPTION(frame_957118e7501aea565cfa42abee68919f);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_85ab3b3629fa8ab2527511632e270e56, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_85ab3b3629fa8ab2527511632e270e56->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_85ab3b3629fa8ab2527511632e270e56, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_957118e7501aea565cfa42abee68919f, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_957118e7501aea565cfa42abee68919f->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_957118e7501aea565cfa42abee68919f, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_85ab3b3629fa8ab2527511632e270e56,
+        frame_957118e7501aea565cfa42abee68919f,
         type_description_1,
         par_x,
         par_range,
@@ -4561,17 +4561,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__9__hist_bin_auto(struct N
 
 
     // Release cached frame if used for exception.
-    if (frame_85ab3b3629fa8ab2527511632e270e56 == cache_frame_85ab3b3629fa8ab2527511632e270e56) {
+    if (frame_957118e7501aea565cfa42abee68919f == cache_frame_957118e7501aea565cfa42abee68919f) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_85ab3b3629fa8ab2527511632e270e56);
-        cache_frame_85ab3b3629fa8ab2527511632e270e56 = NULL;
+        Py_DECREF(cache_frame_957118e7501aea565cfa42abee68919f);
+        cache_frame_957118e7501aea565cfa42abee68919f = NULL;
     }
 
-    assertFrameObject(frame_85ab3b3629fa8ab2527511632e270e56);
+    assertFrameObject(frame_957118e7501aea565cfa42abee68919f);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -4655,14 +4655,14 @@ static PyObject *impl_numpy$lib$histograms$$$function__10__ravel_and_check_weigh
     // Local variable declarations.
     PyObject *par_a = python_pars[0];
     PyObject *par_weights = python_pars[1];
-    struct Nuitka_FrameObject *frame_948e8fdafbbbcacb2062bc9ed669314d;
+    struct Nuitka_FrameObject *frame_11f963722d05907f8da5f3fbfa8b2230;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_948e8fdafbbbcacb2062bc9ed669314d = NULL;
+    static struct Nuitka_FrameObject *cache_frame_11f963722d05907f8da5f3fbfa8b2230 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -4671,31 +4671,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__10__ravel_and_check_weigh
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_948e8fdafbbbcacb2062bc9ed669314d)) {
-        Py_XDECREF(cache_frame_948e8fdafbbbcacb2062bc9ed669314d);
+    if (isFrameUnusable(cache_frame_11f963722d05907f8da5f3fbfa8b2230)) {
+        Py_XDECREF(cache_frame_11f963722d05907f8da5f3fbfa8b2230);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_948e8fdafbbbcacb2062bc9ed669314d == NULL) {
+        if (cache_frame_11f963722d05907f8da5f3fbfa8b2230 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_948e8fdafbbbcacb2062bc9ed669314d = MAKE_FUNCTION_FRAME(codeobj_948e8fdafbbbcacb2062bc9ed669314d, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *));
+        cache_frame_11f963722d05907f8da5f3fbfa8b2230 = MAKE_FUNCTION_FRAME(codeobj_11f963722d05907f8da5f3fbfa8b2230, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_948e8fdafbbbcacb2062bc9ed669314d->m_type_description == NULL);
-    frame_948e8fdafbbbcacb2062bc9ed669314d = cache_frame_948e8fdafbbbcacb2062bc9ed669314d;
+    assert(cache_frame_11f963722d05907f8da5f3fbfa8b2230->m_type_description == NULL);
+    frame_11f963722d05907f8da5f3fbfa8b2230 = cache_frame_11f963722d05907f8da5f3fbfa8b2230;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_948e8fdafbbbcacb2062bc9ed669314d);
+    pushFrameStack(frame_11f963722d05907f8da5f3fbfa8b2230);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_948e8fdafbbbcacb2062bc9ed669314d) == 2); // Frame stack
+    assert(Py_REFCNT(frame_11f963722d05907f8da5f3fbfa8b2230) == 2); // Frame stack
 
     // Framed code:
     {
@@ -4720,7 +4720,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__10__ravel_and_check_weigh
         }
         CHECK_OBJECT(par_a);
         tmp_args_element_name_1 = par_a;
-        frame_948e8fdafbbbcacb2062bc9ed669314d->m_frame.f_lineno = 285;
+        frame_11f963722d05907f8da5f3fbfa8b2230->m_frame.f_lineno = 285;
         tmp_assign_source_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[61], tmp_args_element_name_1);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4906,7 +4906,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__10__ravel_and_check_weigh
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_948e8fdafbbbcacb2062bc9ed669314d->m_frame.f_lineno = 289;
+        frame_11f963722d05907f8da5f3fbfa8b2230->m_frame.f_lineno = 289;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_tuple_element_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -4953,7 +4953,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__10__ravel_and_check_weigh
         // Finished with no exception for tuple_build:
         tuple_build_noexception_1:;
         tmp_kwargs_name_1 = PyDict_Copy(mod_consts[35]);
-        frame_948e8fdafbbbcacb2062bc9ed669314d->m_frame.f_lineno = 289;
+        frame_11f963722d05907f8da5f3fbfa8b2230->m_frame.f_lineno = 289;
         tmp_call_result_1 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -5027,7 +5027,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__10__ravel_and_check_weigh
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_948e8fdafbbbcacb2062bc9ed669314d->m_frame.f_lineno = 292;
+        frame_11f963722d05907f8da5f3fbfa8b2230->m_frame.f_lineno = 292;
         tmp_assign_source_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_4);
@@ -5086,7 +5086,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__10__ravel_and_check_weigh
         }
         CHECK_OBJECT(par_weights);
         tmp_args_element_name_5 = par_weights;
-        frame_948e8fdafbbbcacb2062bc9ed669314d->m_frame.f_lineno = 295;
+        frame_11f963722d05907f8da5f3fbfa8b2230->m_frame.f_lineno = 295;
         tmp_assign_source_3 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[61], tmp_args_element_name_5);
         if (tmp_assign_source_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5173,7 +5173,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__10__ravel_and_check_weigh
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[70];
-        frame_948e8fdafbbbcacb2062bc9ed669314d->m_frame.f_lineno = 297;
+        frame_11f963722d05907f8da5f3fbfa8b2230->m_frame.f_lineno = 297;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -5199,7 +5199,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__10__ravel_and_check_weigh
         }
 
         tmp_called_instance_3 = par_weights;
-        frame_948e8fdafbbbcacb2062bc9ed669314d->m_frame.f_lineno = 299;
+        frame_11f963722d05907f8da5f3fbfa8b2230->m_frame.f_lineno = 299;
         tmp_assign_source_4 = CALL_METHOD_NO_ARGS(tmp_called_instance_3, mod_consts[72]);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5235,7 +5235,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__10__ravel_and_check_weigh
         }
 
         tmp_called_instance_4 = par_a;
-        frame_948e8fdafbbbcacb2062bc9ed669314d->m_frame.f_lineno = 300;
+        frame_11f963722d05907f8da5f3fbfa8b2230->m_frame.f_lineno = 300;
         tmp_assign_source_5 = CALL_METHOD_NO_ARGS(tmp_called_instance_4, mod_consts[72]);
         if (tmp_assign_source_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5256,7 +5256,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__10__ravel_and_check_weigh
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_948e8fdafbbbcacb2062bc9ed669314d);
+    RESTORE_FRAME_EXCEPTION(frame_11f963722d05907f8da5f3fbfa8b2230);
 #endif
 
     // Put the previous frame back on top.
@@ -5267,18 +5267,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__10__ravel_and_check_weigh
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_948e8fdafbbbcacb2062bc9ed669314d);
+    RESTORE_FRAME_EXCEPTION(frame_11f963722d05907f8da5f3fbfa8b2230);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_948e8fdafbbbcacb2062bc9ed669314d, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_948e8fdafbbbcacb2062bc9ed669314d->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_948e8fdafbbbcacb2062bc9ed669314d, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_11f963722d05907f8da5f3fbfa8b2230, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_11f963722d05907f8da5f3fbfa8b2230->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_11f963722d05907f8da5f3fbfa8b2230, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_948e8fdafbbbcacb2062bc9ed669314d,
+        frame_11f963722d05907f8da5f3fbfa8b2230,
         type_description_1,
         par_a,
         par_weights
@@ -5286,17 +5286,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__10__ravel_and_check_weigh
 
 
     // Release cached frame if used for exception.
-    if (frame_948e8fdafbbbcacb2062bc9ed669314d == cache_frame_948e8fdafbbbcacb2062bc9ed669314d) {
+    if (frame_11f963722d05907f8da5f3fbfa8b2230 == cache_frame_11f963722d05907f8da5f3fbfa8b2230) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_948e8fdafbbbcacb2062bc9ed669314d);
-        cache_frame_948e8fdafbbbcacb2062bc9ed669314d = NULL;
+        Py_DECREF(cache_frame_11f963722d05907f8da5f3fbfa8b2230);
+        cache_frame_11f963722d05907f8da5f3fbfa8b2230 = NULL;
     }
 
-    assertFrameObject(frame_948e8fdafbbbcacb2062bc9ed669314d);
+    assertFrameObject(frame_11f963722d05907f8da5f3fbfa8b2230);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5392,7 +5392,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
     PyObject *tmp_tuple_unpack_3__element_1 = NULL;
     PyObject *tmp_tuple_unpack_3__element_2 = NULL;
     PyObject *tmp_tuple_unpack_3__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_cfd7fe52a6fd278fbdb1ae1d7d131739;
+    struct Nuitka_FrameObject *frame_d843e36049f7f1fe39c1e1c35572246c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -5425,7 +5425,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
     PyTracebackObject *exception_keeper_tb_6;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_6;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_cfd7fe52a6fd278fbdb1ae1d7d131739 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d843e36049f7f1fe39c1e1c35572246c = NULL;
     PyObject *exception_keeper_type_7;
     PyObject *exception_keeper_value_7;
     PyTracebackObject *exception_keeper_tb_7;
@@ -5433,31 +5433,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_cfd7fe52a6fd278fbdb1ae1d7d131739)) {
-        Py_XDECREF(cache_frame_cfd7fe52a6fd278fbdb1ae1d7d131739);
+    if (isFrameUnusable(cache_frame_d843e36049f7f1fe39c1e1c35572246c)) {
+        Py_XDECREF(cache_frame_d843e36049f7f1fe39c1e1c35572246c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_cfd7fe52a6fd278fbdb1ae1d7d131739 == NULL) {
+        if (cache_frame_d843e36049f7f1fe39c1e1c35572246c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_cfd7fe52a6fd278fbdb1ae1d7d131739 = MAKE_FUNCTION_FRAME(codeobj_cfd7fe52a6fd278fbdb1ae1d7d131739, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_d843e36049f7f1fe39c1e1c35572246c = MAKE_FUNCTION_FRAME(codeobj_d843e36049f7f1fe39c1e1c35572246c, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_cfd7fe52a6fd278fbdb1ae1d7d131739->m_type_description == NULL);
-    frame_cfd7fe52a6fd278fbdb1ae1d7d131739 = cache_frame_cfd7fe52a6fd278fbdb1ae1d7d131739;
+    assert(cache_frame_d843e36049f7f1fe39c1e1c35572246c->m_type_description == NULL);
+    frame_d843e36049f7f1fe39c1e1c35572246c = cache_frame_d843e36049f7f1fe39c1e1c35572246c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_cfd7fe52a6fd278fbdb1ae1d7d131739);
+    pushFrameStack(frame_d843e36049f7f1fe39c1e1c35572246c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_cfd7fe52a6fd278fbdb1ae1d7d131739) == 2); // Frame stack
+    assert(Py_REFCNT(frame_d843e36049f7f1fe39c1e1c35572246c) == 2); // Frame stack
 
     // Framed code:
     {
@@ -5688,7 +5688,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[75];
-        frame_cfd7fe52a6fd278fbdb1ae1d7d131739->m_frame.f_lineno = 312;
+        frame_d843e36049f7f1fe39c1e1c35572246c->m_frame.f_lineno = 312;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -5726,7 +5726,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
         }
         CHECK_OBJECT(var_first_edge);
         tmp_args_element_name_1 = var_first_edge;
-        frame_cfd7fe52a6fd278fbdb1ae1d7d131739->m_frame.f_lineno = 314;
+        frame_d843e36049f7f1fe39c1e1c35572246c->m_frame.f_lineno = 314;
         tmp_and_left_value_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[76], tmp_args_element_name_1);
         if (tmp_and_left_value_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5774,7 +5774,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
         }
         CHECK_OBJECT(var_last_edge);
         tmp_args_element_name_2 = var_last_edge;
-        frame_cfd7fe52a6fd278fbdb1ae1d7d131739->m_frame.f_lineno = 314;
+        frame_d843e36049f7f1fe39c1e1c35572246c->m_frame.f_lineno = 314;
         tmp_and_right_value_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[76], tmp_args_element_name_2);
         if (tmp_and_right_value_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5847,7 +5847,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
         }
 
         tmp_args_element_name_4 = var_last_edge;
-        frame_cfd7fe52a6fd278fbdb1ae1d7d131739->m_frame.f_lineno = 316;
+        frame_d843e36049f7f1fe39c1e1c35572246c->m_frame.f_lineno = 316;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_make_exception_arg_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -5864,7 +5864,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_cfd7fe52a6fd278fbdb1ae1d7d131739->m_frame.f_lineno = 315;
+        frame_d843e36049f7f1fe39c1e1c35572246c->m_frame.f_lineno = 315;
         tmp_raise_type_2 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_2);
         Py_DECREF(tmp_make_exception_arg_2);
         assert(!(tmp_raise_type_2 == NULL));
@@ -6110,7 +6110,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
         }
 
         tmp_called_instance_3 = par_a;
-        frame_cfd7fe52a6fd278fbdb1ae1d7d131739->m_frame.f_lineno = 321;
+        frame_d843e36049f7f1fe39c1e1c35572246c->m_frame.f_lineno = 321;
         tmp_tuple_element_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_3, mod_consts[3]);
         if (tmp_tuple_element_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -6139,7 +6139,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
             }
 
             tmp_called_instance_4 = par_a;
-            frame_cfd7fe52a6fd278fbdb1ae1d7d131739->m_frame.f_lineno = 321;
+            frame_d843e36049f7f1fe39c1e1c35572246c->m_frame.f_lineno = 321;
             tmp_tuple_element_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_4, mod_consts[1]);
             if (tmp_tuple_element_1 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -6342,7 +6342,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
         }
         CHECK_OBJECT(var_first_edge);
         tmp_args_element_name_5 = var_first_edge;
-        frame_cfd7fe52a6fd278fbdb1ae1d7d131739->m_frame.f_lineno = 322;
+        frame_d843e36049f7f1fe39c1e1c35572246c->m_frame.f_lineno = 322;
         tmp_and_left_value_2 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_5, mod_consts[76], tmp_args_element_name_5);
         if (tmp_and_left_value_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -6390,7 +6390,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
         }
         CHECK_OBJECT(var_last_edge);
         tmp_args_element_name_6 = var_last_edge;
-        frame_cfd7fe52a6fd278fbdb1ae1d7d131739->m_frame.f_lineno = 322;
+        frame_d843e36049f7f1fe39c1e1c35572246c->m_frame.f_lineno = 322;
         tmp_and_right_value_2 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_6, mod_consts[76], tmp_args_element_name_6);
         if (tmp_and_right_value_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -6463,7 +6463,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
         }
 
         tmp_args_element_name_8 = var_last_edge;
-        frame_cfd7fe52a6fd278fbdb1ae1d7d131739->m_frame.f_lineno = 324;
+        frame_d843e36049f7f1fe39c1e1c35572246c->m_frame.f_lineno = 324;
         {
             PyObject *call_args[] = {tmp_args_element_name_7, tmp_args_element_name_8};
             tmp_make_exception_arg_3 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -6480,7 +6480,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_cfd7fe52a6fd278fbdb1ae1d7d131739->m_frame.f_lineno = 323;
+        frame_d843e36049f7f1fe39c1e1c35572246c->m_frame.f_lineno = 323;
         tmp_raise_type_3 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_3);
         Py_DECREF(tmp_make_exception_arg_3);
         assert(!(tmp_raise_type_3 == NULL));
@@ -6657,7 +6657,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_cfd7fe52a6fd278fbdb1ae1d7d131739);
+    RESTORE_FRAME_EXCEPTION(frame_d843e36049f7f1fe39c1e1c35572246c);
 #endif
 
     // Put the previous frame back on top.
@@ -6667,7 +6667,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_cfd7fe52a6fd278fbdb1ae1d7d131739);
+    RESTORE_FRAME_EXCEPTION(frame_d843e36049f7f1fe39c1e1c35572246c);
 #endif
 
     // Put the previous frame back on top.
@@ -6678,18 +6678,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_cfd7fe52a6fd278fbdb1ae1d7d131739);
+    RESTORE_FRAME_EXCEPTION(frame_d843e36049f7f1fe39c1e1c35572246c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_cfd7fe52a6fd278fbdb1ae1d7d131739, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_cfd7fe52a6fd278fbdb1ae1d7d131739->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_cfd7fe52a6fd278fbdb1ae1d7d131739, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d843e36049f7f1fe39c1e1c35572246c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d843e36049f7f1fe39c1e1c35572246c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d843e36049f7f1fe39c1e1c35572246c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_cfd7fe52a6fd278fbdb1ae1d7d131739,
+        frame_d843e36049f7f1fe39c1e1c35572246c,
         type_description_1,
         par_a,
         par_range,
@@ -6699,17 +6699,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__11__get_outer_edges(struc
 
 
     // Release cached frame if used for exception.
-    if (frame_cfd7fe52a6fd278fbdb1ae1d7d131739 == cache_frame_cfd7fe52a6fd278fbdb1ae1d7d131739) {
+    if (frame_d843e36049f7f1fe39c1e1c35572246c == cache_frame_d843e36049f7f1fe39c1e1c35572246c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_cfd7fe52a6fd278fbdb1ae1d7d131739);
-        cache_frame_cfd7fe52a6fd278fbdb1ae1d7d131739 = NULL;
+        Py_DECREF(cache_frame_d843e36049f7f1fe39c1e1c35572246c);
+        cache_frame_d843e36049f7f1fe39c1e1c35572246c = NULL;
     }
 
-    assertFrameObject(frame_cfd7fe52a6fd278fbdb1ae1d7d131739);
+    assertFrameObject(frame_d843e36049f7f1fe39c1e1c35572246c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -6792,7 +6792,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__12__unsigned_subtract(str
     PyObject *var_signed_to_unsigned = NULL;
     PyObject *var_dt = NULL;
     nuitka_bool tmp_try_except_1__unhandled_indicator = NUITKA_BOOL_UNASSIGNED;
-    struct Nuitka_FrameObject *frame_7ca71fba5944706cbbb8806870216e9f;
+    struct Nuitka_FrameObject *frame_4faec388b420eaa5054e30d8aec9a10f;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -6812,7 +6812,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__12__unsigned_subtract(str
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
-    static struct Nuitka_FrameObject *cache_frame_7ca71fba5944706cbbb8806870216e9f = NULL;
+    static struct Nuitka_FrameObject *cache_frame_4faec388b420eaa5054e30d8aec9a10f = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -6820,31 +6820,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__12__unsigned_subtract(str
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_7ca71fba5944706cbbb8806870216e9f)) {
-        Py_XDECREF(cache_frame_7ca71fba5944706cbbb8806870216e9f);
+    if (isFrameUnusable(cache_frame_4faec388b420eaa5054e30d8aec9a10f)) {
+        Py_XDECREF(cache_frame_4faec388b420eaa5054e30d8aec9a10f);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_7ca71fba5944706cbbb8806870216e9f == NULL) {
+        if (cache_frame_4faec388b420eaa5054e30d8aec9a10f == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_7ca71fba5944706cbbb8806870216e9f = MAKE_FUNCTION_FRAME(codeobj_7ca71fba5944706cbbb8806870216e9f, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_4faec388b420eaa5054e30d8aec9a10f = MAKE_FUNCTION_FRAME(codeobj_4faec388b420eaa5054e30d8aec9a10f, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_7ca71fba5944706cbbb8806870216e9f->m_type_description == NULL);
-    frame_7ca71fba5944706cbbb8806870216e9f = cache_frame_7ca71fba5944706cbbb8806870216e9f;
+    assert(cache_frame_4faec388b420eaa5054e30d8aec9a10f->m_type_description == NULL);
+    frame_4faec388b420eaa5054e30d8aec9a10f = cache_frame_4faec388b420eaa5054e30d8aec9a10f;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_7ca71fba5944706cbbb8806870216e9f);
+    pushFrameStack(frame_4faec388b420eaa5054e30d8aec9a10f);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_7ca71fba5944706cbbb8806870216e9f) == 2); // Frame stack
+    assert(Py_REFCNT(frame_4faec388b420eaa5054e30d8aec9a10f) == 2); // Frame stack
 
     // Framed code:
     {
@@ -7234,7 +7234,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__12__unsigned_subtract(str
         tmp_args_element_name_1 = par_a;
         CHECK_OBJECT(par_b);
         tmp_args_element_name_2 = par_b;
-        frame_7ca71fba5944706cbbb8806870216e9f->m_frame.f_lineno = 349;
+        frame_4faec388b420eaa5054e30d8aec9a10f->m_frame.f_lineno = 349;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_2 = CALL_METHOD_WITH_ARGS2(
@@ -7323,9 +7323,9 @@ static PyObject *impl_numpy$lib$histograms$$$function__12__unsigned_subtract(str
     GET_CURRENT_EXCEPTION(&exception_preserved_type_1, &exception_preserved_value_1, &exception_preserved_tb_1);
 
     if (exception_keeper_tb_1 == NULL) {
-        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_7ca71fba5944706cbbb8806870216e9f, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_4faec388b420eaa5054e30d8aec9a10f, exception_keeper_lineno_1);
     } else if (exception_keeper_lineno_1 != 0) {
-        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_7ca71fba5944706cbbb8806870216e9f, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_4faec388b420eaa5054e30d8aec9a10f, exception_keeper_lineno_1);
     }
 
     NORMALIZE_EXCEPTION(&exception_keeper_type_1, &exception_keeper_value_1, &exception_keeper_tb_1);
@@ -7438,7 +7438,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__12__unsigned_subtract(str
         tmp_kwargs_name_1 = _PyDict_NewPresized( 1 );
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_2, tmp_dict_value_2);
         assert(!(tmp_res != 0));
-        frame_7ca71fba5944706cbbb8806870216e9f->m_frame.f_lineno = 353;
+        frame_4faec388b420eaa5054e30d8aec9a10f->m_frame.f_lineno = 353;
         tmp_return_value = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -7462,7 +7462,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__12__unsigned_subtract(str
         exception_lineno = 350;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_7ca71fba5944706cbbb8806870216e9f->m_frame) frame_7ca71fba5944706cbbb8806870216e9f->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_4faec388b420eaa5054e30d8aec9a10f->m_frame) frame_4faec388b420eaa5054e30d8aec9a10f->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "oooo";
     goto try_except_handler_3;
     branch_end_1:;
@@ -7595,7 +7595,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__12__unsigned_subtract(str
         tmp_dict_value_3 = var_dt;
         tmp_res = PyDict_SetItem(tmp_kwargs_name_2, tmp_dict_key_3, tmp_dict_value_3);
         assert(!(tmp_res != 0));
-        frame_7ca71fba5944706cbbb8806870216e9f->m_frame.f_lineno = 357;
+        frame_4faec388b420eaa5054e30d8aec9a10f->m_frame.f_lineno = 357;
         tmp_return_value = CALL_FUNCTION(tmp_called_name_2, tmp_args_name_2, tmp_kwargs_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_name_2);
@@ -7615,7 +7615,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__12__unsigned_subtract(str
     branch_no_2:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_7ca71fba5944706cbbb8806870216e9f);
+    RESTORE_FRAME_EXCEPTION(frame_4faec388b420eaa5054e30d8aec9a10f);
 #endif
 
     // Put the previous frame back on top.
@@ -7625,7 +7625,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__12__unsigned_subtract(str
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_7ca71fba5944706cbbb8806870216e9f);
+    RESTORE_FRAME_EXCEPTION(frame_4faec388b420eaa5054e30d8aec9a10f);
 #endif
 
     // Put the previous frame back on top.
@@ -7636,18 +7636,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__12__unsigned_subtract(str
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_7ca71fba5944706cbbb8806870216e9f);
+    RESTORE_FRAME_EXCEPTION(frame_4faec388b420eaa5054e30d8aec9a10f);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_7ca71fba5944706cbbb8806870216e9f, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_7ca71fba5944706cbbb8806870216e9f->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_7ca71fba5944706cbbb8806870216e9f, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_4faec388b420eaa5054e30d8aec9a10f, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_4faec388b420eaa5054e30d8aec9a10f->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_4faec388b420eaa5054e30d8aec9a10f, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_7ca71fba5944706cbbb8806870216e9f,
+        frame_4faec388b420eaa5054e30d8aec9a10f,
         type_description_1,
         par_a,
         par_b,
@@ -7657,17 +7657,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__12__unsigned_subtract(str
 
 
     // Release cached frame if used for exception.
-    if (frame_7ca71fba5944706cbbb8806870216e9f == cache_frame_7ca71fba5944706cbbb8806870216e9f) {
+    if (frame_4faec388b420eaa5054e30d8aec9a10f == cache_frame_4faec388b420eaa5054e30d8aec9a10f) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_7ca71fba5944706cbbb8806870216e9f);
-        cache_frame_7ca71fba5944706cbbb8806870216e9f = NULL;
+        Py_DECREF(cache_frame_4faec388b420eaa5054e30d8aec9a10f);
+        cache_frame_4faec388b420eaa5054e30d8aec9a10f = NULL;
     }
 
-    assertFrameObject(frame_7ca71fba5944706cbbb8806870216e9f);
+    assertFrameObject(frame_4faec388b420eaa5054e30d8aec9a10f);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -7768,7 +7768,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
     PyObject *tmp_tuple_unpack_2__element_1 = NULL;
     PyObject *tmp_tuple_unpack_2__element_2 = NULL;
     PyObject *tmp_tuple_unpack_2__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_93257d6aeb08df15ecea1d404c77acda;
+    struct Nuitka_FrameObject *frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     int tmp_res;
     PyObject *exception_type = NULL;
@@ -7809,7 +7809,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
     PyTracebackObject *exception_keeper_tb_7;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_7;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_93257d6aeb08df15ecea1d404c77acda = NULL;
+    static struct Nuitka_FrameObject *cache_frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2 = NULL;
     PyObject *exception_keeper_type_8;
     PyObject *exception_keeper_value_8;
     PyTracebackObject *exception_keeper_tb_8;
@@ -7831,31 +7831,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         var_bin_edges = tmp_assign_source_2;
     }
     // Tried code:
-    if (isFrameUnusable(cache_frame_93257d6aeb08df15ecea1d404c77acda)) {
-        Py_XDECREF(cache_frame_93257d6aeb08df15ecea1d404c77acda);
+    if (isFrameUnusable(cache_frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2)) {
+        Py_XDECREF(cache_frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_93257d6aeb08df15ecea1d404c77acda == NULL) {
+        if (cache_frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_93257d6aeb08df15ecea1d404c77acda = MAKE_FUNCTION_FRAME(codeobj_93257d6aeb08df15ecea1d404c77acda, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2 = MAKE_FUNCTION_FRAME(codeobj_9bcc1eac5f4c3fa8ef2fe0c3200a30a2, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_93257d6aeb08df15ecea1d404c77acda->m_type_description == NULL);
-    frame_93257d6aeb08df15ecea1d404c77acda = cache_frame_93257d6aeb08df15ecea1d404c77acda;
+    assert(cache_frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_type_description == NULL);
+    frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2 = cache_frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_93257d6aeb08df15ecea1d404c77acda);
+    pushFrameStack(frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_93257d6aeb08df15ecea1d404c77acda) == 2); // Frame stack
+    assert(Py_REFCNT(frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2) == 2); // Frame stack
 
     // Framed code:
     {
@@ -7941,7 +7941,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         tmp_called_instance_1 = mod_consts[101];
         CHECK_OBJECT(var_bin_name);
         tmp_args_element_name_1 = var_bin_name;
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 391;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 391;
         tmp_make_exception_arg_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[65], tmp_args_element_name_1);
         if (tmp_make_exception_arg_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -7953,7 +7953,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
             type_description_1 = "ooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 390;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 390;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         Py_DECREF(tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
@@ -7983,7 +7983,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         PyObject *tmp_raise_type_2;
         PyObject *tmp_make_exception_arg_2;
         tmp_make_exception_arg_2 = mod_consts[102];
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 393;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 393;
         tmp_raise_type_2 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_2);
         assert(!(tmp_raise_type_2 == NULL));
         exception_type = tmp_raise_type_2;
@@ -8020,7 +8020,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         tmp_args_element_name_2 = par_a;
         CHECK_OBJECT(par_range);
         tmp_args_element_name_3 = par_range;
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 396;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 396;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_iter_arg_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -8324,7 +8324,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         }
         CHECK_OBJECT(var_keep);
         tmp_args_element_name_4 = var_keep;
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 402;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 402;
         tmp_operand_name_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[105], tmp_args_element_name_4);
         Py_DECREF(tmp_called_instance_2);
         if (tmp_operand_name_1 == NULL) {
@@ -8532,7 +8532,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         CHECK_OBJECT(var_last_edge);
         tmp_tuple_element_1 = var_last_edge;
         PyTuple_SET_ITEM0(tmp_args_element_name_6, 1, tmp_tuple_element_1);
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 409;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 409;
         {
             PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_assign_source_13 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -8656,7 +8656,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         }
 
         tmp_args_element_name_9 = var_first_edge;
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 411;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 411;
         {
             PyObject *call_args[] = {tmp_args_element_name_8, tmp_args_element_name_9};
             tmp_left_name_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -8686,7 +8686,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
             type_description_1 = "ooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 411;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 411;
         tmp_int_arg_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_7);
@@ -8764,7 +8764,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         }
         CHECK_OBJECT(par_bins);
         tmp_args_element_name_10 = par_bins;
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 417;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 417;
         tmp_compexpr_left_7 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[108], tmp_args_element_name_10);
         if (tmp_compexpr_left_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -8855,7 +8855,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         }
 
         tmp_args_element_name_11 = par_bins;
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 419;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 419;
         tmp_assign_source_16 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_11);
         Py_DECREF(tmp_called_name_5);
         if (tmp_assign_source_16 == NULL) {
@@ -8892,9 +8892,9 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
     GET_CURRENT_EXCEPTION(&exception_preserved_type_1, &exception_preserved_value_1, &exception_preserved_tb_1);
 
     if (exception_keeper_tb_3 == NULL) {
-        exception_keeper_tb_3 = MAKE_TRACEBACK(frame_93257d6aeb08df15ecea1d404c77acda, exception_keeper_lineno_3);
+        exception_keeper_tb_3 = MAKE_TRACEBACK(frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2, exception_keeper_lineno_3);
     } else if (exception_keeper_lineno_3 != 0) {
-        exception_keeper_tb_3 = ADD_TRACEBACK(exception_keeper_tb_3, frame_93257d6aeb08df15ecea1d404c77acda, exception_keeper_lineno_3);
+        exception_keeper_tb_3 = ADD_TRACEBACK(exception_keeper_tb_3, frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2, exception_keeper_lineno_3);
     }
 
     NORMALIZE_EXCEPTION(&exception_keeper_type_3, &exception_keeper_value_3, &exception_keeper_tb_3);
@@ -8930,7 +8930,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         PyObject *tmp_make_exception_arg_3;
         PyObject *tmp_raise_cause_1;
         tmp_make_exception_arg_3 = mod_consts[111];
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 421;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 421;
         tmp_raise_type_3 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_3);
         assert(!(tmp_raise_type_3 == NULL));
         CHECK_OBJECT(var_e);
@@ -8974,7 +8974,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         exception_lineno = 418;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_93257d6aeb08df15ecea1d404c77acda->m_frame) frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame) frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "ooooooooooooo";
     goto try_except_handler_5;
     branch_end_9:;
@@ -9048,7 +9048,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         PyObject *tmp_raise_type_4;
         PyObject *tmp_make_exception_arg_4;
         tmp_make_exception_arg_4 = mod_consts[112];
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 424;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 424;
         tmp_raise_type_4 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_4);
         assert(!(tmp_raise_type_4 == NULL));
         exception_type = tmp_raise_type_4;
@@ -9085,7 +9085,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         tmp_args_element_name_12 = par_a;
         CHECK_OBJECT(par_range);
         tmp_args_element_name_13 = par_range;
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 426;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 426;
         {
             PyObject *call_args[] = {tmp_args_element_name_12, tmp_args_element_name_13};
             tmp_iter_arg_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_6, call_args);
@@ -9329,7 +9329,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         }
 
         tmp_args_element_name_14 = par_bins;
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 428;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 428;
         tmp_compexpr_left_10 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_7, tmp_args_element_name_14);
         Py_DECREF(tmp_called_name_7);
         if (tmp_compexpr_left_10 == NULL) {
@@ -9420,7 +9420,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         }
 
         tmp_args_element_name_15 = par_bins;
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 429;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 429;
         tmp_assign_source_23 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_8, tmp_args_element_name_15);
         Py_DECREF(tmp_called_name_8);
         if (tmp_assign_source_23 == NULL) {
@@ -9523,7 +9523,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
             type_description_1 = "ooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 430;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 430;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_9, tmp_args_element_name_16);
         Py_DECREF(tmp_called_name_9);
         Py_DECREF(tmp_args_element_name_16);
@@ -9561,7 +9561,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         PyObject *tmp_raise_type_5;
         PyObject *tmp_make_exception_arg_5;
         tmp_make_exception_arg_5 = mod_consts[116];
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 431;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 431;
         tmp_raise_type_5 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_5);
         assert(!(tmp_raise_type_5 == NULL));
         exception_type = tmp_raise_type_5;
@@ -9577,7 +9577,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         PyObject *tmp_raise_type_6;
         PyObject *tmp_make_exception_arg_6;
         tmp_make_exception_arg_6 = mod_consts[117];
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 435;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 435;
         tmp_raise_type_6 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_6);
         assert(!(tmp_raise_type_6 == NULL));
         exception_type = tmp_raise_type_6;
@@ -9688,7 +9688,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         }
 
         tmp_args_element_name_19 = par_a;
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 441;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 441;
         {
             PyObject *call_args[] = {tmp_args_element_name_17, tmp_args_element_name_18, tmp_args_element_name_19};
             tmp_assign_source_24 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_10, call_args);
@@ -9773,7 +9773,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
             type_description_1 = "ooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 442;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 442;
         {
             PyObject *call_args[] = {tmp_args_element_name_20, tmp_args_element_name_21};
             tmp_call_result_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_11, call_args);
@@ -9858,7 +9858,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
 
         tmp_args_element_name_22 = var_bin_type;
         tmp_args_element_name_23 = (PyObject *)&PyFloat_Type;
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 443;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 443;
         {
             PyObject *call_args[] = {tmp_args_element_name_22, tmp_args_element_name_23};
             tmp_assign_source_25 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_12, call_args);
@@ -10016,7 +10016,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
         goto frame_exception_exit_1;
         // Finished with no exception for dict_build:
         dict_build_noexception_1:;
-        frame_93257d6aeb08df15ecea1d404c77acda->m_frame.f_lineno = 446;
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame.f_lineno = 446;
         tmp_assign_source_26 = CALL_FUNCTION(tmp_called_name_13, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_13);
         Py_DECREF(tmp_args_name_1);
@@ -10133,7 +10133,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
     branch_end_13:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_93257d6aeb08df15ecea1d404c77acda);
+    RESTORE_FRAME_EXCEPTION(frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2);
 #endif
 
     // Put the previous frame back on top.
@@ -10143,7 +10143,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_93257d6aeb08df15ecea1d404c77acda);
+    RESTORE_FRAME_EXCEPTION(frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2);
 #endif
 
     // Put the previous frame back on top.
@@ -10154,18 +10154,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_93257d6aeb08df15ecea1d404c77acda);
+    RESTORE_FRAME_EXCEPTION(frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_93257d6aeb08df15ecea1d404c77acda, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_93257d6aeb08df15ecea1d404c77acda->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_93257d6aeb08df15ecea1d404c77acda, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_93257d6aeb08df15ecea1d404c77acda,
+        frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2,
         type_description_1,
         par_a,
         par_bins,
@@ -10184,17 +10184,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__13__get_bin_edges(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_93257d6aeb08df15ecea1d404c77acda == cache_frame_93257d6aeb08df15ecea1d404c77acda) {
+    if (frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2 == cache_frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_93257d6aeb08df15ecea1d404c77acda);
-        cache_frame_93257d6aeb08df15ecea1d404c77acda = NULL;
+        Py_DECREF(cache_frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2);
+        cache_frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2 = NULL;
     }
 
-    assertFrameObject(frame_93257d6aeb08df15ecea1d404c77acda);
+    assertFrameObject(frame_9bcc1eac5f4c3fa8ef2fe0c3200a30a2);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -10312,14 +10312,14 @@ static PyObject *impl_numpy$lib$histograms$$$function__14__search_sorted_inclusi
     // Local variable declarations.
     PyObject *par_a = python_pars[0];
     PyObject *par_v = python_pars[1];
-    struct Nuitka_FrameObject *frame_ca0c2a106f8ebde2064639a5a91e3c19;
+    struct Nuitka_FrameObject *frame_52d9a704794cbcc6c829a61dda667143;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_ca0c2a106f8ebde2064639a5a91e3c19 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_52d9a704794cbcc6c829a61dda667143 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -10327,31 +10327,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__14__search_sorted_inclusi
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ca0c2a106f8ebde2064639a5a91e3c19)) {
-        Py_XDECREF(cache_frame_ca0c2a106f8ebde2064639a5a91e3c19);
+    if (isFrameUnusable(cache_frame_52d9a704794cbcc6c829a61dda667143)) {
+        Py_XDECREF(cache_frame_52d9a704794cbcc6c829a61dda667143);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ca0c2a106f8ebde2064639a5a91e3c19 == NULL) {
+        if (cache_frame_52d9a704794cbcc6c829a61dda667143 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ca0c2a106f8ebde2064639a5a91e3c19 = MAKE_FUNCTION_FRAME(codeobj_ca0c2a106f8ebde2064639a5a91e3c19, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *));
+        cache_frame_52d9a704794cbcc6c829a61dda667143 = MAKE_FUNCTION_FRAME(codeobj_52d9a704794cbcc6c829a61dda667143, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ca0c2a106f8ebde2064639a5a91e3c19->m_type_description == NULL);
-    frame_ca0c2a106f8ebde2064639a5a91e3c19 = cache_frame_ca0c2a106f8ebde2064639a5a91e3c19;
+    assert(cache_frame_52d9a704794cbcc6c829a61dda667143->m_type_description == NULL);
+    frame_52d9a704794cbcc6c829a61dda667143 = cache_frame_52d9a704794cbcc6c829a61dda667143;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ca0c2a106f8ebde2064639a5a91e3c19);
+    pushFrameStack(frame_52d9a704794cbcc6c829a61dda667143);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ca0c2a106f8ebde2064639a5a91e3c19) == 2); // Frame stack
+    assert(Py_REFCNT(frame_52d9a704794cbcc6c829a61dda667143) == 2); // Frame stack
 
     // Framed code:
     {
@@ -10421,7 +10421,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__14__search_sorted_inclusi
             goto frame_exception_exit_1;
         }
         tmp_args_element_name_3 = mod_consts[128];
-        frame_ca0c2a106f8ebde2064639a5a91e3c19->m_frame.f_lineno = 461;
+        frame_52d9a704794cbcc6c829a61dda667143->m_frame.f_lineno = 461;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_tuple_element_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -10487,7 +10487,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__14__search_sorted_inclusi
                 goto tuple_build_exception_1;
             }
             tmp_args_element_name_5 = mod_consts[130];
-            frame_ca0c2a106f8ebde2064639a5a91e3c19->m_frame.f_lineno = 462;
+            frame_52d9a704794cbcc6c829a61dda667143->m_frame.f_lineno = 462;
             {
                 PyObject *call_args[] = {tmp_args_element_name_4, tmp_args_element_name_5};
                 tmp_tuple_element_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -10515,7 +10515,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__14__search_sorted_inclusi
         goto frame_exception_exit_1;
         // Finished with no exception for tuple_build:
         tuple_build_noexception_1:;
-        frame_ca0c2a106f8ebde2064639a5a91e3c19->m_frame.f_lineno = 460;
+        frame_52d9a704794cbcc6c829a61dda667143->m_frame.f_lineno = 460;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -10533,7 +10533,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__14__search_sorted_inclusi
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ca0c2a106f8ebde2064639a5a91e3c19);
+    RESTORE_FRAME_EXCEPTION(frame_52d9a704794cbcc6c829a61dda667143);
 #endif
 
     // Put the previous frame back on top.
@@ -10543,7 +10543,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__14__search_sorted_inclusi
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ca0c2a106f8ebde2064639a5a91e3c19);
+    RESTORE_FRAME_EXCEPTION(frame_52d9a704794cbcc6c829a61dda667143);
 #endif
 
     // Put the previous frame back on top.
@@ -10554,18 +10554,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__14__search_sorted_inclusi
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ca0c2a106f8ebde2064639a5a91e3c19);
+    RESTORE_FRAME_EXCEPTION(frame_52d9a704794cbcc6c829a61dda667143);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ca0c2a106f8ebde2064639a5a91e3c19, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ca0c2a106f8ebde2064639a5a91e3c19->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ca0c2a106f8ebde2064639a5a91e3c19, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_52d9a704794cbcc6c829a61dda667143, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_52d9a704794cbcc6c829a61dda667143->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_52d9a704794cbcc6c829a61dda667143, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ca0c2a106f8ebde2064639a5a91e3c19,
+        frame_52d9a704794cbcc6c829a61dda667143,
         type_description_1,
         par_a,
         par_v
@@ -10573,17 +10573,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__14__search_sorted_inclusi
 
 
     // Release cached frame if used for exception.
-    if (frame_ca0c2a106f8ebde2064639a5a91e3c19 == cache_frame_ca0c2a106f8ebde2064639a5a91e3c19) {
+    if (frame_52d9a704794cbcc6c829a61dda667143 == cache_frame_52d9a704794cbcc6c829a61dda667143) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ca0c2a106f8ebde2064639a5a91e3c19);
-        cache_frame_ca0c2a106f8ebde2064639a5a91e3c19 = NULL;
+        Py_DECREF(cache_frame_52d9a704794cbcc6c829a61dda667143);
+        cache_frame_52d9a704794cbcc6c829a61dda667143 = NULL;
     }
 
-    assertFrameObject(frame_ca0c2a106f8ebde2064639a5a91e3c19);
+    assertFrameObject(frame_52d9a704794cbcc6c829a61dda667143);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -10731,7 +10731,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__16_histogram_bin_edges(st
     PyObject *tmp_tuple_unpack_2__element_1 = NULL;
     PyObject *tmp_tuple_unpack_2__element_2 = NULL;
     PyObject *tmp_tuple_unpack_2__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_e6ccc49868664af4874e9f2b2cdac7ba;
+    struct Nuitka_FrameObject *frame_2005da7fd576c1ec9af2b974dc4d3727;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -10754,7 +10754,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__16_histogram_bin_edges(st
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_4;
-    static struct Nuitka_FrameObject *cache_frame_e6ccc49868664af4874e9f2b2cdac7ba = NULL;
+    static struct Nuitka_FrameObject *cache_frame_2005da7fd576c1ec9af2b974dc4d3727 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_5;
     PyObject *exception_keeper_value_5;
@@ -10763,31 +10763,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__16_histogram_bin_edges(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_e6ccc49868664af4874e9f2b2cdac7ba)) {
-        Py_XDECREF(cache_frame_e6ccc49868664af4874e9f2b2cdac7ba);
+    if (isFrameUnusable(cache_frame_2005da7fd576c1ec9af2b974dc4d3727)) {
+        Py_XDECREF(cache_frame_2005da7fd576c1ec9af2b974dc4d3727);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_e6ccc49868664af4874e9f2b2cdac7ba == NULL) {
+        if (cache_frame_2005da7fd576c1ec9af2b974dc4d3727 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_e6ccc49868664af4874e9f2b2cdac7ba = MAKE_FUNCTION_FRAME(codeobj_e6ccc49868664af4874e9f2b2cdac7ba, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_2005da7fd576c1ec9af2b974dc4d3727 = MAKE_FUNCTION_FRAME(codeobj_2005da7fd576c1ec9af2b974dc4d3727, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_e6ccc49868664af4874e9f2b2cdac7ba->m_type_description == NULL);
-    frame_e6ccc49868664af4874e9f2b2cdac7ba = cache_frame_e6ccc49868664af4874e9f2b2cdac7ba;
+    assert(cache_frame_2005da7fd576c1ec9af2b974dc4d3727->m_type_description == NULL);
+    frame_2005da7fd576c1ec9af2b974dc4d3727 = cache_frame_2005da7fd576c1ec9af2b974dc4d3727;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_e6ccc49868664af4874e9f2b2cdac7ba);
+    pushFrameStack(frame_2005da7fd576c1ec9af2b974dc4d3727);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_e6ccc49868664af4874e9f2b2cdac7ba) == 2); // Frame stack
+    assert(Py_REFCNT(frame_2005da7fd576c1ec9af2b974dc4d3727) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -10817,7 +10817,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__16_histogram_bin_edges(st
         tmp_args_element_name_1 = par_a;
         CHECK_OBJECT(par_weights);
         tmp_args_element_name_2 = par_weights;
-        frame_e6ccc49868664af4874e9f2b2cdac7ba->m_frame.f_lineno = 667;
+        frame_2005da7fd576c1ec9af2b974dc4d3727->m_frame.f_lineno = 667;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_iter_arg_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -11053,7 +11053,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__16_histogram_bin_edges(st
         tmp_args_element_name_5 = par_range;
         CHECK_OBJECT(par_weights);
         tmp_args_element_name_6 = par_weights;
-        frame_e6ccc49868664af4874e9f2b2cdac7ba->m_frame.f_lineno = 668;
+        frame_2005da7fd576c1ec9af2b974dc4d3727->m_frame.f_lineno = 668;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_iter_arg_2 = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_2, call_args);
@@ -11220,7 +11220,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__16_histogram_bin_edges(st
     try_end_4:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e6ccc49868664af4874e9f2b2cdac7ba);
+    RESTORE_FRAME_EXCEPTION(frame_2005da7fd576c1ec9af2b974dc4d3727);
 #endif
 
     // Put the previous frame back on top.
@@ -11231,18 +11231,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__16_histogram_bin_edges(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e6ccc49868664af4874e9f2b2cdac7ba);
+    RESTORE_FRAME_EXCEPTION(frame_2005da7fd576c1ec9af2b974dc4d3727);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_e6ccc49868664af4874e9f2b2cdac7ba, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_e6ccc49868664af4874e9f2b2cdac7ba->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_e6ccc49868664af4874e9f2b2cdac7ba, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_2005da7fd576c1ec9af2b974dc4d3727, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_2005da7fd576c1ec9af2b974dc4d3727->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_2005da7fd576c1ec9af2b974dc4d3727, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_e6ccc49868664af4874e9f2b2cdac7ba,
+        frame_2005da7fd576c1ec9af2b974dc4d3727,
         type_description_1,
         par_a,
         par_bins,
@@ -11254,17 +11254,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__16_histogram_bin_edges(st
 
 
     // Release cached frame if used for exception.
-    if (frame_e6ccc49868664af4874e9f2b2cdac7ba == cache_frame_e6ccc49868664af4874e9f2b2cdac7ba) {
+    if (frame_2005da7fd576c1ec9af2b974dc4d3727 == cache_frame_2005da7fd576c1ec9af2b974dc4d3727) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_e6ccc49868664af4874e9f2b2cdac7ba);
-        cache_frame_e6ccc49868664af4874e9f2b2cdac7ba = NULL;
+        Py_DECREF(cache_frame_2005da7fd576c1ec9af2b974dc4d3727);
+        cache_frame_2005da7fd576c1ec9af2b974dc4d3727 = NULL;
     }
 
-    assertFrameObject(frame_e6ccc49868664af4874e9f2b2cdac7ba);
+    assertFrameObject(frame_2005da7fd576c1ec9af2b974dc4d3727);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -11519,7 +11519,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
     PyObject *tmp_tuple_unpack_3__element_2 = NULL;
     PyObject *tmp_tuple_unpack_3__element_3 = NULL;
     PyObject *tmp_tuple_unpack_3__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_14ef45262daac5c5cf277b5f825ef921;
+    struct Nuitka_FrameObject *frame_2ee63e08c1622506691159776bf34f4c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -11586,7 +11586,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_14;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_14ef45262daac5c5cf277b5f825ef921 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_2ee63e08c1622506691159776bf34f4c = NULL;
     PyObject *exception_keeper_type_15;
     PyObject *exception_keeper_value_15;
     PyTracebackObject *exception_keeper_tb_15;
@@ -11594,31 +11594,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_14ef45262daac5c5cf277b5f825ef921)) {
-        Py_XDECREF(cache_frame_14ef45262daac5c5cf277b5f825ef921);
+    if (isFrameUnusable(cache_frame_2ee63e08c1622506691159776bf34f4c)) {
+        Py_XDECREF(cache_frame_2ee63e08c1622506691159776bf34f4c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_14ef45262daac5c5cf277b5f825ef921 == NULL) {
+        if (cache_frame_2ee63e08c1622506691159776bf34f4c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_14ef45262daac5c5cf277b5f825ef921 = MAKE_FUNCTION_FRAME(codeobj_14ef45262daac5c5cf277b5f825ef921, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_2ee63e08c1622506691159776bf34f4c = MAKE_FUNCTION_FRAME(codeobj_2ee63e08c1622506691159776bf34f4c, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_14ef45262daac5c5cf277b5f825ef921->m_type_description == NULL);
-    frame_14ef45262daac5c5cf277b5f825ef921 = cache_frame_14ef45262daac5c5cf277b5f825ef921;
+    assert(cache_frame_2ee63e08c1622506691159776bf34f4c->m_type_description == NULL);
+    frame_2ee63e08c1622506691159776bf34f4c = cache_frame_2ee63e08c1622506691159776bf34f4c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_14ef45262daac5c5cf277b5f825ef921);
+    pushFrameStack(frame_2ee63e08c1622506691159776bf34f4c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_14ef45262daac5c5cf277b5f825ef921) == 2); // Frame stack
+    assert(Py_REFCNT(frame_2ee63e08c1622506691159776bf34f4c) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -11648,7 +11648,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         tmp_args_element_name_1 = par_a;
         CHECK_OBJECT(par_weights);
         tmp_args_element_name_2 = par_weights;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 790;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 790;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_iter_arg_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -11884,7 +11884,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         tmp_args_element_name_5 = par_range;
         CHECK_OBJECT(par_weights);
         tmp_args_element_name_6 = par_weights;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 792;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 792;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_iter_arg_2 = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_2, call_args);
@@ -12152,7 +12152,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
             type_description_1 = "oooooooooooooooooooooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 796;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 796;
         tmp_assign_source_11 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_7);
@@ -12321,7 +12321,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
             type_description_1 = "oooooooooooooooooooooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 808;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 808;
         {
             PyObject *call_args[] = {tmp_args_element_name_8, tmp_args_element_name_9};
             tmp_or_left_value_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -12410,7 +12410,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
             goto frame_exception_exit_1;
         }
         tmp_args_element_name_11 = (PyObject *)&PyComplex_Type;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 809;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 809;
         {
             PyObject *call_args[] = {tmp_args_element_name_10, tmp_args_element_name_11};
             tmp_or_right_value_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_5, call_args);
@@ -12732,7 +12732,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         tmp_args_element_name_12 = var_n_equal_bins;
         CHECK_OBJECT(var_ntype);
         tmp_args_element_name_13 = var_ntype;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 819;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 819;
         {
             PyObject *call_args[] = {tmp_args_element_name_12, tmp_args_element_name_13};
             tmp_assign_source_22 = CALL_METHOD_WITH_ARGS2(
@@ -12795,7 +12795,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         tmp_args_element_name_14 = var_last_edge;
         CHECK_OBJECT(var_first_edge);
         tmp_args_element_name_15 = var_first_edge;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 822;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 822;
         {
             PyObject *call_args[] = {tmp_args_element_name_14, tmp_args_element_name_15};
             tmp_right_name_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_6, call_args);
@@ -12866,7 +12866,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         }
         CHECK_OBJECT(var_BLOCK);
         tmp_args_element_name_18 = var_BLOCK;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 828;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 828;
         {
             PyObject *call_args[] = {tmp_args_element_name_16, tmp_args_element_name_17, tmp_args_element_name_18};
             tmp_iter_arg_4 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_7, call_args);
@@ -13264,7 +13264,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         }
         CHECK_OBJECT(var_keep);
         tmp_args_element_name_19 = var_keep;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 838;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 838;
         tmp_operand_name_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[105], tmp_args_element_name_19);
         Py_DECREF(tmp_called_instance_2);
         if (tmp_operand_name_1 == NULL) {
@@ -13438,7 +13438,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         tmp_args_name_1 = PyTuple_New(1);
         PyTuple_SET_ITEM(tmp_args_name_1, 0, tmp_tuple_element_1);
         tmp_kwargs_name_1 = PyDict_Copy(mod_consts[143]);
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 846;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 846;
         tmp_assign_source_34 = CALL_FUNCTION(tmp_called_name_8, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_8);
         Py_DECREF(tmp_args_name_1);
@@ -13498,7 +13498,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         }
 
         tmp_args_element_name_21 = var_first_edge;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 850;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 850;
         {
             PyObject *call_args[] = {tmp_args_element_name_20, tmp_args_element_name_21};
             tmp_left_name_5 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_9, call_args);
@@ -13592,7 +13592,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
             type_description_1 = "oooooooooooooooooooooooooooooooo";
             goto try_except_handler_8;
         }
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 851;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 851;
         tmp_assign_source_36 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_10, tmp_args_element_name_22);
         Py_DECREF(tmp_called_name_10);
         Py_DECREF(tmp_args_element_name_22);
@@ -14448,7 +14448,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         goto try_except_handler_12;
         // Finished with no exception for dict_build:
         dict_build_noexception_1:;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 865;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 865;
         tmp_right_name_12 = CALL_FUNCTION(tmp_called_name_11, tmp_args_name_2, tmp_kwargs_name_2);
         Py_DECREF(tmp_called_name_11);
         Py_DECREF(tmp_args_name_2);
@@ -14683,7 +14683,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         goto try_except_handler_13;
         // Finished with no exception for dict_build:
         dict_build_noexception_2:;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 867;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 867;
         tmp_right_name_13 = CALL_FUNCTION(tmp_called_name_12, tmp_args_name_3, tmp_kwargs_name_3);
         Py_DECREF(tmp_called_name_12);
         Py_DECREF(tmp_args_name_3);
@@ -14885,7 +14885,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         goto try_except_handler_8;
         // Finished with no exception for dict_build:
         dict_build_noexception_3:;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 870;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 870;
         tmp_expression_name_30 = CALL_FUNCTION(tmp_called_name_14, tmp_args_name_4, tmp_kwargs_name_4);
         Py_DECREF(tmp_called_name_14);
         Py_DECREF(tmp_args_name_4);
@@ -14925,7 +14925,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         }
 
         tmp_args_element_name_23 = var_ntype;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 870;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 870;
         tmp_right_name_14 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_13, tmp_args_element_name_23);
         Py_DECREF(tmp_called_name_13);
         if (tmp_right_name_14 == NULL) {
@@ -15047,7 +15047,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         }
         CHECK_OBJECT(var_ntype);
         tmp_args_element_name_25 = var_ntype;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 874;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 874;
         {
             PyObject *call_args[] = {tmp_args_element_name_24, tmp_args_element_name_25};
             tmp_assign_source_56 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_15, call_args);
@@ -15134,7 +15134,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         }
         CHECK_OBJECT(var_BLOCK);
         tmp_args_element_name_28 = var_BLOCK;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 876;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 876;
         {
             PyObject *call_args[] = {tmp_args_element_name_26, tmp_args_element_name_27, tmp_args_element_name_28};
             tmp_iter_arg_5 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_16, call_args);
@@ -15300,7 +15300,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
             type_description_1 = "oooooooooooooooooooooooooooooooo";
             goto try_except_handler_14;
         }
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 877;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 877;
         tmp_assign_source_60 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_17, tmp_args_element_name_29);
         Py_DECREF(tmp_called_name_17);
         Py_DECREF(tmp_args_element_name_29);
@@ -15372,7 +15372,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         }
 
         tmp_args_element_name_31 = var_bin_edges;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 878;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 878;
         {
             PyObject *call_args[] = {tmp_args_element_name_30, tmp_args_element_name_31};
             tmp_right_name_16 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_18, call_args);
@@ -15500,7 +15500,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         tmp_kwargs_name_5 = _PyDict_NewPresized( 1 );
         tmp_res = PyDict_SetItem(tmp_kwargs_name_5, tmp_dict_key_4, tmp_dict_value_4);
         assert(!(tmp_res != 0));
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 880;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 880;
         tmp_assign_source_62 = CALL_FUNCTION(tmp_called_name_19, tmp_args_name_5, tmp_kwargs_name_5);
         Py_DECREF(tmp_called_name_19);
         Py_DECREF(tmp_kwargs_name_5);
@@ -15557,7 +15557,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         }
         CHECK_OBJECT(var_BLOCK);
         tmp_args_element_name_34 = var_BLOCK;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 881;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 881;
         {
             PyObject *call_args[] = {tmp_args_element_name_32, tmp_args_element_name_33, tmp_args_element_name_34};
             tmp_iter_arg_6 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_20, call_args);
@@ -15815,7 +15815,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         }
         CHECK_OBJECT(var_tmp_a);
         tmp_args_element_name_35 = var_tmp_a;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 884;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 884;
         tmp_assign_source_68 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[158], tmp_args_element_name_35);
         if (tmp_assign_source_68 == NULL) {
             assert(ERROR_OCCURRED());
@@ -15949,7 +15949,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
             PyTuple_SET_ITEM0(tmp_args_element_name_36, 0, tmp_tuple_element_5);
             CHECK_OBJECT(var_sw);
             tmp_called_instance_4 = var_sw;
-            frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 887;
+            frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 887;
             tmp_tuple_element_5 = CALL_METHOD_NO_ARGS(tmp_called_instance_4, mod_consts[161]);
             if (tmp_tuple_element_5 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -15971,7 +15971,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         goto try_except_handler_15;
         // Finished with no exception for tuple_build:
         tuple_build_noexception_1:;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 887;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 887;
         tmp_assign_source_71 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_21, tmp_args_element_name_36);
         Py_DECREF(tmp_called_name_21);
         Py_DECREF(tmp_args_element_name_36);
@@ -16028,7 +16028,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         }
 
         tmp_args_element_name_38 = var_bin_edges;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 888;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 888;
         {
             PyObject *call_args[] = {tmp_args_element_name_37, tmp_args_element_name_38};
             tmp_assign_source_72 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_22, call_args);
@@ -16188,7 +16188,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         }
 
         tmp_args_element_name_39 = var_cum_n;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 891;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 891;
         tmp_assign_source_74 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_23, tmp_args_element_name_39);
         Py_DECREF(tmp_called_name_23);
         if (tmp_assign_source_74 == NULL) {
@@ -16298,7 +16298,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         // Finished with no exception for tuple_build:
         tuple_build_noexception_2:;
         tmp_kwargs_name_6 = PyDict_Copy(mod_consts[35]);
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 897;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 897;
         tmp_call_result_1 = CALL_FUNCTION(tmp_called_name_24, tmp_args_name_6, tmp_kwargs_name_6);
         Py_DECREF(tmp_called_name_24);
         Py_DECREF(tmp_args_name_6);
@@ -16429,7 +16429,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         }
 
         tmp_args_element_name_41 = var_bin_edges;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 904;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 904;
         tmp_args_element_name_40 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_26, tmp_args_element_name_41);
         Py_DECREF(tmp_called_name_26);
         if (tmp_args_element_name_40 == NULL) {
@@ -16443,7 +16443,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
             goto frame_exception_exit_1;
         }
         tmp_args_element_name_42 = (PyObject *)&PyFloat_Type;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 904;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 904;
         {
             PyObject *call_args[] = {tmp_args_element_name_40, tmp_args_element_name_42};
             tmp_assign_source_76 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_25, call_args);
@@ -16510,7 +16510,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         }
 
         tmp_called_instance_5 = var_n;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 905;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 905;
         tmp_right_name_21 = CALL_METHOD_NO_ARGS(tmp_called_instance_5, mod_consts[166]);
         if (tmp_right_name_21 == NULL) {
             assert(ERROR_OCCURRED());
@@ -16662,7 +16662,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         // Finished with no exception for tuple_build:
         tuple_build_noexception_4:;
         tmp_kwargs_name_7 = PyDict_Copy(mod_consts[35]);
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 908;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 908;
         tmp_call_result_2 = CALL_FUNCTION(tmp_called_name_27, tmp_args_name_7, tmp_kwargs_name_7);
         Py_DECREF(tmp_called_name_27);
         Py_DECREF(tmp_args_name_7);
@@ -16756,7 +16756,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         }
 
         tmp_args_element_name_44 = var_bin_edges;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 919;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 919;
         tmp_args_element_name_43 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_29, tmp_args_element_name_44);
         Py_DECREF(tmp_called_name_29);
         if (tmp_args_element_name_43 == NULL) {
@@ -16770,7 +16770,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
             goto frame_exception_exit_1;
         }
         tmp_args_element_name_45 = (PyObject *)&PyFloat_Type;
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 919;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 919;
         {
             PyObject *call_args[] = {tmp_args_element_name_43, tmp_args_element_name_45};
             tmp_assign_source_77 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_28, call_args);
@@ -16837,7 +16837,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
             type_description_1 = "oooooooooooooooooooooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 920;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 920;
         tmp_right_name_22 = CALL_METHOD_NO_ARGS(tmp_called_instance_6, mod_consts[166]);
         Py_DECREF(tmp_called_instance_6);
         if (tmp_right_name_22 == NULL) {
@@ -16967,7 +16967,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
         // Finished with no exception for tuple_build:
         tuple_build_noexception_6:;
         tmp_kwargs_name_8 = PyDict_Copy(mod_consts[35]);
-        frame_14ef45262daac5c5cf277b5f825ef921->m_frame.f_lineno = 924;
+        frame_2ee63e08c1622506691159776bf34f4c->m_frame.f_lineno = 924;
         tmp_call_result_3 = CALL_FUNCTION(tmp_called_name_30, tmp_args_name_8, tmp_kwargs_name_8);
         Py_DECREF(tmp_called_name_30);
         Py_DECREF(tmp_args_name_8);
@@ -17029,7 +17029,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
     branch_end_10:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_14ef45262daac5c5cf277b5f825ef921);
+    RESTORE_FRAME_EXCEPTION(frame_2ee63e08c1622506691159776bf34f4c);
 #endif
 
     // Put the previous frame back on top.
@@ -17039,7 +17039,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_14ef45262daac5c5cf277b5f825ef921);
+    RESTORE_FRAME_EXCEPTION(frame_2ee63e08c1622506691159776bf34f4c);
 #endif
 
     // Put the previous frame back on top.
@@ -17050,18 +17050,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_14ef45262daac5c5cf277b5f825ef921);
+    RESTORE_FRAME_EXCEPTION(frame_2ee63e08c1622506691159776bf34f4c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_14ef45262daac5c5cf277b5f825ef921, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_14ef45262daac5c5cf277b5f825ef921->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_14ef45262daac5c5cf277b5f825ef921, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_2ee63e08c1622506691159776bf34f4c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_2ee63e08c1622506691159776bf34f4c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_2ee63e08c1622506691159776bf34f4c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_14ef45262daac5c5cf277b5f825ef921,
+        frame_2ee63e08c1622506691159776bf34f4c,
         type_description_1,
         par_a,
         par_bins,
@@ -17099,17 +17099,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__18_histogram(struct Nuitk
 
 
     // Release cached frame if used for exception.
-    if (frame_14ef45262daac5c5cf277b5f825ef921 == cache_frame_14ef45262daac5c5cf277b5f825ef921) {
+    if (frame_2ee63e08c1622506691159776bf34f4c == cache_frame_2ee63e08c1622506691159776bf34f4c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_14ef45262daac5c5cf277b5f825ef921);
-        cache_frame_14ef45262daac5c5cf277b5f825ef921 = NULL;
+        Py_DECREF(cache_frame_2ee63e08c1622506691159776bf34f4c);
+        cache_frame_2ee63e08c1622506691159776bf34f4c = NULL;
     }
 
-    assertFrameObject(frame_14ef45262daac5c5cf277b5f825ef921);
+    assertFrameObject(frame_2ee63e08c1622506691159776bf34f4c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -17462,7 +17462,7 @@ static PyObject *numpy$lib$histograms$$$function__19__histogramdd_dispatcher$$$g
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_m_frame = MAKE_FUNCTION_FRAME(codeobj_165f7fb9160bf89406fc90bfe5b0ce6e, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_m_frame = MAKE_FUNCTION_FRAME(codeobj_ba09d5e1b138f80d37de670923f60cce, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
@@ -18138,7 +18138,7 @@ static PyObject *MAKE_GENERATOR_numpy$lib$histograms$$$function__19__histogramdd
 #if PYTHON_VERSION >= 0x350
         NULL,
 #endif
-        codeobj_165f7fb9160bf89406fc90bfe5b0ce6e,
+        codeobj_ba09d5e1b138f80d37de670923f60cce,
         closure,
         6,
         sizeof(struct numpy$lib$histograms$$$function__19__histogramdd_dispatcher$$$genobj__1__histogramdd_dispatcher_locals)
@@ -18196,7 +18196,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
     PyObject *tmp_tuple_unpack_3__element_1 = NULL;
     PyObject *tmp_tuple_unpack_3__element_2 = NULL;
     PyObject *tmp_tuple_unpack_3__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_17bda2bceb180c9071a3f68d7042d739;
+    struct Nuitka_FrameObject *frame_05c39b0323595cdd4ceb8e27cc9b7326;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -18283,7 +18283,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
     PyTracebackObject *exception_keeper_tb_17;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_17;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_17bda2bceb180c9071a3f68d7042d739 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_05c39b0323595cdd4ceb8e27cc9b7326 = NULL;
     PyObject *exception_keeper_type_18;
     PyObject *exception_keeper_value_18;
     PyTracebackObject *exception_keeper_tb_18;
@@ -18291,31 +18291,31 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_17bda2bceb180c9071a3f68d7042d739)) {
-        Py_XDECREF(cache_frame_17bda2bceb180c9071a3f68d7042d739);
+    if (isFrameUnusable(cache_frame_05c39b0323595cdd4ceb8e27cc9b7326)) {
+        Py_XDECREF(cache_frame_05c39b0323595cdd4ceb8e27cc9b7326);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_17bda2bceb180c9071a3f68d7042d739 == NULL) {
+        if (cache_frame_05c39b0323595cdd4ceb8e27cc9b7326 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_17bda2bceb180c9071a3f68d7042d739 = MAKE_FUNCTION_FRAME(codeobj_17bda2bceb180c9071a3f68d7042d739, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_05c39b0323595cdd4ceb8e27cc9b7326 = MAKE_FUNCTION_FRAME(codeobj_05c39b0323595cdd4ceb8e27cc9b7326, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_17bda2bceb180c9071a3f68d7042d739->m_type_description == NULL);
-    frame_17bda2bceb180c9071a3f68d7042d739 = cache_frame_17bda2bceb180c9071a3f68d7042d739;
+    assert(cache_frame_05c39b0323595cdd4ceb8e27cc9b7326->m_type_description == NULL);
+    frame_05c39b0323595cdd4ceb8e27cc9b7326 = cache_frame_05c39b0323595cdd4ceb8e27cc9b7326;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_17bda2bceb180c9071a3f68d7042d739);
+    pushFrameStack(frame_05c39b0323595cdd4ceb8e27cc9b7326);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_17bda2bceb180c9071a3f68d7042d739) == 2); // Frame stack
+    assert(Py_REFCNT(frame_05c39b0323595cdd4ceb8e27cc9b7326) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -18530,9 +18530,9 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
     GET_CURRENT_EXCEPTION(&exception_preserved_type_1, &exception_preserved_value_1, &exception_preserved_tb_1);
 
     if (exception_keeper_tb_3 == NULL) {
-        exception_keeper_tb_3 = MAKE_TRACEBACK(frame_17bda2bceb180c9071a3f68d7042d739, exception_keeper_lineno_3);
+        exception_keeper_tb_3 = MAKE_TRACEBACK(frame_05c39b0323595cdd4ceb8e27cc9b7326, exception_keeper_lineno_3);
     } else if (exception_keeper_lineno_3 != 0) {
-        exception_keeper_tb_3 = ADD_TRACEBACK(exception_keeper_tb_3, frame_17bda2bceb180c9071a3f68d7042d739, exception_keeper_lineno_3);
+        exception_keeper_tb_3 = ADD_TRACEBACK(exception_keeper_tb_3, frame_05c39b0323595cdd4ceb8e27cc9b7326, exception_keeper_lineno_3);
     }
 
     NORMALIZE_EXCEPTION(&exception_keeper_type_3, &exception_keeper_value_3, &exception_keeper_tb_3);
@@ -18610,7 +18610,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         }
 
         tmp_args_element_name_1 = Nuitka_Cell_GET(par_sample);
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1018;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1018;
         tmp_expression_name_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         if (tmp_expression_name_2 == NULL) {
@@ -18844,7 +18844,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         exception_lineno = 1013;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_17bda2bceb180c9071a3f68d7042d739->m_frame) frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame) frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "coooooooocoooooooooooooo";
     goto try_except_handler_5;
     branch_end_1:;
@@ -18927,7 +18927,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
 
         tmp_args_element_name_2 = var_D;
         tmp_args_element_name_3 = (PyObject *)&PyLong_Type;
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1021;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1021;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_assign_source_12 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -19051,7 +19051,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         }
         CHECK_OBJECT(par_weights);
         tmp_args_element_name_4 = par_weights;
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1025;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1025;
         tmp_assign_source_15 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[61], tmp_args_element_name_4);
         if (tmp_assign_source_15 == NULL) {
             assert(ERROR_OCCURRED());
@@ -19147,7 +19147,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[185];
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1030;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1030;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -19173,9 +19173,9 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
     GET_CURRENT_EXCEPTION(&exception_preserved_type_2, &exception_preserved_value_2, &exception_preserved_tb_2);
 
     if (exception_keeper_tb_7 == NULL) {
-        exception_keeper_tb_7 = MAKE_TRACEBACK(frame_17bda2bceb180c9071a3f68d7042d739, exception_keeper_lineno_7);
+        exception_keeper_tb_7 = MAKE_TRACEBACK(frame_05c39b0323595cdd4ceb8e27cc9b7326, exception_keeper_lineno_7);
     } else if (exception_keeper_lineno_7 != 0) {
-        exception_keeper_tb_7 = ADD_TRACEBACK(exception_keeper_tb_7, frame_17bda2bceb180c9071a3f68d7042d739, exception_keeper_lineno_7);
+        exception_keeper_tb_7 = ADD_TRACEBACK(exception_keeper_tb_7, frame_05c39b0323595cdd4ceb8e27cc9b7326, exception_keeper_lineno_7);
     }
 
     NORMALIZE_EXCEPTION(&exception_keeper_type_7, &exception_keeper_value_7, &exception_keeper_tb_7);
@@ -19257,7 +19257,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         exception_lineno = 1027;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_17bda2bceb180c9071a3f68d7042d739->m_frame) frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame) frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "coooooooocoooooooooooooo";
     goto try_except_handler_9;
     branch_end_4:;
@@ -19416,7 +19416,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         PyObject *tmp_raise_type_2;
         PyObject *tmp_make_exception_arg_2;
         tmp_make_exception_arg_2 = mod_consts[187];
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1041;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1041;
         tmp_raise_type_2 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_2);
         assert(!(tmp_raise_type_2 == NULL));
         exception_type = tmp_raise_type_2;
@@ -19461,7 +19461,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         }
 
         tmp_args_element_name_5 = var_D;
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1044;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1044;
         tmp_iter_arg_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_5);
         if (tmp_iter_arg_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -19592,7 +19592,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
             type_description_1 = "coooooooocoooooooooooooo";
             goto try_except_handler_10;
         }
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1045;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1045;
         tmp_compexpr_left_7 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_4);
         Py_DECREF(tmp_args_element_name_6);
@@ -19714,7 +19714,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         tmp_called_instance_2 = mod_consts[188];
         CHECK_OBJECT(var_i);
         tmp_args_element_name_7 = var_i;
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1048;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1048;
         tmp_make_exception_arg_3 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[65], tmp_args_element_name_7);
         if (tmp_make_exception_arg_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -19726,7 +19726,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
             type_description_1 = "coooooooocoooooooooooooo";
             goto try_except_handler_10;
         }
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1047;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1047;
         tmp_raise_type_3 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_3);
         Py_DECREF(tmp_make_exception_arg_3);
         assert(!(tmp_raise_type_3 == NULL));
@@ -19822,7 +19822,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
             type_description_1 = "coooooooocoooooooooooooo";
             goto try_except_handler_11;
         }
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1049;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1049;
         {
             PyObject *call_args[] = {tmp_args_element_name_8, tmp_args_element_name_9};
             tmp_iter_arg_4 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_5, call_args);
@@ -20098,7 +20098,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
             type_description_1 = "coooooooocoooooooooooooo";
             goto try_except_handler_13;
         }
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1051;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1051;
         tmp_assign_source_27 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_10);
         Py_DECREF(tmp_called_name_6);
         Py_DECREF(tmp_args_element_name_10);
@@ -20135,9 +20135,9 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
     GET_CURRENT_EXCEPTION(&exception_preserved_type_3, &exception_preserved_value_3, &exception_preserved_tb_3);
 
     if (exception_keeper_tb_11 == NULL) {
-        exception_keeper_tb_11 = MAKE_TRACEBACK(frame_17bda2bceb180c9071a3f68d7042d739, exception_keeper_lineno_11);
+        exception_keeper_tb_11 = MAKE_TRACEBACK(frame_05c39b0323595cdd4ceb8e27cc9b7326, exception_keeper_lineno_11);
     } else if (exception_keeper_lineno_11 != 0) {
-        exception_keeper_tb_11 = ADD_TRACEBACK(exception_keeper_tb_11, frame_17bda2bceb180c9071a3f68d7042d739, exception_keeper_lineno_11);
+        exception_keeper_tb_11 = ADD_TRACEBACK(exception_keeper_tb_11, frame_05c39b0323595cdd4ceb8e27cc9b7326, exception_keeper_lineno_11);
     }
 
     NORMALIZE_EXCEPTION(&exception_keeper_type_11, &exception_keeper_value_11, &exception_keeper_tb_11);
@@ -20181,7 +20181,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         tmp_called_instance_3 = mod_consts[190];
         CHECK_OBJECT(var_i);
         tmp_args_element_name_11 = var_i;
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1055;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1055;
         tmp_make_exception_arg_4 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[65], tmp_args_element_name_11);
         if (tmp_make_exception_arg_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -20193,7 +20193,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
             type_description_1 = "coooooooocoooooooooooooo";
             goto try_except_handler_15;
         }
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1054;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1054;
         tmp_raise_type_4 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_4);
         Py_DECREF(tmp_make_exception_arg_4);
         assert(!(tmp_raise_type_4 == NULL));
@@ -20238,7 +20238,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         exception_lineno = 1050;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_17bda2bceb180c9071a3f68d7042d739->m_frame) frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame) frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "coooooooocoooooooooooooo";
     goto try_except_handler_14;
     branch_end_9:;
@@ -20324,7 +20324,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
             type_description_1 = "coooooooocoooooooooooooo";
             goto try_except_handler_10;
         }
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1058;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1058;
         {
             PyObject *call_args[] = {tmp_args_element_name_12, tmp_args_element_name_13, tmp_args_element_name_14};
             tmp_ass_subvalue_1 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_7, call_args);
@@ -20436,7 +20436,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
             type_description_1 = "coooooooocoooooooooooooo";
             goto try_except_handler_10;
         }
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1059;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1059;
         tmp_compexpr_left_10 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_8, tmp_args_element_name_15);
         Py_DECREF(tmp_called_name_8);
         Py_DECREF(tmp_args_element_name_15);
@@ -20545,7 +20545,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
             type_description_1 = "coooooooocoooooooooooooo";
             goto try_except_handler_10;
         }
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1060;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1060;
         tmp_ass_subvalue_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_9, tmp_args_element_name_16);
         Py_DECREF(tmp_called_name_9);
         Py_DECREF(tmp_args_element_name_16);
@@ -20725,7 +20725,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
             type_description_1 = "coooooooocoooooooooooooo";
             goto try_except_handler_10;
         }
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1061;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1061;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_10, tmp_args_element_name_17);
         Py_DECREF(tmp_called_name_10);
         Py_DECREF(tmp_args_element_name_17);
@@ -20767,7 +20767,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         tmp_called_instance_4 = mod_consts[192];
         CHECK_OBJECT(var_i);
         tmp_args_element_name_18 = var_i;
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1063;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1063;
         tmp_make_exception_arg_5 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_4, mod_consts[65], tmp_args_element_name_18);
         if (tmp_make_exception_arg_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -20779,7 +20779,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
             type_description_1 = "coooooooocoooooooooooooo";
             goto try_except_handler_10;
         }
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1062;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1062;
         tmp_raise_type_5 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_5);
         Py_DECREF(tmp_make_exception_arg_5);
         assert(!(tmp_raise_type_5 == NULL));
@@ -20800,7 +20800,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         tmp_called_instance_5 = mod_consts[193];
         CHECK_OBJECT(var_i);
         tmp_args_element_name_19 = var_i;
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1067;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1067;
         tmp_make_exception_arg_6 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_5, mod_consts[65], tmp_args_element_name_19);
         if (tmp_make_exception_arg_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -20812,7 +20812,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
             type_description_1 = "coooooooocoooooooooooooo";
             goto try_except_handler_10;
         }
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1066;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1066;
         tmp_raise_type_6 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_6);
         Py_DECREF(tmp_make_exception_arg_6);
         assert(!(tmp_raise_type_6 == NULL));
@@ -20965,7 +20965,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
             type_description_1 = "coooooooocoooooooooooooo";
             goto try_except_handler_10;
         }
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1070;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1070;
         tmp_ass_subvalue_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_11, tmp_args_element_name_20);
         Py_DECREF(tmp_called_name_11);
         Py_DECREF(tmp_args_element_name_20);
@@ -21085,7 +21085,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
             }
 
             tmp_args_element_name_21 = var_D;
-            frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1076;
+            frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1076;
             tmp_iter_arg_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_12, tmp_args_element_name_21);
             if (tmp_iter_arg_5 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -21190,7 +21190,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         }
 
         tmp_args_element_name_22 = var_D;
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1082;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1082;
         tmp_iter_arg_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_13, tmp_args_element_name_22);
         if (tmp_iter_arg_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21616,7 +21616,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         }
 
         tmp_args_element_name_24 = var_nbin;
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1090;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1090;
         {
             PyObject *call_args[] = {tmp_args_element_name_23, tmp_args_element_name_24};
             tmp_assign_source_39 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_14, call_args);
@@ -21695,7 +21695,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         }
 
         tmp_called_instance_6 = var_nbin;
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1094;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1094;
         tmp_dict_value_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_6, mod_consts[199]);
         if (tmp_dict_value_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21712,7 +21712,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         Py_DECREF(tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1094;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1094;
         tmp_assign_source_40 = CALL_FUNCTION(tmp_called_name_15, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_15);
         Py_DECREF(tmp_args_name_1);
@@ -21761,7 +21761,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         }
 
         tmp_args_element_name_25 = var_nbin;
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1097;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1097;
         tmp_assign_source_41 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_16, tmp_args_element_name_25);
         Py_DECREF(tmp_called_name_16);
         if (tmp_assign_source_41 == NULL) {
@@ -21802,7 +21802,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         }
         tmp_args_name_2 = mod_consts[201];
         tmp_kwargs_name_2 = PyDict_Copy(mod_consts[202]);
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1100;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1100;
         tmp_assign_source_42 = CALL_FUNCTION(tmp_called_name_17, tmp_args_name_2, tmp_kwargs_name_2);
         Py_DECREF(tmp_called_name_17);
         Py_DECREF(tmp_kwargs_name_2);
@@ -21961,7 +21961,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         PyObject *tmp_raise_type_7;
         PyObject *tmp_make_exception_arg_7;
         tmp_make_exception_arg_7 = mod_consts[204];
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1114;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1114;
         tmp_raise_type_7 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_7);
         assert(!(tmp_raise_type_7 == NULL));
         exception_type = tmp_raise_type_7;
@@ -22011,7 +22011,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         PyObject *tmp_called_instance_7;
         CHECK_OBJECT(var_hist);
         tmp_called_instance_7 = var_hist;
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1118;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1118;
         tmp_assign_source_47 = CALL_METHOD_NO_ARGS(tmp_called_instance_7, mod_consts[166]);
         if (tmp_assign_source_47 == NULL) {
             assert(ERROR_OCCURRED());
@@ -22060,7 +22060,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         }
 
         tmp_args_element_name_26 = var_D;
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1119;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1119;
         tmp_iter_arg_7 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_18, tmp_args_element_name_26);
         if (tmp_iter_arg_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -22174,7 +22174,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
 
         tmp_args_element_name_27 = var_D;
         tmp_args_element_name_28 = (PyObject *)&PyLong_Type;
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1120;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1120;
         {
             PyObject *call_args[] = {tmp_args_element_name_27, tmp_args_element_name_28};
             tmp_assign_source_51 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_19, call_args);
@@ -22335,7 +22335,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         }
 
         tmp_args_element_name_29 = var_shape;
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1122;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1122;
         tmp_right_name_10 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_20, tmp_args_element_name_29);
         Py_DECREF(tmp_called_name_20);
         if (tmp_right_name_10 == NULL) {
@@ -22504,7 +22504,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
             type_description_1 = "coooooooocoooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1125;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1125;
         tmp_call_result_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_8, mod_consts[113]);
         Py_DECREF(tmp_called_instance_8);
         if (tmp_call_result_2 == NULL) {
@@ -22541,7 +22541,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
         PyObject *tmp_raise_type_8;
         PyObject *tmp_make_exception_arg_8;
         tmp_make_exception_arg_8 = mod_consts[208];
-        frame_17bda2bceb180c9071a3f68d7042d739->m_frame.f_lineno = 1126;
+        frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame.f_lineno = 1126;
         tmp_raise_type_8 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_RuntimeError, tmp_make_exception_arg_8);
         assert(!(tmp_raise_type_8 == NULL));
         exception_type = tmp_raise_type_8;
@@ -22593,7 +22593,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_17bda2bceb180c9071a3f68d7042d739);
+    RESTORE_FRAME_EXCEPTION(frame_05c39b0323595cdd4ceb8e27cc9b7326);
 #endif
 
     // Put the previous frame back on top.
@@ -22603,7 +22603,7 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_17bda2bceb180c9071a3f68d7042d739);
+    RESTORE_FRAME_EXCEPTION(frame_05c39b0323595cdd4ceb8e27cc9b7326);
 #endif
 
     // Put the previous frame back on top.
@@ -22614,18 +22614,18 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_17bda2bceb180c9071a3f68d7042d739);
+    RESTORE_FRAME_EXCEPTION(frame_05c39b0323595cdd4ceb8e27cc9b7326);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_17bda2bceb180c9071a3f68d7042d739, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_17bda2bceb180c9071a3f68d7042d739->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_17bda2bceb180c9071a3f68d7042d739, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_05c39b0323595cdd4ceb8e27cc9b7326, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_05c39b0323595cdd4ceb8e27cc9b7326->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_05c39b0323595cdd4ceb8e27cc9b7326, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_17bda2bceb180c9071a3f68d7042d739,
+        frame_05c39b0323595cdd4ceb8e27cc9b7326,
         type_description_1,
         par_sample,
         par_bins,
@@ -22655,17 +22655,17 @@ static PyObject *impl_numpy$lib$histograms$$$function__20_histogramdd(struct Nui
 
 
     // Release cached frame if used for exception.
-    if (frame_17bda2bceb180c9071a3f68d7042d739 == cache_frame_17bda2bceb180c9071a3f68d7042d739) {
+    if (frame_05c39b0323595cdd4ceb8e27cc9b7326 == cache_frame_05c39b0323595cdd4ceb8e27cc9b7326) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_17bda2bceb180c9071a3f68d7042d739);
-        cache_frame_17bda2bceb180c9071a3f68d7042d739 = NULL;
+        Py_DECREF(cache_frame_05c39b0323595cdd4ceb8e27cc9b7326);
+        cache_frame_05c39b0323595cdd4ceb8e27cc9b7326 = NULL;
     }
 
-    assertFrameObject(frame_17bda2bceb180c9071a3f68d7042d739);
+    assertFrameObject(frame_05c39b0323595cdd4ceb8e27cc9b7326);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -22880,7 +22880,7 @@ static PyObject *numpy$lib$histograms$$$function__20_histogramdd$$$genexpr__1_ge
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_m_frame = MAKE_FUNCTION_FRAME(codeobj_516dc1da6ec998d96a6fba4ca479f601, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_m_frame = MAKE_FUNCTION_FRAME(codeobj_dc09b056608837ee00f14b4a6aed8539, module_numpy$lib$histograms, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
@@ -23249,7 +23249,7 @@ static PyObject *MAKE_GENERATOR_numpy$lib$histograms$$$function__20_histogramdd$
 #if PYTHON_VERSION >= 0x350
         mod_consts[212],
 #endif
-        codeobj_516dc1da6ec998d96a6fba4ca479f601,
+        codeobj_dc09b056608837ee00f14b4a6aed8539,
         closure,
         3,
         sizeof(struct numpy$lib$histograms$$$function__20_histogramdd$$$genexpr__1_genexpr_locals)
@@ -23265,7 +23265,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__10__ravel_and_ch
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_948e8fdafbbbcacb2062bc9ed669314d,
+        codeobj_11f963722d05907f8da5f3fbfa8b2230,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23290,7 +23290,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__11__get_outer_ed
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_cfd7fe52a6fd278fbdb1ae1d7d131739,
+        codeobj_d843e36049f7f1fe39c1e1c35572246c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23315,7 +23315,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__12__unsigned_sub
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_7ca71fba5944706cbbb8806870216e9f,
+        codeobj_4faec388b420eaa5054e30d8aec9a10f,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23340,7 +23340,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__13__get_bin_edge
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_93257d6aeb08df15ecea1d404c77acda,
+        codeobj_9bcc1eac5f4c3fa8ef2fe0c3200a30a2,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23365,7 +23365,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__14__search_sorte
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_ca0c2a106f8ebde2064639a5a91e3c19,
+        codeobj_52d9a704794cbcc6c829a61dda667143,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23386,11 +23386,11 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__14__search_sorte
 static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__15__histogram_bin_edges_dispatcher(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$lib$histograms$$$function__15__histogram_bin_edges_dispatcher,
-        mod_consts[244],
+        mod_consts[243],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_439caea15587733bc66a50cf80543890,
+        codeobj_691f780ad61c45341781321693e8b33e,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23411,11 +23411,11 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__15__histogram_bi
 static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__16_histogram_bin_edges(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$lib$histograms$$$function__16_histogram_bin_edges,
-        mod_consts[246],
+        mod_consts[245],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_e6ccc49868664af4874e9f2b2cdac7ba,
+        codeobj_2005da7fd576c1ec9af2b974dc4d3727,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23436,11 +23436,11 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__16_histogram_bin
 static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__17__histogram_dispatcher(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$lib$histograms$$$function__17__histogram_dispatcher,
-        mod_consts[248],
+        mod_consts[247],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_c5a77e3c789f4dcaefd3aab7973bb8ba,
+        codeobj_2b5174909173833bc3e4b637a5c4cc7f,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23465,7 +23465,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__18_histogram(PyO
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_14ef45262daac5c5cf277b5f825ef921,
+        codeobj_2ee63e08c1622506691159776bf34f4c,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23490,7 +23490,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__19__histogramdd_
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_165f7fb9160bf89406fc90bfe5b0ce6e,
+        codeobj_ba09d5e1b138f80d37de670923f60cce,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23515,7 +23515,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__1__ptp() {
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_6b1930e2f78544f8eb3d99d9dd868b8c,
+        codeobj_da108107199920bd314aa2cff07552d4,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23536,11 +23536,11 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__1__ptp() {
 static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__20_histogramdd(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$lib$histograms$$$function__20_histogramdd,
-        mod_consts[250],
+        mod_consts[249],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_17bda2bceb180c9071a3f68d7042d739,
+        codeobj_05c39b0323595cdd4ceb8e27cc9b7326,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23561,11 +23561,11 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__20_histogramdd(P
 static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__2__hist_bin_sqrt() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$lib$histograms$$$function__2__hist_bin_sqrt,
-        mod_consts[231],
+        mod_consts[230],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_80bb0bddabaa425be2a350f67b1f21d1,
+        codeobj_a9109e4bb8cacf7210b09d37e859aef3,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23590,7 +23590,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__3__hist_bin_stur
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_f93c9f73226f6da47a70872c9ef49106,
+        codeobj_581630cf36e9eacd3a667b98c1ba6423,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23611,11 +23611,11 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__3__hist_bin_stur
 static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__4__hist_bin_rice() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$lib$histograms$$$function__4__hist_bin_rice,
-        mod_consts[232],
+        mod_consts[231],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_a9539b3a036ce69b4cc6e4e3aab19b3c,
+        codeobj_2acd9dc88dc139e0004095a8d967bc5f,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23636,11 +23636,11 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__4__hist_bin_rice
 static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__5__hist_bin_scott() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$lib$histograms$$$function__5__hist_bin_scott,
-        mod_consts[233],
+        mod_consts[232],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_acf36e01c4d42e959b89aeccbf84731c,
+        codeobj_f2e9138814a2de1df29be05413e41db2,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23661,11 +23661,11 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__5__hist_bin_scot
 static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__6__hist_bin_stone() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$lib$histograms$$$function__6__hist_bin_stone,
-        mod_consts[234],
+        mod_consts[233],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_6c55638e01dc6a365218193d832fccb7,
+        codeobj_77a1afcb66c8f079dae8dd263be50657,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23690,7 +23690,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__6__hist_bin_ston
 #if PYTHON_VERSION >= 0x300
         mod_consts[26],
 #endif
-        codeobj_3621bafdd865e9f42483d86dba037e9d,
+        codeobj_64b8f04a1d390dc5fe62b20e6d5b085d,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23711,11 +23711,11 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__6__hist_bin_ston
 static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__7__hist_bin_doane() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$lib$histograms$$$function__7__hist_bin_doane,
-        mod_consts[235],
+        mod_consts[234],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_702dbc8faadc2aa251f951ed3b493ea7,
+        codeobj_e155178e7fff35483c594289bab048a8,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23740,7 +23740,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__8__hist_bin_fd()
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_2d3888b3b54eefefe2dedb3b6d5312be,
+        codeobj_8778fbffa990959de07c6fe53f966387,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -23761,11 +23761,11 @@ static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__8__hist_bin_fd()
 static PyObject *MAKE_FUNCTION_numpy$lib$histograms$$$function__9__hist_bin_auto() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$lib$histograms$$$function__9__hist_bin_auto,
-        mod_consts[236],
+        mod_consts[235],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_85ab3b3629fa8ab2527511632e270e56,
+        codeobj_957118e7501aea565cfa42abee68919f,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -24173,7 +24173,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 #endif
 
     // Temp variables if any
-    struct Nuitka_FrameObject *frame_7b6106a5c6b38cd6de7675343fe1a96e;
+    struct Nuitka_FrameObject *frame_93fd70631d4095a867adf4a19906fa75;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -24190,30 +24190,30 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[215];
-        UPDATE_STRING_DICT0(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[216], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[215], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_7b6106a5c6b38cd6de7675343fe1a96e = MAKE_MODULE_FRAME(codeobj_7b6106a5c6b38cd6de7675343fe1a96e, module_numpy$lib$histograms);
+    frame_93fd70631d4095a867adf4a19906fa75 = MAKE_MODULE_FRAME(codeobj_93fd70631d4095a867adf4a19906fa75, module_numpy$lib$histograms);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_7b6106a5c6b38cd6de7675343fe1a96e);
-    assert(Py_REFCNT(frame_7b6106a5c6b38cd6de7675343fe1a96e) == 2);
+    pushFrameStack(frame_93fd70631d4095a867adf4a19906fa75);
+    assert(Py_REFCNT(frame_93fd70631d4095a867adf4a19906fa75) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[215];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[217]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[216]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[217]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[216]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[218], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[217], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -24229,14 +24229,14 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[217]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[216]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[217]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[216]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[219], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[218], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -24251,7 +24251,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[220], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[219], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -24265,7 +24265,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = Py_None;
         tmp_level_name_1 = mod_consts[24];
-        frame_7b6106a5c6b38cd6de7675343fe1a96e->m_frame.f_lineno = 4;
+        frame_93fd70631d4095a867adf4a19906fa75->m_frame.f_lineno = 4;
         tmp_assign_source_4 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24286,12 +24286,12 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_locals_arg_name_2;
         PyObject *tmp_fromlist_name_2;
         PyObject *tmp_level_name_2;
-        tmp_name_name_2 = mod_consts[221];
+        tmp_name_name_2 = mod_consts[220];
         tmp_globals_arg_name_2 = (PyObject *)moduledict_numpy$lib$histograms;
         tmp_locals_arg_name_2 = Py_None;
         tmp_fromlist_name_2 = Py_None;
         tmp_level_name_2 = mod_consts[24];
-        frame_7b6106a5c6b38cd6de7675343fe1a96e->m_frame.f_lineno = 5;
+        frame_93fd70631d4095a867adf4a19906fa75->m_frame.f_lineno = 5;
         tmp_assign_source_5 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_assign_source_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24303,7 +24303,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[221], tmp_assign_source_5);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[220], tmp_assign_source_5);
     }
     {
         PyObject *tmp_assign_source_6;
@@ -24317,7 +24317,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
         tmp_locals_arg_name_3 = Py_None;
         tmp_fromlist_name_3 = Py_None;
         tmp_level_name_3 = mod_consts[24];
-        frame_7b6106a5c6b38cd6de7675343fe1a96e->m_frame.f_lineno = 6;
+        frame_93fd70631d4095a867adf4a19906fa75->m_frame.f_lineno = 6;
         tmp_assign_source_6 = IMPORT_MODULE5(tmp_name_name_3, tmp_globals_arg_name_3, tmp_locals_arg_name_3, tmp_fromlist_name_3, tmp_level_name_3);
         if (tmp_assign_source_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24343,7 +24343,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
         tmp_locals_arg_name_4 = Py_None;
         tmp_fromlist_name_4 = Py_None;
         tmp_level_name_4 = mod_consts[24];
-        frame_7b6106a5c6b38cd6de7675343fe1a96e->m_frame.f_lineno = 7;
+        frame_93fd70631d4095a867adf4a19906fa75->m_frame.f_lineno = 7;
         tmp_assign_source_7 = IMPORT_MODULE5(tmp_name_name_4, tmp_globals_arg_name_4, tmp_locals_arg_name_4, tmp_fromlist_name_4, tmp_level_name_4);
         if (tmp_assign_source_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24364,12 +24364,12 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_locals_arg_name_5;
         PyObject *tmp_fromlist_name_5;
         PyObject *tmp_level_name_5;
-        tmp_name_name_5 = mod_consts[222];
+        tmp_name_name_5 = mod_consts[221];
         tmp_globals_arg_name_5 = (PyObject *)moduledict_numpy$lib$histograms;
         tmp_locals_arg_name_5 = Py_None;
         tmp_fromlist_name_5 = Py_None;
         tmp_level_name_5 = mod_consts[24];
-        frame_7b6106a5c6b38cd6de7675343fe1a96e->m_frame.f_lineno = 9;
+        frame_93fd70631d4095a867adf4a19906fa75->m_frame.f_lineno = 9;
         tmp_assign_source_8 = IMPORT_MODULE5(tmp_name_name_5, tmp_globals_arg_name_5, tmp_locals_arg_name_5, tmp_fromlist_name_5, tmp_level_name_5);
         if (tmp_assign_source_8 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24391,12 +24391,12 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_locals_arg_name_6;
         PyObject *tmp_fromlist_name_6;
         PyObject *tmp_level_name_6;
-        tmp_name_name_6 = mod_consts[223];
+        tmp_name_name_6 = mod_consts[222];
         tmp_globals_arg_name_6 = (PyObject *)moduledict_numpy$lib$histograms;
         tmp_locals_arg_name_6 = Py_None;
-        tmp_fromlist_name_6 = mod_consts[224];
+        tmp_fromlist_name_6 = mod_consts[223];
         tmp_level_name_6 = mod_consts[24];
-        frame_7b6106a5c6b38cd6de7675343fe1a96e->m_frame.f_lineno = 10;
+        frame_93fd70631d4095a867adf4a19906fa75->m_frame.f_lineno = 10;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_6, tmp_globals_arg_name_6, tmp_locals_arg_name_6, tmp_fromlist_name_6, tmp_level_name_6);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24412,11 +24412,11 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
             tmp_assign_source_9 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_1,
                 (PyObject *)moduledict_numpy$lib$histograms,
-                mod_consts[225],
+                mod_consts[224],
                 mod_consts[24]
             );
         } else {
-            tmp_assign_source_9 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[225]);
+            tmp_assign_source_9 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[224]);
         }
 
         Py_DECREF(tmp_import_name_from_1);
@@ -24430,12 +24430,12 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[225], tmp_assign_source_9);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[224], tmp_assign_source_9);
     }
     {
         PyObject *tmp_assign_source_10;
-        tmp_assign_source_10 = LIST_COPY(mod_consts[226]);
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[227], tmp_assign_source_10);
+        tmp_assign_source_10 = LIST_COPY(mod_consts[225]);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[226], tmp_assign_source_10);
     }
     {
         PyObject *tmp_assign_source_11;
@@ -24445,10 +24445,10 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_tuple_element_1;
         PyObject *tmp_expression_name_2;
         PyObject *tmp_kwargs_name_1;
-        tmp_expression_name_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[221]);
+        tmp_expression_name_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[220]);
 
         if (unlikely(tmp_expression_name_1 == NULL)) {
-            tmp_expression_name_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[221]);
+            tmp_expression_name_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[220]);
         }
 
         if (tmp_expression_name_1 == NULL) {
@@ -24461,7 +24461,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
             goto frame_exception_exit_1;
         }
-        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_1, mod_consts[228]);
+        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_1, mod_consts[227]);
         if (tmp_called_name_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -24472,10 +24472,10 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
             goto frame_exception_exit_1;
         }
-        tmp_expression_name_2 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[225]);
+        tmp_expression_name_2 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[224]);
 
         if (unlikely(tmp_expression_name_2 == NULL)) {
-            tmp_expression_name_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[225]);
+            tmp_expression_name_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[224]);
         }
 
         if (tmp_expression_name_2 == NULL) {
@@ -24488,7 +24488,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
             goto frame_exception_exit_1;
         }
-        tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_2, mod_consts[229]);
+        tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_2, mod_consts[228]);
         if (tmp_tuple_element_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -24501,8 +24501,8 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
         }
         tmp_args_name_1 = PyTuple_New(1);
         PyTuple_SET_ITEM(tmp_args_name_1, 0, tmp_tuple_element_1);
-        tmp_kwargs_name_1 = PyDict_Copy(mod_consts[230]);
-        frame_7b6106a5c6b38cd6de7675343fe1a96e->m_frame.f_lineno = 14;
+        tmp_kwargs_name_1 = PyDict_Copy(mod_consts[229]);
+        frame_93fd70631d4095a867adf4a19906fa75->m_frame.f_lineno = 14;
         tmp_assign_source_11 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -24517,7 +24517,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[229], tmp_assign_source_11);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[228], tmp_assign_source_11);
     }
     {
         PyObject *tmp_assign_source_12;
@@ -24538,7 +24538,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
         tmp_assign_source_14 = MAKE_FUNCTION_numpy$lib$histograms$$$function__2__hist_bin_sqrt();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[231], tmp_assign_source_14);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[230], tmp_assign_source_14);
     }
     {
         PyObject *tmp_assign_source_15;
@@ -24554,7 +24554,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
         tmp_assign_source_16 = MAKE_FUNCTION_numpy$lib$histograms$$$function__4__hist_bin_rice();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[232], tmp_assign_source_16);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[231], tmp_assign_source_16);
     }
     {
         PyObject *tmp_assign_source_17;
@@ -24562,7 +24562,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
         tmp_assign_source_17 = MAKE_FUNCTION_numpy$lib$histograms$$$function__5__hist_bin_scott();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[233], tmp_assign_source_17);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[232], tmp_assign_source_17);
     }
     {
         PyObject *tmp_assign_source_18;
@@ -24570,7 +24570,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
         tmp_assign_source_18 = MAKE_FUNCTION_numpy$lib$histograms$$$function__6__hist_bin_stone();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[234], tmp_assign_source_18);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[233], tmp_assign_source_18);
     }
     {
         PyObject *tmp_assign_source_19;
@@ -24578,7 +24578,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
         tmp_assign_source_19 = MAKE_FUNCTION_numpy$lib$histograms$$$function__7__hist_bin_doane();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[235], tmp_assign_source_19);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[234], tmp_assign_source_19);
     }
     {
         PyObject *tmp_assign_source_20;
@@ -24594,34 +24594,24 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
         tmp_assign_source_21 = MAKE_FUNCTION_numpy$lib$histograms$$$function__9__hist_bin_auto();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[236], tmp_assign_source_21);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[235], tmp_assign_source_21);
     }
     {
         PyObject *tmp_assign_source_22;
         PyObject *tmp_dict_key_1;
         PyObject *tmp_dict_value_1;
-        tmp_dict_key_1 = mod_consts[237];
-        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[234]);
+        tmp_dict_key_1 = mod_consts[236];
+        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[233]);
 
         if (unlikely(tmp_dict_value_1 == NULL)) {
-            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[234]);
+            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[233]);
         }
 
         assert(!(tmp_dict_value_1 == NULL));
         tmp_assign_source_22 = _PyDict_NewPresized( 8 );
         tmp_res = PyDict_SetItem(tmp_assign_source_22, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        tmp_dict_key_1 = mod_consts[238];
-        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[236]);
-
-        if (unlikely(tmp_dict_value_1 == NULL)) {
-            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[236]);
-        }
-
-        assert(!(tmp_dict_value_1 == NULL));
-        tmp_res = PyDict_SetItem(tmp_assign_source_22, tmp_dict_key_1, tmp_dict_value_1);
-        assert(!(tmp_res != 0));
-        tmp_dict_key_1 = mod_consts[239];
+        tmp_dict_key_1 = mod_consts[237];
         tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[235]);
 
         if (unlikely(tmp_dict_value_1 == NULL)) {
@@ -24631,11 +24621,31 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
         assert(!(tmp_dict_value_1 == NULL));
         tmp_res = PyDict_SetItem(tmp_assign_source_22, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        tmp_dict_key_1 = mod_consts[240];
+        tmp_dict_key_1 = mod_consts[238];
+        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[234]);
+
+        if (unlikely(tmp_dict_value_1 == NULL)) {
+            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[234]);
+        }
+
+        assert(!(tmp_dict_value_1 == NULL));
+        tmp_res = PyDict_SetItem(tmp_assign_source_22, tmp_dict_key_1, tmp_dict_value_1);
+        assert(!(tmp_res != 0));
+        tmp_dict_key_1 = mod_consts[239];
         tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[58]);
 
         if (unlikely(tmp_dict_value_1 == NULL)) {
             tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[58]);
+        }
+
+        assert(!(tmp_dict_value_1 == NULL));
+        tmp_res = PyDict_SetItem(tmp_assign_source_22, tmp_dict_key_1, tmp_dict_value_1);
+        assert(!(tmp_res != 0));
+        tmp_dict_key_1 = mod_consts[240];
+        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[231]);
+
+        if (unlikely(tmp_dict_value_1 == NULL)) {
+            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[231]);
         }
 
         assert(!(tmp_dict_value_1 == NULL));
@@ -24651,27 +24661,17 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
         assert(!(tmp_dict_value_1 == NULL));
         tmp_res = PyDict_SetItem(tmp_assign_source_22, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        tmp_dict_key_1 = mod_consts[242];
-        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[233]);
-
-        if (unlikely(tmp_dict_value_1 == NULL)) {
-            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[233]);
-        }
-
-        assert(!(tmp_dict_value_1 == NULL));
-        tmp_res = PyDict_SetItem(tmp_assign_source_22, tmp_dict_key_1, tmp_dict_value_1);
-        assert(!(tmp_res != 0));
         tmp_dict_key_1 = mod_consts[7];
-        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[231]);
+        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[230]);
 
         if (unlikely(tmp_dict_value_1 == NULL)) {
-            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[231]);
+            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[230]);
         }
 
         assert(!(tmp_dict_value_1 == NULL));
         tmp_res = PyDict_SetItem(tmp_assign_source_22, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        tmp_dict_key_1 = mod_consts[243];
+        tmp_dict_key_1 = mod_consts[242];
         tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[59]);
 
         if (unlikely(tmp_dict_value_1 == NULL)) {
@@ -24732,7 +24732,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
         tmp_assign_source_28 = MAKE_FUNCTION_numpy$lib$histograms$$$function__15__histogram_bin_edges_dispatcher(tmp_defaults_1);
 
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[244], tmp_assign_source_28);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[243], tmp_assign_source_28);
     }
     {
         PyObject *tmp_assign_source_29;
@@ -24741,21 +24741,21 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_args_element_name_1;
         PyObject *tmp_args_element_name_2;
         PyObject *tmp_defaults_2;
-        tmp_called_name_3 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[229]);
+        tmp_called_name_3 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[228]);
 
         if (unlikely(tmp_called_name_3 == NULL)) {
-            tmp_called_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[229]);
+            tmp_called_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[228]);
         }
 
         assert(!(tmp_called_name_3 == NULL));
-        tmp_args_element_name_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[244]);
+        tmp_args_element_name_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[243]);
 
         if (unlikely(tmp_args_element_name_1 == NULL)) {
-            tmp_args_element_name_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[244]);
+            tmp_args_element_name_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[243]);
         }
 
         assert(!(tmp_args_element_name_1 == NULL));
-        frame_7b6106a5c6b38cd6de7675343fe1a96e->m_frame.f_lineno = 470;
+        frame_93fd70631d4095a867adf4a19906fa75->m_frame.f_lineno = 470;
         tmp_called_name_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_1);
         if (tmp_called_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24767,13 +24767,13 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
             goto frame_exception_exit_1;
         }
-        tmp_defaults_2 = mod_consts[245];
+        tmp_defaults_2 = mod_consts[244];
         Py_INCREF(tmp_defaults_2);
 
 
         tmp_args_element_name_2 = MAKE_FUNCTION_numpy$lib$histograms$$$function__16_histogram_bin_edges(tmp_defaults_2);
 
-        frame_7b6106a5c6b38cd6de7675343fe1a96e->m_frame.f_lineno = 470;
+        frame_93fd70631d4095a867adf4a19906fa75->m_frame.f_lineno = 470;
         tmp_assign_source_29 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_2);
@@ -24787,18 +24787,18 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[246], tmp_assign_source_29);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[245], tmp_assign_source_29);
     }
     {
         PyObject *tmp_assign_source_30;
         PyObject *tmp_defaults_3;
-        tmp_defaults_3 = mod_consts[247];
+        tmp_defaults_3 = mod_consts[246];
         Py_INCREF(tmp_defaults_3);
 
 
         tmp_assign_source_30 = MAKE_FUNCTION_numpy$lib$histograms$$$function__17__histogram_dispatcher(tmp_defaults_3);
 
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[248], tmp_assign_source_30);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[247], tmp_assign_source_30);
     }
     {
         PyObject *tmp_assign_source_31;
@@ -24807,10 +24807,10 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_args_element_name_3;
         PyObject *tmp_args_element_name_4;
         PyObject *tmp_defaults_4;
-        tmp_called_name_5 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[229]);
+        tmp_called_name_5 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[228]);
 
         if (unlikely(tmp_called_name_5 == NULL)) {
-            tmp_called_name_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[229]);
+            tmp_called_name_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[228]);
         }
 
         if (tmp_called_name_5 == NULL) {
@@ -24823,14 +24823,14 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
             goto frame_exception_exit_1;
         }
-        tmp_args_element_name_3 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[248]);
+        tmp_args_element_name_3 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[247]);
 
         if (unlikely(tmp_args_element_name_3 == NULL)) {
-            tmp_args_element_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[248]);
+            tmp_args_element_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[247]);
         }
 
         assert(!(tmp_args_element_name_3 == NULL));
-        frame_7b6106a5c6b38cd6de7675343fe1a96e->m_frame.f_lineno = 677;
+        frame_93fd70631d4095a867adf4a19906fa75->m_frame.f_lineno = 677;
         tmp_called_name_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_3);
         if (tmp_called_name_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24842,13 +24842,13 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
             goto frame_exception_exit_1;
         }
-        tmp_defaults_4 = mod_consts[249];
+        tmp_defaults_4 = mod_consts[248];
         Py_INCREF(tmp_defaults_4);
 
 
         tmp_args_element_name_4 = MAKE_FUNCTION_numpy$lib$histograms$$$function__18_histogram(tmp_defaults_4);
 
-        frame_7b6106a5c6b38cd6de7675343fe1a96e->m_frame.f_lineno = 677;
+        frame_93fd70631d4095a867adf4a19906fa75->m_frame.f_lineno = 677;
         tmp_assign_source_31 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_4);
         Py_DECREF(tmp_args_element_name_4);
@@ -24867,7 +24867,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
     {
         PyObject *tmp_assign_source_32;
         PyObject *tmp_defaults_5;
-        tmp_defaults_5 = mod_consts[247];
+        tmp_defaults_5 = mod_consts[246];
         Py_INCREF(tmp_defaults_5);
 
 
@@ -24882,10 +24882,10 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_args_element_name_5;
         PyObject *tmp_args_element_name_6;
         PyObject *tmp_defaults_6;
-        tmp_called_name_7 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[229]);
+        tmp_called_name_7 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[228]);
 
         if (unlikely(tmp_called_name_7 == NULL)) {
-            tmp_called_name_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[229]);
+            tmp_called_name_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[228]);
         }
 
         if (tmp_called_name_7 == NULL) {
@@ -24905,7 +24905,7 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
         }
 
         assert(!(tmp_args_element_name_5 == NULL));
-        frame_7b6106a5c6b38cd6de7675343fe1a96e->m_frame.f_lineno = 942;
+        frame_93fd70631d4095a867adf4a19906fa75->m_frame.f_lineno = 942;
         tmp_called_name_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_7, tmp_args_element_name_5);
         if (tmp_called_name_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24917,13 +24917,13 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
             goto frame_exception_exit_1;
         }
-        tmp_defaults_6 = mod_consts[249];
+        tmp_defaults_6 = mod_consts[248];
         Py_INCREF(tmp_defaults_6);
 
 
         tmp_args_element_name_6 = MAKE_FUNCTION_numpy$lib$histograms$$$function__20_histogramdd(tmp_defaults_6);
 
-        frame_7b6106a5c6b38cd6de7675343fe1a96e->m_frame.f_lineno = 942;
+        frame_93fd70631d4095a867adf4a19906fa75->m_frame.f_lineno = 942;
         tmp_assign_source_33 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_6);
         Py_DECREF(tmp_args_element_name_6);
@@ -24937,28 +24937,28 @@ PyObject *modulecode_numpy$lib$histograms(PyObject *module, struct Nuitka_MetaPa
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[250], tmp_assign_source_33);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$histograms, (Nuitka_StringObject *)mod_consts[249], tmp_assign_source_33);
     }
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_7b6106a5c6b38cd6de7675343fe1a96e);
+    RESTORE_FRAME_EXCEPTION(frame_93fd70631d4095a867adf4a19906fa75);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_7b6106a5c6b38cd6de7675343fe1a96e);
+    assertFrameObject(frame_93fd70631d4095a867adf4a19906fa75);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_7b6106a5c6b38cd6de7675343fe1a96e);
+    RESTORE_FRAME_EXCEPTION(frame_93fd70631d4095a867adf4a19906fa75);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_7b6106a5c6b38cd6de7675343fe1a96e, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_7b6106a5c6b38cd6de7675343fe1a96e->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_7b6106a5c6b38cd6de7675343fe1a96e, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_93fd70631d4095a867adf4a19906fa75, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_93fd70631d4095a867adf4a19906fa75->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_93fd70631d4095a867adf4a19906fa75, exception_lineno);
     }
 
     // Put the previous frame back on top.

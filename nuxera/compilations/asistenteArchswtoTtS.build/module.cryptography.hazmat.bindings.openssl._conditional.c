@@ -65,75 +65,75 @@ void checkModuleConstants_cryptography$hazmat$bindings$openssl$_conditional(void
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_e3bf5ea43844536ed12d7e7e260a6fb3;
-static PyCodeObject *codeobj_89488ac2afa06bcc38fa658a2d660ea1;
-static PyCodeObject *codeobj_896caa3fc0736cf338afc6e29eb1fab0;
-static PyCodeObject *codeobj_19c4d28339af693f1897b3d8e79814ee;
-static PyCodeObject *codeobj_5022f58de1754e684cd6a0b9046e7869;
-static PyCodeObject *codeobj_d62bece55ba73ca27a258c65267095dd;
-static PyCodeObject *codeobj_226ceeb4363e1527ef3c15a10f942ab5;
-static PyCodeObject *codeobj_a100126857619c704e06b3be8f4d24e4;
-static PyCodeObject *codeobj_56b1c7367f81e550a65434b92ac8c384;
-static PyCodeObject *codeobj_4f3bc95e28acaab04bb6e6a8247ad8c8;
-static PyCodeObject *codeobj_b3f0db4191de960fa8206954597c71da;
-static PyCodeObject *codeobj_5f3853e3825ff61db79dff5823984301;
-static PyCodeObject *codeobj_9fc8ac914e4e5483001b256728a7df31;
-static PyCodeObject *codeobj_0a968b1f0ec51048c12e835a41e6e8d5;
-static PyCodeObject *codeobj_f5f330b749324b499f594c9e7b359748;
-static PyCodeObject *codeobj_d826d50d343af292aa936b51047c5252;
-static PyCodeObject *codeobj_61f284fbe1b5f8926d05102ab4856c52;
-static PyCodeObject *codeobj_d4fcd63899c8e3752ef122944f4d3afe;
-static PyCodeObject *codeobj_412e8e7b8ced09fe40a7bcedb45a6169;
-static PyCodeObject *codeobj_380c06e09074c4a0f46115d476f3619f;
-static PyCodeObject *codeobj_c3f9284ba124887fb539375175033f43;
-static PyCodeObject *codeobj_dbe839b7192792f278aea4730b01ead0;
-static PyCodeObject *codeobj_69adc33de5ab73f4720321e778aa05fd;
-static PyCodeObject *codeobj_5d229290c4cc1caf407c04b8dae1acd9;
-static PyCodeObject *codeobj_2ac9600da1f62cc2414f885eba0aff06;
-static PyCodeObject *codeobj_12ae217f7350e100623a298e0e31adaf;
-static PyCodeObject *codeobj_a1173db790898fff278f021e90aa9454;
-static PyCodeObject *codeobj_6d10b9e44ba620af0259a98e1a89aa2d;
-static PyCodeObject *codeobj_14233ffb3ce83df0e19bc035faa4d382;
-static PyCodeObject *codeobj_c353e8780909dc0f989bbe9dc58ad661;
-static PyCodeObject *codeobj_7455c38d152b2ede620f4479a4b6d160;
-static PyCodeObject *codeobj_8f54d1a73a0e11f935430347b8a58b1b;
-static PyCodeObject *codeobj_a1995a848ff4d6dda8881a44ba8f79ca;
+static PyCodeObject *codeobj_032255d0f4befe64421f333ece2e9526;
+static PyCodeObject *codeobj_343859072a8f4355b6b831d433cfdac4;
+static PyCodeObject *codeobj_03981d50792184da048765ef8af65476;
+static PyCodeObject *codeobj_c012278a786fbea7047ace17748068e9;
+static PyCodeObject *codeobj_8845c537839f1a7e604f96dd50956eec;
+static PyCodeObject *codeobj_f15276d23cde19c3ff4de7154fb12ae1;
+static PyCodeObject *codeobj_e17a6f81c941ad01c24fa68512c3a872;
+static PyCodeObject *codeobj_c49b3fbd808ed37ac794efd2a6f9cd8e;
+static PyCodeObject *codeobj_a4f27c314e36342f3b8eb757bace376f;
+static PyCodeObject *codeobj_caa3366625099dc70ab49eca82b73424;
+static PyCodeObject *codeobj_bc8005e0b4fd71ebdf8a4009b6183710;
+static PyCodeObject *codeobj_c4e83f1eaa65669b696fb948b81db0b5;
+static PyCodeObject *codeobj_e6343fc515a7305c757bc348be410a98;
+static PyCodeObject *codeobj_d4658a8d2e3f63be4533dd651ebf517d;
+static PyCodeObject *codeobj_0b087d831d6826a78f564cf03934abf2;
+static PyCodeObject *codeobj_a2a59ee7eeda2f44feb8405e7df6d78c;
+static PyCodeObject *codeobj_343484f1cb2510e8eae1f0628206affe;
+static PyCodeObject *codeobj_175c6e55bd100e9b7977969e0119d58e;
+static PyCodeObject *codeobj_bcbb1dc40e2628e1c0394aee01118d8b;
+static PyCodeObject *codeobj_79e617077661887dbf7552553af05608;
+static PyCodeObject *codeobj_3663fceb282743369fdb95050a8e7c08;
+static PyCodeObject *codeobj_e995f42c404dfd021831d7a0bcb128bf;
+static PyCodeObject *codeobj_66d065bee15f410ebcea696f12407b95;
+static PyCodeObject *codeobj_22f0155d4f04d18972a6b66f2950d200;
+static PyCodeObject *codeobj_172ad814b4cf76656b168160b65262e6;
+static PyCodeObject *codeobj_56a45ae14194e52725b7290168804da8;
+static PyCodeObject *codeobj_d0c1f8f2819f938917cb21849a27ad5b;
+static PyCodeObject *codeobj_e105602c25e3460c8befc7b187ad83d7;
+static PyCodeObject *codeobj_277a531f4690ce3409d003d7ddb4c292;
+static PyCodeObject *codeobj_3030762a8dddd3198aded827e4596ff5;
+static PyCodeObject *codeobj_0df4451db1ea8737015042062492b7d9;
+static PyCodeObject *codeobj_0108ab361c24adc14f5df25b55781796;
+static PyCodeObject *codeobj_13b39e417a78265d7b9fad2e6241eee2;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[33]; CHECK_OBJECT(module_filename_obj);
-    codeobj_e3bf5ea43844536ed12d7e7e260a6fb3 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[104], NULL, NULL, 0, 0, 0);
-    codeobj_89488ac2afa06bcc38fa658a2d660ea1 = MAKE_CODEOBJECT(module_filename_obj, 34, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[43], NULL, NULL, 0, 0, 0);
-    codeobj_896caa3fc0736cf338afc6e29eb1fab0 = MAKE_CODEOBJECT(module_filename_obj, 48, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[44], NULL, NULL, 0, 0, 0);
-    codeobj_19c4d28339af693f1897b3d8e79814ee = MAKE_CODEOBJECT(module_filename_obj, 185, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[62], NULL, NULL, 0, 0, 0);
-    codeobj_5022f58de1754e684cd6a0b9046e7869 = MAKE_CODEOBJECT(module_filename_obj, 6, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[39], NULL, NULL, 0, 0, 0);
-    codeobj_d62bece55ba73ca27a258c65267095dd = MAKE_CODEOBJECT(module_filename_obj, 129, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[54], NULL, NULL, 0, 0, 0);
-    codeobj_226ceeb4363e1527ef3c15a10f942ab5 = MAKE_CODEOBJECT(module_filename_obj, 122, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[53], NULL, NULL, 0, 0, 0);
-    codeobj_a100126857619c704e06b3be8f4d24e4 = MAKE_CODEOBJECT(module_filename_obj, 231, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[67], NULL, NULL, 0, 0, 0);
-    codeobj_56b1c7367f81e550a65434b92ac8c384 = MAKE_CODEOBJECT(module_filename_obj, 150, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[57], NULL, NULL, 0, 0, 0);
-    codeobj_4f3bc95e28acaab04bb6e6a8247ad8c8 = MAKE_CODEOBJECT(module_filename_obj, 81, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[49], NULL, NULL, 0, 0, 0);
-    codeobj_b3f0db4191de960fa8206954597c71da = MAKE_CODEOBJECT(module_filename_obj, 156, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[58], NULL, NULL, 0, 0, 0);
-    codeobj_5f3853e3825ff61db79dff5823984301 = MAKE_CODEOBJECT(module_filename_obj, 163, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[59], NULL, NULL, 0, 0, 0);
-    codeobj_9fc8ac914e4e5483001b256728a7df31 = MAKE_CODEOBJECT(module_filename_obj, 264, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[70], NULL, NULL, 0, 0, 0);
-    codeobj_0a968b1f0ec51048c12e835a41e6e8d5 = MAKE_CODEOBJECT(module_filename_obj, 215, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[65], NULL, NULL, 0, 0, 0);
-    codeobj_f5f330b749324b499f594c9e7b359748 = MAKE_CODEOBJECT(module_filename_obj, 87, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[50], NULL, NULL, 0, 0, 0);
-    codeobj_d826d50d343af292aa936b51047c5252 = MAKE_CODEOBJECT(module_filename_obj, 143, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[56], NULL, NULL, 0, 0, 0);
-    codeobj_61f284fbe1b5f8926d05102ab4856c52 = MAKE_CODEOBJECT(module_filename_obj, 193, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[63], NULL, NULL, 0, 0, 0);
-    codeobj_d4fcd63899c8e3752ef122944f4d3afe = MAKE_CODEOBJECT(module_filename_obj, 136, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[55], NULL, NULL, 0, 0, 0);
-    codeobj_412e8e7b8ced09fe40a7bcedb45a6169 = MAKE_CODEOBJECT(module_filename_obj, 177, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[61], NULL, NULL, 0, 0, 0);
-    codeobj_380c06e09074c4a0f46115d476f3619f = MAKE_CODEOBJECT(module_filename_obj, 222, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[66], NULL, NULL, 0, 0, 0);
-    codeobj_c3f9284ba124887fb539375175033f43 = MAKE_CODEOBJECT(module_filename_obj, 20, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[41], NULL, NULL, 0, 0, 0);
-    codeobj_dbe839b7192792f278aea4730b01ead0 = MAKE_CODEOBJECT(module_filename_obj, 14, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[40], NULL, NULL, 0, 0, 0);
-    codeobj_69adc33de5ab73f4720321e778aa05fd = MAKE_CODEOBJECT(module_filename_obj, 75, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[48], NULL, NULL, 0, 0, 0);
-    codeobj_5d229290c4cc1caf407c04b8dae1acd9 = MAKE_CODEOBJECT(module_filename_obj, 93, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[51], NULL, NULL, 0, 0, 0);
-    codeobj_2ac9600da1f62cc2414f885eba0aff06 = MAKE_CODEOBJECT(module_filename_obj, 52, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[45], NULL, NULL, 0, 0, 0);
-    codeobj_12ae217f7350e100623a298e0e31adaf = MAKE_CODEOBJECT(module_filename_obj, 256, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[69], NULL, NULL, 0, 0, 0);
-    codeobj_a1173db790898fff278f021e90aa9454 = MAKE_CODEOBJECT(module_filename_obj, 26, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[42], NULL, NULL, 0, 0, 0);
-    codeobj_6d10b9e44ba620af0259a98e1a89aa2d = MAKE_CODEOBJECT(module_filename_obj, 170, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[60], NULL, NULL, 0, 0, 0);
-    codeobj_14233ffb3ce83df0e19bc035faa4d382 = MAKE_CODEOBJECT(module_filename_obj, 59, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[46], NULL, NULL, 0, 0, 0);
-    codeobj_c353e8780909dc0f989bbe9dc58ad661 = MAKE_CODEOBJECT(module_filename_obj, 68, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[47], NULL, NULL, 0, 0, 0);
-    codeobj_7455c38d152b2ede620f4479a4b6d160 = MAKE_CODEOBJECT(module_filename_obj, 199, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[64], NULL, NULL, 0, 0, 0);
-    codeobj_8f54d1a73a0e11f935430347b8a58b1b = MAKE_CODEOBJECT(module_filename_obj, 250, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[68], NULL, NULL, 0, 0, 0);
-    codeobj_a1995a848ff4d6dda8881a44ba8f79ca = MAKE_CODEOBJECT(module_filename_obj, 115, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[52], NULL, NULL, 0, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[103]); CHECK_OBJECT(module_filename_obj);
+    codeobj_032255d0f4befe64421f333ece2e9526 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[104], NULL, NULL, 0, 0, 0);
+    codeobj_343859072a8f4355b6b831d433cfdac4 = MAKE_CODEOBJECT(module_filename_obj, 34, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[42], NULL, NULL, 0, 0, 0);
+    codeobj_03981d50792184da048765ef8af65476 = MAKE_CODEOBJECT(module_filename_obj, 48, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[43], NULL, NULL, 0, 0, 0);
+    codeobj_c012278a786fbea7047ace17748068e9 = MAKE_CODEOBJECT(module_filename_obj, 185, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[61], NULL, NULL, 0, 0, 0);
+    codeobj_8845c537839f1a7e604f96dd50956eec = MAKE_CODEOBJECT(module_filename_obj, 6, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[38], NULL, NULL, 0, 0, 0);
+    codeobj_f15276d23cde19c3ff4de7154fb12ae1 = MAKE_CODEOBJECT(module_filename_obj, 129, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[53], NULL, NULL, 0, 0, 0);
+    codeobj_e17a6f81c941ad01c24fa68512c3a872 = MAKE_CODEOBJECT(module_filename_obj, 122, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[52], NULL, NULL, 0, 0, 0);
+    codeobj_c49b3fbd808ed37ac794efd2a6f9cd8e = MAKE_CODEOBJECT(module_filename_obj, 231, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[66], NULL, NULL, 0, 0, 0);
+    codeobj_a4f27c314e36342f3b8eb757bace376f = MAKE_CODEOBJECT(module_filename_obj, 150, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[56], NULL, NULL, 0, 0, 0);
+    codeobj_caa3366625099dc70ab49eca82b73424 = MAKE_CODEOBJECT(module_filename_obj, 81, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[48], NULL, NULL, 0, 0, 0);
+    codeobj_bc8005e0b4fd71ebdf8a4009b6183710 = MAKE_CODEOBJECT(module_filename_obj, 156, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[57], NULL, NULL, 0, 0, 0);
+    codeobj_c4e83f1eaa65669b696fb948b81db0b5 = MAKE_CODEOBJECT(module_filename_obj, 163, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[58], NULL, NULL, 0, 0, 0);
+    codeobj_e6343fc515a7305c757bc348be410a98 = MAKE_CODEOBJECT(module_filename_obj, 264, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[69], NULL, NULL, 0, 0, 0);
+    codeobj_d4658a8d2e3f63be4533dd651ebf517d = MAKE_CODEOBJECT(module_filename_obj, 215, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[64], NULL, NULL, 0, 0, 0);
+    codeobj_0b087d831d6826a78f564cf03934abf2 = MAKE_CODEOBJECT(module_filename_obj, 87, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[49], NULL, NULL, 0, 0, 0);
+    codeobj_a2a59ee7eeda2f44feb8405e7df6d78c = MAKE_CODEOBJECT(module_filename_obj, 143, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[55], NULL, NULL, 0, 0, 0);
+    codeobj_343484f1cb2510e8eae1f0628206affe = MAKE_CODEOBJECT(module_filename_obj, 193, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[62], NULL, NULL, 0, 0, 0);
+    codeobj_175c6e55bd100e9b7977969e0119d58e = MAKE_CODEOBJECT(module_filename_obj, 136, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[54], NULL, NULL, 0, 0, 0);
+    codeobj_bcbb1dc40e2628e1c0394aee01118d8b = MAKE_CODEOBJECT(module_filename_obj, 177, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[60], NULL, NULL, 0, 0, 0);
+    codeobj_79e617077661887dbf7552553af05608 = MAKE_CODEOBJECT(module_filename_obj, 222, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[65], NULL, NULL, 0, 0, 0);
+    codeobj_3663fceb282743369fdb95050a8e7c08 = MAKE_CODEOBJECT(module_filename_obj, 20, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[40], NULL, NULL, 0, 0, 0);
+    codeobj_e995f42c404dfd021831d7a0bcb128bf = MAKE_CODEOBJECT(module_filename_obj, 14, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[39], NULL, NULL, 0, 0, 0);
+    codeobj_66d065bee15f410ebcea696f12407b95 = MAKE_CODEOBJECT(module_filename_obj, 75, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[47], NULL, NULL, 0, 0, 0);
+    codeobj_22f0155d4f04d18972a6b66f2950d200 = MAKE_CODEOBJECT(module_filename_obj, 93, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[50], NULL, NULL, 0, 0, 0);
+    codeobj_172ad814b4cf76656b168160b65262e6 = MAKE_CODEOBJECT(module_filename_obj, 52, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[44], NULL, NULL, 0, 0, 0);
+    codeobj_56a45ae14194e52725b7290168804da8 = MAKE_CODEOBJECT(module_filename_obj, 256, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[68], NULL, NULL, 0, 0, 0);
+    codeobj_d0c1f8f2819f938917cb21849a27ad5b = MAKE_CODEOBJECT(module_filename_obj, 26, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[41], NULL, NULL, 0, 0, 0);
+    codeobj_e105602c25e3460c8befc7b187ad83d7 = MAKE_CODEOBJECT(module_filename_obj, 170, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[59], NULL, NULL, 0, 0, 0);
+    codeobj_277a531f4690ce3409d003d7ddb4c292 = MAKE_CODEOBJECT(module_filename_obj, 59, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[45], NULL, NULL, 0, 0, 0);
+    codeobj_3030762a8dddd3198aded827e4596ff5 = MAKE_CODEOBJECT(module_filename_obj, 68, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[46], NULL, NULL, 0, 0, 0);
+    codeobj_0df4451db1ea8737015042062492b7d9 = MAKE_CODEOBJECT(module_filename_obj, 199, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[63], NULL, NULL, 0, 0, 0);
+    codeobj_0108ab361c24adc14f5df25b55781796 = MAKE_CODEOBJECT(module_filename_obj, 250, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[67], NULL, NULL, 0, 0, 0);
+    codeobj_13b39e417a78265d7b9fad2e6241eee2 = MAKE_CODEOBJECT(module_filename_obj, 115, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[51], NULL, NULL, 0, 0, 0);
 }
 
 // The module function declarations.
@@ -1166,11 +1166,11 @@ function_return_exit:
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__10_cryptography_has_scrypt() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__10_cryptography_has_scrypt,
-        mod_consts[48],
+        mod_consts[47],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_69adc33de5ab73f4720321e778aa05fd,
+        codeobj_66d065bee15f410ebcea696f12407b95,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1191,11 +1191,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__11_cryptography_has_evp_pkey_dhx() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__11_cryptography_has_evp_pkey_dhx,
-        mod_consts[49],
+        mod_consts[48],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_4f3bc95e28acaab04bb6e6a8247ad8c8,
+        codeobj_caa3366625099dc70ab49eca82b73424,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1216,11 +1216,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__12_cryptography_has_mem_functions() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__12_cryptography_has_mem_functions,
-        mod_consts[50],
+        mod_consts[49],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_f5f330b749324b499f594c9e7b359748,
+        codeobj_0b087d831d6826a78f564cf03934abf2,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1241,11 +1241,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__13_cryptography_has_sct() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__13_cryptography_has_sct,
-        mod_consts[51],
+        mod_consts[50],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_5d229290c4cc1caf407c04b8dae1acd9,
+        codeobj_22f0155d4f04d18972a6b66f2950d200,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1266,11 +1266,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__14_cryptography_has_x509_store_ctx_get_issuer() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__14_cryptography_has_x509_store_ctx_get_issuer,
-        mod_consts[52],
+        mod_consts[51],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_a1995a848ff4d6dda8881a44ba8f79ca,
+        codeobj_13b39e417a78265d7b9fad2e6241eee2,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1291,11 +1291,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__15_cryptography_has_ed448() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__15_cryptography_has_ed448,
-        mod_consts[53],
+        mod_consts[52],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_226ceeb4363e1527ef3c15a10f942ab5,
+        codeobj_e17a6f81c941ad01c24fa68512c3a872,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1316,11 +1316,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__16_cryptography_has_ed25519() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__16_cryptography_has_ed25519,
-        mod_consts[54],
+        mod_consts[53],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_d62bece55ba73ca27a258c65267095dd,
+        codeobj_f15276d23cde19c3ff4de7154fb12ae1,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1341,11 +1341,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__17_cryptography_has_poly1305() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__17_cryptography_has_poly1305,
-        mod_consts[55],
+        mod_consts[54],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_d4fcd63899c8e3752ef122944f4d3afe,
+        codeobj_175c6e55bd100e9b7977969e0119d58e,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1366,11 +1366,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__18_cryptography_has_oneshot_evp_digest_sign_verify() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__18_cryptography_has_oneshot_evp_digest_sign_verify,
-        mod_consts[56],
+        mod_consts[55],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_d826d50d343af292aa936b51047c5252,
+        codeobj_a2a59ee7eeda2f44feb8405e7df6d78c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1391,11 +1391,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__19_cryptography_has_evp_digestfinal_xof() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__19_cryptography_has_evp_digestfinal_xof,
-        mod_consts[57],
+        mod_consts[56],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_56b1c7367f81e550a65434b92ac8c384,
+        codeobj_a4f27c314e36342f3b8eb757bace376f,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1416,11 +1416,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__1_cryptography_has_ec2m() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__1_cryptography_has_ec2m,
-        mod_consts[39],
+        mod_consts[38],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_5022f58de1754e684cd6a0b9046e7869,
+        codeobj_8845c537839f1a7e604f96dd50956eec,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1441,11 +1441,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__20_cryptography_has_evp_pkey_get_set_tls_encodedpoint() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__20_cryptography_has_evp_pkey_get_set_tls_encodedpoint,
-        mod_consts[58],
+        mod_consts[57],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_b3f0db4191de960fa8206954597c71da,
+        codeobj_bc8005e0b4fd71ebdf8a4009b6183710,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1466,11 +1466,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__21_cryptography_has_fips() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__21_cryptography_has_fips,
-        mod_consts[59],
+        mod_consts[58],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_5f3853e3825ff61db79dff5823984301,
+        codeobj_c4e83f1eaa65669b696fb948b81db0b5,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1491,11 +1491,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__22_cryptography_has_ssl_sigalgs() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__22_cryptography_has_ssl_sigalgs,
-        mod_consts[60],
+        mod_consts[59],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_6d10b9e44ba620af0259a98e1a89aa2d,
+        codeobj_e105602c25e3460c8befc7b187ad83d7,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1516,11 +1516,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__23_cryptography_has_psk() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__23_cryptography_has_psk,
-        mod_consts[61],
+        mod_consts[60],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_412e8e7b8ced09fe40a7bcedb45a6169,
+        codeobj_bcbb1dc40e2628e1c0394aee01118d8b,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1541,11 +1541,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__24_cryptography_has_custom_ext() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__24_cryptography_has_custom_ext,
-        mod_consts[62],
+        mod_consts[61],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_19c4d28339af693f1897b3d8e79814ee,
+        codeobj_c012278a786fbea7047ace17748068e9,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1566,11 +1566,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__25_cryptography_has_openssl_cleanup() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__25_cryptography_has_openssl_cleanup,
-        mod_consts[63],
+        mod_consts[62],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_61f284fbe1b5f8926d05102ab4856c52,
+        codeobj_343484f1cb2510e8eae1f0628206affe,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1591,11 +1591,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__26_cryptography_has_tlsv13() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__26_cryptography_has_tlsv13,
-        mod_consts[64],
+        mod_consts[63],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_7455c38d152b2ede620f4479a4b6d160,
+        codeobj_0df4451db1ea8737015042062492b7d9,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1616,11 +1616,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__27_cryptography_has_keylog() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__27_cryptography_has_keylog,
-        mod_consts[65],
+        mod_consts[64],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_0a968b1f0ec51048c12e835a41e6e8d5,
+        codeobj_d4658a8d2e3f63be4533dd651ebf517d,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1641,11 +1641,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__28_cryptography_has_raw_key() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__28_cryptography_has_raw_key,
-        mod_consts[66],
+        mod_consts[65],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_380c06e09074c4a0f46115d476f3619f,
+        codeobj_79e617077661887dbf7552553af05608,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1666,11 +1666,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__29_cryptography_has_engine() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__29_cryptography_has_engine,
-        mod_consts[67],
+        mod_consts[66],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_a100126857619c704e06b3be8f4d24e4,
+        codeobj_c49b3fbd808ed37ac794efd2a6f9cd8e,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1691,11 +1691,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__2_cryptography_has_rsa_oaep_md() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__2_cryptography_has_rsa_oaep_md,
-        mod_consts[40],
+        mod_consts[39],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_dbe839b7192792f278aea4730b01ead0,
+        codeobj_e995f42c404dfd021831d7a0bcb128bf,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1716,11 +1716,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__30_cryptography_has_verified_chain() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__30_cryptography_has_verified_chain,
-        mod_consts[68],
+        mod_consts[67],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_8f54d1a73a0e11f935430347b8a58b1b,
+        codeobj_0108ab361c24adc14f5df25b55781796,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1741,11 +1741,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__31_cryptography_has_srtp() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__31_cryptography_has_srtp,
-        mod_consts[69],
+        mod_consts[68],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_12ae217f7350e100623a298e0e31adaf,
+        codeobj_56a45ae14194e52725b7290168804da8,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1766,11 +1766,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__32_cryptography_has_get_proto_version() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__32_cryptography_has_get_proto_version,
-        mod_consts[70],
+        mod_consts[69],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_9fc8ac914e4e5483001b256728a7df31,
+        codeobj_e6343fc515a7305c757bc348be410a98,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1791,11 +1791,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__3_cryptography_has_rsa_oaep_label() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__3_cryptography_has_rsa_oaep_label,
-        mod_consts[41],
+        mod_consts[40],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_c3f9284ba124887fb539375175033f43,
+        codeobj_3663fceb282743369fdb95050a8e7c08,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1816,11 +1816,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__4_cryptography_has_ssl3_method() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__4_cryptography_has_ssl3_method,
-        mod_consts[42],
+        mod_consts[41],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_a1173db790898fff278f021e90aa9454,
+        codeobj_d0c1f8f2819f938917cb21849a27ad5b,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1841,11 +1841,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__5_cryptography_has_102_verification() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__5_cryptography_has_102_verification,
-        mod_consts[43],
+        mod_consts[42],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_89488ac2afa06bcc38fa658a2d660ea1,
+        codeobj_343859072a8f4355b6b831d433cfdac4,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1866,11 +1866,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__6_cryptography_has_110_verification_params() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__6_cryptography_has_110_verification_params,
-        mod_consts[44],
+        mod_consts[43],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_896caa3fc0736cf338afc6e29eb1fab0,
+        codeobj_03981d50792184da048765ef8af65476,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1891,11 +1891,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__7_cryptography_has_set_cert_cb() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__7_cryptography_has_set_cert_cb,
-        mod_consts[45],
+        mod_consts[44],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_2ac9600da1f62cc2414f885eba0aff06,
+        codeobj_172ad814b4cf76656b168160b65262e6,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1916,11 +1916,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__8_cryptography_has_ssl_st() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__8_cryptography_has_ssl_st,
-        mod_consts[46],
+        mod_consts[45],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_14233ffb3ce83df0e19bc035faa4d382,
+        codeobj_277a531f4690ce3409d003d7ddb4c292,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1941,11 +1941,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__9_cryptography_has_tls_st() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$bindings$openssl$_conditional$$$function__9_cryptography_has_tls_st,
-        mod_consts[47],
+        mod_consts[46],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_c353e8780909dc0f989bbe9dc58ad661,
+        codeobj_3030762a8dddd3198aded827e4596ff5,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2364,7 +2364,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 #endif
 
     // Temp variables if any
-    struct Nuitka_FrameObject *frame_e3bf5ea43844536ed12d7e7e260a6fb3;
+    struct Nuitka_FrameObject *frame_032255d0f4befe64421f333ece2e9526;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -2381,30 +2381,30 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[33];
-        UPDATE_STRING_DICT0(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[34], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[33], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_e3bf5ea43844536ed12d7e7e260a6fb3 = MAKE_MODULE_FRAME(codeobj_e3bf5ea43844536ed12d7e7e260a6fb3, module_cryptography$hazmat$bindings$openssl$_conditional);
+    frame_032255d0f4befe64421f333ece2e9526 = MAKE_MODULE_FRAME(codeobj_032255d0f4befe64421f333ece2e9526, module_cryptography$hazmat$bindings$openssl$_conditional);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_e3bf5ea43844536ed12d7e7e260a6fb3);
-    assert(Py_REFCNT(frame_e3bf5ea43844536ed12d7e7e260a6fb3) == 2);
+    pushFrameStack(frame_032255d0f4befe64421f333ece2e9526);
+    assert(Py_REFCNT(frame_032255d0f4befe64421f333ece2e9526) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[33];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[35]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[34]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[36], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[35], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -2420,14 +2420,14 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[35]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[34]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[37], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[36], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -2442,23 +2442,23 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e3bf5ea43844536ed12d7e7e260a6fb3);
+    RESTORE_FRAME_EXCEPTION(frame_032255d0f4befe64421f333ece2e9526);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_e3bf5ea43844536ed12d7e7e260a6fb3);
+    assertFrameObject(frame_032255d0f4befe64421f333ece2e9526);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e3bf5ea43844536ed12d7e7e260a6fb3);
+    RESTORE_FRAME_EXCEPTION(frame_032255d0f4befe64421f333ece2e9526);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_e3bf5ea43844536ed12d7e7e260a6fb3, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_e3bf5ea43844536ed12d7e7e260a6fb3->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_e3bf5ea43844536ed12d7e7e260a6fb3, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_032255d0f4befe64421f333ece2e9526, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_032255d0f4befe64421f333ece2e9526->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_032255d0f4befe64421f333ece2e9526, exception_lineno);
     }
 
     // Put the previous frame back on top.
@@ -2471,7 +2471,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[38], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[37], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -2479,7 +2479,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_4 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__1_cryptography_has_ec2m();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[39], tmp_assign_source_4);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[38], tmp_assign_source_4);
     }
     {
         PyObject *tmp_assign_source_5;
@@ -2487,7 +2487,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_5 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__2_cryptography_has_rsa_oaep_md();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[40], tmp_assign_source_5);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[39], tmp_assign_source_5);
     }
     {
         PyObject *tmp_assign_source_6;
@@ -2495,7 +2495,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_6 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__3_cryptography_has_rsa_oaep_label();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[41], tmp_assign_source_6);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[40], tmp_assign_source_6);
     }
     {
         PyObject *tmp_assign_source_7;
@@ -2503,7 +2503,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_7 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__4_cryptography_has_ssl3_method();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[42], tmp_assign_source_7);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[41], tmp_assign_source_7);
     }
     {
         PyObject *tmp_assign_source_8;
@@ -2511,7 +2511,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_8 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__5_cryptography_has_102_verification();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[43], tmp_assign_source_8);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[42], tmp_assign_source_8);
     }
     {
         PyObject *tmp_assign_source_9;
@@ -2519,7 +2519,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_9 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__6_cryptography_has_110_verification_params();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[44], tmp_assign_source_9);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[43], tmp_assign_source_9);
     }
     {
         PyObject *tmp_assign_source_10;
@@ -2527,7 +2527,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_10 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__7_cryptography_has_set_cert_cb();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[45], tmp_assign_source_10);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[44], tmp_assign_source_10);
     }
     {
         PyObject *tmp_assign_source_11;
@@ -2535,7 +2535,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_11 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__8_cryptography_has_ssl_st();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[46], tmp_assign_source_11);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[45], tmp_assign_source_11);
     }
     {
         PyObject *tmp_assign_source_12;
@@ -2543,7 +2543,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_12 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__9_cryptography_has_tls_st();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[47], tmp_assign_source_12);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[46], tmp_assign_source_12);
     }
     {
         PyObject *tmp_assign_source_13;
@@ -2551,7 +2551,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_13 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__10_cryptography_has_scrypt();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[48], tmp_assign_source_13);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[47], tmp_assign_source_13);
     }
     {
         PyObject *tmp_assign_source_14;
@@ -2559,7 +2559,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_14 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__11_cryptography_has_evp_pkey_dhx();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[49], tmp_assign_source_14);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[48], tmp_assign_source_14);
     }
     {
         PyObject *tmp_assign_source_15;
@@ -2567,7 +2567,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_15 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__12_cryptography_has_mem_functions();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[50], tmp_assign_source_15);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[49], tmp_assign_source_15);
     }
     {
         PyObject *tmp_assign_source_16;
@@ -2575,7 +2575,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_16 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__13_cryptography_has_sct();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[51], tmp_assign_source_16);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[50], tmp_assign_source_16);
     }
     {
         PyObject *tmp_assign_source_17;
@@ -2583,7 +2583,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_17 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__14_cryptography_has_x509_store_ctx_get_issuer();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[52], tmp_assign_source_17);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[51], tmp_assign_source_17);
     }
     {
         PyObject *tmp_assign_source_18;
@@ -2591,7 +2591,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_18 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__15_cryptography_has_ed448();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[53], tmp_assign_source_18);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[52], tmp_assign_source_18);
     }
     {
         PyObject *tmp_assign_source_19;
@@ -2599,7 +2599,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_19 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__16_cryptography_has_ed25519();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[54], tmp_assign_source_19);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[53], tmp_assign_source_19);
     }
     {
         PyObject *tmp_assign_source_20;
@@ -2607,7 +2607,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_20 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__17_cryptography_has_poly1305();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[55], tmp_assign_source_20);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[54], tmp_assign_source_20);
     }
     {
         PyObject *tmp_assign_source_21;
@@ -2615,7 +2615,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_21 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__18_cryptography_has_oneshot_evp_digest_sign_verify();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[56], tmp_assign_source_21);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[55], tmp_assign_source_21);
     }
     {
         PyObject *tmp_assign_source_22;
@@ -2623,7 +2623,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_22 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__19_cryptography_has_evp_digestfinal_xof();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[57], tmp_assign_source_22);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[56], tmp_assign_source_22);
     }
     {
         PyObject *tmp_assign_source_23;
@@ -2631,7 +2631,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_23 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__20_cryptography_has_evp_pkey_get_set_tls_encodedpoint();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[58], tmp_assign_source_23);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[57], tmp_assign_source_23);
     }
     {
         PyObject *tmp_assign_source_24;
@@ -2639,7 +2639,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_24 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__21_cryptography_has_fips();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[59], tmp_assign_source_24);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[58], tmp_assign_source_24);
     }
     {
         PyObject *tmp_assign_source_25;
@@ -2647,7 +2647,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_25 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__22_cryptography_has_ssl_sigalgs();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[60], tmp_assign_source_25);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[59], tmp_assign_source_25);
     }
     {
         PyObject *tmp_assign_source_26;
@@ -2655,7 +2655,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_26 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__23_cryptography_has_psk();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[61], tmp_assign_source_26);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[60], tmp_assign_source_26);
     }
     {
         PyObject *tmp_assign_source_27;
@@ -2663,7 +2663,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_27 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__24_cryptography_has_custom_ext();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[62], tmp_assign_source_27);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[61], tmp_assign_source_27);
     }
     {
         PyObject *tmp_assign_source_28;
@@ -2671,7 +2671,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_28 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__25_cryptography_has_openssl_cleanup();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[63], tmp_assign_source_28);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[62], tmp_assign_source_28);
     }
     {
         PyObject *tmp_assign_source_29;
@@ -2679,7 +2679,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_29 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__26_cryptography_has_tlsv13();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[64], tmp_assign_source_29);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[63], tmp_assign_source_29);
     }
     {
         PyObject *tmp_assign_source_30;
@@ -2687,7 +2687,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_30 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__27_cryptography_has_keylog();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[65], tmp_assign_source_30);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[64], tmp_assign_source_30);
     }
     {
         PyObject *tmp_assign_source_31;
@@ -2695,7 +2695,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_31 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__28_cryptography_has_raw_key();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[66], tmp_assign_source_31);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[65], tmp_assign_source_31);
     }
     {
         PyObject *tmp_assign_source_32;
@@ -2703,7 +2703,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_32 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__29_cryptography_has_engine();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[67], tmp_assign_source_32);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[66], tmp_assign_source_32);
     }
     {
         PyObject *tmp_assign_source_33;
@@ -2711,7 +2711,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_33 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__30_cryptography_has_verified_chain();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[68], tmp_assign_source_33);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[67], tmp_assign_source_33);
     }
     {
         PyObject *tmp_assign_source_34;
@@ -2719,7 +2719,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_34 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__31_cryptography_has_srtp();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[69], tmp_assign_source_34);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[68], tmp_assign_source_34);
     }
     {
         PyObject *tmp_assign_source_35;
@@ -2727,12 +2727,23 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
 
         tmp_assign_source_35 = MAKE_FUNCTION_cryptography$hazmat$bindings$openssl$_conditional$$$function__32_cryptography_has_get_proto_version();
 
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[70], tmp_assign_source_35);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[69], tmp_assign_source_35);
     }
     {
         PyObject *tmp_assign_source_36;
         PyObject *tmp_dict_key_1;
         PyObject *tmp_dict_value_1;
+        tmp_dict_key_1 = mod_consts[70];
+        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[38]);
+
+        if (unlikely(tmp_dict_value_1 == NULL)) {
+            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
+        }
+
+        assert(!(tmp_dict_value_1 == NULL));
+        tmp_assign_source_36 = _PyDict_NewPresized( 32 );
+        tmp_res = PyDict_SetItem(tmp_assign_source_36, tmp_dict_key_1, tmp_dict_value_1);
+        assert(!(tmp_res != 0));
         tmp_dict_key_1 = mod_consts[71];
         tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[39]);
 
@@ -2741,7 +2752,6 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
         }
 
         assert(!(tmp_dict_value_1 == NULL));
-        tmp_assign_source_36 = _PyDict_NewPresized( 32 );
         tmp_res = PyDict_SetItem(tmp_assign_source_36, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
         tmp_dict_key_1 = mod_consts[72];
@@ -2905,10 +2915,10 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
         tmp_res = PyDict_SetItem(tmp_assign_source_36, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
         tmp_dict_key_1 = mod_consts[88];
-        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[56]);
+        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[57]);
 
         if (unlikely(tmp_dict_value_1 == NULL)) {
-            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[56]);
+            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[57]);
         }
 
         assert(!(tmp_dict_value_1 == NULL));
@@ -2995,20 +3005,20 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
         tmp_res = PyDict_SetItem(tmp_assign_source_36, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
         tmp_dict_key_1 = mod_consts[97];
-        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[66]);
+        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[56]);
 
         if (unlikely(tmp_dict_value_1 == NULL)) {
-            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[66]);
+            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[56]);
         }
 
         assert(!(tmp_dict_value_1 == NULL));
         tmp_res = PyDict_SetItem(tmp_assign_source_36, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
         tmp_dict_key_1 = mod_consts[98];
-        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[57]);
+        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[66]);
 
         if (unlikely(tmp_dict_value_1 == NULL)) {
-            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[57]);
+            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[66]);
         }
 
         assert(!(tmp_dict_value_1 == NULL));
@@ -3044,17 +3054,7 @@ PyObject *modulecode_cryptography$hazmat$bindings$openssl$_conditional(PyObject 
         assert(!(tmp_dict_value_1 == NULL));
         tmp_res = PyDict_SetItem(tmp_assign_source_36, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        tmp_dict_key_1 = mod_consts[102];
-        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[70]);
-
-        if (unlikely(tmp_dict_value_1 == NULL)) {
-            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[70]);
-        }
-
-        assert(!(tmp_dict_value_1 == NULL));
-        tmp_res = PyDict_SetItem(tmp_assign_source_36, tmp_dict_key_1, tmp_dict_value_1);
-        assert(!(tmp_res != 0));
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[103], tmp_assign_source_36);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$bindings$openssl$_conditional, (Nuitka_StringObject *)mod_consts[102], tmp_assign_source_36);
     }
 
     return module_cryptography$hazmat$bindings$openssl$_conditional;

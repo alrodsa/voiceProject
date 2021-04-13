@@ -33,7 +33,7 @@ PyObject *module_matplotlib$tri;
 PyDictObject *moduledict_matplotlib$tri;
 
 /* The declarations of module constants used, if any. */
-static PyObject *mod_consts[23];
+static PyObject *mod_consts[30];
 
 static PyObject *module_filename_obj = NULL;
 
@@ -65,11 +65,11 @@ void checkModuleConstants_matplotlib$tri(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_26d20e659cd17c1653dff750382a4a43;
+static PyCodeObject *codeobj_951ae4709384bb77cfb61322c70d8eee;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[2]; CHECK_OBJECT(module_filename_obj);
-    codeobj_26d20e659cd17c1653dff750382a4a43 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[22], NULL, NULL, 0, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[28]); CHECK_OBJECT(module_filename_obj);
+    codeobj_951ae4709384bb77cfb61322c70d8eee = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[29], NULL, NULL, 0, 0, 0);
 }
 
 // The module function declarations.
@@ -449,14 +449,14 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
 #endif
 
     // Temp variables if any
-    struct Nuitka_FrameObject *frame_26d20e659cd17c1653dff750382a4a43;
+    struct Nuitka_FrameObject *frame_951ae4709384bb77cfb61322c70d8eee;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
-    PyObject *tmp_dictset_value;
-    PyObject *tmp_dictset_dict;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
+    PyObject *tmp_dictset_value;
+    PyObject *tmp_dictset_dict;
     PyObject *tmp_dictset_key;
     int tmp_res;
     bool tmp_result;
@@ -469,25 +469,200 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[2];
-        UPDATE_STRING_DICT0(moduledict_matplotlib$tri, (Nuitka_StringObject *)mod_consts[3], tmp_assign_source_2);
-    }
-    {
-        PyObject *tmp_assign_source_3;
-        tmp_assign_source_3 = LIST_COPY(mod_consts[4]);
-        UPDATE_STRING_DICT1(moduledict_matplotlib$tri, (Nuitka_StringObject *)mod_consts[5], tmp_assign_source_3);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_matplotlib$tri, (Nuitka_StringObject *)mod_consts[2], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_26d20e659cd17c1653dff750382a4a43 = MAKE_MODULE_FRAME(codeobj_26d20e659cd17c1653dff750382a4a43, module_matplotlib$tri);
+    frame_951ae4709384bb77cfb61322c70d8eee = MAKE_MODULE_FRAME(codeobj_951ae4709384bb77cfb61322c70d8eee, module_matplotlib$tri);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_26d20e659cd17c1653dff750382a4a43);
-    assert(Py_REFCNT(frame_26d20e659cd17c1653dff750382a4a43) == 2);
+    pushFrameStack(frame_951ae4709384bb77cfb61322c70d8eee);
+    assert(Py_REFCNT(frame_951ae4709384bb77cfb61322c70d8eee) == 2);
 
     // Framed code:
     {
+        PyObject *tmp_assign_source_3;
+        PyObject *tmp_list_element_1;
+        PyObject *tmp_called_name_1;
         PyObject *tmp_expression_name_1;
+        PyObject *tmp_args_element_name_1;
+        frame_951ae4709384bb77cfb61322c70d8eee->m_frame.f_lineno = 1;
+        {
+            PyObject *hard_module = IMPORT_HARD_OS();
+            tmp_expression_name_1 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[3]);
+        }
+
+        if (tmp_expression_name_1 == NULL) {
+            assert(ERROR_OCCURRED());
+
+            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+            exception_lineno = 1;
+
+            goto frame_exception_exit_1;
+        }
+        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_1, mod_consts[4]);
+        if (tmp_called_name_1 == NULL) {
+            assert(ERROR_OCCURRED());
+
+            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+            exception_lineno = 1;
+
+            goto frame_exception_exit_1;
+        }
+        tmp_args_element_name_1 = module_filename_obj;
+        frame_951ae4709384bb77cfb61322c70d8eee->m_frame.f_lineno = 1;
+        tmp_list_element_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
+        Py_DECREF(tmp_called_name_1);
+        if (tmp_list_element_1 == NULL) {
+            assert(ERROR_OCCURRED());
+
+            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+            exception_lineno = 1;
+
+            goto frame_exception_exit_1;
+        }
+        tmp_assign_source_3 = PyList_New(3);
+        {
+            PyObject *tmp_called_name_2;
+            PyObject *tmp_expression_name_2;
+            PyObject *tmp_args_element_name_2;
+            PyObject *tmp_called_instance_1;
+            PyObject *tmp_args_element_name_3;
+            PyObject *tmp_called_instance_2;
+            PyList_SET_ITEM(tmp_assign_source_3, 0, tmp_list_element_1);
+            frame_951ae4709384bb77cfb61322c70d8eee->m_frame.f_lineno = 1;
+            {
+                PyObject *hard_module = IMPORT_HARD_OS();
+                tmp_expression_name_2 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[3]);
+            }
+
+            if (tmp_expression_name_2 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            tmp_called_name_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_2, mod_consts[5]);
+            if (tmp_called_name_2 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            frame_951ae4709384bb77cfb61322c70d8eee->m_frame.f_lineno = 1;
+            {
+                PyObject *hard_module = IMPORT_HARD_OS();
+                tmp_called_instance_1 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[6]);
+            }
+
+            if (tmp_called_instance_1 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+                Py_DECREF(tmp_called_name_2);
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            frame_951ae4709384bb77cfb61322c70d8eee->m_frame.f_lineno = 1;
+            tmp_args_element_name_2 = CALL_METHOD_WITH_ARGS2(
+                tmp_called_instance_1,
+                mod_consts[7],
+                &PyTuple_GET_ITEM(mod_consts[8], 0)
+            );
+
+            if (tmp_args_element_name_2 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+                Py_DECREF(tmp_called_name_2);
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            tmp_args_element_name_3 = mod_consts[9];
+            frame_951ae4709384bb77cfb61322c70d8eee->m_frame.f_lineno = 1;
+            {
+                PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
+                tmp_list_element_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
+            }
+
+            Py_DECREF(tmp_called_name_2);
+            Py_DECREF(tmp_args_element_name_2);
+            if (tmp_list_element_1 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            PyList_SET_ITEM(tmp_assign_source_3, 1, tmp_list_element_1);
+            frame_951ae4709384bb77cfb61322c70d8eee->m_frame.f_lineno = 1;
+            {
+                PyObject *hard_module = IMPORT_HARD_OS();
+                tmp_called_instance_2 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[6]);
+            }
+
+            if (tmp_called_instance_2 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            frame_951ae4709384bb77cfb61322c70d8eee->m_frame.f_lineno = 1;
+            tmp_list_element_1 = CALL_METHOD_WITH_ARGS2(
+                tmp_called_instance_2,
+                mod_consts[7],
+                &PyTuple_GET_ITEM(mod_consts[10], 0)
+            );
+
+            if (tmp_list_element_1 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            PyList_SET_ITEM(tmp_assign_source_3, 2, tmp_list_element_1);
+        }
+        goto list_build_noexception_1;
+        // Exception handling pass through code for list_build:
+        list_build_exception_1:;
+        Py_DECREF(tmp_assign_source_3);
+        goto frame_exception_exit_1;
+        // Finished with no exception for list_build:
+        list_build_noexception_1:;
+        UPDATE_STRING_DICT1(moduledict_matplotlib$tri, (Nuitka_StringObject *)mod_consts[11], tmp_assign_source_3);
+    }
+    {
+        PyObject *tmp_expression_name_3;
         PyObject *tmp_subscript_name_1;
         tmp_dictset_value = Nuitka_Loader_New(module_entry);
         tmp_dictset_dict = PySys_GetObject((char *)"path_importer_cache");
@@ -501,15 +676,15 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
 
             goto frame_exception_exit_1;
         }
-        tmp_expression_name_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri, (Nuitka_StringObject *)mod_consts[5]);
+        tmp_expression_name_3 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri, (Nuitka_StringObject *)mod_consts[11]);
 
-        if (unlikely(tmp_expression_name_1 == NULL)) {
-            tmp_expression_name_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[5]);
+        if (unlikely(tmp_expression_name_3 == NULL)) {
+            tmp_expression_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[11]);
         }
 
-        assert(!(tmp_expression_name_1 == NULL));
-        tmp_subscript_name_1 = mod_consts[6];
-        tmp_dictset_key = LOOKUP_SUBSCRIPT_CONST(tmp_expression_name_1, tmp_subscript_name_1, 0);
+        assert(!(tmp_expression_name_3 == NULL));
+        tmp_subscript_name_1 = mod_consts[12];
+        tmp_dictset_key = LOOKUP_SUBSCRIPT_CONST(tmp_expression_name_3, tmp_subscript_name_1, 0);
         if (tmp_dictset_key == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -536,15 +711,15 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[2];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri, (Nuitka_StringObject *)mod_consts[7]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri, (Nuitka_StringObject *)mod_consts[13]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[7]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[13]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[8], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[14], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -560,14 +735,14 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri, (Nuitka_StringObject *)mod_consts[7]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri, (Nuitka_StringObject *)mod_consts[13]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[7]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[13]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[9], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[15], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -582,10 +757,10 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
     {
         PyObject *tmp_assattr_name_3;
         PyObject *tmp_assattr_target_3;
-        tmp_assattr_name_3 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri, (Nuitka_StringObject *)mod_consts[5]);
+        tmp_assattr_name_3 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri, (Nuitka_StringObject *)mod_consts[11]);
 
         if (unlikely(tmp_assattr_name_3 == NULL)) {
-            tmp_assattr_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[5]);
+            tmp_assattr_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[11]);
         }
 
         if (tmp_assattr_name_3 == NULL) {
@@ -598,14 +773,14 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
 
             goto frame_exception_exit_1;
         }
-        tmp_assattr_target_3 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri, (Nuitka_StringObject *)mod_consts[7]);
+        tmp_assattr_target_3 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri, (Nuitka_StringObject *)mod_consts[13]);
 
         if (unlikely(tmp_assattr_target_3 == NULL)) {
-            tmp_assattr_target_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[7]);
+            tmp_assattr_target_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[13]);
         }
 
         assert(!(tmp_assattr_target_3 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_3, mod_consts[10], tmp_assattr_name_3);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_3, mod_consts[16], tmp_assattr_name_3);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -620,7 +795,7 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
     {
         PyObject *tmp_assign_source_4;
         tmp_assign_source_4 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_matplotlib$tri, (Nuitka_StringObject *)mod_consts[11], tmp_assign_source_4);
+        UPDATE_STRING_DICT0(moduledict_matplotlib$tri, (Nuitka_StringObject *)mod_consts[17], tmp_assign_source_4);
     }
     {
         PyObject *tmp_star_imported_1;
@@ -629,12 +804,12 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[12];
+        tmp_name_name_1 = mod_consts[18];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_matplotlib$tri;
         tmp_locals_arg_name_1 = (PyObject *)moduledict_matplotlib$tri;
-        tmp_fromlist_name_1 = mod_consts[13];
-        tmp_level_name_1 = mod_consts[14];
-        frame_26d20e659cd17c1653dff750382a4a43->m_frame.f_lineno = 5;
+        tmp_fromlist_name_1 = mod_consts[19];
+        tmp_level_name_1 = mod_consts[20];
+        frame_951ae4709384bb77cfb61322c70d8eee->m_frame.f_lineno = 5;
         tmp_star_imported_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_star_imported_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -666,12 +841,12 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
         PyObject *tmp_locals_arg_name_2;
         PyObject *tmp_fromlist_name_2;
         PyObject *tmp_level_name_2;
-        tmp_name_name_2 = mod_consts[15];
+        tmp_name_name_2 = mod_consts[21];
         tmp_globals_arg_name_2 = (PyObject *)moduledict_matplotlib$tri;
         tmp_locals_arg_name_2 = (PyObject *)moduledict_matplotlib$tri;
-        tmp_fromlist_name_2 = mod_consts[13];
-        tmp_level_name_2 = mod_consts[14];
-        frame_26d20e659cd17c1653dff750382a4a43->m_frame.f_lineno = 6;
+        tmp_fromlist_name_2 = mod_consts[19];
+        tmp_level_name_2 = mod_consts[20];
+        frame_951ae4709384bb77cfb61322c70d8eee->m_frame.f_lineno = 6;
         tmp_star_imported_2 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_star_imported_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -703,12 +878,12 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
         PyObject *tmp_locals_arg_name_3;
         PyObject *tmp_fromlist_name_3;
         PyObject *tmp_level_name_3;
-        tmp_name_name_3 = mod_consts[16];
+        tmp_name_name_3 = mod_consts[22];
         tmp_globals_arg_name_3 = (PyObject *)moduledict_matplotlib$tri;
         tmp_locals_arg_name_3 = (PyObject *)moduledict_matplotlib$tri;
-        tmp_fromlist_name_3 = mod_consts[13];
-        tmp_level_name_3 = mod_consts[14];
-        frame_26d20e659cd17c1653dff750382a4a43->m_frame.f_lineno = 7;
+        tmp_fromlist_name_3 = mod_consts[19];
+        tmp_level_name_3 = mod_consts[20];
+        frame_951ae4709384bb77cfb61322c70d8eee->m_frame.f_lineno = 7;
         tmp_star_imported_3 = IMPORT_MODULE5(tmp_name_name_3, tmp_globals_arg_name_3, tmp_locals_arg_name_3, tmp_fromlist_name_3, tmp_level_name_3);
         if (tmp_star_imported_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -740,12 +915,12 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
         PyObject *tmp_locals_arg_name_4;
         PyObject *tmp_fromlist_name_4;
         PyObject *tmp_level_name_4;
-        tmp_name_name_4 = mod_consts[17];
+        tmp_name_name_4 = mod_consts[23];
         tmp_globals_arg_name_4 = (PyObject *)moduledict_matplotlib$tri;
         tmp_locals_arg_name_4 = (PyObject *)moduledict_matplotlib$tri;
-        tmp_fromlist_name_4 = mod_consts[13];
-        tmp_level_name_4 = mod_consts[14];
-        frame_26d20e659cd17c1653dff750382a4a43->m_frame.f_lineno = 8;
+        tmp_fromlist_name_4 = mod_consts[19];
+        tmp_level_name_4 = mod_consts[20];
+        frame_951ae4709384bb77cfb61322c70d8eee->m_frame.f_lineno = 8;
         tmp_star_imported_4 = IMPORT_MODULE5(tmp_name_name_4, tmp_globals_arg_name_4, tmp_locals_arg_name_4, tmp_fromlist_name_4, tmp_level_name_4);
         if (tmp_star_imported_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -777,12 +952,12 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
         PyObject *tmp_locals_arg_name_5;
         PyObject *tmp_fromlist_name_5;
         PyObject *tmp_level_name_5;
-        tmp_name_name_5 = mod_consts[18];
+        tmp_name_name_5 = mod_consts[24];
         tmp_globals_arg_name_5 = (PyObject *)moduledict_matplotlib$tri;
         tmp_locals_arg_name_5 = (PyObject *)moduledict_matplotlib$tri;
-        tmp_fromlist_name_5 = mod_consts[13];
-        tmp_level_name_5 = mod_consts[14];
-        frame_26d20e659cd17c1653dff750382a4a43->m_frame.f_lineno = 9;
+        tmp_fromlist_name_5 = mod_consts[19];
+        tmp_level_name_5 = mod_consts[20];
+        frame_951ae4709384bb77cfb61322c70d8eee->m_frame.f_lineno = 9;
         tmp_star_imported_5 = IMPORT_MODULE5(tmp_name_name_5, tmp_globals_arg_name_5, tmp_locals_arg_name_5, tmp_fromlist_name_5, tmp_level_name_5);
         if (tmp_star_imported_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -814,12 +989,12 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
         PyObject *tmp_locals_arg_name_6;
         PyObject *tmp_fromlist_name_6;
         PyObject *tmp_level_name_6;
-        tmp_name_name_6 = mod_consts[19];
+        tmp_name_name_6 = mod_consts[25];
         tmp_globals_arg_name_6 = (PyObject *)moduledict_matplotlib$tri;
         tmp_locals_arg_name_6 = (PyObject *)moduledict_matplotlib$tri;
-        tmp_fromlist_name_6 = mod_consts[13];
-        tmp_level_name_6 = mod_consts[14];
-        frame_26d20e659cd17c1653dff750382a4a43->m_frame.f_lineno = 10;
+        tmp_fromlist_name_6 = mod_consts[19];
+        tmp_level_name_6 = mod_consts[20];
+        frame_951ae4709384bb77cfb61322c70d8eee->m_frame.f_lineno = 10;
         tmp_star_imported_6 = IMPORT_MODULE5(tmp_name_name_6, tmp_globals_arg_name_6, tmp_locals_arg_name_6, tmp_fromlist_name_6, tmp_level_name_6);
         if (tmp_star_imported_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -851,12 +1026,12 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
         PyObject *tmp_locals_arg_name_7;
         PyObject *tmp_fromlist_name_7;
         PyObject *tmp_level_name_7;
-        tmp_name_name_7 = mod_consts[20];
+        tmp_name_name_7 = mod_consts[26];
         tmp_globals_arg_name_7 = (PyObject *)moduledict_matplotlib$tri;
         tmp_locals_arg_name_7 = (PyObject *)moduledict_matplotlib$tri;
-        tmp_fromlist_name_7 = mod_consts[13];
-        tmp_level_name_7 = mod_consts[14];
-        frame_26d20e659cd17c1653dff750382a4a43->m_frame.f_lineno = 11;
+        tmp_fromlist_name_7 = mod_consts[19];
+        tmp_level_name_7 = mod_consts[20];
+        frame_951ae4709384bb77cfb61322c70d8eee->m_frame.f_lineno = 11;
         tmp_star_imported_7 = IMPORT_MODULE5(tmp_name_name_7, tmp_globals_arg_name_7, tmp_locals_arg_name_7, tmp_fromlist_name_7, tmp_level_name_7);
         if (tmp_star_imported_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -888,12 +1063,12 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
         PyObject *tmp_locals_arg_name_8;
         PyObject *tmp_fromlist_name_8;
         PyObject *tmp_level_name_8;
-        tmp_name_name_8 = mod_consts[21];
+        tmp_name_name_8 = mod_consts[27];
         tmp_globals_arg_name_8 = (PyObject *)moduledict_matplotlib$tri;
         tmp_locals_arg_name_8 = (PyObject *)moduledict_matplotlib$tri;
-        tmp_fromlist_name_8 = mod_consts[13];
-        tmp_level_name_8 = mod_consts[14];
-        frame_26d20e659cd17c1653dff750382a4a43->m_frame.f_lineno = 12;
+        tmp_fromlist_name_8 = mod_consts[19];
+        tmp_level_name_8 = mod_consts[20];
+        frame_951ae4709384bb77cfb61322c70d8eee->m_frame.f_lineno = 12;
         tmp_star_imported_8 = IMPORT_MODULE5(tmp_name_name_8, tmp_globals_arg_name_8, tmp_locals_arg_name_8, tmp_fromlist_name_8, tmp_level_name_8);
         if (tmp_star_imported_8 == NULL) {
             assert(ERROR_OCCURRED());
@@ -921,23 +1096,23 @@ PyObject *modulecode_matplotlib$tri(PyObject *module, struct Nuitka_MetaPathBase
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_26d20e659cd17c1653dff750382a4a43);
+    RESTORE_FRAME_EXCEPTION(frame_951ae4709384bb77cfb61322c70d8eee);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_26d20e659cd17c1653dff750382a4a43);
+    assertFrameObject(frame_951ae4709384bb77cfb61322c70d8eee);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_26d20e659cd17c1653dff750382a4a43);
+    RESTORE_FRAME_EXCEPTION(frame_951ae4709384bb77cfb61322c70d8eee);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_26d20e659cd17c1653dff750382a4a43, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_26d20e659cd17c1653dff750382a4a43->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_26d20e659cd17c1653dff750382a4a43, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_951ae4709384bb77cfb61322c70d8eee, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_951ae4709384bb77cfb61322c70d8eee->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_951ae4709384bb77cfb61322c70d8eee, exception_lineno);
     }
 
     // Put the previous frame back on top.

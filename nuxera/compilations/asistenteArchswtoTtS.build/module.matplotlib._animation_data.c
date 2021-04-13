@@ -65,11 +65,11 @@ void checkModuleConstants_matplotlib$_animation_data(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_2e95d0cc246a0fd72d6b04f885efcf8d;
+static PyCodeObject *codeobj_14d154c11e6dd1f31512df21afc1370f;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[1]; CHECK_OBJECT(module_filename_obj);
-    codeobj_2e95d0cc246a0fd72d6b04f885efcf8d = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[15], NULL, NULL, 0, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[14]); CHECK_OBJECT(module_filename_obj);
+    codeobj_14d154c11e6dd1f31512df21afc1370f = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[15], NULL, NULL, 0, 0, 0);
 }
 
 // The module function declarations.
@@ -449,7 +449,7 @@ PyObject *modulecode_matplotlib$_animation_data(PyObject *module, struct Nuitka_
 #endif
 
     // Temp variables if any
-    struct Nuitka_FrameObject *frame_2e95d0cc246a0fd72d6b04f885efcf8d;
+    struct Nuitka_FrameObject *frame_14d154c11e6dd1f31512df21afc1370f;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -465,30 +465,30 @@ PyObject *modulecode_matplotlib$_animation_data(PyObject *module, struct Nuitka_
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[1];
-        UPDATE_STRING_DICT0(moduledict_matplotlib$_animation_data, (Nuitka_StringObject *)mod_consts[2], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_matplotlib$_animation_data, (Nuitka_StringObject *)mod_consts[1], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_2e95d0cc246a0fd72d6b04f885efcf8d = MAKE_MODULE_FRAME(codeobj_2e95d0cc246a0fd72d6b04f885efcf8d, module_matplotlib$_animation_data);
+    frame_14d154c11e6dd1f31512df21afc1370f = MAKE_MODULE_FRAME(codeobj_14d154c11e6dd1f31512df21afc1370f, module_matplotlib$_animation_data);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_2e95d0cc246a0fd72d6b04f885efcf8d);
-    assert(Py_REFCNT(frame_2e95d0cc246a0fd72d6b04f885efcf8d) == 2);
+    pushFrameStack(frame_14d154c11e6dd1f31512df21afc1370f);
+    assert(Py_REFCNT(frame_14d154c11e6dd1f31512df21afc1370f) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[1];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$_animation_data, (Nuitka_StringObject *)mod_consts[3]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$_animation_data, (Nuitka_StringObject *)mod_consts[2]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[2]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[4], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[3], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -504,14 +504,14 @@ PyObject *modulecode_matplotlib$_animation_data(PyObject *module, struct Nuitka_
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_matplotlib$_animation_data, (Nuitka_StringObject *)mod_consts[3]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_matplotlib$_animation_data, (Nuitka_StringObject *)mod_consts[2]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[2]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[5], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[4], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -526,23 +526,23 @@ PyObject *modulecode_matplotlib$_animation_data(PyObject *module, struct Nuitka_
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_2e95d0cc246a0fd72d6b04f885efcf8d);
+    RESTORE_FRAME_EXCEPTION(frame_14d154c11e6dd1f31512df21afc1370f);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_2e95d0cc246a0fd72d6b04f885efcf8d);
+    assertFrameObject(frame_14d154c11e6dd1f31512df21afc1370f);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_2e95d0cc246a0fd72d6b04f885efcf8d);
+    RESTORE_FRAME_EXCEPTION(frame_14d154c11e6dd1f31512df21afc1370f);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_2e95d0cc246a0fd72d6b04f885efcf8d, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_2e95d0cc246a0fd72d6b04f885efcf8d->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_2e95d0cc246a0fd72d6b04f885efcf8d, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_14d154c11e6dd1f31512df21afc1370f, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_14d154c11e6dd1f31512df21afc1370f->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_14d154c11e6dd1f31512df21afc1370f, exception_lineno);
     }
 
     // Put the previous frame back on top.
@@ -555,27 +555,27 @@ PyObject *modulecode_matplotlib$_animation_data(PyObject *module, struct Nuitka_
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_matplotlib$_animation_data, (Nuitka_StringObject *)mod_consts[6], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_matplotlib$_animation_data, (Nuitka_StringObject *)mod_consts[5], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
-        tmp_assign_source_4 = mod_consts[7];
-        UPDATE_STRING_DICT0(moduledict_matplotlib$_animation_data, (Nuitka_StringObject *)mod_consts[8], tmp_assign_source_4);
+        tmp_assign_source_4 = mod_consts[6];
+        UPDATE_STRING_DICT0(moduledict_matplotlib$_animation_data, (Nuitka_StringObject *)mod_consts[7], tmp_assign_source_4);
     }
     {
         PyObject *tmp_assign_source_5;
-        tmp_assign_source_5 = mod_consts[9];
-        UPDATE_STRING_DICT0(moduledict_matplotlib$_animation_data, (Nuitka_StringObject *)mod_consts[10], tmp_assign_source_5);
+        tmp_assign_source_5 = mod_consts[8];
+        UPDATE_STRING_DICT0(moduledict_matplotlib$_animation_data, (Nuitka_StringObject *)mod_consts[9], tmp_assign_source_5);
     }
     {
         PyObject *tmp_assign_source_6;
-        tmp_assign_source_6 = mod_consts[11];
-        UPDATE_STRING_DICT0(moduledict_matplotlib$_animation_data, (Nuitka_StringObject *)mod_consts[12], tmp_assign_source_6);
+        tmp_assign_source_6 = mod_consts[10];
+        UPDATE_STRING_DICT0(moduledict_matplotlib$_animation_data, (Nuitka_StringObject *)mod_consts[11], tmp_assign_source_6);
     }
     {
         PyObject *tmp_assign_source_7;
-        tmp_assign_source_7 = mod_consts[13];
-        UPDATE_STRING_DICT0(moduledict_matplotlib$_animation_data, (Nuitka_StringObject *)mod_consts[14], tmp_assign_source_7);
+        tmp_assign_source_7 = mod_consts[12];
+        UPDATE_STRING_DICT0(moduledict_matplotlib$_animation_data, (Nuitka_StringObject *)mod_consts[13], tmp_assign_source_7);
     }
 
     return module_matplotlib$_animation_data;

@@ -33,7 +33,7 @@ PyObject *module_cryptography$hazmat$primitives$asymmetric;
 PyDictObject *moduledict_cryptography$hazmat$primitives$asymmetric;
 
 /* The declarations of module constants used, if any. */
-static PyObject *mod_consts[42];
+static PyObject *mod_consts[53];
 
 static PyObject *module_filename_obj = NULL;
 
@@ -65,23 +65,23 @@ void checkModuleConstants_cryptography$hazmat$primitives$asymmetric(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_4a1b7ad2a98346e1803f2ac2a109e75c;
-static PyCodeObject *codeobj_edb8a17c8d0897627c55ee1411e46d08;
-static PyCodeObject *codeobj_e3732e17226e38c2c5c95a09c2c48e3d;
-static PyCodeObject *codeobj_fe40b65139e807830abb2e0aae76f77b;
-static PyCodeObject *codeobj_eb5e11e2ec0bc2d1aef7e63e8312caae;
-static PyCodeObject *codeobj_8c18e00e5ab270a5e16f304c8f149271;
-static PyCodeObject *codeobj_8330d4cee873b9a64b06a6d00ad7986e;
+static PyCodeObject *codeobj_ddbef314e81632e20f5a8ba77b93f9c1;
+static PyCodeObject *codeobj_c8415c82b1544bbb6be1475fae41f566;
+static PyCodeObject *codeobj_f370e0ac6f08613989dbbc0e30705202;
+static PyCodeObject *codeobj_e9b64e27b9f21cafabc6ef116445864f;
+static PyCodeObject *codeobj_35abe330ee1d2f2450a701a247304efa;
+static PyCodeObject *codeobj_132620cb72ea5f3a806b7415c326ad1e;
+static PyCodeObject *codeobj_f56cc353514888a9d5b172ca37bde49a;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[4]; CHECK_OBJECT(module_filename_obj);
-    codeobj_4a1b7ad2a98346e1803f2ac2a109e75c = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[38], NULL, NULL, 0, 0, 0);
-    codeobj_edb8a17c8d0897627c55ee1411e46d08 = MAKE_CODEOBJECT(module_filename_obj, 9, CO_NOFREE, mod_consts[26], mod_consts[39], NULL, 0, 0, 0);
-    codeobj_e3732e17226e38c2c5c95a09c2c48e3d = MAKE_CODEOBJECT(module_filename_obj, 23, CO_NOFREE, mod_consts[34], mod_consts[39], NULL, 0, 0, 0);
-    codeobj_fe40b65139e807830abb2e0aae76f77b = MAKE_CODEOBJECT(module_filename_obj, 17, CO_NOFREE, mod_consts[31], mod_consts[40], NULL, 1, 0, 0);
-    codeobj_eb5e11e2ec0bc2d1aef7e63e8312caae = MAKE_CODEOBJECT(module_filename_obj, 11, CO_NOFREE, mod_consts[29], mod_consts[41], NULL, 2, 0, 0);
-    codeobj_8c18e00e5ab270a5e16f304c8f149271 = MAKE_CODEOBJECT(module_filename_obj, 25, CO_NOFREE, mod_consts[29], mod_consts[41], NULL, 2, 0, 0);
-    codeobj_8330d4cee873b9a64b06a6d00ad7986e = MAKE_CODEOBJECT(module_filename_obj, 31, CO_NOFREE, mod_consts[36], mod_consts[40], NULL, 1, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[48]); CHECK_OBJECT(module_filename_obj);
+    codeobj_ddbef314e81632e20f5a8ba77b93f9c1 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[49], NULL, NULL, 0, 0, 0);
+    codeobj_c8415c82b1544bbb6be1475fae41f566 = MAKE_CODEOBJECT(module_filename_obj, 9, CO_NOFREE, mod_consts[36], mod_consts[50], NULL, 0, 0, 0);
+    codeobj_f370e0ac6f08613989dbbc0e30705202 = MAKE_CODEOBJECT(module_filename_obj, 23, CO_NOFREE, mod_consts[44], mod_consts[50], NULL, 0, 0, 0);
+    codeobj_e9b64e27b9f21cafabc6ef116445864f = MAKE_CODEOBJECT(module_filename_obj, 17, CO_NOFREE, mod_consts[41], mod_consts[51], NULL, 1, 0, 0);
+    codeobj_35abe330ee1d2f2450a701a247304efa = MAKE_CODEOBJECT(module_filename_obj, 11, CO_NOFREE, mod_consts[39], mod_consts[52], NULL, 2, 0, 0);
+    codeobj_132620cb72ea5f3a806b7415c326ad1e = MAKE_CODEOBJECT(module_filename_obj, 25, CO_NOFREE, mod_consts[39], mod_consts[52], NULL, 2, 0, 0);
+    codeobj_f56cc353514888a9d5b172ca37bde49a = MAKE_CODEOBJECT(module_filename_obj, 31, CO_NOFREE, mod_consts[46], mod_consts[51], NULL, 1, 0, 0);
 }
 
 // The module function declarations.
@@ -292,11 +292,11 @@ function_return_exit:
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$primitives$asymmetric$$$function__1_update() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$primitives$asymmetric$$$function__1_update,
-        mod_consts[29],
+        mod_consts[39],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[30],
+        mod_consts[40],
 #endif
-        codeobj_eb5e11e2ec0bc2d1aef7e63e8312caae,
+        codeobj_35abe330ee1d2f2450a701a247304efa,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -317,11 +317,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$primitives$asymmetric$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$primitives$asymmetric$$$function__2_finalize() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$primitives$asymmetric$$$function__2_finalize,
-        mod_consts[31],
+        mod_consts[41],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[32],
+        mod_consts[42],
 #endif
-        codeobj_fe40b65139e807830abb2e0aae76f77b,
+        codeobj_e9b64e27b9f21cafabc6ef116445864f,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -342,11 +342,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$primitives$asymmetric$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$primitives$asymmetric$$$function__3_update() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$primitives$asymmetric$$$function__3_update,
-        mod_consts[29],
+        mod_consts[39],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[35],
+        mod_consts[45],
 #endif
-        codeobj_8c18e00e5ab270a5e16f304c8f149271,
+        codeobj_132620cb72ea5f3a806b7415c326ad1e,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -367,11 +367,11 @@ static PyObject *MAKE_FUNCTION_cryptography$hazmat$primitives$asymmetric$$$funct
 static PyObject *MAKE_FUNCTION_cryptography$hazmat$primitives$asymmetric$$$function__4_verify() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$hazmat$primitives$asymmetric$$$function__4_verify,
-        mod_consts[36],
+        mod_consts[46],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[37],
+        mod_consts[47],
 #endif
-        codeobj_8330d4cee873b9a64b06a6d00ad7986e,
+        codeobj_f56cc353514888a9d5b172ca37bde49a,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -770,23 +770,23 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
     PyObject *tmp_class_creation_2__class_decl_dict = NULL;
     PyObject *tmp_class_creation_2__metaclass = NULL;
     PyObject *tmp_class_creation_2__prepared = NULL;
-    struct Nuitka_FrameObject *frame_4a1b7ad2a98346e1803f2ac2a109e75c;
+    struct Nuitka_FrameObject *frame_ddbef314e81632e20f5a8ba77b93f9c1;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
-    PyObject *tmp_dictset_value;
-    PyObject *tmp_dictset_dict;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
+    PyObject *tmp_dictset_value;
+    PyObject *tmp_dictset_dict;
     PyObject *tmp_dictset_key;
     int tmp_res;
     bool tmp_result;
     PyObject *tmp_dictdel_dict;
     PyObject *tmp_dictdel_key;
     PyObject *locals_cryptography$hazmat$primitives$asymmetric$$$class__1_AsymmetricSignatureContext_9 = NULL;
-    struct Nuitka_FrameObject *frame_edb8a17c8d0897627c55ee1411e46d08_2;
+    struct Nuitka_FrameObject *frame_c8415c82b1544bbb6be1475fae41f566_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_edb8a17c8d0897627c55ee1411e46d08_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_c8415c82b1544bbb6be1475fae41f566_2 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -800,9 +800,9 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
     PyTracebackObject *exception_keeper_tb_3;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_3;
     PyObject *locals_cryptography$hazmat$primitives$asymmetric$$$class__2_AsymmetricVerificationContext_23 = NULL;
-    struct Nuitka_FrameObject *frame_e3732e17226e38c2c5c95a09c2c48e3d_3;
+    struct Nuitka_FrameObject *frame_f370e0ac6f08613989dbbc0e30705202_3;
     NUITKA_MAY_BE_UNUSED char const *type_description_3 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_e3732e17226e38c2c5c95a09c2c48e3d_3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f370e0ac6f08613989dbbc0e30705202_3 = NULL;
     PyObject *exception_keeper_type_4;
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
@@ -824,25 +824,370 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[4];
-        UPDATE_STRING_DICT0(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[5], tmp_assign_source_2);
-    }
-    {
-        PyObject *tmp_assign_source_3;
-        tmp_assign_source_3 = LIST_COPY(mod_consts[6]);
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[7], tmp_assign_source_3);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[4], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_4a1b7ad2a98346e1803f2ac2a109e75c = MAKE_MODULE_FRAME(codeobj_4a1b7ad2a98346e1803f2ac2a109e75c, module_cryptography$hazmat$primitives$asymmetric);
+    frame_ddbef314e81632e20f5a8ba77b93f9c1 = MAKE_MODULE_FRAME(codeobj_ddbef314e81632e20f5a8ba77b93f9c1, module_cryptography$hazmat$primitives$asymmetric);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_4a1b7ad2a98346e1803f2ac2a109e75c);
-    assert(Py_REFCNT(frame_4a1b7ad2a98346e1803f2ac2a109e75c) == 2);
+    pushFrameStack(frame_ddbef314e81632e20f5a8ba77b93f9c1);
+    assert(Py_REFCNT(frame_ddbef314e81632e20f5a8ba77b93f9c1) == 2);
 
     // Framed code:
     {
+        PyObject *tmp_assign_source_3;
+        PyObject *tmp_list_element_1;
+        PyObject *tmp_called_name_1;
         PyObject *tmp_expression_name_1;
+        PyObject *tmp_args_element_name_1;
+        frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 1;
+        {
+            PyObject *hard_module = IMPORT_HARD_OS();
+            tmp_expression_name_1 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[5]);
+        }
+
+        if (tmp_expression_name_1 == NULL) {
+            assert(ERROR_OCCURRED());
+
+            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+            exception_lineno = 1;
+
+            goto frame_exception_exit_1;
+        }
+        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_1, mod_consts[6]);
+        if (tmp_called_name_1 == NULL) {
+            assert(ERROR_OCCURRED());
+
+            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+            exception_lineno = 1;
+
+            goto frame_exception_exit_1;
+        }
+        tmp_args_element_name_1 = module_filename_obj;
+        frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 1;
+        tmp_list_element_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
+        Py_DECREF(tmp_called_name_1);
+        if (tmp_list_element_1 == NULL) {
+            assert(ERROR_OCCURRED());
+
+            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+            exception_lineno = 1;
+
+            goto frame_exception_exit_1;
+        }
+        tmp_assign_source_3 = PyList_New(5);
+        {
+            PyObject *tmp_called_name_2;
+            PyObject *tmp_expression_name_2;
+            PyObject *tmp_args_element_name_2;
+            PyObject *tmp_called_instance_1;
+            PyObject *tmp_args_element_name_3;
+            PyObject *tmp_called_name_3;
+            PyObject *tmp_expression_name_3;
+            PyObject *tmp_args_element_name_4;
+            PyObject *tmp_called_instance_2;
+            PyObject *tmp_args_element_name_5;
+            PyObject *tmp_called_name_4;
+            PyObject *tmp_expression_name_4;
+            PyObject *tmp_args_element_name_6;
+            PyObject *tmp_called_instance_3;
+            PyObject *tmp_args_element_name_7;
+            PyObject *tmp_called_instance_4;
+            PyList_SET_ITEM(tmp_assign_source_3, 0, tmp_list_element_1);
+            frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 1;
+            {
+                PyObject *hard_module = IMPORT_HARD_OS();
+                tmp_expression_name_2 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[5]);
+            }
+
+            if (tmp_expression_name_2 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            tmp_called_name_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_2, mod_consts[7]);
+            if (tmp_called_name_2 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 1;
+            {
+                PyObject *hard_module = IMPORT_HARD_OS();
+                tmp_called_instance_1 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[8]);
+            }
+
+            if (tmp_called_instance_1 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+                Py_DECREF(tmp_called_name_2);
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 1;
+            tmp_args_element_name_2 = CALL_METHOD_WITH_ARGS2(
+                tmp_called_instance_1,
+                mod_consts[9],
+                &PyTuple_GET_ITEM(mod_consts[10], 0)
+            );
+
+            if (tmp_args_element_name_2 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+                Py_DECREF(tmp_called_name_2);
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            tmp_args_element_name_3 = mod_consts[11];
+            frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 1;
+            {
+                PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
+                tmp_list_element_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
+            }
+
+            Py_DECREF(tmp_called_name_2);
+            Py_DECREF(tmp_args_element_name_2);
+            if (tmp_list_element_1 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            PyList_SET_ITEM(tmp_assign_source_3, 1, tmp_list_element_1);
+            frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 1;
+            {
+                PyObject *hard_module = IMPORT_HARD_OS();
+                tmp_expression_name_3 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[5]);
+            }
+
+            if (tmp_expression_name_3 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            tmp_called_name_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[7]);
+            if (tmp_called_name_3 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 1;
+            {
+                PyObject *hard_module = IMPORT_HARD_OS();
+                tmp_called_instance_2 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[8]);
+            }
+
+            if (tmp_called_instance_2 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+                Py_DECREF(tmp_called_name_3);
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 1;
+            tmp_args_element_name_4 = CALL_METHOD_WITH_ARGS2(
+                tmp_called_instance_2,
+                mod_consts[9],
+                &PyTuple_GET_ITEM(mod_consts[12], 0)
+            );
+
+            if (tmp_args_element_name_4 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+                Py_DECREF(tmp_called_name_3);
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            tmp_args_element_name_5 = mod_consts[13];
+            frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 1;
+            {
+                PyObject *call_args[] = {tmp_args_element_name_4, tmp_args_element_name_5};
+                tmp_list_element_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
+            }
+
+            Py_DECREF(tmp_called_name_3);
+            Py_DECREF(tmp_args_element_name_4);
+            if (tmp_list_element_1 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            PyList_SET_ITEM(tmp_assign_source_3, 2, tmp_list_element_1);
+            frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 1;
+            {
+                PyObject *hard_module = IMPORT_HARD_OS();
+                tmp_expression_name_4 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[5]);
+            }
+
+            if (tmp_expression_name_4 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            tmp_called_name_4 = LOOKUP_ATTRIBUTE(tmp_expression_name_4, mod_consts[7]);
+            if (tmp_called_name_4 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 1;
+            {
+                PyObject *hard_module = IMPORT_HARD_OS();
+                tmp_called_instance_3 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[8]);
+            }
+
+            if (tmp_called_instance_3 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+                Py_DECREF(tmp_called_name_4);
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 1;
+            tmp_args_element_name_6 = CALL_METHOD_WITH_ARGS2(
+                tmp_called_instance_3,
+                mod_consts[9],
+                &PyTuple_GET_ITEM(mod_consts[14], 0)
+            );
+
+            if (tmp_args_element_name_6 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+                Py_DECREF(tmp_called_name_4);
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            tmp_args_element_name_7 = mod_consts[15];
+            frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 1;
+            {
+                PyObject *call_args[] = {tmp_args_element_name_6, tmp_args_element_name_7};
+                tmp_list_element_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
+            }
+
+            Py_DECREF(tmp_called_name_4);
+            Py_DECREF(tmp_args_element_name_6);
+            if (tmp_list_element_1 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            PyList_SET_ITEM(tmp_assign_source_3, 3, tmp_list_element_1);
+            frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 1;
+            {
+                PyObject *hard_module = IMPORT_HARD_OS();
+                tmp_called_instance_4 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[8]);
+            }
+
+            if (tmp_called_instance_4 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 1;
+            tmp_list_element_1 = CALL_METHOD_WITH_ARGS2(
+                tmp_called_instance_4,
+                mod_consts[9],
+                &PyTuple_GET_ITEM(mod_consts[16], 0)
+            );
+
+            if (tmp_list_element_1 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            PyList_SET_ITEM(tmp_assign_source_3, 4, tmp_list_element_1);
+        }
+        goto list_build_noexception_1;
+        // Exception handling pass through code for list_build:
+        list_build_exception_1:;
+        Py_DECREF(tmp_assign_source_3);
+        goto frame_exception_exit_1;
+        // Finished with no exception for list_build:
+        list_build_noexception_1:;
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[17], tmp_assign_source_3);
+    }
+    {
+        PyObject *tmp_expression_name_5;
         PyObject *tmp_subscript_name_1;
         tmp_dictset_value = Nuitka_Loader_New(module_entry);
         tmp_dictset_dict = PySys_GetObject((char *)"path_importer_cache");
@@ -856,15 +1201,15 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
 
             goto frame_exception_exit_1;
         }
-        tmp_expression_name_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[7]);
+        tmp_expression_name_5 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[17]);
 
-        if (unlikely(tmp_expression_name_1 == NULL)) {
-            tmp_expression_name_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[7]);
+        if (unlikely(tmp_expression_name_5 == NULL)) {
+            tmp_expression_name_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[17]);
         }
 
-        assert(!(tmp_expression_name_1 == NULL));
-        tmp_subscript_name_1 = mod_consts[8];
-        tmp_dictset_key = LOOKUP_SUBSCRIPT_CONST(tmp_expression_name_1, tmp_subscript_name_1, 0);
+        assert(!(tmp_expression_name_5 == NULL));
+        tmp_subscript_name_1 = mod_consts[18];
+        tmp_dictset_key = LOOKUP_SUBSCRIPT_CONST(tmp_expression_name_5, tmp_subscript_name_1, 0);
         if (tmp_dictset_key == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -891,15 +1236,15 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[4];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[9]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[19]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[9]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[19]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[10], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[20], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -915,14 +1260,14 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[9]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[19]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[9]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[19]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[11], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[21], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -937,10 +1282,10 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
     {
         PyObject *tmp_assattr_name_3;
         PyObject *tmp_assattr_target_3;
-        tmp_assattr_name_3 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[7]);
+        tmp_assattr_name_3 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[17]);
 
         if (unlikely(tmp_assattr_name_3 == NULL)) {
-            tmp_assattr_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[7]);
+            tmp_assattr_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[17]);
         }
 
         if (tmp_assattr_name_3 == NULL) {
@@ -953,14 +1298,14 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
 
             goto frame_exception_exit_1;
         }
-        tmp_assattr_target_3 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[9]);
+        tmp_assattr_target_3 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[19]);
 
         if (unlikely(tmp_assattr_target_3 == NULL)) {
-            tmp_assattr_target_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[9]);
+            tmp_assattr_target_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[19]);
         }
 
         assert(!(tmp_assattr_target_3 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_3, mod_consts[12], tmp_assattr_name_3);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_3, mod_consts[22], tmp_assattr_name_3);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -975,7 +1320,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
     {
         PyObject *tmp_assign_source_4;
         tmp_assign_source_4 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[13], tmp_assign_source_4);
+        UPDATE_STRING_DICT0(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[23], tmp_assign_source_4);
     }
     {
         PyObject *tmp_assign_source_5;
@@ -984,12 +1329,12 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[14];
+        tmp_name_name_1 = mod_consts[24];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_cryptography$hazmat$primitives$asymmetric;
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = Py_None;
-        tmp_level_name_1 = mod_consts[8];
-        frame_4a1b7ad2a98346e1803f2ac2a109e75c->m_frame.f_lineno = 6;
+        tmp_level_name_1 = mod_consts[18];
+        frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 6;
         tmp_assign_source_5 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1001,23 +1346,23 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[14], tmp_assign_source_5);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[24], tmp_assign_source_5);
     }
     // Tried code:
     {
         PyObject *tmp_assign_source_6;
         PyObject *tmp_dict_key_1;
         PyObject *tmp_dict_value_1;
-        PyObject *tmp_expression_name_2;
-        tmp_dict_key_1 = mod_consts[15];
-        tmp_expression_name_2 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[14]);
+        PyObject *tmp_expression_name_6;
+        tmp_dict_key_1 = mod_consts[25];
+        tmp_expression_name_6 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[24]);
 
-        if (unlikely(tmp_expression_name_2 == NULL)) {
-            tmp_expression_name_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[14]);
+        if (unlikely(tmp_expression_name_6 == NULL)) {
+            tmp_expression_name_6 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[24]);
         }
 
-        assert(!(tmp_expression_name_2 == NULL));
-        tmp_dict_value_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_2, mod_consts[16]);
+        assert(!(tmp_expression_name_6 == NULL));
+        tmp_dict_value_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_6, mod_consts[26]);
         if (tmp_dict_value_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -1044,7 +1389,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         PyObject *tmp_dict_arg_name_2;
         PyObject *tmp_key_name_2;
         PyObject *tmp_bases_name_1;
-        tmp_key_name_1 = mod_consts[15];
+        tmp_key_name_1 = mod_consts[25];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_1 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_1, tmp_key_name_1);
@@ -1058,7 +1403,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         condexpr_true_1:;
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_2 = tmp_class_creation_1__class_decl_dict;
-        tmp_key_name_2 = mod_consts[15];
+        tmp_key_name_2 = mod_consts[25];
         tmp_metaclass_name_1 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_2, tmp_key_name_2);
         if (tmp_metaclass_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1075,7 +1420,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         tmp_metaclass_name_1 = (PyObject *)&PyType_Type;
         Py_INCREF(tmp_metaclass_name_1);
         condexpr_end_1:;
-        tmp_bases_name_1 = mod_consts[17];
+        tmp_bases_name_1 = mod_consts[27];
         tmp_assign_source_7 = SELECT_METACLASS(tmp_metaclass_name_1, tmp_bases_name_1);
         Py_DECREF(tmp_metaclass_name_1);
         if (tmp_assign_source_7 == NULL) {
@@ -1095,7 +1440,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         nuitka_bool tmp_condition_result_2;
         PyObject *tmp_key_name_3;
         PyObject *tmp_dict_arg_name_3;
-        tmp_key_name_3 = mod_consts[15];
+        tmp_key_name_3 = mod_consts[25];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_3 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_3, tmp_key_name_3);
@@ -1110,7 +1455,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
     branch_yes_1:;
     CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_1__class_decl_dict;
-    tmp_dictdel_key = mod_consts[15];
+    tmp_dictdel_key = mod_consts[25];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -1125,10 +1470,10 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
     branch_no_1:;
     {
         nuitka_bool tmp_condition_result_3;
-        PyObject *tmp_expression_name_3;
+        PyObject *tmp_expression_name_7;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
-        tmp_expression_name_3 = tmp_class_creation_1__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_3, mod_consts[18]);
+        tmp_expression_name_7 = tmp_class_creation_1__metaclass;
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_7, mod_consts[28]);
         tmp_condition_result_3 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_3 == NUITKA_BOOL_TRUE) {
             goto branch_yes_2;
@@ -1139,14 +1484,14 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
     branch_yes_2:;
     {
         PyObject *tmp_assign_source_8;
-        PyObject *tmp_called_name_1;
-        PyObject *tmp_expression_name_4;
+        PyObject *tmp_called_name_5;
+        PyObject *tmp_expression_name_8;
         PyObject *tmp_args_name_1;
         PyObject *tmp_kwargs_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
-        tmp_expression_name_4 = tmp_class_creation_1__metaclass;
-        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_4, mod_consts[18]);
-        if (tmp_called_name_1 == NULL) {
+        tmp_expression_name_8 = tmp_class_creation_1__metaclass;
+        tmp_called_name_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_8, mod_consts[28]);
+        if (tmp_called_name_5 == NULL) {
             assert(ERROR_OCCURRED());
 
             FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
@@ -1156,12 +1501,12 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
 
             goto try_except_handler_1;
         }
-        tmp_args_name_1 = mod_consts[19];
+        tmp_args_name_1 = mod_consts[29];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_kwargs_name_1 = tmp_class_creation_1__class_decl_dict;
-        frame_4a1b7ad2a98346e1803f2ac2a109e75c->m_frame.f_lineno = 9;
-        tmp_assign_source_8 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
-        Py_DECREF(tmp_called_name_1);
+        frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 9;
+        tmp_assign_source_8 = CALL_FUNCTION(tmp_called_name_5, tmp_args_name_1, tmp_kwargs_name_1);
+        Py_DECREF(tmp_called_name_5);
         if (tmp_assign_source_8 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -1178,10 +1523,10 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
     {
         nuitka_bool tmp_condition_result_4;
         PyObject *tmp_operand_name_1;
-        PyObject *tmp_expression_name_5;
+        PyObject *tmp_expression_name_9;
         CHECK_OBJECT(tmp_class_creation_1__prepared);
-        tmp_expression_name_5 = tmp_class_creation_1__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_5, mod_consts[20]);
+        tmp_expression_name_9 = tmp_class_creation_1__prepared;
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_9, mod_consts[30]);
         tmp_operand_name_1 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_1);
         if (tmp_res == -1) {
@@ -1212,11 +1557,11 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         PyObject *tmp_getattr_attr_1;
         PyObject *tmp_getattr_default_1;
         tmp_raise_type_1 = PyExc_TypeError;
-        tmp_left_name_1 = mod_consts[21];
+        tmp_left_name_1 = mod_consts[31];
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_getattr_target_1 = tmp_class_creation_1__metaclass;
-        tmp_getattr_attr_1 = mod_consts[22];
-        tmp_getattr_default_1 = mod_consts[23];
+        tmp_getattr_attr_1 = mod_consts[32];
+        tmp_getattr_default_1 = mod_consts[33];
         tmp_tuple_element_1 = BUILTIN_GETATTR(tmp_getattr_target_1, tmp_getattr_attr_1, tmp_getattr_default_1);
         if (tmp_tuple_element_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1230,15 +1575,15 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         }
         tmp_right_name_1 = PyTuple_New(2);
         {
-            PyObject *tmp_expression_name_6;
+            PyObject *tmp_expression_name_10;
             PyObject *tmp_type_arg_1;
             PyTuple_SET_ITEM(tmp_right_name_1, 0, tmp_tuple_element_1);
             CHECK_OBJECT(tmp_class_creation_1__prepared);
             tmp_type_arg_1 = tmp_class_creation_1__prepared;
-            tmp_expression_name_6 = BUILTIN_TYPE1(tmp_type_arg_1);
-            assert(!(tmp_expression_name_6 == NULL));
-            tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_6, mod_consts[22]);
-            Py_DECREF(tmp_expression_name_6);
+            tmp_expression_name_10 = BUILTIN_TYPE1(tmp_type_arg_1);
+            assert(!(tmp_expression_name_10 == NULL));
+            tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_10, mod_consts[32]);
+            Py_DECREF(tmp_expression_name_10);
             if (tmp_tuple_element_1 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -1299,8 +1644,8 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[24];
-        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__1_AsymmetricSignatureContext_9, mod_consts[25], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[34];
+        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__1_AsymmetricSignatureContext_9, mod_consts[35], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -1311,8 +1656,8 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
 
             goto try_except_handler_3;
         }
-        tmp_dictset_value = mod_consts[26];
-        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__1_AsymmetricSignatureContext_9, mod_consts[27], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[36];
+        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__1_AsymmetricSignatureContext_9, mod_consts[37], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -1323,47 +1668,47 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
 
             goto try_except_handler_3;
         }
-        if (isFrameUnusable(cache_frame_edb8a17c8d0897627c55ee1411e46d08_2)) {
-            Py_XDECREF(cache_frame_edb8a17c8d0897627c55ee1411e46d08_2);
+        if (isFrameUnusable(cache_frame_c8415c82b1544bbb6be1475fae41f566_2)) {
+            Py_XDECREF(cache_frame_c8415c82b1544bbb6be1475fae41f566_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_edb8a17c8d0897627c55ee1411e46d08_2 == NULL) {
+            if (cache_frame_c8415c82b1544bbb6be1475fae41f566_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_edb8a17c8d0897627c55ee1411e46d08_2 = MAKE_FUNCTION_FRAME(codeobj_edb8a17c8d0897627c55ee1411e46d08, module_cryptography$hazmat$primitives$asymmetric, sizeof(void *));
+            cache_frame_c8415c82b1544bbb6be1475fae41f566_2 = MAKE_FUNCTION_FRAME(codeobj_c8415c82b1544bbb6be1475fae41f566, module_cryptography$hazmat$primitives$asymmetric, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_edb8a17c8d0897627c55ee1411e46d08_2->m_type_description == NULL);
-        frame_edb8a17c8d0897627c55ee1411e46d08_2 = cache_frame_edb8a17c8d0897627c55ee1411e46d08_2;
+        assert(cache_frame_c8415c82b1544bbb6be1475fae41f566_2->m_type_description == NULL);
+        frame_c8415c82b1544bbb6be1475fae41f566_2 = cache_frame_c8415c82b1544bbb6be1475fae41f566_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_edb8a17c8d0897627c55ee1411e46d08_2);
+        pushFrameStack(frame_c8415c82b1544bbb6be1475fae41f566_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_edb8a17c8d0897627c55ee1411e46d08_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_c8415c82b1544bbb6be1475fae41f566_2) == 2); // Frame stack
 
         // Framed code:
         {
-            PyObject *tmp_called_instance_1;
-            PyObject *tmp_args_element_name_1;
-            tmp_called_instance_1 = PyObject_GetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__1_AsymmetricSignatureContext_9, mod_consts[14]);
+            PyObject *tmp_called_instance_5;
+            PyObject *tmp_args_element_name_8;
+            tmp_called_instance_5 = PyObject_GetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__1_AsymmetricSignatureContext_9, mod_consts[24]);
 
-            if (tmp_called_instance_1 == NULL) {
+            if (tmp_called_instance_5 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_instance_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[14]);
+                    tmp_called_instance_5 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[24]);
 
-                    if (unlikely(tmp_called_instance_1 == NULL)) {
-                        tmp_called_instance_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[14]);
+                    if (unlikely(tmp_called_instance_5 == NULL)) {
+                        tmp_called_instance_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[24]);
                     }
 
-                    if (tmp_called_instance_1 == NULL) {
+                    if (tmp_called_instance_5 == NULL) {
                         assert(ERROR_OCCURRED());
 
                         FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
@@ -1373,18 +1718,18 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
                         type_description_2 = "o";
                         goto frame_exception_exit_2;
                     }
-                    Py_INCREF(tmp_called_instance_1);
+                    Py_INCREF(tmp_called_instance_5);
                 }
             }
 
 
 
-            tmp_args_element_name_1 = MAKE_FUNCTION_cryptography$hazmat$primitives$asymmetric$$$function__1_update();
+            tmp_args_element_name_8 = MAKE_FUNCTION_cryptography$hazmat$primitives$asymmetric$$$function__1_update();
 
-            frame_edb8a17c8d0897627c55ee1411e46d08_2->m_frame.f_lineno = 10;
-            tmp_dictset_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[28], tmp_args_element_name_1);
-            Py_DECREF(tmp_called_instance_1);
-            Py_DECREF(tmp_args_element_name_1);
+            frame_c8415c82b1544bbb6be1475fae41f566_2->m_frame.f_lineno = 10;
+            tmp_dictset_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_5, mod_consts[38], tmp_args_element_name_8);
+            Py_DECREF(tmp_called_instance_5);
+            Py_DECREF(tmp_args_element_name_8);
             if (tmp_dictset_value == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -1395,7 +1740,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__1_AsymmetricSignatureContext_9, mod_consts[29], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__1_AsymmetricSignatureContext_9, mod_consts[39], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -1409,19 +1754,19 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
             }
         }
         {
-            PyObject *tmp_called_instance_2;
-            PyObject *tmp_args_element_name_2;
-            tmp_called_instance_2 = PyObject_GetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__1_AsymmetricSignatureContext_9, mod_consts[14]);
+            PyObject *tmp_called_instance_6;
+            PyObject *tmp_args_element_name_9;
+            tmp_called_instance_6 = PyObject_GetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__1_AsymmetricSignatureContext_9, mod_consts[24]);
 
-            if (tmp_called_instance_2 == NULL) {
+            if (tmp_called_instance_6 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_instance_2 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[14]);
+                    tmp_called_instance_6 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[24]);
 
-                    if (unlikely(tmp_called_instance_2 == NULL)) {
-                        tmp_called_instance_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[14]);
+                    if (unlikely(tmp_called_instance_6 == NULL)) {
+                        tmp_called_instance_6 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[24]);
                     }
 
-                    if (tmp_called_instance_2 == NULL) {
+                    if (tmp_called_instance_6 == NULL) {
                         assert(ERROR_OCCURRED());
 
                         FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
@@ -1431,18 +1776,18 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
                         type_description_2 = "o";
                         goto frame_exception_exit_2;
                     }
-                    Py_INCREF(tmp_called_instance_2);
+                    Py_INCREF(tmp_called_instance_6);
                 }
             }
 
 
 
-            tmp_args_element_name_2 = MAKE_FUNCTION_cryptography$hazmat$primitives$asymmetric$$$function__2_finalize();
+            tmp_args_element_name_9 = MAKE_FUNCTION_cryptography$hazmat$primitives$asymmetric$$$function__2_finalize();
 
-            frame_edb8a17c8d0897627c55ee1411e46d08_2->m_frame.f_lineno = 16;
-            tmp_dictset_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[28], tmp_args_element_name_2);
-            Py_DECREF(tmp_called_instance_2);
-            Py_DECREF(tmp_args_element_name_2);
+            frame_c8415c82b1544bbb6be1475fae41f566_2->m_frame.f_lineno = 16;
+            tmp_dictset_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_6, mod_consts[38], tmp_args_element_name_9);
+            Py_DECREF(tmp_called_instance_6);
+            Py_DECREF(tmp_args_element_name_9);
             if (tmp_dictset_value == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -1453,7 +1798,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__1_AsymmetricSignatureContext_9, mod_consts[31], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__1_AsymmetricSignatureContext_9, mod_consts[41], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -1468,7 +1813,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_edb8a17c8d0897627c55ee1411e46d08_2);
+        RESTORE_FRAME_EXCEPTION(frame_c8415c82b1544bbb6be1475fae41f566_2);
 #endif
 
         // Put the previous frame back on top.
@@ -1479,35 +1824,35 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_edb8a17c8d0897627c55ee1411e46d08_2);
+        RESTORE_FRAME_EXCEPTION(frame_c8415c82b1544bbb6be1475fae41f566_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_edb8a17c8d0897627c55ee1411e46d08_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_edb8a17c8d0897627c55ee1411e46d08_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_edb8a17c8d0897627c55ee1411e46d08_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_c8415c82b1544bbb6be1475fae41f566_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_c8415c82b1544bbb6be1475fae41f566_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_c8415c82b1544bbb6be1475fae41f566_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_edb8a17c8d0897627c55ee1411e46d08_2,
+            frame_c8415c82b1544bbb6be1475fae41f566_2,
             type_description_2,
             outline_0_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_edb8a17c8d0897627c55ee1411e46d08_2 == cache_frame_edb8a17c8d0897627c55ee1411e46d08_2) {
+        if (frame_c8415c82b1544bbb6be1475fae41f566_2 == cache_frame_c8415c82b1544bbb6be1475fae41f566_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_edb8a17c8d0897627c55ee1411e46d08_2);
-            cache_frame_edb8a17c8d0897627c55ee1411e46d08_2 = NULL;
+            Py_DECREF(cache_frame_c8415c82b1544bbb6be1475fae41f566_2);
+            cache_frame_c8415c82b1544bbb6be1475fae41f566_2 = NULL;
         }
 
-        assertFrameObject(frame_edb8a17c8d0897627c55ee1411e46d08_2);
+        assertFrameObject(frame_c8415c82b1544bbb6be1475fae41f566_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -1523,23 +1868,23 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         skip_nested_handling_1:;
         {
             PyObject *tmp_assign_source_11;
-            PyObject *tmp_called_name_2;
+            PyObject *tmp_called_name_6;
             PyObject *tmp_args_name_2;
             PyObject *tmp_tuple_element_2;
             PyObject *tmp_kwargs_name_2;
             CHECK_OBJECT(tmp_class_creation_1__metaclass);
-            tmp_called_name_2 = tmp_class_creation_1__metaclass;
-            tmp_tuple_element_2 = mod_consts[26];
+            tmp_called_name_6 = tmp_class_creation_1__metaclass;
+            tmp_tuple_element_2 = mod_consts[36];
             tmp_args_name_2 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_args_name_2, 0, tmp_tuple_element_2);
-            tmp_tuple_element_2 = mod_consts[17];
+            tmp_tuple_element_2 = mod_consts[27];
             PyTuple_SET_ITEM0(tmp_args_name_2, 1, tmp_tuple_element_2);
             tmp_tuple_element_2 = locals_cryptography$hazmat$primitives$asymmetric$$$class__1_AsymmetricSignatureContext_9;
             PyTuple_SET_ITEM0(tmp_args_name_2, 2, tmp_tuple_element_2);
             CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
             tmp_kwargs_name_2 = tmp_class_creation_1__class_decl_dict;
-            frame_4a1b7ad2a98346e1803f2ac2a109e75c->m_frame.f_lineno = 9;
-            tmp_assign_source_11 = CALL_FUNCTION(tmp_called_name_2, tmp_args_name_2, tmp_kwargs_name_2);
+            frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 9;
+            tmp_assign_source_11 = CALL_FUNCTION(tmp_called_name_6, tmp_args_name_2, tmp_kwargs_name_2);
             Py_DECREF(tmp_args_name_2);
             if (tmp_assign_source_11 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -1619,7 +1964,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         exception_lineno = 9;
         goto try_except_handler_1;
         outline_result_1:;
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[26], tmp_assign_source_10);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[36], tmp_assign_source_10);
     }
     goto try_end_1;
     // Exception handler code:
@@ -1660,15 +2005,15 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         PyObject *tmp_assign_source_12;
         PyObject *tmp_dict_key_2;
         PyObject *tmp_dict_value_2;
-        PyObject *tmp_expression_name_7;
-        tmp_dict_key_2 = mod_consts[15];
-        tmp_expression_name_7 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[14]);
+        PyObject *tmp_expression_name_11;
+        tmp_dict_key_2 = mod_consts[25];
+        tmp_expression_name_11 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[24]);
 
-        if (unlikely(tmp_expression_name_7 == NULL)) {
-            tmp_expression_name_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[14]);
+        if (unlikely(tmp_expression_name_11 == NULL)) {
+            tmp_expression_name_11 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[24]);
         }
 
-        if (tmp_expression_name_7 == NULL) {
+        if (tmp_expression_name_11 == NULL) {
             assert(ERROR_OCCURRED());
 
             FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
@@ -1678,7 +2023,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
 
             goto try_except_handler_4;
         }
-        tmp_dict_value_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_7, mod_consts[16]);
+        tmp_dict_value_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_11, mod_consts[26]);
         if (tmp_dict_value_2 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -1705,7 +2050,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         PyObject *tmp_dict_arg_name_5;
         PyObject *tmp_key_name_5;
         PyObject *tmp_bases_name_2;
-        tmp_key_name_4 = mod_consts[15];
+        tmp_key_name_4 = mod_consts[25];
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_4 = tmp_class_creation_2__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_4, tmp_key_name_4);
@@ -1719,7 +2064,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         condexpr_true_2:;
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_5 = tmp_class_creation_2__class_decl_dict;
-        tmp_key_name_5 = mod_consts[15];
+        tmp_key_name_5 = mod_consts[25];
         tmp_metaclass_name_2 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_5, tmp_key_name_5);
         if (tmp_metaclass_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1736,7 +2081,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         tmp_metaclass_name_2 = (PyObject *)&PyType_Type;
         Py_INCREF(tmp_metaclass_name_2);
         condexpr_end_2:;
-        tmp_bases_name_2 = mod_consts[17];
+        tmp_bases_name_2 = mod_consts[27];
         tmp_assign_source_13 = SELECT_METACLASS(tmp_metaclass_name_2, tmp_bases_name_2);
         Py_DECREF(tmp_metaclass_name_2);
         if (tmp_assign_source_13 == NULL) {
@@ -1756,7 +2101,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         nuitka_bool tmp_condition_result_6;
         PyObject *tmp_key_name_6;
         PyObject *tmp_dict_arg_name_6;
-        tmp_key_name_6 = mod_consts[15];
+        tmp_key_name_6 = mod_consts[25];
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_6 = tmp_class_creation_2__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_6, tmp_key_name_6);
@@ -1771,7 +2116,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
     branch_yes_4:;
     CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_2__class_decl_dict;
-    tmp_dictdel_key = mod_consts[15];
+    tmp_dictdel_key = mod_consts[25];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -1786,10 +2131,10 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
     branch_no_4:;
     {
         nuitka_bool tmp_condition_result_7;
-        PyObject *tmp_expression_name_8;
+        PyObject *tmp_expression_name_12;
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
-        tmp_expression_name_8 = tmp_class_creation_2__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_8, mod_consts[18]);
+        tmp_expression_name_12 = tmp_class_creation_2__metaclass;
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_12, mod_consts[28]);
         tmp_condition_result_7 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_7 == NUITKA_BOOL_TRUE) {
             goto branch_yes_5;
@@ -1800,14 +2145,14 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
     branch_yes_5:;
     {
         PyObject *tmp_assign_source_14;
-        PyObject *tmp_called_name_3;
-        PyObject *tmp_expression_name_9;
+        PyObject *tmp_called_name_7;
+        PyObject *tmp_expression_name_13;
         PyObject *tmp_args_name_3;
         PyObject *tmp_kwargs_name_3;
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
-        tmp_expression_name_9 = tmp_class_creation_2__metaclass;
-        tmp_called_name_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_9, mod_consts[18]);
-        if (tmp_called_name_3 == NULL) {
+        tmp_expression_name_13 = tmp_class_creation_2__metaclass;
+        tmp_called_name_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_13, mod_consts[28]);
+        if (tmp_called_name_7 == NULL) {
             assert(ERROR_OCCURRED());
 
             FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
@@ -1817,12 +2162,12 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
 
             goto try_except_handler_4;
         }
-        tmp_args_name_3 = mod_consts[33];
+        tmp_args_name_3 = mod_consts[43];
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_kwargs_name_3 = tmp_class_creation_2__class_decl_dict;
-        frame_4a1b7ad2a98346e1803f2ac2a109e75c->m_frame.f_lineno = 23;
-        tmp_assign_source_14 = CALL_FUNCTION(tmp_called_name_3, tmp_args_name_3, tmp_kwargs_name_3);
-        Py_DECREF(tmp_called_name_3);
+        frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 23;
+        tmp_assign_source_14 = CALL_FUNCTION(tmp_called_name_7, tmp_args_name_3, tmp_kwargs_name_3);
+        Py_DECREF(tmp_called_name_7);
         if (tmp_assign_source_14 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -1839,10 +2184,10 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
     {
         nuitka_bool tmp_condition_result_8;
         PyObject *tmp_operand_name_2;
-        PyObject *tmp_expression_name_10;
+        PyObject *tmp_expression_name_14;
         CHECK_OBJECT(tmp_class_creation_2__prepared);
-        tmp_expression_name_10 = tmp_class_creation_2__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_10, mod_consts[20]);
+        tmp_expression_name_14 = tmp_class_creation_2__prepared;
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_14, mod_consts[30]);
         tmp_operand_name_2 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_2);
         if (tmp_res == -1) {
@@ -1873,11 +2218,11 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         PyObject *tmp_getattr_attr_2;
         PyObject *tmp_getattr_default_2;
         tmp_raise_type_2 = PyExc_TypeError;
-        tmp_left_name_2 = mod_consts[21];
+        tmp_left_name_2 = mod_consts[31];
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_getattr_target_2 = tmp_class_creation_2__metaclass;
-        tmp_getattr_attr_2 = mod_consts[22];
-        tmp_getattr_default_2 = mod_consts[23];
+        tmp_getattr_attr_2 = mod_consts[32];
+        tmp_getattr_default_2 = mod_consts[33];
         tmp_tuple_element_3 = BUILTIN_GETATTR(tmp_getattr_target_2, tmp_getattr_attr_2, tmp_getattr_default_2);
         if (tmp_tuple_element_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1891,15 +2236,15 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         }
         tmp_right_name_2 = PyTuple_New(2);
         {
-            PyObject *tmp_expression_name_11;
+            PyObject *tmp_expression_name_15;
             PyObject *tmp_type_arg_2;
             PyTuple_SET_ITEM(tmp_right_name_2, 0, tmp_tuple_element_3);
             CHECK_OBJECT(tmp_class_creation_2__prepared);
             tmp_type_arg_2 = tmp_class_creation_2__prepared;
-            tmp_expression_name_11 = BUILTIN_TYPE1(tmp_type_arg_2);
-            assert(!(tmp_expression_name_11 == NULL));
-            tmp_tuple_element_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_11, mod_consts[22]);
-            Py_DECREF(tmp_expression_name_11);
+            tmp_expression_name_15 = BUILTIN_TYPE1(tmp_type_arg_2);
+            assert(!(tmp_expression_name_15 == NULL));
+            tmp_tuple_element_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_15, mod_consts[32]);
+            Py_DECREF(tmp_expression_name_15);
             if (tmp_tuple_element_3 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -1960,20 +2305,8 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[24];
-        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__2_AsymmetricVerificationContext_23, mod_consts[25], tmp_dictset_value);
-        if (tmp_res != 0) {
-            assert(ERROR_OCCURRED());
-
-            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
-
-
-            exception_lineno = 23;
-
-            goto try_except_handler_6;
-        }
         tmp_dictset_value = mod_consts[34];
-        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__2_AsymmetricVerificationContext_23, mod_consts[27], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__2_AsymmetricVerificationContext_23, mod_consts[35], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -1984,47 +2317,59 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
 
             goto try_except_handler_6;
         }
-        if (isFrameUnusable(cache_frame_e3732e17226e38c2c5c95a09c2c48e3d_3)) {
-            Py_XDECREF(cache_frame_e3732e17226e38c2c5c95a09c2c48e3d_3);
+        tmp_dictset_value = mod_consts[44];
+        tmp_res = PyObject_SetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__2_AsymmetricVerificationContext_23, mod_consts[37], tmp_dictset_value);
+        if (tmp_res != 0) {
+            assert(ERROR_OCCURRED());
+
+            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+            exception_lineno = 23;
+
+            goto try_except_handler_6;
+        }
+        if (isFrameUnusable(cache_frame_f370e0ac6f08613989dbbc0e30705202_3)) {
+            Py_XDECREF(cache_frame_f370e0ac6f08613989dbbc0e30705202_3);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_e3732e17226e38c2c5c95a09c2c48e3d_3 == NULL) {
+            if (cache_frame_f370e0ac6f08613989dbbc0e30705202_3 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_e3732e17226e38c2c5c95a09c2c48e3d_3 = MAKE_FUNCTION_FRAME(codeobj_e3732e17226e38c2c5c95a09c2c48e3d, module_cryptography$hazmat$primitives$asymmetric, sizeof(void *));
+            cache_frame_f370e0ac6f08613989dbbc0e30705202_3 = MAKE_FUNCTION_FRAME(codeobj_f370e0ac6f08613989dbbc0e30705202, module_cryptography$hazmat$primitives$asymmetric, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_e3732e17226e38c2c5c95a09c2c48e3d_3->m_type_description == NULL);
-        frame_e3732e17226e38c2c5c95a09c2c48e3d_3 = cache_frame_e3732e17226e38c2c5c95a09c2c48e3d_3;
+        assert(cache_frame_f370e0ac6f08613989dbbc0e30705202_3->m_type_description == NULL);
+        frame_f370e0ac6f08613989dbbc0e30705202_3 = cache_frame_f370e0ac6f08613989dbbc0e30705202_3;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_e3732e17226e38c2c5c95a09c2c48e3d_3);
+        pushFrameStack(frame_f370e0ac6f08613989dbbc0e30705202_3);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_e3732e17226e38c2c5c95a09c2c48e3d_3) == 2); // Frame stack
+        assert(Py_REFCNT(frame_f370e0ac6f08613989dbbc0e30705202_3) == 2); // Frame stack
 
         // Framed code:
         {
-            PyObject *tmp_called_instance_3;
-            PyObject *tmp_args_element_name_3;
-            tmp_called_instance_3 = PyObject_GetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__2_AsymmetricVerificationContext_23, mod_consts[14]);
+            PyObject *tmp_called_instance_7;
+            PyObject *tmp_args_element_name_10;
+            tmp_called_instance_7 = PyObject_GetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__2_AsymmetricVerificationContext_23, mod_consts[24]);
 
-            if (tmp_called_instance_3 == NULL) {
+            if (tmp_called_instance_7 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_instance_3 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[14]);
+                    tmp_called_instance_7 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[24]);
 
-                    if (unlikely(tmp_called_instance_3 == NULL)) {
-                        tmp_called_instance_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[14]);
+                    if (unlikely(tmp_called_instance_7 == NULL)) {
+                        tmp_called_instance_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[24]);
                     }
 
-                    if (tmp_called_instance_3 == NULL) {
+                    if (tmp_called_instance_7 == NULL) {
                         assert(ERROR_OCCURRED());
 
                         FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
@@ -2034,18 +2379,18 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
                         type_description_2 = "o";
                         goto frame_exception_exit_3;
                     }
-                    Py_INCREF(tmp_called_instance_3);
+                    Py_INCREF(tmp_called_instance_7);
                 }
             }
 
 
 
-            tmp_args_element_name_3 = MAKE_FUNCTION_cryptography$hazmat$primitives$asymmetric$$$function__3_update();
+            tmp_args_element_name_10 = MAKE_FUNCTION_cryptography$hazmat$primitives$asymmetric$$$function__3_update();
 
-            frame_e3732e17226e38c2c5c95a09c2c48e3d_3->m_frame.f_lineno = 24;
-            tmp_dictset_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[28], tmp_args_element_name_3);
-            Py_DECREF(tmp_called_instance_3);
-            Py_DECREF(tmp_args_element_name_3);
+            frame_f370e0ac6f08613989dbbc0e30705202_3->m_frame.f_lineno = 24;
+            tmp_dictset_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_7, mod_consts[38], tmp_args_element_name_10);
+            Py_DECREF(tmp_called_instance_7);
+            Py_DECREF(tmp_args_element_name_10);
             if (tmp_dictset_value == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -2056,7 +2401,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_3;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__2_AsymmetricVerificationContext_23, mod_consts[29], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__2_AsymmetricVerificationContext_23, mod_consts[39], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -2070,19 +2415,19 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
             }
         }
         {
-            PyObject *tmp_called_instance_4;
-            PyObject *tmp_args_element_name_4;
-            tmp_called_instance_4 = PyObject_GetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__2_AsymmetricVerificationContext_23, mod_consts[14]);
+            PyObject *tmp_called_instance_8;
+            PyObject *tmp_args_element_name_11;
+            tmp_called_instance_8 = PyObject_GetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__2_AsymmetricVerificationContext_23, mod_consts[24]);
 
-            if (tmp_called_instance_4 == NULL) {
+            if (tmp_called_instance_8 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_instance_4 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[14]);
+                    tmp_called_instance_8 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[24]);
 
-                    if (unlikely(tmp_called_instance_4 == NULL)) {
-                        tmp_called_instance_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[14]);
+                    if (unlikely(tmp_called_instance_8 == NULL)) {
+                        tmp_called_instance_8 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[24]);
                     }
 
-                    if (tmp_called_instance_4 == NULL) {
+                    if (tmp_called_instance_8 == NULL) {
                         assert(ERROR_OCCURRED());
 
                         FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
@@ -2092,18 +2437,18 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
                         type_description_2 = "o";
                         goto frame_exception_exit_3;
                     }
-                    Py_INCREF(tmp_called_instance_4);
+                    Py_INCREF(tmp_called_instance_8);
                 }
             }
 
 
 
-            tmp_args_element_name_4 = MAKE_FUNCTION_cryptography$hazmat$primitives$asymmetric$$$function__4_verify();
+            tmp_args_element_name_11 = MAKE_FUNCTION_cryptography$hazmat$primitives$asymmetric$$$function__4_verify();
 
-            frame_e3732e17226e38c2c5c95a09c2c48e3d_3->m_frame.f_lineno = 30;
-            tmp_dictset_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_4, mod_consts[28], tmp_args_element_name_4);
-            Py_DECREF(tmp_called_instance_4);
-            Py_DECREF(tmp_args_element_name_4);
+            frame_f370e0ac6f08613989dbbc0e30705202_3->m_frame.f_lineno = 30;
+            tmp_dictset_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_8, mod_consts[38], tmp_args_element_name_11);
+            Py_DECREF(tmp_called_instance_8);
+            Py_DECREF(tmp_args_element_name_11);
             if (tmp_dictset_value == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -2114,7 +2459,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
                 type_description_2 = "o";
                 goto frame_exception_exit_3;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__2_AsymmetricVerificationContext_23, mod_consts[36], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$hazmat$primitives$asymmetric$$$class__2_AsymmetricVerificationContext_23, mod_consts[46], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -2129,7 +2474,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_e3732e17226e38c2c5c95a09c2c48e3d_3);
+        RESTORE_FRAME_EXCEPTION(frame_f370e0ac6f08613989dbbc0e30705202_3);
 #endif
 
         // Put the previous frame back on top.
@@ -2140,35 +2485,35 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         frame_exception_exit_3:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_e3732e17226e38c2c5c95a09c2c48e3d_3);
+        RESTORE_FRAME_EXCEPTION(frame_f370e0ac6f08613989dbbc0e30705202_3);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_e3732e17226e38c2c5c95a09c2c48e3d_3, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_e3732e17226e38c2c5c95a09c2c48e3d_3->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_e3732e17226e38c2c5c95a09c2c48e3d_3, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_f370e0ac6f08613989dbbc0e30705202_3, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_f370e0ac6f08613989dbbc0e30705202_3->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_f370e0ac6f08613989dbbc0e30705202_3, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_e3732e17226e38c2c5c95a09c2c48e3d_3,
+            frame_f370e0ac6f08613989dbbc0e30705202_3,
             type_description_2,
             outline_1_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_e3732e17226e38c2c5c95a09c2c48e3d_3 == cache_frame_e3732e17226e38c2c5c95a09c2c48e3d_3) {
+        if (frame_f370e0ac6f08613989dbbc0e30705202_3 == cache_frame_f370e0ac6f08613989dbbc0e30705202_3) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_e3732e17226e38c2c5c95a09c2c48e3d_3);
-            cache_frame_e3732e17226e38c2c5c95a09c2c48e3d_3 = NULL;
+            Py_DECREF(cache_frame_f370e0ac6f08613989dbbc0e30705202_3);
+            cache_frame_f370e0ac6f08613989dbbc0e30705202_3 = NULL;
         }
 
-        assertFrameObject(frame_e3732e17226e38c2c5c95a09c2c48e3d_3);
+        assertFrameObject(frame_f370e0ac6f08613989dbbc0e30705202_3);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -2184,23 +2529,23 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         skip_nested_handling_2:;
         {
             PyObject *tmp_assign_source_17;
-            PyObject *tmp_called_name_4;
+            PyObject *tmp_called_name_8;
             PyObject *tmp_args_name_4;
             PyObject *tmp_tuple_element_4;
             PyObject *tmp_kwargs_name_4;
             CHECK_OBJECT(tmp_class_creation_2__metaclass);
-            tmp_called_name_4 = tmp_class_creation_2__metaclass;
-            tmp_tuple_element_4 = mod_consts[34];
+            tmp_called_name_8 = tmp_class_creation_2__metaclass;
+            tmp_tuple_element_4 = mod_consts[44];
             tmp_args_name_4 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_args_name_4, 0, tmp_tuple_element_4);
-            tmp_tuple_element_4 = mod_consts[17];
+            tmp_tuple_element_4 = mod_consts[27];
             PyTuple_SET_ITEM0(tmp_args_name_4, 1, tmp_tuple_element_4);
             tmp_tuple_element_4 = locals_cryptography$hazmat$primitives$asymmetric$$$class__2_AsymmetricVerificationContext_23;
             PyTuple_SET_ITEM0(tmp_args_name_4, 2, tmp_tuple_element_4);
             CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
             tmp_kwargs_name_4 = tmp_class_creation_2__class_decl_dict;
-            frame_4a1b7ad2a98346e1803f2ac2a109e75c->m_frame.f_lineno = 23;
-            tmp_assign_source_17 = CALL_FUNCTION(tmp_called_name_4, tmp_args_name_4, tmp_kwargs_name_4);
+            frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame.f_lineno = 23;
+            tmp_assign_source_17 = CALL_FUNCTION(tmp_called_name_8, tmp_args_name_4, tmp_kwargs_name_4);
             Py_DECREF(tmp_args_name_4);
             if (tmp_assign_source_17 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -2280,7 +2625,7 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
         exception_lineno = 23;
         goto try_except_handler_4;
         outline_result_2:;
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[34], tmp_assign_source_16);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$primitives$asymmetric, (Nuitka_StringObject *)mod_consts[44], tmp_assign_source_16);
     }
     goto try_end_2;
     // Exception handler code:
@@ -2312,23 +2657,23 @@ PyObject *modulecode_cryptography$hazmat$primitives$asymmetric(PyObject *module,
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4a1b7ad2a98346e1803f2ac2a109e75c);
+    RESTORE_FRAME_EXCEPTION(frame_ddbef314e81632e20f5a8ba77b93f9c1);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_4a1b7ad2a98346e1803f2ac2a109e75c);
+    assertFrameObject(frame_ddbef314e81632e20f5a8ba77b93f9c1);
 
     goto frame_no_exception_3;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4a1b7ad2a98346e1803f2ac2a109e75c);
+    RESTORE_FRAME_EXCEPTION(frame_ddbef314e81632e20f5a8ba77b93f9c1);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_4a1b7ad2a98346e1803f2ac2a109e75c, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_4a1b7ad2a98346e1803f2ac2a109e75c->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_4a1b7ad2a98346e1803f2ac2a109e75c, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_ddbef314e81632e20f5a8ba77b93f9c1, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_ddbef314e81632e20f5a8ba77b93f9c1->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_ddbef314e81632e20f5a8ba77b93f9c1, exception_lineno);
     }
 
     // Put the previous frame back on top.

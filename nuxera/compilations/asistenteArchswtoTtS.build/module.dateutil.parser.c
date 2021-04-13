@@ -33,7 +33,7 @@ PyObject *module_dateutil$parser;
 PyDictObject *moduledict_dateutil$parser;
 
 /* The declarations of module constants used, if any. */
-static PyObject *mod_consts[73];
+static PyObject *mod_consts[79];
 
 static PyObject *module_filename_obj = NULL;
 
@@ -65,21 +65,21 @@ void checkModuleConstants_dateutil$parser(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_fb8f2a01ab22ca8703c4ae7188e24b14;
-static PyCodeObject *codeobj_efd7111c2496d6afa09d395a46ebc00b;
-static PyCodeObject *codeobj_a37627ff8e687203205d787a2e7fbf7b;
-static PyCodeObject *codeobj_48a2ee49c500bbac320a381d3d9cf93b;
-static PyCodeObject *codeobj_07d3f76c1289044d40df1b873086c29e;
-static PyCodeObject *codeobj_d69e6e5696827259960f333b5d2c9be1;
+static PyCodeObject *codeobj_6b16613a5ef14f5707cae4fa54bfce49;
+static PyCodeObject *codeobj_4b921d1c86e13ce964e90a1ae888644d;
+static PyCodeObject *codeobj_dcd3e313e36b57b954cf5de619f8d575;
+static PyCodeObject *codeobj_bf4a144e1c68f9434694f633899502c6;
+static PyCodeObject *codeobj_323f9b8b0f87767bdd526c991ab19096;
+static PyCodeObject *codeobj_1c39754907bf9708d95e41bc746cc16a;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[31]; CHECK_OBJECT(module_filename_obj);
-    codeobj_fb8f2a01ab22ca8703c4ae7188e24b14 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[65], NULL, NULL, 0, 0, 0);
-    codeobj_efd7111c2496d6afa09d395a46ebc00b = MAKE_CODEOBJECT(module_filename_obj, 35, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[58], mod_consts[66], NULL, 1, 0, 0);
-    codeobj_a37627ff8e687203205d787a2e7fbf7b = MAKE_CODEOBJECT(module_filename_obj, 20, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[57], mod_consts[67], NULL, 1, 0, 0);
-    codeobj_48a2ee49c500bbac320a381d3d9cf93b = MAKE_CODEOBJECT(module_filename_obj, 45, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS, mod_consts[28], mod_consts[68], mod_consts[69], 1, 0, 0);
-    codeobj_07d3f76c1289044d40df1b873086c29e = MAKE_CODEOBJECT(module_filename_obj, 29, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS, mod_consts[10], mod_consts[70], mod_consts[71], 0, 0, 0);
-    codeobj_d69e6e5696827259960f333b5d2c9be1 = MAKE_CODEOBJECT(module_filename_obj, 42, CO_OPTIMIZED | CO_NOFREE, mod_consts[19], mod_consts[72], NULL, 0, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[70]); CHECK_OBJECT(module_filename_obj);
+    codeobj_6b16613a5ef14f5707cae4fa54bfce49 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[71], NULL, NULL, 0, 0, 0);
+    codeobj_4b921d1c86e13ce964e90a1ae888644d = MAKE_CODEOBJECT(module_filename_obj, 35, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[63], mod_consts[72], NULL, 1, 0, 0);
+    codeobj_dcd3e313e36b57b954cf5de619f8d575 = MAKE_CODEOBJECT(module_filename_obj, 20, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[62], mod_consts[73], NULL, 1, 0, 0);
+    codeobj_bf4a144e1c68f9434694f633899502c6 = MAKE_CODEOBJECT(module_filename_obj, 45, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS, mod_consts[28], mod_consts[74], mod_consts[75], 1, 0, 0);
+    codeobj_323f9b8b0f87767bdd526c991ab19096 = MAKE_CODEOBJECT(module_filename_obj, 29, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS, mod_consts[10], mod_consts[76], mod_consts[77], 0, 0, 0);
+    codeobj_1c39754907bf9708d95e41bc746cc16a = MAKE_CODEOBJECT(module_filename_obj, 42, CO_OPTIMIZED | CO_NOFREE, mod_consts[19], mod_consts[78], NULL, 0, 0, 0);
 }
 
 // The module function declarations.
@@ -114,14 +114,14 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func(st
     struct Nuitka_CellObject *var_warnings = Nuitka_Cell_Empty();
     struct Nuitka_CellObject *var_msg = Nuitka_Cell_Empty();
     PyObject *var_deprecated_func = NULL;
-    struct Nuitka_FrameObject *frame_a37627ff8e687203205d787a2e7fbf7b;
+    struct Nuitka_FrameObject *frame_dcd3e313e36b57b954cf5de619f8d575;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
-    static struct Nuitka_FrameObject *cache_frame_a37627ff8e687203205d787a2e7fbf7b = NULL;
+    static struct Nuitka_FrameObject *cache_frame_dcd3e313e36b57b954cf5de619f8d575 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -130,31 +130,31 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_a37627ff8e687203205d787a2e7fbf7b)) {
-        Py_XDECREF(cache_frame_a37627ff8e687203205d787a2e7fbf7b);
+    if (isFrameUnusable(cache_frame_dcd3e313e36b57b954cf5de619f8d575)) {
+        Py_XDECREF(cache_frame_dcd3e313e36b57b954cf5de619f8d575);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_a37627ff8e687203205d787a2e7fbf7b == NULL) {
+        if (cache_frame_dcd3e313e36b57b954cf5de619f8d575 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_a37627ff8e687203205d787a2e7fbf7b = MAKE_FUNCTION_FRAME(codeobj_a37627ff8e687203205d787a2e7fbf7b, module_dateutil$parser, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_dcd3e313e36b57b954cf5de619f8d575 = MAKE_FUNCTION_FRAME(codeobj_dcd3e313e36b57b954cf5de619f8d575, module_dateutil$parser, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_a37627ff8e687203205d787a2e7fbf7b->m_type_description == NULL);
-    frame_a37627ff8e687203205d787a2e7fbf7b = cache_frame_a37627ff8e687203205d787a2e7fbf7b;
+    assert(cache_frame_dcd3e313e36b57b954cf5de619f8d575->m_type_description == NULL);
+    frame_dcd3e313e36b57b954cf5de619f8d575 = cache_frame_dcd3e313e36b57b954cf5de619f8d575;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_a37627ff8e687203205d787a2e7fbf7b);
+    pushFrameStack(frame_dcd3e313e36b57b954cf5de619f8d575);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_a37627ff8e687203205d787a2e7fbf7b) == 2); // Frame stack
+    assert(Py_REFCNT(frame_dcd3e313e36b57b954cf5de619f8d575) == 2); // Frame stack
 
     // Framed code:
     {
@@ -170,7 +170,7 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func(st
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = mod_consts[1];
         tmp_level_name_1 = mod_consts[2];
-        frame_a37627ff8e687203205d787a2e7fbf7b->m_frame.f_lineno = 21;
+        frame_dcd3e313e36b57b954cf5de619f8d575->m_frame.f_lineno = 21;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -219,7 +219,7 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func(st
         tmp_locals_arg_name_2 = Py_None;
         tmp_fromlist_name_2 = Py_None;
         tmp_level_name_2 = mod_consts[2];
-        frame_a37627ff8e687203205d787a2e7fbf7b->m_frame.f_lineno = 22;
+        frame_dcd3e313e36b57b954cf5de619f8d575->m_frame.f_lineno = 22;
         tmp_assign_source_2 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_assign_source_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -293,7 +293,7 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func(st
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         Py_DECREF(tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_a37627ff8e687203205d787a2e7fbf7b->m_frame.f_lineno = 26;
+        frame_dcd3e313e36b57b954cf5de619f8d575->m_frame.f_lineno = 26;
         tmp_assign_source_4 = CALL_FUNCTION_WITH_KEYARGS(tmp_called_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_kwargs_name_1);
@@ -336,7 +336,7 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func(st
         }
 
         tmp_args_element_name_1 = Nuitka_Cell_GET(par_f);
-        frame_a37627ff8e687203205d787a2e7fbf7b->m_frame.f_lineno = 28;
+        frame_dcd3e313e36b57b954cf5de619f8d575->m_frame.f_lineno = 28;
         tmp_called_name_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_1);
         if (tmp_called_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -358,7 +358,7 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func(st
 
         tmp_args_element_name_2 = MAKE_FUNCTION_dateutil$parser$$$function__1___deprecated_private_func$$$function__1_deprecated_func(tmp_closure_1);
 
-        frame_a37627ff8e687203205d787a2e7fbf7b->m_frame.f_lineno = 28;
+        frame_dcd3e313e36b57b954cf5de619f8d575->m_frame.f_lineno = 28;
         tmp_assign_source_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_2);
@@ -377,7 +377,7 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func(st
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a37627ff8e687203205d787a2e7fbf7b);
+    RESTORE_FRAME_EXCEPTION(frame_dcd3e313e36b57b954cf5de619f8d575);
 #endif
 
     // Put the previous frame back on top.
@@ -388,18 +388,18 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a37627ff8e687203205d787a2e7fbf7b);
+    RESTORE_FRAME_EXCEPTION(frame_dcd3e313e36b57b954cf5de619f8d575);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a37627ff8e687203205d787a2e7fbf7b, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a37627ff8e687203205d787a2e7fbf7b->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a37627ff8e687203205d787a2e7fbf7b, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_dcd3e313e36b57b954cf5de619f8d575, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_dcd3e313e36b57b954cf5de619f8d575->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_dcd3e313e36b57b954cf5de619f8d575, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_a37627ff8e687203205d787a2e7fbf7b,
+        frame_dcd3e313e36b57b954cf5de619f8d575,
         type_description_1,
         par_f,
         var_wraps,
@@ -410,17 +410,17 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func(st
 
 
     // Release cached frame if used for exception.
-    if (frame_a37627ff8e687203205d787a2e7fbf7b == cache_frame_a37627ff8e687203205d787a2e7fbf7b) {
+    if (frame_dcd3e313e36b57b954cf5de619f8d575 == cache_frame_dcd3e313e36b57b954cf5de619f8d575) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_a37627ff8e687203205d787a2e7fbf7b);
-        cache_frame_a37627ff8e687203205d787a2e7fbf7b = NULL;
+        Py_DECREF(cache_frame_dcd3e313e36b57b954cf5de619f8d575);
+        cache_frame_dcd3e313e36b57b954cf5de619f8d575 = NULL;
     }
 
-    assertFrameObject(frame_a37627ff8e687203205d787a2e7fbf7b);
+    assertFrameObject(frame_dcd3e313e36b57b954cf5de619f8d575);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -514,7 +514,7 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func$$$
     // Local variable declarations.
     PyObject *par_args = python_pars[0];
     PyObject *par_kwargs = python_pars[1];
-    struct Nuitka_FrameObject *frame_07d3f76c1289044d40df1b873086c29e;
+    struct Nuitka_FrameObject *frame_323f9b8b0f87767bdd526c991ab19096;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -522,7 +522,7 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func$$$
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_07d3f76c1289044d40df1b873086c29e = NULL;
+    static struct Nuitka_FrameObject *cache_frame_323f9b8b0f87767bdd526c991ab19096 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -530,31 +530,31 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func$$$
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_07d3f76c1289044d40df1b873086c29e)) {
-        Py_XDECREF(cache_frame_07d3f76c1289044d40df1b873086c29e);
+    if (isFrameUnusable(cache_frame_323f9b8b0f87767bdd526c991ab19096)) {
+        Py_XDECREF(cache_frame_323f9b8b0f87767bdd526c991ab19096);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_07d3f76c1289044d40df1b873086c29e == NULL) {
+        if (cache_frame_323f9b8b0f87767bdd526c991ab19096 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_07d3f76c1289044d40df1b873086c29e = MAKE_FUNCTION_FRAME(codeobj_07d3f76c1289044d40df1b873086c29e, module_dateutil$parser, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_323f9b8b0f87767bdd526c991ab19096 = MAKE_FUNCTION_FRAME(codeobj_323f9b8b0f87767bdd526c991ab19096, module_dateutil$parser, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_07d3f76c1289044d40df1b873086c29e->m_type_description == NULL);
-    frame_07d3f76c1289044d40df1b873086c29e = cache_frame_07d3f76c1289044d40df1b873086c29e;
+    assert(cache_frame_323f9b8b0f87767bdd526c991ab19096->m_type_description == NULL);
+    frame_323f9b8b0f87767bdd526c991ab19096 = cache_frame_323f9b8b0f87767bdd526c991ab19096;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_07d3f76c1289044d40df1b873086c29e);
+    pushFrameStack(frame_323f9b8b0f87767bdd526c991ab19096);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_07d3f76c1289044d40df1b873086c29e) == 2); // Frame stack
+    assert(Py_REFCNT(frame_323f9b8b0f87767bdd526c991ab19096) == 2); // Frame stack
 
     // Framed code:
     {
@@ -616,7 +616,7 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func$$$
             type_description_1 = "ooccc";
             goto frame_exception_exit_1;
         }
-        frame_07d3f76c1289044d40df1b873086c29e->m_frame.f_lineno = 30;
+        frame_323f9b8b0f87767bdd526c991ab19096->m_frame.f_lineno = 30;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -678,7 +678,7 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func$$$
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_07d3f76c1289044d40df1b873086c29e);
+    RESTORE_FRAME_EXCEPTION(frame_323f9b8b0f87767bdd526c991ab19096);
 #endif
 
     // Put the previous frame back on top.
@@ -688,7 +688,7 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func$$$
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_07d3f76c1289044d40df1b873086c29e);
+    RESTORE_FRAME_EXCEPTION(frame_323f9b8b0f87767bdd526c991ab19096);
 #endif
 
     // Put the previous frame back on top.
@@ -699,18 +699,18 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func$$$
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_07d3f76c1289044d40df1b873086c29e);
+    RESTORE_FRAME_EXCEPTION(frame_323f9b8b0f87767bdd526c991ab19096);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_07d3f76c1289044d40df1b873086c29e, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_07d3f76c1289044d40df1b873086c29e->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_07d3f76c1289044d40df1b873086c29e, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_323f9b8b0f87767bdd526c991ab19096, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_323f9b8b0f87767bdd526c991ab19096->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_323f9b8b0f87767bdd526c991ab19096, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_07d3f76c1289044d40df1b873086c29e,
+        frame_323f9b8b0f87767bdd526c991ab19096,
         type_description_1,
         par_args,
         par_kwargs,
@@ -721,17 +721,17 @@ static PyObject *impl_dateutil$parser$$$function__1___deprecated_private_func$$$
 
 
     // Release cached frame if used for exception.
-    if (frame_07d3f76c1289044d40df1b873086c29e == cache_frame_07d3f76c1289044d40df1b873086c29e) {
+    if (frame_323f9b8b0f87767bdd526c991ab19096 == cache_frame_323f9b8b0f87767bdd526c991ab19096) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_07d3f76c1289044d40df1b873086c29e);
-        cache_frame_07d3f76c1289044d40df1b873086c29e = NULL;
+        Py_DECREF(cache_frame_323f9b8b0f87767bdd526c991ab19096);
+        cache_frame_323f9b8b0f87767bdd526c991ab19096 = NULL;
     }
 
-    assertFrameObject(frame_07d3f76c1289044d40df1b873086c29e);
+    assertFrameObject(frame_323f9b8b0f87767bdd526c991ab19096);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -815,7 +815,7 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class(st
     PyObject *tmp_class_creation_1__class_decl_dict = NULL;
     PyObject *tmp_class_creation_1__metaclass = NULL;
     PyObject *tmp_class_creation_1__prepared = NULL;
-    struct Nuitka_FrameObject *frame_efd7111c2496d6afa09d395a46ebc00b;
+    struct Nuitka_FrameObject *frame_4b921d1c86e13ce964e90a1ae888644d;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -827,9 +827,9 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class(st
     bool tmp_result;
     PyObject *locals_dateutil$parser$$$function__2___deprecate_private_class$$$class__1_private_class_42 = NULL;
     PyObject *tmp_dictset_value;
-    struct Nuitka_FrameObject *frame_d69e6e5696827259960f333b5d2c9be1_2;
+    struct Nuitka_FrameObject *frame_1c39754907bf9708d95e41bc746cc16a_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_d69e6e5696827259960f333b5d2c9be1_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_1c39754907bf9708d95e41bc746cc16a_2 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -843,7 +843,7 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class(st
     PyTracebackObject *exception_keeper_tb_3;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_3;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_efd7111c2496d6afa09d395a46ebc00b = NULL;
+    static struct Nuitka_FrameObject *cache_frame_4b921d1c86e13ce964e90a1ae888644d = NULL;
     PyObject *exception_keeper_type_4;
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
@@ -851,31 +851,31 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_efd7111c2496d6afa09d395a46ebc00b)) {
-        Py_XDECREF(cache_frame_efd7111c2496d6afa09d395a46ebc00b);
+    if (isFrameUnusable(cache_frame_4b921d1c86e13ce964e90a1ae888644d)) {
+        Py_XDECREF(cache_frame_4b921d1c86e13ce964e90a1ae888644d);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_efd7111c2496d6afa09d395a46ebc00b == NULL) {
+        if (cache_frame_4b921d1c86e13ce964e90a1ae888644d == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_efd7111c2496d6afa09d395a46ebc00b = MAKE_FUNCTION_FRAME(codeobj_efd7111c2496d6afa09d395a46ebc00b, module_dateutil$parser, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_4b921d1c86e13ce964e90a1ae888644d = MAKE_FUNCTION_FRAME(codeobj_4b921d1c86e13ce964e90a1ae888644d, module_dateutil$parser, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_efd7111c2496d6afa09d395a46ebc00b->m_type_description == NULL);
-    frame_efd7111c2496d6afa09d395a46ebc00b = cache_frame_efd7111c2496d6afa09d395a46ebc00b;
+    assert(cache_frame_4b921d1c86e13ce964e90a1ae888644d->m_type_description == NULL);
+    frame_4b921d1c86e13ce964e90a1ae888644d = cache_frame_4b921d1c86e13ce964e90a1ae888644d;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_efd7111c2496d6afa09d395a46ebc00b);
+    pushFrameStack(frame_4b921d1c86e13ce964e90a1ae888644d);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_efd7111c2496d6afa09d395a46ebc00b) == 2); // Frame stack
+    assert(Py_REFCNT(frame_4b921d1c86e13ce964e90a1ae888644d) == 2); // Frame stack
 
     // Framed code:
     {
@@ -890,7 +890,7 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class(st
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = Py_None;
         tmp_level_name_1 = mod_consts[2];
-        frame_efd7111c2496d6afa09d395a46ebc00b->m_frame.f_lineno = 36;
+        frame_4b921d1c86e13ce964e90a1ae888644d->m_frame.f_lineno = 36;
         tmp_assign_source_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -953,7 +953,7 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class(st
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         Py_DECREF(tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_efd7111c2496d6afa09d395a46ebc00b->m_frame.f_lineno = 40;
+        frame_4b921d1c86e13ce964e90a1ae888644d->m_frame.f_lineno = 40;
         tmp_assign_source_3 = CALL_FUNCTION_WITH_KEYARGS(tmp_called_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_kwargs_name_1);
@@ -1210,7 +1210,7 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class(st
         PyTuple_SET_ITEM0(tmp_args_name_1, 1, tmp_tuple_element_2);
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_kwargs_name_2 = tmp_class_creation_1__class_decl_dict;
-        frame_efd7111c2496d6afa09d395a46ebc00b->m_frame.f_lineno = 42;
+        frame_4b921d1c86e13ce964e90a1ae888644d->m_frame.f_lineno = 42;
         tmp_assign_source_8 = CALL_FUNCTION(tmp_called_name_2, tmp_args_name_1, tmp_kwargs_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_name_1);
@@ -1375,31 +1375,31 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class(st
             type_description_1 = "occc";
             goto try_except_handler_4;
         }
-        if (isFrameUnusable(cache_frame_d69e6e5696827259960f333b5d2c9be1_2)) {
-            Py_XDECREF(cache_frame_d69e6e5696827259960f333b5d2c9be1_2);
+        if (isFrameUnusable(cache_frame_1c39754907bf9708d95e41bc746cc16a_2)) {
+            Py_XDECREF(cache_frame_1c39754907bf9708d95e41bc746cc16a_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_d69e6e5696827259960f333b5d2c9be1_2 == NULL) {
+            if (cache_frame_1c39754907bf9708d95e41bc746cc16a_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_d69e6e5696827259960f333b5d2c9be1_2 = MAKE_FUNCTION_FRAME(codeobj_d69e6e5696827259960f333b5d2c9be1, module_dateutil$parser, sizeof(void *)+sizeof(void *));
+            cache_frame_1c39754907bf9708d95e41bc746cc16a_2 = MAKE_FUNCTION_FRAME(codeobj_1c39754907bf9708d95e41bc746cc16a, module_dateutil$parser, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_d69e6e5696827259960f333b5d2c9be1_2->m_type_description == NULL);
-        frame_d69e6e5696827259960f333b5d2c9be1_2 = cache_frame_d69e6e5696827259960f333b5d2c9be1_2;
+        assert(cache_frame_1c39754907bf9708d95e41bc746cc16a_2->m_type_description == NULL);
+        frame_1c39754907bf9708d95e41bc746cc16a_2 = cache_frame_1c39754907bf9708d95e41bc746cc16a_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_d69e6e5696827259960f333b5d2c9be1_2);
+        pushFrameStack(frame_1c39754907bf9708d95e41bc746cc16a_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_d69e6e5696827259960f333b5d2c9be1_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_1c39754907bf9708d95e41bc746cc16a_2) == 2); // Frame stack
 
         // Framed code:
         {
@@ -1477,7 +1477,7 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class(st
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_d69e6e5696827259960f333b5d2c9be1_2);
+        RESTORE_FRAME_EXCEPTION(frame_1c39754907bf9708d95e41bc746cc16a_2);
 #endif
 
         // Put the previous frame back on top.
@@ -1488,18 +1488,18 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class(st
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_d69e6e5696827259960f333b5d2c9be1_2);
+        RESTORE_FRAME_EXCEPTION(frame_1c39754907bf9708d95e41bc746cc16a_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_d69e6e5696827259960f333b5d2c9be1_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_d69e6e5696827259960f333b5d2c9be1_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_d69e6e5696827259960f333b5d2c9be1_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_1c39754907bf9708d95e41bc746cc16a_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_1c39754907bf9708d95e41bc746cc16a_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_1c39754907bf9708d95e41bc746cc16a_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_d69e6e5696827259960f333b5d2c9be1_2,
+            frame_1c39754907bf9708d95e41bc746cc16a_2,
             type_description_2,
             outline_0_var___class__,
             par_c
@@ -1507,17 +1507,17 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class(st
 
 
         // Release cached frame if used for exception.
-        if (frame_d69e6e5696827259960f333b5d2c9be1_2 == cache_frame_d69e6e5696827259960f333b5d2c9be1_2) {
+        if (frame_1c39754907bf9708d95e41bc746cc16a_2 == cache_frame_1c39754907bf9708d95e41bc746cc16a_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_d69e6e5696827259960f333b5d2c9be1_2);
-            cache_frame_d69e6e5696827259960f333b5d2c9be1_2 = NULL;
+            Py_DECREF(cache_frame_1c39754907bf9708d95e41bc746cc16a_2);
+            cache_frame_1c39754907bf9708d95e41bc746cc16a_2 = NULL;
         }
 
-        assertFrameObject(frame_d69e6e5696827259960f333b5d2c9be1_2);
+        assertFrameObject(frame_1c39754907bf9708d95e41bc746cc16a_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -1590,7 +1590,7 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class(st
             PyTuple_SET_ITEM0(tmp_args_name_2, 2, tmp_tuple_element_4);
             CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
             tmp_kwargs_name_3 = tmp_class_creation_1__class_decl_dict;
-            frame_efd7111c2496d6afa09d395a46ebc00b->m_frame.f_lineno = 42;
+            frame_4b921d1c86e13ce964e90a1ae888644d->m_frame.f_lineno = 42;
             tmp_assign_source_11 = CALL_FUNCTION(tmp_called_name_3, tmp_args_name_2, tmp_kwargs_name_3);
             Py_DECREF(tmp_args_name_2);
             if (tmp_assign_source_11 == NULL) {
@@ -1792,7 +1792,7 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class(st
     goto frame_return_exit_1;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_efd7111c2496d6afa09d395a46ebc00b);
+    RESTORE_FRAME_EXCEPTION(frame_4b921d1c86e13ce964e90a1ae888644d);
 #endif
 
     // Put the previous frame back on top.
@@ -1802,7 +1802,7 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class(st
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_efd7111c2496d6afa09d395a46ebc00b);
+    RESTORE_FRAME_EXCEPTION(frame_4b921d1c86e13ce964e90a1ae888644d);
 #endif
 
     // Put the previous frame back on top.
@@ -1813,18 +1813,18 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_efd7111c2496d6afa09d395a46ebc00b);
+    RESTORE_FRAME_EXCEPTION(frame_4b921d1c86e13ce964e90a1ae888644d);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_efd7111c2496d6afa09d395a46ebc00b, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_efd7111c2496d6afa09d395a46ebc00b->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_efd7111c2496d6afa09d395a46ebc00b, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_4b921d1c86e13ce964e90a1ae888644d, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_4b921d1c86e13ce964e90a1ae888644d->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_4b921d1c86e13ce964e90a1ae888644d, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_efd7111c2496d6afa09d395a46ebc00b,
+        frame_4b921d1c86e13ce964e90a1ae888644d,
         type_description_1,
         par_c,
         var_warnings,
@@ -1834,17 +1834,17 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class(st
 
 
     // Release cached frame if used for exception.
-    if (frame_efd7111c2496d6afa09d395a46ebc00b == cache_frame_efd7111c2496d6afa09d395a46ebc00b) {
+    if (frame_4b921d1c86e13ce964e90a1ae888644d == cache_frame_4b921d1c86e13ce964e90a1ae888644d) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_efd7111c2496d6afa09d395a46ebc00b);
-        cache_frame_efd7111c2496d6afa09d395a46ebc00b = NULL;
+        Py_DECREF(cache_frame_4b921d1c86e13ce964e90a1ae888644d);
+        cache_frame_4b921d1c86e13ce964e90a1ae888644d = NULL;
     }
 
-    assertFrameObject(frame_efd7111c2496d6afa09d395a46ebc00b);
+    assertFrameObject(frame_4b921d1c86e13ce964e90a1ae888644d);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1933,14 +1933,14 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class$$$
     PyObject *par_self = python_pars[0];
     PyObject *par_args = python_pars[1];
     PyObject *par_kwargs = python_pars[2];
-    struct Nuitka_FrameObject *frame_48a2ee49c500bbac320a381d3d9cf93b;
+    struct Nuitka_FrameObject *frame_bf4a144e1c68f9434694f633899502c6;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_48a2ee49c500bbac320a381d3d9cf93b = NULL;
+    static struct Nuitka_FrameObject *cache_frame_bf4a144e1c68f9434694f633899502c6 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -1949,31 +1949,31 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class$$$
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_48a2ee49c500bbac320a381d3d9cf93b)) {
-        Py_XDECREF(cache_frame_48a2ee49c500bbac320a381d3d9cf93b);
+    if (isFrameUnusable(cache_frame_bf4a144e1c68f9434694f633899502c6)) {
+        Py_XDECREF(cache_frame_bf4a144e1c68f9434694f633899502c6);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_48a2ee49c500bbac320a381d3d9cf93b == NULL) {
+        if (cache_frame_bf4a144e1c68f9434694f633899502c6 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_48a2ee49c500bbac320a381d3d9cf93b = MAKE_FUNCTION_FRAME(codeobj_48a2ee49c500bbac320a381d3d9cf93b, module_dateutil$parser, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_bf4a144e1c68f9434694f633899502c6 = MAKE_FUNCTION_FRAME(codeobj_bf4a144e1c68f9434694f633899502c6, module_dateutil$parser, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_48a2ee49c500bbac320a381d3d9cf93b->m_type_description == NULL);
-    frame_48a2ee49c500bbac320a381d3d9cf93b = cache_frame_48a2ee49c500bbac320a381d3d9cf93b;
+    assert(cache_frame_bf4a144e1c68f9434694f633899502c6->m_type_description == NULL);
+    frame_bf4a144e1c68f9434694f633899502c6 = cache_frame_bf4a144e1c68f9434694f633899502c6;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_48a2ee49c500bbac320a381d3d9cf93b);
+    pushFrameStack(frame_bf4a144e1c68f9434694f633899502c6);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_48a2ee49c500bbac320a381d3d9cf93b) == 2); // Frame stack
+    assert(Py_REFCNT(frame_bf4a144e1c68f9434694f633899502c6) == 2); // Frame stack
 
     // Framed code:
     {
@@ -2035,7 +2035,7 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class$$$
             type_description_1 = "ooocccN";
             goto frame_exception_exit_1;
         }
-        frame_48a2ee49c500bbac320a381d3d9cf93b->m_frame.f_lineno = 46;
+        frame_bf4a144e1c68f9434694f633899502c6->m_frame.f_lineno = 46;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -2125,7 +2125,7 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class$$$
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_48a2ee49c500bbac320a381d3d9cf93b);
+    RESTORE_FRAME_EXCEPTION(frame_bf4a144e1c68f9434694f633899502c6);
 #endif
 
     // Put the previous frame back on top.
@@ -2136,18 +2136,18 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class$$$
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_48a2ee49c500bbac320a381d3d9cf93b);
+    RESTORE_FRAME_EXCEPTION(frame_bf4a144e1c68f9434694f633899502c6);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_48a2ee49c500bbac320a381d3d9cf93b, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_48a2ee49c500bbac320a381d3d9cf93b->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_48a2ee49c500bbac320a381d3d9cf93b, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_bf4a144e1c68f9434694f633899502c6, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_bf4a144e1c68f9434694f633899502c6->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_bf4a144e1c68f9434694f633899502c6, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_48a2ee49c500bbac320a381d3d9cf93b,
+        frame_bf4a144e1c68f9434694f633899502c6,
         type_description_1,
         par_self,
         par_args,
@@ -2160,17 +2160,17 @@ static PyObject *impl_dateutil$parser$$$function__2___deprecate_private_class$$$
 
 
     // Release cached frame if used for exception.
-    if (frame_48a2ee49c500bbac320a381d3d9cf93b == cache_frame_48a2ee49c500bbac320a381d3d9cf93b) {
+    if (frame_bf4a144e1c68f9434694f633899502c6 == cache_frame_bf4a144e1c68f9434694f633899502c6) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_48a2ee49c500bbac320a381d3d9cf93b);
-        cache_frame_48a2ee49c500bbac320a381d3d9cf93b = NULL;
+        Py_DECREF(cache_frame_bf4a144e1c68f9434694f633899502c6);
+        cache_frame_bf4a144e1c68f9434694f633899502c6 = NULL;
     }
 
-    assertFrameObject(frame_48a2ee49c500bbac320a381d3d9cf93b);
+    assertFrameObject(frame_bf4a144e1c68f9434694f633899502c6);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2250,11 +2250,11 @@ function_return_exit:
 static PyObject *MAKE_FUNCTION_dateutil$parser$$$function__1___deprecated_private_func() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_dateutil$parser$$$function__1___deprecated_private_func,
-        mod_consts[57],
+        mod_consts[62],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_a37627ff8e687203205d787a2e7fbf7b,
+        codeobj_dcd3e313e36b57b954cf5de619f8d575,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2279,7 +2279,7 @@ static PyObject *MAKE_FUNCTION_dateutil$parser$$$function__1___deprecated_privat
 #if PYTHON_VERSION >= 0x300
         mod_consts[11],
 #endif
-        codeobj_07d3f76c1289044d40df1b873086c29e,
+        codeobj_323f9b8b0f87767bdd526c991ab19096,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2300,11 +2300,11 @@ static PyObject *MAKE_FUNCTION_dateutil$parser$$$function__1___deprecated_privat
 static PyObject *MAKE_FUNCTION_dateutil$parser$$$function__2___deprecate_private_class() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_dateutil$parser$$$function__2___deprecate_private_class,
-        mod_consts[58],
+        mod_consts[63],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_efd7111c2496d6afa09d395a46ebc00b,
+        codeobj_4b921d1c86e13ce964e90a1ae888644d,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2329,7 +2329,7 @@ static PyObject *MAKE_FUNCTION_dateutil$parser$$$function__2___deprecate_private
 #if PYTHON_VERSION >= 0x300
         mod_consts[29],
 #endif
-        codeobj_48a2ee49c500bbac320a381d3d9cf93b,
+        codeobj_bf4a144e1c68f9434694f633899502c6,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2725,14 +2725,14 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
     PyObject *tmp_import_from_3__module = NULL;
     PyObject *tmp_import_from_4__module = NULL;
     PyObject *tmp_import_from_5__module = NULL;
-    struct Nuitka_FrameObject *frame_fb8f2a01ab22ca8703c4ae7188e24b14;
+    struct Nuitka_FrameObject *frame_6b16613a5ef14f5707cae4fa54bfce49;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
-    PyObject *tmp_dictset_value;
-    PyObject *tmp_dictset_dict;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
+    PyObject *tmp_dictset_value;
+    PyObject *tmp_dictset_dict;
     PyObject *tmp_dictset_key;
     int tmp_res;
     bool tmp_result;
@@ -2765,25 +2765,200 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[31];
-        UPDATE_STRING_DICT0(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[32], tmp_assign_source_2);
-    }
-    {
-        PyObject *tmp_assign_source_3;
-        tmp_assign_source_3 = LIST_COPY(mod_consts[33]);
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[34], tmp_assign_source_3);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[31], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_fb8f2a01ab22ca8703c4ae7188e24b14 = MAKE_MODULE_FRAME(codeobj_fb8f2a01ab22ca8703c4ae7188e24b14, module_dateutil$parser);
+    frame_6b16613a5ef14f5707cae4fa54bfce49 = MAKE_MODULE_FRAME(codeobj_6b16613a5ef14f5707cae4fa54bfce49, module_dateutil$parser);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_fb8f2a01ab22ca8703c4ae7188e24b14);
-    assert(Py_REFCNT(frame_fb8f2a01ab22ca8703c4ae7188e24b14) == 2);
+    pushFrameStack(frame_6b16613a5ef14f5707cae4fa54bfce49);
+    assert(Py_REFCNT(frame_6b16613a5ef14f5707cae4fa54bfce49) == 2);
 
     // Framed code:
     {
+        PyObject *tmp_assign_source_3;
+        PyObject *tmp_list_element_1;
+        PyObject *tmp_called_name_1;
         PyObject *tmp_expression_name_1;
+        PyObject *tmp_args_element_name_1;
+        frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 1;
+        {
+            PyObject *hard_module = IMPORT_HARD_OS();
+            tmp_expression_name_1 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[32]);
+        }
+
+        if (tmp_expression_name_1 == NULL) {
+            assert(ERROR_OCCURRED());
+
+            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+            exception_lineno = 1;
+
+            goto frame_exception_exit_1;
+        }
+        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_1, mod_consts[33]);
+        if (tmp_called_name_1 == NULL) {
+            assert(ERROR_OCCURRED());
+
+            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+            exception_lineno = 1;
+
+            goto frame_exception_exit_1;
+        }
+        tmp_args_element_name_1 = module_filename_obj;
+        frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 1;
+        tmp_list_element_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
+        Py_DECREF(tmp_called_name_1);
+        if (tmp_list_element_1 == NULL) {
+            assert(ERROR_OCCURRED());
+
+            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+            exception_lineno = 1;
+
+            goto frame_exception_exit_1;
+        }
+        tmp_assign_source_3 = PyList_New(3);
+        {
+            PyObject *tmp_called_name_2;
+            PyObject *tmp_expression_name_2;
+            PyObject *tmp_args_element_name_2;
+            PyObject *tmp_called_instance_1;
+            PyObject *tmp_args_element_name_3;
+            PyObject *tmp_called_instance_2;
+            PyList_SET_ITEM(tmp_assign_source_3, 0, tmp_list_element_1);
+            frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 1;
+            {
+                PyObject *hard_module = IMPORT_HARD_OS();
+                tmp_expression_name_2 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[32]);
+            }
+
+            if (tmp_expression_name_2 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            tmp_called_name_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_2, mod_consts[34]);
+            if (tmp_called_name_2 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 1;
+            {
+                PyObject *hard_module = IMPORT_HARD_OS();
+                tmp_called_instance_1 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[35]);
+            }
+
+            if (tmp_called_instance_1 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+                Py_DECREF(tmp_called_name_2);
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 1;
+            tmp_args_element_name_2 = CALL_METHOD_WITH_ARGS2(
+                tmp_called_instance_1,
+                mod_consts[36],
+                &PyTuple_GET_ITEM(mod_consts[37], 0)
+            );
+
+            if (tmp_args_element_name_2 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+                Py_DECREF(tmp_called_name_2);
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            tmp_args_element_name_3 = mod_consts[38];
+            frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 1;
+            {
+                PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
+                tmp_list_element_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
+            }
+
+            Py_DECREF(tmp_called_name_2);
+            Py_DECREF(tmp_args_element_name_2);
+            if (tmp_list_element_1 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            PyList_SET_ITEM(tmp_assign_source_3, 1, tmp_list_element_1);
+            frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 1;
+            {
+                PyObject *hard_module = IMPORT_HARD_OS();
+                tmp_called_instance_2 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[35]);
+            }
+
+            if (tmp_called_instance_2 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 1;
+            tmp_list_element_1 = CALL_METHOD_WITH_ARGS2(
+                tmp_called_instance_2,
+                mod_consts[36],
+                &PyTuple_GET_ITEM(mod_consts[39], 0)
+            );
+
+            if (tmp_list_element_1 == NULL) {
+                assert(ERROR_OCCURRED());
+
+                FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+                exception_lineno = 1;
+
+                goto list_build_exception_1;
+            }
+            PyList_SET_ITEM(tmp_assign_source_3, 2, tmp_list_element_1);
+        }
+        goto list_build_noexception_1;
+        // Exception handling pass through code for list_build:
+        list_build_exception_1:;
+        Py_DECREF(tmp_assign_source_3);
+        goto frame_exception_exit_1;
+        // Finished with no exception for list_build:
+        list_build_noexception_1:;
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[40], tmp_assign_source_3);
+    }
+    {
+        PyObject *tmp_expression_name_3;
         PyObject *tmp_subscript_name_1;
         tmp_dictset_value = Nuitka_Loader_New(module_entry);
         tmp_dictset_dict = PySys_GetObject((char *)"path_importer_cache");
@@ -2797,15 +2972,15 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto frame_exception_exit_1;
         }
-        tmp_expression_name_1 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[34]);
+        tmp_expression_name_3 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[40]);
 
-        if (unlikely(tmp_expression_name_1 == NULL)) {
-            tmp_expression_name_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
+        if (unlikely(tmp_expression_name_3 == NULL)) {
+            tmp_expression_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[40]);
         }
 
-        assert(!(tmp_expression_name_1 == NULL));
+        assert(!(tmp_expression_name_3 == NULL));
         tmp_subscript_name_1 = mod_consts[2];
-        tmp_dictset_key = LOOKUP_SUBSCRIPT_CONST(tmp_expression_name_1, tmp_subscript_name_1, 0);
+        tmp_dictset_key = LOOKUP_SUBSCRIPT_CONST(tmp_expression_name_3, tmp_subscript_name_1, 0);
         if (tmp_dictset_key == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -2832,15 +3007,15 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[31];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[35]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[41]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[41]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[36], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[42], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -2856,14 +3031,14 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[35]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[41]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[41]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[37], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[43], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -2878,10 +3053,10 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
     {
         PyObject *tmp_assattr_name_3;
         PyObject *tmp_assattr_target_3;
-        tmp_assattr_name_3 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[34]);
+        tmp_assattr_name_3 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[40]);
 
         if (unlikely(tmp_assattr_name_3 == NULL)) {
-            tmp_assattr_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
+            tmp_assattr_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[40]);
         }
 
         if (tmp_assattr_name_3 == NULL) {
@@ -2894,14 +3069,14 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto frame_exception_exit_1;
         }
-        tmp_assattr_target_3 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[35]);
+        tmp_assattr_target_3 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[41]);
 
         if (unlikely(tmp_assattr_target_3 == NULL)) {
-            tmp_assattr_target_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+            tmp_assattr_target_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[41]);
         }
 
         assert(!(tmp_assattr_target_3 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_3, mod_consts[38], tmp_assattr_name_3);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_3, mod_consts[44], tmp_assattr_name_3);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -2916,7 +3091,7 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
     {
         PyObject *tmp_assign_source_4;
         tmp_assign_source_4 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[39], tmp_assign_source_4);
+        UPDATE_STRING_DICT0(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[45], tmp_assign_source_4);
     }
     {
         PyObject *tmp_assign_source_5;
@@ -2925,12 +3100,12 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[40];
+        tmp_name_name_1 = mod_consts[46];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_dateutil$parser;
         tmp_locals_arg_name_1 = Py_None;
-        tmp_fromlist_name_1 = mod_consts[41];
-        tmp_level_name_1 = mod_consts[42];
-        frame_fb8f2a01ab22ca8703c4ae7188e24b14->m_frame.f_lineno = 2;
+        tmp_fromlist_name_1 = mod_consts[47];
+        tmp_level_name_1 = mod_consts[48];
+        frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 2;
         tmp_assign_source_5 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2955,11 +3130,11 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
             tmp_assign_source_6 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_1,
                 (PyObject *)moduledict_dateutil$parser,
-                mod_consts[43],
+                mod_consts[49],
                 mod_consts[2]
             );
         } else {
-            tmp_assign_source_6 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[43]);
+            tmp_assign_source_6 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[49]);
         }
 
         if (tmp_assign_source_6 == NULL) {
@@ -2972,7 +3147,7 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto try_except_handler_1;
         }
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[43], tmp_assign_source_6);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[49], tmp_assign_source_6);
     }
     {
         PyObject *tmp_assign_source_7;
@@ -2983,11 +3158,11 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
             tmp_assign_source_7 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_2,
                 (PyObject *)moduledict_dateutil$parser,
-                mod_consts[44],
+                mod_consts[38],
                 mod_consts[2]
             );
         } else {
-            tmp_assign_source_7 = IMPORT_NAME(tmp_import_name_from_2, mod_consts[44]);
+            tmp_assign_source_7 = IMPORT_NAME(tmp_import_name_from_2, mod_consts[38]);
         }
 
         if (tmp_assign_source_7 == NULL) {
@@ -3000,7 +3175,7 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto try_except_handler_1;
         }
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[44], tmp_assign_source_7);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[38], tmp_assign_source_7);
     }
     {
         PyObject *tmp_assign_source_8;
@@ -3011,11 +3186,11 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
             tmp_assign_source_8 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_3,
                 (PyObject *)moduledict_dateutil$parser,
-                mod_consts[45],
+                mod_consts[50],
                 mod_consts[2]
             );
         } else {
-            tmp_assign_source_8 = IMPORT_NAME(tmp_import_name_from_3, mod_consts[45]);
+            tmp_assign_source_8 = IMPORT_NAME(tmp_import_name_from_3, mod_consts[50]);
         }
 
         if (tmp_assign_source_8 == NULL) {
@@ -3028,7 +3203,7 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto try_except_handler_1;
         }
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[45], tmp_assign_source_8);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[50], tmp_assign_source_8);
     }
     goto try_end_1;
     // Exception handler code:
@@ -3064,12 +3239,12 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
         PyObject *tmp_locals_arg_name_2;
         PyObject *tmp_fromlist_name_2;
         PyObject *tmp_level_name_2;
-        tmp_name_name_2 = mod_consts[40];
+        tmp_name_name_2 = mod_consts[46];
         tmp_globals_arg_name_2 = (PyObject *)moduledict_dateutil$parser;
         tmp_locals_arg_name_2 = Py_None;
-        tmp_fromlist_name_2 = mod_consts[46];
-        tmp_level_name_2 = mod_consts[42];
-        frame_fb8f2a01ab22ca8703c4ae7188e24b14->m_frame.f_lineno = 3;
+        tmp_fromlist_name_2 = mod_consts[51];
+        tmp_level_name_2 = mod_consts[48];
+        frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 3;
         tmp_assign_source_9 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_assign_source_9 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3094,11 +3269,11 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
             tmp_assign_source_10 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_4,
                 (PyObject *)moduledict_dateutil$parser,
-                mod_consts[47],
+                mod_consts[52],
                 mod_consts[2]
             );
         } else {
-            tmp_assign_source_10 = IMPORT_NAME(tmp_import_name_from_4, mod_consts[47]);
+            tmp_assign_source_10 = IMPORT_NAME(tmp_import_name_from_4, mod_consts[52]);
         }
 
         if (tmp_assign_source_10 == NULL) {
@@ -3111,7 +3286,7 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto try_except_handler_2;
         }
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[47], tmp_assign_source_10);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[52], tmp_assign_source_10);
     }
     {
         PyObject *tmp_assign_source_11;
@@ -3122,11 +3297,11 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
             tmp_assign_source_11 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_5,
                 (PyObject *)moduledict_dateutil$parser,
-                mod_consts[48],
+                mod_consts[53],
                 mod_consts[2]
             );
         } else {
-            tmp_assign_source_11 = IMPORT_NAME(tmp_import_name_from_5, mod_consts[48]);
+            tmp_assign_source_11 = IMPORT_NAME(tmp_import_name_from_5, mod_consts[53]);
         }
 
         if (tmp_assign_source_11 == NULL) {
@@ -3139,7 +3314,7 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto try_except_handler_2;
         }
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[48], tmp_assign_source_11);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[53], tmp_assign_source_11);
     }
     goto try_end_2;
     // Exception handler code:
@@ -3176,12 +3351,12 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
         PyObject *tmp_locals_arg_name_3;
         PyObject *tmp_fromlist_name_3;
         PyObject *tmp_level_name_3;
-        tmp_name_name_3 = mod_consts[40];
+        tmp_name_name_3 = mod_consts[46];
         tmp_globals_arg_name_3 = (PyObject *)moduledict_dateutil$parser;
         tmp_locals_arg_name_3 = Py_None;
-        tmp_fromlist_name_3 = mod_consts[49];
-        tmp_level_name_3 = mod_consts[42];
-        frame_fb8f2a01ab22ca8703c4ae7188e24b14->m_frame.f_lineno = 4;
+        tmp_fromlist_name_3 = mod_consts[54];
+        tmp_level_name_3 = mod_consts[48];
+        frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 4;
         tmp_import_name_from_6 = IMPORT_MODULE5(tmp_name_name_3, tmp_globals_arg_name_3, tmp_locals_arg_name_3, tmp_fromlist_name_3, tmp_level_name_3);
         if (tmp_import_name_from_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3197,11 +3372,11 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
             tmp_assign_source_12 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_6,
                 (PyObject *)moduledict_dateutil$parser,
-                mod_consts[50],
+                mod_consts[55],
                 mod_consts[2]
             );
         } else {
-            tmp_assign_source_12 = IMPORT_NAME(tmp_import_name_from_6, mod_consts[50]);
+            tmp_assign_source_12 = IMPORT_NAME(tmp_import_name_from_6, mod_consts[55]);
         }
 
         Py_DECREF(tmp_import_name_from_6);
@@ -3215,7 +3390,7 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[50], tmp_assign_source_12);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[55], tmp_assign_source_12);
     }
     {
         PyObject *tmp_assign_source_13;
@@ -3225,12 +3400,12 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
         PyObject *tmp_locals_arg_name_4;
         PyObject *tmp_fromlist_name_4;
         PyObject *tmp_level_name_4;
-        tmp_name_name_4 = mod_consts[40];
+        tmp_name_name_4 = mod_consts[46];
         tmp_globals_arg_name_4 = (PyObject *)moduledict_dateutil$parser;
         tmp_locals_arg_name_4 = Py_None;
-        tmp_fromlist_name_4 = mod_consts[51];
-        tmp_level_name_4 = mod_consts[42];
-        frame_fb8f2a01ab22ca8703c4ae7188e24b14->m_frame.f_lineno = 6;
+        tmp_fromlist_name_4 = mod_consts[56];
+        tmp_level_name_4 = mod_consts[48];
+        frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 6;
         tmp_import_name_from_7 = IMPORT_MODULE5(tmp_name_name_4, tmp_globals_arg_name_4, tmp_locals_arg_name_4, tmp_fromlist_name_4, tmp_level_name_4);
         if (tmp_import_name_from_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3273,12 +3448,12 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
         PyObject *tmp_locals_arg_name_5;
         PyObject *tmp_fromlist_name_5;
         PyObject *tmp_level_name_5;
-        tmp_name_name_5 = mod_consts[52];
+        tmp_name_name_5 = mod_consts[57];
         tmp_globals_arg_name_5 = (PyObject *)moduledict_dateutil$parser;
         tmp_locals_arg_name_5 = Py_None;
-        tmp_fromlist_name_5 = mod_consts[53];
-        tmp_level_name_5 = mod_consts[42];
-        frame_fb8f2a01ab22ca8703c4ae7188e24b14->m_frame.f_lineno = 8;
+        tmp_fromlist_name_5 = mod_consts[58];
+        tmp_level_name_5 = mod_consts[48];
+        frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 8;
         tmp_assign_source_14 = IMPORT_MODULE5(tmp_name_name_5, tmp_globals_arg_name_5, tmp_locals_arg_name_5, tmp_fromlist_name_5, tmp_level_name_5);
         if (tmp_assign_source_14 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3303,11 +3478,11 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
             tmp_assign_source_15 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_8,
                 (PyObject *)moduledict_dateutil$parser,
-                mod_consts[52],
+                mod_consts[57],
                 mod_consts[2]
             );
         } else {
-            tmp_assign_source_15 = IMPORT_NAME(tmp_import_name_from_8, mod_consts[52]);
+            tmp_assign_source_15 = IMPORT_NAME(tmp_import_name_from_8, mod_consts[57]);
         }
 
         if (tmp_assign_source_15 == NULL) {
@@ -3320,7 +3495,7 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto try_except_handler_3;
         }
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[52], tmp_assign_source_15);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[57], tmp_assign_source_15);
     }
     {
         PyObject *tmp_assign_source_16;
@@ -3331,11 +3506,11 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
             tmp_assign_source_16 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_9,
                 (PyObject *)moduledict_dateutil$parser,
-                mod_consts[54],
+                mod_consts[59],
                 mod_consts[2]
             );
         } else {
-            tmp_assign_source_16 = IMPORT_NAME(tmp_import_name_from_9, mod_consts[54]);
+            tmp_assign_source_16 = IMPORT_NAME(tmp_import_name_from_9, mod_consts[59]);
         }
 
         if (tmp_assign_source_16 == NULL) {
@@ -3348,7 +3523,7 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto try_except_handler_3;
         }
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[54], tmp_assign_source_16);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[59], tmp_assign_source_16);
     }
     goto try_end_3;
     // Exception handler code:
@@ -3379,8 +3554,8 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
     tmp_import_from_3__module = NULL;
     {
         PyObject *tmp_assign_source_17;
-        tmp_assign_source_17 = LIST_COPY(mod_consts[55]);
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[56], tmp_assign_source_17);
+        tmp_assign_source_17 = LIST_COPY(mod_consts[60]);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[61], tmp_assign_source_17);
     }
     {
         PyObject *tmp_assign_source_18;
@@ -3388,7 +3563,7 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
         tmp_assign_source_18 = MAKE_FUNCTION_dateutil$parser$$$function__1___deprecated_private_func();
 
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[57], tmp_assign_source_18);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[62], tmp_assign_source_18);
     }
     {
         PyObject *tmp_assign_source_19;
@@ -3396,7 +3571,7 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
         tmp_assign_source_19 = MAKE_FUNCTION_dateutil$parser$$$function__2___deprecate_private_class();
 
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[58], tmp_assign_source_19);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[63], tmp_assign_source_19);
     }
     {
         PyObject *tmp_assign_source_20;
@@ -3405,12 +3580,12 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
         PyObject *tmp_locals_arg_name_6;
         PyObject *tmp_fromlist_name_6;
         PyObject *tmp_level_name_6;
-        tmp_name_name_6 = mod_consts[40];
+        tmp_name_name_6 = mod_consts[46];
         tmp_globals_arg_name_6 = (PyObject *)moduledict_dateutil$parser;
         tmp_locals_arg_name_6 = Py_None;
-        tmp_fromlist_name_6 = mod_consts[59];
-        tmp_level_name_6 = mod_consts[42];
-        frame_fb8f2a01ab22ca8703c4ae7188e24b14->m_frame.f_lineno = 54;
+        tmp_fromlist_name_6 = mod_consts[64];
+        tmp_level_name_6 = mod_consts[48];
+        frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 54;
         tmp_assign_source_20 = IMPORT_MODULE5(tmp_name_name_6, tmp_globals_arg_name_6, tmp_locals_arg_name_6, tmp_fromlist_name_6, tmp_level_name_6);
         if (tmp_assign_source_20 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3435,11 +3610,11 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
             tmp_assign_source_21 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_10,
                 (PyObject *)moduledict_dateutil$parser,
-                mod_consts[60],
+                mod_consts[65],
                 mod_consts[2]
             );
         } else {
-            tmp_assign_source_21 = IMPORT_NAME(tmp_import_name_from_10, mod_consts[60]);
+            tmp_assign_source_21 = IMPORT_NAME(tmp_import_name_from_10, mod_consts[65]);
         }
 
         if (tmp_assign_source_21 == NULL) {
@@ -3452,7 +3627,7 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto try_except_handler_4;
         }
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[60], tmp_assign_source_21);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[65], tmp_assign_source_21);
     }
     {
         PyObject *tmp_assign_source_22;
@@ -3463,11 +3638,11 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
             tmp_assign_source_22 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_11,
                 (PyObject *)moduledict_dateutil$parser,
-                mod_consts[61],
+                mod_consts[66],
                 mod_consts[2]
             );
         } else {
-            tmp_assign_source_22 = IMPORT_NAME(tmp_import_name_from_11, mod_consts[61]);
+            tmp_assign_source_22 = IMPORT_NAME(tmp_import_name_from_11, mod_consts[66]);
         }
 
         if (tmp_assign_source_22 == NULL) {
@@ -3480,7 +3655,7 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto try_except_handler_4;
         }
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[61], tmp_assign_source_22);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[66], tmp_assign_source_22);
     }
     goto try_end_4;
     // Exception handler code:
@@ -3516,12 +3691,12 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
         PyObject *tmp_locals_arg_name_7;
         PyObject *tmp_fromlist_name_7;
         PyObject *tmp_level_name_7;
-        tmp_name_name_7 = mod_consts[40];
+        tmp_name_name_7 = mod_consts[46];
         tmp_globals_arg_name_7 = (PyObject *)moduledict_dateutil$parser;
         tmp_locals_arg_name_7 = Py_None;
-        tmp_fromlist_name_7 = mod_consts[62];
-        tmp_level_name_7 = mod_consts[42];
-        frame_fb8f2a01ab22ca8703c4ae7188e24b14->m_frame.f_lineno = 55;
+        tmp_fromlist_name_7 = mod_consts[67];
+        tmp_level_name_7 = mod_consts[48];
+        frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 55;
         tmp_assign_source_23 = IMPORT_MODULE5(tmp_name_name_7, tmp_globals_arg_name_7, tmp_locals_arg_name_7, tmp_fromlist_name_7, tmp_level_name_7);
         if (tmp_assign_source_23 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3546,11 +3721,11 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
             tmp_assign_source_24 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_12,
                 (PyObject *)moduledict_dateutil$parser,
-                mod_consts[63],
+                mod_consts[68],
                 mod_consts[2]
             );
         } else {
-            tmp_assign_source_24 = IMPORT_NAME(tmp_import_name_from_12, mod_consts[63]);
+            tmp_assign_source_24 = IMPORT_NAME(tmp_import_name_from_12, mod_consts[68]);
         }
 
         if (tmp_assign_source_24 == NULL) {
@@ -3563,7 +3738,7 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto try_except_handler_5;
         }
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[63], tmp_assign_source_24);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[68], tmp_assign_source_24);
     }
     {
         PyObject *tmp_assign_source_25;
@@ -3574,11 +3749,11 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
             tmp_assign_source_25 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_13,
                 (PyObject *)moduledict_dateutil$parser,
-                mod_consts[64],
+                mod_consts[69],
                 mod_consts[2]
             );
         } else {
-            tmp_assign_source_25 = IMPORT_NAME(tmp_import_name_from_13, mod_consts[64]);
+            tmp_assign_source_25 = IMPORT_NAME(tmp_import_name_from_13, mod_consts[69]);
         }
 
         if (tmp_assign_source_25 == NULL) {
@@ -3591,7 +3766,7 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto try_except_handler_5;
         }
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[64], tmp_assign_source_25);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[69], tmp_assign_source_25);
     }
     goto try_end_5;
     // Exception handler code:
@@ -3622,15 +3797,15 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
     tmp_import_from_5__module = NULL;
     {
         PyObject *tmp_assign_source_26;
-        PyObject *tmp_called_name_1;
-        PyObject *tmp_args_element_name_1;
-        tmp_called_name_1 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[58]);
+        PyObject *tmp_called_name_3;
+        PyObject *tmp_args_element_name_4;
+        tmp_called_name_3 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[63]);
 
-        if (unlikely(tmp_called_name_1 == NULL)) {
-            tmp_called_name_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[58]);
+        if (unlikely(tmp_called_name_3 == NULL)) {
+            tmp_called_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[63]);
         }
 
-        if (tmp_called_name_1 == NULL) {
+        if (tmp_called_name_3 == NULL) {
             assert(ERROR_OCCURRED());
 
             FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
@@ -3640,13 +3815,13 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto frame_exception_exit_1;
         }
-        tmp_args_element_name_1 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[60]);
+        tmp_args_element_name_4 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[65]);
 
-        if (unlikely(tmp_args_element_name_1 == NULL)) {
-            tmp_args_element_name_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[60]);
+        if (unlikely(tmp_args_element_name_4 == NULL)) {
+            tmp_args_element_name_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[65]);
         }
 
-        if (tmp_args_element_name_1 == NULL) {
+        if (tmp_args_element_name_4 == NULL) {
             assert(ERROR_OCCURRED());
 
             FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
@@ -3656,8 +3831,8 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto frame_exception_exit_1;
         }
-        frame_fb8f2a01ab22ca8703c4ae7188e24b14->m_frame.f_lineno = 57;
-        tmp_assign_source_26 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
+        frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 57;
+        tmp_assign_source_26 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_4);
         if (tmp_assign_source_26 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -3668,19 +3843,19 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[60], tmp_assign_source_26);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[65], tmp_assign_source_26);
     }
     {
         PyObject *tmp_assign_source_27;
-        PyObject *tmp_called_name_2;
-        PyObject *tmp_args_element_name_2;
-        tmp_called_name_2 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[58]);
+        PyObject *tmp_called_name_4;
+        PyObject *tmp_args_element_name_5;
+        tmp_called_name_4 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[63]);
 
-        if (unlikely(tmp_called_name_2 == NULL)) {
-            tmp_called_name_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[58]);
+        if (unlikely(tmp_called_name_4 == NULL)) {
+            tmp_called_name_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[63]);
         }
 
-        if (tmp_called_name_2 == NULL) {
+        if (tmp_called_name_4 == NULL) {
             assert(ERROR_OCCURRED());
 
             FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
@@ -3690,13 +3865,13 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto frame_exception_exit_1;
         }
-        tmp_args_element_name_2 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[63]);
+        tmp_args_element_name_5 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[68]);
 
-        if (unlikely(tmp_args_element_name_2 == NULL)) {
-            tmp_args_element_name_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[63]);
+        if (unlikely(tmp_args_element_name_5 == NULL)) {
+            tmp_args_element_name_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[68]);
         }
 
-        if (tmp_args_element_name_2 == NULL) {
+        if (tmp_args_element_name_5 == NULL) {
             assert(ERROR_OCCURRED());
 
             FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
@@ -3706,8 +3881,8 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto frame_exception_exit_1;
         }
-        frame_fb8f2a01ab22ca8703c4ae7188e24b14->m_frame.f_lineno = 58;
-        tmp_assign_source_27 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
+        frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 58;
+        tmp_assign_source_27 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_5);
         if (tmp_assign_source_27 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -3718,19 +3893,19 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[63], tmp_assign_source_27);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[68], tmp_assign_source_27);
     }
     {
         PyObject *tmp_assign_source_28;
-        PyObject *tmp_called_name_3;
-        PyObject *tmp_args_element_name_3;
-        tmp_called_name_3 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[58]);
+        PyObject *tmp_called_name_5;
+        PyObject *tmp_args_element_name_6;
+        tmp_called_name_5 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[63]);
 
-        if (unlikely(tmp_called_name_3 == NULL)) {
-            tmp_called_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[58]);
+        if (unlikely(tmp_called_name_5 == NULL)) {
+            tmp_called_name_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[63]);
         }
 
-        if (tmp_called_name_3 == NULL) {
+        if (tmp_called_name_5 == NULL) {
             assert(ERROR_OCCURRED());
 
             FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
@@ -3740,13 +3915,13 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto frame_exception_exit_1;
         }
-        tmp_args_element_name_3 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[61]);
+        tmp_args_element_name_6 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[66]);
 
-        if (unlikely(tmp_args_element_name_3 == NULL)) {
-            tmp_args_element_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[61]);
+        if (unlikely(tmp_args_element_name_6 == NULL)) {
+            tmp_args_element_name_6 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[66]);
         }
 
-        if (tmp_args_element_name_3 == NULL) {
+        if (tmp_args_element_name_6 == NULL) {
             assert(ERROR_OCCURRED());
 
             FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
@@ -3756,8 +3931,8 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto frame_exception_exit_1;
         }
-        frame_fb8f2a01ab22ca8703c4ae7188e24b14->m_frame.f_lineno = 59;
-        tmp_assign_source_28 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
+        frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 59;
+        tmp_assign_source_28 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_6);
         if (tmp_assign_source_28 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -3768,19 +3943,19 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[61], tmp_assign_source_28);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[66], tmp_assign_source_28);
     }
     {
         PyObject *tmp_assign_source_29;
-        PyObject *tmp_called_name_4;
-        PyObject *tmp_args_element_name_4;
-        tmp_called_name_4 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[57]);
+        PyObject *tmp_called_name_6;
+        PyObject *tmp_args_element_name_7;
+        tmp_called_name_6 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[62]);
 
-        if (unlikely(tmp_called_name_4 == NULL)) {
-            tmp_called_name_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[57]);
+        if (unlikely(tmp_called_name_6 == NULL)) {
+            tmp_called_name_6 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[62]);
         }
 
-        if (tmp_called_name_4 == NULL) {
+        if (tmp_called_name_6 == NULL) {
             assert(ERROR_OCCURRED());
 
             FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
@@ -3790,13 +3965,13 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto frame_exception_exit_1;
         }
-        tmp_args_element_name_4 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[64]);
+        tmp_args_element_name_7 = GET_STRING_DICT_VALUE(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[69]);
 
-        if (unlikely(tmp_args_element_name_4 == NULL)) {
-            tmp_args_element_name_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[64]);
+        if (unlikely(tmp_args_element_name_7 == NULL)) {
+            tmp_args_element_name_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[69]);
         }
 
-        if (tmp_args_element_name_4 == NULL) {
+        if (tmp_args_element_name_7 == NULL) {
             assert(ERROR_OCCURRED());
 
             FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
@@ -3806,8 +3981,8 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto frame_exception_exit_1;
         }
-        frame_fb8f2a01ab22ca8703c4ae7188e24b14->m_frame.f_lineno = 60;
-        tmp_assign_source_29 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_4);
+        frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame.f_lineno = 60;
+        tmp_assign_source_29 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_7);
         if (tmp_assign_source_29 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -3818,28 +3993,28 @@ PyObject *modulecode_dateutil$parser(PyObject *module, struct Nuitka_MetaPathBas
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[64], tmp_assign_source_29);
+        UPDATE_STRING_DICT1(moduledict_dateutil$parser, (Nuitka_StringObject *)mod_consts[69], tmp_assign_source_29);
     }
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_fb8f2a01ab22ca8703c4ae7188e24b14);
+    RESTORE_FRAME_EXCEPTION(frame_6b16613a5ef14f5707cae4fa54bfce49);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_fb8f2a01ab22ca8703c4ae7188e24b14);
+    assertFrameObject(frame_6b16613a5ef14f5707cae4fa54bfce49);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_fb8f2a01ab22ca8703c4ae7188e24b14);
+    RESTORE_FRAME_EXCEPTION(frame_6b16613a5ef14f5707cae4fa54bfce49);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_fb8f2a01ab22ca8703c4ae7188e24b14, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_fb8f2a01ab22ca8703c4ae7188e24b14->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_fb8f2a01ab22ca8703c4ae7188e24b14, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_6b16613a5ef14f5707cae4fa54bfce49, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_6b16613a5ef14f5707cae4fa54bfce49->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_6b16613a5ef14f5707cae4fa54bfce49, exception_lineno);
     }
 
     // Put the previous frame back on top.

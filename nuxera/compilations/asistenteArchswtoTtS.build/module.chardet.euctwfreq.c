@@ -65,11 +65,11 @@ void checkModuleConstants_chardet$euctwfreq(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_c7f3029583f7b7e41968623fd2dcc19d;
+static PyCodeObject *codeobj_a17a2040f6de3128ee3addae78ba44ad;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[1]; CHECK_OBJECT(module_filename_obj);
-    codeobj_c7f3029583f7b7e41968623fd2dcc19d = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[13], NULL, NULL, 0, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[12]); CHECK_OBJECT(module_filename_obj);
+    codeobj_a17a2040f6de3128ee3addae78ba44ad = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[13], NULL, NULL, 0, 0, 0);
 }
 
 // The module function declarations.
@@ -449,7 +449,7 @@ PyObject *modulecode_chardet$euctwfreq(PyObject *module, struct Nuitka_MetaPathB
 #endif
 
     // Temp variables if any
-    struct Nuitka_FrameObject *frame_c7f3029583f7b7e41968623fd2dcc19d;
+    struct Nuitka_FrameObject *frame_a17a2040f6de3128ee3addae78ba44ad;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -465,30 +465,30 @@ PyObject *modulecode_chardet$euctwfreq(PyObject *module, struct Nuitka_MetaPathB
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[1];
-        UPDATE_STRING_DICT0(moduledict_chardet$euctwfreq, (Nuitka_StringObject *)mod_consts[2], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_chardet$euctwfreq, (Nuitka_StringObject *)mod_consts[1], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_c7f3029583f7b7e41968623fd2dcc19d = MAKE_MODULE_FRAME(codeobj_c7f3029583f7b7e41968623fd2dcc19d, module_chardet$euctwfreq);
+    frame_a17a2040f6de3128ee3addae78ba44ad = MAKE_MODULE_FRAME(codeobj_a17a2040f6de3128ee3addae78ba44ad, module_chardet$euctwfreq);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_c7f3029583f7b7e41968623fd2dcc19d);
-    assert(Py_REFCNT(frame_c7f3029583f7b7e41968623fd2dcc19d) == 2);
+    pushFrameStack(frame_a17a2040f6de3128ee3addae78ba44ad);
+    assert(Py_REFCNT(frame_a17a2040f6de3128ee3addae78ba44ad) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[1];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_chardet$euctwfreq, (Nuitka_StringObject *)mod_consts[3]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_chardet$euctwfreq, (Nuitka_StringObject *)mod_consts[2]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[2]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[4], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[3], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -504,14 +504,14 @@ PyObject *modulecode_chardet$euctwfreq(PyObject *module, struct Nuitka_MetaPathB
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_chardet$euctwfreq, (Nuitka_StringObject *)mod_consts[3]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_chardet$euctwfreq, (Nuitka_StringObject *)mod_consts[2]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[2]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[5], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[4], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -526,23 +526,23 @@ PyObject *modulecode_chardet$euctwfreq(PyObject *module, struct Nuitka_MetaPathB
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c7f3029583f7b7e41968623fd2dcc19d);
+    RESTORE_FRAME_EXCEPTION(frame_a17a2040f6de3128ee3addae78ba44ad);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_c7f3029583f7b7e41968623fd2dcc19d);
+    assertFrameObject(frame_a17a2040f6de3128ee3addae78ba44ad);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c7f3029583f7b7e41968623fd2dcc19d);
+    RESTORE_FRAME_EXCEPTION(frame_a17a2040f6de3128ee3addae78ba44ad);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_c7f3029583f7b7e41968623fd2dcc19d, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_c7f3029583f7b7e41968623fd2dcc19d->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_c7f3029583f7b7e41968623fd2dcc19d, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_a17a2040f6de3128ee3addae78ba44ad, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_a17a2040f6de3128ee3addae78ba44ad->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_a17a2040f6de3128ee3addae78ba44ad, exception_lineno);
     }
 
     // Put the previous frame back on top.
@@ -555,22 +555,22 @@ PyObject *modulecode_chardet$euctwfreq(PyObject *module, struct Nuitka_MetaPathB
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_chardet$euctwfreq, (Nuitka_StringObject *)mod_consts[6], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_chardet$euctwfreq, (Nuitka_StringObject *)mod_consts[5], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
-        tmp_assign_source_4 = mod_consts[7];
-        UPDATE_STRING_DICT0(moduledict_chardet$euctwfreq, (Nuitka_StringObject *)mod_consts[8], tmp_assign_source_4);
+        tmp_assign_source_4 = mod_consts[6];
+        UPDATE_STRING_DICT0(moduledict_chardet$euctwfreq, (Nuitka_StringObject *)mod_consts[7], tmp_assign_source_4);
     }
     {
         PyObject *tmp_assign_source_5;
-        tmp_assign_source_5 = mod_consts[9];
-        UPDATE_STRING_DICT0(moduledict_chardet$euctwfreq, (Nuitka_StringObject *)mod_consts[10], tmp_assign_source_5);
+        tmp_assign_source_5 = mod_consts[8];
+        UPDATE_STRING_DICT0(moduledict_chardet$euctwfreq, (Nuitka_StringObject *)mod_consts[9], tmp_assign_source_5);
     }
     {
         PyObject *tmp_assign_source_6;
-        tmp_assign_source_6 = mod_consts[11];
-        UPDATE_STRING_DICT0(moduledict_chardet$euctwfreq, (Nuitka_StringObject *)mod_consts[12], tmp_assign_source_6);
+        tmp_assign_source_6 = mod_consts[10];
+        UPDATE_STRING_DICT0(moduledict_chardet$euctwfreq, (Nuitka_StringObject *)mod_consts[11], tmp_assign_source_6);
     }
 
     return module_chardet$euctwfreq;

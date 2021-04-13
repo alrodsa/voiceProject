@@ -65,11 +65,11 @@ void checkModuleConstants_cryptography$hazmat$_types(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_04519ee15101a3a1979a667a57f3da25;
+static PyCodeObject *codeobj_da29fe26a430b6a21bb8ddbed67f5114;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[1]; CHECK_OBJECT(module_filename_obj);
-    codeobj_04519ee15101a3a1979a667a57f3da25 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[29], NULL, NULL, 0, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[28]); CHECK_OBJECT(module_filename_obj);
+    codeobj_da29fe26a430b6a21bb8ddbed67f5114 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[29], NULL, NULL, 0, 0, 0);
 }
 
 // The module function declarations.
@@ -450,7 +450,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
     // Temp variables if any
     PyObject *tmp_import_from_1__module = NULL;
-    struct Nuitka_FrameObject *frame_04519ee15101a3a1979a667a57f3da25;
+    struct Nuitka_FrameObject *frame_da29fe26a430b6a21bb8ddbed67f5114;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -470,30 +470,30 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[1];
-        UPDATE_STRING_DICT0(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[2], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[1], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_04519ee15101a3a1979a667a57f3da25 = MAKE_MODULE_FRAME(codeobj_04519ee15101a3a1979a667a57f3da25, module_cryptography$hazmat$_types);
+    frame_da29fe26a430b6a21bb8ddbed67f5114 = MAKE_MODULE_FRAME(codeobj_da29fe26a430b6a21bb8ddbed67f5114, module_cryptography$hazmat$_types);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_04519ee15101a3a1979a667a57f3da25);
-    assert(Py_REFCNT(frame_04519ee15101a3a1979a667a57f3da25) == 2);
+    pushFrameStack(frame_da29fe26a430b6a21bb8ddbed67f5114);
+    assert(Py_REFCNT(frame_da29fe26a430b6a21bb8ddbed67f5114) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[1];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[3]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[2]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[2]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[4], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[3], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -509,14 +509,14 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[3]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[2]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[2]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[5], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[4], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -531,7 +531,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[6], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[5], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -540,12 +540,12 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[7];
+        tmp_name_name_1 = mod_consts[6];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_cryptography$hazmat$_types;
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = Py_None;
-        tmp_level_name_1 = mod_consts[8];
-        frame_04519ee15101a3a1979a667a57f3da25->m_frame.f_lineno = 5;
+        tmp_level_name_1 = mod_consts[7];
+        frame_da29fe26a430b6a21bb8ddbed67f5114->m_frame.f_lineno = 5;
         tmp_assign_source_4 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -557,7 +557,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[7], tmp_assign_source_4);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[6], tmp_assign_source_4);
     }
     {
         PyObject *tmp_assign_source_5;
@@ -566,12 +566,12 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_2;
         PyObject *tmp_fromlist_name_2;
         PyObject *tmp_level_name_2;
-        tmp_name_name_2 = mod_consts[9];
+        tmp_name_name_2 = mod_consts[8];
         tmp_globals_arg_name_2 = (PyObject *)moduledict_cryptography$hazmat$_types;
         tmp_locals_arg_name_2 = Py_None;
-        tmp_fromlist_name_2 = mod_consts[10];
-        tmp_level_name_2 = mod_consts[8];
-        frame_04519ee15101a3a1979a667a57f3da25->m_frame.f_lineno = 7;
+        tmp_fromlist_name_2 = mod_consts[9];
+        tmp_level_name_2 = mod_consts[7];
+        frame_da29fe26a430b6a21bb8ddbed67f5114->m_frame.f_lineno = 7;
         tmp_assign_source_5 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_assign_source_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -596,11 +596,11 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
             tmp_assign_source_6 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_1,
                 (PyObject *)moduledict_cryptography$hazmat$_types,
-                mod_consts[11],
-                mod_consts[8]
+                mod_consts[10],
+                mod_consts[7]
             );
         } else {
-            tmp_assign_source_6 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[11]);
+            tmp_assign_source_6 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[10]);
         }
 
         if (tmp_assign_source_6 == NULL) {
@@ -613,7 +613,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
             goto try_except_handler_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[11], tmp_assign_source_6);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[10], tmp_assign_source_6);
     }
     {
         PyObject *tmp_assign_source_7;
@@ -624,11 +624,11 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
             tmp_assign_source_7 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_2,
                 (PyObject *)moduledict_cryptography$hazmat$_types,
-                mod_consts[12],
-                mod_consts[8]
+                mod_consts[11],
+                mod_consts[7]
             );
         } else {
-            tmp_assign_source_7 = IMPORT_NAME(tmp_import_name_from_2, mod_consts[12]);
+            tmp_assign_source_7 = IMPORT_NAME(tmp_import_name_from_2, mod_consts[11]);
         }
 
         if (tmp_assign_source_7 == NULL) {
@@ -641,7 +641,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
             goto try_except_handler_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[12], tmp_assign_source_7);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[11], tmp_assign_source_7);
     }
     {
         PyObject *tmp_assign_source_8;
@@ -652,11 +652,11 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
             tmp_assign_source_8 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_3,
                 (PyObject *)moduledict_cryptography$hazmat$_types,
-                mod_consts[13],
-                mod_consts[8]
+                mod_consts[12],
+                mod_consts[7]
             );
         } else {
-            tmp_assign_source_8 = IMPORT_NAME(tmp_import_name_from_3, mod_consts[13]);
+            tmp_assign_source_8 = IMPORT_NAME(tmp_import_name_from_3, mod_consts[12]);
         }
 
         if (tmp_assign_source_8 == NULL) {
@@ -669,7 +669,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
             goto try_except_handler_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[13], tmp_assign_source_8);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[12], tmp_assign_source_8);
     }
     {
         PyObject *tmp_assign_source_9;
@@ -680,11 +680,11 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
             tmp_assign_source_9 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_4,
                 (PyObject *)moduledict_cryptography$hazmat$_types,
-                mod_consts[14],
-                mod_consts[8]
+                mod_consts[13],
+                mod_consts[7]
             );
         } else {
-            tmp_assign_source_9 = IMPORT_NAME(tmp_import_name_from_4, mod_consts[14]);
+            tmp_assign_source_9 = IMPORT_NAME(tmp_import_name_from_4, mod_consts[13]);
         }
 
         if (tmp_assign_source_9 == NULL) {
@@ -697,7 +697,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
             goto try_except_handler_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[14], tmp_assign_source_9);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[13], tmp_assign_source_9);
     }
     {
         PyObject *tmp_assign_source_10;
@@ -708,11 +708,11 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
             tmp_assign_source_10 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_5,
                 (PyObject *)moduledict_cryptography$hazmat$_types,
-                mod_consts[15],
-                mod_consts[8]
+                mod_consts[14],
+                mod_consts[7]
             );
         } else {
-            tmp_assign_source_10 = IMPORT_NAME(tmp_import_name_from_5, mod_consts[15]);
+            tmp_assign_source_10 = IMPORT_NAME(tmp_import_name_from_5, mod_consts[14]);
         }
 
         if (tmp_assign_source_10 == NULL) {
@@ -725,7 +725,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
             goto try_except_handler_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[15], tmp_assign_source_10);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[14], tmp_assign_source_10);
     }
     goto try_end_1;
     // Exception handler code:
@@ -761,10 +761,10 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
         PyObject *tmp_subscript_name_1;
         PyObject *tmp_tuple_element_1;
         PyObject *tmp_expression_name_3;
-        tmp_expression_name_2 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[7]);
+        tmp_expression_name_2 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[6]);
 
         if (unlikely(tmp_expression_name_2 == NULL)) {
-            tmp_expression_name_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[7]);
+            tmp_expression_name_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[6]);
         }
 
         if (tmp_expression_name_2 == NULL) {
@@ -777,7 +777,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        tmp_expression_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_2, mod_consts[16]);
+        tmp_expression_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_2, mod_consts[15]);
         if (tmp_expression_name_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -788,10 +788,10 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        tmp_expression_name_3 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[11]);
+        tmp_expression_name_3 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[10]);
 
         if (unlikely(tmp_expression_name_3 == NULL)) {
-            tmp_expression_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[11]);
+            tmp_expression_name_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[10]);
         }
 
         if (tmp_expression_name_3 == NULL) {
@@ -804,7 +804,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[17]);
+        tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[16]);
         if (tmp_tuple_element_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -822,10 +822,10 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_6;
             PyObject *tmp_expression_name_7;
             PyTuple_SET_ITEM(tmp_subscript_name_1, 0, tmp_tuple_element_1);
-            tmp_expression_name_4 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[15]);
+            tmp_expression_name_4 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[14]);
 
             if (unlikely(tmp_expression_name_4 == NULL)) {
-                tmp_expression_name_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[15]);
+                tmp_expression_name_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[14]);
             }
 
             if (tmp_expression_name_4 == NULL) {
@@ -838,7 +838,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
                 goto tuple_build_exception_1;
             }
-            tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_4, mod_consts[18]);
+            tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_4, mod_consts[17]);
             if (tmp_tuple_element_1 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -850,10 +850,10 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
                 goto tuple_build_exception_1;
             }
             PyTuple_SET_ITEM(tmp_subscript_name_1, 1, tmp_tuple_element_1);
-            tmp_expression_name_5 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[12]);
+            tmp_expression_name_5 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[11]);
 
             if (unlikely(tmp_expression_name_5 == NULL)) {
-                tmp_expression_name_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[12]);
+                tmp_expression_name_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[11]);
             }
 
             if (tmp_expression_name_5 == NULL) {
@@ -866,7 +866,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
                 goto tuple_build_exception_1;
             }
-            tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_5, mod_consts[19]);
+            tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_5, mod_consts[18]);
             if (tmp_tuple_element_1 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -878,10 +878,10 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
                 goto tuple_build_exception_1;
             }
             PyTuple_SET_ITEM(tmp_subscript_name_1, 2, tmp_tuple_element_1);
-            tmp_expression_name_6 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[13]);
+            tmp_expression_name_6 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[12]);
 
             if (unlikely(tmp_expression_name_6 == NULL)) {
-                tmp_expression_name_6 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[13]);
+                tmp_expression_name_6 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[12]);
             }
 
             if (tmp_expression_name_6 == NULL) {
@@ -894,7 +894,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
                 goto tuple_build_exception_1;
             }
-            tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_6, mod_consts[20]);
+            tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_6, mod_consts[19]);
             if (tmp_tuple_element_1 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -906,10 +906,10 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
                 goto tuple_build_exception_1;
             }
             PyTuple_SET_ITEM(tmp_subscript_name_1, 3, tmp_tuple_element_1);
-            tmp_expression_name_7 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[14]);
+            tmp_expression_name_7 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[13]);
 
             if (unlikely(tmp_expression_name_7 == NULL)) {
-                tmp_expression_name_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[14]);
+                tmp_expression_name_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[13]);
             }
 
             if (tmp_expression_name_7 == NULL) {
@@ -922,7 +922,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
                 goto tuple_build_exception_1;
             }
-            tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_7, mod_consts[21]);
+            tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_7, mod_consts[20]);
             if (tmp_tuple_element_1 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -956,7 +956,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[22], tmp_assign_source_11);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[21], tmp_assign_source_11);
     }
     {
         PyObject *tmp_assign_source_12;
@@ -965,10 +965,10 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
         PyObject *tmp_subscript_name_2;
         PyObject *tmp_tuple_element_2;
         PyObject *tmp_expression_name_10;
-        tmp_expression_name_9 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[7]);
+        tmp_expression_name_9 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[6]);
 
         if (unlikely(tmp_expression_name_9 == NULL)) {
-            tmp_expression_name_9 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[7]);
+            tmp_expression_name_9 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[6]);
         }
 
         if (tmp_expression_name_9 == NULL) {
@@ -981,7 +981,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        tmp_expression_name_8 = LOOKUP_ATTRIBUTE(tmp_expression_name_9, mod_consts[16]);
+        tmp_expression_name_8 = LOOKUP_ATTRIBUTE(tmp_expression_name_9, mod_consts[15]);
         if (tmp_expression_name_8 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -992,10 +992,10 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        tmp_expression_name_10 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[13]);
+        tmp_expression_name_10 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[12]);
 
         if (unlikely(tmp_expression_name_10 == NULL)) {
-            tmp_expression_name_10 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[13]);
+            tmp_expression_name_10 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[12]);
         }
 
         if (tmp_expression_name_10 == NULL) {
@@ -1008,7 +1008,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        tmp_tuple_element_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_10, mod_consts[23]);
+        tmp_tuple_element_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_10, mod_consts[22]);
         if (tmp_tuple_element_2 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -1026,10 +1026,10 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
             PyObject *tmp_expression_name_13;
             PyObject *tmp_expression_name_14;
             PyTuple_SET_ITEM(tmp_subscript_name_2, 0, tmp_tuple_element_2);
-            tmp_expression_name_11 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[14]);
+            tmp_expression_name_11 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[13]);
 
             if (unlikely(tmp_expression_name_11 == NULL)) {
-                tmp_expression_name_11 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[14]);
+                tmp_expression_name_11 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[13]);
             }
 
             if (tmp_expression_name_11 == NULL) {
@@ -1042,7 +1042,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
                 goto tuple_build_exception_2;
             }
-            tmp_tuple_element_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_11, mod_consts[24]);
+            tmp_tuple_element_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_11, mod_consts[23]);
             if (tmp_tuple_element_2 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -1054,10 +1054,10 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
                 goto tuple_build_exception_2;
             }
             PyTuple_SET_ITEM(tmp_subscript_name_2, 1, tmp_tuple_element_2);
-            tmp_expression_name_12 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[15]);
+            tmp_expression_name_12 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[14]);
 
             if (unlikely(tmp_expression_name_12 == NULL)) {
-                tmp_expression_name_12 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[15]);
+                tmp_expression_name_12 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[14]);
             }
 
             if (tmp_expression_name_12 == NULL) {
@@ -1070,7 +1070,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
                 goto tuple_build_exception_2;
             }
-            tmp_tuple_element_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_12, mod_consts[25]);
+            tmp_tuple_element_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_12, mod_consts[24]);
             if (tmp_tuple_element_2 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -1082,10 +1082,10 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
                 goto tuple_build_exception_2;
             }
             PyTuple_SET_ITEM(tmp_subscript_name_2, 2, tmp_tuple_element_2);
-            tmp_expression_name_13 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[11]);
+            tmp_expression_name_13 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[10]);
 
             if (unlikely(tmp_expression_name_13 == NULL)) {
-                tmp_expression_name_13 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[11]);
+                tmp_expression_name_13 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[10]);
             }
 
             if (tmp_expression_name_13 == NULL) {
@@ -1098,7 +1098,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
                 goto tuple_build_exception_2;
             }
-            tmp_tuple_element_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_13, mod_consts[26]);
+            tmp_tuple_element_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_13, mod_consts[25]);
             if (tmp_tuple_element_2 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -1110,10 +1110,10 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
                 goto tuple_build_exception_2;
             }
             PyTuple_SET_ITEM(tmp_subscript_name_2, 3, tmp_tuple_element_2);
-            tmp_expression_name_14 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[12]);
+            tmp_expression_name_14 = GET_STRING_DICT_VALUE(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[11]);
 
             if (unlikely(tmp_expression_name_14 == NULL)) {
-                tmp_expression_name_14 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[12]);
+                tmp_expression_name_14 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[11]);
             }
 
             if (tmp_expression_name_14 == NULL) {
@@ -1126,7 +1126,7 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
                 goto tuple_build_exception_2;
             }
-            tmp_tuple_element_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_14, mod_consts[27]);
+            tmp_tuple_element_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_14, mod_consts[26]);
             if (tmp_tuple_element_2 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -1160,28 +1160,28 @@ PyObject *modulecode_cryptography$hazmat$_types(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[28], tmp_assign_source_12);
+        UPDATE_STRING_DICT1(moduledict_cryptography$hazmat$_types, (Nuitka_StringObject *)mod_consts[27], tmp_assign_source_12);
     }
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_04519ee15101a3a1979a667a57f3da25);
+    RESTORE_FRAME_EXCEPTION(frame_da29fe26a430b6a21bb8ddbed67f5114);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_04519ee15101a3a1979a667a57f3da25);
+    assertFrameObject(frame_da29fe26a430b6a21bb8ddbed67f5114);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_04519ee15101a3a1979a667a57f3da25);
+    RESTORE_FRAME_EXCEPTION(frame_da29fe26a430b6a21bb8ddbed67f5114);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_04519ee15101a3a1979a667a57f3da25, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_04519ee15101a3a1979a667a57f3da25->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_04519ee15101a3a1979a667a57f3da25, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_da29fe26a430b6a21bb8ddbed67f5114, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_da29fe26a430b6a21bb8ddbed67f5114->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_da29fe26a430b6a21bb8ddbed67f5114, exception_lineno);
     }
 
     // Put the previous frame back on top.

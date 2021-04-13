@@ -65,27 +65,27 @@ void checkModuleConstants_matplotlib$tri$trifinder(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_af2c21364f397464f3e53dbcdb942eab;
-static PyCodeObject *codeobj_0500bcbc597dff6b60ef4eb51539cf82;
-static PyCodeObject *codeobj_4f75519f0e1ed8616a0189bf77f7dda1;
-static PyCodeObject *codeobj_4815c84a3f40b767bf27265233530fb6;
-static PyCodeObject *codeobj_17aee7b5d8bd9536a99c2d5b4672baf4;
-static PyCodeObject *codeobj_f3a68ade1557540868b4f72e694b5e6e;
-static PyCodeObject *codeobj_6df964f2858c792ee8de1b01913c773e;
-static PyCodeObject *codeobj_b61fc19360049950ef33f794fd7be1f6;
-static PyCodeObject *codeobj_39ffd9461d0eec30cbee924571abc208;
+static PyCodeObject *codeobj_c9d39d7f06dc8cbbd0e0c2dd256e3fa4;
+static PyCodeObject *codeobj_8da78353ac2695eb7e794680fb77f0c8;
+static PyCodeObject *codeobj_53a26df7eaee332d5953d642a6df374c;
+static PyCodeObject *codeobj_8b5aa5f95762432a16c37c3973e96786;
+static PyCodeObject *codeobj_385ce8be0a994a0e45e0e9a57e8a05c4;
+static PyCodeObject *codeobj_1e4e371b07aacfa10ef13556b53f1c23;
+static PyCodeObject *codeobj_1f4c7e6079dd66ae856d41451f7d0505;
+static PyCodeObject *codeobj_d41d17fd1439abe8c2b442b9bf235f17;
+static PyCodeObject *codeobj_3d6e23126fd94fe2575e94ff2d219186;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[35]; CHECK_OBJECT(module_filename_obj);
-    codeobj_af2c21364f397464f3e53dbcdb942eab = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[68], NULL, NULL, 0, 0, 0);
-    codeobj_0500bcbc597dff6b60ef4eb51539cf82 = MAKE_CODEOBJECT(module_filename_obj, 24, CO_NOFREE, mod_consts[11], mod_consts[69], NULL, 0, 0, 0);
-    codeobj_4f75519f0e1ed8616a0189bf77f7dda1 = MAKE_CODEOBJECT(module_filename_obj, 7, CO_NOFREE, mod_consts[9], mod_consts[69], NULL, 0, 0, 0);
-    codeobj_4815c84a3f40b767bf27265233530fb6 = MAKE_CODEOBJECT(module_filename_obj, 44, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[60], mod_consts[70], NULL, 3, 0, 0);
-    codeobj_17aee7b5d8bd9536a99c2d5b4672baf4 = MAKE_CODEOBJECT(module_filename_obj, 19, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[10], mod_consts[71], NULL, 2, 0, 0);
-    codeobj_f3a68ade1557540868b4f72e694b5e6e = MAKE_CODEOBJECT(module_filename_obj, 37, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[10], mod_consts[72], NULL, 2, 0, 0);
-    codeobj_6df964f2858c792ee8de1b01913c773e = MAKE_CODEOBJECT(module_filename_obj, 65, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[62], mod_consts[73], NULL, 1, 0, 0);
-    codeobj_b61fc19360049950ef33f794fd7be1f6 = MAKE_CODEOBJECT(module_filename_obj, 81, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[15], mod_consts[73], NULL, 1, 0, 0);
-    codeobj_39ffd9461d0eec30cbee924571abc208 = MAKE_CODEOBJECT(module_filename_obj, 88, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[65], mod_consts[73], NULL, 1, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[67]); CHECK_OBJECT(module_filename_obj);
+    codeobj_c9d39d7f06dc8cbbd0e0c2dd256e3fa4 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[68], NULL, NULL, 0, 0, 0);
+    codeobj_8da78353ac2695eb7e794680fb77f0c8 = MAKE_CODEOBJECT(module_filename_obj, 24, CO_NOFREE, mod_consts[11], mod_consts[69], NULL, 0, 0, 0);
+    codeobj_53a26df7eaee332d5953d642a6df374c = MAKE_CODEOBJECT(module_filename_obj, 7, CO_NOFREE, mod_consts[9], mod_consts[69], NULL, 0, 0, 0);
+    codeobj_8b5aa5f95762432a16c37c3973e96786 = MAKE_CODEOBJECT(module_filename_obj, 44, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[59], mod_consts[70], NULL, 3, 0, 0);
+    codeobj_385ce8be0a994a0e45e0e9a57e8a05c4 = MAKE_CODEOBJECT(module_filename_obj, 19, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[10], mod_consts[71], NULL, 2, 0, 0);
+    codeobj_1e4e371b07aacfa10ef13556b53f1c23 = MAKE_CODEOBJECT(module_filename_obj, 37, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[10], mod_consts[72], NULL, 2, 0, 0);
+    codeobj_1f4c7e6079dd66ae856d41451f7d0505 = MAKE_CODEOBJECT(module_filename_obj, 65, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[61], mod_consts[73], NULL, 1, 0, 0);
+    codeobj_d41d17fd1439abe8c2b442b9bf235f17 = MAKE_CODEOBJECT(module_filename_obj, 81, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[15], mod_consts[73], NULL, 1, 0, 0);
+    codeobj_3d6e23126fd94fe2575e94ff2d219186 = MAKE_CODEOBJECT(module_filename_obj, 88, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[64], mod_consts[73], NULL, 1, 0, 0);
 }
 
 // The module function declarations.
@@ -120,7 +120,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__1___init__(struct Nui
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_triangulation = python_pars[1];
-    struct Nuitka_FrameObject *frame_17aee7b5d8bd9536a99c2d5b4672baf4;
+    struct Nuitka_FrameObject *frame_385ce8be0a994a0e45e0e9a57e8a05c4;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -129,7 +129,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__1___init__(struct Nui
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_17aee7b5d8bd9536a99c2d5b4672baf4 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_385ce8be0a994a0e45e0e9a57e8a05c4 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -138,31 +138,31 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__1___init__(struct Nui
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_17aee7b5d8bd9536a99c2d5b4672baf4)) {
-        Py_XDECREF(cache_frame_17aee7b5d8bd9536a99c2d5b4672baf4);
+    if (isFrameUnusable(cache_frame_385ce8be0a994a0e45e0e9a57e8a05c4)) {
+        Py_XDECREF(cache_frame_385ce8be0a994a0e45e0e9a57e8a05c4);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_17aee7b5d8bd9536a99c2d5b4672baf4 == NULL) {
+        if (cache_frame_385ce8be0a994a0e45e0e9a57e8a05c4 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_17aee7b5d8bd9536a99c2d5b4672baf4 = MAKE_FUNCTION_FRAME(codeobj_17aee7b5d8bd9536a99c2d5b4672baf4, module_matplotlib$tri$trifinder, sizeof(void *)+sizeof(void *));
+        cache_frame_385ce8be0a994a0e45e0e9a57e8a05c4 = MAKE_FUNCTION_FRAME(codeobj_385ce8be0a994a0e45e0e9a57e8a05c4, module_matplotlib$tri$trifinder, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_17aee7b5d8bd9536a99c2d5b4672baf4->m_type_description == NULL);
-    frame_17aee7b5d8bd9536a99c2d5b4672baf4 = cache_frame_17aee7b5d8bd9536a99c2d5b4672baf4;
+    assert(cache_frame_385ce8be0a994a0e45e0e9a57e8a05c4->m_type_description == NULL);
+    frame_385ce8be0a994a0e45e0e9a57e8a05c4 = cache_frame_385ce8be0a994a0e45e0e9a57e8a05c4;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_17aee7b5d8bd9536a99c2d5b4672baf4);
+    pushFrameStack(frame_385ce8be0a994a0e45e0e9a57e8a05c4);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_17aee7b5d8bd9536a99c2d5b4672baf4) == 2); // Frame stack
+    assert(Py_REFCNT(frame_385ce8be0a994a0e45e0e9a57e8a05c4) == 2); // Frame stack
 
     // Framed code:
     {
@@ -225,7 +225,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__1___init__(struct Nui
         tmp_kwargs_name_1 = _PyDict_NewPresized( 1 );
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_17aee7b5d8bd9536a99c2d5b4672baf4->m_frame.f_lineno = 20;
+        frame_385ce8be0a994a0e45e0e9a57e8a05c4->m_frame.f_lineno = 20;
         tmp_call_result_1 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -274,7 +274,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__1___init__(struct Nui
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_17aee7b5d8bd9536a99c2d5b4672baf4);
+    RESTORE_FRAME_EXCEPTION(frame_385ce8be0a994a0e45e0e9a57e8a05c4);
 #endif
 
     // Put the previous frame back on top.
@@ -285,18 +285,18 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__1___init__(struct Nui
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_17aee7b5d8bd9536a99c2d5b4672baf4);
+    RESTORE_FRAME_EXCEPTION(frame_385ce8be0a994a0e45e0e9a57e8a05c4);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_17aee7b5d8bd9536a99c2d5b4672baf4, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_17aee7b5d8bd9536a99c2d5b4672baf4->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_17aee7b5d8bd9536a99c2d5b4672baf4, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_385ce8be0a994a0e45e0e9a57e8a05c4, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_385ce8be0a994a0e45e0e9a57e8a05c4->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_385ce8be0a994a0e45e0e9a57e8a05c4, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_17aee7b5d8bd9536a99c2d5b4672baf4,
+        frame_385ce8be0a994a0e45e0e9a57e8a05c4,
         type_description_1,
         par_self,
         par_triangulation
@@ -304,17 +304,17 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__1___init__(struct Nui
 
 
     // Release cached frame if used for exception.
-    if (frame_17aee7b5d8bd9536a99c2d5b4672baf4 == cache_frame_17aee7b5d8bd9536a99c2d5b4672baf4) {
+    if (frame_385ce8be0a994a0e45e0e9a57e8a05c4 == cache_frame_385ce8be0a994a0e45e0e9a57e8a05c4) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_17aee7b5d8bd9536a99c2d5b4672baf4);
-        cache_frame_17aee7b5d8bd9536a99c2d5b4672baf4 = NULL;
+        Py_DECREF(cache_frame_385ce8be0a994a0e45e0e9a57e8a05c4);
+        cache_frame_385ce8be0a994a0e45e0e9a57e8a05c4 = NULL;
     }
 
-    assertFrameObject(frame_17aee7b5d8bd9536a99c2d5b4672baf4);
+    assertFrameObject(frame_385ce8be0a994a0e45e0e9a57e8a05c4);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -392,7 +392,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__2___init__(struct Nui
     PyObject *par_self = python_pars[0];
     PyObject *par_triangulation = python_pars[1];
     PyObject *var__tri = NULL;
-    struct Nuitka_FrameObject *frame_f3a68ade1557540868b4f72e694b5e6e;
+    struct Nuitka_FrameObject *frame_1e4e371b07aacfa10ef13556b53f1c23;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -400,7 +400,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__2___init__(struct Nui
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_f3a68ade1557540868b4f72e694b5e6e = NULL;
+    static struct Nuitka_FrameObject *cache_frame_1e4e371b07aacfa10ef13556b53f1c23 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -409,31 +409,31 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__2___init__(struct Nui
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_f3a68ade1557540868b4f72e694b5e6e)) {
-        Py_XDECREF(cache_frame_f3a68ade1557540868b4f72e694b5e6e);
+    if (isFrameUnusable(cache_frame_1e4e371b07aacfa10ef13556b53f1c23)) {
+        Py_XDECREF(cache_frame_1e4e371b07aacfa10ef13556b53f1c23);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_f3a68ade1557540868b4f72e694b5e6e == NULL) {
+        if (cache_frame_1e4e371b07aacfa10ef13556b53f1c23 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_f3a68ade1557540868b4f72e694b5e6e = MAKE_FUNCTION_FRAME(codeobj_f3a68ade1557540868b4f72e694b5e6e, module_matplotlib$tri$trifinder, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_1e4e371b07aacfa10ef13556b53f1c23 = MAKE_FUNCTION_FRAME(codeobj_1e4e371b07aacfa10ef13556b53f1c23, module_matplotlib$tri$trifinder, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_f3a68ade1557540868b4f72e694b5e6e->m_type_description == NULL);
-    frame_f3a68ade1557540868b4f72e694b5e6e = cache_frame_f3a68ade1557540868b4f72e694b5e6e;
+    assert(cache_frame_1e4e371b07aacfa10ef13556b53f1c23->m_type_description == NULL);
+    frame_1e4e371b07aacfa10ef13556b53f1c23 = cache_frame_1e4e371b07aacfa10ef13556b53f1c23;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_f3a68ade1557540868b4f72e694b5e6e);
+    pushFrameStack(frame_1e4e371b07aacfa10ef13556b53f1c23);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_f3a68ade1557540868b4f72e694b5e6e) == 2); // Frame stack
+    assert(Py_REFCNT(frame_1e4e371b07aacfa10ef13556b53f1c23) == 2); // Frame stack
 
     // Framed code:
     {
@@ -449,7 +449,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__2___init__(struct Nui
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = mod_consts[6];
         tmp_level_name_1 = mod_consts[7];
-        frame_f3a68ade1557540868b4f72e694b5e6e->m_frame.f_lineno = 38;
+        frame_1e4e371b07aacfa10ef13556b53f1c23->m_frame.f_lineno = 38;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -511,7 +511,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__2___init__(struct Nui
         tmp_args_element_name_1 = par_self;
         CHECK_OBJECT(par_triangulation);
         tmp_args_element_name_2 = par_triangulation;
-        frame_f3a68ade1557540868b4f72e694b5e6e->m_frame.f_lineno = 39;
+        frame_1e4e371b07aacfa10ef13556b53f1c23->m_frame.f_lineno = 39;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS2(
@@ -566,7 +566,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__2___init__(struct Nui
         }
 
         tmp_called_instance_2 = par_triangulation;
-        frame_f3a68ade1557540868b4f72e694b5e6e->m_frame.f_lineno = 41;
+        frame_1e4e371b07aacfa10ef13556b53f1c23->m_frame.f_lineno = 41;
         tmp_args_element_name_3 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[12]);
         if (tmp_args_element_name_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -578,7 +578,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__2___init__(struct Nui
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_f3a68ade1557540868b4f72e694b5e6e->m_frame.f_lineno = 40;
+        frame_1e4e371b07aacfa10ef13556b53f1c23->m_frame.f_lineno = 40;
         tmp_assattr_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_3);
@@ -634,7 +634,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__2___init__(struct Nui
         }
 
         tmp_called_instance_3 = par_self;
-        frame_f3a68ade1557540868b4f72e694b5e6e->m_frame.f_lineno = 42;
+        frame_1e4e371b07aacfa10ef13556b53f1c23->m_frame.f_lineno = 42;
         tmp_call_result_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_3, mod_consts[15]);
         if (tmp_call_result_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -650,7 +650,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__2___init__(struct Nui
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f3a68ade1557540868b4f72e694b5e6e);
+    RESTORE_FRAME_EXCEPTION(frame_1e4e371b07aacfa10ef13556b53f1c23);
 #endif
 
     // Put the previous frame back on top.
@@ -661,18 +661,18 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__2___init__(struct Nui
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f3a68ade1557540868b4f72e694b5e6e);
+    RESTORE_FRAME_EXCEPTION(frame_1e4e371b07aacfa10ef13556b53f1c23);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_f3a68ade1557540868b4f72e694b5e6e, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_f3a68ade1557540868b4f72e694b5e6e->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_f3a68ade1557540868b4f72e694b5e6e, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_1e4e371b07aacfa10ef13556b53f1c23, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_1e4e371b07aacfa10ef13556b53f1c23->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_1e4e371b07aacfa10ef13556b53f1c23, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_f3a68ade1557540868b4f72e694b5e6e,
+        frame_1e4e371b07aacfa10ef13556b53f1c23,
         type_description_1,
         par_self,
         par_triangulation,
@@ -681,17 +681,17 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__2___init__(struct Nui
 
 
     // Release cached frame if used for exception.
-    if (frame_f3a68ade1557540868b4f72e694b5e6e == cache_frame_f3a68ade1557540868b4f72e694b5e6e) {
+    if (frame_1e4e371b07aacfa10ef13556b53f1c23 == cache_frame_1e4e371b07aacfa10ef13556b53f1c23) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_f3a68ade1557540868b4f72e694b5e6e);
-        cache_frame_f3a68ade1557540868b4f72e694b5e6e = NULL;
+        Py_DECREF(cache_frame_1e4e371b07aacfa10ef13556b53f1c23);
+        cache_frame_1e4e371b07aacfa10ef13556b53f1c23 = NULL;
     }
 
-    assertFrameObject(frame_f3a68ade1557540868b4f72e694b5e6e);
+    assertFrameObject(frame_1e4e371b07aacfa10ef13556b53f1c23);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -772,14 +772,14 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__3___call__(struct Nui
     PyObject *par_x = python_pars[1];
     PyObject *par_y = python_pars[2];
     PyObject *var_indices = NULL;
-    struct Nuitka_FrameObject *frame_4815c84a3f40b767bf27265233530fb6;
+    struct Nuitka_FrameObject *frame_8b5aa5f95762432a16c37c3973e96786;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
-    static struct Nuitka_FrameObject *cache_frame_4815c84a3f40b767bf27265233530fb6 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_8b5aa5f95762432a16c37c3973e96786 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -788,31 +788,31 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__3___call__(struct Nui
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_4815c84a3f40b767bf27265233530fb6)) {
-        Py_XDECREF(cache_frame_4815c84a3f40b767bf27265233530fb6);
+    if (isFrameUnusable(cache_frame_8b5aa5f95762432a16c37c3973e96786)) {
+        Py_XDECREF(cache_frame_8b5aa5f95762432a16c37c3973e96786);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_4815c84a3f40b767bf27265233530fb6 == NULL) {
+        if (cache_frame_8b5aa5f95762432a16c37c3973e96786 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_4815c84a3f40b767bf27265233530fb6 = MAKE_FUNCTION_FRAME(codeobj_4815c84a3f40b767bf27265233530fb6, module_matplotlib$tri$trifinder, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_8b5aa5f95762432a16c37c3973e96786 = MAKE_FUNCTION_FRAME(codeobj_8b5aa5f95762432a16c37c3973e96786, module_matplotlib$tri$trifinder, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_4815c84a3f40b767bf27265233530fb6->m_type_description == NULL);
-    frame_4815c84a3f40b767bf27265233530fb6 = cache_frame_4815c84a3f40b767bf27265233530fb6;
+    assert(cache_frame_8b5aa5f95762432a16c37c3973e96786->m_type_description == NULL);
+    frame_8b5aa5f95762432a16c37c3973e96786 = cache_frame_8b5aa5f95762432a16c37c3973e96786;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_4815c84a3f40b767bf27265233530fb6);
+    pushFrameStack(frame_8b5aa5f95762432a16c37c3973e96786);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_4815c84a3f40b767bf27265233530fb6) == 2); // Frame stack
+    assert(Py_REFCNT(frame_8b5aa5f95762432a16c37c3973e96786) == 2); // Frame stack
 
     // Framed code:
     {
@@ -890,7 +890,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__3___call__(struct Nui
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         Py_DECREF(tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_4815c84a3f40b767bf27265233530fb6->m_frame.f_lineno = 55;
+        frame_8b5aa5f95762432a16c37c3973e96786->m_frame.f_lineno = 55;
         tmp_assign_source_1 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -987,7 +987,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__3___call__(struct Nui
         tmp_res = PyDict_SetItem(tmp_kwargs_name_2, tmp_dict_key_2, tmp_dict_value_2);
         Py_DECREF(tmp_dict_value_2);
         assert(!(tmp_res != 0));
-        frame_4815c84a3f40b767bf27265233530fb6->m_frame.f_lineno = 56;
+        frame_8b5aa5f95762432a16c37c3973e96786->m_frame.f_lineno = 56;
         tmp_assign_source_2 = CALL_FUNCTION(tmp_called_name_2, tmp_args_name_2, tmp_kwargs_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_name_2);
@@ -1066,7 +1066,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__3___call__(struct Nui
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[21];
-        frame_4815c84a3f40b767bf27265233530fb6->m_frame.f_lineno = 58;
+        frame_8b5aa5f95762432a16c37c3973e96786->m_frame.f_lineno = 58;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -1127,7 +1127,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__3___call__(struct Nui
         }
 
         tmp_called_instance_1 = par_x;
-        frame_4815c84a3f40b767bf27265233530fb6->m_frame.f_lineno = 61;
+        frame_8b5aa5f95762432a16c37c3973e96786->m_frame.f_lineno = 61;
         tmp_args_element_name_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[24]);
         if (tmp_args_element_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1153,7 +1153,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__3___call__(struct Nui
         }
 
         tmp_called_instance_2 = par_y;
-        frame_4815c84a3f40b767bf27265233530fb6->m_frame.f_lineno = 61;
+        frame_8b5aa5f95762432a16c37c3973e96786->m_frame.f_lineno = 61;
         tmp_args_element_name_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[24]);
         if (tmp_args_element_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1166,7 +1166,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__3___call__(struct Nui
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_4815c84a3f40b767bf27265233530fb6->m_frame.f_lineno = 61;
+        frame_8b5aa5f95762432a16c37c3973e96786->m_frame.f_lineno = 61;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_expression_name_7 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -1221,7 +1221,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__3___call__(struct Nui
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_4815c84a3f40b767bf27265233530fb6->m_frame.f_lineno = 61;
+        frame_8b5aa5f95762432a16c37c3973e96786->m_frame.f_lineno = 61;
         tmp_assign_source_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_3);
@@ -1240,7 +1240,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__3___call__(struct Nui
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4815c84a3f40b767bf27265233530fb6);
+    RESTORE_FRAME_EXCEPTION(frame_8b5aa5f95762432a16c37c3973e96786);
 #endif
 
     // Put the previous frame back on top.
@@ -1251,18 +1251,18 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__3___call__(struct Nui
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4815c84a3f40b767bf27265233530fb6);
+    RESTORE_FRAME_EXCEPTION(frame_8b5aa5f95762432a16c37c3973e96786);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_4815c84a3f40b767bf27265233530fb6, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_4815c84a3f40b767bf27265233530fb6->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_4815c84a3f40b767bf27265233530fb6, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_8b5aa5f95762432a16c37c3973e96786, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_8b5aa5f95762432a16c37c3973e96786->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_8b5aa5f95762432a16c37c3973e96786, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_4815c84a3f40b767bf27265233530fb6,
+        frame_8b5aa5f95762432a16c37c3973e96786,
         type_description_1,
         par_self,
         par_x,
@@ -1272,17 +1272,17 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__3___call__(struct Nui
 
 
     // Release cached frame if used for exception.
-    if (frame_4815c84a3f40b767bf27265233530fb6 == cache_frame_4815c84a3f40b767bf27265233530fb6) {
+    if (frame_8b5aa5f95762432a16c37c3973e96786 == cache_frame_8b5aa5f95762432a16c37c3973e96786) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_4815c84a3f40b767bf27265233530fb6);
-        cache_frame_4815c84a3f40b767bf27265233530fb6 = NULL;
+        Py_DECREF(cache_frame_8b5aa5f95762432a16c37c3973e96786);
+        cache_frame_8b5aa5f95762432a16c37c3973e96786 = NULL;
     }
 
-    assertFrameObject(frame_4815c84a3f40b767bf27265233530fb6);
+    assertFrameObject(frame_8b5aa5f95762432a16c37c3973e96786);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1364,14 +1364,14 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__4__get_tree_stats(str
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_6df964f2858c792ee8de1b01913c773e;
+    struct Nuitka_FrameObject *frame_1f4c7e6079dd66ae856d41451f7d0505;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_6df964f2858c792ee8de1b01913c773e = NULL;
+    static struct Nuitka_FrameObject *cache_frame_1f4c7e6079dd66ae856d41451f7d0505 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -1379,31 +1379,31 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__4__get_tree_stats(str
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_6df964f2858c792ee8de1b01913c773e)) {
-        Py_XDECREF(cache_frame_6df964f2858c792ee8de1b01913c773e);
+    if (isFrameUnusable(cache_frame_1f4c7e6079dd66ae856d41451f7d0505)) {
+        Py_XDECREF(cache_frame_1f4c7e6079dd66ae856d41451f7d0505);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_6df964f2858c792ee8de1b01913c773e == NULL) {
+        if (cache_frame_1f4c7e6079dd66ae856d41451f7d0505 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_6df964f2858c792ee8de1b01913c773e = MAKE_FUNCTION_FRAME(codeobj_6df964f2858c792ee8de1b01913c773e, module_matplotlib$tri$trifinder, sizeof(void *));
+        cache_frame_1f4c7e6079dd66ae856d41451f7d0505 = MAKE_FUNCTION_FRAME(codeobj_1f4c7e6079dd66ae856d41451f7d0505, module_matplotlib$tri$trifinder, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_6df964f2858c792ee8de1b01913c773e->m_type_description == NULL);
-    frame_6df964f2858c792ee8de1b01913c773e = cache_frame_6df964f2858c792ee8de1b01913c773e;
+    assert(cache_frame_1f4c7e6079dd66ae856d41451f7d0505->m_type_description == NULL);
+    frame_1f4c7e6079dd66ae856d41451f7d0505 = cache_frame_1f4c7e6079dd66ae856d41451f7d0505;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_6df964f2858c792ee8de1b01913c773e);
+    pushFrameStack(frame_1f4c7e6079dd66ae856d41451f7d0505);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_6df964f2858c792ee8de1b01913c773e) == 2); // Frame stack
+    assert(Py_REFCNT(frame_1f4c7e6079dd66ae856d41451f7d0505) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1422,7 +1422,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__4__get_tree_stats(str
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_6df964f2858c792ee8de1b01913c773e->m_frame.f_lineno = 79;
+        frame_1f4c7e6079dd66ae856d41451f7d0505->m_frame.f_lineno = 79;
         tmp_return_value = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[28]);
         Py_DECREF(tmp_called_instance_1);
         if (tmp_return_value == NULL) {
@@ -1439,7 +1439,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__4__get_tree_stats(str
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6df964f2858c792ee8de1b01913c773e);
+    RESTORE_FRAME_EXCEPTION(frame_1f4c7e6079dd66ae856d41451f7d0505);
 #endif
 
     // Put the previous frame back on top.
@@ -1449,7 +1449,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__4__get_tree_stats(str
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6df964f2858c792ee8de1b01913c773e);
+    RESTORE_FRAME_EXCEPTION(frame_1f4c7e6079dd66ae856d41451f7d0505);
 #endif
 
     // Put the previous frame back on top.
@@ -1460,35 +1460,35 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__4__get_tree_stats(str
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6df964f2858c792ee8de1b01913c773e);
+    RESTORE_FRAME_EXCEPTION(frame_1f4c7e6079dd66ae856d41451f7d0505);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_6df964f2858c792ee8de1b01913c773e, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_6df964f2858c792ee8de1b01913c773e->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_6df964f2858c792ee8de1b01913c773e, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_1f4c7e6079dd66ae856d41451f7d0505, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_1f4c7e6079dd66ae856d41451f7d0505->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_1f4c7e6079dd66ae856d41451f7d0505, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_6df964f2858c792ee8de1b01913c773e,
+        frame_1f4c7e6079dd66ae856d41451f7d0505,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_6df964f2858c792ee8de1b01913c773e == cache_frame_6df964f2858c792ee8de1b01913c773e) {
+    if (frame_1f4c7e6079dd66ae856d41451f7d0505 == cache_frame_1f4c7e6079dd66ae856d41451f7d0505) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_6df964f2858c792ee8de1b01913c773e);
-        cache_frame_6df964f2858c792ee8de1b01913c773e = NULL;
+        Py_DECREF(cache_frame_1f4c7e6079dd66ae856d41451f7d0505);
+        cache_frame_1f4c7e6079dd66ae856d41451f7d0505 = NULL;
     }
 
-    assertFrameObject(frame_6df964f2858c792ee8de1b01913c773e);
+    assertFrameObject(frame_1f4c7e6079dd66ae856d41451f7d0505);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1555,14 +1555,14 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__5__initialize(struct 
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_b61fc19360049950ef33f794fd7be1f6;
+    struct Nuitka_FrameObject *frame_d41d17fd1439abe8c2b442b9bf235f17;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_b61fc19360049950ef33f794fd7be1f6 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d41d17fd1439abe8c2b442b9bf235f17 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -1571,31 +1571,31 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__5__initialize(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_b61fc19360049950ef33f794fd7be1f6)) {
-        Py_XDECREF(cache_frame_b61fc19360049950ef33f794fd7be1f6);
+    if (isFrameUnusable(cache_frame_d41d17fd1439abe8c2b442b9bf235f17)) {
+        Py_XDECREF(cache_frame_d41d17fd1439abe8c2b442b9bf235f17);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_b61fc19360049950ef33f794fd7be1f6 == NULL) {
+        if (cache_frame_d41d17fd1439abe8c2b442b9bf235f17 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_b61fc19360049950ef33f794fd7be1f6 = MAKE_FUNCTION_FRAME(codeobj_b61fc19360049950ef33f794fd7be1f6, module_matplotlib$tri$trifinder, sizeof(void *));
+        cache_frame_d41d17fd1439abe8c2b442b9bf235f17 = MAKE_FUNCTION_FRAME(codeobj_d41d17fd1439abe8c2b442b9bf235f17, module_matplotlib$tri$trifinder, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_b61fc19360049950ef33f794fd7be1f6->m_type_description == NULL);
-    frame_b61fc19360049950ef33f794fd7be1f6 = cache_frame_b61fc19360049950ef33f794fd7be1f6;
+    assert(cache_frame_d41d17fd1439abe8c2b442b9bf235f17->m_type_description == NULL);
+    frame_d41d17fd1439abe8c2b442b9bf235f17 = cache_frame_d41d17fd1439abe8c2b442b9bf235f17;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_b61fc19360049950ef33f794fd7be1f6);
+    pushFrameStack(frame_d41d17fd1439abe8c2b442b9bf235f17);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_b61fc19360049950ef33f794fd7be1f6) == 2); // Frame stack
+    assert(Py_REFCNT(frame_d41d17fd1439abe8c2b442b9bf235f17) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1615,7 +1615,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__5__initialize(struct 
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_b61fc19360049950ef33f794fd7be1f6->m_frame.f_lineno = 86;
+        frame_d41d17fd1439abe8c2b442b9bf235f17->m_frame.f_lineno = 86;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[30]);
         Py_DECREF(tmp_called_instance_1);
         if (tmp_call_result_1 == NULL) {
@@ -1632,7 +1632,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__5__initialize(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b61fc19360049950ef33f794fd7be1f6);
+    RESTORE_FRAME_EXCEPTION(frame_d41d17fd1439abe8c2b442b9bf235f17);
 #endif
 
     // Put the previous frame back on top.
@@ -1643,35 +1643,35 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__5__initialize(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b61fc19360049950ef33f794fd7be1f6);
+    RESTORE_FRAME_EXCEPTION(frame_d41d17fd1439abe8c2b442b9bf235f17);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_b61fc19360049950ef33f794fd7be1f6, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_b61fc19360049950ef33f794fd7be1f6->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_b61fc19360049950ef33f794fd7be1f6, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d41d17fd1439abe8c2b442b9bf235f17, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d41d17fd1439abe8c2b442b9bf235f17->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d41d17fd1439abe8c2b442b9bf235f17, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_b61fc19360049950ef33f794fd7be1f6,
+        frame_d41d17fd1439abe8c2b442b9bf235f17,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_b61fc19360049950ef33f794fd7be1f6 == cache_frame_b61fc19360049950ef33f794fd7be1f6) {
+    if (frame_d41d17fd1439abe8c2b442b9bf235f17 == cache_frame_d41d17fd1439abe8c2b442b9bf235f17) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_b61fc19360049950ef33f794fd7be1f6);
-        cache_frame_b61fc19360049950ef33f794fd7be1f6 = NULL;
+        Py_DECREF(cache_frame_d41d17fd1439abe8c2b442b9bf235f17);
+        cache_frame_d41d17fd1439abe8c2b442b9bf235f17 = NULL;
     }
 
-    assertFrameObject(frame_b61fc19360049950ef33f794fd7be1f6);
+    assertFrameObject(frame_d41d17fd1439abe8c2b442b9bf235f17);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1741,14 +1741,14 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__6__print_tree(struct 
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_39ffd9461d0eec30cbee924571abc208;
+    struct Nuitka_FrameObject *frame_3d6e23126fd94fe2575e94ff2d219186;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_39ffd9461d0eec30cbee924571abc208 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_3d6e23126fd94fe2575e94ff2d219186 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -1757,31 +1757,31 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__6__print_tree(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_39ffd9461d0eec30cbee924571abc208)) {
-        Py_XDECREF(cache_frame_39ffd9461d0eec30cbee924571abc208);
+    if (isFrameUnusable(cache_frame_3d6e23126fd94fe2575e94ff2d219186)) {
+        Py_XDECREF(cache_frame_3d6e23126fd94fe2575e94ff2d219186);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_39ffd9461d0eec30cbee924571abc208 == NULL) {
+        if (cache_frame_3d6e23126fd94fe2575e94ff2d219186 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_39ffd9461d0eec30cbee924571abc208 = MAKE_FUNCTION_FRAME(codeobj_39ffd9461d0eec30cbee924571abc208, module_matplotlib$tri$trifinder, sizeof(void *));
+        cache_frame_3d6e23126fd94fe2575e94ff2d219186 = MAKE_FUNCTION_FRAME(codeobj_3d6e23126fd94fe2575e94ff2d219186, module_matplotlib$tri$trifinder, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_39ffd9461d0eec30cbee924571abc208->m_type_description == NULL);
-    frame_39ffd9461d0eec30cbee924571abc208 = cache_frame_39ffd9461d0eec30cbee924571abc208;
+    assert(cache_frame_3d6e23126fd94fe2575e94ff2d219186->m_type_description == NULL);
+    frame_3d6e23126fd94fe2575e94ff2d219186 = cache_frame_3d6e23126fd94fe2575e94ff2d219186;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_39ffd9461d0eec30cbee924571abc208);
+    pushFrameStack(frame_3d6e23126fd94fe2575e94ff2d219186);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_39ffd9461d0eec30cbee924571abc208) == 2); // Frame stack
+    assert(Py_REFCNT(frame_3d6e23126fd94fe2575e94ff2d219186) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1801,7 +1801,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__6__print_tree(struct 
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_39ffd9461d0eec30cbee924571abc208->m_frame.f_lineno = 93;
+        frame_3d6e23126fd94fe2575e94ff2d219186->m_frame.f_lineno = 93;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[32]);
         Py_DECREF(tmp_called_instance_1);
         if (tmp_call_result_1 == NULL) {
@@ -1818,7 +1818,7 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__6__print_tree(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_39ffd9461d0eec30cbee924571abc208);
+    RESTORE_FRAME_EXCEPTION(frame_3d6e23126fd94fe2575e94ff2d219186);
 #endif
 
     // Put the previous frame back on top.
@@ -1829,35 +1829,35 @@ static PyObject *impl_matplotlib$tri$trifinder$$$function__6__print_tree(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_39ffd9461d0eec30cbee924571abc208);
+    RESTORE_FRAME_EXCEPTION(frame_3d6e23126fd94fe2575e94ff2d219186);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_39ffd9461d0eec30cbee924571abc208, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_39ffd9461d0eec30cbee924571abc208->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_39ffd9461d0eec30cbee924571abc208, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_3d6e23126fd94fe2575e94ff2d219186, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_3d6e23126fd94fe2575e94ff2d219186->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_3d6e23126fd94fe2575e94ff2d219186, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_39ffd9461d0eec30cbee924571abc208,
+        frame_3d6e23126fd94fe2575e94ff2d219186,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_39ffd9461d0eec30cbee924571abc208 == cache_frame_39ffd9461d0eec30cbee924571abc208) {
+    if (frame_3d6e23126fd94fe2575e94ff2d219186 == cache_frame_3d6e23126fd94fe2575e94ff2d219186) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_39ffd9461d0eec30cbee924571abc208);
-        cache_frame_39ffd9461d0eec30cbee924571abc208 = NULL;
+        Py_DECREF(cache_frame_3d6e23126fd94fe2575e94ff2d219186);
+        cache_frame_3d6e23126fd94fe2575e94ff2d219186 = NULL;
     }
 
-    assertFrameObject(frame_39ffd9461d0eec30cbee924571abc208);
+    assertFrameObject(frame_3d6e23126fd94fe2575e94ff2d219186);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1925,9 +1925,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$tri$trifinder$$$function__1___init__()
         impl_matplotlib$tri$trifinder$$$function__1___init__,
         mod_consts[10],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[57],
+        mod_consts[56],
 #endif
-        codeobj_17aee7b5d8bd9536a99c2d5b4672baf4,
+        codeobj_385ce8be0a994a0e45e0e9a57e8a05c4,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1950,9 +1950,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$tri$trifinder$$$function__2___init__()
         impl_matplotlib$tri$trifinder$$$function__2___init__,
         mod_consts[10],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[59],
+        mod_consts[58],
 #endif
-        codeobj_f3a68ade1557540868b4f72e694b5e6e,
+        codeobj_1e4e371b07aacfa10ef13556b53f1c23,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1973,11 +1973,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$tri$trifinder$$$function__2___init__()
 static PyObject *MAKE_FUNCTION_matplotlib$tri$trifinder$$$function__3___call__() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$tri$trifinder$$$function__3___call__,
-        mod_consts[60],
+        mod_consts[59],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[61],
+        mod_consts[60],
 #endif
-        codeobj_4815c84a3f40b767bf27265233530fb6,
+        codeobj_8b5aa5f95762432a16c37c3973e96786,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -1998,11 +1998,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$tri$trifinder$$$function__3___call__()
 static PyObject *MAKE_FUNCTION_matplotlib$tri$trifinder$$$function__4__get_tree_stats() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$tri$trifinder$$$function__4__get_tree_stats,
-        mod_consts[62],
+        mod_consts[61],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[63],
+        mod_consts[62],
 #endif
-        codeobj_6df964f2858c792ee8de1b01913c773e,
+        codeobj_1f4c7e6079dd66ae856d41451f7d0505,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2025,9 +2025,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$tri$trifinder$$$function__5__initializ
         impl_matplotlib$tri$trifinder$$$function__5__initialize,
         mod_consts[15],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[64],
+        mod_consts[63],
 #endif
-        codeobj_b61fc19360049950ef33f794fd7be1f6,
+        codeobj_d41d17fd1439abe8c2b442b9bf235f17,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2048,11 +2048,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$tri$trifinder$$$function__5__initializ
 static PyObject *MAKE_FUNCTION_matplotlib$tri$trifinder$$$function__6__print_tree() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$tri$trifinder$$$function__6__print_tree,
-        mod_consts[65],
+        mod_consts[64],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[66],
+        mod_consts[65],
 #endif
-        codeobj_39ffd9461d0eec30cbee924571abc208,
+        codeobj_3d6e23126fd94fe2575e94ff2d219186,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2455,7 +2455,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
     PyObject *tmp_class_creation_2__class_decl_dict = NULL;
     PyObject *tmp_class_creation_2__metaclass = NULL;
     PyObject *tmp_class_creation_2__prepared = NULL;
-    struct Nuitka_FrameObject *frame_af2c21364f397464f3e53dbcdb942eab;
+    struct Nuitka_FrameObject *frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -2467,9 +2467,9 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
     PyObject *tmp_dictdel_key;
     PyObject *locals_matplotlib$tri$trifinder$$$class__1_TriFinder_7 = NULL;
     PyObject *tmp_dictset_value;
-    struct Nuitka_FrameObject *frame_4f75519f0e1ed8616a0189bf77f7dda1_2;
+    struct Nuitka_FrameObject *frame_53a26df7eaee332d5953d642a6df374c_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_4f75519f0e1ed8616a0189bf77f7dda1_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_53a26df7eaee332d5953d642a6df374c_2 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -2483,9 +2483,9 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
     PyTracebackObject *exception_keeper_tb_3;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_3;
     PyObject *locals_matplotlib$tri$trifinder$$$class__2_TrapezoidMapTriFinder_24 = NULL;
-    struct Nuitka_FrameObject *frame_0500bcbc597dff6b60ef4eb51539cf82_3;
+    struct Nuitka_FrameObject *frame_8da78353ac2695eb7e794680fb77f0c8_3;
     NUITKA_MAY_BE_UNUSED char const *type_description_3 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_0500bcbc597dff6b60ef4eb51539cf82_3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_8da78353ac2695eb7e794680fb77f0c8_3 = NULL;
     PyObject *exception_keeper_type_4;
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
@@ -2507,30 +2507,30 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[35];
-        UPDATE_STRING_DICT0(moduledict_matplotlib$tri$trifinder, (Nuitka_StringObject *)mod_consts[36], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_matplotlib$tri$trifinder, (Nuitka_StringObject *)mod_consts[35], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_af2c21364f397464f3e53dbcdb942eab = MAKE_MODULE_FRAME(codeobj_af2c21364f397464f3e53dbcdb942eab, module_matplotlib$tri$trifinder);
+    frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4 = MAKE_MODULE_FRAME(codeobj_c9d39d7f06dc8cbbd0e0c2dd256e3fa4, module_matplotlib$tri$trifinder);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_af2c21364f397464f3e53dbcdb942eab);
-    assert(Py_REFCNT(frame_af2c21364f397464f3e53dbcdb942eab) == 2);
+    pushFrameStack(frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4);
+    assert(Py_REFCNT(frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[35];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri$trifinder, (Nuitka_StringObject *)mod_consts[37]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri$trifinder, (Nuitka_StringObject *)mod_consts[36]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[37]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[36]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[38], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[37], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -2546,14 +2546,14 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri$trifinder, (Nuitka_StringObject *)mod_consts[37]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_matplotlib$tri$trifinder, (Nuitka_StringObject *)mod_consts[36]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[37]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[36]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[39], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[38], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -2568,7 +2568,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_matplotlib$tri$trifinder, (Nuitka_StringObject *)mod_consts[40], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_matplotlib$tri$trifinder, (Nuitka_StringObject *)mod_consts[39], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -2577,12 +2577,12 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[41];
+        tmp_name_name_1 = mod_consts[40];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_matplotlib$tri$trifinder;
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = Py_None;
         tmp_level_name_1 = mod_consts[7];
-        frame_af2c21364f397464f3e53dbcdb942eab->m_frame.f_lineno = 1;
+        frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4->m_frame.f_lineno = 1;
         tmp_assign_source_4 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2607,9 +2607,9 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         tmp_name_name_2 = mod_consts[5];
         tmp_globals_arg_name_2 = (PyObject *)moduledict_matplotlib$tri$trifinder;
         tmp_locals_arg_name_2 = Py_None;
-        tmp_fromlist_name_2 = mod_consts[42];
+        tmp_fromlist_name_2 = mod_consts[41];
         tmp_level_name_2 = mod_consts[7];
-        frame_af2c21364f397464f3e53dbcdb942eab->m_frame.f_lineno = 3;
+        frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4->m_frame.f_lineno = 3;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2653,12 +2653,12 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         PyObject *tmp_locals_arg_name_3;
         PyObject *tmp_fromlist_name_3;
         PyObject *tmp_level_name_3;
-        tmp_name_name_3 = mod_consts[43];
+        tmp_name_name_3 = mod_consts[42];
         tmp_globals_arg_name_3 = (PyObject *)moduledict_matplotlib$tri$trifinder;
         tmp_locals_arg_name_3 = Py_None;
-        tmp_fromlist_name_3 = mod_consts[44];
+        tmp_fromlist_name_3 = mod_consts[43];
         tmp_level_name_3 = mod_consts[7];
-        frame_af2c21364f397464f3e53dbcdb942eab->m_frame.f_lineno = 4;
+        frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4->m_frame.f_lineno = 4;
         tmp_import_name_from_2 = IMPORT_MODULE5(tmp_name_name_3, tmp_globals_arg_name_3, tmp_locals_arg_name_3, tmp_fromlist_name_3, tmp_level_name_3);
         if (tmp_import_name_from_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2710,7 +2710,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         PyObject *tmp_dict_arg_name_2;
         PyObject *tmp_key_name_2;
         PyObject *tmp_bases_name_1;
-        tmp_key_name_1 = mod_consts[45];
+        tmp_key_name_1 = mod_consts[44];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_1 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_1, tmp_key_name_1);
@@ -2724,7 +2724,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         condexpr_true_1:;
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_2 = tmp_class_creation_1__class_decl_dict;
-        tmp_key_name_2 = mod_consts[45];
+        tmp_key_name_2 = mod_consts[44];
         tmp_metaclass_name_1 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_2, tmp_key_name_2);
         if (tmp_metaclass_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2741,7 +2741,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         tmp_metaclass_name_1 = (PyObject *)&PyType_Type;
         Py_INCREF(tmp_metaclass_name_1);
         condexpr_end_1:;
-        tmp_bases_name_1 = mod_consts[46];
+        tmp_bases_name_1 = mod_consts[45];
         tmp_assign_source_8 = SELECT_METACLASS(tmp_metaclass_name_1, tmp_bases_name_1);
         Py_DECREF(tmp_metaclass_name_1);
         if (tmp_assign_source_8 == NULL) {
@@ -2761,7 +2761,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         nuitka_bool tmp_condition_result_2;
         PyObject *tmp_key_name_3;
         PyObject *tmp_dict_arg_name_3;
-        tmp_key_name_3 = mod_consts[45];
+        tmp_key_name_3 = mod_consts[44];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_3 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_3, tmp_key_name_3);
@@ -2776,7 +2776,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
     branch_yes_1:;
     CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_1__class_decl_dict;
-    tmp_dictdel_key = mod_consts[45];
+    tmp_dictdel_key = mod_consts[44];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -2794,7 +2794,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         PyObject *tmp_expression_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_1 = tmp_class_creation_1__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_1, mod_consts[47]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_1, mod_consts[46]);
         tmp_condition_result_3 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_3 == NUITKA_BOOL_TRUE) {
             goto branch_yes_2;
@@ -2811,7 +2811,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         PyObject *tmp_kwargs_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_2 = tmp_class_creation_1__metaclass;
-        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_2, mod_consts[47]);
+        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_2, mod_consts[46]);
         if (tmp_called_name_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -2822,10 +2822,10 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
 
             goto try_except_handler_1;
         }
-        tmp_args_name_1 = mod_consts[48];
+        tmp_args_name_1 = mod_consts[47];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_kwargs_name_1 = tmp_class_creation_1__class_decl_dict;
-        frame_af2c21364f397464f3e53dbcdb942eab->m_frame.f_lineno = 7;
+        frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4->m_frame.f_lineno = 7;
         tmp_assign_source_9 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         if (tmp_assign_source_9 == NULL) {
@@ -2847,7 +2847,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         PyObject *tmp_expression_name_3;
         CHECK_OBJECT(tmp_class_creation_1__prepared);
         tmp_expression_name_3 = tmp_class_creation_1__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_3, mod_consts[49]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_3, mod_consts[48]);
         tmp_operand_name_1 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_1);
         if (tmp_res == -1) {
@@ -2878,11 +2878,11 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         PyObject *tmp_getattr_attr_1;
         PyObject *tmp_getattr_default_1;
         tmp_raise_type_1 = PyExc_TypeError;
-        tmp_left_name_1 = mod_consts[50];
+        tmp_left_name_1 = mod_consts[49];
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_getattr_target_1 = tmp_class_creation_1__metaclass;
-        tmp_getattr_attr_1 = mod_consts[51];
-        tmp_getattr_default_1 = mod_consts[52];
+        tmp_getattr_attr_1 = mod_consts[50];
+        tmp_getattr_default_1 = mod_consts[51];
         tmp_tuple_element_1 = BUILTIN_GETATTR(tmp_getattr_target_1, tmp_getattr_attr_1, tmp_getattr_default_1);
         if (tmp_tuple_element_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2903,7 +2903,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
             tmp_type_arg_1 = tmp_class_creation_1__prepared;
             tmp_expression_name_4 = BUILTIN_TYPE1(tmp_type_arg_1);
             assert(!(tmp_expression_name_4 == NULL));
-            tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_4, mod_consts[51]);
+            tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_4, mod_consts[50]);
             Py_DECREF(tmp_expression_name_4);
             if (tmp_tuple_element_1 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -2965,8 +2965,8 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[53];
-        tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__1_TriFinder_7, mod_consts[54], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[52];
+        tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__1_TriFinder_7, mod_consts[53], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -2977,7 +2977,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
 
             goto try_except_handler_3;
         }
-        tmp_dictset_value = mod_consts[55];
+        tmp_dictset_value = mod_consts[54];
         tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__1_TriFinder_7, mod_consts[34], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -2990,7 +2990,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
             goto try_except_handler_3;
         }
         tmp_dictset_value = mod_consts[9];
-        tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__1_TriFinder_7, mod_consts[56], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__1_TriFinder_7, mod_consts[55], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -3001,31 +3001,31 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
 
             goto try_except_handler_3;
         }
-        if (isFrameUnusable(cache_frame_4f75519f0e1ed8616a0189bf77f7dda1_2)) {
-            Py_XDECREF(cache_frame_4f75519f0e1ed8616a0189bf77f7dda1_2);
+        if (isFrameUnusable(cache_frame_53a26df7eaee332d5953d642a6df374c_2)) {
+            Py_XDECREF(cache_frame_53a26df7eaee332d5953d642a6df374c_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_4f75519f0e1ed8616a0189bf77f7dda1_2 == NULL) {
+            if (cache_frame_53a26df7eaee332d5953d642a6df374c_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_4f75519f0e1ed8616a0189bf77f7dda1_2 = MAKE_FUNCTION_FRAME(codeobj_4f75519f0e1ed8616a0189bf77f7dda1, module_matplotlib$tri$trifinder, sizeof(void *));
+            cache_frame_53a26df7eaee332d5953d642a6df374c_2 = MAKE_FUNCTION_FRAME(codeobj_53a26df7eaee332d5953d642a6df374c, module_matplotlib$tri$trifinder, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_4f75519f0e1ed8616a0189bf77f7dda1_2->m_type_description == NULL);
-        frame_4f75519f0e1ed8616a0189bf77f7dda1_2 = cache_frame_4f75519f0e1ed8616a0189bf77f7dda1_2;
+        assert(cache_frame_53a26df7eaee332d5953d642a6df374c_2->m_type_description == NULL);
+        frame_53a26df7eaee332d5953d642a6df374c_2 = cache_frame_53a26df7eaee332d5953d642a6df374c_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_4f75519f0e1ed8616a0189bf77f7dda1_2);
+        pushFrameStack(frame_53a26df7eaee332d5953d642a6df374c_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_4f75519f0e1ed8616a0189bf77f7dda1_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_53a26df7eaee332d5953d642a6df374c_2) == 2); // Frame stack
 
         // Framed code:
 
@@ -3046,7 +3046,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_4f75519f0e1ed8616a0189bf77f7dda1_2);
+        RESTORE_FRAME_EXCEPTION(frame_53a26df7eaee332d5953d642a6df374c_2);
 #endif
 
         // Put the previous frame back on top.
@@ -3057,35 +3057,35 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_4f75519f0e1ed8616a0189bf77f7dda1_2);
+        RESTORE_FRAME_EXCEPTION(frame_53a26df7eaee332d5953d642a6df374c_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_4f75519f0e1ed8616a0189bf77f7dda1_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_4f75519f0e1ed8616a0189bf77f7dda1_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_4f75519f0e1ed8616a0189bf77f7dda1_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_53a26df7eaee332d5953d642a6df374c_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_53a26df7eaee332d5953d642a6df374c_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_53a26df7eaee332d5953d642a6df374c_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_4f75519f0e1ed8616a0189bf77f7dda1_2,
+            frame_53a26df7eaee332d5953d642a6df374c_2,
             type_description_2,
             outline_0_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_4f75519f0e1ed8616a0189bf77f7dda1_2 == cache_frame_4f75519f0e1ed8616a0189bf77f7dda1_2) {
+        if (frame_53a26df7eaee332d5953d642a6df374c_2 == cache_frame_53a26df7eaee332d5953d642a6df374c_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_4f75519f0e1ed8616a0189bf77f7dda1_2);
-            cache_frame_4f75519f0e1ed8616a0189bf77f7dda1_2 = NULL;
+            Py_DECREF(cache_frame_53a26df7eaee332d5953d642a6df374c_2);
+            cache_frame_53a26df7eaee332d5953d642a6df374c_2 = NULL;
         }
 
-        assertFrameObject(frame_4f75519f0e1ed8616a0189bf77f7dda1_2);
+        assertFrameObject(frame_53a26df7eaee332d5953d642a6df374c_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -3110,13 +3110,13 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
             tmp_tuple_element_2 = mod_consts[9];
             tmp_args_name_2 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_args_name_2, 0, tmp_tuple_element_2);
-            tmp_tuple_element_2 = mod_consts[46];
+            tmp_tuple_element_2 = mod_consts[45];
             PyTuple_SET_ITEM0(tmp_args_name_2, 1, tmp_tuple_element_2);
             tmp_tuple_element_2 = locals_matplotlib$tri$trifinder$$$class__1_TriFinder_7;
             PyTuple_SET_ITEM0(tmp_args_name_2, 2, tmp_tuple_element_2);
             CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
             tmp_kwargs_name_2 = tmp_class_creation_1__class_decl_dict;
-            frame_af2c21364f397464f3e53dbcdb942eab->m_frame.f_lineno = 7;
+            frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4->m_frame.f_lineno = 7;
             tmp_assign_source_12 = CALL_FUNCTION(tmp_called_name_2, tmp_args_name_2, tmp_kwargs_name_2);
             Py_DECREF(tmp_args_name_2);
             if (tmp_assign_source_12 == NULL) {
@@ -3302,7 +3302,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         PyObject *tmp_expression_name_5;
         PyObject *tmp_subscript_name_1;
         PyObject *tmp_bases_name_2;
-        tmp_key_name_4 = mod_consts[45];
+        tmp_key_name_4 = mod_consts[44];
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_4 = tmp_class_creation_2__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_4, tmp_key_name_4);
@@ -3316,7 +3316,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         condexpr_true_2:;
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_5 = tmp_class_creation_2__class_decl_dict;
-        tmp_key_name_5 = mod_consts[45];
+        tmp_key_name_5 = mod_consts[44];
         tmp_metaclass_name_2 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_5, tmp_key_name_5);
         if (tmp_metaclass_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3402,7 +3402,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         nuitka_bool tmp_condition_result_7;
         PyObject *tmp_key_name_6;
         PyObject *tmp_dict_arg_name_6;
-        tmp_key_name_6 = mod_consts[45];
+        tmp_key_name_6 = mod_consts[44];
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_6 = tmp_class_creation_2__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_6, tmp_key_name_6);
@@ -3417,7 +3417,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
     branch_yes_4:;
     CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_2__class_decl_dict;
-    tmp_dictdel_key = mod_consts[45];
+    tmp_dictdel_key = mod_consts[44];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -3435,7 +3435,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         PyObject *tmp_expression_name_6;
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_expression_name_6 = tmp_class_creation_2__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_6, mod_consts[47]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_6, mod_consts[46]);
         tmp_condition_result_8 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_8 == NUITKA_BOOL_TRUE) {
             goto branch_yes_5;
@@ -3453,7 +3453,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         PyObject *tmp_kwargs_name_3;
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_expression_name_7 = tmp_class_creation_2__metaclass;
-        tmp_called_name_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_7, mod_consts[47]);
+        tmp_called_name_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_7, mod_consts[46]);
         if (tmp_called_name_3 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -3472,7 +3472,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         PyTuple_SET_ITEM0(tmp_args_name_3, 1, tmp_tuple_element_4);
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_kwargs_name_3 = tmp_class_creation_2__class_decl_dict;
-        frame_af2c21364f397464f3e53dbcdb942eab->m_frame.f_lineno = 24;
+        frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4->m_frame.f_lineno = 24;
         tmp_assign_source_17 = CALL_FUNCTION(tmp_called_name_3, tmp_args_name_3, tmp_kwargs_name_3);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_name_3);
@@ -3495,7 +3495,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         PyObject *tmp_expression_name_8;
         CHECK_OBJECT(tmp_class_creation_2__prepared);
         tmp_expression_name_8 = tmp_class_creation_2__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_8, mod_consts[49]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_8, mod_consts[48]);
         tmp_operand_name_2 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_2);
         if (tmp_res == -1) {
@@ -3526,11 +3526,11 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         PyObject *tmp_getattr_attr_2;
         PyObject *tmp_getattr_default_2;
         tmp_raise_type_2 = PyExc_TypeError;
-        tmp_left_name_2 = mod_consts[50];
+        tmp_left_name_2 = mod_consts[49];
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_getattr_target_2 = tmp_class_creation_2__metaclass;
-        tmp_getattr_attr_2 = mod_consts[51];
-        tmp_getattr_default_2 = mod_consts[52];
+        tmp_getattr_attr_2 = mod_consts[50];
+        tmp_getattr_default_2 = mod_consts[51];
         tmp_tuple_element_5 = BUILTIN_GETATTR(tmp_getattr_target_2, tmp_getattr_attr_2, tmp_getattr_default_2);
         if (tmp_tuple_element_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3551,7 +3551,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
             tmp_type_arg_3 = tmp_class_creation_2__prepared;
             tmp_expression_name_9 = BUILTIN_TYPE1(tmp_type_arg_3);
             assert(!(tmp_expression_name_9 == NULL));
-            tmp_tuple_element_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_9, mod_consts[51]);
+            tmp_tuple_element_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_9, mod_consts[50]);
             Py_DECREF(tmp_expression_name_9);
             if (tmp_tuple_element_5 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -3613,8 +3613,8 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[53];
-        tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__2_TrapezoidMapTriFinder_24, mod_consts[54], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[52];
+        tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__2_TrapezoidMapTriFinder_24, mod_consts[53], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -3625,7 +3625,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
 
             goto try_except_handler_6;
         }
-        tmp_dictset_value = mod_consts[58];
+        tmp_dictset_value = mod_consts[57];
         tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__2_TrapezoidMapTriFinder_24, mod_consts[34], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -3638,7 +3638,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
             goto try_except_handler_6;
         }
         tmp_dictset_value = mod_consts[11];
-        tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__2_TrapezoidMapTriFinder_24, mod_consts[56], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__2_TrapezoidMapTriFinder_24, mod_consts[55], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -3649,31 +3649,31 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
 
             goto try_except_handler_6;
         }
-        if (isFrameUnusable(cache_frame_0500bcbc597dff6b60ef4eb51539cf82_3)) {
-            Py_XDECREF(cache_frame_0500bcbc597dff6b60ef4eb51539cf82_3);
+        if (isFrameUnusable(cache_frame_8da78353ac2695eb7e794680fb77f0c8_3)) {
+            Py_XDECREF(cache_frame_8da78353ac2695eb7e794680fb77f0c8_3);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_0500bcbc597dff6b60ef4eb51539cf82_3 == NULL) {
+            if (cache_frame_8da78353ac2695eb7e794680fb77f0c8_3 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_0500bcbc597dff6b60ef4eb51539cf82_3 = MAKE_FUNCTION_FRAME(codeobj_0500bcbc597dff6b60ef4eb51539cf82, module_matplotlib$tri$trifinder, sizeof(void *));
+            cache_frame_8da78353ac2695eb7e794680fb77f0c8_3 = MAKE_FUNCTION_FRAME(codeobj_8da78353ac2695eb7e794680fb77f0c8, module_matplotlib$tri$trifinder, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_0500bcbc597dff6b60ef4eb51539cf82_3->m_type_description == NULL);
-        frame_0500bcbc597dff6b60ef4eb51539cf82_3 = cache_frame_0500bcbc597dff6b60ef4eb51539cf82_3;
+        assert(cache_frame_8da78353ac2695eb7e794680fb77f0c8_3->m_type_description == NULL);
+        frame_8da78353ac2695eb7e794680fb77f0c8_3 = cache_frame_8da78353ac2695eb7e794680fb77f0c8_3;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_0500bcbc597dff6b60ef4eb51539cf82_3);
+        pushFrameStack(frame_8da78353ac2695eb7e794680fb77f0c8_3);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_0500bcbc597dff6b60ef4eb51539cf82_3) == 2); // Frame stack
+        assert(Py_REFCNT(frame_8da78353ac2695eb7e794680fb77f0c8_3) == 2); // Frame stack
 
         // Framed code:
 
@@ -3696,7 +3696,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$tri$trifinder$$$function__3___call__();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__2_TrapezoidMapTriFinder_24, mod_consts[60], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__2_TrapezoidMapTriFinder_24, mod_consts[59], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -3712,7 +3712,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$tri$trifinder$$$function__4__get_tree_stats();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__2_TrapezoidMapTriFinder_24, mod_consts[62], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__2_TrapezoidMapTriFinder_24, mod_consts[61], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -3744,7 +3744,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$tri$trifinder$$$function__6__print_tree();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__2_TrapezoidMapTriFinder_24, mod_consts[65], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__2_TrapezoidMapTriFinder_24, mod_consts[64], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -3758,7 +3758,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_0500bcbc597dff6b60ef4eb51539cf82_3);
+        RESTORE_FRAME_EXCEPTION(frame_8da78353ac2695eb7e794680fb77f0c8_3);
 #endif
 
         // Put the previous frame back on top.
@@ -3769,35 +3769,35 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         frame_exception_exit_3:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_0500bcbc597dff6b60ef4eb51539cf82_3);
+        RESTORE_FRAME_EXCEPTION(frame_8da78353ac2695eb7e794680fb77f0c8_3);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_0500bcbc597dff6b60ef4eb51539cf82_3, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_0500bcbc597dff6b60ef4eb51539cf82_3->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_0500bcbc597dff6b60ef4eb51539cf82_3, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_8da78353ac2695eb7e794680fb77f0c8_3, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_8da78353ac2695eb7e794680fb77f0c8_3->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_8da78353ac2695eb7e794680fb77f0c8_3, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_0500bcbc597dff6b60ef4eb51539cf82_3,
+            frame_8da78353ac2695eb7e794680fb77f0c8_3,
             type_description_2,
             outline_1_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_0500bcbc597dff6b60ef4eb51539cf82_3 == cache_frame_0500bcbc597dff6b60ef4eb51539cf82_3) {
+        if (frame_8da78353ac2695eb7e794680fb77f0c8_3 == cache_frame_8da78353ac2695eb7e794680fb77f0c8_3) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_0500bcbc597dff6b60ef4eb51539cf82_3);
-            cache_frame_0500bcbc597dff6b60ef4eb51539cf82_3 = NULL;
+            Py_DECREF(cache_frame_8da78353ac2695eb7e794680fb77f0c8_3);
+            cache_frame_8da78353ac2695eb7e794680fb77f0c8_3 = NULL;
         }
 
-        assertFrameObject(frame_0500bcbc597dff6b60ef4eb51539cf82_3);
+        assertFrameObject(frame_8da78353ac2695eb7e794680fb77f0c8_3);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -3840,7 +3840,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
         branch_yes_7:;
         CHECK_OBJECT(tmp_class_creation_2__bases_orig);
         tmp_dictset_value = tmp_class_creation_2__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__2_TrapezoidMapTriFinder_24, mod_consts[67], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$tri$trifinder$$$class__2_TrapezoidMapTriFinder_24, mod_consts[66], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -3870,7 +3870,7 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
             PyTuple_SET_ITEM0(tmp_args_name_4, 2, tmp_tuple_element_6);
             CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
             tmp_kwargs_name_4 = tmp_class_creation_2__class_decl_dict;
-            frame_af2c21364f397464f3e53dbcdb942eab->m_frame.f_lineno = 24;
+            frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4->m_frame.f_lineno = 24;
             tmp_assign_source_20 = CALL_FUNCTION(tmp_called_name_4, tmp_args_name_4, tmp_kwargs_name_4);
             Py_DECREF(tmp_args_name_4);
             if (tmp_assign_source_20 == NULL) {
@@ -3987,23 +3987,23 @@ PyObject *modulecode_matplotlib$tri$trifinder(PyObject *module, struct Nuitka_Me
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_af2c21364f397464f3e53dbcdb942eab);
+    RESTORE_FRAME_EXCEPTION(frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_af2c21364f397464f3e53dbcdb942eab);
+    assertFrameObject(frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4);
 
     goto frame_no_exception_3;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_af2c21364f397464f3e53dbcdb942eab);
+    RESTORE_FRAME_EXCEPTION(frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_af2c21364f397464f3e53dbcdb942eab, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_af2c21364f397464f3e53dbcdb942eab->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_af2c21364f397464f3e53dbcdb942eab, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_c9d39d7f06dc8cbbd0e0c2dd256e3fa4, exception_lineno);
     }
 
     // Put the previous frame back on top.

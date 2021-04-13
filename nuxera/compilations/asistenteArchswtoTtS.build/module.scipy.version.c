@@ -65,11 +65,11 @@ void checkModuleConstants_scipy$version(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_34e922b3a9e7f1e87bef7110f76fd596;
+static PyCodeObject *codeobj_eb4057a81724c0bfac2191811b14bab8;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[1]; CHECK_OBJECT(module_filename_obj);
-    codeobj_34e922b3a9e7f1e87bef7110f76fd596 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[14], NULL, NULL, 0, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[13]); CHECK_OBJECT(module_filename_obj);
+    codeobj_eb4057a81724c0bfac2191811b14bab8 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[14], NULL, NULL, 0, 0, 0);
 }
 
 // The module function declarations.
@@ -449,7 +449,7 @@ PyObject *modulecode_scipy$version(PyObject *module, struct Nuitka_MetaPathBased
 #endif
 
     // Temp variables if any
-    struct Nuitka_FrameObject *frame_34e922b3a9e7f1e87bef7110f76fd596;
+    struct Nuitka_FrameObject *frame_eb4057a81724c0bfac2191811b14bab8;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -467,30 +467,30 @@ PyObject *modulecode_scipy$version(PyObject *module, struct Nuitka_MetaPathBased
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[1];
-        UPDATE_STRING_DICT0(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[2], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[1], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_34e922b3a9e7f1e87bef7110f76fd596 = MAKE_MODULE_FRAME(codeobj_34e922b3a9e7f1e87bef7110f76fd596, module_scipy$version);
+    frame_eb4057a81724c0bfac2191811b14bab8 = MAKE_MODULE_FRAME(codeobj_eb4057a81724c0bfac2191811b14bab8, module_scipy$version);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_34e922b3a9e7f1e87bef7110f76fd596);
-    assert(Py_REFCNT(frame_34e922b3a9e7f1e87bef7110f76fd596) == 2);
+    pushFrameStack(frame_eb4057a81724c0bfac2191811b14bab8);
+    assert(Py_REFCNT(frame_eb4057a81724c0bfac2191811b14bab8) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[1];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[3]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[2]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[2]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[4], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[3], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -506,14 +506,14 @@ PyObject *modulecode_scipy$version(PyObject *module, struct Nuitka_MetaPathBased
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[3]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[2]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[2]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[5], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[4], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -528,23 +528,23 @@ PyObject *modulecode_scipy$version(PyObject *module, struct Nuitka_MetaPathBased
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_34e922b3a9e7f1e87bef7110f76fd596);
+    RESTORE_FRAME_EXCEPTION(frame_eb4057a81724c0bfac2191811b14bab8);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_34e922b3a9e7f1e87bef7110f76fd596);
+    assertFrameObject(frame_eb4057a81724c0bfac2191811b14bab8);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_34e922b3a9e7f1e87bef7110f76fd596);
+    RESTORE_FRAME_EXCEPTION(frame_eb4057a81724c0bfac2191811b14bab8);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_34e922b3a9e7f1e87bef7110f76fd596, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_34e922b3a9e7f1e87bef7110f76fd596->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_34e922b3a9e7f1e87bef7110f76fd596, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_eb4057a81724c0bfac2191811b14bab8, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_eb4057a81724c0bfac2191811b14bab8->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_eb4057a81724c0bfac2191811b14bab8, exception_lineno);
     }
 
     // Put the previous frame back on top.
@@ -557,39 +557,39 @@ PyObject *modulecode_scipy$version(PyObject *module, struct Nuitka_MetaPathBased
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[6], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[5], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
-        tmp_assign_source_4 = mod_consts[7];
-        UPDATE_STRING_DICT0(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[8], tmp_assign_source_4);
+        tmp_assign_source_4 = mod_consts[6];
+        UPDATE_STRING_DICT0(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[7], tmp_assign_source_4);
     }
     {
         PyObject *tmp_assign_source_5;
-        tmp_assign_source_5 = mod_consts[7];
-        UPDATE_STRING_DICT0(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[9], tmp_assign_source_5);
+        tmp_assign_source_5 = mod_consts[6];
+        UPDATE_STRING_DICT0(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[8], tmp_assign_source_5);
     }
     {
         PyObject *tmp_assign_source_6;
-        tmp_assign_source_6 = mod_consts[7];
-        UPDATE_STRING_DICT0(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[10], tmp_assign_source_6);
+        tmp_assign_source_6 = mod_consts[6];
+        UPDATE_STRING_DICT0(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[9], tmp_assign_source_6);
     }
     {
         PyObject *tmp_assign_source_7;
-        tmp_assign_source_7 = mod_consts[11];
-        UPDATE_STRING_DICT0(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[12], tmp_assign_source_7);
+        tmp_assign_source_7 = mod_consts[10];
+        UPDATE_STRING_DICT0(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[11], tmp_assign_source_7);
     }
     {
         PyObject *tmp_assign_source_8;
         tmp_assign_source_8 = Py_True;
-        UPDATE_STRING_DICT0(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[13], tmp_assign_source_8);
+        UPDATE_STRING_DICT0(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[12], tmp_assign_source_8);
     }
     {
         PyObject *tmp_operand_name_1;
-        tmp_operand_name_1 = GET_STRING_DICT_VALUE(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[13]);
+        tmp_operand_name_1 = GET_STRING_DICT_VALUE(moduledict_scipy$version, (Nuitka_StringObject *)mod_consts[12]);
 
         if (unlikely(tmp_operand_name_1 == NULL)) {
-            tmp_operand_name_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[13]);
+            tmp_operand_name_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[12]);
         }
 
         assert(!(tmp_operand_name_1 == NULL));

@@ -65,15 +65,15 @@ void checkModuleConstants_PIL$ImageColor(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_df0926bbe87a030cf035c3043caac433;
-static PyCodeObject *codeobj_48617ee1e4b44c1739290196d7460f06;
-static PyCodeObject *codeobj_85db44c897918a117e404f5fa2868d90;
+static PyCodeObject *codeobj_074facd312e3fed9c190edc28aa6f40e;
+static PyCodeObject *codeobj_4adf73d0faa57e024e8de697f272030c;
+static PyCodeObject *codeobj_6babefffe9a7623c8db19de16506fdd4;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[58]; CHECK_OBJECT(module_filename_obj);
-    codeobj_df0926bbe87a030cf035c3043caac433 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[68], NULL, NULL, 0, 0, 0);
-    codeobj_48617ee1e4b44c1739290196d7460f06 = MAKE_CODEOBJECT(module_filename_obj, 119, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[66], mod_consts[69], NULL, 2, 0, 0);
-    codeobj_85db44c897918a117e404f5fa2868d90 = MAKE_CODEOBJECT(module_filename_obj, 25, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[3], mod_consts[70], NULL, 1, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[67]); CHECK_OBJECT(module_filename_obj);
+    codeobj_074facd312e3fed9c190edc28aa6f40e = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[68], NULL, NULL, 0, 0, 0);
+    codeobj_4adf73d0faa57e024e8de697f272030c = MAKE_CODEOBJECT(module_filename_obj, 119, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[65], mod_consts[69], NULL, 2, 0, 0);
+    codeobj_6babefffe9a7623c8db19de16506fdd4 = MAKE_CODEOBJECT(module_filename_obj, 25, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[3], mod_consts[70], NULL, 1, 0, 0);
 }
 
 // The module function declarations.
@@ -97,7 +97,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
     PyObject *var_hls_to_rgb = NULL;
     PyObject *var_hsv_to_rgb = NULL;
     PyObject *tmp_assign_unpack_1__assign_source = NULL;
-    struct Nuitka_FrameObject *frame_85db44c897918a117e404f5fa2868d90;
+    struct Nuitka_FrameObject *frame_6babefffe9a7623c8db19de16506fdd4;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -110,7 +110,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_1;
-    static struct Nuitka_FrameObject *cache_frame_85db44c897918a117e404f5fa2868d90 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_6babefffe9a7623c8db19de16506fdd4 = NULL;
     PyObject *exception_keeper_type_2;
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
@@ -118,31 +118,31 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_85db44c897918a117e404f5fa2868d90)) {
-        Py_XDECREF(cache_frame_85db44c897918a117e404f5fa2868d90);
+    if (isFrameUnusable(cache_frame_6babefffe9a7623c8db19de16506fdd4)) {
+        Py_XDECREF(cache_frame_6babefffe9a7623c8db19de16506fdd4);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_85db44c897918a117e404f5fa2868d90 == NULL) {
+        if (cache_frame_6babefffe9a7623c8db19de16506fdd4 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_85db44c897918a117e404f5fa2868d90 = MAKE_FUNCTION_FRAME(codeobj_85db44c897918a117e404f5fa2868d90, module_PIL$ImageColor, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_6babefffe9a7623c8db19de16506fdd4 = MAKE_FUNCTION_FRAME(codeobj_6babefffe9a7623c8db19de16506fdd4, module_PIL$ImageColor, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_85db44c897918a117e404f5fa2868d90->m_type_description == NULL);
-    frame_85db44c897918a117e404f5fa2868d90 = cache_frame_85db44c897918a117e404f5fa2868d90;
+    assert(cache_frame_6babefffe9a7623c8db19de16506fdd4->m_type_description == NULL);
+    frame_6babefffe9a7623c8db19de16506fdd4 = cache_frame_6babefffe9a7623c8db19de16506fdd4;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_85db44c897918a117e404f5fa2868d90);
+    pushFrameStack(frame_6babefffe9a7623c8db19de16506fdd4);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_85db44c897918a117e404f5fa2868d90) == 2); // Frame stack
+    assert(Py_REFCNT(frame_6babefffe9a7623c8db19de16506fdd4) == 2); // Frame stack
 
     // Framed code:
     {
@@ -150,7 +150,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         PyObject *tmp_called_instance_1;
         CHECK_OBJECT(par_color);
         tmp_called_instance_1 = par_color;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 35;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 35;
         tmp_assign_source_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[0]);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -193,7 +193,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         CHECK_OBJECT(par_color);
         tmp_args_element_name_1 = par_color;
         tmp_args_element_name_2 = Py_None;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 37;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 37;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_2 = CALL_METHOD_WITH_ARGS2(
@@ -293,7 +293,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         }
         CHECK_OBJECT(var_rgb);
         tmp_args_element_name_3 = var_rgb;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 41;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 41;
         tmp_assign_source_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_3);
         if (tmp_assign_source_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -448,7 +448,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         }
 
         tmp_args_element_name_5 = par_color;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 45;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 45;
         {
             PyObject *call_args[] = {tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_call_result_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -723,7 +723,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         }
 
         tmp_args_element_name_7 = par_color;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 48;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 48;
         {
             PyObject *call_args[] = {tmp_args_element_name_6, tmp_args_element_name_7};
             tmp_call_result_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -1056,7 +1056,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         }
 
         tmp_args_element_name_9 = par_color;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 56;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 56;
         {
             PyObject *call_args[] = {tmp_args_element_name_8, tmp_args_element_name_9};
             tmp_call_result_3 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -1286,7 +1286,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         }
 
         tmp_args_element_name_11 = par_color;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 59;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 59;
         {
             PyObject *call_args[] = {tmp_args_element_name_10, tmp_args_element_name_11};
             tmp_call_result_4 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_5, call_args);
@@ -1557,7 +1557,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         }
 
         tmp_args_element_name_13 = par_color;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 67;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 67;
         {
             PyObject *call_args[] = {tmp_args_element_name_12, tmp_args_element_name_13};
             tmp_assign_source_5 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_6, call_args);
@@ -1606,7 +1606,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         PyObject *tmp_called_instance_3;
         CHECK_OBJECT(var_m);
         tmp_called_instance_3 = var_m;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 69;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 69;
         tmp_int_arg_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_3,
             mod_consts[21],
@@ -1655,7 +1655,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
             }
 
             tmp_called_instance_4 = var_m;
-            frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 69;
+            frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 69;
             tmp_int_arg_2 = CALL_METHOD_WITH_ARGS1(
                 tmp_called_instance_4,
                 mod_consts[21],
@@ -1698,7 +1698,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
             }
 
             tmp_called_instance_5 = var_m;
-            frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 69;
+            frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 69;
             tmp_int_arg_3 = CALL_METHOD_WITH_ARGS1(
                 tmp_called_instance_5,
                 mod_consts[21],
@@ -1786,7 +1786,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         }
 
         tmp_args_element_name_15 = par_color;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 71;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 71;
         {
             PyObject *call_args[] = {tmp_args_element_name_14, tmp_args_element_name_15};
             tmp_assign_source_6 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_7, call_args);
@@ -1847,7 +1847,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         PyObject *tmp_right_name_10;
         CHECK_OBJECT(var_m);
         tmp_called_instance_6 = var_m;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 74;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 74;
         tmp_int_arg_5 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_6,
             mod_consts[21],
@@ -1961,7 +1961,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
             }
 
             tmp_called_instance_7 = var_m;
-            frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 75;
+            frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 75;
             tmp_int_arg_7 = CALL_METHOD_WITH_ARGS1(
                 tmp_called_instance_7,
                 mod_consts[21],
@@ -2055,7 +2055,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
             }
 
             tmp_called_instance_8 = var_m;
-            frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 76;
+            frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 76;
             tmp_int_arg_9 = CALL_METHOD_WITH_ARGS1(
                 tmp_called_instance_8,
                 mod_consts[21],
@@ -2194,7 +2194,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         }
 
         tmp_args_element_name_17 = par_color;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 79;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 79;
         {
             PyObject *call_args[] = {tmp_args_element_name_16, tmp_args_element_name_17};
             tmp_assign_source_7 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_8, call_args);
@@ -2255,7 +2255,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = mod_consts[32];
         tmp_level_name_1 = mod_consts[33];
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 83;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 83;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2314,7 +2314,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         tmp_called_name_9 = var_hls_to_rgb;
         CHECK_OBJECT(var_m);
         tmp_called_instance_9 = var_m;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 86;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 86;
         tmp_float_arg_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_9,
             mod_consts[21],
@@ -2369,7 +2369,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         }
 
         tmp_called_instance_10 = var_m;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 87;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 87;
         tmp_float_arg_2 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_10,
             mod_consts[21],
@@ -2425,7 +2425,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         }
 
         tmp_called_instance_11 = var_m;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 88;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 88;
         tmp_float_arg_3 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_11,
             mod_consts[21],
@@ -2470,7 +2470,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 85;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 85;
         {
             PyObject *call_args[] = {tmp_args_element_name_18, tmp_args_element_name_19, tmp_args_element_name_20};
             tmp_assign_source_9 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_9, call_args);
@@ -2739,7 +2739,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         }
 
         tmp_args_element_name_22 = par_color;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 96;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 96;
         {
             PyObject *call_args[] = {tmp_args_element_name_21, tmp_args_element_name_22};
             tmp_assign_source_10 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_10, call_args);
@@ -2800,7 +2800,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         tmp_locals_arg_name_2 = Py_None;
         tmp_fromlist_name_2 = mod_consts[37];
         tmp_level_name_2 = mod_consts[33];
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 100;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 100;
         tmp_import_name_from_2 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_import_name_from_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2859,7 +2859,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         tmp_called_name_11 = var_hsv_to_rgb;
         CHECK_OBJECT(var_m);
         tmp_called_instance_12 = var_m;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 103;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 103;
         tmp_float_arg_4 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_12,
             mod_consts[21],
@@ -2914,7 +2914,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         }
 
         tmp_called_instance_13 = var_m;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 104;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 104;
         tmp_float_arg_5 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_13,
             mod_consts[21],
@@ -2970,7 +2970,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         }
 
         tmp_called_instance_14 = var_m;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 105;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 105;
         tmp_float_arg_6 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_14,
             mod_consts[21],
@@ -3015,7 +3015,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 102;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 102;
         {
             PyObject *call_args[] = {tmp_args_element_name_23, tmp_args_element_name_24, tmp_args_element_name_25};
             tmp_assign_source_12 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_11, call_args);
@@ -3284,7 +3284,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         }
 
         tmp_args_element_name_27 = par_color;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 113;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 113;
         {
             PyObject *call_args[] = {tmp_args_element_name_26, tmp_args_element_name_27};
             tmp_assign_source_13 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_12, call_args);
@@ -3338,7 +3338,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
         PyObject *tmp_called_instance_15;
         CHECK_OBJECT(var_m);
         tmp_called_instance_15 = var_m;
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 115;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 115;
         tmp_int_arg_16 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_15,
             mod_consts[21],
@@ -3389,7 +3389,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
             }
 
             tmp_called_instance_16 = var_m;
-            frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 115;
+            frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 115;
             tmp_int_arg_17 = CALL_METHOD_WITH_ARGS1(
                 tmp_called_instance_16,
                 mod_consts[21],
@@ -3432,7 +3432,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
             }
 
             tmp_called_instance_17 = var_m;
-            frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 115;
+            frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 115;
             tmp_int_arg_18 = CALL_METHOD_WITH_ARGS1(
                 tmp_called_instance_17,
                 mod_consts[21],
@@ -3475,7 +3475,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
             }
 
             tmp_called_instance_18 = var_m;
-            frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 115;
+            frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 115;
             tmp_int_arg_19 = CALL_METHOD_WITH_ARGS1(
                 tmp_called_instance_18,
                 mod_consts[21],
@@ -3546,7 +3546,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_85db44c897918a117e404f5fa2868d90->m_frame.f_lineno = 116;
+        frame_6babefffe9a7623c8db19de16506fdd4->m_frame.f_lineno = 116;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         Py_DECREF(tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
@@ -3558,7 +3558,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_85db44c897918a117e404f5fa2868d90);
+    RESTORE_FRAME_EXCEPTION(frame_6babefffe9a7623c8db19de16506fdd4);
 #endif
 
     // Put the previous frame back on top.
@@ -3568,7 +3568,7 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_85db44c897918a117e404f5fa2868d90);
+    RESTORE_FRAME_EXCEPTION(frame_6babefffe9a7623c8db19de16506fdd4);
 #endif
 
     // Put the previous frame back on top.
@@ -3579,18 +3579,18 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_85db44c897918a117e404f5fa2868d90);
+    RESTORE_FRAME_EXCEPTION(frame_6babefffe9a7623c8db19de16506fdd4);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_85db44c897918a117e404f5fa2868d90, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_85db44c897918a117e404f5fa2868d90->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_85db44c897918a117e404f5fa2868d90, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_6babefffe9a7623c8db19de16506fdd4, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_6babefffe9a7623c8db19de16506fdd4->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_6babefffe9a7623c8db19de16506fdd4, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_85db44c897918a117e404f5fa2868d90,
+        frame_6babefffe9a7623c8db19de16506fdd4,
         type_description_1,
         par_color,
         var_rgb,
@@ -3601,17 +3601,17 @@ static PyObject *impl_PIL$ImageColor$$$function__1_getrgb(struct Nuitka_Function
 
 
     // Release cached frame if used for exception.
-    if (frame_85db44c897918a117e404f5fa2868d90 == cache_frame_85db44c897918a117e404f5fa2868d90) {
+    if (frame_6babefffe9a7623c8db19de16506fdd4 == cache_frame_6babefffe9a7623c8db19de16506fdd4) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_85db44c897918a117e404f5fa2868d90);
-        cache_frame_85db44c897918a117e404f5fa2868d90 = NULL;
+        Py_DECREF(cache_frame_6babefffe9a7623c8db19de16506fdd4);
+        cache_frame_6babefffe9a7623c8db19de16506fdd4 = NULL;
     }
 
-    assertFrameObject(frame_85db44c897918a117e404f5fa2868d90);
+    assertFrameObject(frame_6babefffe9a7623c8db19de16506fdd4);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -3710,7 +3710,7 @@ static PyObject *impl_PIL$ImageColor$$$function__2_getcolor(struct Nuitka_Functi
     PyObject *tmp_tuple_unpack_3__element_2 = NULL;
     PyObject *tmp_tuple_unpack_3__element_3 = NULL;
     PyObject *tmp_tuple_unpack_3__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_48617ee1e4b44c1739290196d7460f06;
+    struct Nuitka_FrameObject *frame_4adf73d0faa57e024e8de697f272030c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -3742,7 +3742,7 @@ static PyObject *impl_PIL$ImageColor$$$function__2_getcolor(struct Nuitka_Functi
     PyTracebackObject *exception_keeper_tb_6;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_6;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_48617ee1e4b44c1739290196d7460f06 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_4adf73d0faa57e024e8de697f272030c = NULL;
     PyObject *exception_keeper_type_7;
     PyObject *exception_keeper_value_7;
     PyTracebackObject *exception_keeper_tb_7;
@@ -3750,31 +3750,31 @@ static PyObject *impl_PIL$ImageColor$$$function__2_getcolor(struct Nuitka_Functi
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_48617ee1e4b44c1739290196d7460f06)) {
-        Py_XDECREF(cache_frame_48617ee1e4b44c1739290196d7460f06);
+    if (isFrameUnusable(cache_frame_4adf73d0faa57e024e8de697f272030c)) {
+        Py_XDECREF(cache_frame_4adf73d0faa57e024e8de697f272030c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_48617ee1e4b44c1739290196d7460f06 == NULL) {
+        if (cache_frame_4adf73d0faa57e024e8de697f272030c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_48617ee1e4b44c1739290196d7460f06 = MAKE_FUNCTION_FRAME(codeobj_48617ee1e4b44c1739290196d7460f06, module_PIL$ImageColor, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_4adf73d0faa57e024e8de697f272030c = MAKE_FUNCTION_FRAME(codeobj_4adf73d0faa57e024e8de697f272030c, module_PIL$ImageColor, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_48617ee1e4b44c1739290196d7460f06->m_type_description == NULL);
-    frame_48617ee1e4b44c1739290196d7460f06 = cache_frame_48617ee1e4b44c1739290196d7460f06;
+    assert(cache_frame_4adf73d0faa57e024e8de697f272030c->m_type_description == NULL);
+    frame_4adf73d0faa57e024e8de697f272030c = cache_frame_4adf73d0faa57e024e8de697f272030c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_48617ee1e4b44c1739290196d7460f06);
+    pushFrameStack(frame_4adf73d0faa57e024e8de697f272030c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_48617ee1e4b44c1739290196d7460f06) == 2); // Frame stack
+    assert(Py_REFCNT(frame_4adf73d0faa57e024e8de697f272030c) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -3802,7 +3802,7 @@ static PyObject *impl_PIL$ImageColor$$$function__2_getcolor(struct Nuitka_Functi
         }
         CHECK_OBJECT(par_color);
         tmp_args_element_name_1 = par_color;
-        frame_48617ee1e4b44c1739290196d7460f06->m_frame.f_lineno = 131;
+        frame_4adf73d0faa57e024e8de697f272030c->m_frame.f_lineno = 131;
         tmp_tuple_element_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         if (tmp_tuple_element_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4270,7 +4270,7 @@ static PyObject *impl_PIL$ImageColor$$$function__2_getcolor(struct Nuitka_Functi
         }
         CHECK_OBJECT(par_mode);
         tmp_args_element_name_2 = par_mode;
-        frame_48617ee1e4b44c1739290196d7460f06->m_frame.f_lineno = 135;
+        frame_4adf73d0faa57e024e8de697f272030c->m_frame.f_lineno = 135;
         tmp_compexpr_left_2 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[46], tmp_args_element_name_2);
         if (tmp_compexpr_left_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4864,7 +4864,7 @@ static PyObject *impl_PIL$ImageColor$$$function__2_getcolor(struct Nuitka_Functi
     goto frame_return_exit_1;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_48617ee1e4b44c1739290196d7460f06);
+    RESTORE_FRAME_EXCEPTION(frame_4adf73d0faa57e024e8de697f272030c);
 #endif
 
     // Put the previous frame back on top.
@@ -4874,7 +4874,7 @@ static PyObject *impl_PIL$ImageColor$$$function__2_getcolor(struct Nuitka_Functi
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_48617ee1e4b44c1739290196d7460f06);
+    RESTORE_FRAME_EXCEPTION(frame_4adf73d0faa57e024e8de697f272030c);
 #endif
 
     // Put the previous frame back on top.
@@ -4885,18 +4885,18 @@ static PyObject *impl_PIL$ImageColor$$$function__2_getcolor(struct Nuitka_Functi
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_48617ee1e4b44c1739290196d7460f06);
+    RESTORE_FRAME_EXCEPTION(frame_4adf73d0faa57e024e8de697f272030c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_48617ee1e4b44c1739290196d7460f06, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_48617ee1e4b44c1739290196d7460f06->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_48617ee1e4b44c1739290196d7460f06, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_4adf73d0faa57e024e8de697f272030c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_4adf73d0faa57e024e8de697f272030c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_4adf73d0faa57e024e8de697f272030c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_48617ee1e4b44c1739290196d7460f06,
+        frame_4adf73d0faa57e024e8de697f272030c,
         type_description_1,
         par_color,
         par_mode,
@@ -4908,17 +4908,17 @@ static PyObject *impl_PIL$ImageColor$$$function__2_getcolor(struct Nuitka_Functi
 
 
     // Release cached frame if used for exception.
-    if (frame_48617ee1e4b44c1739290196d7460f06 == cache_frame_48617ee1e4b44c1739290196d7460f06) {
+    if (frame_4adf73d0faa57e024e8de697f272030c == cache_frame_4adf73d0faa57e024e8de697f272030c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_48617ee1e4b44c1739290196d7460f06);
-        cache_frame_48617ee1e4b44c1739290196d7460f06 = NULL;
+        Py_DECREF(cache_frame_4adf73d0faa57e024e8de697f272030c);
+        cache_frame_4adf73d0faa57e024e8de697f272030c = NULL;
     }
 
-    assertFrameObject(frame_48617ee1e4b44c1739290196d7460f06);
+    assertFrameObject(frame_4adf73d0faa57e024e8de697f272030c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5006,7 +5006,7 @@ static PyObject *MAKE_FUNCTION_PIL$ImageColor$$$function__1_getrgb() {
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_85db44c897918a117e404f5fa2868d90,
+        codeobj_6babefffe9a7623c8db19de16506fdd4,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -5027,11 +5027,11 @@ static PyObject *MAKE_FUNCTION_PIL$ImageColor$$$function__1_getrgb() {
 static PyObject *MAKE_FUNCTION_PIL$ImageColor$$$function__2_getcolor() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_PIL$ImageColor$$$function__2_getcolor,
-        mod_consts[66],
+        mod_consts[65],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_48617ee1e4b44c1739290196d7460f06,
+        codeobj_4adf73d0faa57e024e8de697f272030c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -5420,7 +5420,7 @@ PyObject *modulecode_PIL$ImageColor(PyObject *module, struct Nuitka_MetaPathBase
 #endif
 
     // Temp variables if any
-    struct Nuitka_FrameObject *frame_df0926bbe87a030cf035c3043caac433;
+    struct Nuitka_FrameObject *frame_074facd312e3fed9c190edc28aa6f40e;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -5436,30 +5436,30 @@ PyObject *modulecode_PIL$ImageColor(PyObject *module, struct Nuitka_MetaPathBase
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[58];
-        UPDATE_STRING_DICT0(moduledict_PIL$ImageColor, (Nuitka_StringObject *)mod_consts[59], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_PIL$ImageColor, (Nuitka_StringObject *)mod_consts[58], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_df0926bbe87a030cf035c3043caac433 = MAKE_MODULE_FRAME(codeobj_df0926bbe87a030cf035c3043caac433, module_PIL$ImageColor);
+    frame_074facd312e3fed9c190edc28aa6f40e = MAKE_MODULE_FRAME(codeobj_074facd312e3fed9c190edc28aa6f40e, module_PIL$ImageColor);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_df0926bbe87a030cf035c3043caac433);
-    assert(Py_REFCNT(frame_df0926bbe87a030cf035c3043caac433) == 2);
+    pushFrameStack(frame_074facd312e3fed9c190edc28aa6f40e);
+    assert(Py_REFCNT(frame_074facd312e3fed9c190edc28aa6f40e) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[58];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_PIL$ImageColor, (Nuitka_StringObject *)mod_consts[60]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_PIL$ImageColor, (Nuitka_StringObject *)mod_consts[59]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[60]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[59]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[61], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[60], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -5475,14 +5475,14 @@ PyObject *modulecode_PIL$ImageColor(PyObject *module, struct Nuitka_MetaPathBase
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_PIL$ImageColor, (Nuitka_StringObject *)mod_consts[60]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_PIL$ImageColor, (Nuitka_StringObject *)mod_consts[59]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[60]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[59]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[62], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[61], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -5497,7 +5497,7 @@ PyObject *modulecode_PIL$ImageColor(PyObject *module, struct Nuitka_MetaPathBase
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_PIL$ImageColor, (Nuitka_StringObject *)mod_consts[63], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_PIL$ImageColor, (Nuitka_StringObject *)mod_consts[62], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -5511,7 +5511,7 @@ PyObject *modulecode_PIL$ImageColor(PyObject *module, struct Nuitka_MetaPathBase
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = Py_None;
         tmp_level_name_1 = mod_consts[33];
-        frame_df0926bbe87a030cf035c3043caac433->m_frame.f_lineno = 20;
+        frame_074facd312e3fed9c190edc28aa6f40e->m_frame.f_lineno = 20;
         tmp_assign_source_4 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5533,12 +5533,12 @@ PyObject *modulecode_PIL$ImageColor(PyObject *module, struct Nuitka_MetaPathBase
         PyObject *tmp_locals_arg_name_2;
         PyObject *tmp_fromlist_name_2;
         PyObject *tmp_level_name_2;
-        tmp_name_name_2 = mod_consts[64];
+        tmp_name_name_2 = mod_consts[63];
         tmp_globals_arg_name_2 = (PyObject *)moduledict_PIL$ImageColor;
         tmp_locals_arg_name_2 = Py_None;
-        tmp_fromlist_name_2 = mod_consts[65];
+        tmp_fromlist_name_2 = mod_consts[64];
         tmp_level_name_2 = mod_consts[8];
-        frame_df0926bbe87a030cf035c3043caac433->m_frame.f_lineno = 22;
+        frame_074facd312e3fed9c190edc28aa6f40e->m_frame.f_lineno = 22;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5577,23 +5577,23 @@ PyObject *modulecode_PIL$ImageColor(PyObject *module, struct Nuitka_MetaPathBase
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_df0926bbe87a030cf035c3043caac433);
+    RESTORE_FRAME_EXCEPTION(frame_074facd312e3fed9c190edc28aa6f40e);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_df0926bbe87a030cf035c3043caac433);
+    assertFrameObject(frame_074facd312e3fed9c190edc28aa6f40e);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_df0926bbe87a030cf035c3043caac433);
+    RESTORE_FRAME_EXCEPTION(frame_074facd312e3fed9c190edc28aa6f40e);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_df0926bbe87a030cf035c3043caac433, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_df0926bbe87a030cf035c3043caac433->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_df0926bbe87a030cf035c3043caac433, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_074facd312e3fed9c190edc28aa6f40e, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_074facd312e3fed9c190edc28aa6f40e->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_074facd312e3fed9c190edc28aa6f40e, exception_lineno);
     }
 
     // Put the previous frame back on top.
@@ -5617,11 +5617,11 @@ PyObject *modulecode_PIL$ImageColor(PyObject *module, struct Nuitka_MetaPathBase
 
         tmp_assign_source_7 = MAKE_FUNCTION_PIL$ImageColor$$$function__2_getcolor();
 
-        UPDATE_STRING_DICT1(moduledict_PIL$ImageColor, (Nuitka_StringObject *)mod_consts[66], tmp_assign_source_7);
+        UPDATE_STRING_DICT1(moduledict_PIL$ImageColor, (Nuitka_StringObject *)mod_consts[65], tmp_assign_source_7);
     }
     {
         PyObject *tmp_assign_source_8;
-        tmp_assign_source_8 = PyDict_Copy(mod_consts[67]);
+        tmp_assign_source_8 = PyDict_Copy(mod_consts[66]);
         UPDATE_STRING_DICT1(moduledict_PIL$ImageColor, (Nuitka_StringObject *)mod_consts[1], tmp_assign_source_8);
     }
 

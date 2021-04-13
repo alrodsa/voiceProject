@@ -65,11 +65,11 @@ void checkModuleConstants_PIL$_version(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_1ad991587014280c10be6d93a292db57;
+static PyCodeObject *codeobj_d8a89d35a60f12cc5b0501c00ccbc19e;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[1]; CHECK_OBJECT(module_filename_obj);
-    codeobj_1ad991587014280c10be6d93a292db57 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[9], NULL, NULL, 0, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[8]); CHECK_OBJECT(module_filename_obj);
+    codeobj_d8a89d35a60f12cc5b0501c00ccbc19e = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[9], NULL, NULL, 0, 0, 0);
 }
 
 // The module function declarations.
@@ -449,7 +449,7 @@ PyObject *modulecode_PIL$_version(PyObject *module, struct Nuitka_MetaPathBasedL
 #endif
 
     // Temp variables if any
-    struct Nuitka_FrameObject *frame_1ad991587014280c10be6d93a292db57;
+    struct Nuitka_FrameObject *frame_d8a89d35a60f12cc5b0501c00ccbc19e;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -465,30 +465,30 @@ PyObject *modulecode_PIL$_version(PyObject *module, struct Nuitka_MetaPathBasedL
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[1];
-        UPDATE_STRING_DICT0(moduledict_PIL$_version, (Nuitka_StringObject *)mod_consts[2], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_PIL$_version, (Nuitka_StringObject *)mod_consts[1], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_1ad991587014280c10be6d93a292db57 = MAKE_MODULE_FRAME(codeobj_1ad991587014280c10be6d93a292db57, module_PIL$_version);
+    frame_d8a89d35a60f12cc5b0501c00ccbc19e = MAKE_MODULE_FRAME(codeobj_d8a89d35a60f12cc5b0501c00ccbc19e, module_PIL$_version);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_1ad991587014280c10be6d93a292db57);
-    assert(Py_REFCNT(frame_1ad991587014280c10be6d93a292db57) == 2);
+    pushFrameStack(frame_d8a89d35a60f12cc5b0501c00ccbc19e);
+    assert(Py_REFCNT(frame_d8a89d35a60f12cc5b0501c00ccbc19e) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[1];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_PIL$_version, (Nuitka_StringObject *)mod_consts[3]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_PIL$_version, (Nuitka_StringObject *)mod_consts[2]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[2]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[4], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[3], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -504,14 +504,14 @@ PyObject *modulecode_PIL$_version(PyObject *module, struct Nuitka_MetaPathBasedL
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_PIL$_version, (Nuitka_StringObject *)mod_consts[3]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_PIL$_version, (Nuitka_StringObject *)mod_consts[2]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[2]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[5], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[4], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -526,23 +526,23 @@ PyObject *modulecode_PIL$_version(PyObject *module, struct Nuitka_MetaPathBasedL
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_1ad991587014280c10be6d93a292db57);
+    RESTORE_FRAME_EXCEPTION(frame_d8a89d35a60f12cc5b0501c00ccbc19e);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_1ad991587014280c10be6d93a292db57);
+    assertFrameObject(frame_d8a89d35a60f12cc5b0501c00ccbc19e);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_1ad991587014280c10be6d93a292db57);
+    RESTORE_FRAME_EXCEPTION(frame_d8a89d35a60f12cc5b0501c00ccbc19e);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_1ad991587014280c10be6d93a292db57, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_1ad991587014280c10be6d93a292db57->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_1ad991587014280c10be6d93a292db57, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d8a89d35a60f12cc5b0501c00ccbc19e, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d8a89d35a60f12cc5b0501c00ccbc19e->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d8a89d35a60f12cc5b0501c00ccbc19e, exception_lineno);
     }
 
     // Put the previous frame back on top.
@@ -555,12 +555,12 @@ PyObject *modulecode_PIL$_version(PyObject *module, struct Nuitka_MetaPathBasedL
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_PIL$_version, (Nuitka_StringObject *)mod_consts[6], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_PIL$_version, (Nuitka_StringObject *)mod_consts[5], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
-        tmp_assign_source_4 = mod_consts[7];
-        UPDATE_STRING_DICT0(moduledict_PIL$_version, (Nuitka_StringObject *)mod_consts[8], tmp_assign_source_4);
+        tmp_assign_source_4 = mod_consts[6];
+        UPDATE_STRING_DICT0(moduledict_PIL$_version, (Nuitka_StringObject *)mod_consts[7], tmp_assign_source_4);
     }
 
     return module_PIL$_version;

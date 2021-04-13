@@ -65,13 +65,13 @@ void checkModuleConstants_matplotlib$_text_layout(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_31b7312d99b91013c1ed264f35056339;
-static PyCodeObject *codeobj_88dc8151b40dcaa923787560db27c795;
+static PyCodeObject *codeobj_b4f724b0e4002cea84a669467161190f;
+static PyCodeObject *codeobj_33199db31b9b9593668b1fca4656c42f;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[19]; CHECK_OBJECT(module_filename_obj);
-    codeobj_31b7312d99b91013c1ed264f35056339 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[29], NULL, NULL, 0, 0, 0);
-    codeobj_88dc8151b40dcaa923787560db27c795 = MAKE_CODEOBJECT(module_filename_obj, 8, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[16], mod_consts[30], NULL, 2, 1, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[28]); CHECK_OBJECT(module_filename_obj);
+    codeobj_b4f724b0e4002cea84a669467161190f = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[29], NULL, NULL, 0, 0, 0);
+    codeobj_33199db31b9b9593668b1fca4656c42f = MAKE_CODEOBJECT(module_filename_obj, 8, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[16], mod_consts[30], NULL, 2, 1, 0);
 }
 
 // The module function declarations.
@@ -236,7 +236,7 @@ static PyObject *matplotlib$_text_layout$$$function__1_layout$$$genobj__1_layout
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_m_frame = MAKE_FUNCTION_FRAME(codeobj_88dc8151b40dcaa923787560db27c795, module_matplotlib$_text_layout, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_m_frame = MAKE_FUNCTION_FRAME(codeobj_33199db31b9b9593668b1fca4656c42f, module_matplotlib$_text_layout, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
@@ -950,7 +950,7 @@ static PyObject *MAKE_GENERATOR_matplotlib$_text_layout$$$function__1_layout$$$g
 #if PYTHON_VERSION >= 0x350
         NULL,
 #endif
-        codeobj_88dc8151b40dcaa923787560db27c795,
+        codeobj_33199db31b9b9593668b1fca4656c42f,
         closure,
         3,
         sizeof(struct matplotlib$_text_layout$$$function__1_layout$$$genobj__1_layout_locals)
@@ -966,7 +966,7 @@ static PyObject *MAKE_FUNCTION_matplotlib$_text_layout$$$function__1_layout(PyOb
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_88dc8151b40dcaa923787560db27c795,
+        codeobj_33199db31b9b9593668b1fca4656c42f,
         NULL,
 #if PYTHON_VERSION >= 0x300
         kw_defaults,
@@ -1355,7 +1355,7 @@ PyObject *modulecode_matplotlib$_text_layout(PyObject *module, struct Nuitka_Met
 
     // Temp variables if any
     PyObject *tmp_import_from_1__module = NULL;
-    struct Nuitka_FrameObject *frame_31b7312d99b91013c1ed264f35056339;
+    struct Nuitka_FrameObject *frame_b4f724b0e4002cea84a669467161190f;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -1376,30 +1376,30 @@ PyObject *modulecode_matplotlib$_text_layout(PyObject *module, struct Nuitka_Met
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[19];
-        UPDATE_STRING_DICT0(moduledict_matplotlib$_text_layout, (Nuitka_StringObject *)mod_consts[20], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_matplotlib$_text_layout, (Nuitka_StringObject *)mod_consts[19], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_31b7312d99b91013c1ed264f35056339 = MAKE_MODULE_FRAME(codeobj_31b7312d99b91013c1ed264f35056339, module_matplotlib$_text_layout);
+    frame_b4f724b0e4002cea84a669467161190f = MAKE_MODULE_FRAME(codeobj_b4f724b0e4002cea84a669467161190f, module_matplotlib$_text_layout);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_31b7312d99b91013c1ed264f35056339);
-    assert(Py_REFCNT(frame_31b7312d99b91013c1ed264f35056339) == 2);
+    pushFrameStack(frame_b4f724b0e4002cea84a669467161190f);
+    assert(Py_REFCNT(frame_b4f724b0e4002cea84a669467161190f) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[19];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$_text_layout, (Nuitka_StringObject *)mod_consts[21]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$_text_layout, (Nuitka_StringObject *)mod_consts[20]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[21]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[20]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[22], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[21], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -1415,14 +1415,14 @@ PyObject *modulecode_matplotlib$_text_layout(PyObject *module, struct Nuitka_Met
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_matplotlib$_text_layout, (Nuitka_StringObject *)mod_consts[21]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_matplotlib$_text_layout, (Nuitka_StringObject *)mod_consts[20]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[21]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[20]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[23], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[22], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -1437,7 +1437,7 @@ PyObject *modulecode_matplotlib$_text_layout(PyObject *module, struct Nuitka_Met
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_matplotlib$_text_layout, (Nuitka_StringObject *)mod_consts[24], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_matplotlib$_text_layout, (Nuitka_StringObject *)mod_consts[23], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -1446,12 +1446,12 @@ PyObject *modulecode_matplotlib$_text_layout(PyObject *module, struct Nuitka_Met
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[25];
+        tmp_name_name_1 = mod_consts[24];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_matplotlib$_text_layout;
         tmp_locals_arg_name_1 = Py_None;
-        tmp_fromlist_name_1 = mod_consts[26];
-        tmp_level_name_1 = mod_consts[27];
-        frame_31b7312d99b91013c1ed264f35056339->m_frame.f_lineno = 5;
+        tmp_fromlist_name_1 = mod_consts[25];
+        tmp_level_name_1 = mod_consts[26];
+        frame_b4f724b0e4002cea84a669467161190f->m_frame.f_lineno = 5;
         tmp_assign_source_4 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1476,11 +1476,11 @@ PyObject *modulecode_matplotlib$_text_layout(PyObject *module, struct Nuitka_Met
             tmp_assign_source_5 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_1,
                 (PyObject *)moduledict_matplotlib$_text_layout,
-                mod_consts[28],
+                mod_consts[27],
                 mod_consts[1]
             );
         } else {
-            tmp_assign_source_5 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[28]);
+            tmp_assign_source_5 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[27]);
         }
 
         if (tmp_assign_source_5 == NULL) {
@@ -1493,7 +1493,7 @@ PyObject *modulecode_matplotlib$_text_layout(PyObject *module, struct Nuitka_Met
 
             goto try_except_handler_1;
         }
-        UPDATE_STRING_DICT1(moduledict_matplotlib$_text_layout, (Nuitka_StringObject *)mod_consts[28], tmp_assign_source_5);
+        UPDATE_STRING_DICT1(moduledict_matplotlib$_text_layout, (Nuitka_StringObject *)mod_consts[27], tmp_assign_source_5);
     }
     {
         PyObject *tmp_assign_source_6;
@@ -1556,10 +1556,10 @@ PyObject *modulecode_matplotlib$_text_layout(PyObject *module, struct Nuitka_Met
         PyObject *tmp_dict_key_1;
         PyObject *tmp_dict_value_1;
         tmp_dict_key_1 = mod_consts[7];
-        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$_text_layout, (Nuitka_StringObject *)mod_consts[28]);
+        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$_text_layout, (Nuitka_StringObject *)mod_consts[27]);
 
         if (unlikely(tmp_dict_value_1 == NULL)) {
-            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[28]);
+            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[27]);
         }
 
         if (tmp_dict_value_1 == NULL) {
@@ -1584,23 +1584,23 @@ PyObject *modulecode_matplotlib$_text_layout(PyObject *module, struct Nuitka_Met
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_31b7312d99b91013c1ed264f35056339);
+    RESTORE_FRAME_EXCEPTION(frame_b4f724b0e4002cea84a669467161190f);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_31b7312d99b91013c1ed264f35056339);
+    assertFrameObject(frame_b4f724b0e4002cea84a669467161190f);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_31b7312d99b91013c1ed264f35056339);
+    RESTORE_FRAME_EXCEPTION(frame_b4f724b0e4002cea84a669467161190f);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_31b7312d99b91013c1ed264f35056339, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_31b7312d99b91013c1ed264f35056339->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_31b7312d99b91013c1ed264f35056339, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_b4f724b0e4002cea84a669467161190f, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_b4f724b0e4002cea84a669467161190f->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_b4f724b0e4002cea84a669467161190f, exception_lineno);
     }
 
     // Put the previous frame back on top.

@@ -65,31 +65,31 @@ void checkModuleConstants_gi$module(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_452797e94cbf7af4f93279b3f5805885;
-static PyCodeObject *codeobj_a489902eb5f9e37322c5e5e6b74e85fd;
-static PyCodeObject *codeobj_f097184cba212b82e4327127b0c3579d;
-static PyCodeObject *codeobj_e605d3e37b9b8a27b353eb5511b437d1;
-static PyCodeObject *codeobj_ee0acbca606bd8512ace0daa92faa431;
-static PyCodeObject *codeobj_069e629df232563d26eac5fe2b1900a9;
-static PyCodeObject *codeobj_8acb0637fb0ca101b8666d293b4158ac;
-static PyCodeObject *codeobj_9563b405cdc74cd93af63d72093d63c7;
-static PyCodeObject *codeobj_590f52cfd7bc48f4505584affe8ba370;
-static PyCodeObject *codeobj_f8d70685a07aff9e7daff8adb9ad0457;
-static PyCodeObject *codeobj_e56452fc48cad66116c91842116aacc0;
+static PyCodeObject *codeobj_a0a0fe706479c7651fc5a53d502abbd5;
+static PyCodeObject *codeobj_646c9a5ac8fe803c34f07d7a6a3ab088;
+static PyCodeObject *codeobj_0d07898c59b3a0be3650a52a09d8f6c5;
+static PyCodeObject *codeobj_f949e38bc45852f0f588e5adccbdd824;
+static PyCodeObject *codeobj_67f94c6a0ec994f3a0c4a6be1f6855fe;
+static PyCodeObject *codeobj_44b69cb0fbb48784b822658f2dec7f8d;
+static PyCodeObject *codeobj_1893f4f2a7fc347e54b4e5af20d1c944;
+static PyCodeObject *codeobj_15bc2f13f8d740ef23e5258f2bea75c1;
+static PyCodeObject *codeobj_9db2f488e3ad2fb8e312a0db7a013884;
+static PyCodeObject *codeobj_631f8cbc5dc4ffb24a36aa5f757b24eb;
+static PyCodeObject *codeobj_8c7231e05570f151aacee3914b368eed;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[93]; CHECK_OBJECT(module_filename_obj);
-    codeobj_452797e94cbf7af4f93279b3f5805885 = MAKE_CODEOBJECT(module_filename_obj, 248, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[79], mod_consts[130], NULL, 1, 0, 0);
-    codeobj_a489902eb5f9e37322c5e5e6b74e85fd = MAKE_CODEOBJECT(module_filename_obj, 176, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[79], mod_consts[131], NULL, 1, 0, 0);
-    codeobj_f097184cba212b82e4327127b0c3579d = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[132], NULL, NULL, 0, 0, 0);
-    codeobj_e605d3e37b9b8a27b353eb5511b437d1 = MAKE_CODEOBJECT(module_filename_obj, 106, CO_NOFREE, mod_consts[90], mod_consts[133], NULL, 0, 0, 0);
-    codeobj_ee0acbca606bd8512ace0daa92faa431 = MAKE_CODEOBJECT(module_filename_obj, 238, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[126], mod_consts[134], NULL, 1, 0, 0);
-    codeobj_069e629df232563d26eac5fe2b1900a9 = MAKE_CODEOBJECT(module_filename_obj, 128, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[122], mod_consts[135], NULL, 2, 0, 0);
-    codeobj_8acb0637fb0ca101b8666d293b4158ac = MAKE_CODEOBJECT(module_filename_obj, 114, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[120], mod_consts[136], NULL, 3, 0, 0);
-    codeobj_9563b405cdc74cd93af63d72093d63c7 = MAKE_CODEOBJECT(module_filename_obj, 234, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[124], mod_consts[137], NULL, 1, 0, 0);
-    codeobj_590f52cfd7bc48f4505584affe8ba370 = MAKE_CODEOBJECT(module_filename_obj, 95, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[58], mod_consts[138], NULL, 1, 0, 0);
-    codeobj_f8d70685a07aff9e7daff8adb9ad0457 = MAKE_CODEOBJECT(module_filename_obj, 254, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[129], mod_consts[139], NULL, 1, 0, 0);
-    codeobj_e56452fc48cad66116c91842116aacc0 = MAKE_CODEOBJECT(module_filename_obj, 72, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[57], mod_consts[140], NULL, 1, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[129]); CHECK_OBJECT(module_filename_obj);
+    codeobj_a0a0fe706479c7651fc5a53d502abbd5 = MAKE_CODEOBJECT(module_filename_obj, 248, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[79], mod_consts[130], NULL, 1, 0, 0);
+    codeobj_646c9a5ac8fe803c34f07d7a6a3ab088 = MAKE_CODEOBJECT(module_filename_obj, 176, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[79], mod_consts[131], NULL, 1, 0, 0);
+    codeobj_0d07898c59b3a0be3650a52a09d8f6c5 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[132], NULL, NULL, 0, 0, 0);
+    codeobj_f949e38bc45852f0f588e5adccbdd824 = MAKE_CODEOBJECT(module_filename_obj, 106, CO_NOFREE, mod_consts[90], mod_consts[133], NULL, 0, 0, 0);
+    codeobj_67f94c6a0ec994f3a0c4a6be1f6855fe = MAKE_CODEOBJECT(module_filename_obj, 238, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[125], mod_consts[134], NULL, 1, 0, 0);
+    codeobj_44b69cb0fbb48784b822658f2dec7f8d = MAKE_CODEOBJECT(module_filename_obj, 128, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[121], mod_consts[135], NULL, 2, 0, 0);
+    codeobj_1893f4f2a7fc347e54b4e5af20d1c944 = MAKE_CODEOBJECT(module_filename_obj, 114, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[119], mod_consts[136], NULL, 3, 0, 0);
+    codeobj_15bc2f13f8d740ef23e5258f2bea75c1 = MAKE_CODEOBJECT(module_filename_obj, 234, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[123], mod_consts[137], NULL, 1, 0, 0);
+    codeobj_9db2f488e3ad2fb8e312a0db7a013884 = MAKE_CODEOBJECT(module_filename_obj, 95, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[58], mod_consts[138], NULL, 1, 0, 0);
+    codeobj_631f8cbc5dc4ffb24a36aa5f757b24eb = MAKE_CODEOBJECT(module_filename_obj, 254, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[128], mod_consts[139], NULL, 1, 0, 0);
+    codeobj_8c7231e05570f151aacee3914b368eed = MAKE_CODEOBJECT(module_filename_obj, 72, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[57], mod_consts[140], NULL, 1, 0, 0);
 }
 
 // The module function declarations.
@@ -137,7 +137,7 @@ static PyObject *impl_gi$module$$$function__1_get_parent_for_object(struct Nuitk
     PyObject *var_namespace = NULL;
     PyObject *var_name = NULL;
     PyObject *var_module = NULL;
-    struct Nuitka_FrameObject *frame_e56452fc48cad66116c91842116aacc0;
+    struct Nuitka_FrameObject *frame_8c7231e05570f151aacee3914b368eed;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -145,7 +145,7 @@ static PyObject *impl_gi$module$$$function__1_get_parent_for_object(struct Nuitk
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_e56452fc48cad66116c91842116aacc0 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_8c7231e05570f151aacee3914b368eed = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -153,31 +153,31 @@ static PyObject *impl_gi$module$$$function__1_get_parent_for_object(struct Nuitk
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_e56452fc48cad66116c91842116aacc0)) {
-        Py_XDECREF(cache_frame_e56452fc48cad66116c91842116aacc0);
+    if (isFrameUnusable(cache_frame_8c7231e05570f151aacee3914b368eed)) {
+        Py_XDECREF(cache_frame_8c7231e05570f151aacee3914b368eed);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_e56452fc48cad66116c91842116aacc0 == NULL) {
+        if (cache_frame_8c7231e05570f151aacee3914b368eed == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_e56452fc48cad66116c91842116aacc0 = MAKE_FUNCTION_FRAME(codeobj_e56452fc48cad66116c91842116aacc0, module_gi$module, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_8c7231e05570f151aacee3914b368eed = MAKE_FUNCTION_FRAME(codeobj_8c7231e05570f151aacee3914b368eed, module_gi$module, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_e56452fc48cad66116c91842116aacc0->m_type_description == NULL);
-    frame_e56452fc48cad66116c91842116aacc0 = cache_frame_e56452fc48cad66116c91842116aacc0;
+    assert(cache_frame_8c7231e05570f151aacee3914b368eed->m_type_description == NULL);
+    frame_8c7231e05570f151aacee3914b368eed = cache_frame_8c7231e05570f151aacee3914b368eed;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_e56452fc48cad66116c91842116aacc0);
+    pushFrameStack(frame_8c7231e05570f151aacee3914b368eed);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_e56452fc48cad66116c91842116aacc0) == 2); // Frame stack
+    assert(Py_REFCNT(frame_8c7231e05570f151aacee3914b368eed) == 2); // Frame stack
 
     // Framed code:
     {
@@ -185,7 +185,7 @@ static PyObject *impl_gi$module$$$function__1_get_parent_for_object(struct Nuitk
         PyObject *tmp_called_instance_1;
         CHECK_OBJECT(par_object_info);
         tmp_called_instance_1 = par_object_info;
-        frame_e56452fc48cad66116c91842116aacc0->m_frame.f_lineno = 73;
+        frame_8c7231e05570f151aacee3914b368eed->m_frame.f_lineno = 73;
         tmp_assign_source_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[0]);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -240,7 +240,7 @@ static PyObject *impl_gi$module$$$function__1_get_parent_for_object(struct Nuitk
         }
 
         tmp_called_instance_2 = par_object_info;
-        frame_e56452fc48cad66116c91842116aacc0->m_frame.f_lineno = 81;
+        frame_8c7231e05570f151aacee3914b368eed->m_frame.f_lineno = 81;
         tmp_assign_source_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[2]);
         if (tmp_assign_source_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -370,7 +370,7 @@ static PyObject *impl_gi$module$$$function__1_get_parent_for_object(struct Nuitk
         PyObject *tmp_called_instance_3;
         CHECK_OBJECT(var_parent_object_info);
         tmp_called_instance_3 = var_parent_object_info;
-        frame_e56452fc48cad66116c91842116aacc0->m_frame.f_lineno = 88;
+        frame_8c7231e05570f151aacee3914b368eed->m_frame.f_lineno = 88;
         tmp_assign_source_3 = CALL_METHOD_NO_ARGS(tmp_called_instance_3, mod_consts[5]);
         if (tmp_assign_source_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -401,7 +401,7 @@ static PyObject *impl_gi$module$$$function__1_get_parent_for_object(struct Nuitk
         }
 
         tmp_called_instance_4 = var_parent_object_info;
-        frame_e56452fc48cad66116c91842116aacc0->m_frame.f_lineno = 89;
+        frame_8c7231e05570f151aacee3914b368eed->m_frame.f_lineno = 89;
         tmp_assign_source_4 = CALL_METHOD_NO_ARGS(tmp_called_instance_4, mod_consts[7]);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -464,7 +464,7 @@ static PyObject *impl_gi$module$$$function__1_get_parent_for_object(struct Nuitk
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_e56452fc48cad66116c91842116aacc0->m_frame.f_lineno = 91;
+        frame_8c7231e05570f151aacee3914b368eed->m_frame.f_lineno = 91;
         tmp_assign_source_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -503,7 +503,7 @@ static PyObject *impl_gi$module$$$function__1_get_parent_for_object(struct Nuitk
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e56452fc48cad66116c91842116aacc0);
+    RESTORE_FRAME_EXCEPTION(frame_8c7231e05570f151aacee3914b368eed);
 #endif
 
     // Put the previous frame back on top.
@@ -513,7 +513,7 @@ static PyObject *impl_gi$module$$$function__1_get_parent_for_object(struct Nuitk
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e56452fc48cad66116c91842116aacc0);
+    RESTORE_FRAME_EXCEPTION(frame_8c7231e05570f151aacee3914b368eed);
 #endif
 
     // Put the previous frame back on top.
@@ -524,18 +524,18 @@ static PyObject *impl_gi$module$$$function__1_get_parent_for_object(struct Nuitk
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e56452fc48cad66116c91842116aacc0);
+    RESTORE_FRAME_EXCEPTION(frame_8c7231e05570f151aacee3914b368eed);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_e56452fc48cad66116c91842116aacc0, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_e56452fc48cad66116c91842116aacc0->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_e56452fc48cad66116c91842116aacc0, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_8c7231e05570f151aacee3914b368eed, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_8c7231e05570f151aacee3914b368eed->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_8c7231e05570f151aacee3914b368eed, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_e56452fc48cad66116c91842116aacc0,
+        frame_8c7231e05570f151aacee3914b368eed,
         type_description_1,
         par_object_info,
         var_parent_object_info,
@@ -547,17 +547,17 @@ static PyObject *impl_gi$module$$$function__1_get_parent_for_object(struct Nuitk
 
 
     // Release cached frame if used for exception.
-    if (frame_e56452fc48cad66116c91842116aacc0 == cache_frame_e56452fc48cad66116c91842116aacc0) {
+    if (frame_8c7231e05570f151aacee3914b368eed == cache_frame_8c7231e05570f151aacee3914b368eed) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_e56452fc48cad66116c91842116aacc0);
-        cache_frame_e56452fc48cad66116c91842116aacc0 = NULL;
+        Py_DECREF(cache_frame_8c7231e05570f151aacee3914b368eed);
+        cache_frame_8c7231e05570f151aacee3914b368eed = NULL;
     }
 
-    assertFrameObject(frame_e56452fc48cad66116c91842116aacc0);
+    assertFrameObject(frame_8c7231e05570f151aacee3914b368eed);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -651,7 +651,7 @@ static PyObject *impl_gi$module$$$function__2_get_interfaces_for_object(struct N
     PyObject *var_module = NULL;
     PyObject *tmp_for_loop_1__for_iterator = NULL;
     PyObject *tmp_for_loop_1__iter_value = NULL;
-    struct Nuitka_FrameObject *frame_590f52cfd7bc48f4505584affe8ba370;
+    struct Nuitka_FrameObject *frame_9db2f488e3ad2fb8e312a0db7a013884;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -663,7 +663,7 @@ static PyObject *impl_gi$module$$$function__2_get_interfaces_for_object(struct N
     PyTracebackObject *exception_keeper_tb_1;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_1;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_590f52cfd7bc48f4505584affe8ba370 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_9db2f488e3ad2fb8e312a0db7a013884 = NULL;
     PyObject *exception_keeper_type_2;
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
@@ -677,31 +677,31 @@ static PyObject *impl_gi$module$$$function__2_get_interfaces_for_object(struct N
         var_interfaces = tmp_assign_source_1;
     }
     // Tried code:
-    if (isFrameUnusable(cache_frame_590f52cfd7bc48f4505584affe8ba370)) {
-        Py_XDECREF(cache_frame_590f52cfd7bc48f4505584affe8ba370);
+    if (isFrameUnusable(cache_frame_9db2f488e3ad2fb8e312a0db7a013884)) {
+        Py_XDECREF(cache_frame_9db2f488e3ad2fb8e312a0db7a013884);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_590f52cfd7bc48f4505584affe8ba370 == NULL) {
+        if (cache_frame_9db2f488e3ad2fb8e312a0db7a013884 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_590f52cfd7bc48f4505584affe8ba370 = MAKE_FUNCTION_FRAME(codeobj_590f52cfd7bc48f4505584affe8ba370, module_gi$module, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_9db2f488e3ad2fb8e312a0db7a013884 = MAKE_FUNCTION_FRAME(codeobj_9db2f488e3ad2fb8e312a0db7a013884, module_gi$module, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_590f52cfd7bc48f4505584affe8ba370->m_type_description == NULL);
-    frame_590f52cfd7bc48f4505584affe8ba370 = cache_frame_590f52cfd7bc48f4505584affe8ba370;
+    assert(cache_frame_9db2f488e3ad2fb8e312a0db7a013884->m_type_description == NULL);
+    frame_9db2f488e3ad2fb8e312a0db7a013884 = cache_frame_9db2f488e3ad2fb8e312a0db7a013884;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_590f52cfd7bc48f4505584affe8ba370);
+    pushFrameStack(frame_9db2f488e3ad2fb8e312a0db7a013884);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_590f52cfd7bc48f4505584affe8ba370) == 2); // Frame stack
+    assert(Py_REFCNT(frame_9db2f488e3ad2fb8e312a0db7a013884) == 2); // Frame stack
 
     // Framed code:
     {
@@ -710,7 +710,7 @@ static PyObject *impl_gi$module$$$function__2_get_interfaces_for_object(struct N
         PyObject *tmp_called_instance_1;
         CHECK_OBJECT(par_object_info);
         tmp_called_instance_1 = par_object_info;
-        frame_590f52cfd7bc48f4505584affe8ba370->m_frame.f_lineno = 97;
+        frame_9db2f488e3ad2fb8e312a0db7a013884->m_frame.f_lineno = 97;
         tmp_iter_arg_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[11]);
         if (tmp_iter_arg_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -782,7 +782,7 @@ static PyObject *impl_gi$module$$$function__2_get_interfaces_for_object(struct N
         PyObject *tmp_called_instance_2;
         CHECK_OBJECT(var_interface_info);
         tmp_called_instance_2 = var_interface_info;
-        frame_590f52cfd7bc48f4505584affe8ba370->m_frame.f_lineno = 98;
+        frame_9db2f488e3ad2fb8e312a0db7a013884->m_frame.f_lineno = 98;
         tmp_assign_source_5 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[5]);
         if (tmp_assign_source_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -817,7 +817,7 @@ static PyObject *impl_gi$module$$$function__2_get_interfaces_for_object(struct N
         }
 
         tmp_called_instance_3 = var_interface_info;
-        frame_590f52cfd7bc48f4505584affe8ba370->m_frame.f_lineno = 99;
+        frame_9db2f488e3ad2fb8e312a0db7a013884->m_frame.f_lineno = 99;
         tmp_assign_source_6 = CALL_METHOD_NO_ARGS(tmp_called_instance_3, mod_consts[7]);
         if (tmp_assign_source_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -884,7 +884,7 @@ static PyObject *impl_gi$module$$$function__2_get_interfaces_for_object(struct N
             type_description_1 = "oooooo";
             goto try_except_handler_2;
         }
-        frame_590f52cfd7bc48f4505584affe8ba370->m_frame.f_lineno = 101;
+        frame_9db2f488e3ad2fb8e312a0db7a013884->m_frame.f_lineno = 101;
         tmp_assign_source_7 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -951,7 +951,7 @@ static PyObject *impl_gi$module$$$function__2_get_interfaces_for_object(struct N
             type_description_1 = "oooooo";
             goto try_except_handler_2;
         }
-        frame_590f52cfd7bc48f4505584affe8ba370->m_frame.f_lineno = 102;
+        frame_9db2f488e3ad2fb8e312a0db7a013884->m_frame.f_lineno = 102;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_2);
@@ -1025,7 +1025,7 @@ static PyObject *impl_gi$module$$$function__2_get_interfaces_for_object(struct N
     goto frame_return_exit_1;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_590f52cfd7bc48f4505584affe8ba370);
+    RESTORE_FRAME_EXCEPTION(frame_9db2f488e3ad2fb8e312a0db7a013884);
 #endif
 
     // Put the previous frame back on top.
@@ -1035,7 +1035,7 @@ static PyObject *impl_gi$module$$$function__2_get_interfaces_for_object(struct N
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_590f52cfd7bc48f4505584affe8ba370);
+    RESTORE_FRAME_EXCEPTION(frame_9db2f488e3ad2fb8e312a0db7a013884);
 #endif
 
     // Put the previous frame back on top.
@@ -1046,18 +1046,18 @@ static PyObject *impl_gi$module$$$function__2_get_interfaces_for_object(struct N
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_590f52cfd7bc48f4505584affe8ba370);
+    RESTORE_FRAME_EXCEPTION(frame_9db2f488e3ad2fb8e312a0db7a013884);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_590f52cfd7bc48f4505584affe8ba370, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_590f52cfd7bc48f4505584affe8ba370->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_590f52cfd7bc48f4505584affe8ba370, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_9db2f488e3ad2fb8e312a0db7a013884, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_9db2f488e3ad2fb8e312a0db7a013884->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_9db2f488e3ad2fb8e312a0db7a013884, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_590f52cfd7bc48f4505584affe8ba370,
+        frame_9db2f488e3ad2fb8e312a0db7a013884,
         type_description_1,
         par_object_info,
         var_interfaces,
@@ -1069,17 +1069,17 @@ static PyObject *impl_gi$module$$$function__2_get_interfaces_for_object(struct N
 
 
     // Release cached frame if used for exception.
-    if (frame_590f52cfd7bc48f4505584affe8ba370 == cache_frame_590f52cfd7bc48f4505584affe8ba370) {
+    if (frame_9db2f488e3ad2fb8e312a0db7a013884 == cache_frame_9db2f488e3ad2fb8e312a0db7a013884) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_590f52cfd7bc48f4505584affe8ba370);
-        cache_frame_590f52cfd7bc48f4505584affe8ba370 = NULL;
+        Py_DECREF(cache_frame_9db2f488e3ad2fb8e312a0db7a013884);
+        cache_frame_9db2f488e3ad2fb8e312a0db7a013884 = NULL;
     }
 
-    assertFrameObject(frame_590f52cfd7bc48f4505584affe8ba370);
+    assertFrameObject(frame_9db2f488e3ad2fb8e312a0db7a013884);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1169,7 +1169,7 @@ static PyObject *impl_gi$module$$$function__3___init__(struct Nuitka_FunctionObj
     PyObject *par_namespace = python_pars[1];
     PyObject *par_version = python_pars[2];
     PyObject *var_path = NULL;
-    struct Nuitka_FrameObject *frame_8acb0637fb0ca101b8666d293b4158ac;
+    struct Nuitka_FrameObject *frame_1893f4f2a7fc347e54b4e5af20d1c944;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -1177,7 +1177,7 @@ static PyObject *impl_gi$module$$$function__3___init__(struct Nuitka_FunctionObj
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_8acb0637fb0ca101b8666d293b4158ac = NULL;
+    static struct Nuitka_FrameObject *cache_frame_1893f4f2a7fc347e54b4e5af20d1c944 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -1186,31 +1186,31 @@ static PyObject *impl_gi$module$$$function__3___init__(struct Nuitka_FunctionObj
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_8acb0637fb0ca101b8666d293b4158ac)) {
-        Py_XDECREF(cache_frame_8acb0637fb0ca101b8666d293b4158ac);
+    if (isFrameUnusable(cache_frame_1893f4f2a7fc347e54b4e5af20d1c944)) {
+        Py_XDECREF(cache_frame_1893f4f2a7fc347e54b4e5af20d1c944);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_8acb0637fb0ca101b8666d293b4158ac == NULL) {
+        if (cache_frame_1893f4f2a7fc347e54b4e5af20d1c944 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_8acb0637fb0ca101b8666d293b4158ac = MAKE_FUNCTION_FRAME(codeobj_8acb0637fb0ca101b8666d293b4158ac, module_gi$module, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_1893f4f2a7fc347e54b4e5af20d1c944 = MAKE_FUNCTION_FRAME(codeobj_1893f4f2a7fc347e54b4e5af20d1c944, module_gi$module, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_8acb0637fb0ca101b8666d293b4158ac->m_type_description == NULL);
-    frame_8acb0637fb0ca101b8666d293b4158ac = cache_frame_8acb0637fb0ca101b8666d293b4158ac;
+    assert(cache_frame_1893f4f2a7fc347e54b4e5af20d1c944->m_type_description == NULL);
+    frame_1893f4f2a7fc347e54b4e5af20d1c944 = cache_frame_1893f4f2a7fc347e54b4e5af20d1c944;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_8acb0637fb0ca101b8666d293b4158ac);
+    pushFrameStack(frame_1893f4f2a7fc347e54b4e5af20d1c944);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_8acb0637fb0ca101b8666d293b4158ac) == 2); // Frame stack
+    assert(Py_REFCNT(frame_1893f4f2a7fc347e54b4e5af20d1c944) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1238,7 +1238,7 @@ static PyObject *impl_gi$module$$$function__3___init__(struct Nuitka_FunctionObj
         tmp_args_element_name_1 = par_namespace;
         CHECK_OBJECT(par_version);
         tmp_args_element_name_2 = par_version;
-        frame_8acb0637fb0ca101b8666d293b4158ac->m_frame.f_lineno = 117;
+        frame_1893f4f2a7fc347e54b4e5af20d1c944->m_frame.f_lineno = 117;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS2(
@@ -1411,7 +1411,7 @@ static PyObject *impl_gi$module$$$function__3___init__(struct Nuitka_FunctionObj
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_8acb0637fb0ca101b8666d293b4158ac->m_frame.f_lineno = 122;
+        frame_1893f4f2a7fc347e54b4e5af20d1c944->m_frame.f_lineno = 122;
         tmp_assign_source_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_3);
@@ -1559,7 +1559,7 @@ static PyObject *impl_gi$module$$$function__3___init__(struct Nuitka_FunctionObj
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_8acb0637fb0ca101b8666d293b4158ac->m_frame.f_lineno = 126;
+        frame_1893f4f2a7fc347e54b4e5af20d1c944->m_frame.f_lineno = 126;
         tmp_assattr_name_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_4);
@@ -1602,7 +1602,7 @@ static PyObject *impl_gi$module$$$function__3___init__(struct Nuitka_FunctionObj
     branch_no_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_8acb0637fb0ca101b8666d293b4158ac);
+    RESTORE_FRAME_EXCEPTION(frame_1893f4f2a7fc347e54b4e5af20d1c944);
 #endif
 
     // Put the previous frame back on top.
@@ -1613,18 +1613,18 @@ static PyObject *impl_gi$module$$$function__3___init__(struct Nuitka_FunctionObj
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_8acb0637fb0ca101b8666d293b4158ac);
+    RESTORE_FRAME_EXCEPTION(frame_1893f4f2a7fc347e54b4e5af20d1c944);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_8acb0637fb0ca101b8666d293b4158ac, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_8acb0637fb0ca101b8666d293b4158ac->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_8acb0637fb0ca101b8666d293b4158ac, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_1893f4f2a7fc347e54b4e5af20d1c944, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_1893f4f2a7fc347e54b4e5af20d1c944->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_1893f4f2a7fc347e54b4e5af20d1c944, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_8acb0637fb0ca101b8666d293b4158ac,
+        frame_1893f4f2a7fc347e54b4e5af20d1c944,
         type_description_1,
         par_self,
         par_namespace,
@@ -1634,17 +1634,17 @@ static PyObject *impl_gi$module$$$function__3___init__(struct Nuitka_FunctionObj
 
 
     // Release cached frame if used for exception.
-    if (frame_8acb0637fb0ca101b8666d293b4158ac == cache_frame_8acb0637fb0ca101b8666d293b4158ac) {
+    if (frame_1893f4f2a7fc347e54b4e5af20d1c944 == cache_frame_1893f4f2a7fc347e54b4e5af20d1c944) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_8acb0637fb0ca101b8666d293b4158ac);
-        cache_frame_8acb0637fb0ca101b8666d293b4158ac = NULL;
+        Py_DECREF(cache_frame_1893f4f2a7fc347e54b4e5af20d1c944);
+        cache_frame_1893f4f2a7fc347e54b4e5af20d1c944 = NULL;
     }
 
-    assertFrameObject(frame_8acb0637fb0ca101b8666d293b4158ac);
+    assertFrameObject(frame_1893f4f2a7fc347e54b4e5af20d1c944);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1746,7 +1746,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
     PyObject *tmp_for_loop_2__for_iterator = NULL;
     PyObject *tmp_for_loop_2__iter_value = NULL;
     PyObject *tmp_genexpr_1__$0 = NULL;
-    struct Nuitka_FrameObject *frame_069e629df232563d26eac5fe2b1900a9;
+    struct Nuitka_FrameObject *frame_44b69cb0fbb48784b822658f2dec7f8d;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -1764,7 +1764,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_069e629df232563d26eac5fe2b1900a9 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_44b69cb0fbb48784b822658f2dec7f8d = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -1772,31 +1772,31 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_069e629df232563d26eac5fe2b1900a9)) {
-        Py_XDECREF(cache_frame_069e629df232563d26eac5fe2b1900a9);
+    if (isFrameUnusable(cache_frame_44b69cb0fbb48784b822658f2dec7f8d)) {
+        Py_XDECREF(cache_frame_44b69cb0fbb48784b822658f2dec7f8d);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_069e629df232563d26eac5fe2b1900a9 == NULL) {
+        if (cache_frame_44b69cb0fbb48784b822658f2dec7f8d == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_069e629df232563d26eac5fe2b1900a9 = MAKE_FUNCTION_FRAME(codeobj_069e629df232563d26eac5fe2b1900a9, module_gi$module, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_44b69cb0fbb48784b822658f2dec7f8d = MAKE_FUNCTION_FRAME(codeobj_44b69cb0fbb48784b822658f2dec7f8d, module_gi$module, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_069e629df232563d26eac5fe2b1900a9->m_type_description == NULL);
-    frame_069e629df232563d26eac5fe2b1900a9 = cache_frame_069e629df232563d26eac5fe2b1900a9;
+    assert(cache_frame_44b69cb0fbb48784b822658f2dec7f8d->m_type_description == NULL);
+    frame_44b69cb0fbb48784b822658f2dec7f8d = cache_frame_44b69cb0fbb48784b822658f2dec7f8d;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_069e629df232563d26eac5fe2b1900a9);
+    pushFrameStack(frame_44b69cb0fbb48784b822658f2dec7f8d);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_069e629df232563d26eac5fe2b1900a9) == 2); // Frame stack
+    assert(Py_REFCNT(frame_44b69cb0fbb48784b822658f2dec7f8d) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1848,7 +1848,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         }
         CHECK_OBJECT(par_name);
         tmp_args_element_name_2 = par_name;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 129;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 129;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -1960,7 +1960,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
             type_description_1 = "ooooooooocooooo";
             goto frame_exception_exit_1;
         }
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 131;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 131;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_AttributeError, tmp_make_exception_arg_1);
         Py_DECREF(tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
@@ -2017,7 +2017,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         PyObject *tmp_called_instance_1;
         CHECK_OBJECT(var_info);
         tmp_called_instance_1 = var_info;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 135;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 135;
         tmp_assign_source_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[2]);
         if (tmp_assign_source_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2084,7 +2084,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         }
 
         tmp_called_instance_2 = var_info;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 139;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 139;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[32]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2163,7 +2163,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
             type_description_1 = "ooooooooocooooo";
             goto frame_exception_exit_1;
         }
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 140;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 140;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_2);
         if (tmp_call_result_2 == NULL) {
@@ -2229,7 +2229,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         }
 
         tmp_args_element_name_4 = var_g_type;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 141;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 141;
         tmp_assign_source_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_4);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2360,7 +2360,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         }
 
         tmp_args_element_name_5 = var_info;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 144;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 144;
         tmp_assign_source_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_5);
         if (tmp_assign_source_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2430,7 +2430,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
             type_description_1 = "ooooooooocooooo";
             goto frame_exception_exit_1;
         }
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 146;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 146;
         tmp_call_result_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_5);
         if (tmp_call_result_3 == NULL) {
@@ -2496,7 +2496,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         }
 
         tmp_args_element_name_7 = var_g_type;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 147;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 147;
         tmp_assign_source_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_7);
         if (tmp_assign_source_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2627,7 +2627,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         }
 
         tmp_args_element_name_8 = var_info;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 150;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 150;
         tmp_assign_source_7 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_7, tmp_args_element_name_8);
         if (tmp_assign_source_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2710,7 +2710,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         }
 
         tmp_called_instance_3 = var_info;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 153;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 153;
         tmp_right_name_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_3, mod_consts[5]);
         if (tmp_right_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2779,7 +2779,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
             type_description_1 = "ooooooooocooooo";
             goto frame_exception_exit_1;
         }
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 158;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 158;
         tmp_assign_source_8 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_8, &PyTuple_GET_ITEM(mod_consts[46], 0));
 
         if (tmp_assign_source_8 == NULL) {
@@ -2812,7 +2812,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         }
 
         tmp_called_instance_4 = var_info;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 161;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 161;
         tmp_iter_arg_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_4, mod_consts[47]);
         if (tmp_iter_arg_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2887,7 +2887,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         PyObject *tmp_args_element_name_9;
         CHECK_OBJECT(var_value_info);
         tmp_called_instance_5 = var_value_info;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 162;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 162;
         tmp_expression_name_7 = CALL_METHOD_NO_ARGS(tmp_called_instance_5, mod_consts[48]);
         if (tmp_expression_name_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2924,7 +2924,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         }
 
         tmp_args_element_name_9 = var_ascii_upper_trans;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 162;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 162;
         tmp_assign_source_12 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_9, tmp_args_element_name_9);
         Py_DECREF(tmp_called_name_9);
         if (tmp_assign_source_12 == NULL) {
@@ -2993,7 +2993,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         }
 
         tmp_called_instance_6 = var_value_info;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 163;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 163;
         tmp_args_element_name_10 = CALL_METHOD_NO_ARGS(tmp_called_instance_6, mod_consts[52]);
         if (tmp_args_element_name_10 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3005,7 +3005,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
             type_description_1 = "ooooooooocooooo";
             goto try_except_handler_2;
         }
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 163;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 163;
         tmp_setattr_value_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_10, tmp_args_element_name_10);
         Py_DECREF(tmp_args_element_name_10);
         if (tmp_setattr_value_1 == NULL) {
@@ -3089,7 +3089,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         }
 
         tmp_called_instance_7 = var_info;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 164;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 164;
         tmp_iter_arg_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_7, mod_consts[53]);
         if (tmp_iter_arg_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3398,7 +3398,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         PyObject *tmp_called_instance_8;
         CHECK_OBJECT(var_info);
         tmp_called_instance_8 = var_info;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 171;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 171;
         tmp_assign_source_16 = CALL_METHOD_NO_ARGS(tmp_called_instance_8, mod_consts[2]);
         if (tmp_assign_source_16 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3498,7 +3498,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         }
 
         tmp_args_element_name_11 = var_info;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 175;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 175;
         tmp_assign_source_17 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_11, tmp_args_element_name_11);
         if (tmp_assign_source_17 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3551,7 +3551,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
             }
 
             tmp_args_element_name_12 = var_info;
-            frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 176;
+            frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 176;
             tmp_iter_arg_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_12, tmp_args_element_name_12);
             if (tmp_iter_arg_3 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -3988,7 +3988,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
             type_description_1 = "ooooooooocooooo";
             goto frame_exception_exit_1;
         }
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 187;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 187;
         tmp_call_result_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_13, tmp_args_element_name_13);
         Py_DECREF(tmp_called_name_13);
         if (tmp_call_result_4 == NULL) {
@@ -4105,7 +4105,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
             type_description_1 = "ooooooooocooooo";
             goto frame_exception_exit_1;
         }
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 189;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 189;
         tmp_call_result_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_14, tmp_args_element_name_14);
         Py_DECREF(tmp_called_name_14);
         if (tmp_call_result_5 == NULL) {
@@ -4320,7 +4320,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         }
 
         tmp_called_instance_9 = var_info;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 194;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 194;
         tmp_tuple_element_8 = CALL_METHOD_NO_ARGS(tmp_called_instance_9, mod_consts[5]);
         if (tmp_tuple_element_8 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4349,7 +4349,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
             }
 
             tmp_called_instance_10 = var_info;
-            frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 194;
+            frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 194;
             tmp_tuple_element_8 = CALL_METHOD_NO_ARGS(tmp_called_instance_10, mod_consts[7]);
             if (tmp_tuple_element_8 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -4382,7 +4382,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
             type_description_1 = "ooooooooocooooo";
             goto frame_exception_exit_1;
         }
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 194;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 194;
         tmp_raise_type_4 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_2);
         Py_DECREF(tmp_make_exception_arg_2);
         assert(!(tmp_raise_type_4 == NULL));
@@ -4434,7 +4434,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         }
 
         tmp_make_exception_arg_3 = var_info;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 197;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 197;
         tmp_raise_type_5 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_NotImplementedError, tmp_make_exception_arg_3);
         assert(!(tmp_raise_type_5 == NULL));
         exception_type = tmp_raise_type_5;
@@ -4791,7 +4791,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         tmp_args_element_name_16 = var_bases;
         CHECK_OBJECT(var_dict_);
         tmp_args_element_name_17 = var_dict_;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 215;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 215;
         {
             PyObject *call_args[] = {tmp_args_element_name_15, tmp_args_element_name_16, tmp_args_element_name_17};
             tmp_assign_source_31 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_15, call_args);
@@ -4992,7 +4992,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         PyObject *tmp_called_instance_11;
         CHECK_OBJECT(var_info);
         tmp_called_instance_11 = var_info;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 224;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 224;
         tmp_assign_source_33 = CALL_METHOD_NO_ARGS(tmp_called_instance_11, mod_consts[52]);
         if (tmp_assign_source_33 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5014,7 +5014,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
         PyObject *tmp_make_exception_arg_4;
         CHECK_OBJECT(var_info);
         tmp_make_exception_arg_4 = var_info;
-        frame_069e629df232563d26eac5fe2b1900a9->m_frame.f_lineno = 226;
+        frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame.f_lineno = 226;
         tmp_raise_type_6 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_NotImplementedError, tmp_make_exception_arg_4);
         assert(!(tmp_raise_type_6 == NULL));
         exception_type = tmp_raise_type_6;
@@ -5112,7 +5112,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
     goto frame_return_exit_1;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_069e629df232563d26eac5fe2b1900a9);
+    RESTORE_FRAME_EXCEPTION(frame_44b69cb0fbb48784b822658f2dec7f8d);
 #endif
 
     // Put the previous frame back on top.
@@ -5122,7 +5122,7 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_069e629df232563d26eac5fe2b1900a9);
+    RESTORE_FRAME_EXCEPTION(frame_44b69cb0fbb48784b822658f2dec7f8d);
 #endif
 
     // Put the previous frame back on top.
@@ -5133,18 +5133,18 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_069e629df232563d26eac5fe2b1900a9);
+    RESTORE_FRAME_EXCEPTION(frame_44b69cb0fbb48784b822658f2dec7f8d);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_069e629df232563d26eac5fe2b1900a9, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_069e629df232563d26eac5fe2b1900a9->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_069e629df232563d26eac5fe2b1900a9, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_44b69cb0fbb48784b822658f2dec7f8d, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_44b69cb0fbb48784b822658f2dec7f8d->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_44b69cb0fbb48784b822658f2dec7f8d, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_069e629df232563d26eac5fe2b1900a9,
+        frame_44b69cb0fbb48784b822658f2dec7f8d,
         type_description_1,
         par_self,
         par_name,
@@ -5165,17 +5165,17 @@ static PyObject *impl_gi$module$$$function__4___getattr__(struct Nuitka_Function
 
 
     // Release cached frame if used for exception.
-    if (frame_069e629df232563d26eac5fe2b1900a9 == cache_frame_069e629df232563d26eac5fe2b1900a9) {
+    if (frame_44b69cb0fbb48784b822658f2dec7f8d == cache_frame_44b69cb0fbb48784b822658f2dec7f8d) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_069e629df232563d26eac5fe2b1900a9);
-        cache_frame_069e629df232563d26eac5fe2b1900a9 = NULL;
+        Py_DECREF(cache_frame_44b69cb0fbb48784b822658f2dec7f8d);
+        cache_frame_44b69cb0fbb48784b822658f2dec7f8d = NULL;
     }
 
-    assertFrameObject(frame_069e629df232563d26eac5fe2b1900a9);
+    assertFrameObject(frame_44b69cb0fbb48784b822658f2dec7f8d);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5349,7 +5349,7 @@ static PyObject *gi$module$$$function__4___getattr__$$$genexpr__1_genexpr_contex
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_m_frame = MAKE_FUNCTION_FRAME(codeobj_a489902eb5f9e37322c5e5e6b74e85fd, module_gi$module, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_m_frame = MAKE_FUNCTION_FRAME(codeobj_646c9a5ac8fe803c34f07d7a6a3ab088, module_gi$module, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
@@ -5647,7 +5647,7 @@ static PyObject *MAKE_GENERATOR_gi$module$$$function__4___getattr__$$$genexpr__1
 #if PYTHON_VERSION >= 0x350
         mod_consts[80],
 #endif
-        codeobj_a489902eb5f9e37322c5e5e6b74e85fd,
+        codeobj_646c9a5ac8fe803c34f07d7a6a3ab088,
         closure,
         2,
         sizeof(struct gi$module$$$function__4___getattr__$$$genexpr__1_genexpr_locals)
@@ -5664,14 +5664,14 @@ static PyObject *impl_gi$module$$$function__5___repr__(struct Nuitka_FunctionObj
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *var_path = NULL;
-    struct Nuitka_FrameObject *frame_9563b405cdc74cd93af63d72093d63c7;
+    struct Nuitka_FrameObject *frame_15bc2f13f8d740ef23e5258f2bea75c1;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_9563b405cdc74cd93af63d72093d63c7 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_15bc2f13f8d740ef23e5258f2bea75c1 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -5679,31 +5679,31 @@ static PyObject *impl_gi$module$$$function__5___repr__(struct Nuitka_FunctionObj
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_9563b405cdc74cd93af63d72093d63c7)) {
-        Py_XDECREF(cache_frame_9563b405cdc74cd93af63d72093d63c7);
+    if (isFrameUnusable(cache_frame_15bc2f13f8d740ef23e5258f2bea75c1)) {
+        Py_XDECREF(cache_frame_15bc2f13f8d740ef23e5258f2bea75c1);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_9563b405cdc74cd93af63d72093d63c7 == NULL) {
+        if (cache_frame_15bc2f13f8d740ef23e5258f2bea75c1 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_9563b405cdc74cd93af63d72093d63c7 = MAKE_FUNCTION_FRAME(codeobj_9563b405cdc74cd93af63d72093d63c7, module_gi$module, sizeof(void *)+sizeof(void *));
+        cache_frame_15bc2f13f8d740ef23e5258f2bea75c1 = MAKE_FUNCTION_FRAME(codeobj_15bc2f13f8d740ef23e5258f2bea75c1, module_gi$module, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_9563b405cdc74cd93af63d72093d63c7->m_type_description == NULL);
-    frame_9563b405cdc74cd93af63d72093d63c7 = cache_frame_9563b405cdc74cd93af63d72093d63c7;
+    assert(cache_frame_15bc2f13f8d740ef23e5258f2bea75c1->m_type_description == NULL);
+    frame_15bc2f13f8d740ef23e5258f2bea75c1 = cache_frame_15bc2f13f8d740ef23e5258f2bea75c1;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_9563b405cdc74cd93af63d72093d63c7);
+    pushFrameStack(frame_15bc2f13f8d740ef23e5258f2bea75c1);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_9563b405cdc74cd93af63d72093d63c7) == 2); // Frame stack
+    assert(Py_REFCNT(frame_15bc2f13f8d740ef23e5258f2bea75c1) == 2); // Frame stack
 
     // Framed code:
     {
@@ -5752,7 +5752,7 @@ static PyObject *impl_gi$module$$$function__5___repr__(struct Nuitka_FunctionObj
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_9563b405cdc74cd93af63d72093d63c7->m_frame.f_lineno = 235;
+        frame_15bc2f13f8d740ef23e5258f2bea75c1->m_frame.f_lineno = 235;
         tmp_assign_source_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -5820,7 +5820,7 @@ static PyObject *impl_gi$module$$$function__5___repr__(struct Nuitka_FunctionObj
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9563b405cdc74cd93af63d72093d63c7);
+    RESTORE_FRAME_EXCEPTION(frame_15bc2f13f8d740ef23e5258f2bea75c1);
 #endif
 
     // Put the previous frame back on top.
@@ -5830,7 +5830,7 @@ static PyObject *impl_gi$module$$$function__5___repr__(struct Nuitka_FunctionObj
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9563b405cdc74cd93af63d72093d63c7);
+    RESTORE_FRAME_EXCEPTION(frame_15bc2f13f8d740ef23e5258f2bea75c1);
 #endif
 
     // Put the previous frame back on top.
@@ -5841,18 +5841,18 @@ static PyObject *impl_gi$module$$$function__5___repr__(struct Nuitka_FunctionObj
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9563b405cdc74cd93af63d72093d63c7);
+    RESTORE_FRAME_EXCEPTION(frame_15bc2f13f8d740ef23e5258f2bea75c1);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_9563b405cdc74cd93af63d72093d63c7, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_9563b405cdc74cd93af63d72093d63c7->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_9563b405cdc74cd93af63d72093d63c7, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_15bc2f13f8d740ef23e5258f2bea75c1, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_15bc2f13f8d740ef23e5258f2bea75c1->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_15bc2f13f8d740ef23e5258f2bea75c1, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_9563b405cdc74cd93af63d72093d63c7,
+        frame_15bc2f13f8d740ef23e5258f2bea75c1,
         type_description_1,
         par_self,
         var_path
@@ -5860,17 +5860,17 @@ static PyObject *impl_gi$module$$$function__5___repr__(struct Nuitka_FunctionObj
 
 
     // Release cached frame if used for exception.
-    if (frame_9563b405cdc74cd93af63d72093d63c7 == cache_frame_9563b405cdc74cd93af63d72093d63c7) {
+    if (frame_15bc2f13f8d740ef23e5258f2bea75c1 == cache_frame_15bc2f13f8d740ef23e5258f2bea75c1) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_9563b405cdc74cd93af63d72093d63c7);
-        cache_frame_9563b405cdc74cd93af63d72093d63c7 = NULL;
+        Py_DECREF(cache_frame_15bc2f13f8d740ef23e5258f2bea75c1);
+        cache_frame_15bc2f13f8d740ef23e5258f2bea75c1 = NULL;
     }
 
-    assertFrameObject(frame_9563b405cdc74cd93af63d72093d63c7);
+    assertFrameObject(frame_15bc2f13f8d740ef23e5258f2bea75c1);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5945,7 +5945,7 @@ static PyObject *impl_gi$module$$$function__6___dir__(struct Nuitka_FunctionObje
     PyObject *var_result = NULL;
     PyObject *var_namespace_infos = NULL;
     PyObject *tmp_genexpr_1__$0 = NULL;
-    struct Nuitka_FrameObject *frame_ee0acbca606bd8512ace0daa92faa431;
+    struct Nuitka_FrameObject *frame_67f94c6a0ec994f3a0c4a6be1f6855fe;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -5953,7 +5953,7 @@ static PyObject *impl_gi$module$$$function__6___dir__(struct Nuitka_FunctionObje
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_ee0acbca606bd8512ace0daa92faa431 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_67f94c6a0ec994f3a0c4a6be1f6855fe = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -5961,31 +5961,31 @@ static PyObject *impl_gi$module$$$function__6___dir__(struct Nuitka_FunctionObje
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ee0acbca606bd8512ace0daa92faa431)) {
-        Py_XDECREF(cache_frame_ee0acbca606bd8512ace0daa92faa431);
+    if (isFrameUnusable(cache_frame_67f94c6a0ec994f3a0c4a6be1f6855fe)) {
+        Py_XDECREF(cache_frame_67f94c6a0ec994f3a0c4a6be1f6855fe);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ee0acbca606bd8512ace0daa92faa431 == NULL) {
+        if (cache_frame_67f94c6a0ec994f3a0c4a6be1f6855fe == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ee0acbca606bd8512ace0daa92faa431 = MAKE_FUNCTION_FRAME(codeobj_ee0acbca606bd8512ace0daa92faa431, module_gi$module, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_67f94c6a0ec994f3a0c4a6be1f6855fe = MAKE_FUNCTION_FRAME(codeobj_67f94c6a0ec994f3a0c4a6be1f6855fe, module_gi$module, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ee0acbca606bd8512ace0daa92faa431->m_type_description == NULL);
-    frame_ee0acbca606bd8512ace0daa92faa431 = cache_frame_ee0acbca606bd8512ace0daa92faa431;
+    assert(cache_frame_67f94c6a0ec994f3a0c4a6be1f6855fe->m_type_description == NULL);
+    frame_67f94c6a0ec994f3a0c4a6be1f6855fe = cache_frame_67f94c6a0ec994f3a0c4a6be1f6855fe;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ee0acbca606bd8512ace0daa92faa431);
+    pushFrameStack(frame_67f94c6a0ec994f3a0c4a6be1f6855fe);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ee0acbca606bd8512ace0daa92faa431) == 2); // Frame stack
+    assert(Py_REFCNT(frame_67f94c6a0ec994f3a0c4a6be1f6855fe) == 2); // Frame stack
 
     // Framed code:
     {
@@ -6077,7 +6077,7 @@ static PyObject *impl_gi$module$$$function__6___dir__(struct Nuitka_FunctionObje
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_ee0acbca606bd8512ace0daa92faa431->m_frame.f_lineno = 241;
+        frame_67f94c6a0ec994f3a0c4a6be1f6855fe->m_frame.f_lineno = 241;
         tmp_args_element_name_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[83]);
         Py_DECREF(tmp_called_instance_1);
         if (tmp_args_element_name_1 == NULL) {
@@ -6090,7 +6090,7 @@ static PyObject *impl_gi$module$$$function__6___dir__(struct Nuitka_FunctionObje
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_ee0acbca606bd8512ace0daa92faa431->m_frame.f_lineno = 241;
+        frame_67f94c6a0ec994f3a0c4a6be1f6855fe->m_frame.f_lineno = 241;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -6163,7 +6163,7 @@ static PyObject *impl_gi$module$$$function__6___dir__(struct Nuitka_FunctionObje
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_ee0acbca606bd8512ace0daa92faa431->m_frame.f_lineno = 247;
+        frame_67f94c6a0ec994f3a0c4a6be1f6855fe->m_frame.f_lineno = 247;
         tmp_assign_source_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_2);
@@ -6253,7 +6253,7 @@ static PyObject *impl_gi$module$$$function__6___dir__(struct Nuitka_FunctionObje
         NUITKA_CANNOT_GET_HERE("Return statement must have exited already.");
         return NULL;
         outline_result_1:;
-        frame_ee0acbca606bd8512ace0daa92faa431->m_frame.f_lineno = 248;
+        frame_67f94c6a0ec994f3a0c4a6be1f6855fe->m_frame.f_lineno = 248;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_3);
@@ -6299,7 +6299,7 @@ static PyObject *impl_gi$module$$$function__6___dir__(struct Nuitka_FunctionObje
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ee0acbca606bd8512ace0daa92faa431);
+    RESTORE_FRAME_EXCEPTION(frame_67f94c6a0ec994f3a0c4a6be1f6855fe);
 #endif
 
     // Put the previous frame back on top.
@@ -6309,7 +6309,7 @@ static PyObject *impl_gi$module$$$function__6___dir__(struct Nuitka_FunctionObje
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ee0acbca606bd8512ace0daa92faa431);
+    RESTORE_FRAME_EXCEPTION(frame_67f94c6a0ec994f3a0c4a6be1f6855fe);
 #endif
 
     // Put the previous frame back on top.
@@ -6320,18 +6320,18 @@ static PyObject *impl_gi$module$$$function__6___dir__(struct Nuitka_FunctionObje
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ee0acbca606bd8512ace0daa92faa431);
+    RESTORE_FRAME_EXCEPTION(frame_67f94c6a0ec994f3a0c4a6be1f6855fe);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ee0acbca606bd8512ace0daa92faa431, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ee0acbca606bd8512ace0daa92faa431->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ee0acbca606bd8512ace0daa92faa431, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_67f94c6a0ec994f3a0c4a6be1f6855fe, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_67f94c6a0ec994f3a0c4a6be1f6855fe->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_67f94c6a0ec994f3a0c4a6be1f6855fe, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ee0acbca606bd8512ace0daa92faa431,
+        frame_67f94c6a0ec994f3a0c4a6be1f6855fe,
         type_description_1,
         par_self,
         var_result,
@@ -6340,17 +6340,17 @@ static PyObject *impl_gi$module$$$function__6___dir__(struct Nuitka_FunctionObje
 
 
     // Release cached frame if used for exception.
-    if (frame_ee0acbca606bd8512ace0daa92faa431 == cache_frame_ee0acbca606bd8512ace0daa92faa431) {
+    if (frame_67f94c6a0ec994f3a0c4a6be1f6855fe == cache_frame_67f94c6a0ec994f3a0c4a6be1f6855fe) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ee0acbca606bd8512ace0daa92faa431);
-        cache_frame_ee0acbca606bd8512ace0daa92faa431 = NULL;
+        Py_DECREF(cache_frame_67f94c6a0ec994f3a0c4a6be1f6855fe);
+        cache_frame_67f94c6a0ec994f3a0c4a6be1f6855fe = NULL;
     }
 
-    assertFrameObject(frame_ee0acbca606bd8512ace0daa92faa431);
+    assertFrameObject(frame_67f94c6a0ec994f3a0c4a6be1f6855fe);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -6475,7 +6475,7 @@ static PyObject *gi$module$$$function__6___dir__$$$genexpr__1_genexpr_context(st
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_m_frame = MAKE_FUNCTION_FRAME(codeobj_452797e94cbf7af4f93279b3f5805885, module_gi$module, sizeof(void *)+sizeof(void *));
+        cache_m_frame = MAKE_FUNCTION_FRAME(codeobj_a0a0fe706479c7651fc5a53d502abbd5, module_gi$module, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
@@ -6789,7 +6789,7 @@ static PyObject *MAKE_GENERATOR_gi$module$$$function__6___dir__$$$genexpr__1_gen
 #if PYTHON_VERSION >= 0x350
         mod_consts[86],
 #endif
-        codeobj_452797e94cbf7af4f93279b3f5805885,
+        codeobj_a0a0fe706479c7651fc5a53d502abbd5,
         closure,
         1,
         sizeof(struct gi$module$$$function__6___dir__$$$genexpr__1_genexpr_locals)
@@ -6807,7 +6807,7 @@ static PyObject *impl_gi$module$$$function__7_get_introspection_module(struct Nu
     PyObject *par_namespace = python_pars[0];
     PyObject *var_version = NULL;
     PyObject *var_module = NULL;
-    struct Nuitka_FrameObject *frame_f8d70685a07aff9e7daff8adb9ad0457;
+    struct Nuitka_FrameObject *frame_631f8cbc5dc4ffb24a36aa5f757b24eb;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -6816,7 +6816,7 @@ static PyObject *impl_gi$module$$$function__7_get_introspection_module(struct Nu
     int tmp_res;
     PyObject *tmp_return_value = NULL;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_f8d70685a07aff9e7daff8adb9ad0457 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_631f8cbc5dc4ffb24a36aa5f757b24eb = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -6824,31 +6824,31 @@ static PyObject *impl_gi$module$$$function__7_get_introspection_module(struct Nu
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_f8d70685a07aff9e7daff8adb9ad0457)) {
-        Py_XDECREF(cache_frame_f8d70685a07aff9e7daff8adb9ad0457);
+    if (isFrameUnusable(cache_frame_631f8cbc5dc4ffb24a36aa5f757b24eb)) {
+        Py_XDECREF(cache_frame_631f8cbc5dc4ffb24a36aa5f757b24eb);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_f8d70685a07aff9e7daff8adb9ad0457 == NULL) {
+        if (cache_frame_631f8cbc5dc4ffb24a36aa5f757b24eb == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_f8d70685a07aff9e7daff8adb9ad0457 = MAKE_FUNCTION_FRAME(codeobj_f8d70685a07aff9e7daff8adb9ad0457, module_gi$module, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_631f8cbc5dc4ffb24a36aa5f757b24eb = MAKE_FUNCTION_FRAME(codeobj_631f8cbc5dc4ffb24a36aa5f757b24eb, module_gi$module, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_f8d70685a07aff9e7daff8adb9ad0457->m_type_description == NULL);
-    frame_f8d70685a07aff9e7daff8adb9ad0457 = cache_frame_f8d70685a07aff9e7daff8adb9ad0457;
+    assert(cache_frame_631f8cbc5dc4ffb24a36aa5f757b24eb->m_type_description == NULL);
+    frame_631f8cbc5dc4ffb24a36aa5f757b24eb = cache_frame_631f8cbc5dc4ffb24a36aa5f757b24eb;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_f8d70685a07aff9e7daff8adb9ad0457);
+    pushFrameStack(frame_631f8cbc5dc4ffb24a36aa5f757b24eb);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_f8d70685a07aff9e7daff8adb9ad0457) == 2); // Frame stack
+    assert(Py_REFCNT(frame_631f8cbc5dc4ffb24a36aa5f757b24eb) == 2); // Frame stack
 
     // Framed code:
     {
@@ -6949,7 +6949,7 @@ static PyObject *impl_gi$module$$$function__7_get_introspection_module(struct Nu
         }
         CHECK_OBJECT(par_namespace);
         tmp_args_element_name_1 = par_namespace;
-        frame_f8d70685a07aff9e7daff8adb9ad0457->m_frame.f_lineno = 264;
+        frame_631f8cbc5dc4ffb24a36aa5f757b24eb->m_frame.f_lineno = 264;
         tmp_assign_source_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[89], tmp_args_element_name_1);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -7000,7 +7000,7 @@ static PyObject *impl_gi$module$$$function__7_get_introspection_module(struct Nu
         tmp_args_element_name_2 = par_namespace;
         CHECK_OBJECT(var_version);
         tmp_args_element_name_3 = var_version;
-        frame_f8d70685a07aff9e7daff8adb9ad0457->m_frame.f_lineno = 265;
+        frame_631f8cbc5dc4ffb24a36aa5f757b24eb->m_frame.f_lineno = 265;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_assign_source_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -7068,7 +7068,7 @@ static PyObject *impl_gi$module$$$function__7_get_introspection_module(struct Nu
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f8d70685a07aff9e7daff8adb9ad0457);
+    RESTORE_FRAME_EXCEPTION(frame_631f8cbc5dc4ffb24a36aa5f757b24eb);
 #endif
 
     // Put the previous frame back on top.
@@ -7078,7 +7078,7 @@ static PyObject *impl_gi$module$$$function__7_get_introspection_module(struct Nu
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f8d70685a07aff9e7daff8adb9ad0457);
+    RESTORE_FRAME_EXCEPTION(frame_631f8cbc5dc4ffb24a36aa5f757b24eb);
 #endif
 
     // Put the previous frame back on top.
@@ -7089,18 +7089,18 @@ static PyObject *impl_gi$module$$$function__7_get_introspection_module(struct Nu
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f8d70685a07aff9e7daff8adb9ad0457);
+    RESTORE_FRAME_EXCEPTION(frame_631f8cbc5dc4ffb24a36aa5f757b24eb);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_f8d70685a07aff9e7daff8adb9ad0457, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_f8d70685a07aff9e7daff8adb9ad0457->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_f8d70685a07aff9e7daff8adb9ad0457, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_631f8cbc5dc4ffb24a36aa5f757b24eb, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_631f8cbc5dc4ffb24a36aa5f757b24eb->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_631f8cbc5dc4ffb24a36aa5f757b24eb, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_f8d70685a07aff9e7daff8adb9ad0457,
+        frame_631f8cbc5dc4ffb24a36aa5f757b24eb,
         type_description_1,
         par_namespace,
         var_version,
@@ -7109,17 +7109,17 @@ static PyObject *impl_gi$module$$$function__7_get_introspection_module(struct Nu
 
 
     // Release cached frame if used for exception.
-    if (frame_f8d70685a07aff9e7daff8adb9ad0457 == cache_frame_f8d70685a07aff9e7daff8adb9ad0457) {
+    if (frame_631f8cbc5dc4ffb24a36aa5f757b24eb == cache_frame_631f8cbc5dc4ffb24a36aa5f757b24eb) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_f8d70685a07aff9e7daff8adb9ad0457);
-        cache_frame_f8d70685a07aff9e7daff8adb9ad0457 = NULL;
+        Py_DECREF(cache_frame_631f8cbc5dc4ffb24a36aa5f757b24eb);
+        cache_frame_631f8cbc5dc4ffb24a36aa5f757b24eb = NULL;
     }
 
-    assertFrameObject(frame_f8d70685a07aff9e7daff8adb9ad0457);
+    assertFrameObject(frame_631f8cbc5dc4ffb24a36aa5f757b24eb);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -7198,7 +7198,7 @@ static PyObject *MAKE_FUNCTION_gi$module$$$function__1_get_parent_for_object() {
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_e56452fc48cad66116c91842116aacc0,
+        codeobj_8c7231e05570f151aacee3914b368eed,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -7223,7 +7223,7 @@ static PyObject *MAKE_FUNCTION_gi$module$$$function__2_get_interfaces_for_object
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_590f52cfd7bc48f4505584affe8ba370,
+        codeobj_9db2f488e3ad2fb8e312a0db7a013884,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -7244,11 +7244,11 @@ static PyObject *MAKE_FUNCTION_gi$module$$$function__2_get_interfaces_for_object
 static PyObject *MAKE_FUNCTION_gi$module$$$function__3___init__(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_gi$module$$$function__3___init__,
-        mod_consts[120],
+        mod_consts[119],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[121],
+        mod_consts[120],
 #endif
-        codeobj_8acb0637fb0ca101b8666d293b4158ac,
+        codeobj_1893f4f2a7fc347e54b4e5af20d1c944,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -7269,11 +7269,11 @@ static PyObject *MAKE_FUNCTION_gi$module$$$function__3___init__(PyObject *defaul
 static PyObject *MAKE_FUNCTION_gi$module$$$function__4___getattr__() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_gi$module$$$function__4___getattr__,
-        mod_consts[122],
+        mod_consts[121],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[123],
+        mod_consts[122],
 #endif
-        codeobj_069e629df232563d26eac5fe2b1900a9,
+        codeobj_44b69cb0fbb48784b822658f2dec7f8d,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -7294,11 +7294,11 @@ static PyObject *MAKE_FUNCTION_gi$module$$$function__4___getattr__() {
 static PyObject *MAKE_FUNCTION_gi$module$$$function__5___repr__() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_gi$module$$$function__5___repr__,
-        mod_consts[124],
+        mod_consts[123],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[125],
+        mod_consts[124],
 #endif
-        codeobj_9563b405cdc74cd93af63d72093d63c7,
+        codeobj_15bc2f13f8d740ef23e5258f2bea75c1,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -7319,11 +7319,11 @@ static PyObject *MAKE_FUNCTION_gi$module$$$function__5___repr__() {
 static PyObject *MAKE_FUNCTION_gi$module$$$function__6___dir__() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_gi$module$$$function__6___dir__,
-        mod_consts[126],
+        mod_consts[125],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[127],
+        mod_consts[126],
 #endif
-        codeobj_ee0acbca606bd8512ace0daa92faa431,
+        codeobj_67f94c6a0ec994f3a0c4a6be1f6855fe,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -7344,11 +7344,11 @@ static PyObject *MAKE_FUNCTION_gi$module$$$function__6___dir__() {
 static PyObject *MAKE_FUNCTION_gi$module$$$function__7_get_introspection_module() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_gi$module$$$function__7_get_introspection_module,
-        mod_consts[129],
+        mod_consts[128],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_f8d70685a07aff9e7daff8adb9ad0457,
+        codeobj_631f8cbc5dc4ffb24a36aa5f757b24eb,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -7750,7 +7750,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
     PyObject *tmp_import_from_1__module = NULL;
     PyObject *tmp_import_from_2__module = NULL;
     PyObject *tmp_import_from_3__module = NULL;
-    struct Nuitka_FrameObject *frame_f097184cba212b82e4327127b0c3579d;
+    struct Nuitka_FrameObject *frame_0d07898c59b3a0be3650a52a09d8f6c5;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -7774,9 +7774,9 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
     PyObject *tmp_dictdel_key;
     PyObject *locals_gi$module$$$class__1_IntrospectionModule_106 = NULL;
     PyObject *tmp_dictset_value;
-    struct Nuitka_FrameObject *frame_e605d3e37b9b8a27b353eb5511b437d1_2;
+    struct Nuitka_FrameObject *frame_f949e38bc45852f0f588e5adccbdd824_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_e605d3e37b9b8a27b353eb5511b437d1_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f949e38bc45852f0f588e5adccbdd824_2 = NULL;
     PyObject *exception_keeper_type_4;
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
@@ -7798,30 +7798,30 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[93];
-        UPDATE_STRING_DICT0(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[94], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[93], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_f097184cba212b82e4327127b0c3579d = MAKE_MODULE_FRAME(codeobj_f097184cba212b82e4327127b0c3579d, module_gi$module);
+    frame_0d07898c59b3a0be3650a52a09d8f6c5 = MAKE_MODULE_FRAME(codeobj_0d07898c59b3a0be3650a52a09d8f6c5, module_gi$module);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_f097184cba212b82e4327127b0c3579d);
-    assert(Py_REFCNT(frame_f097184cba212b82e4327127b0c3579d) == 2);
+    pushFrameStack(frame_0d07898c59b3a0be3650a52a09d8f6c5);
+    assert(Py_REFCNT(frame_0d07898c59b3a0be3650a52a09d8f6c5) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[93];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[95]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[94]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[95]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[94]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[96], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[95], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -7837,14 +7837,14 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[95]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[94]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[95]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[94]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[97], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[96], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -7859,22 +7859,22 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[98], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[97], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
-        frame_f097184cba212b82e4327127b0c3579d->m_frame.f_lineno = 23;
+        frame_0d07898c59b3a0be3650a52a09d8f6c5->m_frame.f_lineno = 23;
         {
             PyObject *hard_module = IMPORT_HARD___FUTURE__();
-            tmp_assign_source_4 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[99]);
+            tmp_assign_source_4 = LOOKUP_ATTRIBUTE(hard_module, mod_consts[98]);
         }
 
         assert(!(tmp_assign_source_4 == NULL));
-        UPDATE_STRING_DICT0(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[99], tmp_assign_source_4);
+        UPDATE_STRING_DICT0(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[98], tmp_assign_source_4);
     }
     {
         PyObject *tmp_assign_source_5;
-        frame_f097184cba212b82e4327127b0c3579d->m_frame.f_lineno = 25;
+        frame_0d07898c59b3a0be3650a52a09d8f6c5->m_frame.f_lineno = 25;
         tmp_assign_source_5 = IMPORT_HARD_IMPORTLIB();
         assert(!(tmp_assign_source_5 == NULL));
         UPDATE_STRING_DICT0(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[8], tmp_assign_source_5);
@@ -7882,7 +7882,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
     {
         PyObject *tmp_assign_source_6;
         PyObject *tmp_expression_name_1;
-        tmp_expression_name_1 = mod_consts[100];
+        tmp_expression_name_1 = mod_consts[99];
         tmp_assign_source_6 = LOOKUP_ATTRIBUTE(tmp_expression_name_1, mod_consts[45]);
         assert(!(tmp_assign_source_6 == NULL));
         UPDATE_STRING_DICT1(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[45], tmp_assign_source_6);
@@ -7898,8 +7898,8 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
         tmp_globals_arg_name_1 = (PyObject *)moduledict_gi$module;
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = Py_None;
-        tmp_level_name_1 = mod_consts[101];
-        frame_f097184cba212b82e4327127b0c3579d->m_frame.f_lineno = 33;
+        tmp_level_name_1 = mod_consts[100];
+        frame_0d07898c59b3a0be3650a52a09d8f6c5->m_frame.f_lineno = 33;
         tmp_assign_source_7 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -7920,12 +7920,12 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_locals_arg_name_2;
         PyObject *tmp_fromlist_name_2;
         PyObject *tmp_level_name_2;
-        tmp_name_name_2 = mod_consts[102];
+        tmp_name_name_2 = mod_consts[101];
         tmp_globals_arg_name_2 = (PyObject *)moduledict_gi$module;
         tmp_locals_arg_name_2 = Py_None;
-        tmp_fromlist_name_2 = mod_consts[103];
-        tmp_level_name_2 = mod_consts[104];
-        frame_f097184cba212b82e4327127b0c3579d->m_frame.f_lineno = 35;
+        tmp_fromlist_name_2 = mod_consts[102];
+        tmp_level_name_2 = mod_consts[103];
+        frame_0d07898c59b3a0be3650a52a09d8f6c5->m_frame.f_lineno = 35;
         tmp_assign_source_8 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_assign_source_8 == NULL) {
             assert(ERROR_OCCURRED());
@@ -7950,11 +7950,11 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
             tmp_assign_source_9 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_1,
                 (PyObject *)moduledict_gi$module,
-                mod_consts[105],
-                mod_consts[101]
+                mod_consts[104],
+                mod_consts[100]
             );
         } else {
-            tmp_assign_source_9 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[105]);
+            tmp_assign_source_9 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[104]);
         }
 
         if (tmp_assign_source_9 == NULL) {
@@ -7967,7 +7967,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
 
             goto try_except_handler_1;
         }
-        UPDATE_STRING_DICT1(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[105], tmp_assign_source_9);
+        UPDATE_STRING_DICT1(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[104], tmp_assign_source_9);
     }
     {
         PyObject *tmp_assign_source_10;
@@ -7979,7 +7979,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_2,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[77],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_10 = IMPORT_NAME(tmp_import_name_from_2, mod_consts[77]);
@@ -8007,7 +8007,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_3,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[55],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_11 = IMPORT_NAME(tmp_import_name_from_3, mod_consts[55]);
@@ -8035,7 +8035,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_4,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[30],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_12 = IMPORT_NAME(tmp_import_name_from_4, mod_consts[30]);
@@ -8063,7 +8063,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_5,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[56],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_13 = IMPORT_NAME(tmp_import_name_from_5, mod_consts[56]);
@@ -8091,7 +8091,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_6,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[63],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_14 = IMPORT_NAME(tmp_import_name_from_6, mod_consts[63]);
@@ -8119,7 +8119,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_7,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[78],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_15 = IMPORT_NAME(tmp_import_name_from_7, mod_consts[78]);
@@ -8147,7 +8147,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_8,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[65],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_16 = IMPORT_NAME(tmp_import_name_from_8, mod_consts[65]);
@@ -8175,7 +8175,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_9,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[66],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_17 = IMPORT_NAME(tmp_import_name_from_9, mod_consts[66]);
@@ -8203,7 +8203,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_10,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[61],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_18 = IMPORT_NAME(tmp_import_name_from_10, mod_consts[61]);
@@ -8231,7 +8231,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_11,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[71],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_19 = IMPORT_NAME(tmp_import_name_from_11, mod_consts[71]);
@@ -8259,7 +8259,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_12,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[68],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_20 = IMPORT_NAME(tmp_import_name_from_12, mod_consts[68]);
@@ -8287,7 +8287,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_13,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[62],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_21 = IMPORT_NAME(tmp_import_name_from_13, mod_consts[62]);
@@ -8315,7 +8315,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_14,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[40],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_22 = IMPORT_NAME(tmp_import_name_from_14, mod_consts[40]);
@@ -8343,7 +8343,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_15,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[41],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_23 = IMPORT_NAME(tmp_import_name_from_15, mod_consts[41]);
@@ -8371,7 +8371,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_16,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[36],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_24 = IMPORT_NAME(tmp_import_name_from_16, mod_consts[36]);
@@ -8399,7 +8399,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_17,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[38],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_25 = IMPORT_NAME(tmp_import_name_from_17, mod_consts[38]);
@@ -8427,7 +8427,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_18,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[64],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_26 = IMPORT_NAME(tmp_import_name_from_18, mod_consts[64]);
@@ -8479,12 +8479,12 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_locals_arg_name_3;
         PyObject *tmp_fromlist_name_3;
         PyObject *tmp_level_name_3;
-        tmp_name_name_3 = mod_consts[106];
+        tmp_name_name_3 = mod_consts[105];
         tmp_globals_arg_name_3 = (PyObject *)moduledict_gi$module;
         tmp_locals_arg_name_3 = Py_None;
-        tmp_fromlist_name_3 = mod_consts[107];
-        tmp_level_name_3 = mod_consts[104];
-        frame_f097184cba212b82e4327127b0c3579d->m_frame.f_lineno = 54;
+        tmp_fromlist_name_3 = mod_consts[106];
+        tmp_level_name_3 = mod_consts[103];
+        frame_0d07898c59b3a0be3650a52a09d8f6c5->m_frame.f_lineno = 54;
         tmp_assign_source_27 = IMPORT_MODULE5(tmp_name_name_3, tmp_globals_arg_name_3, tmp_locals_arg_name_3, tmp_fromlist_name_3, tmp_level_name_3);
         if (tmp_assign_source_27 == NULL) {
             assert(ERROR_OCCURRED());
@@ -8510,7 +8510,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_19,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[60],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_28 = IMPORT_NAME(tmp_import_name_from_19, mod_consts[60]);
@@ -8538,7 +8538,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_20,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[73],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_29 = IMPORT_NAME(tmp_import_name_from_20, mod_consts[73]);
@@ -8590,12 +8590,12 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_locals_arg_name_4;
         PyObject *tmp_fromlist_name_4;
         PyObject *tmp_level_name_4;
-        tmp_name_name_4 = mod_consts[108];
+        tmp_name_name_4 = mod_consts[107];
         tmp_globals_arg_name_4 = (PyObject *)moduledict_gi$module;
         tmp_locals_arg_name_4 = Py_None;
-        tmp_fromlist_name_4 = mod_consts[109];
-        tmp_level_name_4 = mod_consts[104];
-        frame_f097184cba212b82e4327127b0c3579d->m_frame.f_lineno = 58;
+        tmp_fromlist_name_4 = mod_consts[108];
+        tmp_level_name_4 = mod_consts[103];
+        frame_0d07898c59b3a0be3650a52a09d8f6c5->m_frame.f_lineno = 58;
         tmp_assign_source_30 = IMPORT_MODULE5(tmp_name_name_4, tmp_globals_arg_name_4, tmp_locals_arg_name_4, tmp_fromlist_name_4, tmp_level_name_4);
         if (tmp_assign_source_30 == NULL) {
             assert(ERROR_OCCURRED());
@@ -8621,7 +8621,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_21,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[37],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_31 = IMPORT_NAME(tmp_import_name_from_21, mod_consts[37]);
@@ -8649,7 +8649,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_22,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[67],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_32 = IMPORT_NAME(tmp_import_name_from_22, mod_consts[67]);
@@ -8677,7 +8677,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_23,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[69],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_33 = IMPORT_NAME(tmp_import_name_from_23, mod_consts[69]);
@@ -8705,7 +8705,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_24,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[39],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_34 = IMPORT_NAME(tmp_import_name_from_24, mod_consts[39]);
@@ -8733,7 +8733,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
                 tmp_import_name_from_25,
                 (PyObject *)moduledict_gi$module,
                 mod_consts[35],
-                mod_consts[101]
+                mod_consts[100]
             );
         } else {
             tmp_assign_source_35 = IMPORT_NAME(tmp_import_name_from_25, mod_consts[35]);
@@ -8781,10 +8781,10 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
     {
         PyObject *tmp_assign_source_36;
         PyObject *tmp_called_instance_1;
-        tmp_called_instance_1 = GET_STRING_DICT_VALUE(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[105]);
+        tmp_called_instance_1 = GET_STRING_DICT_VALUE(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[104]);
 
         if (unlikely(tmp_called_instance_1 == NULL)) {
-            tmp_called_instance_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[105]);
+            tmp_called_instance_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[104]);
         }
 
         if (tmp_called_instance_1 == NULL) {
@@ -8797,8 +8797,8 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
 
             goto frame_exception_exit_1;
         }
-        frame_f097184cba212b82e4327127b0c3579d->m_frame.f_lineno = 66;
-        tmp_assign_source_36 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[110]);
+        frame_0d07898c59b3a0be3650a52a09d8f6c5->m_frame.f_lineno = 66;
+        tmp_assign_source_36 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[109]);
         if (tmp_assign_source_36 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -8836,7 +8836,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
     {
         PyObject *tmp_assign_source_40;
         PyObject *tmp_dircall_arg1_1;
-        tmp_dircall_arg1_1 = mod_consts[111];
+        tmp_dircall_arg1_1 = mod_consts[110];
         Py_INCREF(tmp_dircall_arg1_1);
 
         {
@@ -8925,7 +8925,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
         condexpr_true_2:;
         CHECK_OBJECT(tmp_class_creation_1__bases);
         tmp_expression_name_2 = tmp_class_creation_1__bases;
-        tmp_subscript_name_1 = mod_consts[101];
+        tmp_subscript_name_1 = mod_consts[100];
         tmp_type_arg_1 = LOOKUP_SUBSCRIPT_CONST(tmp_expression_name_2, tmp_subscript_name_1, 0);
         if (tmp_type_arg_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -9009,7 +9009,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_expression_name_3;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_3 = tmp_class_creation_1__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_3, mod_consts[112]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_3, mod_consts[111]);
         tmp_condition_result_4 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_4 == NUITKA_BOOL_TRUE) {
             goto branch_yes_2;
@@ -9027,7 +9027,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_kwargs_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_4 = tmp_class_creation_1__metaclass;
-        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_4, mod_consts[112]);
+        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_4, mod_consts[111]);
         if (tmp_called_name_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -9046,7 +9046,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyTuple_SET_ITEM0(tmp_args_name_1, 1, tmp_tuple_element_1);
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_kwargs_name_1 = tmp_class_creation_1__class_decl_dict;
-        frame_f097184cba212b82e4327127b0c3579d->m_frame.f_lineno = 106;
+        frame_0d07898c59b3a0be3650a52a09d8f6c5->m_frame.f_lineno = 106;
         tmp_assign_source_43 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -9069,7 +9069,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_expression_name_5;
         CHECK_OBJECT(tmp_class_creation_1__prepared);
         tmp_expression_name_5 = tmp_class_creation_1__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_5, mod_consts[113]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_5, mod_consts[112]);
         tmp_operand_name_1 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_1);
         if (tmp_res == -1) {
@@ -9100,11 +9100,11 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
         PyObject *tmp_getattr_attr_1;
         PyObject *tmp_getattr_default_1;
         tmp_raise_type_1 = PyExc_TypeError;
-        tmp_left_name_1 = mod_consts[114];
+        tmp_left_name_1 = mod_consts[113];
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_getattr_target_1 = tmp_class_creation_1__metaclass;
         tmp_getattr_attr_1 = mod_consts[21];
-        tmp_getattr_default_1 = mod_consts[115];
+        tmp_getattr_default_1 = mod_consts[114];
         tmp_tuple_element_2 = BUILTIN_GETATTR(tmp_getattr_target_1, tmp_getattr_attr_1, tmp_getattr_default_1);
         if (tmp_tuple_element_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -9187,7 +9187,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[116];
+        tmp_dictset_value = mod_consts[115];
         tmp_res = PyObject_SetItem(locals_gi$module$$$class__1_IntrospectionModule_106, mod_consts[44], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -9199,7 +9199,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
 
             goto try_except_handler_6;
         }
-        tmp_dictset_value = mod_consts[117];
+        tmp_dictset_value = mod_consts[116];
         tmp_res = PyObject_SetItem(locals_gi$module$$$class__1_IntrospectionModule_106, mod_consts[92], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -9212,7 +9212,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
             goto try_except_handler_6;
         }
         tmp_dictset_value = mod_consts[90];
-        tmp_res = PyObject_SetItem(locals_gi$module$$$class__1_IntrospectionModule_106, mod_consts[118], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_gi$module$$$class__1_IntrospectionModule_106, mod_consts[117], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -9223,42 +9223,42 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
 
             goto try_except_handler_6;
         }
-        if (isFrameUnusable(cache_frame_e605d3e37b9b8a27b353eb5511b437d1_2)) {
-            Py_XDECREF(cache_frame_e605d3e37b9b8a27b353eb5511b437d1_2);
+        if (isFrameUnusable(cache_frame_f949e38bc45852f0f588e5adccbdd824_2)) {
+            Py_XDECREF(cache_frame_f949e38bc45852f0f588e5adccbdd824_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_e605d3e37b9b8a27b353eb5511b437d1_2 == NULL) {
+            if (cache_frame_f949e38bc45852f0f588e5adccbdd824_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_e605d3e37b9b8a27b353eb5511b437d1_2 = MAKE_FUNCTION_FRAME(codeobj_e605d3e37b9b8a27b353eb5511b437d1, module_gi$module, sizeof(void *));
+            cache_frame_f949e38bc45852f0f588e5adccbdd824_2 = MAKE_FUNCTION_FRAME(codeobj_f949e38bc45852f0f588e5adccbdd824, module_gi$module, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_e605d3e37b9b8a27b353eb5511b437d1_2->m_type_description == NULL);
-        frame_e605d3e37b9b8a27b353eb5511b437d1_2 = cache_frame_e605d3e37b9b8a27b353eb5511b437d1_2;
+        assert(cache_frame_f949e38bc45852f0f588e5adccbdd824_2->m_type_description == NULL);
+        frame_f949e38bc45852f0f588e5adccbdd824_2 = cache_frame_f949e38bc45852f0f588e5adccbdd824_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_e605d3e37b9b8a27b353eb5511b437d1_2);
+        pushFrameStack(frame_f949e38bc45852f0f588e5adccbdd824_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_e605d3e37b9b8a27b353eb5511b437d1_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_f949e38bc45852f0f588e5adccbdd824_2) == 2); // Frame stack
 
         // Framed code:
         {
             PyObject *tmp_defaults_1;
-            tmp_defaults_1 = mod_consts[119];
+            tmp_defaults_1 = mod_consts[118];
             Py_INCREF(tmp_defaults_1);
 
 
             tmp_dictset_value = MAKE_FUNCTION_gi$module$$$function__3___init__(tmp_defaults_1);
 
-            tmp_res = PyObject_SetItem(locals_gi$module$$$class__1_IntrospectionModule_106, mod_consts[120], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_gi$module$$$class__1_IntrospectionModule_106, mod_consts[119], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -9275,7 +9275,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
 
         tmp_dictset_value = MAKE_FUNCTION_gi$module$$$function__4___getattr__();
 
-        tmp_res = PyObject_SetItem(locals_gi$module$$$class__1_IntrospectionModule_106, mod_consts[122], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_gi$module$$$class__1_IntrospectionModule_106, mod_consts[121], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -9291,7 +9291,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
 
         tmp_dictset_value = MAKE_FUNCTION_gi$module$$$function__5___repr__();
 
-        tmp_res = PyObject_SetItem(locals_gi$module$$$class__1_IntrospectionModule_106, mod_consts[124], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_gi$module$$$class__1_IntrospectionModule_106, mod_consts[123], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -9307,7 +9307,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
 
         tmp_dictset_value = MAKE_FUNCTION_gi$module$$$function__6___dir__();
 
-        tmp_res = PyObject_SetItem(locals_gi$module$$$class__1_IntrospectionModule_106, mod_consts[126], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_gi$module$$$class__1_IntrospectionModule_106, mod_consts[125], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -9321,7 +9321,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_e605d3e37b9b8a27b353eb5511b437d1_2);
+        RESTORE_FRAME_EXCEPTION(frame_f949e38bc45852f0f588e5adccbdd824_2);
 #endif
 
         // Put the previous frame back on top.
@@ -9332,35 +9332,35 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_e605d3e37b9b8a27b353eb5511b437d1_2);
+        RESTORE_FRAME_EXCEPTION(frame_f949e38bc45852f0f588e5adccbdd824_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_e605d3e37b9b8a27b353eb5511b437d1_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_e605d3e37b9b8a27b353eb5511b437d1_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_e605d3e37b9b8a27b353eb5511b437d1_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_f949e38bc45852f0f588e5adccbdd824_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_f949e38bc45852f0f588e5adccbdd824_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_f949e38bc45852f0f588e5adccbdd824_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_e605d3e37b9b8a27b353eb5511b437d1_2,
+            frame_f949e38bc45852f0f588e5adccbdd824_2,
             type_description_2,
             outline_0_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_e605d3e37b9b8a27b353eb5511b437d1_2 == cache_frame_e605d3e37b9b8a27b353eb5511b437d1_2) {
+        if (frame_f949e38bc45852f0f588e5adccbdd824_2 == cache_frame_f949e38bc45852f0f588e5adccbdd824_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_e605d3e37b9b8a27b353eb5511b437d1_2);
-            cache_frame_e605d3e37b9b8a27b353eb5511b437d1_2 = NULL;
+            Py_DECREF(cache_frame_f949e38bc45852f0f588e5adccbdd824_2);
+            cache_frame_f949e38bc45852f0f588e5adccbdd824_2 = NULL;
         }
 
-        assertFrameObject(frame_e605d3e37b9b8a27b353eb5511b437d1_2);
+        assertFrameObject(frame_f949e38bc45852f0f588e5adccbdd824_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -9380,7 +9380,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
             PyObject *tmp_compexpr_right_1;
             CHECK_OBJECT(tmp_class_creation_1__bases);
             tmp_compexpr_left_1 = tmp_class_creation_1__bases;
-            tmp_compexpr_right_1 = mod_consts[111];
+            tmp_compexpr_right_1 = mod_consts[110];
             tmp_condition_result_6 = RICH_COMPARE_NE_NBOOL_OBJECT_TUPLE(tmp_compexpr_left_1, tmp_compexpr_right_1);
             if (tmp_condition_result_6 == NUITKA_BOOL_EXCEPTION) {
                 assert(ERROR_OCCURRED());
@@ -9400,8 +9400,8 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
             assert(tmp_condition_result_6 != NUITKA_BOOL_UNASSIGNED);
         }
         branch_yes_4:;
-        tmp_dictset_value = mod_consts[111];
-        tmp_res = PyObject_SetItem(locals_gi$module$$$class__1_IntrospectionModule_106, mod_consts[128], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[110];
+        tmp_res = PyObject_SetItem(locals_gi$module$$$class__1_IntrospectionModule_106, mod_consts[127], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -9431,7 +9431,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
             PyTuple_SET_ITEM0(tmp_args_name_2, 2, tmp_tuple_element_3);
             CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
             tmp_kwargs_name_2 = tmp_class_creation_1__class_decl_dict;
-            frame_f097184cba212b82e4327127b0c3579d->m_frame.f_lineno = 106;
+            frame_0d07898c59b3a0be3650a52a09d8f6c5->m_frame.f_lineno = 106;
             tmp_assign_source_46 = CALL_FUNCTION(tmp_called_name_2, tmp_args_name_2, tmp_kwargs_name_2);
             Py_DECREF(tmp_args_name_2);
             if (tmp_assign_source_46 == NULL) {
@@ -9546,23 +9546,23 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f097184cba212b82e4327127b0c3579d);
+    RESTORE_FRAME_EXCEPTION(frame_0d07898c59b3a0be3650a52a09d8f6c5);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_f097184cba212b82e4327127b0c3579d);
+    assertFrameObject(frame_0d07898c59b3a0be3650a52a09d8f6c5);
 
     goto frame_no_exception_2;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f097184cba212b82e4327127b0c3579d);
+    RESTORE_FRAME_EXCEPTION(frame_0d07898c59b3a0be3650a52a09d8f6c5);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_f097184cba212b82e4327127b0c3579d, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_f097184cba212b82e4327127b0c3579d->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_f097184cba212b82e4327127b0c3579d, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_0d07898c59b3a0be3650a52a09d8f6c5, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_0d07898c59b3a0be3650a52a09d8f6c5->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_0d07898c59b3a0be3650a52a09d8f6c5, exception_lineno);
     }
 
     // Put the previous frame back on top.
@@ -9587,7 +9587,7 @@ PyObject *modulecode_gi$module(PyObject *module, struct Nuitka_MetaPathBasedLoad
 
         tmp_assign_source_47 = MAKE_FUNCTION_gi$module$$$function__7_get_introspection_module();
 
-        UPDATE_STRING_DICT1(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[129], tmp_assign_source_47);
+        UPDATE_STRING_DICT1(moduledict_gi$module, (Nuitka_StringObject *)mod_consts[128], tmp_assign_source_47);
     }
 
     return module_gi$module;

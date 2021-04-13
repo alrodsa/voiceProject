@@ -65,65 +65,65 @@ void checkModuleConstants_numpy$polynomial$hermite_e(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_51e09126241e985eb8dc9355572274f7;
-static PyCodeObject *codeobj_02f6ed3e9366108b004eaa06268f5d25;
-static PyCodeObject *codeobj_4e60c65490ab15ea5639a63e0120a729;
-static PyCodeObject *codeobj_886ca2a3cf78bcc98bba4ea5c74d3101;
-static PyCodeObject *codeobj_f8081532d3fd716c0acca51fb13e06e9;
-static PyCodeObject *codeobj_7c877a147accaf67fe966947d245af3a;
-static PyCodeObject *codeobj_3849c022c90a7c1bc636faa9017ceaf6;
-static PyCodeObject *codeobj_60031184ec199feb2a1545a474ab422d;
-static PyCodeObject *codeobj_ad19b7d4f7596d3521797b422829ec9a;
-static PyCodeObject *codeobj_d56d198af73fe1ef2d9d8605099ce70b;
-static PyCodeObject *codeobj_ff3a994aa8b93c2f575134c02f1a5351;
-static PyCodeObject *codeobj_fb833962e5dc46ec9680eb937369bb6b;
-static PyCodeObject *codeobj_6c3f2de31a04e2276bfcb6f82427215b;
-static PyCodeObject *codeobj_b2ee831a4bd105458d2d39e8ad1953af;
-static PyCodeObject *codeobj_97353d6c9c2e039ab4a874e9e59d6c83;
-static PyCodeObject *codeobj_3cf0b73d8206a74a96f981a92153dce1;
-static PyCodeObject *codeobj_13cca7a098bd153ee94547b305bc4a40;
-static PyCodeObject *codeobj_088ae9d5746b85e2cb2f6312668fcaa6;
-static PyCodeObject *codeobj_164ddd5cf1b6ce658b9949df595e3fab;
-static PyCodeObject *codeobj_9d32a01a754f06fa5d2c50d12fcc1df4;
-static PyCodeObject *codeobj_6083095c48b2b9de91fea7ee980ce896;
-static PyCodeObject *codeobj_68f9de020447265387802f30ee295973;
-static PyCodeObject *codeobj_60eff48dc76dbe6a89d91488c37a6120;
-static PyCodeObject *codeobj_71fbb9cabffe8652a36ba54c7da45392;
-static PyCodeObject *codeobj_78d2407c699a8843ee93abaa4e1941a7;
-static PyCodeObject *codeobj_9f64d5886e1b5c989d30ef27a35d4fa2;
-static PyCodeObject *codeobj_ce88bb2f3be731428a5d14c4f3a14da2;
-static PyCodeObject *codeobj_9289fbea36b4290b20f697905b4f3a76;
+static PyCodeObject *codeobj_af4a1f858a1e59fada76109e57f0a237;
+static PyCodeObject *codeobj_caa09c5fdc6c32caf120acfd26c6a258;
+static PyCodeObject *codeobj_a9c488472932a2d1ba9c4b2a2191f2e0;
+static PyCodeObject *codeobj_fa1f1d2de52ccf117031947edc73d0bf;
+static PyCodeObject *codeobj_5cdb197f7fd7314488cc357d701696a9;
+static PyCodeObject *codeobj_55fdedcf433fe12a488168fb5029a117;
+static PyCodeObject *codeobj_0368cad455830a54fd4455c16df91f07;
+static PyCodeObject *codeobj_51643c154eb68b45643b37929fd0d450;
+static PyCodeObject *codeobj_8fda96da8d02ee59c10c5cfecdd7766f;
+static PyCodeObject *codeobj_7adf5575ebebed720b5c7516469311dd;
+static PyCodeObject *codeobj_8388f76ef3f03c730942b83005e2247d;
+static PyCodeObject *codeobj_c77040956e043225cee177cdee24e783;
+static PyCodeObject *codeobj_efe4762ae33a4ec6293a703ffa74eb7d;
+static PyCodeObject *codeobj_151b12d4a98ee1d7b3a5150214c79c52;
+static PyCodeObject *codeobj_3a2851af2c6aaae4a1eaeb14301a1730;
+static PyCodeObject *codeobj_585b31b0800a39d27193b4408e8a4752;
+static PyCodeObject *codeobj_092e7a52213c3058ff6d95f8fc870d0c;
+static PyCodeObject *codeobj_eb1125260c20eeaba92a384c1d644378;
+static PyCodeObject *codeobj_d2c825a32c7ea8c0ba19cd340ab02926;
+static PyCodeObject *codeobj_edd2944e91854fec4f721d918013f69d;
+static PyCodeObject *codeobj_103c01067e9ff0655d00456af16f7349;
+static PyCodeObject *codeobj_d1c3414d9b9c2d8b28d2556ee9aec9c6;
+static PyCodeObject *codeobj_654f03f477fd4e0df5c6028f6a6ad808;
+static PyCodeObject *codeobj_a466e07a7abdfbcb1b738d8b414c279b;
+static PyCodeObject *codeobj_acb2c3551c23ef3a029a0415957ec441;
+static PyCodeObject *codeobj_3b10e618bc060fb4f2efa1e92cbb79cf;
+static PyCodeObject *codeobj_92f1eee319f1b6986816e55281620076;
+static PyCodeObject *codeobj_fa5d5df26f3a7ccd5ea60fe24f55d863;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[150]; CHECK_OBJECT(module_filename_obj);
-    codeobj_51e09126241e985eb8dc9355572274f7 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[221], NULL, NULL, 0, 0, 0);
-    codeobj_02f6ed3e9366108b004eaa06268f5d25 = MAKE_CODEOBJECT(module_filename_obj, 1649, CO_NOFREE, mod_consts[200], mod_consts[222], NULL, 0, 0, 0);
-    codeobj_4e60c65490ab15ea5639a63e0120a729 = MAKE_CODEOBJECT(module_filename_obj, 1508, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[140], mod_consts[223], NULL, 2, 0, 0);
-    codeobj_886ca2a3cf78bcc98bba4ea5c74d3101 = MAKE_CODEOBJECT(module_filename_obj, 143, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[172], mod_consts[224], NULL, 1, 0, 0);
-    codeobj_f8081532d3fd716c0acca51fb13e06e9 = MAKE_CODEOBJECT(module_filename_obj, 312, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[6], mod_consts[225], NULL, 2, 0, 0);
-    codeobj_7c877a147accaf67fe966947d245af3a = MAKE_CODEOBJECT(module_filename_obj, 1398, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[127], mod_consts[226], NULL, 1, 0, 0);
-    codeobj_3849c022c90a7c1bc636faa9017ceaf6 = MAKE_CODEOBJECT(module_filename_obj, 590, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[184], mod_consts[227], NULL, 4, 0, 0);
-    codeobj_60031184ec199feb2a1545a474ab422d = MAKE_CODEOBJECT(module_filename_obj, 507, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[180], mod_consts[225], NULL, 2, 0, 0);
-    codeobj_ad19b7d4f7596d3521797b422829ec9a = MAKE_CODEOBJECT(module_filename_obj, 1266, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[194], mod_consts[228], NULL, 6, 0, 0);
-    codeobj_d56d198af73fe1ef2d9d8605099ce70b = MAKE_CODEOBJECT(module_filename_obj, 256, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[179], mod_consts[229], NULL, 1, 0, 0);
-    codeobj_ff3a994aa8b93c2f575134c02f1a5351 = MAKE_CODEOBJECT(module_filename_obj, 1551, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[196], mod_consts[230], NULL, 1, 0, 0);
-    codeobj_fb833962e5dc46ec9680eb937369bb6b = MAKE_CODEOBJECT(module_filename_obj, 939, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[188], mod_consts[231], NULL, 3, 0, 0);
-    codeobj_6c3f2de31a04e2276bfcb6f82427215b = MAKE_CODEOBJECT(module_filename_obj, 1043, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[190], mod_consts[232], NULL, 4, 0, 0);
-    codeobj_b2ee831a4bd105458d2d39e8ad1953af = MAKE_CODEOBJECT(module_filename_obj, 673, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[185], mod_consts[233], NULL, 6, 0, 0);
-    codeobj_97353d6c9c2e039ab4a874e9e59d6c83 = MAKE_CODEOBJECT(module_filename_obj, 217, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[27], mod_consts[234], NULL, 2, 0, 0);
-    codeobj_3cf0b73d8206a74a96f981a92153dce1 = MAKE_CODEOBJECT(module_filename_obj, 441, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[28], mod_consts[235], NULL, 2, 0, 0);
-    codeobj_13cca7a098bd153ee94547b305bc4a40 = MAKE_CODEOBJECT(module_filename_obj, 392, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[7], mod_consts[236], NULL, 1, 0, 0);
-    codeobj_088ae9d5746b85e2cb2f6312668fcaa6 = MAKE_CODEOBJECT(module_filename_obj, 553, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[182], mod_consts[237], NULL, 3, 0, 0);
-    codeobj_164ddd5cf1b6ce658b9949df595e3fab = MAKE_CODEOBJECT(module_filename_obj, 1444, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[195], mod_consts[238], NULL, 1, 0, 0);
-    codeobj_9d32a01a754f06fa5d2c50d12fcc1df4 = MAKE_CODEOBJECT(module_filename_obj, 352, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[43], mod_consts[225], NULL, 2, 0, 0);
-    codeobj_6083095c48b2b9de91fea7ee980ce896 = MAKE_CODEOBJECT(module_filename_obj, 795, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[81], mod_consts[239], NULL, 3, 0, 0);
-    codeobj_68f9de020447265387802f30ee295973 = MAKE_CODEOBJECT(module_filename_obj, 890, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[187], mod_consts[231], NULL, 3, 0, 0);
-    codeobj_60eff48dc76dbe6a89d91488c37a6120 = MAKE_CODEOBJECT(module_filename_obj, 992, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[189], mod_consts[232], NULL, 4, 0, 0);
-    codeobj_71fbb9cabffe8652a36ba54c7da45392 = MAKE_CODEOBJECT(module_filename_obj, 1099, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[106], mod_consts[240], NULL, 2, 0, 0);
-    codeobj_78d2407c699a8843ee93abaa4e1941a7 = MAKE_CODEOBJECT(module_filename_obj, 1159, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[191], mod_consts[241], NULL, 3, 0, 0);
-    codeobj_9f64d5886e1b5c989d30ef27a35d4fa2 = MAKE_CODEOBJECT(module_filename_obj, 1212, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[192], mod_consts[242], NULL, 4, 0, 0);
-    codeobj_ce88bb2f3be731428a5d14c4f3a14da2 = MAKE_CODEOBJECT(module_filename_obj, 1618, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[197], mod_consts[243], NULL, 1, 0, 0);
-    codeobj_9289fbea36b4290b20f697905b4f3a76 = MAKE_CODEOBJECT(module_filename_obj, 97, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[171], mod_consts[244], NULL, 1, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[220]); CHECK_OBJECT(module_filename_obj);
+    codeobj_af4a1f858a1e59fada76109e57f0a237 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[221], NULL, NULL, 0, 0, 0);
+    codeobj_caa09c5fdc6c32caf120acfd26c6a258 = MAKE_CODEOBJECT(module_filename_obj, 1649, CO_NOFREE, mod_consts[199], mod_consts[222], NULL, 0, 0, 0);
+    codeobj_a9c488472932a2d1ba9c4b2a2191f2e0 = MAKE_CODEOBJECT(module_filename_obj, 1508, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[140], mod_consts[223], NULL, 2, 0, 0);
+    codeobj_fa1f1d2de52ccf117031947edc73d0bf = MAKE_CODEOBJECT(module_filename_obj, 143, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[171], mod_consts[224], NULL, 1, 0, 0);
+    codeobj_5cdb197f7fd7314488cc357d701696a9 = MAKE_CODEOBJECT(module_filename_obj, 312, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[6], mod_consts[225], NULL, 2, 0, 0);
+    codeobj_55fdedcf433fe12a488168fb5029a117 = MAKE_CODEOBJECT(module_filename_obj, 1398, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[127], mod_consts[226], NULL, 1, 0, 0);
+    codeobj_0368cad455830a54fd4455c16df91f07 = MAKE_CODEOBJECT(module_filename_obj, 590, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[183], mod_consts[227], NULL, 4, 0, 0);
+    codeobj_51643c154eb68b45643b37929fd0d450 = MAKE_CODEOBJECT(module_filename_obj, 507, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[179], mod_consts[225], NULL, 2, 0, 0);
+    codeobj_8fda96da8d02ee59c10c5cfecdd7766f = MAKE_CODEOBJECT(module_filename_obj, 1266, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[193], mod_consts[228], NULL, 6, 0, 0);
+    codeobj_7adf5575ebebed720b5c7516469311dd = MAKE_CODEOBJECT(module_filename_obj, 256, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[178], mod_consts[229], NULL, 1, 0, 0);
+    codeobj_8388f76ef3f03c730942b83005e2247d = MAKE_CODEOBJECT(module_filename_obj, 1551, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[195], mod_consts[230], NULL, 1, 0, 0);
+    codeobj_c77040956e043225cee177cdee24e783 = MAKE_CODEOBJECT(module_filename_obj, 939, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[187], mod_consts[231], NULL, 3, 0, 0);
+    codeobj_efe4762ae33a4ec6293a703ffa74eb7d = MAKE_CODEOBJECT(module_filename_obj, 1043, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[189], mod_consts[232], NULL, 4, 0, 0);
+    codeobj_151b12d4a98ee1d7b3a5150214c79c52 = MAKE_CODEOBJECT(module_filename_obj, 673, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[184], mod_consts[233], NULL, 6, 0, 0);
+    codeobj_3a2851af2c6aaae4a1eaeb14301a1730 = MAKE_CODEOBJECT(module_filename_obj, 217, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[27], mod_consts[234], NULL, 2, 0, 0);
+    codeobj_585b31b0800a39d27193b4408e8a4752 = MAKE_CODEOBJECT(module_filename_obj, 441, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[28], mod_consts[235], NULL, 2, 0, 0);
+    codeobj_092e7a52213c3058ff6d95f8fc870d0c = MAKE_CODEOBJECT(module_filename_obj, 392, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[7], mod_consts[236], NULL, 1, 0, 0);
+    codeobj_eb1125260c20eeaba92a384c1d644378 = MAKE_CODEOBJECT(module_filename_obj, 553, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[181], mod_consts[237], NULL, 3, 0, 0);
+    codeobj_d2c825a32c7ea8c0ba19cd340ab02926 = MAKE_CODEOBJECT(module_filename_obj, 1444, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[194], mod_consts[238], NULL, 1, 0, 0);
+    codeobj_edd2944e91854fec4f721d918013f69d = MAKE_CODEOBJECT(module_filename_obj, 352, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[43], mod_consts[225], NULL, 2, 0, 0);
+    codeobj_103c01067e9ff0655d00456af16f7349 = MAKE_CODEOBJECT(module_filename_obj, 795, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[81], mod_consts[239], NULL, 3, 0, 0);
+    codeobj_d1c3414d9b9c2d8b28d2556ee9aec9c6 = MAKE_CODEOBJECT(module_filename_obj, 890, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[186], mod_consts[231], NULL, 3, 0, 0);
+    codeobj_654f03f477fd4e0df5c6028f6a6ad808 = MAKE_CODEOBJECT(module_filename_obj, 992, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[188], mod_consts[232], NULL, 4, 0, 0);
+    codeobj_a466e07a7abdfbcb1b738d8b414c279b = MAKE_CODEOBJECT(module_filename_obj, 1099, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[106], mod_consts[240], NULL, 2, 0, 0);
+    codeobj_acb2c3551c23ef3a029a0415957ec441 = MAKE_CODEOBJECT(module_filename_obj, 1159, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[190], mod_consts[241], NULL, 3, 0, 0);
+    codeobj_3b10e618bc060fb4f2efa1e92cbb79cf = MAKE_CODEOBJECT(module_filename_obj, 1212, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[191], mod_consts[242], NULL, 4, 0, 0);
+    codeobj_92f1eee319f1b6986816e55281620076 = MAKE_CODEOBJECT(module_filename_obj, 1618, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[196], mod_consts[243], NULL, 1, 0, 0);
+    codeobj_fa5d5df26f3a7ccd5ea60fe24f55d863 = MAKE_CODEOBJECT(module_filename_obj, 97, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[170], mod_consts[244], NULL, 1, 0, 0);
 }
 
 // The module function declarations.
@@ -224,7 +224,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__1_poly2herme(struct
     PyObject *tmp_for_loop_1__iter_value = NULL;
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_9289fbea36b4290b20f697905b4f3a76;
+    struct Nuitka_FrameObject *frame_fa5d5df26f3a7ccd5ea60fe24f55d863;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -244,7 +244,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__1_poly2herme(struct
     PyTracebackObject *exception_keeper_tb_3;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_3;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_9289fbea36b4290b20f697905b4f3a76 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_fa5d5df26f3a7ccd5ea60fe24f55d863 = NULL;
     PyObject *exception_keeper_type_4;
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
@@ -252,31 +252,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__1_poly2herme(struct
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_9289fbea36b4290b20f697905b4f3a76)) {
-        Py_XDECREF(cache_frame_9289fbea36b4290b20f697905b4f3a76);
+    if (isFrameUnusable(cache_frame_fa5d5df26f3a7ccd5ea60fe24f55d863)) {
+        Py_XDECREF(cache_frame_fa5d5df26f3a7ccd5ea60fe24f55d863);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_9289fbea36b4290b20f697905b4f3a76 == NULL) {
+        if (cache_frame_fa5d5df26f3a7ccd5ea60fe24f55d863 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_9289fbea36b4290b20f697905b4f3a76 = MAKE_FUNCTION_FRAME(codeobj_9289fbea36b4290b20f697905b4f3a76, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_fa5d5df26f3a7ccd5ea60fe24f55d863 = MAKE_FUNCTION_FRAME(codeobj_fa5d5df26f3a7ccd5ea60fe24f55d863, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_9289fbea36b4290b20f697905b4f3a76->m_type_description == NULL);
-    frame_9289fbea36b4290b20f697905b4f3a76 = cache_frame_9289fbea36b4290b20f697905b4f3a76;
+    assert(cache_frame_fa5d5df26f3a7ccd5ea60fe24f55d863->m_type_description == NULL);
+    frame_fa5d5df26f3a7ccd5ea60fe24f55d863 = cache_frame_fa5d5df26f3a7ccd5ea60fe24f55d863;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_9289fbea36b4290b20f697905b4f3a76);
+    pushFrameStack(frame_fa5d5df26f3a7ccd5ea60fe24f55d863);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_9289fbea36b4290b20f697905b4f3a76) == 2); // Frame stack
+    assert(Py_REFCNT(frame_fa5d5df26f3a7ccd5ea60fe24f55d863) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -306,7 +306,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__1_poly2herme(struct
         tmp_list_element_1 = par_pol;
         tmp_args_element_name_1 = PyList_New(1);
         PyList_SET_ITEM0(tmp_args_element_name_1, 0, tmp_list_element_1);
-        frame_9289fbea36b4290b20f697905b4f3a76->m_frame.f_lineno = 135;
+        frame_fa5d5df26f3a7ccd5ea60fe24f55d863->m_frame.f_lineno = 135;
         tmp_iter_arg_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[1], tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_iter_arg_1 == NULL) {
@@ -623,7 +623,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__1_poly2herme(struct
         }
 
         tmp_args_element_name_3 = var_res;
-        frame_9289fbea36b4290b20f697905b4f3a76->m_frame.f_lineno = 139;
+        frame_fa5d5df26f3a7ccd5ea60fe24f55d863->m_frame.f_lineno = 139;
         tmp_args_element_name_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_3);
         if (tmp_args_element_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -661,7 +661,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__1_poly2herme(struct
             type_description_1 = "oooo";
             goto try_except_handler_4;
         }
-        frame_9289fbea36b4290b20f697905b4f3a76->m_frame.f_lineno = 139;
+        frame_fa5d5df26f3a7ccd5ea60fe24f55d863->m_frame.f_lineno = 139;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_4};
             tmp_assign_source_9 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -744,7 +744,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__1_poly2herme(struct
     goto frame_return_exit_1;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9289fbea36b4290b20f697905b4f3a76);
+    RESTORE_FRAME_EXCEPTION(frame_fa5d5df26f3a7ccd5ea60fe24f55d863);
 #endif
 
     // Put the previous frame back on top.
@@ -754,7 +754,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__1_poly2herme(struct
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9289fbea36b4290b20f697905b4f3a76);
+    RESTORE_FRAME_EXCEPTION(frame_fa5d5df26f3a7ccd5ea60fe24f55d863);
 #endif
 
     // Put the previous frame back on top.
@@ -765,18 +765,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__1_poly2herme(struct
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9289fbea36b4290b20f697905b4f3a76);
+    RESTORE_FRAME_EXCEPTION(frame_fa5d5df26f3a7ccd5ea60fe24f55d863);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_9289fbea36b4290b20f697905b4f3a76, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_9289fbea36b4290b20f697905b4f3a76->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_9289fbea36b4290b20f697905b4f3a76, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_fa5d5df26f3a7ccd5ea60fe24f55d863, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_fa5d5df26f3a7ccd5ea60fe24f55d863->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_fa5d5df26f3a7ccd5ea60fe24f55d863, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_9289fbea36b4290b20f697905b4f3a76,
+        frame_fa5d5df26f3a7ccd5ea60fe24f55d863,
         type_description_1,
         par_pol,
         var_deg,
@@ -786,17 +786,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__1_poly2herme(struct
 
 
     // Release cached frame if used for exception.
-    if (frame_9289fbea36b4290b20f697905b4f3a76 == cache_frame_9289fbea36b4290b20f697905b4f3a76) {
+    if (frame_fa5d5df26f3a7ccd5ea60fe24f55d863 == cache_frame_fa5d5df26f3a7ccd5ea60fe24f55d863) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_9289fbea36b4290b20f697905b4f3a76);
-        cache_frame_9289fbea36b4290b20f697905b4f3a76 = NULL;
+        Py_DECREF(cache_frame_fa5d5df26f3a7ccd5ea60fe24f55d863);
+        cache_frame_fa5d5df26f3a7ccd5ea60fe24f55d863 = NULL;
     }
 
-    assertFrameObject(frame_9289fbea36b4290b20f697905b4f3a76);
+    assertFrameObject(frame_fa5d5df26f3a7ccd5ea60fe24f55d863);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -889,7 +889,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__2_herme2poly(struct
     PyObject *tmp_import_from_1__module = NULL;
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_886ca2a3cf78bcc98bba4ea5c74d3101;
+    struct Nuitka_FrameObject *frame_fa1f1d2de52ccf117031947edc73d0bf;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -913,7 +913,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__2_herme2poly(struct
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_4;
-    static struct Nuitka_FrameObject *cache_frame_886ca2a3cf78bcc98bba4ea5c74d3101 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_fa1f1d2de52ccf117031947edc73d0bf = NULL;
     PyObject *exception_keeper_type_5;
     PyObject *exception_keeper_value_5;
     PyTracebackObject *exception_keeper_tb_5;
@@ -921,31 +921,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__2_herme2poly(struct
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_886ca2a3cf78bcc98bba4ea5c74d3101)) {
-        Py_XDECREF(cache_frame_886ca2a3cf78bcc98bba4ea5c74d3101);
+    if (isFrameUnusable(cache_frame_fa1f1d2de52ccf117031947edc73d0bf)) {
+        Py_XDECREF(cache_frame_fa1f1d2de52ccf117031947edc73d0bf);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_886ca2a3cf78bcc98bba4ea5c74d3101 == NULL) {
+        if (cache_frame_fa1f1d2de52ccf117031947edc73d0bf == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_886ca2a3cf78bcc98bba4ea5c74d3101 = MAKE_FUNCTION_FRAME(codeobj_886ca2a3cf78bcc98bba4ea5c74d3101, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_fa1f1d2de52ccf117031947edc73d0bf = MAKE_FUNCTION_FRAME(codeobj_fa1f1d2de52ccf117031947edc73d0bf, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_886ca2a3cf78bcc98bba4ea5c74d3101->m_type_description == NULL);
-    frame_886ca2a3cf78bcc98bba4ea5c74d3101 = cache_frame_886ca2a3cf78bcc98bba4ea5c74d3101;
+    assert(cache_frame_fa1f1d2de52ccf117031947edc73d0bf->m_type_description == NULL);
+    frame_fa1f1d2de52ccf117031947edc73d0bf = cache_frame_fa1f1d2de52ccf117031947edc73d0bf;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_886ca2a3cf78bcc98bba4ea5c74d3101);
+    pushFrameStack(frame_fa1f1d2de52ccf117031947edc73d0bf);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_886ca2a3cf78bcc98bba4ea5c74d3101) == 2); // Frame stack
+    assert(Py_REFCNT(frame_fa1f1d2de52ccf117031947edc73d0bf) == 2); // Frame stack
 
     // Framed code:
     {
@@ -960,7 +960,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__2_herme2poly(struct
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = mod_consts[12];
         tmp_level_name_1 = mod_consts[3];
-        frame_886ca2a3cf78bcc98bba4ea5c74d3101->m_frame.f_lineno = 181;
+        frame_fa1f1d2de52ccf117031947edc73d0bf->m_frame.f_lineno = 181;
         tmp_assign_source_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1117,7 +1117,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__2_herme2poly(struct
         tmp_list_element_1 = par_c;
         tmp_args_element_name_1 = PyList_New(1);
         PyList_SET_ITEM0(tmp_args_element_name_1, 0, tmp_list_element_1);
-        frame_886ca2a3cf78bcc98bba4ea5c74d3101->m_frame.f_lineno = 183;
+        frame_fa1f1d2de52ccf117031947edc73d0bf->m_frame.f_lineno = 183;
         tmp_iter_arg_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[1], tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_iter_arg_1 == NULL) {
@@ -1646,7 +1646,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__2_herme2poly(struct
             type_description_1 = "ooooooooo";
             goto try_except_handler_5;
         }
-        frame_886ca2a3cf78bcc98bba4ea5c74d3101->m_frame.f_lineno = 195;
+        frame_fa1f1d2de52ccf117031947edc73d0bf->m_frame.f_lineno = 195;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_assign_source_15 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -1719,7 +1719,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__2_herme2poly(struct
         }
 
         tmp_args_element_name_6 = var_c1;
-        frame_886ca2a3cf78bcc98bba4ea5c74d3101->m_frame.f_lineno = 196;
+        frame_fa1f1d2de52ccf117031947edc73d0bf->m_frame.f_lineno = 196;
         tmp_args_element_name_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_6);
         if (tmp_args_element_name_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1731,7 +1731,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__2_herme2poly(struct
             type_description_1 = "ooooooooo";
             goto try_except_handler_5;
         }
-        frame_886ca2a3cf78bcc98bba4ea5c74d3101->m_frame.f_lineno = 196;
+        frame_fa1f1d2de52ccf117031947edc73d0bf->m_frame.f_lineno = 196;
         {
             PyObject *call_args[] = {tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_assign_source_16 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -1854,7 +1854,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__2_herme2poly(struct
         }
 
         tmp_args_element_name_9 = var_c1;
-        frame_886ca2a3cf78bcc98bba4ea5c74d3101->m_frame.f_lineno = 197;
+        frame_fa1f1d2de52ccf117031947edc73d0bf->m_frame.f_lineno = 197;
         tmp_args_element_name_8 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_9);
         if (tmp_args_element_name_8 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1866,7 +1866,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__2_herme2poly(struct
             type_description_1 = "ooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_886ca2a3cf78bcc98bba4ea5c74d3101->m_frame.f_lineno = 197;
+        frame_fa1f1d2de52ccf117031947edc73d0bf->m_frame.f_lineno = 197;
         {
             PyObject *call_args[] = {tmp_args_element_name_7, tmp_args_element_name_8};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -1888,7 +1888,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__2_herme2poly(struct
     branch_end_2:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_886ca2a3cf78bcc98bba4ea5c74d3101);
+    RESTORE_FRAME_EXCEPTION(frame_fa1f1d2de52ccf117031947edc73d0bf);
 #endif
 
     // Put the previous frame back on top.
@@ -1898,7 +1898,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__2_herme2poly(struct
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_886ca2a3cf78bcc98bba4ea5c74d3101);
+    RESTORE_FRAME_EXCEPTION(frame_fa1f1d2de52ccf117031947edc73d0bf);
 #endif
 
     // Put the previous frame back on top.
@@ -1909,18 +1909,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__2_herme2poly(struct
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_886ca2a3cf78bcc98bba4ea5c74d3101);
+    RESTORE_FRAME_EXCEPTION(frame_fa1f1d2de52ccf117031947edc73d0bf);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_886ca2a3cf78bcc98bba4ea5c74d3101, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_886ca2a3cf78bcc98bba4ea5c74d3101->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_886ca2a3cf78bcc98bba4ea5c74d3101, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_fa1f1d2de52ccf117031947edc73d0bf, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_fa1f1d2de52ccf117031947edc73d0bf->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_fa1f1d2de52ccf117031947edc73d0bf, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_886ca2a3cf78bcc98bba4ea5c74d3101,
+        frame_fa1f1d2de52ccf117031947edc73d0bf,
         type_description_1,
         par_c,
         var_polyadd,
@@ -1935,17 +1935,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__2_herme2poly(struct
 
 
     // Release cached frame if used for exception.
-    if (frame_886ca2a3cf78bcc98bba4ea5c74d3101 == cache_frame_886ca2a3cf78bcc98bba4ea5c74d3101) {
+    if (frame_fa1f1d2de52ccf117031947edc73d0bf == cache_frame_fa1f1d2de52ccf117031947edc73d0bf) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_886ca2a3cf78bcc98bba4ea5c74d3101);
-        cache_frame_886ca2a3cf78bcc98bba4ea5c74d3101 = NULL;
+        Py_DECREF(cache_frame_fa1f1d2de52ccf117031947edc73d0bf);
+        cache_frame_fa1f1d2de52ccf117031947edc73d0bf = NULL;
     }
 
-    assertFrameObject(frame_886ca2a3cf78bcc98bba4ea5c74d3101);
+    assertFrameObject(frame_fa1f1d2de52ccf117031947edc73d0bf);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2046,14 +2046,14 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__3_hermeline(struct 
     // Local variable declarations.
     PyObject *par_off = python_pars[0];
     PyObject *par_scl = python_pars[1];
-    struct Nuitka_FrameObject *frame_97353d6c9c2e039ab4a874e9e59d6c83;
+    struct Nuitka_FrameObject *frame_3a2851af2c6aaae4a1eaeb14301a1730;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_97353d6c9c2e039ab4a874e9e59d6c83 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_3a2851af2c6aaae4a1eaeb14301a1730 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -2061,31 +2061,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__3_hermeline(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_97353d6c9c2e039ab4a874e9e59d6c83)) {
-        Py_XDECREF(cache_frame_97353d6c9c2e039ab4a874e9e59d6c83);
+    if (isFrameUnusable(cache_frame_3a2851af2c6aaae4a1eaeb14301a1730)) {
+        Py_XDECREF(cache_frame_3a2851af2c6aaae4a1eaeb14301a1730);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_97353d6c9c2e039ab4a874e9e59d6c83 == NULL) {
+        if (cache_frame_3a2851af2c6aaae4a1eaeb14301a1730 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_97353d6c9c2e039ab4a874e9e59d6c83 = MAKE_FUNCTION_FRAME(codeobj_97353d6c9c2e039ab4a874e9e59d6c83, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *));
+        cache_frame_3a2851af2c6aaae4a1eaeb14301a1730 = MAKE_FUNCTION_FRAME(codeobj_3a2851af2c6aaae4a1eaeb14301a1730, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_97353d6c9c2e039ab4a874e9e59d6c83->m_type_description == NULL);
-    frame_97353d6c9c2e039ab4a874e9e59d6c83 = cache_frame_97353d6c9c2e039ab4a874e9e59d6c83;
+    assert(cache_frame_3a2851af2c6aaae4a1eaeb14301a1730->m_type_description == NULL);
+    frame_3a2851af2c6aaae4a1eaeb14301a1730 = cache_frame_3a2851af2c6aaae4a1eaeb14301a1730;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_97353d6c9c2e039ab4a874e9e59d6c83);
+    pushFrameStack(frame_3a2851af2c6aaae4a1eaeb14301a1730);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_97353d6c9c2e039ab4a874e9e59d6c83) == 2); // Frame stack
+    assert(Py_REFCNT(frame_3a2851af2c6aaae4a1eaeb14301a1730) == 2); // Frame stack
 
     // Framed code:
     {
@@ -2155,7 +2155,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__3_hermeline(struct 
         CHECK_OBJECT(par_scl);
         tmp_list_element_1 = par_scl;
         PyList_SET_ITEM0(tmp_args_element_name_1, 1, tmp_list_element_1);
-        frame_97353d6c9c2e039ab4a874e9e59d6c83->m_frame.f_lineno = 251;
+        frame_3a2851af2c6aaae4a1eaeb14301a1730->m_frame.f_lineno = 251;
         tmp_return_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[24], tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_return_value == NULL) {
@@ -2196,7 +2196,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__3_hermeline(struct 
         tmp_list_element_2 = par_off;
         tmp_args_element_name_2 = PyList_New(1);
         PyList_SET_ITEM0(tmp_args_element_name_2, 0, tmp_list_element_2);
-        frame_97353d6c9c2e039ab4a874e9e59d6c83->m_frame.f_lineno = 253;
+        frame_3a2851af2c6aaae4a1eaeb14301a1730->m_frame.f_lineno = 253;
         tmp_return_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[24], tmp_args_element_name_2);
         Py_DECREF(tmp_args_element_name_2);
         if (tmp_return_value == NULL) {
@@ -2214,7 +2214,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__3_hermeline(struct 
     branch_end_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_97353d6c9c2e039ab4a874e9e59d6c83);
+    RESTORE_FRAME_EXCEPTION(frame_3a2851af2c6aaae4a1eaeb14301a1730);
 #endif
 
     // Put the previous frame back on top.
@@ -2224,7 +2224,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__3_hermeline(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_97353d6c9c2e039ab4a874e9e59d6c83);
+    RESTORE_FRAME_EXCEPTION(frame_3a2851af2c6aaae4a1eaeb14301a1730);
 #endif
 
     // Put the previous frame back on top.
@@ -2235,18 +2235,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__3_hermeline(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_97353d6c9c2e039ab4a874e9e59d6c83);
+    RESTORE_FRAME_EXCEPTION(frame_3a2851af2c6aaae4a1eaeb14301a1730);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_97353d6c9c2e039ab4a874e9e59d6c83, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_97353d6c9c2e039ab4a874e9e59d6c83->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_97353d6c9c2e039ab4a874e9e59d6c83, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_3a2851af2c6aaae4a1eaeb14301a1730, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_3a2851af2c6aaae4a1eaeb14301a1730->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_3a2851af2c6aaae4a1eaeb14301a1730, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_97353d6c9c2e039ab4a874e9e59d6c83,
+        frame_3a2851af2c6aaae4a1eaeb14301a1730,
         type_description_1,
         par_off,
         par_scl
@@ -2254,17 +2254,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__3_hermeline(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_97353d6c9c2e039ab4a874e9e59d6c83 == cache_frame_97353d6c9c2e039ab4a874e9e59d6c83) {
+    if (frame_3a2851af2c6aaae4a1eaeb14301a1730 == cache_frame_3a2851af2c6aaae4a1eaeb14301a1730) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_97353d6c9c2e039ab4a874e9e59d6c83);
-        cache_frame_97353d6c9c2e039ab4a874e9e59d6c83 = NULL;
+        Py_DECREF(cache_frame_3a2851af2c6aaae4a1eaeb14301a1730);
+        cache_frame_3a2851af2c6aaae4a1eaeb14301a1730 = NULL;
     }
 
-    assertFrameObject(frame_97353d6c9c2e039ab4a874e9e59d6c83);
+    assertFrameObject(frame_3a2851af2c6aaae4a1eaeb14301a1730);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2335,14 +2335,14 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__4_hermefromroots(st
 
     // Local variable declarations.
     PyObject *par_roots = python_pars[0];
-    struct Nuitka_FrameObject *frame_d56d198af73fe1ef2d9d8605099ce70b;
+    struct Nuitka_FrameObject *frame_7adf5575ebebed720b5c7516469311dd;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_d56d198af73fe1ef2d9d8605099ce70b = NULL;
+    static struct Nuitka_FrameObject *cache_frame_7adf5575ebebed720b5c7516469311dd = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -2350,31 +2350,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__4_hermefromroots(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_d56d198af73fe1ef2d9d8605099ce70b)) {
-        Py_XDECREF(cache_frame_d56d198af73fe1ef2d9d8605099ce70b);
+    if (isFrameUnusable(cache_frame_7adf5575ebebed720b5c7516469311dd)) {
+        Py_XDECREF(cache_frame_7adf5575ebebed720b5c7516469311dd);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_d56d198af73fe1ef2d9d8605099ce70b == NULL) {
+        if (cache_frame_7adf5575ebebed720b5c7516469311dd == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_d56d198af73fe1ef2d9d8605099ce70b = MAKE_FUNCTION_FRAME(codeobj_d56d198af73fe1ef2d9d8605099ce70b, module_numpy$polynomial$hermite_e, sizeof(void *));
+        cache_frame_7adf5575ebebed720b5c7516469311dd = MAKE_FUNCTION_FRAME(codeobj_7adf5575ebebed720b5c7516469311dd, module_numpy$polynomial$hermite_e, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_d56d198af73fe1ef2d9d8605099ce70b->m_type_description == NULL);
-    frame_d56d198af73fe1ef2d9d8605099ce70b = cache_frame_d56d198af73fe1ef2d9d8605099ce70b;
+    assert(cache_frame_7adf5575ebebed720b5c7516469311dd->m_type_description == NULL);
+    frame_7adf5575ebebed720b5c7516469311dd = cache_frame_7adf5575ebebed720b5c7516469311dd;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_d56d198af73fe1ef2d9d8605099ce70b);
+    pushFrameStack(frame_7adf5575ebebed720b5c7516469311dd);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_d56d198af73fe1ef2d9d8605099ce70b) == 2); // Frame stack
+    assert(Py_REFCNT(frame_7adf5575ebebed720b5c7516469311dd) == 2); // Frame stack
 
     // Framed code:
     {
@@ -2444,7 +2444,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__4_hermefromroots(st
         }
         CHECK_OBJECT(par_roots);
         tmp_args_element_name_3 = par_roots;
-        frame_d56d198af73fe1ef2d9d8605099ce70b->m_frame.f_lineno = 309;
+        frame_7adf5575ebebed720b5c7516469311dd->m_frame.f_lineno = 309;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_1, call_args);
@@ -2465,7 +2465,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__4_hermefromroots(st
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d56d198af73fe1ef2d9d8605099ce70b);
+    RESTORE_FRAME_EXCEPTION(frame_7adf5575ebebed720b5c7516469311dd);
 #endif
 
     // Put the previous frame back on top.
@@ -2475,7 +2475,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__4_hermefromroots(st
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d56d198af73fe1ef2d9d8605099ce70b);
+    RESTORE_FRAME_EXCEPTION(frame_7adf5575ebebed720b5c7516469311dd);
 #endif
 
     // Put the previous frame back on top.
@@ -2486,35 +2486,35 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__4_hermefromroots(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d56d198af73fe1ef2d9d8605099ce70b);
+    RESTORE_FRAME_EXCEPTION(frame_7adf5575ebebed720b5c7516469311dd);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_d56d198af73fe1ef2d9d8605099ce70b, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_d56d198af73fe1ef2d9d8605099ce70b->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_d56d198af73fe1ef2d9d8605099ce70b, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_7adf5575ebebed720b5c7516469311dd, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_7adf5575ebebed720b5c7516469311dd->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_7adf5575ebebed720b5c7516469311dd, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_d56d198af73fe1ef2d9d8605099ce70b,
+        frame_7adf5575ebebed720b5c7516469311dd,
         type_description_1,
         par_roots
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_d56d198af73fe1ef2d9d8605099ce70b == cache_frame_d56d198af73fe1ef2d9d8605099ce70b) {
+    if (frame_7adf5575ebebed720b5c7516469311dd == cache_frame_7adf5575ebebed720b5c7516469311dd) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_d56d198af73fe1ef2d9d8605099ce70b);
-        cache_frame_d56d198af73fe1ef2d9d8605099ce70b = NULL;
+        Py_DECREF(cache_frame_7adf5575ebebed720b5c7516469311dd);
+        cache_frame_7adf5575ebebed720b5c7516469311dd = NULL;
     }
 
-    assertFrameObject(frame_d56d198af73fe1ef2d9d8605099ce70b);
+    assertFrameObject(frame_7adf5575ebebed720b5c7516469311dd);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2582,14 +2582,14 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__5_hermeadd(struct N
     // Local variable declarations.
     PyObject *par_c1 = python_pars[0];
     PyObject *par_c2 = python_pars[1];
-    struct Nuitka_FrameObject *frame_f8081532d3fd716c0acca51fb13e06e9;
+    struct Nuitka_FrameObject *frame_5cdb197f7fd7314488cc357d701696a9;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_f8081532d3fd716c0acca51fb13e06e9 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_5cdb197f7fd7314488cc357d701696a9 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -2597,31 +2597,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__5_hermeadd(struct N
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_f8081532d3fd716c0acca51fb13e06e9)) {
-        Py_XDECREF(cache_frame_f8081532d3fd716c0acca51fb13e06e9);
+    if (isFrameUnusable(cache_frame_5cdb197f7fd7314488cc357d701696a9)) {
+        Py_XDECREF(cache_frame_5cdb197f7fd7314488cc357d701696a9);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_f8081532d3fd716c0acca51fb13e06e9 == NULL) {
+        if (cache_frame_5cdb197f7fd7314488cc357d701696a9 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_f8081532d3fd716c0acca51fb13e06e9 = MAKE_FUNCTION_FRAME(codeobj_f8081532d3fd716c0acca51fb13e06e9, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *));
+        cache_frame_5cdb197f7fd7314488cc357d701696a9 = MAKE_FUNCTION_FRAME(codeobj_5cdb197f7fd7314488cc357d701696a9, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_f8081532d3fd716c0acca51fb13e06e9->m_type_description == NULL);
-    frame_f8081532d3fd716c0acca51fb13e06e9 = cache_frame_f8081532d3fd716c0acca51fb13e06e9;
+    assert(cache_frame_5cdb197f7fd7314488cc357d701696a9->m_type_description == NULL);
+    frame_5cdb197f7fd7314488cc357d701696a9 = cache_frame_5cdb197f7fd7314488cc357d701696a9;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_f8081532d3fd716c0acca51fb13e06e9);
+    pushFrameStack(frame_5cdb197f7fd7314488cc357d701696a9);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_f8081532d3fd716c0acca51fb13e06e9) == 2); // Frame stack
+    assert(Py_REFCNT(frame_5cdb197f7fd7314488cc357d701696a9) == 2); // Frame stack
 
     // Framed code:
     {
@@ -2648,7 +2648,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__5_hermeadd(struct N
         tmp_args_element_name_1 = par_c1;
         CHECK_OBJECT(par_c2);
         tmp_args_element_name_2 = par_c2;
-        frame_f8081532d3fd716c0acca51fb13e06e9->m_frame.f_lineno = 349;
+        frame_5cdb197f7fd7314488cc357d701696a9->m_frame.f_lineno = 349;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_METHOD_WITH_ARGS2(
@@ -2672,7 +2672,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__5_hermeadd(struct N
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f8081532d3fd716c0acca51fb13e06e9);
+    RESTORE_FRAME_EXCEPTION(frame_5cdb197f7fd7314488cc357d701696a9);
 #endif
 
     // Put the previous frame back on top.
@@ -2682,7 +2682,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__5_hermeadd(struct N
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f8081532d3fd716c0acca51fb13e06e9);
+    RESTORE_FRAME_EXCEPTION(frame_5cdb197f7fd7314488cc357d701696a9);
 #endif
 
     // Put the previous frame back on top.
@@ -2693,18 +2693,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__5_hermeadd(struct N
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f8081532d3fd716c0acca51fb13e06e9);
+    RESTORE_FRAME_EXCEPTION(frame_5cdb197f7fd7314488cc357d701696a9);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_f8081532d3fd716c0acca51fb13e06e9, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_f8081532d3fd716c0acca51fb13e06e9->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_f8081532d3fd716c0acca51fb13e06e9, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_5cdb197f7fd7314488cc357d701696a9, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_5cdb197f7fd7314488cc357d701696a9->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_5cdb197f7fd7314488cc357d701696a9, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_f8081532d3fd716c0acca51fb13e06e9,
+        frame_5cdb197f7fd7314488cc357d701696a9,
         type_description_1,
         par_c1,
         par_c2
@@ -2712,17 +2712,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__5_hermeadd(struct N
 
 
     // Release cached frame if used for exception.
-    if (frame_f8081532d3fd716c0acca51fb13e06e9 == cache_frame_f8081532d3fd716c0acca51fb13e06e9) {
+    if (frame_5cdb197f7fd7314488cc357d701696a9 == cache_frame_5cdb197f7fd7314488cc357d701696a9) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_f8081532d3fd716c0acca51fb13e06e9);
-        cache_frame_f8081532d3fd716c0acca51fb13e06e9 = NULL;
+        Py_DECREF(cache_frame_5cdb197f7fd7314488cc357d701696a9);
+        cache_frame_5cdb197f7fd7314488cc357d701696a9 = NULL;
     }
 
-    assertFrameObject(frame_f8081532d3fd716c0acca51fb13e06e9);
+    assertFrameObject(frame_5cdb197f7fd7314488cc357d701696a9);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2794,14 +2794,14 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__6_hermesub(struct N
     // Local variable declarations.
     PyObject *par_c1 = python_pars[0];
     PyObject *par_c2 = python_pars[1];
-    struct Nuitka_FrameObject *frame_9d32a01a754f06fa5d2c50d12fcc1df4;
+    struct Nuitka_FrameObject *frame_edd2944e91854fec4f721d918013f69d;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_9d32a01a754f06fa5d2c50d12fcc1df4 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_edd2944e91854fec4f721d918013f69d = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -2809,31 +2809,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__6_hermesub(struct N
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_9d32a01a754f06fa5d2c50d12fcc1df4)) {
-        Py_XDECREF(cache_frame_9d32a01a754f06fa5d2c50d12fcc1df4);
+    if (isFrameUnusable(cache_frame_edd2944e91854fec4f721d918013f69d)) {
+        Py_XDECREF(cache_frame_edd2944e91854fec4f721d918013f69d);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_9d32a01a754f06fa5d2c50d12fcc1df4 == NULL) {
+        if (cache_frame_edd2944e91854fec4f721d918013f69d == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_9d32a01a754f06fa5d2c50d12fcc1df4 = MAKE_FUNCTION_FRAME(codeobj_9d32a01a754f06fa5d2c50d12fcc1df4, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *));
+        cache_frame_edd2944e91854fec4f721d918013f69d = MAKE_FUNCTION_FRAME(codeobj_edd2944e91854fec4f721d918013f69d, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_9d32a01a754f06fa5d2c50d12fcc1df4->m_type_description == NULL);
-    frame_9d32a01a754f06fa5d2c50d12fcc1df4 = cache_frame_9d32a01a754f06fa5d2c50d12fcc1df4;
+    assert(cache_frame_edd2944e91854fec4f721d918013f69d->m_type_description == NULL);
+    frame_edd2944e91854fec4f721d918013f69d = cache_frame_edd2944e91854fec4f721d918013f69d;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_9d32a01a754f06fa5d2c50d12fcc1df4);
+    pushFrameStack(frame_edd2944e91854fec4f721d918013f69d);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_9d32a01a754f06fa5d2c50d12fcc1df4) == 2); // Frame stack
+    assert(Py_REFCNT(frame_edd2944e91854fec4f721d918013f69d) == 2); // Frame stack
 
     // Framed code:
     {
@@ -2860,7 +2860,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__6_hermesub(struct N
         tmp_args_element_name_1 = par_c1;
         CHECK_OBJECT(par_c2);
         tmp_args_element_name_2 = par_c2;
-        frame_9d32a01a754f06fa5d2c50d12fcc1df4->m_frame.f_lineno = 389;
+        frame_edd2944e91854fec4f721d918013f69d->m_frame.f_lineno = 389;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_METHOD_WITH_ARGS2(
@@ -2884,7 +2884,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__6_hermesub(struct N
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9d32a01a754f06fa5d2c50d12fcc1df4);
+    RESTORE_FRAME_EXCEPTION(frame_edd2944e91854fec4f721d918013f69d);
 #endif
 
     // Put the previous frame back on top.
@@ -2894,7 +2894,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__6_hermesub(struct N
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9d32a01a754f06fa5d2c50d12fcc1df4);
+    RESTORE_FRAME_EXCEPTION(frame_edd2944e91854fec4f721d918013f69d);
 #endif
 
     // Put the previous frame back on top.
@@ -2905,18 +2905,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__6_hermesub(struct N
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9d32a01a754f06fa5d2c50d12fcc1df4);
+    RESTORE_FRAME_EXCEPTION(frame_edd2944e91854fec4f721d918013f69d);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_9d32a01a754f06fa5d2c50d12fcc1df4, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_9d32a01a754f06fa5d2c50d12fcc1df4->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_9d32a01a754f06fa5d2c50d12fcc1df4, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_edd2944e91854fec4f721d918013f69d, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_edd2944e91854fec4f721d918013f69d->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_edd2944e91854fec4f721d918013f69d, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_9d32a01a754f06fa5d2c50d12fcc1df4,
+        frame_edd2944e91854fec4f721d918013f69d,
         type_description_1,
         par_c1,
         par_c2
@@ -2924,17 +2924,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__6_hermesub(struct N
 
 
     // Release cached frame if used for exception.
-    if (frame_9d32a01a754f06fa5d2c50d12fcc1df4 == cache_frame_9d32a01a754f06fa5d2c50d12fcc1df4) {
+    if (frame_edd2944e91854fec4f721d918013f69d == cache_frame_edd2944e91854fec4f721d918013f69d) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_9d32a01a754f06fa5d2c50d12fcc1df4);
-        cache_frame_9d32a01a754f06fa5d2c50d12fcc1df4 = NULL;
+        Py_DECREF(cache_frame_edd2944e91854fec4f721d918013f69d);
+        cache_frame_edd2944e91854fec4f721d918013f69d = NULL;
     }
 
-    assertFrameObject(frame_9d32a01a754f06fa5d2c50d12fcc1df4);
+    assertFrameObject(frame_edd2944e91854fec4f721d918013f69d);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -3014,7 +3014,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__7_hermemulx(struct 
     PyObject *tmp_inplace_assign_subscr_1__value = NULL;
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_13cca7a098bd153ee94547b305bc4a40;
+    struct Nuitka_FrameObject *frame_092e7a52213c3058ff6d95f8fc870d0c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -3040,7 +3040,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__7_hermemulx(struct 
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_4;
-    static struct Nuitka_FrameObject *cache_frame_13cca7a098bd153ee94547b305bc4a40 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_092e7a52213c3058ff6d95f8fc870d0c = NULL;
     PyObject *exception_keeper_type_5;
     PyObject *exception_keeper_value_5;
     PyTracebackObject *exception_keeper_tb_5;
@@ -3048,31 +3048,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__7_hermemulx(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_13cca7a098bd153ee94547b305bc4a40)) {
-        Py_XDECREF(cache_frame_13cca7a098bd153ee94547b305bc4a40);
+    if (isFrameUnusable(cache_frame_092e7a52213c3058ff6d95f8fc870d0c)) {
+        Py_XDECREF(cache_frame_092e7a52213c3058ff6d95f8fc870d0c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_13cca7a098bd153ee94547b305bc4a40 == NULL) {
+        if (cache_frame_092e7a52213c3058ff6d95f8fc870d0c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_13cca7a098bd153ee94547b305bc4a40 = MAKE_FUNCTION_FRAME(codeobj_13cca7a098bd153ee94547b305bc4a40, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_092e7a52213c3058ff6d95f8fc870d0c = MAKE_FUNCTION_FRAME(codeobj_092e7a52213c3058ff6d95f8fc870d0c, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_13cca7a098bd153ee94547b305bc4a40->m_type_description == NULL);
-    frame_13cca7a098bd153ee94547b305bc4a40 = cache_frame_13cca7a098bd153ee94547b305bc4a40;
+    assert(cache_frame_092e7a52213c3058ff6d95f8fc870d0c->m_type_description == NULL);
+    frame_092e7a52213c3058ff6d95f8fc870d0c = cache_frame_092e7a52213c3058ff6d95f8fc870d0c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_13cca7a098bd153ee94547b305bc4a40);
+    pushFrameStack(frame_092e7a52213c3058ff6d95f8fc870d0c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_13cca7a098bd153ee94547b305bc4a40) == 2); // Frame stack
+    assert(Py_REFCNT(frame_092e7a52213c3058ff6d95f8fc870d0c) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -3102,7 +3102,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__7_hermemulx(struct 
         tmp_list_element_1 = par_c;
         tmp_args_element_name_1 = PyList_New(1);
         PyList_SET_ITEM0(tmp_args_element_name_1, 0, tmp_list_element_1);
-        frame_13cca7a098bd153ee94547b305bc4a40->m_frame.f_lineno = 427;
+        frame_092e7a52213c3058ff6d95f8fc870d0c->m_frame.f_lineno = 427;
         tmp_iter_arg_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[1], tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_iter_arg_1 == NULL) {
@@ -3481,7 +3481,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__7_hermemulx(struct 
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         Py_DECREF(tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_13cca7a098bd153ee94547b305bc4a40->m_frame.f_lineno = 432;
+        frame_092e7a52213c3058ff6d95f8fc870d0c->m_frame.f_lineno = 432;
         tmp_assign_source_4 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -4085,7 +4085,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__7_hermemulx(struct 
     goto frame_return_exit_1;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_13cca7a098bd153ee94547b305bc4a40);
+    RESTORE_FRAME_EXCEPTION(frame_092e7a52213c3058ff6d95f8fc870d0c);
 #endif
 
     // Put the previous frame back on top.
@@ -4095,7 +4095,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__7_hermemulx(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_13cca7a098bd153ee94547b305bc4a40);
+    RESTORE_FRAME_EXCEPTION(frame_092e7a52213c3058ff6d95f8fc870d0c);
 #endif
 
     // Put the previous frame back on top.
@@ -4106,18 +4106,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__7_hermemulx(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_13cca7a098bd153ee94547b305bc4a40);
+    RESTORE_FRAME_EXCEPTION(frame_092e7a52213c3058ff6d95f8fc870d0c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_13cca7a098bd153ee94547b305bc4a40, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_13cca7a098bd153ee94547b305bc4a40->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_13cca7a098bd153ee94547b305bc4a40, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_092e7a52213c3058ff6d95f8fc870d0c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_092e7a52213c3058ff6d95f8fc870d0c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_092e7a52213c3058ff6d95f8fc870d0c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_13cca7a098bd153ee94547b305bc4a40,
+        frame_092e7a52213c3058ff6d95f8fc870d0c,
         type_description_1,
         par_c,
         var_prd,
@@ -4126,17 +4126,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__7_hermemulx(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_13cca7a098bd153ee94547b305bc4a40 == cache_frame_13cca7a098bd153ee94547b305bc4a40) {
+    if (frame_092e7a52213c3058ff6d95f8fc870d0c == cache_frame_092e7a52213c3058ff6d95f8fc870d0c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_13cca7a098bd153ee94547b305bc4a40);
-        cache_frame_13cca7a098bd153ee94547b305bc4a40 = NULL;
+        Py_DECREF(cache_frame_092e7a52213c3058ff6d95f8fc870d0c);
+        cache_frame_092e7a52213c3058ff6d95f8fc870d0c = NULL;
     }
 
-    assertFrameObject(frame_13cca7a098bd153ee94547b305bc4a40);
+    assertFrameObject(frame_092e7a52213c3058ff6d95f8fc870d0c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -4223,7 +4223,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__8_hermemul(struct N
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_3cf0b73d8206a74a96f981a92153dce1;
+    struct Nuitka_FrameObject *frame_585b31b0800a39d27193b4408e8a4752;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -4243,7 +4243,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__8_hermemul(struct N
     PyTracebackObject *exception_keeper_tb_3;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_3;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_3cf0b73d8206a74a96f981a92153dce1 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_585b31b0800a39d27193b4408e8a4752 = NULL;
     PyObject *exception_keeper_type_4;
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
@@ -4251,31 +4251,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__8_hermemul(struct N
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_3cf0b73d8206a74a96f981a92153dce1)) {
-        Py_XDECREF(cache_frame_3cf0b73d8206a74a96f981a92153dce1);
+    if (isFrameUnusable(cache_frame_585b31b0800a39d27193b4408e8a4752)) {
+        Py_XDECREF(cache_frame_585b31b0800a39d27193b4408e8a4752);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_3cf0b73d8206a74a96f981a92153dce1 == NULL) {
+        if (cache_frame_585b31b0800a39d27193b4408e8a4752 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_3cf0b73d8206a74a96f981a92153dce1 = MAKE_FUNCTION_FRAME(codeobj_3cf0b73d8206a74a96f981a92153dce1, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_585b31b0800a39d27193b4408e8a4752 = MAKE_FUNCTION_FRAME(codeobj_585b31b0800a39d27193b4408e8a4752, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_3cf0b73d8206a74a96f981a92153dce1->m_type_description == NULL);
-    frame_3cf0b73d8206a74a96f981a92153dce1 = cache_frame_3cf0b73d8206a74a96f981a92153dce1;
+    assert(cache_frame_585b31b0800a39d27193b4408e8a4752->m_type_description == NULL);
+    frame_585b31b0800a39d27193b4408e8a4752 = cache_frame_585b31b0800a39d27193b4408e8a4752;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_3cf0b73d8206a74a96f981a92153dce1);
+    pushFrameStack(frame_585b31b0800a39d27193b4408e8a4752);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_3cf0b73d8206a74a96f981a92153dce1) == 2); // Frame stack
+    assert(Py_REFCNT(frame_585b31b0800a39d27193b4408e8a4752) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -4308,7 +4308,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__8_hermemul(struct N
         CHECK_OBJECT(par_c2);
         tmp_list_element_1 = par_c2;
         PyList_SET_ITEM0(tmp_args_element_name_1, 1, tmp_list_element_1);
-        frame_3cf0b73d8206a74a96f981a92153dce1->m_frame.f_lineno = 480;
+        frame_585b31b0800a39d27193b4408e8a4752->m_frame.f_lineno = 480;
         tmp_iter_arg_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[1], tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_iter_arg_1 == NULL) {
@@ -5316,7 +5316,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__8_hermemul(struct N
             type_description_1 = "oooooooo";
             goto try_except_handler_4;
         }
-        frame_3cf0b73d8206a74a96f981a92153dce1->m_frame.f_lineno = 502;
+        frame_585b31b0800a39d27193b4408e8a4752->m_frame.f_lineno = 502;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_assign_source_22 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -5395,7 +5395,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__8_hermemul(struct N
         }
 
         tmp_args_element_name_6 = par_c1;
-        frame_3cf0b73d8206a74a96f981a92153dce1->m_frame.f_lineno = 503;
+        frame_585b31b0800a39d27193b4408e8a4752->m_frame.f_lineno = 503;
         tmp_args_element_name_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_6);
         if (tmp_args_element_name_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5407,7 +5407,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__8_hermemul(struct N
             type_description_1 = "oooooooo";
             goto try_except_handler_4;
         }
-        frame_3cf0b73d8206a74a96f981a92153dce1->m_frame.f_lineno = 503;
+        frame_585b31b0800a39d27193b4408e8a4752->m_frame.f_lineno = 503;
         {
             PyObject *call_args[] = {tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_assign_source_23 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -5538,7 +5538,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__8_hermemul(struct N
         }
 
         tmp_args_element_name_9 = par_c1;
-        frame_3cf0b73d8206a74a96f981a92153dce1->m_frame.f_lineno = 504;
+        frame_585b31b0800a39d27193b4408e8a4752->m_frame.f_lineno = 504;
         tmp_args_element_name_8 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_9);
         if (tmp_args_element_name_8 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5550,7 +5550,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__8_hermemul(struct N
             type_description_1 = "oooooooo";
             goto frame_exception_exit_1;
         }
-        frame_3cf0b73d8206a74a96f981a92153dce1->m_frame.f_lineno = 504;
+        frame_585b31b0800a39d27193b4408e8a4752->m_frame.f_lineno = 504;
         {
             PyObject *call_args[] = {tmp_args_element_name_7, tmp_args_element_name_8};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -5571,7 +5571,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__8_hermemul(struct N
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3cf0b73d8206a74a96f981a92153dce1);
+    RESTORE_FRAME_EXCEPTION(frame_585b31b0800a39d27193b4408e8a4752);
 #endif
 
     // Put the previous frame back on top.
@@ -5581,7 +5581,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__8_hermemul(struct N
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3cf0b73d8206a74a96f981a92153dce1);
+    RESTORE_FRAME_EXCEPTION(frame_585b31b0800a39d27193b4408e8a4752);
 #endif
 
     // Put the previous frame back on top.
@@ -5592,18 +5592,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__8_hermemul(struct N
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3cf0b73d8206a74a96f981a92153dce1);
+    RESTORE_FRAME_EXCEPTION(frame_585b31b0800a39d27193b4408e8a4752);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_3cf0b73d8206a74a96f981a92153dce1, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_3cf0b73d8206a74a96f981a92153dce1->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_3cf0b73d8206a74a96f981a92153dce1, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_585b31b0800a39d27193b4408e8a4752, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_585b31b0800a39d27193b4408e8a4752->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_585b31b0800a39d27193b4408e8a4752, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_3cf0b73d8206a74a96f981a92153dce1,
+        frame_585b31b0800a39d27193b4408e8a4752,
         type_description_1,
         par_c1,
         par_c2,
@@ -5617,17 +5617,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__8_hermemul(struct N
 
 
     // Release cached frame if used for exception.
-    if (frame_3cf0b73d8206a74a96f981a92153dce1 == cache_frame_3cf0b73d8206a74a96f981a92153dce1) {
+    if (frame_585b31b0800a39d27193b4408e8a4752 == cache_frame_585b31b0800a39d27193b4408e8a4752) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_3cf0b73d8206a74a96f981a92153dce1);
-        cache_frame_3cf0b73d8206a74a96f981a92153dce1 = NULL;
+        Py_DECREF(cache_frame_585b31b0800a39d27193b4408e8a4752);
+        cache_frame_585b31b0800a39d27193b4408e8a4752 = NULL;
     }
 
-    assertFrameObject(frame_3cf0b73d8206a74a96f981a92153dce1);
+    assertFrameObject(frame_585b31b0800a39d27193b4408e8a4752);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5723,14 +5723,14 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__9_hermediv(struct N
     // Local variable declarations.
     PyObject *par_c1 = python_pars[0];
     PyObject *par_c2 = python_pars[1];
-    struct Nuitka_FrameObject *frame_60031184ec199feb2a1545a474ab422d;
+    struct Nuitka_FrameObject *frame_51643c154eb68b45643b37929fd0d450;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_60031184ec199feb2a1545a474ab422d = NULL;
+    static struct Nuitka_FrameObject *cache_frame_51643c154eb68b45643b37929fd0d450 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -5738,31 +5738,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__9_hermediv(struct N
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_60031184ec199feb2a1545a474ab422d)) {
-        Py_XDECREF(cache_frame_60031184ec199feb2a1545a474ab422d);
+    if (isFrameUnusable(cache_frame_51643c154eb68b45643b37929fd0d450)) {
+        Py_XDECREF(cache_frame_51643c154eb68b45643b37929fd0d450);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_60031184ec199feb2a1545a474ab422d == NULL) {
+        if (cache_frame_51643c154eb68b45643b37929fd0d450 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_60031184ec199feb2a1545a474ab422d = MAKE_FUNCTION_FRAME(codeobj_60031184ec199feb2a1545a474ab422d, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *));
+        cache_frame_51643c154eb68b45643b37929fd0d450 = MAKE_FUNCTION_FRAME(codeobj_51643c154eb68b45643b37929fd0d450, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_60031184ec199feb2a1545a474ab422d->m_type_description == NULL);
-    frame_60031184ec199feb2a1545a474ab422d = cache_frame_60031184ec199feb2a1545a474ab422d;
+    assert(cache_frame_51643c154eb68b45643b37929fd0d450->m_type_description == NULL);
+    frame_51643c154eb68b45643b37929fd0d450 = cache_frame_51643c154eb68b45643b37929fd0d450;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_60031184ec199feb2a1545a474ab422d);
+    pushFrameStack(frame_51643c154eb68b45643b37929fd0d450);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_60031184ec199feb2a1545a474ab422d) == 2); // Frame stack
+    assert(Py_REFCNT(frame_51643c154eb68b45643b37929fd0d450) == 2); // Frame stack
 
     // Framed code:
     {
@@ -5818,7 +5818,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__9_hermediv(struct N
         tmp_args_element_name_2 = par_c1;
         CHECK_OBJECT(par_c2);
         tmp_args_element_name_3 = par_c2;
-        frame_60031184ec199feb2a1545a474ab422d->m_frame.f_lineno = 550;
+        frame_51643c154eb68b45643b37929fd0d450->m_frame.f_lineno = 550;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_1, call_args);
@@ -5839,7 +5839,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__9_hermediv(struct N
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_60031184ec199feb2a1545a474ab422d);
+    RESTORE_FRAME_EXCEPTION(frame_51643c154eb68b45643b37929fd0d450);
 #endif
 
     // Put the previous frame back on top.
@@ -5849,7 +5849,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__9_hermediv(struct N
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_60031184ec199feb2a1545a474ab422d);
+    RESTORE_FRAME_EXCEPTION(frame_51643c154eb68b45643b37929fd0d450);
 #endif
 
     // Put the previous frame back on top.
@@ -5860,18 +5860,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__9_hermediv(struct N
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_60031184ec199feb2a1545a474ab422d);
+    RESTORE_FRAME_EXCEPTION(frame_51643c154eb68b45643b37929fd0d450);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_60031184ec199feb2a1545a474ab422d, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_60031184ec199feb2a1545a474ab422d->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_60031184ec199feb2a1545a474ab422d, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_51643c154eb68b45643b37929fd0d450, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_51643c154eb68b45643b37929fd0d450->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_51643c154eb68b45643b37929fd0d450, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_60031184ec199feb2a1545a474ab422d,
+        frame_51643c154eb68b45643b37929fd0d450,
         type_description_1,
         par_c1,
         par_c2
@@ -5879,17 +5879,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__9_hermediv(struct N
 
 
     // Release cached frame if used for exception.
-    if (frame_60031184ec199feb2a1545a474ab422d == cache_frame_60031184ec199feb2a1545a474ab422d) {
+    if (frame_51643c154eb68b45643b37929fd0d450 == cache_frame_51643c154eb68b45643b37929fd0d450) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_60031184ec199feb2a1545a474ab422d);
-        cache_frame_60031184ec199feb2a1545a474ab422d = NULL;
+        Py_DECREF(cache_frame_51643c154eb68b45643b37929fd0d450);
+        cache_frame_51643c154eb68b45643b37929fd0d450 = NULL;
     }
 
-    assertFrameObject(frame_60031184ec199feb2a1545a474ab422d);
+    assertFrameObject(frame_51643c154eb68b45643b37929fd0d450);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5962,14 +5962,14 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__10_hermepow(struct 
     PyObject *par_c = python_pars[0];
     PyObject *par_pow = python_pars[1];
     PyObject *par_maxpower = python_pars[2];
-    struct Nuitka_FrameObject *frame_088ae9d5746b85e2cb2f6312668fcaa6;
+    struct Nuitka_FrameObject *frame_eb1125260c20eeaba92a384c1d644378;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_088ae9d5746b85e2cb2f6312668fcaa6 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_eb1125260c20eeaba92a384c1d644378 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -5977,31 +5977,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__10_hermepow(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_088ae9d5746b85e2cb2f6312668fcaa6)) {
-        Py_XDECREF(cache_frame_088ae9d5746b85e2cb2f6312668fcaa6);
+    if (isFrameUnusable(cache_frame_eb1125260c20eeaba92a384c1d644378)) {
+        Py_XDECREF(cache_frame_eb1125260c20eeaba92a384c1d644378);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_088ae9d5746b85e2cb2f6312668fcaa6 == NULL) {
+        if (cache_frame_eb1125260c20eeaba92a384c1d644378 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_088ae9d5746b85e2cb2f6312668fcaa6 = MAKE_FUNCTION_FRAME(codeobj_088ae9d5746b85e2cb2f6312668fcaa6, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_eb1125260c20eeaba92a384c1d644378 = MAKE_FUNCTION_FRAME(codeobj_eb1125260c20eeaba92a384c1d644378, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_088ae9d5746b85e2cb2f6312668fcaa6->m_type_description == NULL);
-    frame_088ae9d5746b85e2cb2f6312668fcaa6 = cache_frame_088ae9d5746b85e2cb2f6312668fcaa6;
+    assert(cache_frame_eb1125260c20eeaba92a384c1d644378->m_type_description == NULL);
+    frame_eb1125260c20eeaba92a384c1d644378 = cache_frame_eb1125260c20eeaba92a384c1d644378;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_088ae9d5746b85e2cb2f6312668fcaa6);
+    pushFrameStack(frame_eb1125260c20eeaba92a384c1d644378);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_088ae9d5746b85e2cb2f6312668fcaa6) == 2); // Frame stack
+    assert(Py_REFCNT(frame_eb1125260c20eeaba92a384c1d644378) == 2); // Frame stack
 
     // Framed code:
     {
@@ -6060,7 +6060,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__10_hermepow(struct 
         tmp_args_element_name_3 = par_pow;
         CHECK_OBJECT(par_maxpower);
         tmp_args_element_name_4 = par_maxpower;
-        frame_088ae9d5746b85e2cb2f6312668fcaa6->m_frame.f_lineno = 587;
+        frame_eb1125260c20eeaba92a384c1d644378->m_frame.f_lineno = 587;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_1, call_args);
@@ -6081,7 +6081,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__10_hermepow(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_088ae9d5746b85e2cb2f6312668fcaa6);
+    RESTORE_FRAME_EXCEPTION(frame_eb1125260c20eeaba92a384c1d644378);
 #endif
 
     // Put the previous frame back on top.
@@ -6091,7 +6091,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__10_hermepow(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_088ae9d5746b85e2cb2f6312668fcaa6);
+    RESTORE_FRAME_EXCEPTION(frame_eb1125260c20eeaba92a384c1d644378);
 #endif
 
     // Put the previous frame back on top.
@@ -6102,18 +6102,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__10_hermepow(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_088ae9d5746b85e2cb2f6312668fcaa6);
+    RESTORE_FRAME_EXCEPTION(frame_eb1125260c20eeaba92a384c1d644378);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_088ae9d5746b85e2cb2f6312668fcaa6, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_088ae9d5746b85e2cb2f6312668fcaa6->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_088ae9d5746b85e2cb2f6312668fcaa6, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_eb1125260c20eeaba92a384c1d644378, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_eb1125260c20eeaba92a384c1d644378->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_eb1125260c20eeaba92a384c1d644378, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_088ae9d5746b85e2cb2f6312668fcaa6,
+        frame_eb1125260c20eeaba92a384c1d644378,
         type_description_1,
         par_c,
         par_pow,
@@ -6122,17 +6122,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__10_hermepow(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_088ae9d5746b85e2cb2f6312668fcaa6 == cache_frame_088ae9d5746b85e2cb2f6312668fcaa6) {
+    if (frame_eb1125260c20eeaba92a384c1d644378 == cache_frame_eb1125260c20eeaba92a384c1d644378) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_088ae9d5746b85e2cb2f6312668fcaa6);
-        cache_frame_088ae9d5746b85e2cb2f6312668fcaa6 = NULL;
+        Py_DECREF(cache_frame_eb1125260c20eeaba92a384c1d644378);
+        cache_frame_eb1125260c20eeaba92a384c1d644378 = NULL;
     }
 
-    assertFrameObject(frame_088ae9d5746b85e2cb2f6312668fcaa6);
+    assertFrameObject(frame_eb1125260c20eeaba92a384c1d644378);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -6220,7 +6220,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__11_hermeder(struct 
     PyObject *tmp_for_loop_1__iter_value = NULL;
     PyObject *tmp_for_loop_2__for_iterator = NULL;
     PyObject *tmp_for_loop_2__iter_value = NULL;
-    struct Nuitka_FrameObject *frame_3849c022c90a7c1bc636faa9017ceaf6;
+    struct Nuitka_FrameObject *frame_0368cad455830a54fd4455c16df91f07;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -6237,7 +6237,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__11_hermeder(struct 
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
-    static struct Nuitka_FrameObject *cache_frame_3849c022c90a7c1bc636faa9017ceaf6 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_0368cad455830a54fd4455c16df91f07 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -6245,31 +6245,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__11_hermeder(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_3849c022c90a7c1bc636faa9017ceaf6)) {
-        Py_XDECREF(cache_frame_3849c022c90a7c1bc636faa9017ceaf6);
+    if (isFrameUnusable(cache_frame_0368cad455830a54fd4455c16df91f07)) {
+        Py_XDECREF(cache_frame_0368cad455830a54fd4455c16df91f07);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_3849c022c90a7c1bc636faa9017ceaf6 == NULL) {
+        if (cache_frame_0368cad455830a54fd4455c16df91f07 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_3849c022c90a7c1bc636faa9017ceaf6 = MAKE_FUNCTION_FRAME(codeobj_3849c022c90a7c1bc636faa9017ceaf6, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_0368cad455830a54fd4455c16df91f07 = MAKE_FUNCTION_FRAME(codeobj_0368cad455830a54fd4455c16df91f07, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_3849c022c90a7c1bc636faa9017ceaf6->m_type_description == NULL);
-    frame_3849c022c90a7c1bc636faa9017ceaf6 = cache_frame_3849c022c90a7c1bc636faa9017ceaf6;
+    assert(cache_frame_0368cad455830a54fd4455c16df91f07->m_type_description == NULL);
+    frame_0368cad455830a54fd4455c16df91f07 = cache_frame_0368cad455830a54fd4455c16df91f07;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_3849c022c90a7c1bc636faa9017ceaf6);
+    pushFrameStack(frame_0368cad455830a54fd4455c16df91f07);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_3849c022c90a7c1bc636faa9017ceaf6) == 2); // Frame stack
+    assert(Py_REFCNT(frame_0368cad455830a54fd4455c16df91f07) == 2); // Frame stack
 
     // Framed code:
     {
@@ -6311,7 +6311,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__11_hermeder(struct 
         tmp_args_name_1 = PyTuple_New(1);
         PyTuple_SET_ITEM0(tmp_args_name_1, 0, tmp_tuple_element_1);
         tmp_kwargs_name_1 = PyDict_Copy(mod_consts[49]);
-        frame_3849c022c90a7c1bc636faa9017ceaf6->m_frame.f_lineno = 645;
+        frame_0368cad455830a54fd4455c16df91f07->m_frame.f_lineno = 645;
         tmp_assign_source_1 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -6442,7 +6442,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__11_hermeder(struct 
             type_description_1 = "oooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_3849c022c90a7c1bc636faa9017ceaf6->m_frame.f_lineno = 647;
+        frame_0368cad455830a54fd4455c16df91f07->m_frame.f_lineno = 647;
         tmp_assign_source_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_1);
@@ -6488,7 +6488,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__11_hermeder(struct 
         CHECK_OBJECT(par_m);
         tmp_args_element_name_2 = par_m;
         tmp_args_element_name_3 = mod_consts[55];
-        frame_3849c022c90a7c1bc636faa9017ceaf6->m_frame.f_lineno = 648;
+        frame_0368cad455830a54fd4455c16df91f07->m_frame.f_lineno = 648;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_assign_source_3 = CALL_METHOD_WITH_ARGS2(
@@ -6535,7 +6535,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__11_hermeder(struct 
         CHECK_OBJECT(par_axis);
         tmp_args_element_name_4 = par_axis;
         tmp_args_element_name_5 = mod_consts[56];
-        frame_3849c022c90a7c1bc636faa9017ceaf6->m_frame.f_lineno = 649;
+        frame_0368cad455830a54fd4455c16df91f07->m_frame.f_lineno = 649;
         {
             PyObject *call_args[] = {tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_assign_source_4 = CALL_METHOD_WITH_ARGS2(
@@ -6602,7 +6602,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__11_hermeder(struct 
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[57];
-        frame_3849c022c90a7c1bc636faa9017ceaf6->m_frame.f_lineno = 651;
+        frame_0368cad455830a54fd4455c16df91f07->m_frame.f_lineno = 651;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -6660,7 +6660,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__11_hermeder(struct 
             type_description_1 = "oooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_3849c022c90a7c1bc636faa9017ceaf6->m_frame.f_lineno = 652;
+        frame_0368cad455830a54fd4455c16df91f07->m_frame.f_lineno = 652;
         {
             PyObject *call_args[] = {tmp_args_element_name_6, tmp_args_element_name_7};
             tmp_assign_source_5 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -6791,7 +6791,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__11_hermeder(struct 
         CHECK_OBJECT(var_iaxis);
         tmp_args_element_name_9 = var_iaxis;
         tmp_args_element_name_10 = mod_consts[4];
-        frame_3849c022c90a7c1bc636faa9017ceaf6->m_frame.f_lineno = 657;
+        frame_0368cad455830a54fd4455c16df91f07->m_frame.f_lineno = 657;
         {
             PyObject *call_args[] = {tmp_args_element_name_8, tmp_args_element_name_9, tmp_args_element_name_10};
             tmp_assign_source_6 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_4, call_args);
@@ -7187,7 +7187,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__11_hermeder(struct 
         tmp_res = PyDict_SetItem(tmp_kwargs_name_2, tmp_dict_key_1, tmp_dict_value_1);
         Py_DECREF(tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_3849c022c90a7c1bc636faa9017ceaf6->m_frame.f_lineno = 665;
+        frame_0368cad455830a54fd4455c16df91f07->m_frame.f_lineno = 665;
         tmp_assign_source_13 = CALL_FUNCTION(tmp_called_name_5, tmp_args_name_2, tmp_kwargs_name_2);
         Py_DECREF(tmp_called_name_5);
         Py_DECREF(tmp_args_name_2);
@@ -7558,7 +7558,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__11_hermeder(struct 
         }
 
         tmp_args_element_name_13 = var_iaxis;
-        frame_3849c022c90a7c1bc636faa9017ceaf6->m_frame.f_lineno = 669;
+        frame_0368cad455830a54fd4455c16df91f07->m_frame.f_lineno = 669;
         {
             PyObject *call_args[] = {tmp_args_element_name_11, tmp_args_element_name_12, tmp_args_element_name_13};
             tmp_assign_source_18 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_6, call_args);
@@ -7584,7 +7584,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__11_hermeder(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3849c022c90a7c1bc636faa9017ceaf6);
+    RESTORE_FRAME_EXCEPTION(frame_0368cad455830a54fd4455c16df91f07);
 #endif
 
     // Put the previous frame back on top.
@@ -7594,7 +7594,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__11_hermeder(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3849c022c90a7c1bc636faa9017ceaf6);
+    RESTORE_FRAME_EXCEPTION(frame_0368cad455830a54fd4455c16df91f07);
 #endif
 
     // Put the previous frame back on top.
@@ -7605,18 +7605,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__11_hermeder(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3849c022c90a7c1bc636faa9017ceaf6);
+    RESTORE_FRAME_EXCEPTION(frame_0368cad455830a54fd4455c16df91f07);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_3849c022c90a7c1bc636faa9017ceaf6, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_3849c022c90a7c1bc636faa9017ceaf6->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_3849c022c90a7c1bc636faa9017ceaf6, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_0368cad455830a54fd4455c16df91f07, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_0368cad455830a54fd4455c16df91f07->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_0368cad455830a54fd4455c16df91f07, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_3849c022c90a7c1bc636faa9017ceaf6,
+        frame_0368cad455830a54fd4455c16df91f07,
         type_description_1,
         par_c,
         par_m,
@@ -7632,17 +7632,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__11_hermeder(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_3849c022c90a7c1bc636faa9017ceaf6 == cache_frame_3849c022c90a7c1bc636faa9017ceaf6) {
+    if (frame_0368cad455830a54fd4455c16df91f07 == cache_frame_0368cad455830a54fd4455c16df91f07) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_3849c022c90a7c1bc636faa9017ceaf6);
-        cache_frame_3849c022c90a7c1bc636faa9017ceaf6 = NULL;
+        Py_DECREF(cache_frame_0368cad455830a54fd4455c16df91f07);
+        cache_frame_0368cad455830a54fd4455c16df91f07 = NULL;
     }
 
-    assertFrameObject(frame_3849c022c90a7c1bc636faa9017ceaf6);
+    assertFrameObject(frame_0368cad455830a54fd4455c16df91f07);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -7771,7 +7771,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
     PyObject *tmp_inplace_assign_subscr_2__subscript = NULL;
     PyObject *tmp_inplace_assign_subscr_2__target = NULL;
     PyObject *tmp_inplace_assign_subscr_2__value = NULL;
-    struct Nuitka_FrameObject *frame_b2ee831a4bd105458d2d39e8ad1953af;
+    struct Nuitka_FrameObject *frame_151b12d4a98ee1d7b3a5150214c79c52;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -7796,7 +7796,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_4;
-    static struct Nuitka_FrameObject *cache_frame_b2ee831a4bd105458d2d39e8ad1953af = NULL;
+    static struct Nuitka_FrameObject *cache_frame_151b12d4a98ee1d7b3a5150214c79c52 = NULL;
     PyObject *exception_keeper_type_5;
     PyObject *exception_keeper_value_5;
     PyTracebackObject *exception_keeper_tb_5;
@@ -7804,31 +7804,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_b2ee831a4bd105458d2d39e8ad1953af)) {
-        Py_XDECREF(cache_frame_b2ee831a4bd105458d2d39e8ad1953af);
+    if (isFrameUnusable(cache_frame_151b12d4a98ee1d7b3a5150214c79c52)) {
+        Py_XDECREF(cache_frame_151b12d4a98ee1d7b3a5150214c79c52);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_b2ee831a4bd105458d2d39e8ad1953af == NULL) {
+        if (cache_frame_151b12d4a98ee1d7b3a5150214c79c52 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_b2ee831a4bd105458d2d39e8ad1953af = MAKE_FUNCTION_FRAME(codeobj_b2ee831a4bd105458d2d39e8ad1953af, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_151b12d4a98ee1d7b3a5150214c79c52 = MAKE_FUNCTION_FRAME(codeobj_151b12d4a98ee1d7b3a5150214c79c52, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_b2ee831a4bd105458d2d39e8ad1953af->m_type_description == NULL);
-    frame_b2ee831a4bd105458d2d39e8ad1953af = cache_frame_b2ee831a4bd105458d2d39e8ad1953af;
+    assert(cache_frame_151b12d4a98ee1d7b3a5150214c79c52->m_type_description == NULL);
+    frame_151b12d4a98ee1d7b3a5150214c79c52 = cache_frame_151b12d4a98ee1d7b3a5150214c79c52;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_b2ee831a4bd105458d2d39e8ad1953af);
+    pushFrameStack(frame_151b12d4a98ee1d7b3a5150214c79c52);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_b2ee831a4bd105458d2d39e8ad1953af) == 2); // Frame stack
+    assert(Py_REFCNT(frame_151b12d4a98ee1d7b3a5150214c79c52) == 2); // Frame stack
 
     // Framed code:
     {
@@ -7870,7 +7870,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
         tmp_args_name_1 = PyTuple_New(1);
         PyTuple_SET_ITEM0(tmp_args_name_1, 0, tmp_tuple_element_1);
         tmp_kwargs_name_1 = PyDict_Copy(mod_consts[49]);
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 756;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 756;
         tmp_assign_source_1 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -8001,7 +8001,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
             type_description_1 = "oooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 758;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 758;
         tmp_assign_source_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_1);
@@ -8046,7 +8046,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
         }
         CHECK_OBJECT(par_k);
         tmp_args_element_name_2 = par_k;
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 759;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 759;
         tmp_operand_name_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[70], tmp_args_element_name_2);
         if (tmp_operand_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -8128,7 +8128,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
         CHECK_OBJECT(par_m);
         tmp_args_element_name_3 = par_m;
         tmp_args_element_name_4 = mod_consts[72];
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 761;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 761;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_assign_source_4 = CALL_METHOD_WITH_ARGS2(
@@ -8175,7 +8175,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
         CHECK_OBJECT(par_axis);
         tmp_args_element_name_5 = par_axis;
         tmp_args_element_name_6 = mod_consts[56];
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 762;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 762;
         {
             PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_assign_source_5 = CALL_METHOD_WITH_ARGS2(
@@ -8242,7 +8242,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[73];
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 764;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 764;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -8321,7 +8321,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
         PyObject *tmp_raise_type_2;
         PyObject *tmp_make_exception_arg_2;
         tmp_make_exception_arg_2 = mod_consts[74];
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 766;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 766;
         tmp_raise_type_2 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_2);
         assert(!(tmp_raise_type_2 == NULL));
         exception_type = tmp_raise_type_2;
@@ -8357,7 +8357,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
         }
         CHECK_OBJECT(par_lbnd);
         tmp_args_element_name_7 = par_lbnd;
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 767;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 767;
         tmp_compexpr_left_4 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_4, mod_consts[59], tmp_args_element_name_7);
         if (tmp_compexpr_left_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -8406,7 +8406,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
         PyObject *tmp_raise_type_3;
         PyObject *tmp_make_exception_arg_3;
         tmp_make_exception_arg_3 = mod_consts[75];
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 768;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 768;
         tmp_raise_type_3 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_3);
         assert(!(tmp_raise_type_3 == NULL));
         exception_type = tmp_raise_type_3;
@@ -8442,7 +8442,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
         }
         CHECK_OBJECT(par_scl);
         tmp_args_element_name_8 = par_scl;
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 769;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 769;
         tmp_compexpr_left_5 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_5, mod_consts[59], tmp_args_element_name_8);
         if (tmp_compexpr_left_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -8491,7 +8491,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
         PyObject *tmp_raise_type_4;
         PyObject *tmp_make_exception_arg_4;
         tmp_make_exception_arg_4 = mod_consts[76];
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 770;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 770;
         tmp_raise_type_4 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_4);
         assert(!(tmp_raise_type_4 == NULL));
         exception_type = tmp_raise_type_4;
@@ -8549,7 +8549,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
             type_description_1 = "oooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 771;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 771;
         {
             PyObject *call_args[] = {tmp_args_element_name_9, tmp_args_element_name_10};
             tmp_assign_source_6 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -8680,7 +8680,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
         CHECK_OBJECT(var_iaxis);
         tmp_args_element_name_12 = var_iaxis;
         tmp_args_element_name_13 = mod_consts[4];
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 776;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 776;
         {
             PyObject *call_args[] = {tmp_args_element_name_11, tmp_args_element_name_12, tmp_args_element_name_13};
             tmp_assign_source_7 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_4, call_args);
@@ -9063,7 +9063,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
             type_description_1 = "oooooooooooo";
             goto try_except_handler_2;
         }
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 781;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 781;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_14);
         Py_DECREF(tmp_called_name_5);
         Py_DECREF(tmp_args_element_name_14);
@@ -9390,7 +9390,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
         tmp_res = PyDict_SetItem(tmp_kwargs_name_2, tmp_dict_key_1, tmp_dict_value_1);
         Py_DECREF(tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 784;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 784;
         tmp_assign_source_18 = CALL_FUNCTION(tmp_called_name_6, tmp_args_name_2, tmp_kwargs_name_2);
         Py_DECREF(tmp_called_name_6);
         Py_DECREF(tmp_args_name_2);
@@ -9912,7 +9912,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
         }
 
         tmp_args_element_name_16 = var_tmp;
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 789;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 789;
         {
             PyObject *call_args[] = {tmp_args_element_name_15, tmp_args_element_name_16};
             tmp_right_name_13 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_7, call_args);
@@ -10143,7 +10143,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
         }
 
         tmp_args_element_name_19 = var_iaxis;
-        frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame.f_lineno = 791;
+        frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame.f_lineno = 791;
         {
             PyObject *call_args[] = {tmp_args_element_name_17, tmp_args_element_name_18, tmp_args_element_name_19};
             tmp_assign_source_27 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_8, call_args);
@@ -10169,7 +10169,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b2ee831a4bd105458d2d39e8ad1953af);
+    RESTORE_FRAME_EXCEPTION(frame_151b12d4a98ee1d7b3a5150214c79c52);
 #endif
 
     // Put the previous frame back on top.
@@ -10179,7 +10179,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b2ee831a4bd105458d2d39e8ad1953af);
+    RESTORE_FRAME_EXCEPTION(frame_151b12d4a98ee1d7b3a5150214c79c52);
 #endif
 
     // Put the previous frame back on top.
@@ -10190,18 +10190,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b2ee831a4bd105458d2d39e8ad1953af);
+    RESTORE_FRAME_EXCEPTION(frame_151b12d4a98ee1d7b3a5150214c79c52);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_b2ee831a4bd105458d2d39e8ad1953af, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_b2ee831a4bd105458d2d39e8ad1953af->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_b2ee831a4bd105458d2d39e8ad1953af, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_151b12d4a98ee1d7b3a5150214c79c52, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_151b12d4a98ee1d7b3a5150214c79c52->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_151b12d4a98ee1d7b3a5150214c79c52, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_b2ee831a4bd105458d2d39e8ad1953af,
+        frame_151b12d4a98ee1d7b3a5150214c79c52,
         type_description_1,
         par_c,
         par_m,
@@ -10219,17 +10219,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__12_hermeint(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_b2ee831a4bd105458d2d39e8ad1953af == cache_frame_b2ee831a4bd105458d2d39e8ad1953af) {
+    if (frame_151b12d4a98ee1d7b3a5150214c79c52 == cache_frame_151b12d4a98ee1d7b3a5150214c79c52) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_b2ee831a4bd105458d2d39e8ad1953af);
-        cache_frame_b2ee831a4bd105458d2d39e8ad1953af = NULL;
+        Py_DECREF(cache_frame_151b12d4a98ee1d7b3a5150214c79c52);
+        cache_frame_151b12d4a98ee1d7b3a5150214c79c52 = NULL;
     }
 
-    assertFrameObject(frame_b2ee831a4bd105458d2d39e8ad1953af);
+    assertFrameObject(frame_151b12d4a98ee1d7b3a5150214c79c52);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -10353,7 +10353,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__13_hermeval(struct 
     PyObject *var_tmp = NULL;
     PyObject *tmp_for_loop_1__for_iterator = NULL;
     PyObject *tmp_for_loop_1__iter_value = NULL;
-    struct Nuitka_FrameObject *frame_6083095c48b2b9de91fea7ee980ce896;
+    struct Nuitka_FrameObject *frame_103c01067e9ff0655d00456af16f7349;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -10365,7 +10365,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__13_hermeval(struct 
     PyTracebackObject *exception_keeper_tb_1;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_1;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_6083095c48b2b9de91fea7ee980ce896 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_103c01067e9ff0655d00456af16f7349 = NULL;
     PyObject *exception_keeper_type_2;
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
@@ -10373,31 +10373,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__13_hermeval(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_6083095c48b2b9de91fea7ee980ce896)) {
-        Py_XDECREF(cache_frame_6083095c48b2b9de91fea7ee980ce896);
+    if (isFrameUnusable(cache_frame_103c01067e9ff0655d00456af16f7349)) {
+        Py_XDECREF(cache_frame_103c01067e9ff0655d00456af16f7349);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_6083095c48b2b9de91fea7ee980ce896 == NULL) {
+        if (cache_frame_103c01067e9ff0655d00456af16f7349 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_6083095c48b2b9de91fea7ee980ce896 = MAKE_FUNCTION_FRAME(codeobj_6083095c48b2b9de91fea7ee980ce896, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_103c01067e9ff0655d00456af16f7349 = MAKE_FUNCTION_FRAME(codeobj_103c01067e9ff0655d00456af16f7349, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_6083095c48b2b9de91fea7ee980ce896->m_type_description == NULL);
-    frame_6083095c48b2b9de91fea7ee980ce896 = cache_frame_6083095c48b2b9de91fea7ee980ce896;
+    assert(cache_frame_103c01067e9ff0655d00456af16f7349->m_type_description == NULL);
+    frame_103c01067e9ff0655d00456af16f7349 = cache_frame_103c01067e9ff0655d00456af16f7349;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_6083095c48b2b9de91fea7ee980ce896);
+    pushFrameStack(frame_103c01067e9ff0655d00456af16f7349);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_6083095c48b2b9de91fea7ee980ce896) == 2); // Frame stack
+    assert(Py_REFCNT(frame_103c01067e9ff0655d00456af16f7349) == 2); // Frame stack
 
     // Framed code:
     {
@@ -10439,7 +10439,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__13_hermeval(struct 
         tmp_args_name_1 = PyTuple_New(1);
         PyTuple_SET_ITEM0(tmp_args_name_1, 0, tmp_tuple_element_1);
         tmp_kwargs_name_1 = PyDict_Copy(mod_consts[84]);
-        frame_6083095c48b2b9de91fea7ee980ce896->m_frame.f_lineno = 864;
+        frame_103c01067e9ff0655d00456af16f7349->m_frame.f_lineno = 864;
         tmp_assign_source_1 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -10570,7 +10570,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__13_hermeval(struct 
             type_description_1 = "oooooooo";
             goto frame_exception_exit_1;
         }
-        frame_6083095c48b2b9de91fea7ee980ce896->m_frame.f_lineno = 866;
+        frame_103c01067e9ff0655d00456af16f7349->m_frame.f_lineno = 866;
         tmp_assign_source_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_1);
@@ -10640,7 +10640,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__13_hermeval(struct 
         }
         CHECK_OBJECT(par_x);
         tmp_args_element_name_2 = par_x;
-        frame_6083095c48b2b9de91fea7ee980ce896->m_frame.f_lineno = 868;
+        frame_103c01067e9ff0655d00456af16f7349->m_frame.f_lineno = 868;
         tmp_assign_source_3 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[86], tmp_args_element_name_2);
         if (tmp_assign_source_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10853,7 +10853,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__13_hermeval(struct 
             type_description_1 = "oooooooo";
             goto frame_exception_exit_1;
         }
-        frame_6083095c48b2b9de91fea7ee980ce896->m_frame.f_lineno = 870;
+        frame_103c01067e9ff0655d00456af16f7349->m_frame.f_lineno = 870;
         tmp_assign_source_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_3);
@@ -11611,7 +11611,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__13_hermeval(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6083095c48b2b9de91fea7ee980ce896);
+    RESTORE_FRAME_EXCEPTION(frame_103c01067e9ff0655d00456af16f7349);
 #endif
 
     // Put the previous frame back on top.
@@ -11621,7 +11621,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__13_hermeval(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6083095c48b2b9de91fea7ee980ce896);
+    RESTORE_FRAME_EXCEPTION(frame_103c01067e9ff0655d00456af16f7349);
 #endif
 
     // Put the previous frame back on top.
@@ -11632,18 +11632,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__13_hermeval(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6083095c48b2b9de91fea7ee980ce896);
+    RESTORE_FRAME_EXCEPTION(frame_103c01067e9ff0655d00456af16f7349);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_6083095c48b2b9de91fea7ee980ce896, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_6083095c48b2b9de91fea7ee980ce896->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_6083095c48b2b9de91fea7ee980ce896, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_103c01067e9ff0655d00456af16f7349, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_103c01067e9ff0655d00456af16f7349->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_103c01067e9ff0655d00456af16f7349, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_6083095c48b2b9de91fea7ee980ce896,
+        frame_103c01067e9ff0655d00456af16f7349,
         type_description_1,
         par_x,
         par_c,
@@ -11657,17 +11657,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__13_hermeval(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_6083095c48b2b9de91fea7ee980ce896 == cache_frame_6083095c48b2b9de91fea7ee980ce896) {
+    if (frame_103c01067e9ff0655d00456af16f7349 == cache_frame_103c01067e9ff0655d00456af16f7349) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_6083095c48b2b9de91fea7ee980ce896);
-        cache_frame_6083095c48b2b9de91fea7ee980ce896 = NULL;
+        Py_DECREF(cache_frame_103c01067e9ff0655d00456af16f7349);
+        cache_frame_103c01067e9ff0655d00456af16f7349 = NULL;
     }
 
-    assertFrameObject(frame_6083095c48b2b9de91fea7ee980ce896);
+    assertFrameObject(frame_103c01067e9ff0655d00456af16f7349);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -11766,14 +11766,14 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__14_hermeval2d(struc
     PyObject *par_x = python_pars[0];
     PyObject *par_y = python_pars[1];
     PyObject *par_c = python_pars[2];
-    struct Nuitka_FrameObject *frame_68f9de020447265387802f30ee295973;
+    struct Nuitka_FrameObject *frame_d1c3414d9b9c2d8b28d2556ee9aec9c6;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_68f9de020447265387802f30ee295973 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d1c3414d9b9c2d8b28d2556ee9aec9c6 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -11781,31 +11781,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__14_hermeval2d(struc
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_68f9de020447265387802f30ee295973)) {
-        Py_XDECREF(cache_frame_68f9de020447265387802f30ee295973);
+    if (isFrameUnusable(cache_frame_d1c3414d9b9c2d8b28d2556ee9aec9c6)) {
+        Py_XDECREF(cache_frame_d1c3414d9b9c2d8b28d2556ee9aec9c6);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_68f9de020447265387802f30ee295973 == NULL) {
+        if (cache_frame_d1c3414d9b9c2d8b28d2556ee9aec9c6 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_68f9de020447265387802f30ee295973 = MAKE_FUNCTION_FRAME(codeobj_68f9de020447265387802f30ee295973, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_d1c3414d9b9c2d8b28d2556ee9aec9c6 = MAKE_FUNCTION_FRAME(codeobj_d1c3414d9b9c2d8b28d2556ee9aec9c6, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_68f9de020447265387802f30ee295973->m_type_description == NULL);
-    frame_68f9de020447265387802f30ee295973 = cache_frame_68f9de020447265387802f30ee295973;
+    assert(cache_frame_d1c3414d9b9c2d8b28d2556ee9aec9c6->m_type_description == NULL);
+    frame_d1c3414d9b9c2d8b28d2556ee9aec9c6 = cache_frame_d1c3414d9b9c2d8b28d2556ee9aec9c6;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_68f9de020447265387802f30ee295973);
+    pushFrameStack(frame_d1c3414d9b9c2d8b28d2556ee9aec9c6);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_68f9de020447265387802f30ee295973) == 2); // Frame stack
+    assert(Py_REFCNT(frame_d1c3414d9b9c2d8b28d2556ee9aec9c6) == 2); // Frame stack
 
     // Framed code:
     {
@@ -11864,7 +11864,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__14_hermeval2d(struc
         tmp_args_element_name_3 = par_x;
         CHECK_OBJECT(par_y);
         tmp_args_element_name_4 = par_y;
-        frame_68f9de020447265387802f30ee295973->m_frame.f_lineno = 936;
+        frame_d1c3414d9b9c2d8b28d2556ee9aec9c6->m_frame.f_lineno = 936;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_1, call_args);
@@ -11885,7 +11885,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__14_hermeval2d(struc
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_68f9de020447265387802f30ee295973);
+    RESTORE_FRAME_EXCEPTION(frame_d1c3414d9b9c2d8b28d2556ee9aec9c6);
 #endif
 
     // Put the previous frame back on top.
@@ -11895,7 +11895,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__14_hermeval2d(struc
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_68f9de020447265387802f30ee295973);
+    RESTORE_FRAME_EXCEPTION(frame_d1c3414d9b9c2d8b28d2556ee9aec9c6);
 #endif
 
     // Put the previous frame back on top.
@@ -11906,18 +11906,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__14_hermeval2d(struc
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_68f9de020447265387802f30ee295973);
+    RESTORE_FRAME_EXCEPTION(frame_d1c3414d9b9c2d8b28d2556ee9aec9c6);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_68f9de020447265387802f30ee295973, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_68f9de020447265387802f30ee295973->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_68f9de020447265387802f30ee295973, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d1c3414d9b9c2d8b28d2556ee9aec9c6, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d1c3414d9b9c2d8b28d2556ee9aec9c6->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d1c3414d9b9c2d8b28d2556ee9aec9c6, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_68f9de020447265387802f30ee295973,
+        frame_d1c3414d9b9c2d8b28d2556ee9aec9c6,
         type_description_1,
         par_x,
         par_y,
@@ -11926,17 +11926,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__14_hermeval2d(struc
 
 
     // Release cached frame if used for exception.
-    if (frame_68f9de020447265387802f30ee295973 == cache_frame_68f9de020447265387802f30ee295973) {
+    if (frame_d1c3414d9b9c2d8b28d2556ee9aec9c6 == cache_frame_d1c3414d9b9c2d8b28d2556ee9aec9c6) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_68f9de020447265387802f30ee295973);
-        cache_frame_68f9de020447265387802f30ee295973 = NULL;
+        Py_DECREF(cache_frame_d1c3414d9b9c2d8b28d2556ee9aec9c6);
+        cache_frame_d1c3414d9b9c2d8b28d2556ee9aec9c6 = NULL;
     }
 
-    assertFrameObject(frame_68f9de020447265387802f30ee295973);
+    assertFrameObject(frame_d1c3414d9b9c2d8b28d2556ee9aec9c6);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -12013,14 +12013,14 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__15_hermegrid2d(stru
     PyObject *par_x = python_pars[0];
     PyObject *par_y = python_pars[1];
     PyObject *par_c = python_pars[2];
-    struct Nuitka_FrameObject *frame_fb833962e5dc46ec9680eb937369bb6b;
+    struct Nuitka_FrameObject *frame_c77040956e043225cee177cdee24e783;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_fb833962e5dc46ec9680eb937369bb6b = NULL;
+    static struct Nuitka_FrameObject *cache_frame_c77040956e043225cee177cdee24e783 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -12028,31 +12028,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__15_hermegrid2d(stru
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_fb833962e5dc46ec9680eb937369bb6b)) {
-        Py_XDECREF(cache_frame_fb833962e5dc46ec9680eb937369bb6b);
+    if (isFrameUnusable(cache_frame_c77040956e043225cee177cdee24e783)) {
+        Py_XDECREF(cache_frame_c77040956e043225cee177cdee24e783);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_fb833962e5dc46ec9680eb937369bb6b == NULL) {
+        if (cache_frame_c77040956e043225cee177cdee24e783 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_fb833962e5dc46ec9680eb937369bb6b = MAKE_FUNCTION_FRAME(codeobj_fb833962e5dc46ec9680eb937369bb6b, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_c77040956e043225cee177cdee24e783 = MAKE_FUNCTION_FRAME(codeobj_c77040956e043225cee177cdee24e783, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_fb833962e5dc46ec9680eb937369bb6b->m_type_description == NULL);
-    frame_fb833962e5dc46ec9680eb937369bb6b = cache_frame_fb833962e5dc46ec9680eb937369bb6b;
+    assert(cache_frame_c77040956e043225cee177cdee24e783->m_type_description == NULL);
+    frame_c77040956e043225cee177cdee24e783 = cache_frame_c77040956e043225cee177cdee24e783;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_fb833962e5dc46ec9680eb937369bb6b);
+    pushFrameStack(frame_c77040956e043225cee177cdee24e783);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_fb833962e5dc46ec9680eb937369bb6b) == 2); // Frame stack
+    assert(Py_REFCNT(frame_c77040956e043225cee177cdee24e783) == 2); // Frame stack
 
     // Framed code:
     {
@@ -12111,7 +12111,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__15_hermegrid2d(stru
         tmp_args_element_name_3 = par_x;
         CHECK_OBJECT(par_y);
         tmp_args_element_name_4 = par_y;
-        frame_fb833962e5dc46ec9680eb937369bb6b->m_frame.f_lineno = 989;
+        frame_c77040956e043225cee177cdee24e783->m_frame.f_lineno = 989;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_1, call_args);
@@ -12132,7 +12132,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__15_hermegrid2d(stru
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_fb833962e5dc46ec9680eb937369bb6b);
+    RESTORE_FRAME_EXCEPTION(frame_c77040956e043225cee177cdee24e783);
 #endif
 
     // Put the previous frame back on top.
@@ -12142,7 +12142,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__15_hermegrid2d(stru
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_fb833962e5dc46ec9680eb937369bb6b);
+    RESTORE_FRAME_EXCEPTION(frame_c77040956e043225cee177cdee24e783);
 #endif
 
     // Put the previous frame back on top.
@@ -12153,18 +12153,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__15_hermegrid2d(stru
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_fb833962e5dc46ec9680eb937369bb6b);
+    RESTORE_FRAME_EXCEPTION(frame_c77040956e043225cee177cdee24e783);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_fb833962e5dc46ec9680eb937369bb6b, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_fb833962e5dc46ec9680eb937369bb6b->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_fb833962e5dc46ec9680eb937369bb6b, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_c77040956e043225cee177cdee24e783, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_c77040956e043225cee177cdee24e783->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_c77040956e043225cee177cdee24e783, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_fb833962e5dc46ec9680eb937369bb6b,
+        frame_c77040956e043225cee177cdee24e783,
         type_description_1,
         par_x,
         par_y,
@@ -12173,17 +12173,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__15_hermegrid2d(stru
 
 
     // Release cached frame if used for exception.
-    if (frame_fb833962e5dc46ec9680eb937369bb6b == cache_frame_fb833962e5dc46ec9680eb937369bb6b) {
+    if (frame_c77040956e043225cee177cdee24e783 == cache_frame_c77040956e043225cee177cdee24e783) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_fb833962e5dc46ec9680eb937369bb6b);
-        cache_frame_fb833962e5dc46ec9680eb937369bb6b = NULL;
+        Py_DECREF(cache_frame_c77040956e043225cee177cdee24e783);
+        cache_frame_c77040956e043225cee177cdee24e783 = NULL;
     }
 
-    assertFrameObject(frame_fb833962e5dc46ec9680eb937369bb6b);
+    assertFrameObject(frame_c77040956e043225cee177cdee24e783);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -12261,14 +12261,14 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__16_hermeval3d(struc
     PyObject *par_y = python_pars[1];
     PyObject *par_z = python_pars[2];
     PyObject *par_c = python_pars[3];
-    struct Nuitka_FrameObject *frame_60eff48dc76dbe6a89d91488c37a6120;
+    struct Nuitka_FrameObject *frame_654f03f477fd4e0df5c6028f6a6ad808;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_60eff48dc76dbe6a89d91488c37a6120 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_654f03f477fd4e0df5c6028f6a6ad808 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -12276,31 +12276,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__16_hermeval3d(struc
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_60eff48dc76dbe6a89d91488c37a6120)) {
-        Py_XDECREF(cache_frame_60eff48dc76dbe6a89d91488c37a6120);
+    if (isFrameUnusable(cache_frame_654f03f477fd4e0df5c6028f6a6ad808)) {
+        Py_XDECREF(cache_frame_654f03f477fd4e0df5c6028f6a6ad808);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_60eff48dc76dbe6a89d91488c37a6120 == NULL) {
+        if (cache_frame_654f03f477fd4e0df5c6028f6a6ad808 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_60eff48dc76dbe6a89d91488c37a6120 = MAKE_FUNCTION_FRAME(codeobj_60eff48dc76dbe6a89d91488c37a6120, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_654f03f477fd4e0df5c6028f6a6ad808 = MAKE_FUNCTION_FRAME(codeobj_654f03f477fd4e0df5c6028f6a6ad808, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_60eff48dc76dbe6a89d91488c37a6120->m_type_description == NULL);
-    frame_60eff48dc76dbe6a89d91488c37a6120 = cache_frame_60eff48dc76dbe6a89d91488c37a6120;
+    assert(cache_frame_654f03f477fd4e0df5c6028f6a6ad808->m_type_description == NULL);
+    frame_654f03f477fd4e0df5c6028f6a6ad808 = cache_frame_654f03f477fd4e0df5c6028f6a6ad808;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_60eff48dc76dbe6a89d91488c37a6120);
+    pushFrameStack(frame_654f03f477fd4e0df5c6028f6a6ad808);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_60eff48dc76dbe6a89d91488c37a6120) == 2); // Frame stack
+    assert(Py_REFCNT(frame_654f03f477fd4e0df5c6028f6a6ad808) == 2); // Frame stack
 
     // Framed code:
     {
@@ -12362,7 +12362,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__16_hermeval3d(struc
         tmp_args_element_name_4 = par_y;
         CHECK_OBJECT(par_z);
         tmp_args_element_name_5 = par_z;
-        frame_60eff48dc76dbe6a89d91488c37a6120->m_frame.f_lineno = 1040;
+        frame_654f03f477fd4e0df5c6028f6a6ad808->m_frame.f_lineno = 1040;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS5(tmp_called_name_1, call_args);
@@ -12383,7 +12383,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__16_hermeval3d(struc
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_60eff48dc76dbe6a89d91488c37a6120);
+    RESTORE_FRAME_EXCEPTION(frame_654f03f477fd4e0df5c6028f6a6ad808);
 #endif
 
     // Put the previous frame back on top.
@@ -12393,7 +12393,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__16_hermeval3d(struc
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_60eff48dc76dbe6a89d91488c37a6120);
+    RESTORE_FRAME_EXCEPTION(frame_654f03f477fd4e0df5c6028f6a6ad808);
 #endif
 
     // Put the previous frame back on top.
@@ -12404,18 +12404,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__16_hermeval3d(struc
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_60eff48dc76dbe6a89d91488c37a6120);
+    RESTORE_FRAME_EXCEPTION(frame_654f03f477fd4e0df5c6028f6a6ad808);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_60eff48dc76dbe6a89d91488c37a6120, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_60eff48dc76dbe6a89d91488c37a6120->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_60eff48dc76dbe6a89d91488c37a6120, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_654f03f477fd4e0df5c6028f6a6ad808, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_654f03f477fd4e0df5c6028f6a6ad808->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_654f03f477fd4e0df5c6028f6a6ad808, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_60eff48dc76dbe6a89d91488c37a6120,
+        frame_654f03f477fd4e0df5c6028f6a6ad808,
         type_description_1,
         par_x,
         par_y,
@@ -12425,17 +12425,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__16_hermeval3d(struc
 
 
     // Release cached frame if used for exception.
-    if (frame_60eff48dc76dbe6a89d91488c37a6120 == cache_frame_60eff48dc76dbe6a89d91488c37a6120) {
+    if (frame_654f03f477fd4e0df5c6028f6a6ad808 == cache_frame_654f03f477fd4e0df5c6028f6a6ad808) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_60eff48dc76dbe6a89d91488c37a6120);
-        cache_frame_60eff48dc76dbe6a89d91488c37a6120 = NULL;
+        Py_DECREF(cache_frame_654f03f477fd4e0df5c6028f6a6ad808);
+        cache_frame_654f03f477fd4e0df5c6028f6a6ad808 = NULL;
     }
 
-    assertFrameObject(frame_60eff48dc76dbe6a89d91488c37a6120);
+    assertFrameObject(frame_654f03f477fd4e0df5c6028f6a6ad808);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -12517,14 +12517,14 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__17_hermegrid3d(stru
     PyObject *par_y = python_pars[1];
     PyObject *par_z = python_pars[2];
     PyObject *par_c = python_pars[3];
-    struct Nuitka_FrameObject *frame_6c3f2de31a04e2276bfcb6f82427215b;
+    struct Nuitka_FrameObject *frame_efe4762ae33a4ec6293a703ffa74eb7d;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_6c3f2de31a04e2276bfcb6f82427215b = NULL;
+    static struct Nuitka_FrameObject *cache_frame_efe4762ae33a4ec6293a703ffa74eb7d = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -12532,31 +12532,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__17_hermegrid3d(stru
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_6c3f2de31a04e2276bfcb6f82427215b)) {
-        Py_XDECREF(cache_frame_6c3f2de31a04e2276bfcb6f82427215b);
+    if (isFrameUnusable(cache_frame_efe4762ae33a4ec6293a703ffa74eb7d)) {
+        Py_XDECREF(cache_frame_efe4762ae33a4ec6293a703ffa74eb7d);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_6c3f2de31a04e2276bfcb6f82427215b == NULL) {
+        if (cache_frame_efe4762ae33a4ec6293a703ffa74eb7d == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_6c3f2de31a04e2276bfcb6f82427215b = MAKE_FUNCTION_FRAME(codeobj_6c3f2de31a04e2276bfcb6f82427215b, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_efe4762ae33a4ec6293a703ffa74eb7d = MAKE_FUNCTION_FRAME(codeobj_efe4762ae33a4ec6293a703ffa74eb7d, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_6c3f2de31a04e2276bfcb6f82427215b->m_type_description == NULL);
-    frame_6c3f2de31a04e2276bfcb6f82427215b = cache_frame_6c3f2de31a04e2276bfcb6f82427215b;
+    assert(cache_frame_efe4762ae33a4ec6293a703ffa74eb7d->m_type_description == NULL);
+    frame_efe4762ae33a4ec6293a703ffa74eb7d = cache_frame_efe4762ae33a4ec6293a703ffa74eb7d;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_6c3f2de31a04e2276bfcb6f82427215b);
+    pushFrameStack(frame_efe4762ae33a4ec6293a703ffa74eb7d);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_6c3f2de31a04e2276bfcb6f82427215b) == 2); // Frame stack
+    assert(Py_REFCNT(frame_efe4762ae33a4ec6293a703ffa74eb7d) == 2); // Frame stack
 
     // Framed code:
     {
@@ -12618,7 +12618,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__17_hermegrid3d(stru
         tmp_args_element_name_4 = par_y;
         CHECK_OBJECT(par_z);
         tmp_args_element_name_5 = par_z;
-        frame_6c3f2de31a04e2276bfcb6f82427215b->m_frame.f_lineno = 1096;
+        frame_efe4762ae33a4ec6293a703ffa74eb7d->m_frame.f_lineno = 1096;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS5(tmp_called_name_1, call_args);
@@ -12639,7 +12639,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__17_hermegrid3d(stru
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6c3f2de31a04e2276bfcb6f82427215b);
+    RESTORE_FRAME_EXCEPTION(frame_efe4762ae33a4ec6293a703ffa74eb7d);
 #endif
 
     // Put the previous frame back on top.
@@ -12649,7 +12649,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__17_hermegrid3d(stru
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6c3f2de31a04e2276bfcb6f82427215b);
+    RESTORE_FRAME_EXCEPTION(frame_efe4762ae33a4ec6293a703ffa74eb7d);
 #endif
 
     // Put the previous frame back on top.
@@ -12660,18 +12660,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__17_hermegrid3d(stru
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6c3f2de31a04e2276bfcb6f82427215b);
+    RESTORE_FRAME_EXCEPTION(frame_efe4762ae33a4ec6293a703ffa74eb7d);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_6c3f2de31a04e2276bfcb6f82427215b, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_6c3f2de31a04e2276bfcb6f82427215b->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_6c3f2de31a04e2276bfcb6f82427215b, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_efe4762ae33a4ec6293a703ffa74eb7d, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_efe4762ae33a4ec6293a703ffa74eb7d->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_efe4762ae33a4ec6293a703ffa74eb7d, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_6c3f2de31a04e2276bfcb6f82427215b,
+        frame_efe4762ae33a4ec6293a703ffa74eb7d,
         type_description_1,
         par_x,
         par_y,
@@ -12681,17 +12681,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__17_hermegrid3d(stru
 
 
     // Release cached frame if used for exception.
-    if (frame_6c3f2de31a04e2276bfcb6f82427215b == cache_frame_6c3f2de31a04e2276bfcb6f82427215b) {
+    if (frame_efe4762ae33a4ec6293a703ffa74eb7d == cache_frame_efe4762ae33a4ec6293a703ffa74eb7d) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_6c3f2de31a04e2276bfcb6f82427215b);
-        cache_frame_6c3f2de31a04e2276bfcb6f82427215b = NULL;
+        Py_DECREF(cache_frame_efe4762ae33a4ec6293a703ffa74eb7d);
+        cache_frame_efe4762ae33a4ec6293a703ffa74eb7d = NULL;
     }
 
-    assertFrameObject(frame_6c3f2de31a04e2276bfcb6f82427215b);
+    assertFrameObject(frame_efe4762ae33a4ec6293a703ffa74eb7d);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -12778,7 +12778,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__18_hermevander(stru
     PyObject *var_i = NULL;
     PyObject *tmp_for_loop_1__for_iterator = NULL;
     PyObject *tmp_for_loop_1__iter_value = NULL;
-    struct Nuitka_FrameObject *frame_71fbb9cabffe8652a36ba54c7da45392;
+    struct Nuitka_FrameObject *frame_a466e07a7abdfbcb1b738d8b414c279b;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -12791,7 +12791,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__18_hermevander(stru
     PyTracebackObject *exception_keeper_tb_1;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_1;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_71fbb9cabffe8652a36ba54c7da45392 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_a466e07a7abdfbcb1b738d8b414c279b = NULL;
     PyObject *exception_keeper_type_2;
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
@@ -12799,31 +12799,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__18_hermevander(stru
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_71fbb9cabffe8652a36ba54c7da45392)) {
-        Py_XDECREF(cache_frame_71fbb9cabffe8652a36ba54c7da45392);
+    if (isFrameUnusable(cache_frame_a466e07a7abdfbcb1b738d8b414c279b)) {
+        Py_XDECREF(cache_frame_a466e07a7abdfbcb1b738d8b414c279b);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_71fbb9cabffe8652a36ba54c7da45392 == NULL) {
+        if (cache_frame_a466e07a7abdfbcb1b738d8b414c279b == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_71fbb9cabffe8652a36ba54c7da45392 = MAKE_FUNCTION_FRAME(codeobj_71fbb9cabffe8652a36ba54c7da45392, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_a466e07a7abdfbcb1b738d8b414c279b = MAKE_FUNCTION_FRAME(codeobj_a466e07a7abdfbcb1b738d8b414c279b, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_71fbb9cabffe8652a36ba54c7da45392->m_type_description == NULL);
-    frame_71fbb9cabffe8652a36ba54c7da45392 = cache_frame_71fbb9cabffe8652a36ba54c7da45392;
+    assert(cache_frame_a466e07a7abdfbcb1b738d8b414c279b->m_type_description == NULL);
+    frame_a466e07a7abdfbcb1b738d8b414c279b = cache_frame_a466e07a7abdfbcb1b738d8b414c279b;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_71fbb9cabffe8652a36ba54c7da45392);
+    pushFrameStack(frame_a466e07a7abdfbcb1b738d8b414c279b);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_71fbb9cabffe8652a36ba54c7da45392) == 2); // Frame stack
+    assert(Py_REFCNT(frame_a466e07a7abdfbcb1b738d8b414c279b) == 2); // Frame stack
 
     // Framed code:
     {
@@ -12850,7 +12850,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__18_hermevander(stru
         CHECK_OBJECT(par_deg);
         tmp_args_element_name_1 = par_deg;
         tmp_args_element_name_2 = mod_consts[98];
-        frame_71fbb9cabffe8652a36ba54c7da45392->m_frame.f_lineno = 1143;
+        frame_a466e07a7abdfbcb1b738d8b414c279b->m_frame.f_lineno = 1143;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_1 = CALL_METHOD_WITH_ARGS2(
@@ -12917,7 +12917,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__18_hermevander(stru
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[99];
-        frame_71fbb9cabffe8652a36ba54c7da45392->m_frame.f_lineno = 1145;
+        frame_a466e07a7abdfbcb1b738d8b414c279b->m_frame.f_lineno = 1145;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -12968,7 +12968,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__18_hermevander(stru
         tmp_args_name_1 = PyTuple_New(1);
         PyTuple_SET_ITEM0(tmp_args_name_1, 0, tmp_tuple_element_1);
         tmp_kwargs_name_1 = PyDict_Copy(mod_consts[100]);
-        frame_71fbb9cabffe8652a36ba54c7da45392->m_frame.f_lineno = 1147;
+        frame_a466e07a7abdfbcb1b738d8b414c279b->m_frame.f_lineno = 1147;
         tmp_left_name_1 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -13132,7 +13132,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__18_hermevander(stru
         tmp_kwargs_name_2 = _PyDict_NewPresized( 1 );
         tmp_res = PyDict_SetItem(tmp_kwargs_name_2, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_71fbb9cabffe8652a36ba54c7da45392->m_frame.f_lineno = 1150;
+        frame_a466e07a7abdfbcb1b738d8b414c279b->m_frame.f_lineno = 1150;
         tmp_assign_source_5 = CALL_FUNCTION(tmp_called_name_2, tmp_args_name_2, tmp_kwargs_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_name_2);
@@ -13724,7 +13724,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__18_hermevander(stru
         tmp_args_element_name_3 = var_v;
         tmp_args_element_name_4 = mod_consts[4];
         tmp_args_element_name_5 = mod_consts[5];
-        frame_71fbb9cabffe8652a36ba54c7da45392->m_frame.f_lineno = 1156;
+        frame_a466e07a7abdfbcb1b738d8b414c279b->m_frame.f_lineno = 1156;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_3, call_args);
@@ -13745,7 +13745,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__18_hermevander(stru
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_71fbb9cabffe8652a36ba54c7da45392);
+    RESTORE_FRAME_EXCEPTION(frame_a466e07a7abdfbcb1b738d8b414c279b);
 #endif
 
     // Put the previous frame back on top.
@@ -13755,7 +13755,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__18_hermevander(stru
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_71fbb9cabffe8652a36ba54c7da45392);
+    RESTORE_FRAME_EXCEPTION(frame_a466e07a7abdfbcb1b738d8b414c279b);
 #endif
 
     // Put the previous frame back on top.
@@ -13766,18 +13766,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__18_hermevander(stru
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_71fbb9cabffe8652a36ba54c7da45392);
+    RESTORE_FRAME_EXCEPTION(frame_a466e07a7abdfbcb1b738d8b414c279b);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_71fbb9cabffe8652a36ba54c7da45392, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_71fbb9cabffe8652a36ba54c7da45392->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_71fbb9cabffe8652a36ba54c7da45392, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_a466e07a7abdfbcb1b738d8b414c279b, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_a466e07a7abdfbcb1b738d8b414c279b->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_a466e07a7abdfbcb1b738d8b414c279b, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_71fbb9cabffe8652a36ba54c7da45392,
+        frame_a466e07a7abdfbcb1b738d8b414c279b,
         type_description_1,
         par_x,
         par_deg,
@@ -13790,17 +13790,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__18_hermevander(stru
 
 
     // Release cached frame if used for exception.
-    if (frame_71fbb9cabffe8652a36ba54c7da45392 == cache_frame_71fbb9cabffe8652a36ba54c7da45392) {
+    if (frame_a466e07a7abdfbcb1b738d8b414c279b == cache_frame_a466e07a7abdfbcb1b738d8b414c279b) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_71fbb9cabffe8652a36ba54c7da45392);
-        cache_frame_71fbb9cabffe8652a36ba54c7da45392 = NULL;
+        Py_DECREF(cache_frame_a466e07a7abdfbcb1b738d8b414c279b);
+        cache_frame_a466e07a7abdfbcb1b738d8b414c279b = NULL;
     }
 
-    assertFrameObject(frame_71fbb9cabffe8652a36ba54c7da45392);
+    assertFrameObject(frame_a466e07a7abdfbcb1b738d8b414c279b);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -13893,14 +13893,14 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__19_hermevander2d(st
     PyObject *par_x = python_pars[0];
     PyObject *par_y = python_pars[1];
     PyObject *par_deg = python_pars[2];
-    struct Nuitka_FrameObject *frame_78d2407c699a8843ee93abaa4e1941a7;
+    struct Nuitka_FrameObject *frame_acb2c3551c23ef3a029a0415957ec441;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_78d2407c699a8843ee93abaa4e1941a7 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_acb2c3551c23ef3a029a0415957ec441 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -13908,31 +13908,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__19_hermevander2d(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_78d2407c699a8843ee93abaa4e1941a7)) {
-        Py_XDECREF(cache_frame_78d2407c699a8843ee93abaa4e1941a7);
+    if (isFrameUnusable(cache_frame_acb2c3551c23ef3a029a0415957ec441)) {
+        Py_XDECREF(cache_frame_acb2c3551c23ef3a029a0415957ec441);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_78d2407c699a8843ee93abaa4e1941a7 == NULL) {
+        if (cache_frame_acb2c3551c23ef3a029a0415957ec441 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_78d2407c699a8843ee93abaa4e1941a7 = MAKE_FUNCTION_FRAME(codeobj_78d2407c699a8843ee93abaa4e1941a7, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_acb2c3551c23ef3a029a0415957ec441 = MAKE_FUNCTION_FRAME(codeobj_acb2c3551c23ef3a029a0415957ec441, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_78d2407c699a8843ee93abaa4e1941a7->m_type_description == NULL);
-    frame_78d2407c699a8843ee93abaa4e1941a7 = cache_frame_78d2407c699a8843ee93abaa4e1941a7;
+    assert(cache_frame_acb2c3551c23ef3a029a0415957ec441->m_type_description == NULL);
+    frame_acb2c3551c23ef3a029a0415957ec441 = cache_frame_acb2c3551c23ef3a029a0415957ec441;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_78d2407c699a8843ee93abaa4e1941a7);
+    pushFrameStack(frame_acb2c3551c23ef3a029a0415957ec441);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_78d2407c699a8843ee93abaa4e1941a7) == 2); // Frame stack
+    assert(Py_REFCNT(frame_acb2c3551c23ef3a029a0415957ec441) == 2); // Frame stack
 
     // Framed code:
     {
@@ -14022,7 +14022,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__19_hermevander2d(st
         PyTuple_SET_ITEM0(tmp_args_element_name_2, 1, tmp_tuple_element_2);
         CHECK_OBJECT(par_deg);
         tmp_args_element_name_3 = par_deg;
-        frame_78d2407c699a8843ee93abaa4e1941a7->m_frame.f_lineno = 1209;
+        frame_acb2c3551c23ef3a029a0415957ec441->m_frame.f_lineno = 1209;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_1, call_args);
@@ -14045,7 +14045,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__19_hermevander2d(st
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_78d2407c699a8843ee93abaa4e1941a7);
+    RESTORE_FRAME_EXCEPTION(frame_acb2c3551c23ef3a029a0415957ec441);
 #endif
 
     // Put the previous frame back on top.
@@ -14055,7 +14055,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__19_hermevander2d(st
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_78d2407c699a8843ee93abaa4e1941a7);
+    RESTORE_FRAME_EXCEPTION(frame_acb2c3551c23ef3a029a0415957ec441);
 #endif
 
     // Put the previous frame back on top.
@@ -14066,18 +14066,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__19_hermevander2d(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_78d2407c699a8843ee93abaa4e1941a7);
+    RESTORE_FRAME_EXCEPTION(frame_acb2c3551c23ef3a029a0415957ec441);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_78d2407c699a8843ee93abaa4e1941a7, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_78d2407c699a8843ee93abaa4e1941a7->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_78d2407c699a8843ee93abaa4e1941a7, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_acb2c3551c23ef3a029a0415957ec441, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_acb2c3551c23ef3a029a0415957ec441->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_acb2c3551c23ef3a029a0415957ec441, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_78d2407c699a8843ee93abaa4e1941a7,
+        frame_acb2c3551c23ef3a029a0415957ec441,
         type_description_1,
         par_x,
         par_y,
@@ -14086,17 +14086,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__19_hermevander2d(st
 
 
     // Release cached frame if used for exception.
-    if (frame_78d2407c699a8843ee93abaa4e1941a7 == cache_frame_78d2407c699a8843ee93abaa4e1941a7) {
+    if (frame_acb2c3551c23ef3a029a0415957ec441 == cache_frame_acb2c3551c23ef3a029a0415957ec441) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_78d2407c699a8843ee93abaa4e1941a7);
-        cache_frame_78d2407c699a8843ee93abaa4e1941a7 = NULL;
+        Py_DECREF(cache_frame_acb2c3551c23ef3a029a0415957ec441);
+        cache_frame_acb2c3551c23ef3a029a0415957ec441 = NULL;
     }
 
-    assertFrameObject(frame_78d2407c699a8843ee93abaa4e1941a7);
+    assertFrameObject(frame_acb2c3551c23ef3a029a0415957ec441);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -14174,14 +14174,14 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__20_hermevander3d(st
     PyObject *par_y = python_pars[1];
     PyObject *par_z = python_pars[2];
     PyObject *par_deg = python_pars[3];
-    struct Nuitka_FrameObject *frame_9f64d5886e1b5c989d30ef27a35d4fa2;
+    struct Nuitka_FrameObject *frame_3b10e618bc060fb4f2efa1e92cbb79cf;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_9f64d5886e1b5c989d30ef27a35d4fa2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_3b10e618bc060fb4f2efa1e92cbb79cf = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -14189,31 +14189,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__20_hermevander3d(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_9f64d5886e1b5c989d30ef27a35d4fa2)) {
-        Py_XDECREF(cache_frame_9f64d5886e1b5c989d30ef27a35d4fa2);
+    if (isFrameUnusable(cache_frame_3b10e618bc060fb4f2efa1e92cbb79cf)) {
+        Py_XDECREF(cache_frame_3b10e618bc060fb4f2efa1e92cbb79cf);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_9f64d5886e1b5c989d30ef27a35d4fa2 == NULL) {
+        if (cache_frame_3b10e618bc060fb4f2efa1e92cbb79cf == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_9f64d5886e1b5c989d30ef27a35d4fa2 = MAKE_FUNCTION_FRAME(codeobj_9f64d5886e1b5c989d30ef27a35d4fa2, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_3b10e618bc060fb4f2efa1e92cbb79cf = MAKE_FUNCTION_FRAME(codeobj_3b10e618bc060fb4f2efa1e92cbb79cf, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_9f64d5886e1b5c989d30ef27a35d4fa2->m_type_description == NULL);
-    frame_9f64d5886e1b5c989d30ef27a35d4fa2 = cache_frame_9f64d5886e1b5c989d30ef27a35d4fa2;
+    assert(cache_frame_3b10e618bc060fb4f2efa1e92cbb79cf->m_type_description == NULL);
+    frame_3b10e618bc060fb4f2efa1e92cbb79cf = cache_frame_3b10e618bc060fb4f2efa1e92cbb79cf;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_9f64d5886e1b5c989d30ef27a35d4fa2);
+    pushFrameStack(frame_3b10e618bc060fb4f2efa1e92cbb79cf);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_9f64d5886e1b5c989d30ef27a35d4fa2) == 2); // Frame stack
+    assert(Py_REFCNT(frame_3b10e618bc060fb4f2efa1e92cbb79cf) == 2); // Frame stack
 
     // Framed code:
     {
@@ -14323,7 +14323,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__20_hermevander3d(st
         PyTuple_SET_ITEM0(tmp_args_element_name_2, 2, tmp_tuple_element_2);
         CHECK_OBJECT(par_deg);
         tmp_args_element_name_3 = par_deg;
-        frame_9f64d5886e1b5c989d30ef27a35d4fa2->m_frame.f_lineno = 1263;
+        frame_3b10e618bc060fb4f2efa1e92cbb79cf->m_frame.f_lineno = 1263;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_1, call_args);
@@ -14346,7 +14346,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__20_hermevander3d(st
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9f64d5886e1b5c989d30ef27a35d4fa2);
+    RESTORE_FRAME_EXCEPTION(frame_3b10e618bc060fb4f2efa1e92cbb79cf);
 #endif
 
     // Put the previous frame back on top.
@@ -14356,7 +14356,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__20_hermevander3d(st
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9f64d5886e1b5c989d30ef27a35d4fa2);
+    RESTORE_FRAME_EXCEPTION(frame_3b10e618bc060fb4f2efa1e92cbb79cf);
 #endif
 
     // Put the previous frame back on top.
@@ -14367,18 +14367,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__20_hermevander3d(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9f64d5886e1b5c989d30ef27a35d4fa2);
+    RESTORE_FRAME_EXCEPTION(frame_3b10e618bc060fb4f2efa1e92cbb79cf);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_9f64d5886e1b5c989d30ef27a35d4fa2, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_9f64d5886e1b5c989d30ef27a35d4fa2->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_9f64d5886e1b5c989d30ef27a35d4fa2, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_3b10e618bc060fb4f2efa1e92cbb79cf, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_3b10e618bc060fb4f2efa1e92cbb79cf->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_3b10e618bc060fb4f2efa1e92cbb79cf, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_9f64d5886e1b5c989d30ef27a35d4fa2,
+        frame_3b10e618bc060fb4f2efa1e92cbb79cf,
         type_description_1,
         par_x,
         par_y,
@@ -14388,17 +14388,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__20_hermevander3d(st
 
 
     // Release cached frame if used for exception.
-    if (frame_9f64d5886e1b5c989d30ef27a35d4fa2 == cache_frame_9f64d5886e1b5c989d30ef27a35d4fa2) {
+    if (frame_3b10e618bc060fb4f2efa1e92cbb79cf == cache_frame_3b10e618bc060fb4f2efa1e92cbb79cf) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_9f64d5886e1b5c989d30ef27a35d4fa2);
-        cache_frame_9f64d5886e1b5c989d30ef27a35d4fa2 = NULL;
+        Py_DECREF(cache_frame_3b10e618bc060fb4f2efa1e92cbb79cf);
+        cache_frame_3b10e618bc060fb4f2efa1e92cbb79cf = NULL;
     }
 
-    assertFrameObject(frame_9f64d5886e1b5c989d30ef27a35d4fa2);
+    assertFrameObject(frame_3b10e618bc060fb4f2efa1e92cbb79cf);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -14482,14 +14482,14 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__21_hermefit(struct 
     PyObject *par_rcond = python_pars[3];
     PyObject *par_full = python_pars[4];
     PyObject *par_w = python_pars[5];
-    struct Nuitka_FrameObject *frame_ad19b7d4f7596d3521797b422829ec9a;
+    struct Nuitka_FrameObject *frame_8fda96da8d02ee59c10c5cfecdd7766f;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_ad19b7d4f7596d3521797b422829ec9a = NULL;
+    static struct Nuitka_FrameObject *cache_frame_8fda96da8d02ee59c10c5cfecdd7766f = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -14497,31 +14497,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__21_hermefit(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ad19b7d4f7596d3521797b422829ec9a)) {
-        Py_XDECREF(cache_frame_ad19b7d4f7596d3521797b422829ec9a);
+    if (isFrameUnusable(cache_frame_8fda96da8d02ee59c10c5cfecdd7766f)) {
+        Py_XDECREF(cache_frame_8fda96da8d02ee59c10c5cfecdd7766f);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ad19b7d4f7596d3521797b422829ec9a == NULL) {
+        if (cache_frame_8fda96da8d02ee59c10c5cfecdd7766f == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ad19b7d4f7596d3521797b422829ec9a = MAKE_FUNCTION_FRAME(codeobj_ad19b7d4f7596d3521797b422829ec9a, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_8fda96da8d02ee59c10c5cfecdd7766f = MAKE_FUNCTION_FRAME(codeobj_8fda96da8d02ee59c10c5cfecdd7766f, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ad19b7d4f7596d3521797b422829ec9a->m_type_description == NULL);
-    frame_ad19b7d4f7596d3521797b422829ec9a = cache_frame_ad19b7d4f7596d3521797b422829ec9a;
+    assert(cache_frame_8fda96da8d02ee59c10c5cfecdd7766f->m_type_description == NULL);
+    frame_8fda96da8d02ee59c10c5cfecdd7766f = cache_frame_8fda96da8d02ee59c10c5cfecdd7766f;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ad19b7d4f7596d3521797b422829ec9a);
+    pushFrameStack(frame_8fda96da8d02ee59c10c5cfecdd7766f);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ad19b7d4f7596d3521797b422829ec9a) == 2); // Frame stack
+    assert(Py_REFCNT(frame_8fda96da8d02ee59c10c5cfecdd7766f) == 2); // Frame stack
 
     // Framed code:
     {
@@ -14589,7 +14589,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__21_hermefit(struct 
         tmp_args_element_name_6 = par_full;
         CHECK_OBJECT(par_w);
         tmp_args_element_name_7 = par_w;
-        frame_ad19b7d4f7596d3521797b422829ec9a->m_frame.f_lineno = 1395;
+        frame_8fda96da8d02ee59c10c5cfecdd7766f->m_frame.f_lineno = 1395;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5, tmp_args_element_name_6, tmp_args_element_name_7};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS7(tmp_called_name_1, call_args);
@@ -14610,7 +14610,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__21_hermefit(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ad19b7d4f7596d3521797b422829ec9a);
+    RESTORE_FRAME_EXCEPTION(frame_8fda96da8d02ee59c10c5cfecdd7766f);
 #endif
 
     // Put the previous frame back on top.
@@ -14620,7 +14620,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__21_hermefit(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ad19b7d4f7596d3521797b422829ec9a);
+    RESTORE_FRAME_EXCEPTION(frame_8fda96da8d02ee59c10c5cfecdd7766f);
 #endif
 
     // Put the previous frame back on top.
@@ -14631,18 +14631,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__21_hermefit(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ad19b7d4f7596d3521797b422829ec9a);
+    RESTORE_FRAME_EXCEPTION(frame_8fda96da8d02ee59c10c5cfecdd7766f);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ad19b7d4f7596d3521797b422829ec9a, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ad19b7d4f7596d3521797b422829ec9a->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ad19b7d4f7596d3521797b422829ec9a, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_8fda96da8d02ee59c10c5cfecdd7766f, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_8fda96da8d02ee59c10c5cfecdd7766f->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_8fda96da8d02ee59c10c5cfecdd7766f, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ad19b7d4f7596d3521797b422829ec9a,
+        frame_8fda96da8d02ee59c10c5cfecdd7766f,
         type_description_1,
         par_x,
         par_y,
@@ -14654,17 +14654,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__21_hermefit(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_ad19b7d4f7596d3521797b422829ec9a == cache_frame_ad19b7d4f7596d3521797b422829ec9a) {
+    if (frame_8fda96da8d02ee59c10c5cfecdd7766f == cache_frame_8fda96da8d02ee59c10c5cfecdd7766f) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ad19b7d4f7596d3521797b422829ec9a);
-        cache_frame_ad19b7d4f7596d3521797b422829ec9a = NULL;
+        Py_DECREF(cache_frame_8fda96da8d02ee59c10c5cfecdd7766f);
+        cache_frame_8fda96da8d02ee59c10c5cfecdd7766f = NULL;
     }
 
-    assertFrameObject(frame_ad19b7d4f7596d3521797b422829ec9a);
+    assertFrameObject(frame_8fda96da8d02ee59c10c5cfecdd7766f);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -14761,7 +14761,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
     PyObject *tmp_inplace_assign_subscr_1__value = NULL;
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_7c877a147accaf67fe966947d245af3a;
+    struct Nuitka_FrameObject *frame_55fdedcf433fe12a488168fb5029a117;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -14783,7 +14783,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_3;
-    static struct Nuitka_FrameObject *cache_frame_7c877a147accaf67fe966947d245af3a = NULL;
+    static struct Nuitka_FrameObject *cache_frame_55fdedcf433fe12a488168fb5029a117 = NULL;
     PyObject *exception_keeper_type_4;
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
@@ -14791,31 +14791,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_7c877a147accaf67fe966947d245af3a)) {
-        Py_XDECREF(cache_frame_7c877a147accaf67fe966947d245af3a);
+    if (isFrameUnusable(cache_frame_55fdedcf433fe12a488168fb5029a117)) {
+        Py_XDECREF(cache_frame_55fdedcf433fe12a488168fb5029a117);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_7c877a147accaf67fe966947d245af3a == NULL) {
+        if (cache_frame_55fdedcf433fe12a488168fb5029a117 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_7c877a147accaf67fe966947d245af3a = MAKE_FUNCTION_FRAME(codeobj_7c877a147accaf67fe966947d245af3a, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_55fdedcf433fe12a488168fb5029a117 = MAKE_FUNCTION_FRAME(codeobj_55fdedcf433fe12a488168fb5029a117, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_7c877a147accaf67fe966947d245af3a->m_type_description == NULL);
-    frame_7c877a147accaf67fe966947d245af3a = cache_frame_7c877a147accaf67fe966947d245af3a;
+    assert(cache_frame_55fdedcf433fe12a488168fb5029a117->m_type_description == NULL);
+    frame_55fdedcf433fe12a488168fb5029a117 = cache_frame_55fdedcf433fe12a488168fb5029a117;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_7c877a147accaf67fe966947d245af3a);
+    pushFrameStack(frame_55fdedcf433fe12a488168fb5029a117);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_7c877a147accaf67fe966947d245af3a) == 2); // Frame stack
+    assert(Py_REFCNT(frame_55fdedcf433fe12a488168fb5029a117) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -14845,7 +14845,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
         tmp_list_element_1 = par_c;
         tmp_args_element_name_1 = PyList_New(1);
         PyList_SET_ITEM0(tmp_args_element_name_1, 0, tmp_list_element_1);
-        frame_7c877a147accaf67fe966947d245af3a->m_frame.f_lineno = 1426;
+        frame_55fdedcf433fe12a488168fb5029a117->m_frame.f_lineno = 1426;
         tmp_iter_arg_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[1], tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_iter_arg_1 == NULL) {
@@ -15036,7 +15036,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[111];
-        frame_7c877a147accaf67fe966947d245af3a->m_frame.f_lineno = 1428;
+        frame_55fdedcf433fe12a488168fb5029a117->m_frame.f_lineno = 1428;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -15210,7 +15210,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
         PyList_SET_ITEM(tmp_list_element_2, 0, tmp_list_element_3);
         tmp_args_element_name_2 = PyList_New(1);
         PyList_SET_ITEM(tmp_args_element_name_2, 0, tmp_list_element_2);
-        frame_7c877a147accaf67fe966947d245af3a->m_frame.f_lineno = 1430;
+        frame_55fdedcf433fe12a488168fb5029a117->m_frame.f_lineno = 1430;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_2);
@@ -15341,7 +15341,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         Py_DECREF(tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_7c877a147accaf67fe966947d245af3a->m_frame.f_lineno = 1433;
+        frame_55fdedcf433fe12a488168fb5029a117->m_frame.f_lineno = 1433;
         tmp_assign_source_5 = CALL_FUNCTION(tmp_called_name_2, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_name_1);
@@ -15492,7 +15492,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
             }
             tmp_args_element_name_6 = mod_consts[4];
             tmp_args_element_name_7 = mod_consts[5];
-            frame_7c877a147accaf67fe966947d245af3a->m_frame.f_lineno = 1434;
+            frame_55fdedcf433fe12a488168fb5029a117->m_frame.f_lineno = 1434;
             {
                 PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6, tmp_args_element_name_7};
                 tmp_args_element_name_4 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_5, call_args);
@@ -15510,7 +15510,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
                 type_description_1 = "oooooo";
                 goto tuple_build_exception_1;
             }
-            frame_7c877a147accaf67fe966947d245af3a->m_frame.f_lineno = 1434;
+            frame_55fdedcf433fe12a488168fb5029a117->m_frame.f_lineno = 1434;
             tmp_right_name_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_4);
             Py_DECREF(tmp_called_name_4);
             Py_DECREF(tmp_args_element_name_4);
@@ -15546,7 +15546,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
         goto frame_exception_exit_1;
         // Finished with no exception for tuple_build:
         tuple_build_noexception_1:;
-        frame_7c877a147accaf67fe966947d245af3a->m_frame.f_lineno = 1434;
+        frame_55fdedcf433fe12a488168fb5029a117->m_frame.f_lineno = 1434;
         tmp_assign_source_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_3);
@@ -15599,7 +15599,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
         }
         CHECK_OBJECT(var_scl);
         tmp_args_element_name_8 = var_scl;
-        frame_7c877a147accaf67fe966947d245af3a->m_frame.f_lineno = 1435;
+        frame_55fdedcf433fe12a488168fb5029a117->m_frame.f_lineno = 1435;
         tmp_expression_name_9 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[118], tmp_args_element_name_8);
         Py_DECREF(tmp_called_instance_2);
         if (tmp_expression_name_9 == NULL) {
@@ -15644,7 +15644,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
         PyObject *tmp_right_name_5;
         CHECK_OBJECT(var_mat);
         tmp_called_instance_3 = var_mat;
-        frame_7c877a147accaf67fe966947d245af3a->m_frame.f_lineno = 1436;
+        frame_55fdedcf433fe12a488168fb5029a117->m_frame.f_lineno = 1436;
         tmp_expression_name_11 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_3,
             mod_consts[88],
@@ -15730,7 +15730,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
         }
 
         tmp_called_instance_4 = var_mat;
-        frame_7c877a147accaf67fe966947d245af3a->m_frame.f_lineno = 1437;
+        frame_55fdedcf433fe12a488168fb5029a117->m_frame.f_lineno = 1437;
         tmp_expression_name_12 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_4,
             mod_consts[88],
@@ -15885,7 +15885,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
         }
 
         tmp_args_element_name_11 = var_n;
-        frame_7c877a147accaf67fe966947d245af3a->m_frame.f_lineno = 1438;
+        frame_55fdedcf433fe12a488168fb5029a117->m_frame.f_lineno = 1438;
         {
             PyObject *call_args[] = {tmp_args_element_name_10, tmp_args_element_name_11};
             tmp_args_element_name_9 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_7, call_args);
@@ -15902,7 +15902,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_7c877a147accaf67fe966947d245af3a->m_frame.f_lineno = 1438;
+        frame_55fdedcf433fe12a488168fb5029a117->m_frame.f_lineno = 1438;
         tmp_ass_subvalue_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_9);
         Py_DECREF(tmp_called_name_6);
         Py_DECREF(tmp_args_element_name_9);
@@ -16197,7 +16197,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
     goto frame_return_exit_1;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_7c877a147accaf67fe966947d245af3a);
+    RESTORE_FRAME_EXCEPTION(frame_55fdedcf433fe12a488168fb5029a117);
 #endif
 
     // Put the previous frame back on top.
@@ -16207,7 +16207,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_7c877a147accaf67fe966947d245af3a);
+    RESTORE_FRAME_EXCEPTION(frame_55fdedcf433fe12a488168fb5029a117);
 #endif
 
     // Put the previous frame back on top.
@@ -16218,18 +16218,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_7c877a147accaf67fe966947d245af3a);
+    RESTORE_FRAME_EXCEPTION(frame_55fdedcf433fe12a488168fb5029a117);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_7c877a147accaf67fe966947d245af3a, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_7c877a147accaf67fe966947d245af3a->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_7c877a147accaf67fe966947d245af3a, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_55fdedcf433fe12a488168fb5029a117, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_55fdedcf433fe12a488168fb5029a117->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_55fdedcf433fe12a488168fb5029a117, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_7c877a147accaf67fe966947d245af3a,
+        frame_55fdedcf433fe12a488168fb5029a117,
         type_description_1,
         par_c,
         var_n,
@@ -16241,17 +16241,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__22_hermecompanion(s
 
 
     // Release cached frame if used for exception.
-    if (frame_7c877a147accaf67fe966947d245af3a == cache_frame_7c877a147accaf67fe966947d245af3a) {
+    if (frame_55fdedcf433fe12a488168fb5029a117 == cache_frame_55fdedcf433fe12a488168fb5029a117) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_7c877a147accaf67fe966947d245af3a);
-        cache_frame_7c877a147accaf67fe966947d245af3a = NULL;
+        Py_DECREF(cache_frame_55fdedcf433fe12a488168fb5029a117);
+        cache_frame_55fdedcf433fe12a488168fb5029a117 = NULL;
     }
 
-    assertFrameObject(frame_7c877a147accaf67fe966947d245af3a);
+    assertFrameObject(frame_55fdedcf433fe12a488168fb5029a117);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -16342,7 +16342,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__23_hermeroots(struc
     PyObject *var_r = NULL;
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_164ddd5cf1b6ce658b9949df595e3fab;
+    struct Nuitka_FrameObject *frame_d2c825a32c7ea8c0ba19cd340ab02926;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -16360,7 +16360,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__23_hermeroots(struc
     PyObject *tmp_return_value = NULL;
     int tmp_res;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_164ddd5cf1b6ce658b9949df595e3fab = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d2c825a32c7ea8c0ba19cd340ab02926 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -16368,31 +16368,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__23_hermeroots(struc
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_164ddd5cf1b6ce658b9949df595e3fab)) {
-        Py_XDECREF(cache_frame_164ddd5cf1b6ce658b9949df595e3fab);
+    if (isFrameUnusable(cache_frame_d2c825a32c7ea8c0ba19cd340ab02926)) {
+        Py_XDECREF(cache_frame_d2c825a32c7ea8c0ba19cd340ab02926);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_164ddd5cf1b6ce658b9949df595e3fab == NULL) {
+        if (cache_frame_d2c825a32c7ea8c0ba19cd340ab02926 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_164ddd5cf1b6ce658b9949df595e3fab = MAKE_FUNCTION_FRAME(codeobj_164ddd5cf1b6ce658b9949df595e3fab, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_d2c825a32c7ea8c0ba19cd340ab02926 = MAKE_FUNCTION_FRAME(codeobj_d2c825a32c7ea8c0ba19cd340ab02926, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_164ddd5cf1b6ce658b9949df595e3fab->m_type_description == NULL);
-    frame_164ddd5cf1b6ce658b9949df595e3fab = cache_frame_164ddd5cf1b6ce658b9949df595e3fab;
+    assert(cache_frame_d2c825a32c7ea8c0ba19cd340ab02926->m_type_description == NULL);
+    frame_d2c825a32c7ea8c0ba19cd340ab02926 = cache_frame_d2c825a32c7ea8c0ba19cd340ab02926;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_164ddd5cf1b6ce658b9949df595e3fab);
+    pushFrameStack(frame_d2c825a32c7ea8c0ba19cd340ab02926);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_164ddd5cf1b6ce658b9949df595e3fab) == 2); // Frame stack
+    assert(Py_REFCNT(frame_d2c825a32c7ea8c0ba19cd340ab02926) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -16422,7 +16422,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__23_hermeroots(struc
         tmp_list_element_1 = par_c;
         tmp_args_element_name_1 = PyList_New(1);
         PyList_SET_ITEM0(tmp_args_element_name_1, 0, tmp_list_element_1);
-        frame_164ddd5cf1b6ce658b9949df595e3fab->m_frame.f_lineno = 1495;
+        frame_d2c825a32c7ea8c0ba19cd340ab02926->m_frame.f_lineno = 1495;
         tmp_iter_arg_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[1], tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_iter_arg_1 == NULL) {
@@ -16676,7 +16676,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__23_hermeroots(struc
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         Py_DECREF(tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_164ddd5cf1b6ce658b9949df595e3fab->m_frame.f_lineno = 1497;
+        frame_d2c825a32c7ea8c0ba19cd340ab02926->m_frame.f_lineno = 1497;
         tmp_return_value = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -16855,7 +16855,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__23_hermeroots(struc
         }
         tmp_args_element_name_2 = PyList_New(1);
         PyList_SET_ITEM(tmp_args_element_name_2, 0, tmp_list_element_2);
-        frame_164ddd5cf1b6ce658b9949df595e3fab->m_frame.f_lineno = 1499;
+        frame_d2c825a32c7ea8c0ba19cd340ab02926->m_frame.f_lineno = 1499;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_2);
@@ -16907,7 +16907,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__23_hermeroots(struc
         }
 
         tmp_args_element_name_3 = par_c;
-        frame_164ddd5cf1b6ce658b9949df595e3fab->m_frame.f_lineno = 1502;
+        frame_d2c825a32c7ea8c0ba19cd340ab02926->m_frame.f_lineno = 1502;
         tmp_expression_name_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
         if (tmp_expression_name_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -16957,7 +16957,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__23_hermeroots(struc
         }
         CHECK_OBJECT(var_m);
         tmp_args_element_name_4 = var_m;
-        frame_164ddd5cf1b6ce658b9949df595e3fab->m_frame.f_lineno = 1503;
+        frame_d2c825a32c7ea8c0ba19cd340ab02926->m_frame.f_lineno = 1503;
         tmp_assign_source_5 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[130], tmp_args_element_name_4);
         if (tmp_assign_source_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -16977,7 +16977,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__23_hermeroots(struc
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(var_r);
         tmp_called_instance_3 = var_r;
-        frame_164ddd5cf1b6ce658b9949df595e3fab->m_frame.f_lineno = 1504;
+        frame_d2c825a32c7ea8c0ba19cd340ab02926->m_frame.f_lineno = 1504;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_3, mod_consts[131]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -17008,7 +17008,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__23_hermeroots(struc
     goto frame_return_exit_1;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_164ddd5cf1b6ce658b9949df595e3fab);
+    RESTORE_FRAME_EXCEPTION(frame_d2c825a32c7ea8c0ba19cd340ab02926);
 #endif
 
     // Put the previous frame back on top.
@@ -17018,7 +17018,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__23_hermeroots(struc
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_164ddd5cf1b6ce658b9949df595e3fab);
+    RESTORE_FRAME_EXCEPTION(frame_d2c825a32c7ea8c0ba19cd340ab02926);
 #endif
 
     // Put the previous frame back on top.
@@ -17029,18 +17029,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__23_hermeroots(struc
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_164ddd5cf1b6ce658b9949df595e3fab);
+    RESTORE_FRAME_EXCEPTION(frame_d2c825a32c7ea8c0ba19cd340ab02926);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_164ddd5cf1b6ce658b9949df595e3fab, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_164ddd5cf1b6ce658b9949df595e3fab->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_164ddd5cf1b6ce658b9949df595e3fab, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d2c825a32c7ea8c0ba19cd340ab02926, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d2c825a32c7ea8c0ba19cd340ab02926->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d2c825a32c7ea8c0ba19cd340ab02926, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_164ddd5cf1b6ce658b9949df595e3fab,
+        frame_d2c825a32c7ea8c0ba19cd340ab02926,
         type_description_1,
         par_c,
         var_m,
@@ -17049,17 +17049,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__23_hermeroots(struc
 
 
     // Release cached frame if used for exception.
-    if (frame_164ddd5cf1b6ce658b9949df595e3fab == cache_frame_164ddd5cf1b6ce658b9949df595e3fab) {
+    if (frame_d2c825a32c7ea8c0ba19cd340ab02926 == cache_frame_d2c825a32c7ea8c0ba19cd340ab02926) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_164ddd5cf1b6ce658b9949df595e3fab);
-        cache_frame_164ddd5cf1b6ce658b9949df595e3fab = NULL;
+        Py_DECREF(cache_frame_d2c825a32c7ea8c0ba19cd340ab02926);
+        cache_frame_d2c825a32c7ea8c0ba19cd340ab02926 = NULL;
     }
 
-    assertFrameObject(frame_164ddd5cf1b6ce658b9949df595e3fab);
+    assertFrameObject(frame_d2c825a32c7ea8c0ba19cd340ab02926);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -17142,7 +17142,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__24__normed_hermite_
     PyObject *var_tmp = NULL;
     PyObject *tmp_for_loop_1__for_iterator = NULL;
     PyObject *tmp_for_loop_1__iter_value = NULL;
-    struct Nuitka_FrameObject *frame_4e60c65490ab15ea5639a63e0120a729;
+    struct Nuitka_FrameObject *frame_a9c488472932a2d1ba9c4b2a2191f2e0;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -17153,7 +17153,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__24__normed_hermite_
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_1;
-    static struct Nuitka_FrameObject *cache_frame_4e60c65490ab15ea5639a63e0120a729 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_a9c488472932a2d1ba9c4b2a2191f2e0 = NULL;
     PyObject *exception_keeper_type_2;
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
@@ -17161,31 +17161,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__24__normed_hermite_
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_4e60c65490ab15ea5639a63e0120a729)) {
-        Py_XDECREF(cache_frame_4e60c65490ab15ea5639a63e0120a729);
+    if (isFrameUnusable(cache_frame_a9c488472932a2d1ba9c4b2a2191f2e0)) {
+        Py_XDECREF(cache_frame_a9c488472932a2d1ba9c4b2a2191f2e0);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_4e60c65490ab15ea5639a63e0120a729 == NULL) {
+        if (cache_frame_a9c488472932a2d1ba9c4b2a2191f2e0 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_4e60c65490ab15ea5639a63e0120a729 = MAKE_FUNCTION_FRAME(codeobj_4e60c65490ab15ea5639a63e0120a729, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_a9c488472932a2d1ba9c4b2a2191f2e0 = MAKE_FUNCTION_FRAME(codeobj_a9c488472932a2d1ba9c4b2a2191f2e0, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_4e60c65490ab15ea5639a63e0120a729->m_type_description == NULL);
-    frame_4e60c65490ab15ea5639a63e0120a729 = cache_frame_4e60c65490ab15ea5639a63e0120a729;
+    assert(cache_frame_a9c488472932a2d1ba9c4b2a2191f2e0->m_type_description == NULL);
+    frame_a9c488472932a2d1ba9c4b2a2191f2e0 = cache_frame_a9c488472932a2d1ba9c4b2a2191f2e0;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_4e60c65490ab15ea5639a63e0120a729);
+    pushFrameStack(frame_a9c488472932a2d1ba9c4b2a2191f2e0);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_4e60c65490ab15ea5639a63e0120a729) == 2); // Frame stack
+    assert(Py_REFCNT(frame_a9c488472932a2d1ba9c4b2a2191f2e0) == 2); // Frame stack
 
     // Framed code:
     {
@@ -17395,7 +17395,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__24__normed_hermite_
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_4e60c65490ab15ea5639a63e0120a729->m_frame.f_lineno = 1538;
+        frame_a9c488472932a2d1ba9c4b2a2191f2e0->m_frame.f_lineno = 1538;
         tmp_args_element_name_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_4);
@@ -17411,7 +17411,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__24__normed_hermite_
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_4e60c65490ab15ea5639a63e0120a729->m_frame.f_lineno = 1538;
+        frame_a9c488472932a2d1ba9c4b2a2191f2e0->m_frame.f_lineno = 1538;
         tmp_right_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_3);
@@ -17439,7 +17439,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__24__normed_hermite_
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_4e60c65490ab15ea5639a63e0120a729->m_frame.f_lineno = 1538;
+        frame_a9c488472932a2d1ba9c4b2a2191f2e0->m_frame.f_lineno = 1538;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -17579,7 +17579,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__24__normed_hermite_
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_4e60c65490ab15ea5639a63e0120a729->m_frame.f_lineno = 1541;
+        frame_a9c488472932a2d1ba9c4b2a2191f2e0->m_frame.f_lineno = 1541;
         tmp_args_element_name_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_5);
         Py_DECREF(tmp_args_element_name_6);
@@ -17593,7 +17593,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__24__normed_hermite_
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_4e60c65490ab15ea5639a63e0120a729->m_frame.f_lineno = 1541;
+        frame_a9c488472932a2d1ba9c4b2a2191f2e0->m_frame.f_lineno = 1541;
         tmp_right_name_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_5);
         Py_DECREF(tmp_called_name_4);
         Py_DECREF(tmp_args_element_name_5);
@@ -17880,7 +17880,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__24__normed_hermite_
             type_description_1 = "ooooooo";
             goto try_except_handler_2;
         }
-        frame_4e60c65490ab15ea5639a63e0120a729->m_frame.f_lineno = 1545;
+        frame_a9c488472932a2d1ba9c4b2a2191f2e0->m_frame.f_lineno = 1545;
         tmp_right_name_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_6);
         Py_DECREF(tmp_args_element_name_7);
@@ -18020,7 +18020,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__24__normed_hermite_
             type_description_1 = "ooooooo";
             goto try_except_handler_2;
         }
-        frame_4e60c65490ab15ea5639a63e0120a729->m_frame.f_lineno = 1546;
+        frame_a9c488472932a2d1ba9c4b2a2191f2e0->m_frame.f_lineno = 1546;
         tmp_right_name_11 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_7, tmp_args_element_name_8);
         Py_DECREF(tmp_called_name_7);
         Py_DECREF(tmp_args_element_name_8);
@@ -18214,7 +18214,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__24__normed_hermite_
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4e60c65490ab15ea5639a63e0120a729);
+    RESTORE_FRAME_EXCEPTION(frame_a9c488472932a2d1ba9c4b2a2191f2e0);
 #endif
 
     // Put the previous frame back on top.
@@ -18224,7 +18224,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__24__normed_hermite_
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4e60c65490ab15ea5639a63e0120a729);
+    RESTORE_FRAME_EXCEPTION(frame_a9c488472932a2d1ba9c4b2a2191f2e0);
 #endif
 
     // Put the previous frame back on top.
@@ -18235,18 +18235,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__24__normed_hermite_
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4e60c65490ab15ea5639a63e0120a729);
+    RESTORE_FRAME_EXCEPTION(frame_a9c488472932a2d1ba9c4b2a2191f2e0);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_4e60c65490ab15ea5639a63e0120a729, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_4e60c65490ab15ea5639a63e0120a729->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_4e60c65490ab15ea5639a63e0120a729, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_a9c488472932a2d1ba9c4b2a2191f2e0, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_a9c488472932a2d1ba9c4b2a2191f2e0->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_a9c488472932a2d1ba9c4b2a2191f2e0, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_4e60c65490ab15ea5639a63e0120a729,
+        frame_a9c488472932a2d1ba9c4b2a2191f2e0,
         type_description_1,
         par_x,
         par_n,
@@ -18259,17 +18259,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__24__normed_hermite_
 
 
     // Release cached frame if used for exception.
-    if (frame_4e60c65490ab15ea5639a63e0120a729 == cache_frame_4e60c65490ab15ea5639a63e0120a729) {
+    if (frame_a9c488472932a2d1ba9c4b2a2191f2e0 == cache_frame_a9c488472932a2d1ba9c4b2a2191f2e0) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_4e60c65490ab15ea5639a63e0120a729);
-        cache_frame_4e60c65490ab15ea5639a63e0120a729 = NULL;
+        Py_DECREF(cache_frame_a9c488472932a2d1ba9c4b2a2191f2e0);
+        cache_frame_a9c488472932a2d1ba9c4b2a2191f2e0 = NULL;
     }
 
-    assertFrameObject(frame_4e60c65490ab15ea5639a63e0120a729);
+    assertFrameObject(frame_a9c488472932a2d1ba9c4b2a2191f2e0);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -18368,14 +18368,14 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
     PyObject *var_df = NULL;
     PyObject *var_fm = NULL;
     PyObject *var_w = NULL;
-    struct Nuitka_FrameObject *frame_ff3a994aa8b93c2f575134c02f1a5351;
+    struct Nuitka_FrameObject *frame_8388f76ef3f03c730942b83005e2247d;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_ff3a994aa8b93c2f575134c02f1a5351 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_8388f76ef3f03c730942b83005e2247d = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -18384,31 +18384,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ff3a994aa8b93c2f575134c02f1a5351)) {
-        Py_XDECREF(cache_frame_ff3a994aa8b93c2f575134c02f1a5351);
+    if (isFrameUnusable(cache_frame_8388f76ef3f03c730942b83005e2247d)) {
+        Py_XDECREF(cache_frame_8388f76ef3f03c730942b83005e2247d);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ff3a994aa8b93c2f575134c02f1a5351 == NULL) {
+        if (cache_frame_8388f76ef3f03c730942b83005e2247d == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ff3a994aa8b93c2f575134c02f1a5351 = MAKE_FUNCTION_FRAME(codeobj_ff3a994aa8b93c2f575134c02f1a5351, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_8388f76ef3f03c730942b83005e2247d = MAKE_FUNCTION_FRAME(codeobj_8388f76ef3f03c730942b83005e2247d, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ff3a994aa8b93c2f575134c02f1a5351->m_type_description == NULL);
-    frame_ff3a994aa8b93c2f575134c02f1a5351 = cache_frame_ff3a994aa8b93c2f575134c02f1a5351;
+    assert(cache_frame_8388f76ef3f03c730942b83005e2247d->m_type_description == NULL);
+    frame_8388f76ef3f03c730942b83005e2247d = cache_frame_8388f76ef3f03c730942b83005e2247d;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ff3a994aa8b93c2f575134c02f1a5351);
+    pushFrameStack(frame_8388f76ef3f03c730942b83005e2247d);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ff3a994aa8b93c2f575134c02f1a5351) == 2); // Frame stack
+    assert(Py_REFCNT(frame_8388f76ef3f03c730942b83005e2247d) == 2); // Frame stack
 
     // Framed code:
     {
@@ -18435,7 +18435,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
         CHECK_OBJECT(par_deg);
         tmp_args_element_name_1 = par_deg;
         tmp_args_element_name_2 = mod_consts[98];
-        frame_ff3a994aa8b93c2f575134c02f1a5351->m_frame.f_lineno = 1587;
+        frame_8388f76ef3f03c730942b83005e2247d->m_frame.f_lineno = 1587;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_1 = CALL_METHOD_WITH_ARGS2(
@@ -18502,7 +18502,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[137];
-        frame_ff3a994aa8b93c2f575134c02f1a5351->m_frame.f_lineno = 1589;
+        frame_8388f76ef3f03c730942b83005e2247d->m_frame.f_lineno = 1589;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -18589,7 +18589,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
             type_description_1 = "ooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_ff3a994aa8b93c2f575134c02f1a5351->m_frame.f_lineno = 1593;
+        frame_8388f76ef3f03c730942b83005e2247d->m_frame.f_lineno = 1593;
         tmp_assign_source_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_3);
@@ -18628,7 +18628,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
         }
         CHECK_OBJECT(var_c);
         tmp_args_element_name_4 = var_c;
-        frame_ff3a994aa8b93c2f575134c02f1a5351->m_frame.f_lineno = 1594;
+        frame_8388f76ef3f03c730942b83005e2247d->m_frame.f_lineno = 1594;
         tmp_assign_source_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_4);
         if (tmp_assign_source_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -18665,7 +18665,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
         }
         CHECK_OBJECT(var_m);
         tmp_args_element_name_5 = var_m;
-        frame_ff3a994aa8b93c2f575134c02f1a5351->m_frame.f_lineno = 1595;
+        frame_8388f76ef3f03c730942b83005e2247d->m_frame.f_lineno = 1595;
         tmp_assign_source_4 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[139], tmp_args_element_name_5);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -18705,7 +18705,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
         tmp_args_element_name_6 = var_x;
         CHECK_OBJECT(var_ideg);
         tmp_args_element_name_7 = var_ideg;
-        frame_ff3a994aa8b93c2f575134c02f1a5351->m_frame.f_lineno = 1598;
+        frame_8388f76ef3f03c730942b83005e2247d->m_frame.f_lineno = 1598;
         {
             PyObject *call_args[] = {tmp_args_element_name_6, tmp_args_element_name_7};
             tmp_assign_source_5 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -18768,7 +18768,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
             type_description_1 = "ooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_ff3a994aa8b93c2f575134c02f1a5351->m_frame.f_lineno = 1599;
+        frame_8388f76ef3f03c730942b83005e2247d->m_frame.f_lineno = 1599;
         {
             PyObject *call_args[] = {tmp_args_element_name_8, tmp_args_element_name_9};
             tmp_left_name_3 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -18826,7 +18826,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
         }
 
         tmp_args_element_name_10 = var_ideg;
-        frame_ff3a994aa8b93c2f575134c02f1a5351->m_frame.f_lineno = 1599;
+        frame_8388f76ef3f03c730942b83005e2247d->m_frame.f_lineno = 1599;
         tmp_right_name_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_10);
         Py_DECREF(tmp_called_name_5);
         if (tmp_right_name_4 == NULL) {
@@ -18944,7 +18944,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
             type_description_1 = "ooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_ff3a994aa8b93c2f575134c02f1a5351->m_frame.f_lineno = 1604;
+        frame_8388f76ef3f03c730942b83005e2247d->m_frame.f_lineno = 1604;
         {
             PyObject *call_args[] = {tmp_args_element_name_11, tmp_args_element_name_12};
             tmp_assign_source_8 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_6, call_args);
@@ -18991,7 +18991,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
         }
         CHECK_OBJECT(var_fm);
         tmp_args_element_name_13 = var_fm;
-        frame_ff3a994aa8b93c2f575134c02f1a5351->m_frame.f_lineno = 1605;
+        frame_8388f76ef3f03c730942b83005e2247d->m_frame.f_lineno = 1605;
         tmp_called_instance_3 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_4, mod_consts[141], tmp_args_element_name_13);
         if (tmp_called_instance_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -19003,7 +19003,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
             type_description_1 = "ooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_ff3a994aa8b93c2f575134c02f1a5351->m_frame.f_lineno = 1605;
+        frame_8388f76ef3f03c730942b83005e2247d->m_frame.f_lineno = 1605;
         tmp_right_name_8 = CALL_METHOD_NO_ARGS(tmp_called_instance_3, mod_consts[142]);
         Py_DECREF(tmp_called_instance_3);
         if (tmp_right_name_8 == NULL) {
@@ -19263,7 +19263,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
             type_description_1 = "ooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_ff3a994aa8b93c2f575134c02f1a5351->m_frame.f_lineno = 1613;
+        frame_8388f76ef3f03c730942b83005e2247d->m_frame.f_lineno = 1613;
         tmp_left_name_16 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_7, tmp_args_element_name_14);
         Py_DECREF(tmp_called_name_7);
         Py_DECREF(tmp_args_element_name_14);
@@ -19279,7 +19279,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
         }
         CHECK_OBJECT(var_w);
         tmp_called_instance_5 = var_w;
-        frame_ff3a994aa8b93c2f575134c02f1a5351->m_frame.f_lineno = 1613;
+        frame_8388f76ef3f03c730942b83005e2247d->m_frame.f_lineno = 1613;
         tmp_right_name_17 = CALL_METHOD_NO_ARGS(tmp_called_instance_5, mod_consts[143]);
         if (tmp_right_name_17 == NULL) {
             assert(ERROR_OCCURRED());
@@ -19322,7 +19322,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ff3a994aa8b93c2f575134c02f1a5351);
+    RESTORE_FRAME_EXCEPTION(frame_8388f76ef3f03c730942b83005e2247d);
 #endif
 
     // Put the previous frame back on top.
@@ -19333,18 +19333,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ff3a994aa8b93c2f575134c02f1a5351);
+    RESTORE_FRAME_EXCEPTION(frame_8388f76ef3f03c730942b83005e2247d);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ff3a994aa8b93c2f575134c02f1a5351, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ff3a994aa8b93c2f575134c02f1a5351->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ff3a994aa8b93c2f575134c02f1a5351, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_8388f76ef3f03c730942b83005e2247d, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_8388f76ef3f03c730942b83005e2247d->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_8388f76ef3f03c730942b83005e2247d, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ff3a994aa8b93c2f575134c02f1a5351,
+        frame_8388f76ef3f03c730942b83005e2247d,
         type_description_1,
         par_deg,
         var_ideg,
@@ -19359,17 +19359,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__25_hermegauss(struc
 
 
     // Release cached frame if used for exception.
-    if (frame_ff3a994aa8b93c2f575134c02f1a5351 == cache_frame_ff3a994aa8b93c2f575134c02f1a5351) {
+    if (frame_8388f76ef3f03c730942b83005e2247d == cache_frame_8388f76ef3f03c730942b83005e2247d) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ff3a994aa8b93c2f575134c02f1a5351);
-        cache_frame_ff3a994aa8b93c2f575134c02f1a5351 = NULL;
+        Py_DECREF(cache_frame_8388f76ef3f03c730942b83005e2247d);
+        cache_frame_8388f76ef3f03c730942b83005e2247d = NULL;
     }
 
-    assertFrameObject(frame_ff3a994aa8b93c2f575134c02f1a5351);
+    assertFrameObject(frame_8388f76ef3f03c730942b83005e2247d);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -19483,13 +19483,13 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__26_hermeweight(stru
     // Local variable declarations.
     PyObject *par_x = python_pars[0];
     PyObject *var_w = NULL;
-    struct Nuitka_FrameObject *frame_ce88bb2f3be731428a5d14c4f3a14da2;
+    struct Nuitka_FrameObject *frame_92f1eee319f1b6986816e55281620076;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_ce88bb2f3be731428a5d14c4f3a14da2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_92f1eee319f1b6986816e55281620076 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -19498,31 +19498,31 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__26_hermeweight(stru
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ce88bb2f3be731428a5d14c4f3a14da2)) {
-        Py_XDECREF(cache_frame_ce88bb2f3be731428a5d14c4f3a14da2);
+    if (isFrameUnusable(cache_frame_92f1eee319f1b6986816e55281620076)) {
+        Py_XDECREF(cache_frame_92f1eee319f1b6986816e55281620076);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ce88bb2f3be731428a5d14c4f3a14da2 == NULL) {
+        if (cache_frame_92f1eee319f1b6986816e55281620076 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ce88bb2f3be731428a5d14c4f3a14da2 = MAKE_FUNCTION_FRAME(codeobj_ce88bb2f3be731428a5d14c4f3a14da2, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *));
+        cache_frame_92f1eee319f1b6986816e55281620076 = MAKE_FUNCTION_FRAME(codeobj_92f1eee319f1b6986816e55281620076, module_numpy$polynomial$hermite_e, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ce88bb2f3be731428a5d14c4f3a14da2->m_type_description == NULL);
-    frame_ce88bb2f3be731428a5d14c4f3a14da2 = cache_frame_ce88bb2f3be731428a5d14c4f3a14da2;
+    assert(cache_frame_92f1eee319f1b6986816e55281620076->m_type_description == NULL);
+    frame_92f1eee319f1b6986816e55281620076 = cache_frame_92f1eee319f1b6986816e55281620076;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ce88bb2f3be731428a5d14c4f3a14da2);
+    pushFrameStack(frame_92f1eee319f1b6986816e55281620076);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ce88bb2f3be731428a5d14c4f3a14da2) == 2); // Frame stack
+    assert(Py_REFCNT(frame_92f1eee319f1b6986816e55281620076) == 2); // Frame stack
 
     // Framed code:
     {
@@ -19588,7 +19588,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__26_hermeweight(stru
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_ce88bb2f3be731428a5d14c4f3a14da2->m_frame.f_lineno = 1641;
+        frame_92f1eee319f1b6986816e55281620076->m_frame.f_lineno = 1641;
         tmp_assign_source_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -19607,7 +19607,7 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__26_hermeweight(stru
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ce88bb2f3be731428a5d14c4f3a14da2);
+    RESTORE_FRAME_EXCEPTION(frame_92f1eee319f1b6986816e55281620076);
 #endif
 
     // Put the previous frame back on top.
@@ -19618,18 +19618,18 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__26_hermeweight(stru
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ce88bb2f3be731428a5d14c4f3a14da2);
+    RESTORE_FRAME_EXCEPTION(frame_92f1eee319f1b6986816e55281620076);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ce88bb2f3be731428a5d14c4f3a14da2, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ce88bb2f3be731428a5d14c4f3a14da2->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ce88bb2f3be731428a5d14c4f3a14da2, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_92f1eee319f1b6986816e55281620076, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_92f1eee319f1b6986816e55281620076->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_92f1eee319f1b6986816e55281620076, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ce88bb2f3be731428a5d14c4f3a14da2,
+        frame_92f1eee319f1b6986816e55281620076,
         type_description_1,
         par_x,
         var_w
@@ -19637,17 +19637,17 @@ static PyObject *impl_numpy$polynomial$hermite_e$$$function__26_hermeweight(stru
 
 
     // Release cached frame if used for exception.
-    if (frame_ce88bb2f3be731428a5d14c4f3a14da2 == cache_frame_ce88bb2f3be731428a5d14c4f3a14da2) {
+    if (frame_92f1eee319f1b6986816e55281620076 == cache_frame_92f1eee319f1b6986816e55281620076) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ce88bb2f3be731428a5d14c4f3a14da2);
-        cache_frame_ce88bb2f3be731428a5d14c4f3a14da2 = NULL;
+        Py_DECREF(cache_frame_92f1eee319f1b6986816e55281620076);
+        cache_frame_92f1eee319f1b6986816e55281620076 = NULL;
     }
 
-    assertFrameObject(frame_ce88bb2f3be731428a5d14c4f3a14da2);
+    assertFrameObject(frame_92f1eee319f1b6986816e55281620076);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -19717,11 +19717,11 @@ function_return_exit:
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__10_hermepow(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__10_hermepow,
-        mod_consts[182],
+        mod_consts[181],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_088ae9d5746b85e2cb2f6312668fcaa6,
+        codeobj_eb1125260c20eeaba92a384c1d644378,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19742,11 +19742,11 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__10_hermepo
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__11_hermeder(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__11_hermeder,
-        mod_consts[184],
+        mod_consts[183],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_3849c022c90a7c1bc636faa9017ceaf6,
+        codeobj_0368cad455830a54fd4455c16df91f07,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19767,11 +19767,11 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__11_hermede
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__12_hermeint(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__12_hermeint,
-        mod_consts[185],
+        mod_consts[184],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_b2ee831a4bd105458d2d39e8ad1953af,
+        codeobj_151b12d4a98ee1d7b3a5150214c79c52,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19796,7 +19796,7 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__13_hermeva
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_6083095c48b2b9de91fea7ee980ce896,
+        codeobj_103c01067e9ff0655d00456af16f7349,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19817,11 +19817,11 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__13_hermeva
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__14_hermeval2d() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__14_hermeval2d,
-        mod_consts[187],
+        mod_consts[186],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_68f9de020447265387802f30ee295973,
+        codeobj_d1c3414d9b9c2d8b28d2556ee9aec9c6,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19842,11 +19842,11 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__14_hermeva
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__15_hermegrid2d() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__15_hermegrid2d,
-        mod_consts[188],
+        mod_consts[187],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_fb833962e5dc46ec9680eb937369bb6b,
+        codeobj_c77040956e043225cee177cdee24e783,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19867,11 +19867,11 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__15_hermegr
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__16_hermeval3d() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__16_hermeval3d,
-        mod_consts[189],
+        mod_consts[188],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_60eff48dc76dbe6a89d91488c37a6120,
+        codeobj_654f03f477fd4e0df5c6028f6a6ad808,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19892,11 +19892,11 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__16_hermeva
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__17_hermegrid3d() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__17_hermegrid3d,
-        mod_consts[190],
+        mod_consts[189],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_6c3f2de31a04e2276bfcb6f82427215b,
+        codeobj_efe4762ae33a4ec6293a703ffa74eb7d,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19921,7 +19921,7 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__18_hermeva
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_71fbb9cabffe8652a36ba54c7da45392,
+        codeobj_a466e07a7abdfbcb1b738d8b414c279b,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19942,11 +19942,11 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__18_hermeva
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__19_hermevander2d() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__19_hermevander2d,
-        mod_consts[191],
+        mod_consts[190],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_78d2407c699a8843ee93abaa4e1941a7,
+        codeobj_acb2c3551c23ef3a029a0415957ec441,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19967,11 +19967,11 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__19_hermeva
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__1_poly2herme() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__1_poly2herme,
-        mod_consts[171],
+        mod_consts[170],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_9289fbea36b4290b20f697905b4f3a76,
+        codeobj_fa5d5df26f3a7ccd5ea60fe24f55d863,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -19992,11 +19992,11 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__1_poly2her
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__20_hermevander3d() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__20_hermevander3d,
-        mod_consts[192],
+        mod_consts[191],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_9f64d5886e1b5c989d30ef27a35d4fa2,
+        codeobj_3b10e618bc060fb4f2efa1e92cbb79cf,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20017,11 +20017,11 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__20_hermeva
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__21_hermefit(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__21_hermefit,
-        mod_consts[194],
+        mod_consts[193],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_ad19b7d4f7596d3521797b422829ec9a,
+        codeobj_8fda96da8d02ee59c10c5cfecdd7766f,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20046,7 +20046,7 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__22_hermeco
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_7c877a147accaf67fe966947d245af3a,
+        codeobj_55fdedcf433fe12a488168fb5029a117,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20067,11 +20067,11 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__22_hermeco
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__23_hermeroots() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__23_hermeroots,
-        mod_consts[195],
+        mod_consts[194],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_164ddd5cf1b6ce658b9949df595e3fab,
+        codeobj_d2c825a32c7ea8c0ba19cd340ab02926,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20096,7 +20096,7 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__24__normed
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_4e60c65490ab15ea5639a63e0120a729,
+        codeobj_a9c488472932a2d1ba9c4b2a2191f2e0,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20117,11 +20117,11 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__24__normed
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__25_hermegauss() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__25_hermegauss,
-        mod_consts[196],
+        mod_consts[195],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_ff3a994aa8b93c2f575134c02f1a5351,
+        codeobj_8388f76ef3f03c730942b83005e2247d,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20142,11 +20142,11 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__25_hermega
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__26_hermeweight() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__26_hermeweight,
-        mod_consts[197],
+        mod_consts[196],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_ce88bb2f3be731428a5d14c4f3a14da2,
+        codeobj_92f1eee319f1b6986816e55281620076,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20167,11 +20167,11 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__26_hermewe
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__2_herme2poly() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__2_herme2poly,
-        mod_consts[172],
+        mod_consts[171],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_886ca2a3cf78bcc98bba4ea5c74d3101,
+        codeobj_fa1f1d2de52ccf117031947edc73d0bf,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20196,7 +20196,7 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__3_hermelin
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_97353d6c9c2e039ab4a874e9e59d6c83,
+        codeobj_3a2851af2c6aaae4a1eaeb14301a1730,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20217,11 +20217,11 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__3_hermelin
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__4_hermefromroots() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__4_hermefromroots,
-        mod_consts[179],
+        mod_consts[178],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_d56d198af73fe1ef2d9d8605099ce70b,
+        codeobj_7adf5575ebebed720b5c7516469311dd,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20246,7 +20246,7 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__5_hermeadd
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_f8081532d3fd716c0acca51fb13e06e9,
+        codeobj_5cdb197f7fd7314488cc357d701696a9,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20271,7 +20271,7 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__6_hermesub
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_9d32a01a754f06fa5d2c50d12fcc1df4,
+        codeobj_edd2944e91854fec4f721d918013f69d,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20296,7 +20296,7 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__7_hermemul
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_13cca7a098bd153ee94547b305bc4a40,
+        codeobj_092e7a52213c3058ff6d95f8fc870d0c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20321,7 +20321,7 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__8_hermemul
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_3cf0b73d8206a74a96f981a92153dce1,
+        codeobj_585b31b0800a39d27193b4408e8a4752,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20342,11 +20342,11 @@ static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__8_hermemul
 static PyObject *MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__9_hermediv() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$polynomial$hermite_e$$$function__9_hermediv,
-        mod_consts[180],
+        mod_consts[179],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_60031184ec199feb2a1545a474ab422d,
+        codeobj_51643c154eb68b45643b37929fd0d450,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -20765,7 +20765,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
     PyObject *tmp_class_creation_1__class_decl_dict = NULL;
     PyObject *tmp_class_creation_1__metaclass = NULL;
     PyObject *tmp_class_creation_1__prepared = NULL;
-    struct Nuitka_FrameObject *frame_51e09126241e985eb8dc9355572274f7;
+    struct Nuitka_FrameObject *frame_af4a1f858a1e59fada76109e57f0a237;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -20777,9 +20777,9 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
     PyObject *tmp_dictdel_key;
     PyObject *locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649 = NULL;
     PyObject *tmp_dictset_value;
-    struct Nuitka_FrameObject *frame_02f6ed3e9366108b004eaa06268f5d25_2;
+    struct Nuitka_FrameObject *frame_caa09c5fdc6c32caf120acfd26c6a258_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_02f6ed3e9366108b004eaa06268f5d25_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_caa09c5fdc6c32caf120acfd26c6a258_2 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -20801,30 +20801,30 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[150];
-        UPDATE_STRING_DICT0(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[151], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[150], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_51e09126241e985eb8dc9355572274f7 = MAKE_MODULE_FRAME(codeobj_51e09126241e985eb8dc9355572274f7, module_numpy$polynomial$hermite_e);
+    frame_af4a1f858a1e59fada76109e57f0a237 = MAKE_MODULE_FRAME(codeobj_af4a1f858a1e59fada76109e57f0a237, module_numpy$polynomial$hermite_e);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_51e09126241e985eb8dc9355572274f7);
-    assert(Py_REFCNT(frame_51e09126241e985eb8dc9355572274f7) == 2);
+    pushFrameStack(frame_af4a1f858a1e59fada76109e57f0a237);
+    assert(Py_REFCNT(frame_af4a1f858a1e59fada76109e57f0a237) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[150];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[152]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[151]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[152]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[151]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[153], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[152], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -20840,14 +20840,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[152]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[151]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[152]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[151]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[154], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[153], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -20862,7 +20862,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[155], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[154], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -20871,12 +20871,12 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[156];
+        tmp_name_name_1 = mod_consts[155];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_numpy$polynomial$hermite_e;
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = Py_None;
         tmp_level_name_1 = mod_consts[4];
-        frame_51e09126241e985eb8dc9355572274f7->m_frame.f_lineno = 78;
+        frame_af4a1f858a1e59fada76109e57f0a237->m_frame.f_lineno = 78;
         tmp_assign_source_4 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -20898,12 +20898,12 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_2;
         PyObject *tmp_fromlist_name_2;
         PyObject *tmp_level_name_2;
-        tmp_name_name_2 = mod_consts[157];
+        tmp_name_name_2 = mod_consts[156];
         tmp_globals_arg_name_2 = (PyObject *)moduledict_numpy$polynomial$hermite_e;
         tmp_locals_arg_name_2 = Py_None;
         tmp_fromlist_name_2 = Py_None;
         tmp_level_name_2 = mod_consts[4];
-        frame_51e09126241e985eb8dc9355572274f7->m_frame.f_lineno = 79;
+        frame_af4a1f858a1e59fada76109e57f0a237->m_frame.f_lineno = 79;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -20919,11 +20919,11 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             tmp_assign_source_5 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_1,
                 (PyObject *)moduledict_numpy$polynomial$hermite_e,
-                mod_consts[158],
+                mod_consts[157],
                 mod_consts[4]
             );
         } else {
-            tmp_assign_source_5 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[158]);
+            tmp_assign_source_5 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[157]);
         }
 
         Py_DECREF(tmp_import_name_from_1);
@@ -20947,12 +20947,12 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_3;
         PyObject *tmp_fromlist_name_3;
         PyObject *tmp_level_name_3;
-        tmp_name_name_3 = mod_consts[159];
+        tmp_name_name_3 = mod_consts[158];
         tmp_globals_arg_name_3 = (PyObject *)moduledict_numpy$polynomial$hermite_e;
         tmp_locals_arg_name_3 = Py_None;
-        tmp_fromlist_name_3 = mod_consts[160];
+        tmp_fromlist_name_3 = mod_consts[159];
         tmp_level_name_3 = mod_consts[4];
-        frame_51e09126241e985eb8dc9355572274f7->m_frame.f_lineno = 80;
+        frame_af4a1f858a1e59fada76109e57f0a237->m_frame.f_lineno = 80;
         tmp_import_name_from_2 = IMPORT_MODULE5(tmp_name_name_3, tmp_globals_arg_name_3, tmp_locals_arg_name_3, tmp_fromlist_name_3, tmp_level_name_3);
         if (tmp_import_name_from_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -20996,12 +20996,12 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_4;
         PyObject *tmp_fromlist_name_4;
         PyObject *tmp_level_name_4;
-        tmp_name_name_4 = mod_consts[161];
+        tmp_name_name_4 = mod_consts[160];
         tmp_globals_arg_name_4 = (PyObject *)moduledict_numpy$polynomial$hermite_e;
         tmp_locals_arg_name_4 = Py_None;
-        tmp_fromlist_name_4 = mod_consts[162];
+        tmp_fromlist_name_4 = mod_consts[161];
         tmp_level_name_4 = mod_consts[3];
-        frame_51e09126241e985eb8dc9355572274f7->m_frame.f_lineno = 82;
+        frame_af4a1f858a1e59fada76109e57f0a237->m_frame.f_lineno = 82;
         tmp_import_name_from_3 = IMPORT_MODULE5(tmp_name_name_4, tmp_globals_arg_name_4, tmp_locals_arg_name_4, tmp_fromlist_name_4, tmp_level_name_4);
         if (tmp_import_name_from_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21017,11 +21017,11 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             tmp_assign_source_7 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_3,
                 (PyObject *)moduledict_numpy$polynomial$hermite_e,
-                mod_consts[163],
+                mod_consts[162],
                 mod_consts[4]
             );
         } else {
-            tmp_assign_source_7 = IMPORT_NAME(tmp_import_name_from_3, mod_consts[163]);
+            tmp_assign_source_7 = IMPORT_NAME(tmp_import_name_from_3, mod_consts[162]);
         }
 
         Py_DECREF(tmp_import_name_from_3);
@@ -21045,12 +21045,12 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_5;
         PyObject *tmp_fromlist_name_5;
         PyObject *tmp_level_name_5;
-        tmp_name_name_5 = mod_consts[164];
+        tmp_name_name_5 = mod_consts[163];
         tmp_globals_arg_name_5 = (PyObject *)moduledict_numpy$polynomial$hermite_e;
         tmp_locals_arg_name_5 = Py_None;
-        tmp_fromlist_name_5 = mod_consts[165];
+        tmp_fromlist_name_5 = mod_consts[164];
         tmp_level_name_5 = mod_consts[3];
-        frame_51e09126241e985eb8dc9355572274f7->m_frame.f_lineno = 83;
+        frame_af4a1f858a1e59fada76109e57f0a237->m_frame.f_lineno = 83;
         tmp_import_name_from_4 = IMPORT_MODULE5(tmp_name_name_5, tmp_globals_arg_name_5, tmp_locals_arg_name_5, tmp_fromlist_name_5, tmp_level_name_5);
         if (tmp_import_name_from_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21066,11 +21066,11 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             tmp_assign_source_8 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_4,
                 (PyObject *)moduledict_numpy$polynomial$hermite_e,
-                mod_consts[166],
+                mod_consts[165],
                 mod_consts[4]
             );
         } else {
-            tmp_assign_source_8 = IMPORT_NAME(tmp_import_name_from_4, mod_consts[166]);
+            tmp_assign_source_8 = IMPORT_NAME(tmp_import_name_from_4, mod_consts[165]);
         }
 
         Py_DECREF(tmp_import_name_from_4);
@@ -21084,12 +21084,12 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[166], tmp_assign_source_8);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[165], tmp_assign_source_8);
     }
     {
         PyObject *tmp_assign_source_9;
-        tmp_assign_source_9 = LIST_COPY(mod_consts[167]);
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[168], tmp_assign_source_9);
+        tmp_assign_source_9 = LIST_COPY(mod_consts[166]);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[167], tmp_assign_source_9);
     }
     {
         PyObject *tmp_assign_source_10;
@@ -21110,7 +21110,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        tmp_assign_source_10 = LOOKUP_ATTRIBUTE(tmp_expression_name_1, mod_consts[169]);
+        tmp_assign_source_10 = LOOKUP_ATTRIBUTE(tmp_expression_name_1, mod_consts[168]);
         if (tmp_assign_source_10 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -21121,7 +21121,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[170], tmp_assign_source_10);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[169], tmp_assign_source_10);
     }
     {
         PyObject *tmp_assign_source_11;
@@ -21129,7 +21129,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
         tmp_assign_source_11 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__1_poly2herme();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[171], tmp_assign_source_11);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[170], tmp_assign_source_11);
     }
     {
         PyObject *tmp_assign_source_12;
@@ -21137,7 +21137,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
         tmp_assign_source_12 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__2_herme2poly();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[172], tmp_assign_source_12);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[171], tmp_assign_source_12);
     }
     {
         PyObject *tmp_assign_source_13;
@@ -21159,8 +21159,8 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        tmp_call_arg_element_1 = LIST_COPY(mod_consts[173]);
-        frame_51e09126241e985eb8dc9355572274f7->m_frame.f_lineno = 205;
+        tmp_call_arg_element_1 = LIST_COPY(mod_consts[172]);
+        frame_af4a1f858a1e59fada76109e57f0a237->m_frame.f_lineno = 205;
         tmp_assign_source_13 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[24], tmp_call_arg_element_1);
         Py_DECREF(tmp_call_arg_element_1);
         if (tmp_assign_source_13 == NULL) {
@@ -21173,7 +21173,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[174], tmp_assign_source_13);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[173], tmp_assign_source_13);
     }
     {
         PyObject *tmp_assign_source_14;
@@ -21196,7 +21196,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             goto frame_exception_exit_1;
         }
         tmp_call_arg_element_2 = LIST_COPY(mod_consts[77]);
-        frame_51e09126241e985eb8dc9355572274f7->m_frame.f_lineno = 208;
+        frame_af4a1f858a1e59fada76109e57f0a237->m_frame.f_lineno = 208;
         tmp_assign_source_14 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[24], tmp_call_arg_element_2);
         Py_DECREF(tmp_call_arg_element_2);
         if (tmp_assign_source_14 == NULL) {
@@ -21209,7 +21209,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[175], tmp_assign_source_14);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[174], tmp_assign_source_14);
     }
     {
         PyObject *tmp_assign_source_15;
@@ -21232,7 +21232,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             goto frame_exception_exit_1;
         }
         tmp_call_arg_element_3 = LIST_COPY(mod_consts[138]);
-        frame_51e09126241e985eb8dc9355572274f7->m_frame.f_lineno = 211;
+        frame_af4a1f858a1e59fada76109e57f0a237->m_frame.f_lineno = 211;
         tmp_assign_source_15 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[24], tmp_call_arg_element_3);
         Py_DECREF(tmp_call_arg_element_3);
         if (tmp_assign_source_15 == NULL) {
@@ -21245,7 +21245,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[176], tmp_assign_source_15);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[175], tmp_assign_source_15);
     }
     {
         PyObject *tmp_assign_source_16;
@@ -21267,8 +21267,8 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        tmp_call_arg_element_4 = LIST_COPY(mod_consts[177]);
-        frame_51e09126241e985eb8dc9355572274f7->m_frame.f_lineno = 214;
+        tmp_call_arg_element_4 = LIST_COPY(mod_consts[176]);
+        frame_af4a1f858a1e59fada76109e57f0a237->m_frame.f_lineno = 214;
         tmp_assign_source_16 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_4, mod_consts[24], tmp_call_arg_element_4);
         Py_DECREF(tmp_call_arg_element_4);
         if (tmp_assign_source_16 == NULL) {
@@ -21281,7 +21281,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[178], tmp_assign_source_16);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[177], tmp_assign_source_16);
     }
     {
         PyObject *tmp_assign_source_17;
@@ -21297,7 +21297,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
         tmp_assign_source_18 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__4_hermefromroots();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[179], tmp_assign_source_18);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[178], tmp_assign_source_18);
     }
     {
         PyObject *tmp_assign_source_19;
@@ -21337,29 +21337,29 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
         tmp_assign_source_23 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__9_hermediv();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[180], tmp_assign_source_23);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[179], tmp_assign_source_23);
     }
     {
         PyObject *tmp_assign_source_24;
         PyObject *tmp_defaults_1;
-        tmp_defaults_1 = mod_consts[181];
+        tmp_defaults_1 = mod_consts[180];
         Py_INCREF(tmp_defaults_1);
 
 
         tmp_assign_source_24 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__10_hermepow(tmp_defaults_1);
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[182], tmp_assign_source_24);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[181], tmp_assign_source_24);
     }
     {
         PyObject *tmp_assign_source_25;
         PyObject *tmp_defaults_2;
-        tmp_defaults_2 = mod_consts[183];
+        tmp_defaults_2 = mod_consts[182];
         Py_INCREF(tmp_defaults_2);
 
 
         tmp_assign_source_25 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__11_hermeder(tmp_defaults_2);
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[184], tmp_assign_source_25);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[183], tmp_assign_source_25);
     }
     {
         PyObject *tmp_assign_source_26;
@@ -21380,12 +21380,12 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
         tmp_assign_source_26 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__12_hermeint(tmp_defaults_3);
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[185], tmp_assign_source_26);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[184], tmp_assign_source_26);
     }
     {
         PyObject *tmp_assign_source_27;
         PyObject *tmp_defaults_4;
-        tmp_defaults_4 = mod_consts[186];
+        tmp_defaults_4 = mod_consts[185];
         Py_INCREF(tmp_defaults_4);
 
 
@@ -21399,7 +21399,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
         tmp_assign_source_28 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__14_hermeval2d();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[187], tmp_assign_source_28);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[186], tmp_assign_source_28);
     }
     {
         PyObject *tmp_assign_source_29;
@@ -21407,7 +21407,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
         tmp_assign_source_29 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__15_hermegrid2d();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[188], tmp_assign_source_29);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[187], tmp_assign_source_29);
     }
     {
         PyObject *tmp_assign_source_30;
@@ -21415,7 +21415,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
         tmp_assign_source_30 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__16_hermeval3d();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[189], tmp_assign_source_30);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[188], tmp_assign_source_30);
     }
     {
         PyObject *tmp_assign_source_31;
@@ -21423,7 +21423,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
         tmp_assign_source_31 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__17_hermegrid3d();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[190], tmp_assign_source_31);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[189], tmp_assign_source_31);
     }
     {
         PyObject *tmp_assign_source_32;
@@ -21439,7 +21439,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
         tmp_assign_source_33 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__19_hermevander2d();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[191], tmp_assign_source_33);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[190], tmp_assign_source_33);
     }
     {
         PyObject *tmp_assign_source_34;
@@ -21447,18 +21447,18 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
         tmp_assign_source_34 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__20_hermevander3d();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[192], tmp_assign_source_34);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[191], tmp_assign_source_34);
     }
     {
         PyObject *tmp_assign_source_35;
         PyObject *tmp_defaults_5;
-        tmp_defaults_5 = mod_consts[193];
+        tmp_defaults_5 = mod_consts[192];
         Py_INCREF(tmp_defaults_5);
 
 
         tmp_assign_source_35 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__21_hermefit(tmp_defaults_5);
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[194], tmp_assign_source_35);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[193], tmp_assign_source_35);
     }
     {
         PyObject *tmp_assign_source_36;
@@ -21474,7 +21474,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
         tmp_assign_source_37 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__23_hermeroots();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[195], tmp_assign_source_37);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[194], tmp_assign_source_37);
     }
     {
         PyObject *tmp_assign_source_38;
@@ -21490,7 +21490,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
         tmp_assign_source_39 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__25_hermegauss();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[196], tmp_assign_source_39);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[195], tmp_assign_source_39);
     }
     {
         PyObject *tmp_assign_source_40;
@@ -21498,16 +21498,16 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
         tmp_assign_source_40 = MAKE_FUNCTION_numpy$polynomial$hermite_e$$$function__26_hermeweight();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[197], tmp_assign_source_40);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[196], tmp_assign_source_40);
     }
     // Tried code:
     {
         PyObject *tmp_assign_source_41;
         PyObject *tmp_tuple_element_2;
-        tmp_tuple_element_2 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[166]);
+        tmp_tuple_element_2 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[165]);
 
         if (unlikely(tmp_tuple_element_2 == NULL)) {
-            tmp_tuple_element_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[166]);
+            tmp_tuple_element_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[165]);
         }
 
         if (tmp_tuple_element_2 == NULL) {
@@ -21569,7 +21569,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_2;
         PyObject *tmp_subscript_name_1;
         PyObject *tmp_bases_name_1;
-        tmp_key_name_1 = mod_consts[198];
+        tmp_key_name_1 = mod_consts[197];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_1 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_1, tmp_key_name_1);
@@ -21583,7 +21583,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         condexpr_true_1:;
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_2 = tmp_class_creation_1__class_decl_dict;
-        tmp_key_name_2 = mod_consts[198];
+        tmp_key_name_2 = mod_consts[197];
         tmp_metaclass_name_1 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_2, tmp_key_name_2);
         if (tmp_metaclass_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21669,7 +21669,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         nuitka_bool tmp_condition_result_3;
         PyObject *tmp_key_name_3;
         PyObject *tmp_dict_arg_name_3;
-        tmp_key_name_3 = mod_consts[198];
+        tmp_key_name_3 = mod_consts[197];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_3 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_3, tmp_key_name_3);
@@ -21684,7 +21684,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
     branch_yes_1:;
     CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_1__class_decl_dict;
-    tmp_dictdel_key = mod_consts[198];
+    tmp_dictdel_key = mod_consts[197];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -21702,7 +21702,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_3;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_3 = tmp_class_creation_1__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_3, mod_consts[199]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_3, mod_consts[198]);
         tmp_condition_result_4 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_4 == NUITKA_BOOL_TRUE) {
             goto branch_yes_2;
@@ -21720,7 +21720,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         PyObject *tmp_kwargs_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_4 = tmp_class_creation_1__metaclass;
-        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_4, mod_consts[199]);
+        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_4, mod_consts[198]);
         if (tmp_called_name_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -21731,7 +21731,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
             goto try_except_handler_1;
         }
-        tmp_tuple_element_3 = mod_consts[200];
+        tmp_tuple_element_3 = mod_consts[199];
         tmp_args_name_1 = PyTuple_New(2);
         PyTuple_SET_ITEM0(tmp_args_name_1, 0, tmp_tuple_element_3);
         CHECK_OBJECT(tmp_class_creation_1__bases);
@@ -21739,7 +21739,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         PyTuple_SET_ITEM0(tmp_args_name_1, 1, tmp_tuple_element_3);
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_kwargs_name_1 = tmp_class_creation_1__class_decl_dict;
-        frame_51e09126241e985eb8dc9355572274f7->m_frame.f_lineno = 1649;
+        frame_af4a1f858a1e59fada76109e57f0a237->m_frame.f_lineno = 1649;
         tmp_assign_source_45 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -21762,7 +21762,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_5;
         CHECK_OBJECT(tmp_class_creation_1__prepared);
         tmp_expression_name_5 = tmp_class_creation_1__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_5, mod_consts[201]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_5, mod_consts[200]);
         tmp_operand_name_1 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_1);
         if (tmp_res == -1) {
@@ -21793,11 +21793,11 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         PyObject *tmp_getattr_attr_1;
         PyObject *tmp_getattr_default_1;
         tmp_raise_type_1 = PyExc_TypeError;
-        tmp_left_name_1 = mod_consts[202];
+        tmp_left_name_1 = mod_consts[201];
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_getattr_target_1 = tmp_class_creation_1__metaclass;
-        tmp_getattr_attr_1 = mod_consts[203];
-        tmp_getattr_default_1 = mod_consts[204];
+        tmp_getattr_attr_1 = mod_consts[202];
+        tmp_getattr_default_1 = mod_consts[203];
         tmp_tuple_element_4 = BUILTIN_GETATTR(tmp_getattr_target_1, tmp_getattr_attr_1, tmp_getattr_default_1);
         if (tmp_tuple_element_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21818,7 +21818,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             tmp_type_arg_2 = tmp_class_creation_1__prepared;
             tmp_expression_name_6 = BUILTIN_TYPE1(tmp_type_arg_2);
             assert(!(tmp_expression_name_6 == NULL));
-            tmp_tuple_element_4 = LOOKUP_ATTRIBUTE(tmp_expression_name_6, mod_consts[203]);
+            tmp_tuple_element_4 = LOOKUP_ATTRIBUTE(tmp_expression_name_6, mod_consts[202]);
             Py_DECREF(tmp_expression_name_6);
             if (tmp_tuple_element_4 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -21880,8 +21880,8 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[205];
-        tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[206], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[204];
+        tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[205], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -21892,7 +21892,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
             goto try_except_handler_3;
         }
-        tmp_dictset_value = mod_consts[207];
+        tmp_dictset_value = mod_consts[206];
         tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[149], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -21904,8 +21904,8 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
             goto try_except_handler_3;
         }
-        tmp_dictset_value = mod_consts[200];
-        tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[199];
+        tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[207], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -21916,31 +21916,31 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
             goto try_except_handler_3;
         }
-        if (isFrameUnusable(cache_frame_02f6ed3e9366108b004eaa06268f5d25_2)) {
-            Py_XDECREF(cache_frame_02f6ed3e9366108b004eaa06268f5d25_2);
+        if (isFrameUnusable(cache_frame_caa09c5fdc6c32caf120acfd26c6a258_2)) {
+            Py_XDECREF(cache_frame_caa09c5fdc6c32caf120acfd26c6a258_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_02f6ed3e9366108b004eaa06268f5d25_2 == NULL) {
+            if (cache_frame_caa09c5fdc6c32caf120acfd26c6a258_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_02f6ed3e9366108b004eaa06268f5d25_2 = MAKE_FUNCTION_FRAME(codeobj_02f6ed3e9366108b004eaa06268f5d25, module_numpy$polynomial$hermite_e, sizeof(void *));
+            cache_frame_caa09c5fdc6c32caf120acfd26c6a258_2 = MAKE_FUNCTION_FRAME(codeobj_caa09c5fdc6c32caf120acfd26c6a258, module_numpy$polynomial$hermite_e, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_02f6ed3e9366108b004eaa06268f5d25_2->m_type_description == NULL);
-        frame_02f6ed3e9366108b004eaa06268f5d25_2 = cache_frame_02f6ed3e9366108b004eaa06268f5d25_2;
+        assert(cache_frame_caa09c5fdc6c32caf120acfd26c6a258_2->m_type_description == NULL);
+        frame_caa09c5fdc6c32caf120acfd26c6a258_2 = cache_frame_caa09c5fdc6c32caf120acfd26c6a258_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_02f6ed3e9366108b004eaa06268f5d25_2);
+        pushFrameStack(frame_caa09c5fdc6c32caf120acfd26c6a258_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_02f6ed3e9366108b004eaa06268f5d25_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_caa09c5fdc6c32caf120acfd26c6a258_2) == 2); // Frame stack
 
         // Framed code:
         {
@@ -21948,7 +21948,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             PyObject *tmp_called_name_2;
             PyObject *tmp_args_element_name_1;
             PyObject *tmp_staticmethod_arg_1;
-            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -21967,11 +21967,11 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto condexpr_false_3;
             }
             condexpr_true_3:;
-            tmp_called_name_2 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_called_name_2 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (unlikely(tmp_called_name_2 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[209]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[208]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -22014,7 +22014,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 }
             }
 
-            frame_02f6ed3e9366108b004eaa06268f5d25_2->m_frame.f_lineno = 1672;
+            frame_caa09c5fdc6c32caf120acfd26c6a258_2->m_frame.f_lineno = 1672;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_1);
             Py_DECREF(tmp_called_name_2);
             Py_DECREF(tmp_args_element_name_1);
@@ -22085,7 +22085,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             PyObject *tmp_called_name_3;
             PyObject *tmp_args_element_name_2;
             PyObject *tmp_staticmethod_arg_2;
-            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -22104,11 +22104,11 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto condexpr_false_4;
             }
             condexpr_true_4:;
-            tmp_called_name_3 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_called_name_3 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (unlikely(tmp_called_name_3 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[209]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[208]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -22151,7 +22151,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 }
             }
 
-            frame_02f6ed3e9366108b004eaa06268f5d25_2->m_frame.f_lineno = 1673;
+            frame_caa09c5fdc6c32caf120acfd26c6a258_2->m_frame.f_lineno = 1673;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_2);
             Py_DECREF(tmp_called_name_3);
             Py_DECREF(tmp_args_element_name_2);
@@ -22222,7 +22222,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             PyObject *tmp_called_name_4;
             PyObject *tmp_args_element_name_3;
             PyObject *tmp_staticmethod_arg_3;
-            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -22241,11 +22241,11 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto condexpr_false_5;
             }
             condexpr_true_5:;
-            tmp_called_name_4 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_called_name_4 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (unlikely(tmp_called_name_4 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[209]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[208]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -22288,7 +22288,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 }
             }
 
-            frame_02f6ed3e9366108b004eaa06268f5d25_2->m_frame.f_lineno = 1674;
+            frame_caa09c5fdc6c32caf120acfd26c6a258_2->m_frame.f_lineno = 1674;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_3);
             Py_DECREF(tmp_called_name_4);
             Py_DECREF(tmp_args_element_name_3);
@@ -22341,7 +22341,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto frame_exception_exit_2;
             }
             condexpr_end_5:;
-            tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[210], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -22359,7 +22359,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             PyObject *tmp_called_name_5;
             PyObject *tmp_args_element_name_4;
             PyObject *tmp_staticmethod_arg_4;
-            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -22378,11 +22378,11 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto condexpr_false_6;
             }
             condexpr_true_6:;
-            tmp_called_name_5 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_called_name_5 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (unlikely(tmp_called_name_5 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[209]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[208]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -22401,14 +22401,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_4 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[180]);
+            tmp_args_element_name_4 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[179]);
 
             if (tmp_args_element_name_4 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_args_element_name_4 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[180]);
+                    tmp_args_element_name_4 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[179]);
 
                     if (unlikely(tmp_args_element_name_4 == NULL)) {
-                        tmp_args_element_name_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[180]);
+                        tmp_args_element_name_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[179]);
                     }
 
                     if (tmp_args_element_name_4 == NULL) {
@@ -22425,7 +22425,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 }
             }
 
-            frame_02f6ed3e9366108b004eaa06268f5d25_2->m_frame.f_lineno = 1675;
+            frame_caa09c5fdc6c32caf120acfd26c6a258_2->m_frame.f_lineno = 1675;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_4);
             Py_DECREF(tmp_called_name_5);
             Py_DECREF(tmp_args_element_name_4);
@@ -22441,14 +22441,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             }
             goto condexpr_end_6;
             condexpr_false_6:;
-            tmp_staticmethod_arg_4 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[180]);
+            tmp_staticmethod_arg_4 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[179]);
 
             if (tmp_staticmethod_arg_4 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_staticmethod_arg_4 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[180]);
+                    tmp_staticmethod_arg_4 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[179]);
 
                     if (unlikely(tmp_staticmethod_arg_4 == NULL)) {
-                        tmp_staticmethod_arg_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[180]);
+                        tmp_staticmethod_arg_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[179]);
                     }
 
                     if (tmp_staticmethod_arg_4 == NULL) {
@@ -22496,7 +22496,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             PyObject *tmp_called_name_6;
             PyObject *tmp_args_element_name_5;
             PyObject *tmp_staticmethod_arg_5;
-            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -22515,11 +22515,11 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto condexpr_false_7;
             }
             condexpr_true_7:;
-            tmp_called_name_6 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_called_name_6 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (unlikely(tmp_called_name_6 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[209]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[208]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -22538,14 +22538,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_5 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[182]);
+            tmp_args_element_name_5 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[181]);
 
             if (tmp_args_element_name_5 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_args_element_name_5 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[182]);
+                    tmp_args_element_name_5 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[181]);
 
                     if (unlikely(tmp_args_element_name_5 == NULL)) {
-                        tmp_args_element_name_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[182]);
+                        tmp_args_element_name_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[181]);
                     }
 
                     if (tmp_args_element_name_5 == NULL) {
@@ -22562,7 +22562,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 }
             }
 
-            frame_02f6ed3e9366108b004eaa06268f5d25_2->m_frame.f_lineno = 1676;
+            frame_caa09c5fdc6c32caf120acfd26c6a258_2->m_frame.f_lineno = 1676;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_5);
             Py_DECREF(tmp_called_name_6);
             Py_DECREF(tmp_args_element_name_5);
@@ -22578,14 +22578,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             }
             goto condexpr_end_7;
             condexpr_false_7:;
-            tmp_staticmethod_arg_5 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[182]);
+            tmp_staticmethod_arg_5 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[181]);
 
             if (tmp_staticmethod_arg_5 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_staticmethod_arg_5 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[182]);
+                    tmp_staticmethod_arg_5 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[181]);
 
                     if (unlikely(tmp_staticmethod_arg_5 == NULL)) {
-                        tmp_staticmethod_arg_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[182]);
+                        tmp_staticmethod_arg_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[181]);
                     }
 
                     if (tmp_staticmethod_arg_5 == NULL) {
@@ -22633,7 +22633,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             PyObject *tmp_called_name_7;
             PyObject *tmp_args_element_name_6;
             PyObject *tmp_staticmethod_arg_6;
-            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -22652,11 +22652,11 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto condexpr_false_8;
             }
             condexpr_true_8:;
-            tmp_called_name_7 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_called_name_7 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (unlikely(tmp_called_name_7 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[209]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[208]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -22699,7 +22699,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 }
             }
 
-            frame_02f6ed3e9366108b004eaa06268f5d25_2->m_frame.f_lineno = 1677;
+            frame_caa09c5fdc6c32caf120acfd26c6a258_2->m_frame.f_lineno = 1677;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_7, tmp_args_element_name_6);
             Py_DECREF(tmp_called_name_7);
             Py_DECREF(tmp_args_element_name_6);
@@ -22752,7 +22752,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto frame_exception_exit_2;
             }
             condexpr_end_8:;
-            tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[211], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[210], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -22770,7 +22770,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             PyObject *tmp_called_name_8;
             PyObject *tmp_args_element_name_7;
             PyObject *tmp_staticmethod_arg_7;
-            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -22789,11 +22789,11 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto condexpr_false_9;
             }
             condexpr_true_9:;
-            tmp_called_name_8 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_called_name_8 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (unlikely(tmp_called_name_8 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[209]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[208]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -22812,14 +22812,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_7 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[185]);
+            tmp_args_element_name_7 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[184]);
 
             if (tmp_args_element_name_7 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_args_element_name_7 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[185]);
+                    tmp_args_element_name_7 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[184]);
 
                     if (unlikely(tmp_args_element_name_7 == NULL)) {
-                        tmp_args_element_name_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[185]);
+                        tmp_args_element_name_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[184]);
                     }
 
                     if (tmp_args_element_name_7 == NULL) {
@@ -22836,7 +22836,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 }
             }
 
-            frame_02f6ed3e9366108b004eaa06268f5d25_2->m_frame.f_lineno = 1678;
+            frame_caa09c5fdc6c32caf120acfd26c6a258_2->m_frame.f_lineno = 1678;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_8, tmp_args_element_name_7);
             Py_DECREF(tmp_called_name_8);
             Py_DECREF(tmp_args_element_name_7);
@@ -22852,14 +22852,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             }
             goto condexpr_end_9;
             condexpr_false_9:;
-            tmp_staticmethod_arg_7 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[185]);
+            tmp_staticmethod_arg_7 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[184]);
 
             if (tmp_staticmethod_arg_7 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_staticmethod_arg_7 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[185]);
+                    tmp_staticmethod_arg_7 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[184]);
 
                     if (unlikely(tmp_staticmethod_arg_7 == NULL)) {
-                        tmp_staticmethod_arg_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[185]);
+                        tmp_staticmethod_arg_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[184]);
                     }
 
                     if (tmp_staticmethod_arg_7 == NULL) {
@@ -22889,7 +22889,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto frame_exception_exit_2;
             }
             condexpr_end_9:;
-            tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[212], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[211], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -22907,7 +22907,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             PyObject *tmp_called_name_9;
             PyObject *tmp_args_element_name_8;
             PyObject *tmp_staticmethod_arg_8;
-            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -22926,11 +22926,11 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto condexpr_false_10;
             }
             condexpr_true_10:;
-            tmp_called_name_9 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_called_name_9 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (unlikely(tmp_called_name_9 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[209]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[208]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -22949,14 +22949,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_8 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[184]);
+            tmp_args_element_name_8 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[183]);
 
             if (tmp_args_element_name_8 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_args_element_name_8 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[184]);
+                    tmp_args_element_name_8 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[183]);
 
                     if (unlikely(tmp_args_element_name_8 == NULL)) {
-                        tmp_args_element_name_8 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[184]);
+                        tmp_args_element_name_8 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[183]);
                     }
 
                     if (tmp_args_element_name_8 == NULL) {
@@ -22973,7 +22973,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 }
             }
 
-            frame_02f6ed3e9366108b004eaa06268f5d25_2->m_frame.f_lineno = 1679;
+            frame_caa09c5fdc6c32caf120acfd26c6a258_2->m_frame.f_lineno = 1679;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_9, tmp_args_element_name_8);
             Py_DECREF(tmp_called_name_9);
             Py_DECREF(tmp_args_element_name_8);
@@ -22989,14 +22989,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             }
             goto condexpr_end_10;
             condexpr_false_10:;
-            tmp_staticmethod_arg_8 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[184]);
+            tmp_staticmethod_arg_8 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[183]);
 
             if (tmp_staticmethod_arg_8 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_staticmethod_arg_8 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[184]);
+                    tmp_staticmethod_arg_8 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[183]);
 
                     if (unlikely(tmp_staticmethod_arg_8 == NULL)) {
-                        tmp_staticmethod_arg_8 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[184]);
+                        tmp_staticmethod_arg_8 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[183]);
                     }
 
                     if (tmp_staticmethod_arg_8 == NULL) {
@@ -23026,7 +23026,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto frame_exception_exit_2;
             }
             condexpr_end_10:;
-            tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[213], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[212], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -23044,7 +23044,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             PyObject *tmp_called_name_10;
             PyObject *tmp_args_element_name_9;
             PyObject *tmp_staticmethod_arg_9;
-            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -23063,11 +23063,11 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto condexpr_false_11;
             }
             condexpr_true_11:;
-            tmp_called_name_10 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_called_name_10 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (unlikely(tmp_called_name_10 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[209]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[208]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -23086,14 +23086,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_9 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[194]);
+            tmp_args_element_name_9 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[193]);
 
             if (tmp_args_element_name_9 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_args_element_name_9 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[194]);
+                    tmp_args_element_name_9 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[193]);
 
                     if (unlikely(tmp_args_element_name_9 == NULL)) {
-                        tmp_args_element_name_9 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[194]);
+                        tmp_args_element_name_9 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[193]);
                     }
 
                     if (tmp_args_element_name_9 == NULL) {
@@ -23110,7 +23110,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 }
             }
 
-            frame_02f6ed3e9366108b004eaa06268f5d25_2->m_frame.f_lineno = 1680;
+            frame_caa09c5fdc6c32caf120acfd26c6a258_2->m_frame.f_lineno = 1680;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_10, tmp_args_element_name_9);
             Py_DECREF(tmp_called_name_10);
             Py_DECREF(tmp_args_element_name_9);
@@ -23126,14 +23126,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             }
             goto condexpr_end_11;
             condexpr_false_11:;
-            tmp_staticmethod_arg_9 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[194]);
+            tmp_staticmethod_arg_9 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[193]);
 
             if (tmp_staticmethod_arg_9 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_staticmethod_arg_9 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[194]);
+                    tmp_staticmethod_arg_9 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[193]);
 
                     if (unlikely(tmp_staticmethod_arg_9 == NULL)) {
-                        tmp_staticmethod_arg_9 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[194]);
+                        tmp_staticmethod_arg_9 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[193]);
                     }
 
                     if (tmp_staticmethod_arg_9 == NULL) {
@@ -23181,7 +23181,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             PyObject *tmp_called_name_11;
             PyObject *tmp_args_element_name_10;
             PyObject *tmp_staticmethod_arg_10;
-            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -23200,11 +23200,11 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto condexpr_false_12;
             }
             condexpr_true_12:;
-            tmp_called_name_11 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_called_name_11 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (unlikely(tmp_called_name_11 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[209]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[208]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -23247,7 +23247,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 }
             }
 
-            frame_02f6ed3e9366108b004eaa06268f5d25_2->m_frame.f_lineno = 1681;
+            frame_caa09c5fdc6c32caf120acfd26c6a258_2->m_frame.f_lineno = 1681;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_11, tmp_args_element_name_10);
             Py_DECREF(tmp_called_name_11);
             Py_DECREF(tmp_args_element_name_10);
@@ -23300,7 +23300,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto frame_exception_exit_2;
             }
             condexpr_end_12:;
-            tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[214], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[213], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -23318,7 +23318,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             PyObject *tmp_called_name_12;
             PyObject *tmp_args_element_name_11;
             PyObject *tmp_staticmethod_arg_11;
-            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -23337,11 +23337,11 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto condexpr_false_13;
             }
             condexpr_true_13:;
-            tmp_called_name_12 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_called_name_12 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (unlikely(tmp_called_name_12 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[209]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[208]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -23360,14 +23360,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_11 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[195]);
+            tmp_args_element_name_11 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[194]);
 
             if (tmp_args_element_name_11 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_args_element_name_11 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[195]);
+                    tmp_args_element_name_11 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[194]);
 
                     if (unlikely(tmp_args_element_name_11 == NULL)) {
-                        tmp_args_element_name_11 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[195]);
+                        tmp_args_element_name_11 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[194]);
                     }
 
                     if (tmp_args_element_name_11 == NULL) {
@@ -23384,7 +23384,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 }
             }
 
-            frame_02f6ed3e9366108b004eaa06268f5d25_2->m_frame.f_lineno = 1682;
+            frame_caa09c5fdc6c32caf120acfd26c6a258_2->m_frame.f_lineno = 1682;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_12, tmp_args_element_name_11);
             Py_DECREF(tmp_called_name_12);
             Py_DECREF(tmp_args_element_name_11);
@@ -23400,14 +23400,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             }
             goto condexpr_end_13;
             condexpr_false_13:;
-            tmp_staticmethod_arg_11 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[195]);
+            tmp_staticmethod_arg_11 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[194]);
 
             if (tmp_staticmethod_arg_11 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_staticmethod_arg_11 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[195]);
+                    tmp_staticmethod_arg_11 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[194]);
 
                     if (unlikely(tmp_staticmethod_arg_11 == NULL)) {
-                        tmp_staticmethod_arg_11 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[195]);
+                        tmp_staticmethod_arg_11 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[194]);
                     }
 
                     if (tmp_staticmethod_arg_11 == NULL) {
@@ -23437,7 +23437,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto frame_exception_exit_2;
             }
             condexpr_end_13:;
-            tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[215], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[214], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -23455,7 +23455,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             PyObject *tmp_called_name_13;
             PyObject *tmp_args_element_name_12;
             PyObject *tmp_staticmethod_arg_12;
-            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_res = MAPPING_HAS_ITEM(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -23474,11 +23474,11 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto condexpr_false_14;
             }
             condexpr_true_14:;
-            tmp_called_name_13 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[209]);
+            tmp_called_name_13 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[208]);
 
             if (unlikely(tmp_called_name_13 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[209]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[208]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -23497,14 +23497,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_12 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[179]);
+            tmp_args_element_name_12 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[178]);
 
             if (tmp_args_element_name_12 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_args_element_name_12 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[179]);
+                    tmp_args_element_name_12 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[178]);
 
                     if (unlikely(tmp_args_element_name_12 == NULL)) {
-                        tmp_args_element_name_12 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[179]);
+                        tmp_args_element_name_12 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[178]);
                     }
 
                     if (tmp_args_element_name_12 == NULL) {
@@ -23521,7 +23521,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 }
             }
 
-            frame_02f6ed3e9366108b004eaa06268f5d25_2->m_frame.f_lineno = 1683;
+            frame_caa09c5fdc6c32caf120acfd26c6a258_2->m_frame.f_lineno = 1683;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_13, tmp_args_element_name_12);
             Py_DECREF(tmp_called_name_13);
             Py_DECREF(tmp_args_element_name_12);
@@ -23537,14 +23537,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             }
             goto condexpr_end_14;
             condexpr_false_14:;
-            tmp_staticmethod_arg_12 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[179]);
+            tmp_staticmethod_arg_12 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[178]);
 
             if (tmp_staticmethod_arg_12 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_staticmethod_arg_12 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[179]);
+                    tmp_staticmethod_arg_12 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[178]);
 
                     if (unlikely(tmp_staticmethod_arg_12 == NULL)) {
-                        tmp_staticmethod_arg_12 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[179]);
+                        tmp_staticmethod_arg_12 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[178]);
                     }
 
                     if (tmp_staticmethod_arg_12 == NULL) {
@@ -23627,14 +23627,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_13 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[174]);
+            tmp_args_element_name_13 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[173]);
 
             if (tmp_args_element_name_13 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_args_element_name_13 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[174]);
+                    tmp_args_element_name_13 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[173]);
 
                     if (unlikely(tmp_args_element_name_13 == NULL)) {
-                        tmp_args_element_name_13 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[174]);
+                        tmp_args_element_name_13 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[173]);
                     }
 
                     if (tmp_args_element_name_13 == NULL) {
@@ -23651,7 +23651,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 }
             }
 
-            frame_02f6ed3e9366108b004eaa06268f5d25_2->m_frame.f_lineno = 1686;
+            frame_caa09c5fdc6c32caf120acfd26c6a258_2->m_frame.f_lineno = 1686;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_14, tmp_args_element_name_13);
             Py_DECREF(tmp_called_name_14);
             Py_DECREF(tmp_args_element_name_13);
@@ -23665,7 +23665,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[216], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[215], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -23718,14 +23718,14 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_14 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[174]);
+            tmp_args_element_name_14 = PyObject_GetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[173]);
 
             if (tmp_args_element_name_14 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_args_element_name_14 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[174]);
+                    tmp_args_element_name_14 = GET_STRING_DICT_VALUE(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[173]);
 
                     if (unlikely(tmp_args_element_name_14 == NULL)) {
-                        tmp_args_element_name_14 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[174]);
+                        tmp_args_element_name_14 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[173]);
                     }
 
                     if (tmp_args_element_name_14 == NULL) {
@@ -23742,7 +23742,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 }
             }
 
-            frame_02f6ed3e9366108b004eaa06268f5d25_2->m_frame.f_lineno = 1687;
+            frame_caa09c5fdc6c32caf120acfd26c6a258_2->m_frame.f_lineno = 1687;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_15, tmp_args_element_name_14);
             Py_DECREF(tmp_called_name_15);
             Py_DECREF(tmp_args_element_name_14);
@@ -23756,7 +23756,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[217], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[216], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -23769,8 +23769,8 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
                 goto frame_exception_exit_2;
             }
         }
-        tmp_dictset_value = mod_consts[218];
-        tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[219], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[217];
+        tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[218], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -23783,7 +23783,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_02f6ed3e9366108b004eaa06268f5d25_2);
+        RESTORE_FRAME_EXCEPTION(frame_caa09c5fdc6c32caf120acfd26c6a258_2);
 #endif
 
         // Put the previous frame back on top.
@@ -23794,35 +23794,35 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_02f6ed3e9366108b004eaa06268f5d25_2);
+        RESTORE_FRAME_EXCEPTION(frame_caa09c5fdc6c32caf120acfd26c6a258_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_02f6ed3e9366108b004eaa06268f5d25_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_02f6ed3e9366108b004eaa06268f5d25_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_02f6ed3e9366108b004eaa06268f5d25_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_caa09c5fdc6c32caf120acfd26c6a258_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_caa09c5fdc6c32caf120acfd26c6a258_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_caa09c5fdc6c32caf120acfd26c6a258_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_02f6ed3e9366108b004eaa06268f5d25_2,
+            frame_caa09c5fdc6c32caf120acfd26c6a258_2,
             type_description_2,
             outline_0_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_02f6ed3e9366108b004eaa06268f5d25_2 == cache_frame_02f6ed3e9366108b004eaa06268f5d25_2) {
+        if (frame_caa09c5fdc6c32caf120acfd26c6a258_2 == cache_frame_caa09c5fdc6c32caf120acfd26c6a258_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_02f6ed3e9366108b004eaa06268f5d25_2);
-            cache_frame_02f6ed3e9366108b004eaa06268f5d25_2 = NULL;
+            Py_DECREF(cache_frame_caa09c5fdc6c32caf120acfd26c6a258_2);
+            cache_frame_caa09c5fdc6c32caf120acfd26c6a258_2 = NULL;
         }
 
-        assertFrameObject(frame_02f6ed3e9366108b004eaa06268f5d25_2);
+        assertFrameObject(frame_caa09c5fdc6c32caf120acfd26c6a258_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -23865,7 +23865,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         branch_yes_4:;
         CHECK_OBJECT(tmp_class_creation_1__bases_orig);
         tmp_dictset_value = tmp_class_creation_1__bases_orig;
-        tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[220], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$polynomial$hermite_e$$$class__1_HermiteE_1649, mod_consts[219], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -23885,7 +23885,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             PyObject *tmp_kwargs_name_2;
             CHECK_OBJECT(tmp_class_creation_1__metaclass);
             tmp_called_name_16 = tmp_class_creation_1__metaclass;
-            tmp_tuple_element_5 = mod_consts[200];
+            tmp_tuple_element_5 = mod_consts[199];
             tmp_args_name_2 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_args_name_2, 0, tmp_tuple_element_5);
             CHECK_OBJECT(tmp_class_creation_1__bases);
@@ -23895,7 +23895,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_2, 2, tmp_tuple_element_5);
             CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
             tmp_kwargs_name_2 = tmp_class_creation_1__class_decl_dict;
-            frame_51e09126241e985eb8dc9355572274f7->m_frame.f_lineno = 1649;
+            frame_af4a1f858a1e59fada76109e57f0a237->m_frame.f_lineno = 1649;
             tmp_assign_source_48 = CALL_FUNCTION(tmp_called_name_16, tmp_args_name_2, tmp_kwargs_name_2);
             Py_DECREF(tmp_args_name_2);
             if (tmp_assign_source_48 == NULL) {
@@ -23976,7 +23976,7 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
         exception_lineno = 1649;
         goto try_except_handler_1;
         outline_result_1:;
-        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[200], tmp_assign_source_47);
+        UPDATE_STRING_DICT1(moduledict_numpy$polynomial$hermite_e, (Nuitka_StringObject *)mod_consts[199], tmp_assign_source_47);
     }
     goto try_end_1;
     // Exception handler code:
@@ -24012,23 +24012,23 @@ PyObject *modulecode_numpy$polynomial$hermite_e(PyObject *module, struct Nuitka_
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_51e09126241e985eb8dc9355572274f7);
+    RESTORE_FRAME_EXCEPTION(frame_af4a1f858a1e59fada76109e57f0a237);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_51e09126241e985eb8dc9355572274f7);
+    assertFrameObject(frame_af4a1f858a1e59fada76109e57f0a237);
 
     goto frame_no_exception_2;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_51e09126241e985eb8dc9355572274f7);
+    RESTORE_FRAME_EXCEPTION(frame_af4a1f858a1e59fada76109e57f0a237);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_51e09126241e985eb8dc9355572274f7, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_51e09126241e985eb8dc9355572274f7->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_51e09126241e985eb8dc9355572274f7, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_af4a1f858a1e59fada76109e57f0a237, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_af4a1f858a1e59fada76109e57f0a237->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_af4a1f858a1e59fada76109e57f0a237, exception_lineno);
     }
 
     // Put the previous frame back on top.

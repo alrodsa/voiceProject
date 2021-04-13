@@ -65,31 +65,31 @@ void checkModuleConstants_PIL$GimpGradientFile(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_24d401bf0413a65f51a487153776e4dd;
-static PyCodeObject *codeobj_a6e93fd9c79bb0b6fe620bd89c250454;
-static PyCodeObject *codeobj_771a29bfa7a4e6f16391194f267a25f9;
-static PyCodeObject *codeobj_9b83c357a7c0b741c0351c9ee884aa6c;
-static PyCodeObject *codeobj_e492d77b7dcc46bd4f5534b70f920351;
-static PyCodeObject *codeobj_3f675392eaa4f0bd8fd15b70d69826a6;
-static PyCodeObject *codeobj_57e610c81ffe9cea3ade1ad1ef1fa53e;
-static PyCodeObject *codeobj_d4b20f04edb8971a928690031581dce4;
-static PyCodeObject *codeobj_32bc91a7c399b2c6378a0bbdcf3d2f22;
-static PyCodeObject *codeobj_10f324431ebe487d03efa3eef5ea6756;
-static PyCodeObject *codeobj_4d790db8234d944cba3622c05f3afec3;
+static PyCodeObject *codeobj_3aef3feb4a07b5117dbc467927b8284c;
+static PyCodeObject *codeobj_e0a9ab9eb972552da5ba55be4d7a941b;
+static PyCodeObject *codeobj_2c0357273498ea9175f61398fb980c66;
+static PyCodeObject *codeobj_773ddc65f3b4308432cfca0c810acb90;
+static PyCodeObject *codeobj_67664288c2d4af4fc817328384ce957c;
+static PyCodeObject *codeobj_5d372f2010178dcd9f9109daa84ede14;
+static PyCodeObject *codeobj_d6d1a4ff97c75079dd7d7ce90ae5d510;
+static PyCodeObject *codeobj_b6a3a6de03351a4e34c665cd61e54a89;
+static PyCodeObject *codeobj_d245681a77ebf4f6750c2a7325212dc4;
+static PyCodeObject *codeobj_4b8d6053bbb4a04f2d2c79a912d447b3;
+static PyCodeObject *codeobj_aee5e4953b24aca9481d6242a45afa74;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[57]; CHECK_OBJECT(module_filename_obj);
-    codeobj_24d401bf0413a65f51a487153776e4dd = MAKE_CODEOBJECT(module_filename_obj, 124, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[91], mod_consts[92], NULL, 1, 0, 0);
-    codeobj_a6e93fd9c79bb0b6fe620bd89c250454 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[93], NULL, NULL, 0, 0, 0);
-    codeobj_771a29bfa7a4e6f16391194f267a25f9 = MAKE_CODEOBJECT(module_filename_obj, 105, CO_NOFREE, mod_consts[87], mod_consts[94], NULL, 0, 0, 0);
-    codeobj_9b83c357a7c0b741c0351c9ee884aa6c = MAKE_CODEOBJECT(module_filename_obj, 63, CO_NOFREE, mod_consts[82], mod_consts[94], NULL, 0, 0, 0);
-    codeobj_e492d77b7dcc46bd4f5534b70f920351 = MAKE_CODEOBJECT(module_filename_obj, 106, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[88], mod_consts[95], NULL, 2, 0, 0);
-    codeobj_3f675392eaa4f0bd8fd15b70d69826a6 = MAKE_CODEOBJECT(module_filename_obj, 44, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[68], mod_consts[96], NULL, 2, 0, 0);
-    codeobj_57e610c81ffe9cea3ade1ad1ef1fa53e = MAKE_CODEOBJECT(module_filename_obj, 67, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[85], mod_consts[97], NULL, 2, 0, 0);
-    codeobj_d4b20f04edb8971a928690031581dce4 = MAKE_CODEOBJECT(module_filename_obj, 29, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[10], mod_consts[96], NULL, 2, 0, 0);
-    codeobj_32bc91a7c399b2c6378a0bbdcf3d2f22 = MAKE_CODEOBJECT(module_filename_obj, 48, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[69], mod_consts[96], NULL, 2, 0, 0);
-    codeobj_10f324431ebe487d03efa3eef5ea6756 = MAKE_CODEOBJECT(module_filename_obj, 56, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[71], mod_consts[96], NULL, 2, 0, 0);
-    codeobj_4d790db8234d944cba3622c05f3afec3 = MAKE_CODEOBJECT(module_filename_obj, 52, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[70], mod_consts[96], NULL, 2, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[90]); CHECK_OBJECT(module_filename_obj);
+    codeobj_3aef3feb4a07b5117dbc467927b8284c = MAKE_CODEOBJECT(module_filename_obj, 124, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[91], mod_consts[92], NULL, 1, 0, 0);
+    codeobj_e0a9ab9eb972552da5ba55be4d7a941b = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[93], NULL, NULL, 0, 0, 0);
+    codeobj_2c0357273498ea9175f61398fb980c66 = MAKE_CODEOBJECT(module_filename_obj, 105, CO_NOFREE, mod_consts[86], mod_consts[94], NULL, 0, 0, 0);
+    codeobj_773ddc65f3b4308432cfca0c810acb90 = MAKE_CODEOBJECT(module_filename_obj, 63, CO_NOFREE, mod_consts[81], mod_consts[94], NULL, 0, 0, 0);
+    codeobj_67664288c2d4af4fc817328384ce957c = MAKE_CODEOBJECT(module_filename_obj, 106, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[87], mod_consts[95], NULL, 2, 0, 0);
+    codeobj_5d372f2010178dcd9f9109daa84ede14 = MAKE_CODEOBJECT(module_filename_obj, 44, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[67], mod_consts[96], NULL, 2, 0, 0);
+    codeobj_d6d1a4ff97c75079dd7d7ce90ae5d510 = MAKE_CODEOBJECT(module_filename_obj, 67, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[84], mod_consts[97], NULL, 2, 0, 0);
+    codeobj_b6a3a6de03351a4e34c665cd61e54a89 = MAKE_CODEOBJECT(module_filename_obj, 29, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[10], mod_consts[96], NULL, 2, 0, 0);
+    codeobj_d245681a77ebf4f6750c2a7325212dc4 = MAKE_CODEOBJECT(module_filename_obj, 48, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[68], mod_consts[96], NULL, 2, 0, 0);
+    codeobj_4b8d6053bbb4a04f2d2c79a912d447b3 = MAKE_CODEOBJECT(module_filename_obj, 56, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[70], mod_consts[96], NULL, 2, 0, 0);
+    codeobj_aee5e4953b24aca9481d6242a45afa74 = MAKE_CODEOBJECT(module_filename_obj, 52, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[69], mod_consts[96], NULL, 2, 0, 0);
 }
 
 // The module function declarations.
@@ -127,14 +127,14 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__1_linear(struct Nuitka_Fu
     // Local variable declarations.
     PyObject *par_middle = python_pars[0];
     PyObject *par_pos = python_pars[1];
-    struct Nuitka_FrameObject *frame_d4b20f04edb8971a928690031581dce4;
+    struct Nuitka_FrameObject *frame_b6a3a6de03351a4e34c665cd61e54a89;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_d4b20f04edb8971a928690031581dce4 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_b6a3a6de03351a4e34c665cd61e54a89 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -142,31 +142,31 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__1_linear(struct Nuitka_Fu
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_d4b20f04edb8971a928690031581dce4)) {
-        Py_XDECREF(cache_frame_d4b20f04edb8971a928690031581dce4);
+    if (isFrameUnusable(cache_frame_b6a3a6de03351a4e34c665cd61e54a89)) {
+        Py_XDECREF(cache_frame_b6a3a6de03351a4e34c665cd61e54a89);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_d4b20f04edb8971a928690031581dce4 == NULL) {
+        if (cache_frame_b6a3a6de03351a4e34c665cd61e54a89 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_d4b20f04edb8971a928690031581dce4 = MAKE_FUNCTION_FRAME(codeobj_d4b20f04edb8971a928690031581dce4, module_PIL$GimpGradientFile, sizeof(void *)+sizeof(void *));
+        cache_frame_b6a3a6de03351a4e34c665cd61e54a89 = MAKE_FUNCTION_FRAME(codeobj_b6a3a6de03351a4e34c665cd61e54a89, module_PIL$GimpGradientFile, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_d4b20f04edb8971a928690031581dce4->m_type_description == NULL);
-    frame_d4b20f04edb8971a928690031581dce4 = cache_frame_d4b20f04edb8971a928690031581dce4;
+    assert(cache_frame_b6a3a6de03351a4e34c665cd61e54a89->m_type_description == NULL);
+    frame_b6a3a6de03351a4e34c665cd61e54a89 = cache_frame_b6a3a6de03351a4e34c665cd61e54a89;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_d4b20f04edb8971a928690031581dce4);
+    pushFrameStack(frame_b6a3a6de03351a4e34c665cd61e54a89);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_d4b20f04edb8971a928690031581dce4) == 2); // Frame stack
+    assert(Py_REFCNT(frame_b6a3a6de03351a4e34c665cd61e54a89) == 2); // Frame stack
 
     // Framed code:
     {
@@ -442,7 +442,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__1_linear(struct Nuitka_Fu
     branch_end_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d4b20f04edb8971a928690031581dce4);
+    RESTORE_FRAME_EXCEPTION(frame_b6a3a6de03351a4e34c665cd61e54a89);
 #endif
 
     // Put the previous frame back on top.
@@ -452,7 +452,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__1_linear(struct Nuitka_Fu
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d4b20f04edb8971a928690031581dce4);
+    RESTORE_FRAME_EXCEPTION(frame_b6a3a6de03351a4e34c665cd61e54a89);
 #endif
 
     // Put the previous frame back on top.
@@ -463,18 +463,18 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__1_linear(struct Nuitka_Fu
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d4b20f04edb8971a928690031581dce4);
+    RESTORE_FRAME_EXCEPTION(frame_b6a3a6de03351a4e34c665cd61e54a89);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_d4b20f04edb8971a928690031581dce4, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_d4b20f04edb8971a928690031581dce4->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_d4b20f04edb8971a928690031581dce4, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_b6a3a6de03351a4e34c665cd61e54a89, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_b6a3a6de03351a4e34c665cd61e54a89->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_b6a3a6de03351a4e34c665cd61e54a89, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_d4b20f04edb8971a928690031581dce4,
+        frame_b6a3a6de03351a4e34c665cd61e54a89,
         type_description_1,
         par_middle,
         par_pos
@@ -482,17 +482,17 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__1_linear(struct Nuitka_Fu
 
 
     // Release cached frame if used for exception.
-    if (frame_d4b20f04edb8971a928690031581dce4 == cache_frame_d4b20f04edb8971a928690031581dce4) {
+    if (frame_b6a3a6de03351a4e34c665cd61e54a89 == cache_frame_b6a3a6de03351a4e34c665cd61e54a89) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_d4b20f04edb8971a928690031581dce4);
-        cache_frame_d4b20f04edb8971a928690031581dce4 = NULL;
+        Py_DECREF(cache_frame_b6a3a6de03351a4e34c665cd61e54a89);
+        cache_frame_b6a3a6de03351a4e34c665cd61e54a89 = NULL;
     }
 
-    assertFrameObject(frame_d4b20f04edb8971a928690031581dce4);
+    assertFrameObject(frame_b6a3a6de03351a4e34c665cd61e54a89);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -564,14 +564,14 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__2_curved(struct Nuitka_Fu
     // Local variable declarations.
     PyObject *par_middle = python_pars[0];
     PyObject *par_pos = python_pars[1];
-    struct Nuitka_FrameObject *frame_3f675392eaa4f0bd8fd15b70d69826a6;
+    struct Nuitka_FrameObject *frame_5d372f2010178dcd9f9109daa84ede14;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_3f675392eaa4f0bd8fd15b70d69826a6 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_5d372f2010178dcd9f9109daa84ede14 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -579,31 +579,31 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__2_curved(struct Nuitka_Fu
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_3f675392eaa4f0bd8fd15b70d69826a6)) {
-        Py_XDECREF(cache_frame_3f675392eaa4f0bd8fd15b70d69826a6);
+    if (isFrameUnusable(cache_frame_5d372f2010178dcd9f9109daa84ede14)) {
+        Py_XDECREF(cache_frame_5d372f2010178dcd9f9109daa84ede14);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_3f675392eaa4f0bd8fd15b70d69826a6 == NULL) {
+        if (cache_frame_5d372f2010178dcd9f9109daa84ede14 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_3f675392eaa4f0bd8fd15b70d69826a6 = MAKE_FUNCTION_FRAME(codeobj_3f675392eaa4f0bd8fd15b70d69826a6, module_PIL$GimpGradientFile, sizeof(void *)+sizeof(void *));
+        cache_frame_5d372f2010178dcd9f9109daa84ede14 = MAKE_FUNCTION_FRAME(codeobj_5d372f2010178dcd9f9109daa84ede14, module_PIL$GimpGradientFile, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_3f675392eaa4f0bd8fd15b70d69826a6->m_type_description == NULL);
-    frame_3f675392eaa4f0bd8fd15b70d69826a6 = cache_frame_3f675392eaa4f0bd8fd15b70d69826a6;
+    assert(cache_frame_5d372f2010178dcd9f9109daa84ede14->m_type_description == NULL);
+    frame_5d372f2010178dcd9f9109daa84ede14 = cache_frame_5d372f2010178dcd9f9109daa84ede14;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_3f675392eaa4f0bd8fd15b70d69826a6);
+    pushFrameStack(frame_5d372f2010178dcd9f9109daa84ede14);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_3f675392eaa4f0bd8fd15b70d69826a6) == 2); // Frame stack
+    assert(Py_REFCNT(frame_5d372f2010178dcd9f9109daa84ede14) == 2); // Frame stack
 
     // Framed code:
     {
@@ -635,7 +635,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__2_curved(struct Nuitka_Fu
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_3f675392eaa4f0bd8fd15b70d69826a6->m_frame.f_lineno = 45;
+        frame_5d372f2010178dcd9f9109daa84ede14->m_frame.f_lineno = 45;
         tmp_left_name_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, mod_consts[2]);
         if (tmp_left_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -683,7 +683,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__2_curved(struct Nuitka_Fu
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_3f675392eaa4f0bd8fd15b70d69826a6->m_frame.f_lineno = 45;
+        frame_5d372f2010178dcd9f9109daa84ede14->m_frame.f_lineno = 45;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_args_element_name_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -699,7 +699,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__2_curved(struct Nuitka_Fu
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_3f675392eaa4f0bd8fd15b70d69826a6->m_frame.f_lineno = 45;
+        frame_5d372f2010178dcd9f9109daa84ede14->m_frame.f_lineno = 45;
         tmp_right_name_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_right_name_2 == NULL) {
@@ -741,7 +741,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__2_curved(struct Nuitka_Fu
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3f675392eaa4f0bd8fd15b70d69826a6);
+    RESTORE_FRAME_EXCEPTION(frame_5d372f2010178dcd9f9109daa84ede14);
 #endif
 
     // Put the previous frame back on top.
@@ -751,7 +751,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__2_curved(struct Nuitka_Fu
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3f675392eaa4f0bd8fd15b70d69826a6);
+    RESTORE_FRAME_EXCEPTION(frame_5d372f2010178dcd9f9109daa84ede14);
 #endif
 
     // Put the previous frame back on top.
@@ -762,18 +762,18 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__2_curved(struct Nuitka_Fu
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3f675392eaa4f0bd8fd15b70d69826a6);
+    RESTORE_FRAME_EXCEPTION(frame_5d372f2010178dcd9f9109daa84ede14);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_3f675392eaa4f0bd8fd15b70d69826a6, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_3f675392eaa4f0bd8fd15b70d69826a6->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_3f675392eaa4f0bd8fd15b70d69826a6, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_5d372f2010178dcd9f9109daa84ede14, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_5d372f2010178dcd9f9109daa84ede14->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_5d372f2010178dcd9f9109daa84ede14, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_3f675392eaa4f0bd8fd15b70d69826a6,
+        frame_5d372f2010178dcd9f9109daa84ede14,
         type_description_1,
         par_middle,
         par_pos
@@ -781,17 +781,17 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__2_curved(struct Nuitka_Fu
 
 
     // Release cached frame if used for exception.
-    if (frame_3f675392eaa4f0bd8fd15b70d69826a6 == cache_frame_3f675392eaa4f0bd8fd15b70d69826a6) {
+    if (frame_5d372f2010178dcd9f9109daa84ede14 == cache_frame_5d372f2010178dcd9f9109daa84ede14) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_3f675392eaa4f0bd8fd15b70d69826a6);
-        cache_frame_3f675392eaa4f0bd8fd15b70d69826a6 = NULL;
+        Py_DECREF(cache_frame_5d372f2010178dcd9f9109daa84ede14);
+        cache_frame_5d372f2010178dcd9f9109daa84ede14 = NULL;
     }
 
-    assertFrameObject(frame_3f675392eaa4f0bd8fd15b70d69826a6);
+    assertFrameObject(frame_5d372f2010178dcd9f9109daa84ede14);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -865,14 +865,14 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__3_sine(struct Nuitka_Func
     // Local variable declarations.
     PyObject *par_middle = python_pars[0];
     PyObject *par_pos = python_pars[1];
-    struct Nuitka_FrameObject *frame_32bc91a7c399b2c6378a0bbdcf3d2f22;
+    struct Nuitka_FrameObject *frame_d245681a77ebf4f6750c2a7325212dc4;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_32bc91a7c399b2c6378a0bbdcf3d2f22 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d245681a77ebf4f6750c2a7325212dc4 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -880,31 +880,31 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__3_sine(struct Nuitka_Func
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_32bc91a7c399b2c6378a0bbdcf3d2f22)) {
-        Py_XDECREF(cache_frame_32bc91a7c399b2c6378a0bbdcf3d2f22);
+    if (isFrameUnusable(cache_frame_d245681a77ebf4f6750c2a7325212dc4)) {
+        Py_XDECREF(cache_frame_d245681a77ebf4f6750c2a7325212dc4);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_32bc91a7c399b2c6378a0bbdcf3d2f22 == NULL) {
+        if (cache_frame_d245681a77ebf4f6750c2a7325212dc4 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_32bc91a7c399b2c6378a0bbdcf3d2f22 = MAKE_FUNCTION_FRAME(codeobj_32bc91a7c399b2c6378a0bbdcf3d2f22, module_PIL$GimpGradientFile, sizeof(void *)+sizeof(void *));
+        cache_frame_d245681a77ebf4f6750c2a7325212dc4 = MAKE_FUNCTION_FRAME(codeobj_d245681a77ebf4f6750c2a7325212dc4, module_PIL$GimpGradientFile, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_32bc91a7c399b2c6378a0bbdcf3d2f22->m_type_description == NULL);
-    frame_32bc91a7c399b2c6378a0bbdcf3d2f22 = cache_frame_32bc91a7c399b2c6378a0bbdcf3d2f22;
+    assert(cache_frame_d245681a77ebf4f6750c2a7325212dc4->m_type_description == NULL);
+    frame_d245681a77ebf4f6750c2a7325212dc4 = cache_frame_d245681a77ebf4f6750c2a7325212dc4;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_32bc91a7c399b2c6378a0bbdcf3d2f22);
+    pushFrameStack(frame_d245681a77ebf4f6750c2a7325212dc4);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_32bc91a7c399b2c6378a0bbdcf3d2f22) == 2); // Frame stack
+    assert(Py_REFCNT(frame_d245681a77ebf4f6750c2a7325212dc4) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1016,7 +1016,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__3_sine(struct Nuitka_Func
         tmp_args_element_name_2 = par_middle;
         CHECK_OBJECT(par_pos);
         tmp_args_element_name_3 = par_pos;
-        frame_32bc91a7c399b2c6378a0bbdcf3d2f22->m_frame.f_lineno = 49;
+        frame_d245681a77ebf4f6750c2a7325212dc4->m_frame.f_lineno = 49;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_right_name_3 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -1057,7 +1057,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__3_sine(struct Nuitka_Func
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_32bc91a7c399b2c6378a0bbdcf3d2f22->m_frame.f_lineno = 49;
+        frame_d245681a77ebf4f6750c2a7325212dc4->m_frame.f_lineno = 49;
         tmp_left_name_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_left_name_2 == NULL) {
@@ -1100,7 +1100,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__3_sine(struct Nuitka_Func
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_32bc91a7c399b2c6378a0bbdcf3d2f22);
+    RESTORE_FRAME_EXCEPTION(frame_d245681a77ebf4f6750c2a7325212dc4);
 #endif
 
     // Put the previous frame back on top.
@@ -1110,7 +1110,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__3_sine(struct Nuitka_Func
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_32bc91a7c399b2c6378a0bbdcf3d2f22);
+    RESTORE_FRAME_EXCEPTION(frame_d245681a77ebf4f6750c2a7325212dc4);
 #endif
 
     // Put the previous frame back on top.
@@ -1121,18 +1121,18 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__3_sine(struct Nuitka_Func
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_32bc91a7c399b2c6378a0bbdcf3d2f22);
+    RESTORE_FRAME_EXCEPTION(frame_d245681a77ebf4f6750c2a7325212dc4);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_32bc91a7c399b2c6378a0bbdcf3d2f22, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_32bc91a7c399b2c6378a0bbdcf3d2f22->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_32bc91a7c399b2c6378a0bbdcf3d2f22, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d245681a77ebf4f6750c2a7325212dc4, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d245681a77ebf4f6750c2a7325212dc4->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d245681a77ebf4f6750c2a7325212dc4, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_32bc91a7c399b2c6378a0bbdcf3d2f22,
+        frame_d245681a77ebf4f6750c2a7325212dc4,
         type_description_1,
         par_middle,
         par_pos
@@ -1140,17 +1140,17 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__3_sine(struct Nuitka_Func
 
 
     // Release cached frame if used for exception.
-    if (frame_32bc91a7c399b2c6378a0bbdcf3d2f22 == cache_frame_32bc91a7c399b2c6378a0bbdcf3d2f22) {
+    if (frame_d245681a77ebf4f6750c2a7325212dc4 == cache_frame_d245681a77ebf4f6750c2a7325212dc4) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_32bc91a7c399b2c6378a0bbdcf3d2f22);
-        cache_frame_32bc91a7c399b2c6378a0bbdcf3d2f22 = NULL;
+        Py_DECREF(cache_frame_d245681a77ebf4f6750c2a7325212dc4);
+        cache_frame_d245681a77ebf4f6750c2a7325212dc4 = NULL;
     }
 
-    assertFrameObject(frame_32bc91a7c399b2c6378a0bbdcf3d2f22);
+    assertFrameObject(frame_d245681a77ebf4f6750c2a7325212dc4);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1226,14 +1226,14 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__4_sphere_increasing(struc
     // Local variable declarations.
     PyObject *par_middle = python_pars[0];
     PyObject *par_pos = python_pars[1];
-    struct Nuitka_FrameObject *frame_4d790db8234d944cba3622c05f3afec3;
+    struct Nuitka_FrameObject *frame_aee5e4953b24aca9481d6242a45afa74;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_4d790db8234d944cba3622c05f3afec3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_aee5e4953b24aca9481d6242a45afa74 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -1241,31 +1241,31 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__4_sphere_increasing(struc
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_4d790db8234d944cba3622c05f3afec3)) {
-        Py_XDECREF(cache_frame_4d790db8234d944cba3622c05f3afec3);
+    if (isFrameUnusable(cache_frame_aee5e4953b24aca9481d6242a45afa74)) {
+        Py_XDECREF(cache_frame_aee5e4953b24aca9481d6242a45afa74);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_4d790db8234d944cba3622c05f3afec3 == NULL) {
+        if (cache_frame_aee5e4953b24aca9481d6242a45afa74 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_4d790db8234d944cba3622c05f3afec3 = MAKE_FUNCTION_FRAME(codeobj_4d790db8234d944cba3622c05f3afec3, module_PIL$GimpGradientFile, sizeof(void *)+sizeof(void *));
+        cache_frame_aee5e4953b24aca9481d6242a45afa74 = MAKE_FUNCTION_FRAME(codeobj_aee5e4953b24aca9481d6242a45afa74, module_PIL$GimpGradientFile, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_4d790db8234d944cba3622c05f3afec3->m_type_description == NULL);
-    frame_4d790db8234d944cba3622c05f3afec3 = cache_frame_4d790db8234d944cba3622c05f3afec3;
+    assert(cache_frame_aee5e4953b24aca9481d6242a45afa74->m_type_description == NULL);
+    frame_aee5e4953b24aca9481d6242a45afa74 = cache_frame_aee5e4953b24aca9481d6242a45afa74;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_4d790db8234d944cba3622c05f3afec3);
+    pushFrameStack(frame_aee5e4953b24aca9481d6242a45afa74);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_4d790db8234d944cba3622c05f3afec3) == 2); // Frame stack
+    assert(Py_REFCNT(frame_aee5e4953b24aca9481d6242a45afa74) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1317,7 +1317,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__4_sphere_increasing(struc
         tmp_args_element_name_2 = par_middle;
         CHECK_OBJECT(par_pos);
         tmp_args_element_name_3 = par_pos;
-        frame_4d790db8234d944cba3622c05f3afec3->m_frame.f_lineno = 53;
+        frame_aee5e4953b24aca9481d6242a45afa74->m_frame.f_lineno = 53;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_left_name_3 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -1371,7 +1371,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__4_sphere_increasing(struc
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_4d790db8234d944cba3622c05f3afec3->m_frame.f_lineno = 53;
+        frame_aee5e4953b24aca9481d6242a45afa74->m_frame.f_lineno = 53;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_return_value == NULL) {
@@ -1388,7 +1388,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__4_sphere_increasing(struc
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4d790db8234d944cba3622c05f3afec3);
+    RESTORE_FRAME_EXCEPTION(frame_aee5e4953b24aca9481d6242a45afa74);
 #endif
 
     // Put the previous frame back on top.
@@ -1398,7 +1398,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__4_sphere_increasing(struc
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4d790db8234d944cba3622c05f3afec3);
+    RESTORE_FRAME_EXCEPTION(frame_aee5e4953b24aca9481d6242a45afa74);
 #endif
 
     // Put the previous frame back on top.
@@ -1409,18 +1409,18 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__4_sphere_increasing(struc
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4d790db8234d944cba3622c05f3afec3);
+    RESTORE_FRAME_EXCEPTION(frame_aee5e4953b24aca9481d6242a45afa74);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_4d790db8234d944cba3622c05f3afec3, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_4d790db8234d944cba3622c05f3afec3->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_4d790db8234d944cba3622c05f3afec3, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_aee5e4953b24aca9481d6242a45afa74, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_aee5e4953b24aca9481d6242a45afa74->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_aee5e4953b24aca9481d6242a45afa74, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_4d790db8234d944cba3622c05f3afec3,
+        frame_aee5e4953b24aca9481d6242a45afa74,
         type_description_1,
         par_middle,
         par_pos
@@ -1428,17 +1428,17 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__4_sphere_increasing(struc
 
 
     // Release cached frame if used for exception.
-    if (frame_4d790db8234d944cba3622c05f3afec3 == cache_frame_4d790db8234d944cba3622c05f3afec3) {
+    if (frame_aee5e4953b24aca9481d6242a45afa74 == cache_frame_aee5e4953b24aca9481d6242a45afa74) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_4d790db8234d944cba3622c05f3afec3);
-        cache_frame_4d790db8234d944cba3622c05f3afec3 = NULL;
+        Py_DECREF(cache_frame_aee5e4953b24aca9481d6242a45afa74);
+        cache_frame_aee5e4953b24aca9481d6242a45afa74 = NULL;
     }
 
-    assertFrameObject(frame_4d790db8234d944cba3622c05f3afec3);
+    assertFrameObject(frame_aee5e4953b24aca9481d6242a45afa74);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1514,14 +1514,14 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__5_sphere_decreasing(struc
     // Local variable declarations.
     PyObject *par_middle = python_pars[0];
     PyObject *par_pos = python_pars[1];
-    struct Nuitka_FrameObject *frame_10f324431ebe487d03efa3eef5ea6756;
+    struct Nuitka_FrameObject *frame_4b8d6053bbb4a04f2d2c79a912d447b3;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_10f324431ebe487d03efa3eef5ea6756 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_4b8d6053bbb4a04f2d2c79a912d447b3 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -1529,31 +1529,31 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__5_sphere_decreasing(struc
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_10f324431ebe487d03efa3eef5ea6756)) {
-        Py_XDECREF(cache_frame_10f324431ebe487d03efa3eef5ea6756);
+    if (isFrameUnusable(cache_frame_4b8d6053bbb4a04f2d2c79a912d447b3)) {
+        Py_XDECREF(cache_frame_4b8d6053bbb4a04f2d2c79a912d447b3);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_10f324431ebe487d03efa3eef5ea6756 == NULL) {
+        if (cache_frame_4b8d6053bbb4a04f2d2c79a912d447b3 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_10f324431ebe487d03efa3eef5ea6756 = MAKE_FUNCTION_FRAME(codeobj_10f324431ebe487d03efa3eef5ea6756, module_PIL$GimpGradientFile, sizeof(void *)+sizeof(void *));
+        cache_frame_4b8d6053bbb4a04f2d2c79a912d447b3 = MAKE_FUNCTION_FRAME(codeobj_4b8d6053bbb4a04f2d2c79a912d447b3, module_PIL$GimpGradientFile, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_10f324431ebe487d03efa3eef5ea6756->m_type_description == NULL);
-    frame_10f324431ebe487d03efa3eef5ea6756 = cache_frame_10f324431ebe487d03efa3eef5ea6756;
+    assert(cache_frame_4b8d6053bbb4a04f2d2c79a912d447b3->m_type_description == NULL);
+    frame_4b8d6053bbb4a04f2d2c79a912d447b3 = cache_frame_4b8d6053bbb4a04f2d2c79a912d447b3;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_10f324431ebe487d03efa3eef5ea6756);
+    pushFrameStack(frame_4b8d6053bbb4a04f2d2c79a912d447b3);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_10f324431ebe487d03efa3eef5ea6756) == 2); // Frame stack
+    assert(Py_REFCNT(frame_4b8d6053bbb4a04f2d2c79a912d447b3) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1606,7 +1606,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__5_sphere_decreasing(struc
         tmp_args_element_name_2 = par_middle;
         CHECK_OBJECT(par_pos);
         tmp_args_element_name_3 = par_pos;
-        frame_10f324431ebe487d03efa3eef5ea6756->m_frame.f_lineno = 57;
+        frame_4b8d6053bbb4a04f2d2c79a912d447b3->m_frame.f_lineno = 57;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_left_name_3 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -1647,7 +1647,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__5_sphere_decreasing(struc
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_10f324431ebe487d03efa3eef5ea6756->m_frame.f_lineno = 57;
+        frame_4b8d6053bbb4a04f2d2c79a912d447b3->m_frame.f_lineno = 57;
         tmp_right_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_right_name_1 == NULL) {
@@ -1676,7 +1676,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__5_sphere_decreasing(struc
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_10f324431ebe487d03efa3eef5ea6756);
+    RESTORE_FRAME_EXCEPTION(frame_4b8d6053bbb4a04f2d2c79a912d447b3);
 #endif
 
     // Put the previous frame back on top.
@@ -1686,7 +1686,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__5_sphere_decreasing(struc
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_10f324431ebe487d03efa3eef5ea6756);
+    RESTORE_FRAME_EXCEPTION(frame_4b8d6053bbb4a04f2d2c79a912d447b3);
 #endif
 
     // Put the previous frame back on top.
@@ -1697,18 +1697,18 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__5_sphere_decreasing(struc
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_10f324431ebe487d03efa3eef5ea6756);
+    RESTORE_FRAME_EXCEPTION(frame_4b8d6053bbb4a04f2d2c79a912d447b3);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_10f324431ebe487d03efa3eef5ea6756, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_10f324431ebe487d03efa3eef5ea6756->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_10f324431ebe487d03efa3eef5ea6756, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_4b8d6053bbb4a04f2d2c79a912d447b3, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_4b8d6053bbb4a04f2d2c79a912d447b3->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_4b8d6053bbb4a04f2d2c79a912d447b3, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_10f324431ebe487d03efa3eef5ea6756,
+        frame_4b8d6053bbb4a04f2d2c79a912d447b3,
         type_description_1,
         par_middle,
         par_pos
@@ -1716,17 +1716,17 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__5_sphere_decreasing(struc
 
 
     // Release cached frame if used for exception.
-    if (frame_10f324431ebe487d03efa3eef5ea6756 == cache_frame_10f324431ebe487d03efa3eef5ea6756) {
+    if (frame_4b8d6053bbb4a04f2d2c79a912d447b3 == cache_frame_4b8d6053bbb4a04f2d2c79a912d447b3) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_10f324431ebe487d03efa3eef5ea6756);
-        cache_frame_10f324431ebe487d03efa3eef5ea6756 = NULL;
+        Py_DECREF(cache_frame_4b8d6053bbb4a04f2d2c79a912d447b3);
+        cache_frame_4b8d6053bbb4a04f2d2c79a912d447b3 = NULL;
     }
 
-    assertFrameObject(frame_10f324431ebe487d03efa3eef5ea6756);
+    assertFrameObject(frame_4b8d6053bbb4a04f2d2c79a912d447b3);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1834,7 +1834,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__6_getpalette(struct Nuitk
     PyObject *tmp_tuple_unpack_2__element_5 = NULL;
     PyObject *tmp_tuple_unpack_2__element_6 = NULL;
     PyObject *tmp_tuple_unpack_2__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_57e610c81ffe9cea3ade1ad1ef1fa53e;
+    struct Nuitka_FrameObject *frame_d6d1a4ff97c75079dd7d7ce90ae5d510;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -1865,7 +1865,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__6_getpalette(struct Nuitk
     PyTracebackObject *exception_keeper_tb_5;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_5;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_57e610c81ffe9cea3ade1ad1ef1fa53e = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d6d1a4ff97c75079dd7d7ce90ae5d510 = NULL;
     PyObject *exception_keeper_type_6;
     PyObject *exception_keeper_value_6;
     PyTracebackObject *exception_keeper_tb_6;
@@ -1886,31 +1886,31 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__6_getpalette(struct Nuitk
         var_ix = tmp_assign_source_2;
     }
     // Tried code:
-    if (isFrameUnusable(cache_frame_57e610c81ffe9cea3ade1ad1ef1fa53e)) {
-        Py_XDECREF(cache_frame_57e610c81ffe9cea3ade1ad1ef1fa53e);
+    if (isFrameUnusable(cache_frame_d6d1a4ff97c75079dd7d7ce90ae5d510)) {
+        Py_XDECREF(cache_frame_d6d1a4ff97c75079dd7d7ce90ae5d510);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_57e610c81ffe9cea3ade1ad1ef1fa53e == NULL) {
+        if (cache_frame_d6d1a4ff97c75079dd7d7ce90ae5d510 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_57e610c81ffe9cea3ade1ad1ef1fa53e = MAKE_FUNCTION_FRAME(codeobj_57e610c81ffe9cea3ade1ad1ef1fa53e, module_PIL$GimpGradientFile, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_d6d1a4ff97c75079dd7d7ce90ae5d510 = MAKE_FUNCTION_FRAME(codeobj_d6d1a4ff97c75079dd7d7ce90ae5d510, module_PIL$GimpGradientFile, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_57e610c81ffe9cea3ade1ad1ef1fa53e->m_type_description == NULL);
-    frame_57e610c81ffe9cea3ade1ad1ef1fa53e = cache_frame_57e610c81ffe9cea3ade1ad1ef1fa53e;
+    assert(cache_frame_d6d1a4ff97c75079dd7d7ce90ae5d510->m_type_description == NULL);
+    frame_d6d1a4ff97c75079dd7d7ce90ae5d510 = cache_frame_d6d1a4ff97c75079dd7d7ce90ae5d510;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_57e610c81ffe9cea3ade1ad1ef1fa53e);
+    pushFrameStack(frame_d6d1a4ff97c75079dd7d7ce90ae5d510);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_57e610c81ffe9cea3ade1ad1ef1fa53e) == 2); // Frame stack
+    assert(Py_REFCNT(frame_d6d1a4ff97c75079dd7d7ce90ae5d510) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -3053,7 +3053,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__6_getpalette(struct Nuitk
         }
 
         tmp_called_name_1 = var_segment;
-        frame_57e610c81ffe9cea3ade1ad1ef1fa53e->m_frame.f_lineno = 85;
+        frame_d6d1a4ff97c75079dd7d7ce90ae5d510->m_frame.f_lineno = 85;
         tmp_assign_source_35 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, &PyTuple_GET_ITEM(mod_consts[24], 0));
 
         if (tmp_assign_source_35 == NULL) {
@@ -3215,7 +3215,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__6_getpalette(struct Nuitk
             type_description_1 = "oooooooooooooooooo";
             goto try_except_handler_4;
         }
-        frame_57e610c81ffe9cea3ade1ad1ef1fa53e->m_frame.f_lineno = 87;
+        frame_d6d1a4ff97c75079dd7d7ce90ae5d510->m_frame.f_lineno = 87;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_36 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -3431,7 +3431,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__6_getpalette(struct Nuitk
             type_description_1 = "oooooooooooooooooo";
             goto try_except_handler_4;
         }
-        frame_57e610c81ffe9cea3ade1ad1ef1fa53e->m_frame.f_lineno = 90;
+        frame_d6d1a4ff97c75079dd7d7ce90ae5d510->m_frame.f_lineno = 90;
         tmp_assign_source_37 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
         Py_DECREF(tmp_args_element_name_3);
         if (tmp_assign_source_37 == NULL) {
@@ -3652,7 +3652,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__6_getpalette(struct Nuitk
             type_description_1 = "oooooooooooooooooo";
             goto try_except_handler_4;
         }
-        frame_57e610c81ffe9cea3ade1ad1ef1fa53e->m_frame.f_lineno = 91;
+        frame_d6d1a4ff97c75079dd7d7ce90ae5d510->m_frame.f_lineno = 91;
         tmp_assign_source_38 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_4);
         Py_DECREF(tmp_args_element_name_4);
         if (tmp_assign_source_38 == NULL) {
@@ -3873,7 +3873,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__6_getpalette(struct Nuitk
             type_description_1 = "oooooooooooooooooo";
             goto try_except_handler_4;
         }
-        frame_57e610c81ffe9cea3ade1ad1ef1fa53e->m_frame.f_lineno = 92;
+        frame_d6d1a4ff97c75079dd7d7ce90ae5d510->m_frame.f_lineno = 92;
         tmp_assign_source_39 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_5);
         Py_DECREF(tmp_args_element_name_5);
         if (tmp_assign_source_39 == NULL) {
@@ -4094,7 +4094,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__6_getpalette(struct Nuitk
             type_description_1 = "oooooooooooooooooo";
             goto try_except_handler_4;
         }
-        frame_57e610c81ffe9cea3ade1ad1ef1fa53e->m_frame.f_lineno = 93;
+        frame_d6d1a4ff97c75079dd7d7ce90ae5d510->m_frame.f_lineno = 93;
         tmp_assign_source_40 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_6);
         Py_DECREF(tmp_args_element_name_6);
         if (tmp_assign_source_40 == NULL) {
@@ -4192,7 +4192,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__6_getpalette(struct Nuitk
             type_description_1 = "oooooooooooooooooo";
             goto try_except_handler_4;
         }
-        frame_57e610c81ffe9cea3ade1ad1ef1fa53e->m_frame.f_lineno = 96;
+        frame_d6d1a4ff97c75079dd7d7ce90ae5d510->m_frame.f_lineno = 96;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_7, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_7);
         Py_DECREF(tmp_args_element_name_7);
@@ -4270,7 +4270,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__6_getpalette(struct Nuitk
         }
 
         tmp_args_element_name_8 = var_palette;
-        frame_57e610c81ffe9cea3ade1ad1ef1fa53e->m_frame.f_lineno = 98;
+        frame_d6d1a4ff97c75079dd7d7ce90ae5d510->m_frame.f_lineno = 98;
         tmp_tuple_element_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_8, tmp_args_element_name_8);
         Py_DECREF(tmp_called_name_8);
         if (tmp_tuple_element_1 == NULL) {
@@ -4291,7 +4291,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__6_getpalette(struct Nuitk
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_57e610c81ffe9cea3ade1ad1ef1fa53e);
+    RESTORE_FRAME_EXCEPTION(frame_d6d1a4ff97c75079dd7d7ce90ae5d510);
 #endif
 
     // Put the previous frame back on top.
@@ -4301,7 +4301,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__6_getpalette(struct Nuitk
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_57e610c81ffe9cea3ade1ad1ef1fa53e);
+    RESTORE_FRAME_EXCEPTION(frame_d6d1a4ff97c75079dd7d7ce90ae5d510);
 #endif
 
     // Put the previous frame back on top.
@@ -4312,18 +4312,18 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__6_getpalette(struct Nuitk
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_57e610c81ffe9cea3ade1ad1ef1fa53e);
+    RESTORE_FRAME_EXCEPTION(frame_d6d1a4ff97c75079dd7d7ce90ae5d510);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_57e610c81ffe9cea3ade1ad1ef1fa53e, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_57e610c81ffe9cea3ade1ad1ef1fa53e->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_57e610c81ffe9cea3ade1ad1ef1fa53e, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d6d1a4ff97c75079dd7d7ce90ae5d510, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d6d1a4ff97c75079dd7d7ce90ae5d510->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d6d1a4ff97c75079dd7d7ce90ae5d510, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_57e610c81ffe9cea3ade1ad1ef1fa53e,
+        frame_d6d1a4ff97c75079dd7d7ce90ae5d510,
         type_description_1,
         par_self,
         par_entries,
@@ -4347,17 +4347,17 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__6_getpalette(struct Nuitk
 
 
     // Release cached frame if used for exception.
-    if (frame_57e610c81ffe9cea3ade1ad1ef1fa53e == cache_frame_57e610c81ffe9cea3ade1ad1ef1fa53e) {
+    if (frame_d6d1a4ff97c75079dd7d7ce90ae5d510 == cache_frame_d6d1a4ff97c75079dd7d7ce90ae5d510) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_57e610c81ffe9cea3ade1ad1ef1fa53e);
-        cache_frame_57e610c81ffe9cea3ade1ad1ef1fa53e = NULL;
+        Py_DECREF(cache_frame_d6d1a4ff97c75079dd7d7ce90ae5d510);
+        cache_frame_d6d1a4ff97c75079dd7d7ce90ae5d510 = NULL;
     }
 
-    assertFrameObject(frame_57e610c81ffe9cea3ade1ad1ef1fa53e);
+    assertFrameObject(frame_d6d1a4ff97c75079dd7d7ce90ae5d510);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -4515,20 +4515,20 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_e492d77b7dcc46bd4f5534b70f920351;
+    struct Nuitka_FrameObject *frame_67664288c2d4af4fc817328384ce957c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    struct Nuitka_FrameObject *frame_24d401bf0413a65f51a487153776e4dd_2;
+    struct Nuitka_FrameObject *frame_3aef3feb4a07b5117dbc467927b8284c_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
     bool tmp_result;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_1;
-    static struct Nuitka_FrameObject *cache_frame_24d401bf0413a65f51a487153776e4dd_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_3aef3feb4a07b5117dbc467927b8284c_2 = NULL;
     PyObject *exception_keeper_type_2;
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
@@ -4547,7 +4547,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
     PyObject *exception_keeper_value_5;
     PyTracebackObject *exception_keeper_tb_5;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_5;
-    static struct Nuitka_FrameObject *cache_frame_e492d77b7dcc46bd4f5534b70f920351 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_67664288c2d4af4fc817328384ce957c = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_6;
     PyObject *exception_keeper_value_6;
@@ -4556,31 +4556,31 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_e492d77b7dcc46bd4f5534b70f920351)) {
-        Py_XDECREF(cache_frame_e492d77b7dcc46bd4f5534b70f920351);
+    if (isFrameUnusable(cache_frame_67664288c2d4af4fc817328384ce957c)) {
+        Py_XDECREF(cache_frame_67664288c2d4af4fc817328384ce957c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_e492d77b7dcc46bd4f5534b70f920351 == NULL) {
+        if (cache_frame_67664288c2d4af4fc817328384ce957c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_e492d77b7dcc46bd4f5534b70f920351 = MAKE_FUNCTION_FRAME(codeobj_e492d77b7dcc46bd4f5534b70f920351, module_PIL$GimpGradientFile, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_67664288c2d4af4fc817328384ce957c = MAKE_FUNCTION_FRAME(codeobj_67664288c2d4af4fc817328384ce957c, module_PIL$GimpGradientFile, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_e492d77b7dcc46bd4f5534b70f920351->m_type_description == NULL);
-    frame_e492d77b7dcc46bd4f5534b70f920351 = cache_frame_e492d77b7dcc46bd4f5534b70f920351;
+    assert(cache_frame_67664288c2d4af4fc817328384ce957c->m_type_description == NULL);
+    frame_67664288c2d4af4fc817328384ce957c = cache_frame_67664288c2d4af4fc817328384ce957c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_e492d77b7dcc46bd4f5534b70f920351);
+    pushFrameStack(frame_67664288c2d4af4fc817328384ce957c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_e492d77b7dcc46bd4f5534b70f920351) == 2); // Frame stack
+    assert(Py_REFCNT(frame_67664288c2d4af4fc817328384ce957c) == 2); // Frame stack
 
     // Framed code:
     {
@@ -4594,7 +4594,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
         int tmp_truth_name_1;
         CHECK_OBJECT(par_fp);
         tmp_called_instance_1 = par_fp;
-        frame_e492d77b7dcc46bd4f5534b70f920351->m_frame.f_lineno = 108;
+        frame_67664288c2d4af4fc817328384ce957c->m_frame.f_lineno = 108;
         tmp_expression_name_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[38]);
         if (tmp_expression_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4656,7 +4656,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[41];
-        frame_e492d77b7dcc46bd4f5534b70f920351->m_frame.f_lineno = 109;
+        frame_67664288c2d4af4fc817328384ce957c->m_frame.f_lineno = 109;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_SyntaxError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -4682,7 +4682,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
         }
 
         tmp_called_instance_2 = par_fp;
-        frame_e492d77b7dcc46bd4f5534b70f920351->m_frame.f_lineno = 111;
+        frame_67664288c2d4af4fc817328384ce957c->m_frame.f_lineno = 111;
         tmp_assign_source_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[38]);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4704,7 +4704,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
         int tmp_truth_name_2;
         CHECK_OBJECT(var_line);
         tmp_called_instance_3 = var_line;
-        frame_e492d77b7dcc46bd4f5534b70f920351->m_frame.f_lineno = 114;
+        frame_67664288c2d4af4fc817328384ce957c->m_frame.f_lineno = 114;
         tmp_call_result_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_3,
             mod_consts[43],
@@ -4758,7 +4758,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
         }
 
         tmp_called_instance_5 = par_fp;
-        frame_e492d77b7dcc46bd4f5534b70f920351->m_frame.f_lineno = 115;
+        frame_67664288c2d4af4fc817328384ce957c->m_frame.f_lineno = 115;
         tmp_called_instance_4 = CALL_METHOD_NO_ARGS(tmp_called_instance_5, mod_consts[38]);
         if (tmp_called_instance_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4770,7 +4770,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
             type_description_1 = "ooooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_e492d77b7dcc46bd4f5534b70f920351->m_frame.f_lineno = 115;
+        frame_67664288c2d4af4fc817328384ce957c->m_frame.f_lineno = 115;
         tmp_assign_source_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_4, mod_consts[45]);
         Py_DECREF(tmp_called_instance_4);
         if (tmp_assign_source_2 == NULL) {
@@ -4916,7 +4916,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
         }
 
         tmp_called_instance_7 = par_fp;
-        frame_e492d77b7dcc46bd4f5534b70f920351->m_frame.f_lineno = 123;
+        frame_67664288c2d4af4fc817328384ce957c->m_frame.f_lineno = 123;
         tmp_called_instance_6 = CALL_METHOD_NO_ARGS(tmp_called_instance_7, mod_consts[38]);
         if (tmp_called_instance_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4928,7 +4928,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_2;
         }
-        frame_e492d77b7dcc46bd4f5534b70f920351->m_frame.f_lineno = 123;
+        frame_67664288c2d4af4fc817328384ce957c->m_frame.f_lineno = 123;
         tmp_assign_source_8 = CALL_METHOD_NO_ARGS(tmp_called_instance_6, mod_consts[47]);
         Py_DECREF(tmp_called_instance_6);
         if (tmp_assign_source_8 == NULL) {
@@ -4999,31 +4999,31 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
             }
 
         }
-        if (isFrameUnusable(cache_frame_24d401bf0413a65f51a487153776e4dd_2)) {
-            Py_XDECREF(cache_frame_24d401bf0413a65f51a487153776e4dd_2);
+        if (isFrameUnusable(cache_frame_3aef3feb4a07b5117dbc467927b8284c_2)) {
+            Py_XDECREF(cache_frame_3aef3feb4a07b5117dbc467927b8284c_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_24d401bf0413a65f51a487153776e4dd_2 == NULL) {
+            if (cache_frame_3aef3feb4a07b5117dbc467927b8284c_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_24d401bf0413a65f51a487153776e4dd_2 = MAKE_FUNCTION_FRAME(codeobj_24d401bf0413a65f51a487153776e4dd, module_PIL$GimpGradientFile, sizeof(void *));
+            cache_frame_3aef3feb4a07b5117dbc467927b8284c_2 = MAKE_FUNCTION_FRAME(codeobj_3aef3feb4a07b5117dbc467927b8284c, module_PIL$GimpGradientFile, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_24d401bf0413a65f51a487153776e4dd_2->m_type_description == NULL);
-        frame_24d401bf0413a65f51a487153776e4dd_2 = cache_frame_24d401bf0413a65f51a487153776e4dd_2;
+        assert(cache_frame_3aef3feb4a07b5117dbc467927b8284c_2->m_type_description == NULL);
+        frame_3aef3feb4a07b5117dbc467927b8284c_2 = cache_frame_3aef3feb4a07b5117dbc467927b8284c_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_24d401bf0413a65f51a487153776e4dd_2);
+        pushFrameStack(frame_3aef3feb4a07b5117dbc467927b8284c_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_24d401bf0413a65f51a487153776e4dd_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_3aef3feb4a07b5117dbc467927b8284c_2) == 2); // Frame stack
 
         // Framed code:
         // Tried code:
@@ -5154,7 +5154,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
         // End of try:
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_24d401bf0413a65f51a487153776e4dd_2);
+        RESTORE_FRAME_EXCEPTION(frame_3aef3feb4a07b5117dbc467927b8284c_2);
 #endif
 
         // Put the previous frame back on top.
@@ -5164,7 +5164,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
 
         frame_return_exit_1:;
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_24d401bf0413a65f51a487153776e4dd_2);
+        RESTORE_FRAME_EXCEPTION(frame_3aef3feb4a07b5117dbc467927b8284c_2);
 #endif
 
         // Put the previous frame back on top.
@@ -5175,35 +5175,35 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_24d401bf0413a65f51a487153776e4dd_2);
+        RESTORE_FRAME_EXCEPTION(frame_3aef3feb4a07b5117dbc467927b8284c_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_24d401bf0413a65f51a487153776e4dd_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_24d401bf0413a65f51a487153776e4dd_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_24d401bf0413a65f51a487153776e4dd_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_3aef3feb4a07b5117dbc467927b8284c_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_3aef3feb4a07b5117dbc467927b8284c_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_3aef3feb4a07b5117dbc467927b8284c_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_24d401bf0413a65f51a487153776e4dd_2,
+            frame_3aef3feb4a07b5117dbc467927b8284c_2,
             type_description_2,
             outline_0_var_x
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_24d401bf0413a65f51a487153776e4dd_2 == cache_frame_24d401bf0413a65f51a487153776e4dd_2) {
+        if (frame_3aef3feb4a07b5117dbc467927b8284c_2 == cache_frame_3aef3feb4a07b5117dbc467927b8284c_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_24d401bf0413a65f51a487153776e4dd_2);
-            cache_frame_24d401bf0413a65f51a487153776e4dd_2 = NULL;
+            Py_DECREF(cache_frame_3aef3feb4a07b5117dbc467927b8284c_2);
+            cache_frame_3aef3feb4a07b5117dbc467927b8284c_2 = NULL;
         }
 
-        assertFrameObject(frame_24d401bf0413a65f51a487153776e4dd_2);
+        assertFrameObject(frame_3aef3feb4a07b5117dbc467927b8284c_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -5706,7 +5706,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
         PyObject *tmp_raise_type_2;
         PyObject *tmp_make_exception_arg_2;
         tmp_make_exception_arg_2 = mod_consts[55];
-        frame_e492d77b7dcc46bd4f5534b70f920351->m_frame.f_lineno = 135;
+        frame_67664288c2d4af4fc817328384ce957c->m_frame.f_lineno = 135;
         tmp_raise_type_2 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_OSError, tmp_make_exception_arg_2);
         assert(!(tmp_raise_type_2 == NULL));
         exception_type = tmp_raise_type_2;
@@ -5753,7 +5753,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
         CHECK_OBJECT(var_segment);
         tmp_tuple_element_2 = var_segment;
         PyTuple_SET_ITEM0(tmp_args_element_name_1, 5, tmp_tuple_element_2);
-        frame_e492d77b7dcc46bd4f5534b70f920351->m_frame.f_lineno = 137;
+        frame_67664288c2d4af4fc817328384ce957c->m_frame.f_lineno = 137;
         tmp_call_result_2 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_8, mod_consts[34], tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_call_result_2 == NULL) {
@@ -5841,7 +5841,7 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e492d77b7dcc46bd4f5534b70f920351);
+    RESTORE_FRAME_EXCEPTION(frame_67664288c2d4af4fc817328384ce957c);
 #endif
 
     // Put the previous frame back on top.
@@ -5852,18 +5852,18 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e492d77b7dcc46bd4f5534b70f920351);
+    RESTORE_FRAME_EXCEPTION(frame_67664288c2d4af4fc817328384ce957c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_e492d77b7dcc46bd4f5534b70f920351, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_e492d77b7dcc46bd4f5534b70f920351->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_e492d77b7dcc46bd4f5534b70f920351, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_67664288c2d4af4fc817328384ce957c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_67664288c2d4af4fc817328384ce957c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_67664288c2d4af4fc817328384ce957c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_e492d77b7dcc46bd4f5534b70f920351,
+        frame_67664288c2d4af4fc817328384ce957c,
         type_description_1,
         par_self,
         par_fp,
@@ -5884,17 +5884,17 @@ static PyObject *impl_PIL$GimpGradientFile$$$function__7___init__(struct Nuitka_
 
 
     // Release cached frame if used for exception.
-    if (frame_e492d77b7dcc46bd4f5534b70f920351 == cache_frame_e492d77b7dcc46bd4f5534b70f920351) {
+    if (frame_67664288c2d4af4fc817328384ce957c == cache_frame_67664288c2d4af4fc817328384ce957c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_e492d77b7dcc46bd4f5534b70f920351);
-        cache_frame_e492d77b7dcc46bd4f5534b70f920351 = NULL;
+        Py_DECREF(cache_frame_67664288c2d4af4fc817328384ce957c);
+        cache_frame_67664288c2d4af4fc817328384ce957c = NULL;
     }
 
-    assertFrameObject(frame_e492d77b7dcc46bd4f5534b70f920351);
+    assertFrameObject(frame_67664288c2d4af4fc817328384ce957c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -6023,7 +6023,7 @@ static PyObject *MAKE_FUNCTION_PIL$GimpGradientFile$$$function__1_linear() {
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_d4b20f04edb8971a928690031581dce4,
+        codeobj_b6a3a6de03351a4e34c665cd61e54a89,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -6044,11 +6044,11 @@ static PyObject *MAKE_FUNCTION_PIL$GimpGradientFile$$$function__1_linear() {
 static PyObject *MAKE_FUNCTION_PIL$GimpGradientFile$$$function__2_curved() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_PIL$GimpGradientFile$$$function__2_curved,
-        mod_consts[68],
+        mod_consts[67],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_3f675392eaa4f0bd8fd15b70d69826a6,
+        codeobj_5d372f2010178dcd9f9109daa84ede14,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -6069,11 +6069,11 @@ static PyObject *MAKE_FUNCTION_PIL$GimpGradientFile$$$function__2_curved() {
 static PyObject *MAKE_FUNCTION_PIL$GimpGradientFile$$$function__3_sine() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_PIL$GimpGradientFile$$$function__3_sine,
-        mod_consts[69],
+        mod_consts[68],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_32bc91a7c399b2c6378a0bbdcf3d2f22,
+        codeobj_d245681a77ebf4f6750c2a7325212dc4,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -6094,11 +6094,11 @@ static PyObject *MAKE_FUNCTION_PIL$GimpGradientFile$$$function__3_sine() {
 static PyObject *MAKE_FUNCTION_PIL$GimpGradientFile$$$function__4_sphere_increasing() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_PIL$GimpGradientFile$$$function__4_sphere_increasing,
-        mod_consts[70],
+        mod_consts[69],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_4d790db8234d944cba3622c05f3afec3,
+        codeobj_aee5e4953b24aca9481d6242a45afa74,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -6119,11 +6119,11 @@ static PyObject *MAKE_FUNCTION_PIL$GimpGradientFile$$$function__4_sphere_increas
 static PyObject *MAKE_FUNCTION_PIL$GimpGradientFile$$$function__5_sphere_decreasing() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_PIL$GimpGradientFile$$$function__5_sphere_decreasing,
-        mod_consts[71],
+        mod_consts[70],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_10f324431ebe487d03efa3eef5ea6756,
+        codeobj_4b8d6053bbb4a04f2d2c79a912d447b3,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -6144,11 +6144,11 @@ static PyObject *MAKE_FUNCTION_PIL$GimpGradientFile$$$function__5_sphere_decreas
 static PyObject *MAKE_FUNCTION_PIL$GimpGradientFile$$$function__6_getpalette(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_PIL$GimpGradientFile$$$function__6_getpalette,
-        mod_consts[85],
+        mod_consts[84],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[86],
+        mod_consts[85],
 #endif
-        codeobj_57e610c81ffe9cea3ade1ad1ef1fa53e,
+        codeobj_d6d1a4ff97c75079dd7d7ce90ae5d510,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -6169,11 +6169,11 @@ static PyObject *MAKE_FUNCTION_PIL$GimpGradientFile$$$function__6_getpalette(PyO
 static PyObject *MAKE_FUNCTION_PIL$GimpGradientFile$$$function__7___init__() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_PIL$GimpGradientFile$$$function__7___init__,
-        mod_consts[88],
+        mod_consts[87],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[89],
+        mod_consts[88],
 #endif
-        codeobj_e492d77b7dcc46bd4f5534b70f920351,
+        codeobj_67664288c2d4af4fc817328384ce957c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -6578,7 +6578,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
     PyObject *tmp_class_creation_2__metaclass = NULL;
     PyObject *tmp_class_creation_2__prepared = NULL;
     PyObject *tmp_import_from_1__module = NULL;
-    struct Nuitka_FrameObject *frame_a6e93fd9c79bb0b6fe620bd89c250454;
+    struct Nuitka_FrameObject *frame_e0a9ab9eb972552da5ba55be4d7a941b;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -6590,9 +6590,9 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
     PyObject *tmp_dictdel_key;
     PyObject *locals_PIL$GimpGradientFile$$$class__1_GradientFile_63 = NULL;
     PyObject *tmp_dictset_value;
-    struct Nuitka_FrameObject *frame_9b83c357a7c0b741c0351c9ee884aa6c_2;
+    struct Nuitka_FrameObject *frame_773ddc65f3b4308432cfca0c810acb90_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_9b83c357a7c0b741c0351c9ee884aa6c_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_773ddc65f3b4308432cfca0c810acb90_2 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -6606,9 +6606,9 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
     PyTracebackObject *exception_keeper_tb_3;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_3;
     PyObject *locals_PIL$GimpGradientFile$$$class__2_GimpGradientFile_105 = NULL;
-    struct Nuitka_FrameObject *frame_771a29bfa7a4e6f16391194f267a25f9_3;
+    struct Nuitka_FrameObject *frame_2c0357273498ea9175f61398fb980c66_3;
     NUITKA_MAY_BE_UNUSED char const *type_description_3 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_771a29bfa7a4e6f16391194f267a25f9_3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_2c0357273498ea9175f61398fb980c66_3 = NULL;
     PyObject *exception_keeper_type_4;
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
@@ -6630,30 +6630,30 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[57];
-        UPDATE_STRING_DICT0(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[58], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[57], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_a6e93fd9c79bb0b6fe620bd89c250454 = MAKE_MODULE_FRAME(codeobj_a6e93fd9c79bb0b6fe620bd89c250454, module_PIL$GimpGradientFile);
+    frame_e0a9ab9eb972552da5ba55be4d7a941b = MAKE_MODULE_FRAME(codeobj_e0a9ab9eb972552da5ba55be4d7a941b, module_PIL$GimpGradientFile);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_a6e93fd9c79bb0b6fe620bd89c250454);
-    assert(Py_REFCNT(frame_a6e93fd9c79bb0b6fe620bd89c250454) == 2);
+    pushFrameStack(frame_e0a9ab9eb972552da5ba55be4d7a941b);
+    assert(Py_REFCNT(frame_e0a9ab9eb972552da5ba55be4d7a941b) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[57];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[59]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[58]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[59]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[58]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[60], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[59], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -6669,14 +6669,14 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[59]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[58]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[59]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[58]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[61], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[60], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -6691,7 +6691,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[62], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[61], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -6700,12 +6700,12 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[63];
+        tmp_name_name_1 = mod_consts[62];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_PIL$GimpGradientFile;
         tmp_locals_arg_name_1 = Py_None;
-        tmp_fromlist_name_1 = mod_consts[64];
+        tmp_fromlist_name_1 = mod_consts[63];
         tmp_level_name_1 = mod_consts[13];
-        frame_a6e93fd9c79bb0b6fe620bd89c250454->m_frame.f_lineno = 16;
+        frame_e0a9ab9eb972552da5ba55be4d7a941b->m_frame.f_lineno = 16;
         tmp_assign_source_4 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         assert(!(tmp_assign_source_4 == NULL));
         assert(tmp_import_from_1__module == NULL);
@@ -6798,12 +6798,12 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_locals_arg_name_2;
         PyObject *tmp_fromlist_name_2;
         PyObject *tmp_level_name_2;
-        tmp_name_name_2 = mod_consts[65];
+        tmp_name_name_2 = mod_consts[64];
         tmp_globals_arg_name_2 = (PyObject *)moduledict_PIL$GimpGradientFile;
         tmp_locals_arg_name_2 = Py_None;
-        tmp_fromlist_name_2 = mod_consts[66];
+        tmp_fromlist_name_2 = mod_consts[65];
         tmp_level_name_2 = mod_consts[17];
-        frame_a6e93fd9c79bb0b6fe620bd89c250454->m_frame.f_lineno = 18;
+        frame_e0a9ab9eb972552da5ba55be4d7a941b->m_frame.f_lineno = 18;
         tmp_import_name_from_5 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_import_name_from_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -6841,7 +6841,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
     }
     {
         PyObject *tmp_assign_source_10;
-        tmp_assign_source_10 = mod_consts[67];
+        tmp_assign_source_10 = mod_consts[66];
         UPDATE_STRING_DICT0(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[0], tmp_assign_source_10);
     }
     {
@@ -6858,7 +6858,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
 
         tmp_assign_source_12 = MAKE_FUNCTION_PIL$GimpGradientFile$$$function__2_curved();
 
-        UPDATE_STRING_DICT1(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[68], tmp_assign_source_12);
+        UPDATE_STRING_DICT1(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[67], tmp_assign_source_12);
     }
     {
         PyObject *tmp_assign_source_13;
@@ -6866,7 +6866,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
 
         tmp_assign_source_13 = MAKE_FUNCTION_PIL$GimpGradientFile$$$function__3_sine();
 
-        UPDATE_STRING_DICT1(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[69], tmp_assign_source_13);
+        UPDATE_STRING_DICT1(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[68], tmp_assign_source_13);
     }
     {
         PyObject *tmp_assign_source_14;
@@ -6874,7 +6874,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
 
         tmp_assign_source_14 = MAKE_FUNCTION_PIL$GimpGradientFile$$$function__4_sphere_increasing();
 
-        UPDATE_STRING_DICT1(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[70], tmp_assign_source_14);
+        UPDATE_STRING_DICT1(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[69], tmp_assign_source_14);
     }
     {
         PyObject *tmp_assign_source_15;
@@ -6882,7 +6882,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
 
         tmp_assign_source_15 = MAKE_FUNCTION_PIL$GimpGradientFile$$$function__5_sphere_decreasing();
 
-        UPDATE_STRING_DICT1(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[71], tmp_assign_source_15);
+        UPDATE_STRING_DICT1(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[70], tmp_assign_source_15);
     }
     {
         PyObject *tmp_assign_source_16;
@@ -6896,6 +6896,14 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         assert(!(tmp_list_element_1 == NULL));
         tmp_assign_source_16 = PyList_New(5);
         PyList_SET_ITEM0(tmp_assign_source_16, 0, tmp_list_element_1);
+        tmp_list_element_1 = GET_STRING_DICT_VALUE(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[67]);
+
+        if (unlikely(tmp_list_element_1 == NULL)) {
+            tmp_list_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[67]);
+        }
+
+        assert(!(tmp_list_element_1 == NULL));
+        PyList_SET_ITEM0(tmp_assign_source_16, 1, tmp_list_element_1);
         tmp_list_element_1 = GET_STRING_DICT_VALUE(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[68]);
 
         if (unlikely(tmp_list_element_1 == NULL)) {
@@ -6903,7 +6911,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         }
 
         assert(!(tmp_list_element_1 == NULL));
-        PyList_SET_ITEM0(tmp_assign_source_16, 1, tmp_list_element_1);
+        PyList_SET_ITEM0(tmp_assign_source_16, 2, tmp_list_element_1);
         tmp_list_element_1 = GET_STRING_DICT_VALUE(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[69]);
 
         if (unlikely(tmp_list_element_1 == NULL)) {
@@ -6911,19 +6919,11 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         }
 
         assert(!(tmp_list_element_1 == NULL));
-        PyList_SET_ITEM0(tmp_assign_source_16, 2, tmp_list_element_1);
+        PyList_SET_ITEM0(tmp_assign_source_16, 3, tmp_list_element_1);
         tmp_list_element_1 = GET_STRING_DICT_VALUE(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[70]);
 
         if (unlikely(tmp_list_element_1 == NULL)) {
             tmp_list_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[70]);
-        }
-
-        assert(!(tmp_list_element_1 == NULL));
-        PyList_SET_ITEM0(tmp_assign_source_16, 3, tmp_list_element_1);
-        tmp_list_element_1 = GET_STRING_DICT_VALUE(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[71]);
-
-        if (unlikely(tmp_list_element_1 == NULL)) {
-            tmp_list_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[71]);
         }
 
         assert(!(tmp_list_element_1 == NULL));
@@ -6946,7 +6946,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_dict_arg_name_2;
         PyObject *tmp_key_name_2;
         PyObject *tmp_bases_name_1;
-        tmp_key_name_1 = mod_consts[72];
+        tmp_key_name_1 = mod_consts[71];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_1 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_1, tmp_key_name_1);
@@ -6960,7 +6960,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         condexpr_true_1:;
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_2 = tmp_class_creation_1__class_decl_dict;
-        tmp_key_name_2 = mod_consts[72];
+        tmp_key_name_2 = mod_consts[71];
         tmp_metaclass_name_1 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_2, tmp_key_name_2);
         if (tmp_metaclass_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -6977,7 +6977,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         tmp_metaclass_name_1 = (PyObject *)&PyType_Type;
         Py_INCREF(tmp_metaclass_name_1);
         condexpr_end_1:;
-        tmp_bases_name_1 = mod_consts[73];
+        tmp_bases_name_1 = mod_consts[72];
         tmp_assign_source_18 = SELECT_METACLASS(tmp_metaclass_name_1, tmp_bases_name_1);
         Py_DECREF(tmp_metaclass_name_1);
         if (tmp_assign_source_18 == NULL) {
@@ -6997,7 +6997,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         nuitka_bool tmp_condition_result_2;
         PyObject *tmp_key_name_3;
         PyObject *tmp_dict_arg_name_3;
-        tmp_key_name_3 = mod_consts[72];
+        tmp_key_name_3 = mod_consts[71];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_3 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_3, tmp_key_name_3);
@@ -7012,7 +7012,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
     branch_yes_1:;
     CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_1__class_decl_dict;
-    tmp_dictdel_key = mod_consts[72];
+    tmp_dictdel_key = mod_consts[71];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -7030,7 +7030,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_expression_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_1 = tmp_class_creation_1__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_1, mod_consts[74]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_1, mod_consts[73]);
         tmp_condition_result_3 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_3 == NUITKA_BOOL_TRUE) {
             goto branch_yes_2;
@@ -7047,7 +7047,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_kwargs_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_2 = tmp_class_creation_1__metaclass;
-        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_2, mod_consts[74]);
+        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_2, mod_consts[73]);
         if (tmp_called_name_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -7058,10 +7058,10 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
 
             goto try_except_handler_1;
         }
-        tmp_args_name_1 = mod_consts[75];
+        tmp_args_name_1 = mod_consts[74];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_kwargs_name_1 = tmp_class_creation_1__class_decl_dict;
-        frame_a6e93fd9c79bb0b6fe620bd89c250454->m_frame.f_lineno = 63;
+        frame_e0a9ab9eb972552da5ba55be4d7a941b->m_frame.f_lineno = 63;
         tmp_assign_source_19 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         if (tmp_assign_source_19 == NULL) {
@@ -7083,7 +7083,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_expression_name_3;
         CHECK_OBJECT(tmp_class_creation_1__prepared);
         tmp_expression_name_3 = tmp_class_creation_1__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_3, mod_consts[76]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_3, mod_consts[75]);
         tmp_operand_name_1 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_1);
         if (tmp_res == -1) {
@@ -7114,11 +7114,11 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_getattr_attr_1;
         PyObject *tmp_getattr_default_1;
         tmp_raise_type_1 = PyExc_TypeError;
-        tmp_left_name_1 = mod_consts[77];
+        tmp_left_name_1 = mod_consts[76];
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_getattr_target_1 = tmp_class_creation_1__metaclass;
-        tmp_getattr_attr_1 = mod_consts[78];
-        tmp_getattr_default_1 = mod_consts[79];
+        tmp_getattr_attr_1 = mod_consts[77];
+        tmp_getattr_default_1 = mod_consts[78];
         tmp_tuple_element_1 = BUILTIN_GETATTR(tmp_getattr_target_1, tmp_getattr_attr_1, tmp_getattr_default_1);
         if (tmp_tuple_element_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -7139,7 +7139,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
             tmp_type_arg_1 = tmp_class_creation_1__prepared;
             tmp_expression_name_4 = BUILTIN_TYPE1(tmp_type_arg_1);
             assert(!(tmp_expression_name_4 == NULL));
-            tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_4, mod_consts[78]);
+            tmp_tuple_element_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_4, mod_consts[77]);
             Py_DECREF(tmp_expression_name_4);
             if (tmp_tuple_element_1 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -7201,8 +7201,8 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[80];
-        tmp_res = PyObject_SetItem(locals_PIL$GimpGradientFile$$$class__1_GradientFile_63, mod_consts[81], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[79];
+        tmp_res = PyObject_SetItem(locals_PIL$GimpGradientFile$$$class__1_GradientFile_63, mod_consts[80], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -7213,8 +7213,8 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
 
             goto try_except_handler_3;
         }
-        tmp_dictset_value = mod_consts[82];
-        tmp_res = PyObject_SetItem(locals_PIL$GimpGradientFile$$$class__1_GradientFile_63, mod_consts[83], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[81];
+        tmp_res = PyObject_SetItem(locals_PIL$GimpGradientFile$$$class__1_GradientFile_63, mod_consts[82], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -7225,31 +7225,31 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
 
             goto try_except_handler_3;
         }
-        if (isFrameUnusable(cache_frame_9b83c357a7c0b741c0351c9ee884aa6c_2)) {
-            Py_XDECREF(cache_frame_9b83c357a7c0b741c0351c9ee884aa6c_2);
+        if (isFrameUnusable(cache_frame_773ddc65f3b4308432cfca0c810acb90_2)) {
+            Py_XDECREF(cache_frame_773ddc65f3b4308432cfca0c810acb90_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_9b83c357a7c0b741c0351c9ee884aa6c_2 == NULL) {
+            if (cache_frame_773ddc65f3b4308432cfca0c810acb90_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_9b83c357a7c0b741c0351c9ee884aa6c_2 = MAKE_FUNCTION_FRAME(codeobj_9b83c357a7c0b741c0351c9ee884aa6c, module_PIL$GimpGradientFile, sizeof(void *));
+            cache_frame_773ddc65f3b4308432cfca0c810acb90_2 = MAKE_FUNCTION_FRAME(codeobj_773ddc65f3b4308432cfca0c810acb90, module_PIL$GimpGradientFile, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_9b83c357a7c0b741c0351c9ee884aa6c_2->m_type_description == NULL);
-        frame_9b83c357a7c0b741c0351c9ee884aa6c_2 = cache_frame_9b83c357a7c0b741c0351c9ee884aa6c_2;
+        assert(cache_frame_773ddc65f3b4308432cfca0c810acb90_2->m_type_description == NULL);
+        frame_773ddc65f3b4308432cfca0c810acb90_2 = cache_frame_773ddc65f3b4308432cfca0c810acb90_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_9b83c357a7c0b741c0351c9ee884aa6c_2);
+        pushFrameStack(frame_773ddc65f3b4308432cfca0c810acb90_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_9b83c357a7c0b741c0351c9ee884aa6c_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_773ddc65f3b4308432cfca0c810acb90_2) == 2); // Frame stack
 
         // Framed code:
         tmp_dictset_value = Py_None;
@@ -7266,13 +7266,13 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         }
         {
             PyObject *tmp_defaults_1;
-            tmp_defaults_1 = mod_consts[84];
+            tmp_defaults_1 = mod_consts[83];
             Py_INCREF(tmp_defaults_1);
 
 
             tmp_dictset_value = MAKE_FUNCTION_PIL$GimpGradientFile$$$function__6_getpalette(tmp_defaults_1);
 
-            tmp_res = PyObject_SetItem(locals_PIL$GimpGradientFile$$$class__1_GradientFile_63, mod_consts[85], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_PIL$GimpGradientFile$$$class__1_GradientFile_63, mod_consts[84], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -7287,7 +7287,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_9b83c357a7c0b741c0351c9ee884aa6c_2);
+        RESTORE_FRAME_EXCEPTION(frame_773ddc65f3b4308432cfca0c810acb90_2);
 #endif
 
         // Put the previous frame back on top.
@@ -7298,35 +7298,35 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_9b83c357a7c0b741c0351c9ee884aa6c_2);
+        RESTORE_FRAME_EXCEPTION(frame_773ddc65f3b4308432cfca0c810acb90_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_9b83c357a7c0b741c0351c9ee884aa6c_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_9b83c357a7c0b741c0351c9ee884aa6c_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_9b83c357a7c0b741c0351c9ee884aa6c_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_773ddc65f3b4308432cfca0c810acb90_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_773ddc65f3b4308432cfca0c810acb90_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_773ddc65f3b4308432cfca0c810acb90_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_9b83c357a7c0b741c0351c9ee884aa6c_2,
+            frame_773ddc65f3b4308432cfca0c810acb90_2,
             type_description_2,
             outline_0_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_9b83c357a7c0b741c0351c9ee884aa6c_2 == cache_frame_9b83c357a7c0b741c0351c9ee884aa6c_2) {
+        if (frame_773ddc65f3b4308432cfca0c810acb90_2 == cache_frame_773ddc65f3b4308432cfca0c810acb90_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_9b83c357a7c0b741c0351c9ee884aa6c_2);
-            cache_frame_9b83c357a7c0b741c0351c9ee884aa6c_2 = NULL;
+            Py_DECREF(cache_frame_773ddc65f3b4308432cfca0c810acb90_2);
+            cache_frame_773ddc65f3b4308432cfca0c810acb90_2 = NULL;
         }
 
-        assertFrameObject(frame_9b83c357a7c0b741c0351c9ee884aa6c_2);
+        assertFrameObject(frame_773ddc65f3b4308432cfca0c810acb90_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -7348,16 +7348,16 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
             PyObject *tmp_kwargs_name_2;
             CHECK_OBJECT(tmp_class_creation_1__metaclass);
             tmp_called_name_2 = tmp_class_creation_1__metaclass;
-            tmp_tuple_element_2 = mod_consts[82];
+            tmp_tuple_element_2 = mod_consts[81];
             tmp_args_name_2 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_args_name_2, 0, tmp_tuple_element_2);
-            tmp_tuple_element_2 = mod_consts[73];
+            tmp_tuple_element_2 = mod_consts[72];
             PyTuple_SET_ITEM0(tmp_args_name_2, 1, tmp_tuple_element_2);
             tmp_tuple_element_2 = locals_PIL$GimpGradientFile$$$class__1_GradientFile_63;
             PyTuple_SET_ITEM0(tmp_args_name_2, 2, tmp_tuple_element_2);
             CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
             tmp_kwargs_name_2 = tmp_class_creation_1__class_decl_dict;
-            frame_a6e93fd9c79bb0b6fe620bd89c250454->m_frame.f_lineno = 63;
+            frame_e0a9ab9eb972552da5ba55be4d7a941b->m_frame.f_lineno = 63;
             tmp_assign_source_22 = CALL_FUNCTION(tmp_called_name_2, tmp_args_name_2, tmp_kwargs_name_2);
             Py_DECREF(tmp_args_name_2);
             if (tmp_assign_source_22 == NULL) {
@@ -7438,7 +7438,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         exception_lineno = 63;
         goto try_except_handler_1;
         outline_result_1:;
-        UPDATE_STRING_DICT1(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[82], tmp_assign_source_21);
+        UPDATE_STRING_DICT1(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[81], tmp_assign_source_21);
     }
     goto try_end_1;
     // Exception handler code:
@@ -7478,10 +7478,10 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
     {
         PyObject *tmp_assign_source_23;
         PyObject *tmp_tuple_element_3;
-        tmp_tuple_element_3 = GET_STRING_DICT_VALUE(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[82]);
+        tmp_tuple_element_3 = GET_STRING_DICT_VALUE(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[81]);
 
         if (unlikely(tmp_tuple_element_3 == NULL)) {
-            tmp_tuple_element_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[82]);
+            tmp_tuple_element_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[81]);
         }
 
         if (tmp_tuple_element_3 == NULL) {
@@ -7543,7 +7543,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_expression_name_5;
         PyObject *tmp_subscript_name_1;
         PyObject *tmp_bases_name_2;
-        tmp_key_name_4 = mod_consts[72];
+        tmp_key_name_4 = mod_consts[71];
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_4 = tmp_class_creation_2__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_4, tmp_key_name_4);
@@ -7557,7 +7557,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         condexpr_true_2:;
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_5 = tmp_class_creation_2__class_decl_dict;
-        tmp_key_name_5 = mod_consts[72];
+        tmp_key_name_5 = mod_consts[71];
         tmp_metaclass_name_2 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_5, tmp_key_name_5);
         if (tmp_metaclass_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -7643,7 +7643,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         nuitka_bool tmp_condition_result_7;
         PyObject *tmp_key_name_6;
         PyObject *tmp_dict_arg_name_6;
-        tmp_key_name_6 = mod_consts[72];
+        tmp_key_name_6 = mod_consts[71];
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_6 = tmp_class_creation_2__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_6, tmp_key_name_6);
@@ -7658,7 +7658,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
     branch_yes_4:;
     CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_2__class_decl_dict;
-    tmp_dictdel_key = mod_consts[72];
+    tmp_dictdel_key = mod_consts[71];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -7676,7 +7676,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_expression_name_6;
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_expression_name_6 = tmp_class_creation_2__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_6, mod_consts[74]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_6, mod_consts[73]);
         tmp_condition_result_8 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_8 == NUITKA_BOOL_TRUE) {
             goto branch_yes_5;
@@ -7694,7 +7694,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_kwargs_name_3;
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_expression_name_7 = tmp_class_creation_2__metaclass;
-        tmp_called_name_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_7, mod_consts[74]);
+        tmp_called_name_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_7, mod_consts[73]);
         if (tmp_called_name_3 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -7705,7 +7705,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
 
             goto try_except_handler_4;
         }
-        tmp_tuple_element_4 = mod_consts[87];
+        tmp_tuple_element_4 = mod_consts[86];
         tmp_args_name_3 = PyTuple_New(2);
         PyTuple_SET_ITEM0(tmp_args_name_3, 0, tmp_tuple_element_4);
         CHECK_OBJECT(tmp_class_creation_2__bases);
@@ -7713,7 +7713,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         PyTuple_SET_ITEM0(tmp_args_name_3, 1, tmp_tuple_element_4);
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_kwargs_name_3 = tmp_class_creation_2__class_decl_dict;
-        frame_a6e93fd9c79bb0b6fe620bd89c250454->m_frame.f_lineno = 105;
+        frame_e0a9ab9eb972552da5ba55be4d7a941b->m_frame.f_lineno = 105;
         tmp_assign_source_27 = CALL_FUNCTION(tmp_called_name_3, tmp_args_name_3, tmp_kwargs_name_3);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_name_3);
@@ -7736,7 +7736,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_expression_name_8;
         CHECK_OBJECT(tmp_class_creation_2__prepared);
         tmp_expression_name_8 = tmp_class_creation_2__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_8, mod_consts[76]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_8, mod_consts[75]);
         tmp_operand_name_2 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_2);
         if (tmp_res == -1) {
@@ -7767,11 +7767,11 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         PyObject *tmp_getattr_attr_2;
         PyObject *tmp_getattr_default_2;
         tmp_raise_type_2 = PyExc_TypeError;
-        tmp_left_name_2 = mod_consts[77];
+        tmp_left_name_2 = mod_consts[76];
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_getattr_target_2 = tmp_class_creation_2__metaclass;
-        tmp_getattr_attr_2 = mod_consts[78];
-        tmp_getattr_default_2 = mod_consts[79];
+        tmp_getattr_attr_2 = mod_consts[77];
+        tmp_getattr_default_2 = mod_consts[78];
         tmp_tuple_element_5 = BUILTIN_GETATTR(tmp_getattr_target_2, tmp_getattr_attr_2, tmp_getattr_default_2);
         if (tmp_tuple_element_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -7792,7 +7792,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
             tmp_type_arg_3 = tmp_class_creation_2__prepared;
             tmp_expression_name_9 = BUILTIN_TYPE1(tmp_type_arg_3);
             assert(!(tmp_expression_name_9 == NULL));
-            tmp_tuple_element_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_9, mod_consts[78]);
+            tmp_tuple_element_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_9, mod_consts[77]);
             Py_DECREF(tmp_expression_name_9);
             if (tmp_tuple_element_5 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -7854,8 +7854,8 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[80];
-        tmp_res = PyObject_SetItem(locals_PIL$GimpGradientFile$$$class__2_GimpGradientFile_105, mod_consts[81], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[79];
+        tmp_res = PyObject_SetItem(locals_PIL$GimpGradientFile$$$class__2_GimpGradientFile_105, mod_consts[80], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -7866,8 +7866,8 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
 
             goto try_except_handler_6;
         }
-        tmp_dictset_value = mod_consts[87];
-        tmp_res = PyObject_SetItem(locals_PIL$GimpGradientFile$$$class__2_GimpGradientFile_105, mod_consts[83], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[86];
+        tmp_res = PyObject_SetItem(locals_PIL$GimpGradientFile$$$class__2_GimpGradientFile_105, mod_consts[82], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -7878,38 +7878,38 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
 
             goto try_except_handler_6;
         }
-        if (isFrameUnusable(cache_frame_771a29bfa7a4e6f16391194f267a25f9_3)) {
-            Py_XDECREF(cache_frame_771a29bfa7a4e6f16391194f267a25f9_3);
+        if (isFrameUnusable(cache_frame_2c0357273498ea9175f61398fb980c66_3)) {
+            Py_XDECREF(cache_frame_2c0357273498ea9175f61398fb980c66_3);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_771a29bfa7a4e6f16391194f267a25f9_3 == NULL) {
+            if (cache_frame_2c0357273498ea9175f61398fb980c66_3 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_771a29bfa7a4e6f16391194f267a25f9_3 = MAKE_FUNCTION_FRAME(codeobj_771a29bfa7a4e6f16391194f267a25f9, module_PIL$GimpGradientFile, sizeof(void *));
+            cache_frame_2c0357273498ea9175f61398fb980c66_3 = MAKE_FUNCTION_FRAME(codeobj_2c0357273498ea9175f61398fb980c66, module_PIL$GimpGradientFile, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_771a29bfa7a4e6f16391194f267a25f9_3->m_type_description == NULL);
-        frame_771a29bfa7a4e6f16391194f267a25f9_3 = cache_frame_771a29bfa7a4e6f16391194f267a25f9_3;
+        assert(cache_frame_2c0357273498ea9175f61398fb980c66_3->m_type_description == NULL);
+        frame_2c0357273498ea9175f61398fb980c66_3 = cache_frame_2c0357273498ea9175f61398fb980c66_3;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_771a29bfa7a4e6f16391194f267a25f9_3);
+        pushFrameStack(frame_2c0357273498ea9175f61398fb980c66_3);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_771a29bfa7a4e6f16391194f267a25f9_3) == 2); // Frame stack
+        assert(Py_REFCNT(frame_2c0357273498ea9175f61398fb980c66_3) == 2); // Frame stack
 
         // Framed code:
 
 
         tmp_dictset_value = MAKE_FUNCTION_PIL$GimpGradientFile$$$function__7___init__();
 
-        tmp_res = PyObject_SetItem(locals_PIL$GimpGradientFile$$$class__2_GimpGradientFile_105, mod_consts[88], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_PIL$GimpGradientFile$$$class__2_GimpGradientFile_105, mod_consts[87], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -7923,7 +7923,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_771a29bfa7a4e6f16391194f267a25f9_3);
+        RESTORE_FRAME_EXCEPTION(frame_2c0357273498ea9175f61398fb980c66_3);
 #endif
 
         // Put the previous frame back on top.
@@ -7934,35 +7934,35 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         frame_exception_exit_3:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_771a29bfa7a4e6f16391194f267a25f9_3);
+        RESTORE_FRAME_EXCEPTION(frame_2c0357273498ea9175f61398fb980c66_3);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_771a29bfa7a4e6f16391194f267a25f9_3, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_771a29bfa7a4e6f16391194f267a25f9_3->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_771a29bfa7a4e6f16391194f267a25f9_3, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_2c0357273498ea9175f61398fb980c66_3, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_2c0357273498ea9175f61398fb980c66_3->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_2c0357273498ea9175f61398fb980c66_3, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_771a29bfa7a4e6f16391194f267a25f9_3,
+            frame_2c0357273498ea9175f61398fb980c66_3,
             type_description_2,
             outline_1_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_771a29bfa7a4e6f16391194f267a25f9_3 == cache_frame_771a29bfa7a4e6f16391194f267a25f9_3) {
+        if (frame_2c0357273498ea9175f61398fb980c66_3 == cache_frame_2c0357273498ea9175f61398fb980c66_3) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_771a29bfa7a4e6f16391194f267a25f9_3);
-            cache_frame_771a29bfa7a4e6f16391194f267a25f9_3 = NULL;
+            Py_DECREF(cache_frame_2c0357273498ea9175f61398fb980c66_3);
+            cache_frame_2c0357273498ea9175f61398fb980c66_3 = NULL;
         }
 
-        assertFrameObject(frame_771a29bfa7a4e6f16391194f267a25f9_3);
+        assertFrameObject(frame_2c0357273498ea9175f61398fb980c66_3);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -8005,7 +8005,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         branch_yes_7:;
         CHECK_OBJECT(tmp_class_creation_2__bases_orig);
         tmp_dictset_value = tmp_class_creation_2__bases_orig;
-        tmp_res = PyObject_SetItem(locals_PIL$GimpGradientFile$$$class__2_GimpGradientFile_105, mod_consts[90], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_PIL$GimpGradientFile$$$class__2_GimpGradientFile_105, mod_consts[89], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -8025,7 +8025,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
             PyObject *tmp_kwargs_name_4;
             CHECK_OBJECT(tmp_class_creation_2__metaclass);
             tmp_called_name_4 = tmp_class_creation_2__metaclass;
-            tmp_tuple_element_6 = mod_consts[87];
+            tmp_tuple_element_6 = mod_consts[86];
             tmp_args_name_4 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_args_name_4, 0, tmp_tuple_element_6);
             CHECK_OBJECT(tmp_class_creation_2__bases);
@@ -8035,7 +8035,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
             PyTuple_SET_ITEM0(tmp_args_name_4, 2, tmp_tuple_element_6);
             CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
             tmp_kwargs_name_4 = tmp_class_creation_2__class_decl_dict;
-            frame_a6e93fd9c79bb0b6fe620bd89c250454->m_frame.f_lineno = 105;
+            frame_e0a9ab9eb972552da5ba55be4d7a941b->m_frame.f_lineno = 105;
             tmp_assign_source_30 = CALL_FUNCTION(tmp_called_name_4, tmp_args_name_4, tmp_kwargs_name_4);
             Py_DECREF(tmp_args_name_4);
             if (tmp_assign_source_30 == NULL) {
@@ -8116,7 +8116,7 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
         exception_lineno = 105;
         goto try_except_handler_4;
         outline_result_2:;
-        UPDATE_STRING_DICT1(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[87], tmp_assign_source_29);
+        UPDATE_STRING_DICT1(moduledict_PIL$GimpGradientFile, (Nuitka_StringObject *)mod_consts[86], tmp_assign_source_29);
     }
     goto try_end_2;
     // Exception handler code:
@@ -8152,23 +8152,23 @@ PyObject *modulecode_PIL$GimpGradientFile(PyObject *module, struct Nuitka_MetaPa
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a6e93fd9c79bb0b6fe620bd89c250454);
+    RESTORE_FRAME_EXCEPTION(frame_e0a9ab9eb972552da5ba55be4d7a941b);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_a6e93fd9c79bb0b6fe620bd89c250454);
+    assertFrameObject(frame_e0a9ab9eb972552da5ba55be4d7a941b);
 
     goto frame_no_exception_3;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a6e93fd9c79bb0b6fe620bd89c250454);
+    RESTORE_FRAME_EXCEPTION(frame_e0a9ab9eb972552da5ba55be4d7a941b);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a6e93fd9c79bb0b6fe620bd89c250454, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a6e93fd9c79bb0b6fe620bd89c250454->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a6e93fd9c79bb0b6fe620bd89c250454, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_e0a9ab9eb972552da5ba55be4d7a941b, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_e0a9ab9eb972552da5ba55be4d7a941b->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_e0a9ab9eb972552da5ba55be4d7a941b, exception_lineno);
     }
 
     // Put the previous frame back on top.

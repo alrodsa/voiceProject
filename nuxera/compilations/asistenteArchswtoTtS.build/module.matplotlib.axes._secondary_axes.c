@@ -65,45 +65,45 @@ void checkModuleConstants_matplotlib$axes$_secondary_axes(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_8ec7f0a0f1848c1c25909925e0079982;
-static PyCodeObject *codeobj_ead51e5fa7c86ab430ae2fa4a855af00;
-static PyCodeObject *codeobj_5d38d650c597bd8ce727fd9b90f416cc;
-static PyCodeObject *codeobj_946312b68c39905523b7390f67b2a7ae;
-static PyCodeObject *codeobj_f921e0fa32a818e0e3c8d70627d10ada;
-static PyCodeObject *codeobj_01f62395a0035b52d3f7a4f51f0b97bf;
-static PyCodeObject *codeobj_712a32e6100e5f2c74b3df5124749f99;
-static PyCodeObject *codeobj_2c5132c9c4e36201a3431c8bd435f209;
-static PyCodeObject *codeobj_ddf3d1991db70facc9841c5b4432b673;
-static PyCodeObject *codeobj_08b0af95b16b95b49a338289b08a8bbc;
-static PyCodeObject *codeobj_268bc0c102675c8e606a6c75fe416d0c;
-static PyCodeObject *codeobj_bfe4ccfd1eda654d6a3417f2decbe813;
-static PyCodeObject *codeobj_09c3a949aec33c42abe633450efa20e1;
-static PyCodeObject *codeobj_de394b6407d92a1a411687eb7be820c0;
-static PyCodeObject *codeobj_e8f60387931f9b84f24565b11f9b14f5;
-static PyCodeObject *codeobj_13a10395c72c8110ce310ed410b4294a;
-static PyCodeObject *codeobj_1dde7a836fd4a71806ad9e1e53699d05;
-static PyCodeObject *codeobj_9b35091de0db906cfb567ed2e60b6631;
+static PyCodeObject *codeobj_5841679e57f288bd185db0c52809a2c9;
+static PyCodeObject *codeobj_bc590527e97c72d51fffc66f11a81848;
+static PyCodeObject *codeobj_33b5589568eb3984056815178af820fa;
+static PyCodeObject *codeobj_2da976a2f3f66099f1c874abded3c444;
+static PyCodeObject *codeobj_061c48c69e8d57f904107f47f8503fb6;
+static PyCodeObject *codeobj_ebb00a263f89c0b8bcb3eeda8915cfd3;
+static PyCodeObject *codeobj_6ac2d9d899f1d02dfd8098cdb67e2c92;
+static PyCodeObject *codeobj_2e74ad9da779e6d6f1d26ef4b61b3e61;
+static PyCodeObject *codeobj_230fc634eb3dc20ca27116be6deeae17;
+static PyCodeObject *codeobj_f7d83730d6dd471c511d8e80af406498;
+static PyCodeObject *codeobj_125d366776c34a8ce4f7385d3343d880;
+static PyCodeObject *codeobj_9684cbf48779dfae6f8a93768e4e6636;
+static PyCodeObject *codeobj_1b34ffa295d17096d5df7d72f3a1ef69;
+static PyCodeObject *codeobj_1a0697abda6cb8529ffcaffd460740e7;
+static PyCodeObject *codeobj_f3d4047f9a200fc9df15c6ea3abec619;
+static PyCodeObject *codeobj_e145012ec8fe709f252392d8ea956a8d;
+static PyCodeObject *codeobj_dd2ce04ae96e8441d19f39cf4aa42276;
+static PyCodeObject *codeobj_c0f04d61c7ee2acf29e4f8fa4daf0e98;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[128]; CHECK_OBJECT(module_filename_obj);
-    codeobj_8ec7f0a0f1848c1c25909925e0079982 = MAKE_CODEOBJECT(module_filename_obj, 197, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[81], mod_consts[181], NULL, 1, 0, 0);
-    codeobj_ead51e5fa7c86ab430ae2fa4a855af00 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[182], NULL, NULL, 0, 0, 0);
-    codeobj_5d38d650c597bd8ce727fd9b90f416cc = MAKE_CODEOBJECT(module_filename_obj, 37, CO_NOFREE, mod_consts[147], mod_consts[183], NULL, 0, 0, 0);
-    codeobj_946312b68c39905523b7390f67b2a7ae = MAKE_CODEOBJECT(module_filename_obj, 42, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARKEYWORDS, mod_consts[20], mod_consts[184], mod_consts[183], 5, 0, 0);
-    codeobj_f921e0fa32a818e0e3c8d70627d10ada = MAKE_CODEOBJECT(module_filename_obj, 10, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[69], mod_consts[185], NULL, 2, 0, 0);
-    codeobj_01f62395a0035b52d3f7a4f51f0b97bf = MAKE_CODEOBJECT(module_filename_obj, 254, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[72], mod_consts[186], NULL, 1, 0, 0);
-    codeobj_712a32e6100e5f2c74b3df5124749f99 = MAKE_CODEOBJECT(module_filename_obj, 221, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[84], mod_consts[187], NULL, 1, 0, 0);
-    codeobj_2c5132c9c4e36201a3431c8bd435f209 = MAKE_CODEOBJECT(module_filename_obj, 152, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[73], mod_consts[188], mod_consts[183], 2, 0, 0);
-    codeobj_ddf3d1991db70facc9841c5b4432b673 = MAKE_CODEOBJECT(module_filename_obj, 207, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS, mod_consts[86], mod_consts[189], mod_consts[183], 1, 0, 0);
-    codeobj_08b0af95b16b95b49a338289b08a8bbc = MAKE_CODEOBJECT(module_filename_obj, 26, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[3], mod_consts[190], mod_consts[191], 2, 0, 0);
-    codeobj_268bc0c102675c8e606a6c75fe416d0c = MAKE_CODEOBJECT(module_filename_obj, 91, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[50], mod_consts[192], NULL, 2, 0, 0);
-    codeobj_bfe4ccfd1eda654d6a3417f2decbe813 = MAKE_CODEOBJECT(module_filename_obj, 273, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[168], mod_consts[193], NULL, 1, 0, 0);
-    codeobj_09c3a949aec33c42abe633450efa20e1 = MAKE_CODEOBJECT(module_filename_obj, 330, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[120], mod_consts[194], NULL, 2, 0, 0);
-    codeobj_de394b6407d92a1a411687eb7be820c0 = MAKE_CODEOBJECT(module_filename_obj, 174, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[36], mod_consts[195], NULL, 2, 0, 0);
-    codeobj_e8f60387931f9b84f24565b11f9b14f5 = MAKE_CODEOBJECT(module_filename_obj, 110, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[35], mod_consts[196], NULL, 2, 0, 0);
-    codeobj_13a10395c72c8110ce310ed410b4294a = MAKE_CODEOBJECT(module_filename_obj, 158, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[74], mod_consts[197], NULL, 3, 0, 0);
-    codeobj_1dde7a836fd4a71806ad9e1e53699d05 = MAKE_CODEOBJECT(module_filename_obj, 280, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[171], mod_consts[198], NULL, 4, 0, 0);
-    codeobj_9b35091de0db906cfb567ed2e60b6631 = MAKE_CODEOBJECT(module_filename_obj, 305, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[173], mod_consts[199], NULL, 4, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[180]); CHECK_OBJECT(module_filename_obj);
+    codeobj_5841679e57f288bd185db0c52809a2c9 = MAKE_CODEOBJECT(module_filename_obj, 197, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[81], mod_consts[181], NULL, 1, 0, 0);
+    codeobj_bc590527e97c72d51fffc66f11a81848 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[182], NULL, NULL, 0, 0, 0);
+    codeobj_33b5589568eb3984056815178af820fa = MAKE_CODEOBJECT(module_filename_obj, 37, CO_NOFREE, mod_consts[146], mod_consts[183], NULL, 0, 0, 0);
+    codeobj_2da976a2f3f66099f1c874abded3c444 = MAKE_CODEOBJECT(module_filename_obj, 42, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARKEYWORDS, mod_consts[20], mod_consts[184], mod_consts[183], 5, 0, 0);
+    codeobj_061c48c69e8d57f904107f47f8503fb6 = MAKE_CODEOBJECT(module_filename_obj, 10, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[69], mod_consts[185], NULL, 2, 0, 0);
+    codeobj_ebb00a263f89c0b8bcb3eeda8915cfd3 = MAKE_CODEOBJECT(module_filename_obj, 254, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[72], mod_consts[186], NULL, 1, 0, 0);
+    codeobj_6ac2d9d899f1d02dfd8098cdb67e2c92 = MAKE_CODEOBJECT(module_filename_obj, 221, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[84], mod_consts[187], NULL, 1, 0, 0);
+    codeobj_2e74ad9da779e6d6f1d26ef4b61b3e61 = MAKE_CODEOBJECT(module_filename_obj, 152, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[73], mod_consts[188], mod_consts[183], 2, 0, 0);
+    codeobj_230fc634eb3dc20ca27116be6deeae17 = MAKE_CODEOBJECT(module_filename_obj, 207, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS, mod_consts[86], mod_consts[189], mod_consts[183], 1, 0, 0);
+    codeobj_f7d83730d6dd471c511d8e80af406498 = MAKE_CODEOBJECT(module_filename_obj, 26, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[3], mod_consts[190], mod_consts[191], 2, 0, 0);
+    codeobj_125d366776c34a8ce4f7385d3343d880 = MAKE_CODEOBJECT(module_filename_obj, 91, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[50], mod_consts[192], NULL, 2, 0, 0);
+    codeobj_9684cbf48779dfae6f8a93768e4e6636 = MAKE_CODEOBJECT(module_filename_obj, 273, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[167], mod_consts[193], NULL, 1, 0, 0);
+    codeobj_1b34ffa295d17096d5df7d72f3a1ef69 = MAKE_CODEOBJECT(module_filename_obj, 330, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[120], mod_consts[194], NULL, 2, 0, 0);
+    codeobj_1a0697abda6cb8529ffcaffd460740e7 = MAKE_CODEOBJECT(module_filename_obj, 174, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[36], mod_consts[195], NULL, 2, 0, 0);
+    codeobj_f3d4047f9a200fc9df15c6ea3abec619 = MAKE_CODEOBJECT(module_filename_obj, 110, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[35], mod_consts[196], NULL, 2, 0, 0);
+    codeobj_e145012ec8fe709f252392d8ea956a8d = MAKE_CODEOBJECT(module_filename_obj, 158, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[74], mod_consts[197], NULL, 3, 0, 0);
+    codeobj_dd2ce04ae96e8441d19f39cf4aa42276 = MAKE_CODEOBJECT(module_filename_obj, 280, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[170], mod_consts[198], NULL, 4, 0, 0);
+    codeobj_c0f04d61c7ee2acf29e4f8fa4daf0e98 = MAKE_CODEOBJECT(module_filename_obj, 305, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[172], mod_consts[199], NULL, 4, 0, 0);
 }
 
 // The module function declarations.
@@ -182,13 +182,13 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__1__make_second
     struct Nuitka_CellObject *par_parent = Nuitka_Cell_New1(python_pars[1]);
     struct Nuitka_CellObject *var__rect = Nuitka_Cell_Empty();
     PyObject *var_secondary_locator = NULL;
-    struct Nuitka_FrameObject *frame_f921e0fa32a818e0e3c8d70627d10ada;
+    struct Nuitka_FrameObject *frame_061c48c69e8d57f904107f47f8503fb6;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_f921e0fa32a818e0e3c8d70627d10ada = NULL;
+    static struct Nuitka_FrameObject *cache_frame_061c48c69e8d57f904107f47f8503fb6 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -197,31 +197,31 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__1__make_second
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_f921e0fa32a818e0e3c8d70627d10ada)) {
-        Py_XDECREF(cache_frame_f921e0fa32a818e0e3c8d70627d10ada);
+    if (isFrameUnusable(cache_frame_061c48c69e8d57f904107f47f8503fb6)) {
+        Py_XDECREF(cache_frame_061c48c69e8d57f904107f47f8503fb6);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_f921e0fa32a818e0e3c8d70627d10ada == NULL) {
+        if (cache_frame_061c48c69e8d57f904107f47f8503fb6 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_f921e0fa32a818e0e3c8d70627d10ada = MAKE_FUNCTION_FRAME(codeobj_f921e0fa32a818e0e3c8d70627d10ada, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_061c48c69e8d57f904107f47f8503fb6 = MAKE_FUNCTION_FRAME(codeobj_061c48c69e8d57f904107f47f8503fb6, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_f921e0fa32a818e0e3c8d70627d10ada->m_type_description == NULL);
-    frame_f921e0fa32a818e0e3c8d70627d10ada = cache_frame_f921e0fa32a818e0e3c8d70627d10ada;
+    assert(cache_frame_061c48c69e8d57f904107f47f8503fb6->m_type_description == NULL);
+    frame_061c48c69e8d57f904107f47f8503fb6 = cache_frame_061c48c69e8d57f904107f47f8503fb6;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_f921e0fa32a818e0e3c8d70627d10ada);
+    pushFrameStack(frame_061c48c69e8d57f904107f47f8503fb6);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_f921e0fa32a818e0e3c8d70627d10ada) == 2); // Frame stack
+    assert(Py_REFCNT(frame_061c48c69e8d57f904107f47f8503fb6) == 2); // Frame stack
 
     // Framed code:
     {
@@ -293,7 +293,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__1__make_second
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f921e0fa32a818e0e3c8d70627d10ada);
+    RESTORE_FRAME_EXCEPTION(frame_061c48c69e8d57f904107f47f8503fb6);
 #endif
 
     // Put the previous frame back on top.
@@ -304,18 +304,18 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__1__make_second
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f921e0fa32a818e0e3c8d70627d10ada);
+    RESTORE_FRAME_EXCEPTION(frame_061c48c69e8d57f904107f47f8503fb6);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_f921e0fa32a818e0e3c8d70627d10ada, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_f921e0fa32a818e0e3c8d70627d10ada->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_f921e0fa32a818e0e3c8d70627d10ada, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_061c48c69e8d57f904107f47f8503fb6, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_061c48c69e8d57f904107f47f8503fb6->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_061c48c69e8d57f904107f47f8503fb6, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_f921e0fa32a818e0e3c8d70627d10ada,
+        frame_061c48c69e8d57f904107f47f8503fb6,
         type_description_1,
         par_rect,
         par_parent,
@@ -325,17 +325,17 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__1__make_second
 
 
     // Release cached frame if used for exception.
-    if (frame_f921e0fa32a818e0e3c8d70627d10ada == cache_frame_f921e0fa32a818e0e3c8d70627d10ada) {
+    if (frame_061c48c69e8d57f904107f47f8503fb6 == cache_frame_061c48c69e8d57f904107f47f8503fb6) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_f921e0fa32a818e0e3c8d70627d10ada);
-        cache_frame_f921e0fa32a818e0e3c8d70627d10ada = NULL;
+        Py_DECREF(cache_frame_061c48c69e8d57f904107f47f8503fb6);
+        cache_frame_061c48c69e8d57f904107f47f8503fb6 = NULL;
     }
 
-    assertFrameObject(frame_f921e0fa32a818e0e3c8d70627d10ada);
+    assertFrameObject(frame_061c48c69e8d57f904107f47f8503fb6);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -437,13 +437,13 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__1__make_second
     PyObject *par_renderer = python_pars[1];
     PyObject *var_bb = NULL;
     PyObject *var_tr = NULL;
-    struct Nuitka_FrameObject *frame_08b0af95b16b95b49a338289b08a8bbc;
+    struct Nuitka_FrameObject *frame_f7d83730d6dd471c511d8e80af406498;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_08b0af95b16b95b49a338289b08a8bbc = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f7d83730d6dd471c511d8e80af406498 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -452,31 +452,31 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__1__make_second
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_08b0af95b16b95b49a338289b08a8bbc)) {
-        Py_XDECREF(cache_frame_08b0af95b16b95b49a338289b08a8bbc);
+    if (isFrameUnusable(cache_frame_f7d83730d6dd471c511d8e80af406498)) {
+        Py_XDECREF(cache_frame_f7d83730d6dd471c511d8e80af406498);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_08b0af95b16b95b49a338289b08a8bbc == NULL) {
+        if (cache_frame_f7d83730d6dd471c511d8e80af406498 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_08b0af95b16b95b49a338289b08a8bbc = MAKE_FUNCTION_FRAME(codeobj_08b0af95b16b95b49a338289b08a8bbc, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_f7d83730d6dd471c511d8e80af406498 = MAKE_FUNCTION_FRAME(codeobj_f7d83730d6dd471c511d8e80af406498, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_08b0af95b16b95b49a338289b08a8bbc->m_type_description == NULL);
-    frame_08b0af95b16b95b49a338289b08a8bbc = cache_frame_08b0af95b16b95b49a338289b08a8bbc;
+    assert(cache_frame_f7d83730d6dd471c511d8e80af406498->m_type_description == NULL);
+    frame_f7d83730d6dd471c511d8e80af406498 = cache_frame_f7d83730d6dd471c511d8e80af406498;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_08b0af95b16b95b49a338289b08a8bbc);
+    pushFrameStack(frame_f7d83730d6dd471c511d8e80af406498);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_08b0af95b16b95b49a338289b08a8bbc) == 2); // Frame stack
+    assert(Py_REFCNT(frame_f7d83730d6dd471c511d8e80af406498) == 2); // Frame stack
 
     // Framed code:
     {
@@ -550,7 +550,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__1__make_second
             type_description_1 = "oooocc";
             goto frame_exception_exit_1;
         }
-        frame_08b0af95b16b95b49a338289b08a8bbc->m_frame.f_lineno = 29;
+        frame_f7d83730d6dd471c511d8e80af406498->m_frame.f_lineno = 29;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -612,7 +612,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__1__make_second
             type_description_1 = "oooocc";
             goto frame_exception_exit_1;
         }
-        frame_08b0af95b16b95b49a338289b08a8bbc->m_frame.f_lineno = 30;
+        frame_f7d83730d6dd471c511d8e80af406498->m_frame.f_lineno = 30;
         tmp_assign_source_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[12]);
         Py_DECREF(tmp_called_instance_1);
         if (tmp_assign_source_2 == NULL) {
@@ -653,7 +653,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__1__make_second
         tmp_args_element_name_3 = var_bb;
         CHECK_OBJECT(var_tr);
         tmp_args_element_name_4 = var_tr;
-        frame_08b0af95b16b95b49a338289b08a8bbc->m_frame.f_lineno = 31;
+        frame_f7d83730d6dd471c511d8e80af406498->m_frame.f_lineno = 31;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_assign_source_3 = CALL_METHOD_WITH_ARGS2(
@@ -682,7 +682,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__1__make_second
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_08b0af95b16b95b49a338289b08a8bbc);
+    RESTORE_FRAME_EXCEPTION(frame_f7d83730d6dd471c511d8e80af406498);
 #endif
 
     // Put the previous frame back on top.
@@ -693,18 +693,18 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__1__make_second
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_08b0af95b16b95b49a338289b08a8bbc);
+    RESTORE_FRAME_EXCEPTION(frame_f7d83730d6dd471c511d8e80af406498);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_08b0af95b16b95b49a338289b08a8bbc, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_08b0af95b16b95b49a338289b08a8bbc->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_08b0af95b16b95b49a338289b08a8bbc, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_f7d83730d6dd471c511d8e80af406498, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_f7d83730d6dd471c511d8e80af406498->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_f7d83730d6dd471c511d8e80af406498, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_08b0af95b16b95b49a338289b08a8bbc,
+        frame_f7d83730d6dd471c511d8e80af406498,
         type_description_1,
         par_ax,
         par_renderer,
@@ -716,17 +716,17 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__1__make_second
 
 
     // Release cached frame if used for exception.
-    if (frame_08b0af95b16b95b49a338289b08a8bbc == cache_frame_08b0af95b16b95b49a338289b08a8bbc) {
+    if (frame_f7d83730d6dd471c511d8e80af406498 == cache_frame_f7d83730d6dd471c511d8e80af406498) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_08b0af95b16b95b49a338289b08a8bbc);
-        cache_frame_08b0af95b16b95b49a338289b08a8bbc = NULL;
+        Py_DECREF(cache_frame_f7d83730d6dd471c511d8e80af406498);
+        cache_frame_f7d83730d6dd471c511d8e80af406498 = NULL;
     }
 
-    assertFrameObject(frame_08b0af95b16b95b49a338289b08a8bbc);
+    assertFrameObject(frame_f7d83730d6dd471c511d8e80af406498);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -825,7 +825,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__2___init__(str
     PyObject *tmp_for_loop_1__iter_value = NULL;
     PyObject *tmp_for_loop_2__for_iterator = NULL;
     PyObject *tmp_for_loop_2__iter_value = NULL;
-    struct Nuitka_FrameObject *frame_946312b68c39905523b7390f67b2a7ae;
+    struct Nuitka_FrameObject *frame_2da976a2f3f66099f1c874abded3c444;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -841,7 +841,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__2___init__(str
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
-    static struct Nuitka_FrameObject *cache_frame_946312b68c39905523b7390f67b2a7ae = NULL;
+    static struct Nuitka_FrameObject *cache_frame_2da976a2f3f66099f1c874abded3c444 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
@@ -850,31 +850,31 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__2___init__(str
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_946312b68c39905523b7390f67b2a7ae)) {
-        Py_XDECREF(cache_frame_946312b68c39905523b7390f67b2a7ae);
+    if (isFrameUnusable(cache_frame_2da976a2f3f66099f1c874abded3c444)) {
+        Py_XDECREF(cache_frame_2da976a2f3f66099f1c874abded3c444);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_946312b68c39905523b7390f67b2a7ae == NULL) {
+        if (cache_frame_2da976a2f3f66099f1c874abded3c444 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_946312b68c39905523b7390f67b2a7ae = MAKE_FUNCTION_FRAME(codeobj_946312b68c39905523b7390f67b2a7ae, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_2da976a2f3f66099f1c874abded3c444 = MAKE_FUNCTION_FRAME(codeobj_2da976a2f3f66099f1c874abded3c444, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_946312b68c39905523b7390f67b2a7ae->m_type_description == NULL);
-    frame_946312b68c39905523b7390f67b2a7ae = cache_frame_946312b68c39905523b7390f67b2a7ae;
+    assert(cache_frame_2da976a2f3f66099f1c874abded3c444->m_type_description == NULL);
+    frame_2da976a2f3f66099f1c874abded3c444 = cache_frame_2da976a2f3f66099f1c874abded3c444;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_946312b68c39905523b7390f67b2a7ae);
+    pushFrameStack(frame_2da976a2f3f66099f1c874abded3c444);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_946312b68c39905523b7390f67b2a7ae) == 2); // Frame stack
+    assert(Py_REFCNT(frame_2da976a2f3f66099f1c874abded3c444) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1647,7 +1647,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__2___init__(str
         tmp_called_instance_1 = par_self;
         CHECK_OBJECT(par_location);
         tmp_args_element_name_1 = par_location;
-        frame_946312b68c39905523b7390f67b2a7ae->m_frame.f_lineno = 69;
+        frame_2da976a2f3f66099f1c874abded3c444->m_frame.f_lineno = 69;
         tmp_call_result_3 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[35], tmp_args_element_name_1);
         if (tmp_call_result_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1680,7 +1680,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__2___init__(str
         tmp_called_instance_2 = par_self;
         CHECK_OBJECT(par_functions);
         tmp_args_element_name_2 = par_functions;
-        frame_946312b68c39905523b7390f67b2a7ae->m_frame.f_lineno = 70;
+        frame_2da976a2f3f66099f1c874abded3c444->m_frame.f_lineno = 70;
         tmp_call_result_4 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[36], tmp_args_element_name_2);
         if (tmp_call_result_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1856,7 +1856,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__2___init__(str
             type_description_1 = "ooooooooc";
             goto frame_exception_exit_1;
         }
-        frame_946312b68c39905523b7390f67b2a7ae->m_frame.f_lineno = 78;
+        frame_2da976a2f3f66099f1c874abded3c444->m_frame.f_lineno = 78;
         tmp_args_element_name_3 = CALL_METHOD_NO_ARGS(tmp_called_instance_3, mod_consts[39]);
         if (tmp_args_element_name_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1868,7 +1868,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__2___init__(str
             type_description_1 = "ooooooooc";
             goto frame_exception_exit_1;
         }
-        frame_946312b68c39905523b7390f67b2a7ae->m_frame.f_lineno = 78;
+        frame_2da976a2f3f66099f1c874abded3c444->m_frame.f_lineno = 78;
         tmp_call_result_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_3);
@@ -1900,7 +1900,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__2___init__(str
         }
 
         tmp_called_instance_4 = var_otheraxis;
-        frame_946312b68c39905523b7390f67b2a7ae->m_frame.f_lineno = 79;
+        frame_2da976a2f3f66099f1c874abded3c444->m_frame.f_lineno = 79;
         tmp_call_result_6 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_4,
             mod_consts[41],
@@ -2046,7 +2046,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__2___init__(str
             type_description_1 = "ooooooooc";
             goto try_except_handler_2;
         }
-        frame_946312b68c39905523b7390f67b2a7ae->m_frame.f_lineno = 82;
+        frame_2da976a2f3f66099f1c874abded3c444->m_frame.f_lineno = 82;
         tmp_call_result_7 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_5,
             mod_consts[44],
@@ -2234,7 +2234,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__2___init__(str
             type_description_1 = "ooooooooc";
             goto try_except_handler_3;
         }
-        frame_946312b68c39905523b7390f67b2a7ae->m_frame.f_lineno = 84;
+        frame_2da976a2f3f66099f1c874abded3c444->m_frame.f_lineno = 84;
         tmp_call_result_8 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_6,
             mod_consts[44],
@@ -2484,7 +2484,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__2___init__(str
             type_description_1 = "ooooooooc";
             goto frame_exception_exit_1;
         }
-        frame_946312b68c39905523b7390f67b2a7ae->m_frame.f_lineno = 89;
+        frame_2da976a2f3f66099f1c874abded3c444->m_frame.f_lineno = 89;
         tmp_call_result_9 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_4);
@@ -2502,7 +2502,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__2___init__(str
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_946312b68c39905523b7390f67b2a7ae);
+    RESTORE_FRAME_EXCEPTION(frame_2da976a2f3f66099f1c874abded3c444);
 #endif
 
     // Put the previous frame back on top.
@@ -2513,18 +2513,18 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__2___init__(str
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_946312b68c39905523b7390f67b2a7ae);
+    RESTORE_FRAME_EXCEPTION(frame_2da976a2f3f66099f1c874abded3c444);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_946312b68c39905523b7390f67b2a7ae, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_946312b68c39905523b7390f67b2a7ae->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_946312b68c39905523b7390f67b2a7ae, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_2da976a2f3f66099f1c874abded3c444, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_2da976a2f3f66099f1c874abded3c444->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_2da976a2f3f66099f1c874abded3c444, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_946312b68c39905523b7390f67b2a7ae,
+        frame_2da976a2f3f66099f1c874abded3c444,
         type_description_1,
         par_self,
         par_parent,
@@ -2539,17 +2539,17 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__2___init__(str
 
 
     // Release cached frame if used for exception.
-    if (frame_946312b68c39905523b7390f67b2a7ae == cache_frame_946312b68c39905523b7390f67b2a7ae) {
+    if (frame_2da976a2f3f66099f1c874abded3c444 == cache_frame_2da976a2f3f66099f1c874abded3c444) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_946312b68c39905523b7390f67b2a7ae);
-        cache_frame_946312b68c39905523b7390f67b2a7ae = NULL;
+        Py_DECREF(cache_frame_2da976a2f3f66099f1c874abded3c444);
+        cache_frame_2da976a2f3f66099f1c874abded3c444 = NULL;
     }
 
-    assertFrameObject(frame_946312b68c39905523b7390f67b2a7ae);
+    assertFrameObject(frame_2da976a2f3f66099f1c874abded3c444);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2654,7 +2654,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__3_set_alignmen
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_align = python_pars[1];
-    struct Nuitka_FrameObject *frame_268bc0c102675c8e606a6c75fe416d0c;
+    struct Nuitka_FrameObject *frame_125d366776c34a8ce4f7385d3343d880;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -2663,7 +2663,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__3_set_alignmen
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_268bc0c102675c8e606a6c75fe416d0c = NULL;
+    static struct Nuitka_FrameObject *cache_frame_125d366776c34a8ce4f7385d3343d880 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -2672,31 +2672,31 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__3_set_alignmen
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_268bc0c102675c8e606a6c75fe416d0c)) {
-        Py_XDECREF(cache_frame_268bc0c102675c8e606a6c75fe416d0c);
+    if (isFrameUnusable(cache_frame_125d366776c34a8ce4f7385d3343d880)) {
+        Py_XDECREF(cache_frame_125d366776c34a8ce4f7385d3343d880);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_268bc0c102675c8e606a6c75fe416d0c == NULL) {
+        if (cache_frame_125d366776c34a8ce4f7385d3343d880 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_268bc0c102675c8e606a6c75fe416d0c = MAKE_FUNCTION_FRAME(codeobj_268bc0c102675c8e606a6c75fe416d0c, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *));
+        cache_frame_125d366776c34a8ce4f7385d3343d880 = MAKE_FUNCTION_FRAME(codeobj_125d366776c34a8ce4f7385d3343d880, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_268bc0c102675c8e606a6c75fe416d0c->m_type_description == NULL);
-    frame_268bc0c102675c8e606a6c75fe416d0c = cache_frame_268bc0c102675c8e606a6c75fe416d0c;
+    assert(cache_frame_125d366776c34a8ce4f7385d3343d880->m_type_description == NULL);
+    frame_125d366776c34a8ce4f7385d3343d880 = cache_frame_125d366776c34a8ce4f7385d3343d880;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_268bc0c102675c8e606a6c75fe416d0c);
+    pushFrameStack(frame_125d366776c34a8ce4f7385d3343d880);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_268bc0c102675c8e606a6c75fe416d0c) == 2); // Frame stack
+    assert(Py_REFCNT(frame_125d366776c34a8ce4f7385d3343d880) == 2); // Frame stack
 
     // Framed code:
     {
@@ -2757,7 +2757,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__3_set_alignmen
         tmp_kwargs_name_1 = _PyDict_NewPresized( 1 );
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_268bc0c102675c8e606a6c75fe416d0c->m_frame.f_lineno = 102;
+        frame_125d366776c34a8ce4f7385d3343d880->m_frame.f_lineno = 102;
         tmp_call_result_1 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -3004,7 +3004,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__3_set_alignmen
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_268bc0c102675c8e606a6c75fe416d0c->m_frame.f_lineno = 105;
+        frame_125d366776c34a8ce4f7385d3343d880->m_frame.f_lineno = 105;
         tmp_call_result_2 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_1,
             mod_consts[44],
@@ -3107,7 +3107,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__3_set_alignmen
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_268bc0c102675c8e606a6c75fe416d0c->m_frame.f_lineno = 106;
+        frame_125d366776c34a8ce4f7385d3343d880->m_frame.f_lineno = 106;
         tmp_call_result_3 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_2,
             mod_consts[44],
@@ -3182,7 +3182,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__3_set_alignmen
         }
 
         tmp_args_element_name_1 = par_align;
-        frame_268bc0c102675c8e606a6c75fe416d0c->m_frame.f_lineno = 107;
+        frame_125d366776c34a8ce4f7385d3343d880->m_frame.f_lineno = 107;
         tmp_call_result_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_2);
         if (tmp_call_result_4 == NULL) {
@@ -3252,7 +3252,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__3_set_alignmen
         }
 
         tmp_args_element_name_2 = par_align;
-        frame_268bc0c102675c8e606a6c75fe416d0c->m_frame.f_lineno = 108;
+        frame_125d366776c34a8ce4f7385d3343d880->m_frame.f_lineno = 108;
         tmp_call_result_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_3);
         if (tmp_call_result_5 == NULL) {
@@ -3269,7 +3269,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__3_set_alignmen
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_268bc0c102675c8e606a6c75fe416d0c);
+    RESTORE_FRAME_EXCEPTION(frame_125d366776c34a8ce4f7385d3343d880);
 #endif
 
     // Put the previous frame back on top.
@@ -3280,18 +3280,18 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__3_set_alignmen
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_268bc0c102675c8e606a6c75fe416d0c);
+    RESTORE_FRAME_EXCEPTION(frame_125d366776c34a8ce4f7385d3343d880);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_268bc0c102675c8e606a6c75fe416d0c, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_268bc0c102675c8e606a6c75fe416d0c->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_268bc0c102675c8e606a6c75fe416d0c, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_125d366776c34a8ce4f7385d3343d880, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_125d366776c34a8ce4f7385d3343d880->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_125d366776c34a8ce4f7385d3343d880, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_268bc0c102675c8e606a6c75fe416d0c,
+        frame_125d366776c34a8ce4f7385d3343d880,
         type_description_1,
         par_self,
         par_align
@@ -3299,17 +3299,17 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__3_set_alignmen
 
 
     // Release cached frame if used for exception.
-    if (frame_268bc0c102675c8e606a6c75fe416d0c == cache_frame_268bc0c102675c8e606a6c75fe416d0c) {
+    if (frame_125d366776c34a8ce4f7385d3343d880 == cache_frame_125d366776c34a8ce4f7385d3343d880) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_268bc0c102675c8e606a6c75fe416d0c);
-        cache_frame_268bc0c102675c8e606a6c75fe416d0c = NULL;
+        Py_DECREF(cache_frame_125d366776c34a8ce4f7385d3343d880);
+        cache_frame_125d366776c34a8ce4f7385d3343d880 = NULL;
     }
 
-    assertFrameObject(frame_268bc0c102675c8e606a6c75fe416d0c);
+    assertFrameObject(frame_125d366776c34a8ce4f7385d3343d880);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -3386,7 +3386,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__4_set_location
     PyObject *par_location = python_pars[1];
     PyObject *var_bounds = NULL;
     PyObject *var_secondary_locator = NULL;
-    struct Nuitka_FrameObject *frame_e8f60387931f9b84f24565b11f9b14f5;
+    struct Nuitka_FrameObject *frame_f3d4047f9a200fc9df15c6ea3abec619;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     int tmp_res;
     PyObject *exception_type = NULL;
@@ -3395,7 +3395,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__4_set_location
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_e8f60387931f9b84f24565b11f9b14f5 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f3d4047f9a200fc9df15c6ea3abec619 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -3404,31 +3404,31 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__4_set_location
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_e8f60387931f9b84f24565b11f9b14f5)) {
-        Py_XDECREF(cache_frame_e8f60387931f9b84f24565b11f9b14f5);
+    if (isFrameUnusable(cache_frame_f3d4047f9a200fc9df15c6ea3abec619)) {
+        Py_XDECREF(cache_frame_f3d4047f9a200fc9df15c6ea3abec619);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_e8f60387931f9b84f24565b11f9b14f5 == NULL) {
+        if (cache_frame_f3d4047f9a200fc9df15c6ea3abec619 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_e8f60387931f9b84f24565b11f9b14f5 = MAKE_FUNCTION_FRAME(codeobj_e8f60387931f9b84f24565b11f9b14f5, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_f3d4047f9a200fc9df15c6ea3abec619 = MAKE_FUNCTION_FRAME(codeobj_f3d4047f9a200fc9df15c6ea3abec619, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_e8f60387931f9b84f24565b11f9b14f5->m_type_description == NULL);
-    frame_e8f60387931f9b84f24565b11f9b14f5 = cache_frame_e8f60387931f9b84f24565b11f9b14f5;
+    assert(cache_frame_f3d4047f9a200fc9df15c6ea3abec619->m_type_description == NULL);
+    frame_f3d4047f9a200fc9df15c6ea3abec619 = cache_frame_f3d4047f9a200fc9df15c6ea3abec619;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_e8f60387931f9b84f24565b11f9b14f5);
+    pushFrameStack(frame_f3d4047f9a200fc9df15c6ea3abec619);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_e8f60387931f9b84f24565b11f9b14f5) == 2); // Frame stack
+    assert(Py_REFCNT(frame_f3d4047f9a200fc9df15c6ea3abec619) == 2); // Frame stack
 
     // Framed code:
     {
@@ -3696,7 +3696,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__4_set_location
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_e8f60387931f9b84f24565b11f9b14f5->m_frame.f_lineno = 132;
+        frame_f3d4047f9a200fc9df15c6ea3abec619->m_frame.f_lineno = 132;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         Py_DECREF(tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
@@ -3940,7 +3940,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__4_set_location
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_e8f60387931f9b84f24565b11f9b14f5->m_frame.f_lineno = 144;
+        frame_f3d4047f9a200fc9df15c6ea3abec619->m_frame.f_lineno = 144;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_3 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -3979,7 +3979,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__4_set_location
         tmp_called_instance_1 = par_self;
         CHECK_OBJECT(var_secondary_locator);
         tmp_args_element_name_3 = var_secondary_locator;
-        frame_e8f60387931f9b84f24565b11f9b14f5->m_frame.f_lineno = 150;
+        frame_f3d4047f9a200fc9df15c6ea3abec619->m_frame.f_lineno = 150;
         tmp_call_result_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[70], tmp_args_element_name_3);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3995,7 +3995,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__4_set_location
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e8f60387931f9b84f24565b11f9b14f5);
+    RESTORE_FRAME_EXCEPTION(frame_f3d4047f9a200fc9df15c6ea3abec619);
 #endif
 
     // Put the previous frame back on top.
@@ -4006,18 +4006,18 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__4_set_location
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e8f60387931f9b84f24565b11f9b14f5);
+    RESTORE_FRAME_EXCEPTION(frame_f3d4047f9a200fc9df15c6ea3abec619);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_e8f60387931f9b84f24565b11f9b14f5, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_e8f60387931f9b84f24565b11f9b14f5->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_e8f60387931f9b84f24565b11f9b14f5, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_f3d4047f9a200fc9df15c6ea3abec619, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_f3d4047f9a200fc9df15c6ea3abec619->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_f3d4047f9a200fc9df15c6ea3abec619, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_e8f60387931f9b84f24565b11f9b14f5,
+        frame_f3d4047f9a200fc9df15c6ea3abec619,
         type_description_1,
         par_self,
         par_location,
@@ -4027,17 +4027,17 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__4_set_location
 
 
     // Release cached frame if used for exception.
-    if (frame_e8f60387931f9b84f24565b11f9b14f5 == cache_frame_e8f60387931f9b84f24565b11f9b14f5) {
+    if (frame_f3d4047f9a200fc9df15c6ea3abec619 == cache_frame_f3d4047f9a200fc9df15c6ea3abec619) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_e8f60387931f9b84f24565b11f9b14f5);
-        cache_frame_e8f60387931f9b84f24565b11f9b14f5 = NULL;
+        Py_DECREF(cache_frame_f3d4047f9a200fc9df15c6ea3abec619);
+        cache_frame_f3d4047f9a200fc9df15c6ea3abec619 = NULL;
     }
 
-    assertFrameObject(frame_e8f60387931f9b84f24565b11f9b14f5);
+    assertFrameObject(frame_f3d4047f9a200fc9df15c6ea3abec619);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -4122,14 +4122,14 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__5_apply_aspect
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_position = python_pars[1];
-    struct Nuitka_FrameObject *frame_2c5132c9c4e36201a3431c8bd435f209;
+    struct Nuitka_FrameObject *frame_2e74ad9da779e6d6f1d26ef4b61b3e61;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_2c5132c9c4e36201a3431c8bd435f209 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_2e74ad9da779e6d6f1d26ef4b61b3e61 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -4138,31 +4138,31 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__5_apply_aspect
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_2c5132c9c4e36201a3431c8bd435f209)) {
-        Py_XDECREF(cache_frame_2c5132c9c4e36201a3431c8bd435f209);
+    if (isFrameUnusable(cache_frame_2e74ad9da779e6d6f1d26ef4b61b3e61)) {
+        Py_XDECREF(cache_frame_2e74ad9da779e6d6f1d26ef4b61b3e61);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_2c5132c9c4e36201a3431c8bd435f209 == NULL) {
+        if (cache_frame_2e74ad9da779e6d6f1d26ef4b61b3e61 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_2c5132c9c4e36201a3431c8bd435f209 = MAKE_FUNCTION_FRAME(codeobj_2c5132c9c4e36201a3431c8bd435f209, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_2e74ad9da779e6d6f1d26ef4b61b3e61 = MAKE_FUNCTION_FRAME(codeobj_2e74ad9da779e6d6f1d26ef4b61b3e61, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_2c5132c9c4e36201a3431c8bd435f209->m_type_description == NULL);
-    frame_2c5132c9c4e36201a3431c8bd435f209 = cache_frame_2c5132c9c4e36201a3431c8bd435f209;
+    assert(cache_frame_2e74ad9da779e6d6f1d26ef4b61b3e61->m_type_description == NULL);
+    frame_2e74ad9da779e6d6f1d26ef4b61b3e61 = cache_frame_2e74ad9da779e6d6f1d26ef4b61b3e61;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_2c5132c9c4e36201a3431c8bd435f209);
+    pushFrameStack(frame_2e74ad9da779e6d6f1d26ef4b61b3e61);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_2c5132c9c4e36201a3431c8bd435f209) == 2); // Frame stack
+    assert(Py_REFCNT(frame_2e74ad9da779e6d6f1d26ef4b61b3e61) == 2); // Frame stack
 
     // Framed code:
     {
@@ -4170,7 +4170,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__5_apply_aspect
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_2c5132c9c4e36201a3431c8bd435f209->m_frame.f_lineno = 154;
+        frame_2e74ad9da779e6d6f1d26ef4b61b3e61->m_frame.f_lineno = 154;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[72]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4229,7 +4229,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__5_apply_aspect
         }
         CHECK_OBJECT(par_position);
         tmp_args_element_name_1 = par_position;
-        frame_2c5132c9c4e36201a3431c8bd435f209->m_frame.f_lineno = 155;
+        frame_2e74ad9da779e6d6f1d26ef4b61b3e61->m_frame.f_lineno = 155;
         tmp_call_result_2 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[73], tmp_args_element_name_1);
         Py_DECREF(tmp_called_instance_2);
         if (tmp_call_result_2 == NULL) {
@@ -4246,7 +4246,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__5_apply_aspect
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_2c5132c9c4e36201a3431c8bd435f209);
+    RESTORE_FRAME_EXCEPTION(frame_2e74ad9da779e6d6f1d26ef4b61b3e61);
 #endif
 
     // Put the previous frame back on top.
@@ -4257,18 +4257,18 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__5_apply_aspect
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_2c5132c9c4e36201a3431c8bd435f209);
+    RESTORE_FRAME_EXCEPTION(frame_2e74ad9da779e6d6f1d26ef4b61b3e61);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_2c5132c9c4e36201a3431c8bd435f209, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_2c5132c9c4e36201a3431c8bd435f209->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_2c5132c9c4e36201a3431c8bd435f209, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_2e74ad9da779e6d6f1d26ef4b61b3e61, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_2e74ad9da779e6d6f1d26ef4b61b3e61->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_2e74ad9da779e6d6f1d26ef4b61b3e61, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_2c5132c9c4e36201a3431c8bd435f209,
+        frame_2e74ad9da779e6d6f1d26ef4b61b3e61,
         type_description_1,
         par_self,
         par_position,
@@ -4277,17 +4277,17 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__5_apply_aspect
 
 
     // Release cached frame if used for exception.
-    if (frame_2c5132c9c4e36201a3431c8bd435f209 == cache_frame_2c5132c9c4e36201a3431c8bd435f209) {
+    if (frame_2e74ad9da779e6d6f1d26ef4b61b3e61 == cache_frame_2e74ad9da779e6d6f1d26ef4b61b3e61) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_2c5132c9c4e36201a3431c8bd435f209);
-        cache_frame_2c5132c9c4e36201a3431c8bd435f209 = NULL;
+        Py_DECREF(cache_frame_2e74ad9da779e6d6f1d26ef4b61b3e61);
+        cache_frame_2e74ad9da779e6d6f1d26ef4b61b3e61 = NULL;
     }
 
-    assertFrameObject(frame_2c5132c9c4e36201a3431c8bd435f209);
+    assertFrameObject(frame_2e74ad9da779e6d6f1d26ef4b61b3e61);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -4364,7 +4364,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__6_set_ticks(st
     PyObject *par_ticks = python_pars[1];
     PyObject *par_minor = python_pars[2];
     PyObject *var_ret = NULL;
-    struct Nuitka_FrameObject *frame_13a10395c72c8110ce310ed410b4294a;
+    struct Nuitka_FrameObject *frame_e145012ec8fe709f252392d8ea956a8d;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -4372,7 +4372,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__6_set_ticks(st
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_13a10395c72c8110ce310ed410b4294a = NULL;
+    static struct Nuitka_FrameObject *cache_frame_e145012ec8fe709f252392d8ea956a8d = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -4381,31 +4381,31 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__6_set_ticks(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_13a10395c72c8110ce310ed410b4294a)) {
-        Py_XDECREF(cache_frame_13a10395c72c8110ce310ed410b4294a);
+    if (isFrameUnusable(cache_frame_e145012ec8fe709f252392d8ea956a8d)) {
+        Py_XDECREF(cache_frame_e145012ec8fe709f252392d8ea956a8d);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_13a10395c72c8110ce310ed410b4294a == NULL) {
+        if (cache_frame_e145012ec8fe709f252392d8ea956a8d == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_13a10395c72c8110ce310ed410b4294a = MAKE_FUNCTION_FRAME(codeobj_13a10395c72c8110ce310ed410b4294a, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_e145012ec8fe709f252392d8ea956a8d = MAKE_FUNCTION_FRAME(codeobj_e145012ec8fe709f252392d8ea956a8d, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_13a10395c72c8110ce310ed410b4294a->m_type_description == NULL);
-    frame_13a10395c72c8110ce310ed410b4294a = cache_frame_13a10395c72c8110ce310ed410b4294a;
+    assert(cache_frame_e145012ec8fe709f252392d8ea956a8d->m_type_description == NULL);
+    frame_e145012ec8fe709f252392d8ea956a8d = cache_frame_e145012ec8fe709f252392d8ea956a8d;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_13a10395c72c8110ce310ed410b4294a);
+    pushFrameStack(frame_e145012ec8fe709f252392d8ea956a8d);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_13a10395c72c8110ce310ed410b4294a) == 2); // Frame stack
+    assert(Py_REFCNT(frame_e145012ec8fe709f252392d8ea956a8d) == 2); // Frame stack
 
     // Framed code:
     {
@@ -4453,7 +4453,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__6_set_ticks(st
         tmp_kwargs_name_1 = _PyDict_NewPresized( 1 );
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_13a10395c72c8110ce310ed410b4294a->m_frame.f_lineno = 169;
+        frame_e145012ec8fe709f252392d8ea956a8d->m_frame.f_lineno = 169;
         tmp_assign_source_1 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -4531,7 +4531,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__6_set_ticks(st
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_13a10395c72c8110ce310ed410b4294a);
+    RESTORE_FRAME_EXCEPTION(frame_e145012ec8fe709f252392d8ea956a8d);
 #endif
 
     // Put the previous frame back on top.
@@ -4542,18 +4542,18 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__6_set_ticks(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_13a10395c72c8110ce310ed410b4294a);
+    RESTORE_FRAME_EXCEPTION(frame_e145012ec8fe709f252392d8ea956a8d);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_13a10395c72c8110ce310ed410b4294a, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_13a10395c72c8110ce310ed410b4294a->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_13a10395c72c8110ce310ed410b4294a, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_e145012ec8fe709f252392d8ea956a8d, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_e145012ec8fe709f252392d8ea956a8d->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_e145012ec8fe709f252392d8ea956a8d, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_13a10395c72c8110ce310ed410b4294a,
+        frame_e145012ec8fe709f252392d8ea956a8d,
         type_description_1,
         par_self,
         par_ticks,
@@ -4563,17 +4563,17 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__6_set_ticks(st
 
 
     // Release cached frame if used for exception.
-    if (frame_13a10395c72c8110ce310ed410b4294a == cache_frame_13a10395c72c8110ce310ed410b4294a) {
+    if (frame_e145012ec8fe709f252392d8ea956a8d == cache_frame_e145012ec8fe709f252392d8ea956a8d) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_13a10395c72c8110ce310ed410b4294a);
-        cache_frame_13a10395c72c8110ce310ed410b4294a = NULL;
+        Py_DECREF(cache_frame_e145012ec8fe709f252392d8ea956a8d);
+        cache_frame_e145012ec8fe709f252392d8ea956a8d = NULL;
     }
 
-    assertFrameObject(frame_13a10395c72c8110ce310ed410b4294a);
+    assertFrameObject(frame_e145012ec8fe709f252392d8ea956a8d);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -4658,7 +4658,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__7_set_function
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_functions = python_pars[1];
-    struct Nuitka_FrameObject *frame_de394b6407d92a1a411687eb7be820c0;
+    struct Nuitka_FrameObject *frame_1a0697abda6cb8529ffcaffd460740e7;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     int tmp_res;
     PyObject *exception_type = NULL;
@@ -4667,7 +4667,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__7_set_function
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_de394b6407d92a1a411687eb7be820c0 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_1a0697abda6cb8529ffcaffd460740e7 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -4676,31 +4676,31 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__7_set_function
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_de394b6407d92a1a411687eb7be820c0)) {
-        Py_XDECREF(cache_frame_de394b6407d92a1a411687eb7be820c0);
+    if (isFrameUnusable(cache_frame_1a0697abda6cb8529ffcaffd460740e7)) {
+        Py_XDECREF(cache_frame_1a0697abda6cb8529ffcaffd460740e7);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_de394b6407d92a1a411687eb7be820c0 == NULL) {
+        if (cache_frame_1a0697abda6cb8529ffcaffd460740e7 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_de394b6407d92a1a411687eb7be820c0 = MAKE_FUNCTION_FRAME(codeobj_de394b6407d92a1a411687eb7be820c0, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *));
+        cache_frame_1a0697abda6cb8529ffcaffd460740e7 = MAKE_FUNCTION_FRAME(codeobj_1a0697abda6cb8529ffcaffd460740e7, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_de394b6407d92a1a411687eb7be820c0->m_type_description == NULL);
-    frame_de394b6407d92a1a411687eb7be820c0 = cache_frame_de394b6407d92a1a411687eb7be820c0;
+    assert(cache_frame_1a0697abda6cb8529ffcaffd460740e7->m_type_description == NULL);
+    frame_1a0697abda6cb8529ffcaffd460740e7 = cache_frame_1a0697abda6cb8529ffcaffd460740e7;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_de394b6407d92a1a411687eb7be820c0);
+    pushFrameStack(frame_1a0697abda6cb8529ffcaffd460740e7);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_de394b6407d92a1a411687eb7be820c0) == 2); // Frame stack
+    assert(Py_REFCNT(frame_1a0697abda6cb8529ffcaffd460740e7) == 2); // Frame stack
 
     // Framed code:
     {
@@ -4820,7 +4820,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__7_set_function
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_de394b6407d92a1a411687eb7be820c0->m_frame.f_lineno = 192;
+        frame_1a0697abda6cb8529ffcaffd460740e7->m_frame.f_lineno = 192;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_call_result_1 == NULL) {
@@ -4890,7 +4890,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__7_set_function
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_de394b6407d92a1a411687eb7be820c0->m_frame.f_lineno = 192;
+        frame_1a0697abda6cb8529ffcaffd460740e7->m_frame.f_lineno = 192;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_args_element_name_2);
         if (tmp_call_result_2 == NULL) {
@@ -5032,7 +5032,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__7_set_function
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[83];
-        frame_de394b6407d92a1a411687eb7be820c0->m_frame.f_lineno = 199;
+        frame_1a0697abda6cb8529ffcaffd460740e7->m_frame.f_lineno = 199;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -5048,7 +5048,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__7_set_function
         PyObject *tmp_call_result_3;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_de394b6407d92a1a411687eb7be820c0->m_frame.f_lineno = 203;
+        frame_1a0697abda6cb8529ffcaffd460740e7->m_frame.f_lineno = 203;
         tmp_call_result_3 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[84]);
         if (tmp_call_result_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5064,7 +5064,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__7_set_function
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_de394b6407d92a1a411687eb7be820c0);
+    RESTORE_FRAME_EXCEPTION(frame_1a0697abda6cb8529ffcaffd460740e7);
 #endif
 
     // Put the previous frame back on top.
@@ -5075,18 +5075,18 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__7_set_function
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_de394b6407d92a1a411687eb7be820c0);
+    RESTORE_FRAME_EXCEPTION(frame_1a0697abda6cb8529ffcaffd460740e7);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_de394b6407d92a1a411687eb7be820c0, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_de394b6407d92a1a411687eb7be820c0->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_de394b6407d92a1a411687eb7be820c0, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_1a0697abda6cb8529ffcaffd460740e7, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_1a0697abda6cb8529ffcaffd460740e7->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_1a0697abda6cb8529ffcaffd460740e7, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_de394b6407d92a1a411687eb7be820c0,
+        frame_1a0697abda6cb8529ffcaffd460740e7,
         type_description_1,
         par_self,
         par_functions
@@ -5094,17 +5094,17 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__7_set_function
 
 
     // Release cached frame if used for exception.
-    if (frame_de394b6407d92a1a411687eb7be820c0 == cache_frame_de394b6407d92a1a411687eb7be820c0) {
+    if (frame_1a0697abda6cb8529ffcaffd460740e7 == cache_frame_1a0697abda6cb8529ffcaffd460740e7) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_de394b6407d92a1a411687eb7be820c0);
-        cache_frame_de394b6407d92a1a411687eb7be820c0 = NULL;
+        Py_DECREF(cache_frame_1a0697abda6cb8529ffcaffd460740e7);
+        cache_frame_1a0697abda6cb8529ffcaffd460740e7 = NULL;
     }
 
-    assertFrameObject(frame_de394b6407d92a1a411687eb7be820c0);
+    assertFrameObject(frame_1a0697abda6cb8529ffcaffd460740e7);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5264,14 +5264,14 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__8_draw(struct 
     PyObject *par_self = python_pars[0];
     PyObject *par_args = python_pars[1];
     PyObject *par_kwargs = python_pars[2];
-    struct Nuitka_FrameObject *frame_ddf3d1991db70facc9841c5b4432b673;
+    struct Nuitka_FrameObject *frame_230fc634eb3dc20ca27116be6deeae17;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_ddf3d1991db70facc9841c5b4432b673 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_230fc634eb3dc20ca27116be6deeae17 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -5280,31 +5280,31 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__8_draw(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ddf3d1991db70facc9841c5b4432b673)) {
-        Py_XDECREF(cache_frame_ddf3d1991db70facc9841c5b4432b673);
+    if (isFrameUnusable(cache_frame_230fc634eb3dc20ca27116be6deeae17)) {
+        Py_XDECREF(cache_frame_230fc634eb3dc20ca27116be6deeae17);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ddf3d1991db70facc9841c5b4432b673 == NULL) {
+        if (cache_frame_230fc634eb3dc20ca27116be6deeae17 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ddf3d1991db70facc9841c5b4432b673 = MAKE_FUNCTION_FRAME(codeobj_ddf3d1991db70facc9841c5b4432b673, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_230fc634eb3dc20ca27116be6deeae17 = MAKE_FUNCTION_FRAME(codeobj_230fc634eb3dc20ca27116be6deeae17, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ddf3d1991db70facc9841c5b4432b673->m_type_description == NULL);
-    frame_ddf3d1991db70facc9841c5b4432b673 = cache_frame_ddf3d1991db70facc9841c5b4432b673;
+    assert(cache_frame_230fc634eb3dc20ca27116be6deeae17->m_type_description == NULL);
+    frame_230fc634eb3dc20ca27116be6deeae17 = cache_frame_230fc634eb3dc20ca27116be6deeae17;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ddf3d1991db70facc9841c5b4432b673);
+    pushFrameStack(frame_230fc634eb3dc20ca27116be6deeae17);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ddf3d1991db70facc9841c5b4432b673) == 2); // Frame stack
+    assert(Py_REFCNT(frame_230fc634eb3dc20ca27116be6deeae17) == 2); // Frame stack
 
     // Framed code:
     {
@@ -5312,7 +5312,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__8_draw(struct 
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_ddf3d1991db70facc9841c5b4432b673->m_frame.f_lineno = 216;
+        frame_230fc634eb3dc20ca27116be6deeae17->m_frame.f_lineno = 216;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[72]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5342,7 +5342,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__8_draw(struct 
         }
 
         tmp_called_instance_2 = par_self;
-        frame_ddf3d1991db70facc9841c5b4432b673->m_frame.f_lineno = 218;
+        frame_230fc634eb3dc20ca27116be6deeae17->m_frame.f_lineno = 218;
         tmp_call_result_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[84]);
         if (tmp_call_result_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -5438,7 +5438,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__8_draw(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ddf3d1991db70facc9841c5b4432b673);
+    RESTORE_FRAME_EXCEPTION(frame_230fc634eb3dc20ca27116be6deeae17);
 #endif
 
     // Put the previous frame back on top.
@@ -5449,18 +5449,18 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__8_draw(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ddf3d1991db70facc9841c5b4432b673);
+    RESTORE_FRAME_EXCEPTION(frame_230fc634eb3dc20ca27116be6deeae17);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ddf3d1991db70facc9841c5b4432b673, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ddf3d1991db70facc9841c5b4432b673->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ddf3d1991db70facc9841c5b4432b673, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_230fc634eb3dc20ca27116be6deeae17, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_230fc634eb3dc20ca27116be6deeae17->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_230fc634eb3dc20ca27116be6deeae17, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ddf3d1991db70facc9841c5b4432b673,
+        frame_230fc634eb3dc20ca27116be6deeae17,
         type_description_1,
         par_self,
         par_args,
@@ -5470,17 +5470,17 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__8_draw(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_ddf3d1991db70facc9841c5b4432b673 == cache_frame_ddf3d1991db70facc9841c5b4432b673) {
+    if (frame_230fc634eb3dc20ca27116be6deeae17 == cache_frame_230fc634eb3dc20ca27116be6deeae17) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ddf3d1991db70facc9841c5b4432b673);
-        cache_frame_ddf3d1991db70facc9841c5b4432b673 = NULL;
+        Py_DECREF(cache_frame_230fc634eb3dc20ca27116be6deeae17);
+        cache_frame_230fc634eb3dc20ca27116be6deeae17 = NULL;
     }
 
-    assertFrameObject(frame_ddf3d1991db70facc9841c5b4432b673);
+    assertFrameObject(frame_230fc634eb3dc20ca27116be6deeae17);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5566,7 +5566,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__9__set_scale(s
     PyObject *var_set_scale = NULL;
     PyObject *var_defscale = NULL;
     PyObject *var_ticks = NULL;
-    struct Nuitka_FrameObject *frame_712a32e6100e5f2c74b3df5124749f99;
+    struct Nuitka_FrameObject *frame_6ac2d9d899f1d02dfd8098cdb67e2c92;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -5576,7 +5576,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__9__set_scale(s
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     int tmp_res;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_712a32e6100e5f2c74b3df5124749f99 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_6ac2d9d899f1d02dfd8098cdb67e2c92 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -5584,31 +5584,31 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__9__set_scale(s
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_712a32e6100e5f2c74b3df5124749f99)) {
-        Py_XDECREF(cache_frame_712a32e6100e5f2c74b3df5124749f99);
+    if (isFrameUnusable(cache_frame_6ac2d9d899f1d02dfd8098cdb67e2c92)) {
+        Py_XDECREF(cache_frame_6ac2d9d899f1d02dfd8098cdb67e2c92);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_712a32e6100e5f2c74b3df5124749f99 == NULL) {
+        if (cache_frame_6ac2d9d899f1d02dfd8098cdb67e2c92 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_712a32e6100e5f2c74b3df5124749f99 = MAKE_FUNCTION_FRAME(codeobj_712a32e6100e5f2c74b3df5124749f99, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_6ac2d9d899f1d02dfd8098cdb67e2c92 = MAKE_FUNCTION_FRAME(codeobj_6ac2d9d899f1d02dfd8098cdb67e2c92, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_712a32e6100e5f2c74b3df5124749f99->m_type_description == NULL);
-    frame_712a32e6100e5f2c74b3df5124749f99 = cache_frame_712a32e6100e5f2c74b3df5124749f99;
+    assert(cache_frame_6ac2d9d899f1d02dfd8098cdb67e2c92->m_type_description == NULL);
+    frame_6ac2d9d899f1d02dfd8098cdb67e2c92 = cache_frame_6ac2d9d899f1d02dfd8098cdb67e2c92;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_712a32e6100e5f2c74b3df5124749f99);
+    pushFrameStack(frame_6ac2d9d899f1d02dfd8098cdb67e2c92);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_712a32e6100e5f2c74b3df5124749f99) == 2); // Frame stack
+    assert(Py_REFCNT(frame_6ac2d9d899f1d02dfd8098cdb67e2c92) == 2); // Frame stack
 
     // Framed code:
     {
@@ -5705,7 +5705,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__9__set_scale(s
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_712a32e6100e5f2c74b3df5124749f99->m_frame.f_lineno = 227;
+        frame_6ac2d9d899f1d02dfd8098cdb67e2c92->m_frame.f_lineno = 227;
         tmp_assign_source_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[88]);
         Py_DECREF(tmp_called_instance_1);
         if (tmp_assign_source_1 == NULL) {
@@ -5857,7 +5857,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__9__set_scale(s
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_712a32e6100e5f2c74b3df5124749f99->m_frame.f_lineno = 230;
+        frame_6ac2d9d899f1d02dfd8098cdb67e2c92->m_frame.f_lineno = 230;
         tmp_assign_source_3 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[88]);
         Py_DECREF(tmp_called_instance_2);
         if (tmp_assign_source_3 == NULL) {
@@ -6123,7 +6123,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__9__set_scale(s
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_712a32e6100e5f2c74b3df5124749f99->m_frame.f_lineno = 241;
+        frame_6ac2d9d899f1d02dfd8098cdb67e2c92->m_frame.f_lineno = 241;
         tmp_assign_source_7 = CALL_METHOD_NO_ARGS(tmp_called_instance_3, mod_consts[95]);
         Py_DECREF(tmp_called_instance_3);
         if (tmp_assign_source_7 == NULL) {
@@ -6210,7 +6210,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__9__set_scale(s
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         Py_DECREF(tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_712a32e6100e5f2c74b3df5124749f99->m_frame.f_lineno = 244;
+        frame_6ac2d9d899f1d02dfd8098cdb67e2c92->m_frame.f_lineno = 244;
         tmp_call_result_1 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_args_name_1);
         Py_DECREF(tmp_kwargs_name_1);
@@ -6361,7 +6361,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__9__set_scale(s
         }
 
         tmp_args_element_name_2 = var_ticks;
-        frame_712a32e6100e5f2c74b3df5124749f99->m_frame.f_lineno = 249;
+        frame_6ac2d9d899f1d02dfd8098cdb67e2c92->m_frame.f_lineno = 249;
         tmp_args_element_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_3);
         if (tmp_args_element_name_1 == NULL) {
@@ -6374,7 +6374,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__9__set_scale(s
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_712a32e6100e5f2c74b3df5124749f99->m_frame.f_lineno = 249;
+        frame_6ac2d9d899f1d02dfd8098cdb67e2c92->m_frame.f_lineno = 249;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_1);
@@ -6434,7 +6434,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__9__set_scale(s
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_712a32e6100e5f2c74b3df5124749f99);
+    RESTORE_FRAME_EXCEPTION(frame_6ac2d9d899f1d02dfd8098cdb67e2c92);
 #endif
 
     // Put the previous frame back on top.
@@ -6444,7 +6444,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__9__set_scale(s
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_712a32e6100e5f2c74b3df5124749f99);
+    RESTORE_FRAME_EXCEPTION(frame_6ac2d9d899f1d02dfd8098cdb67e2c92);
 #endif
 
     // Put the previous frame back on top.
@@ -6455,18 +6455,18 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__9__set_scale(s
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_712a32e6100e5f2c74b3df5124749f99);
+    RESTORE_FRAME_EXCEPTION(frame_6ac2d9d899f1d02dfd8098cdb67e2c92);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_712a32e6100e5f2c74b3df5124749f99, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_712a32e6100e5f2c74b3df5124749f99->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_712a32e6100e5f2c74b3df5124749f99, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_6ac2d9d899f1d02dfd8098cdb67e2c92, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_6ac2d9d899f1d02dfd8098cdb67e2c92->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_6ac2d9d899f1d02dfd8098cdb67e2c92, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_712a32e6100e5f2c74b3df5124749f99,
+        frame_6ac2d9d899f1d02dfd8098cdb67e2c92,
         type_description_1,
         par_self,
         var_pscale,
@@ -6477,17 +6477,17 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__9__set_scale(s
 
 
     // Release cached frame if used for exception.
-    if (frame_712a32e6100e5f2c74b3df5124749f99 == cache_frame_712a32e6100e5f2c74b3df5124749f99) {
+    if (frame_6ac2d9d899f1d02dfd8098cdb67e2c92 == cache_frame_6ac2d9d899f1d02dfd8098cdb67e2c92) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_712a32e6100e5f2c74b3df5124749f99);
-        cache_frame_712a32e6100e5f2c74b3df5124749f99 = NULL;
+        Py_DECREF(cache_frame_6ac2d9d899f1d02dfd8098cdb67e2c92);
+        cache_frame_6ac2d9d899f1d02dfd8098cdb67e2c92 = NULL;
     }
 
-    assertFrameObject(frame_712a32e6100e5f2c74b3df5124749f99);
+    assertFrameObject(frame_6ac2d9d899f1d02dfd8098cdb67e2c92);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -6577,14 +6577,14 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__10__set_lims(s
     PyObject *var_set_lim = NULL;
     PyObject *var_order = NULL;
     PyObject *var_neworder = NULL;
-    struct Nuitka_FrameObject *frame_01f62395a0035b52d3f7a4f51f0b97bf;
+    struct Nuitka_FrameObject *frame_ebb00a263f89c0b8bcb3eeda8915cfd3;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_01f62395a0035b52d3f7a4f51f0b97bf = NULL;
+    static struct Nuitka_FrameObject *cache_frame_ebb00a263f89c0b8bcb3eeda8915cfd3 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -6593,31 +6593,31 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__10__set_lims(s
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_01f62395a0035b52d3f7a4f51f0b97bf)) {
-        Py_XDECREF(cache_frame_01f62395a0035b52d3f7a4f51f0b97bf);
+    if (isFrameUnusable(cache_frame_ebb00a263f89c0b8bcb3eeda8915cfd3)) {
+        Py_XDECREF(cache_frame_ebb00a263f89c0b8bcb3eeda8915cfd3);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_01f62395a0035b52d3f7a4f51f0b97bf == NULL) {
+        if (cache_frame_ebb00a263f89c0b8bcb3eeda8915cfd3 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_01f62395a0035b52d3f7a4f51f0b97bf = MAKE_FUNCTION_FRAME(codeobj_01f62395a0035b52d3f7a4f51f0b97bf, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_ebb00a263f89c0b8bcb3eeda8915cfd3 = MAKE_FUNCTION_FRAME(codeobj_ebb00a263f89c0b8bcb3eeda8915cfd3, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_01f62395a0035b52d3f7a4f51f0b97bf->m_type_description == NULL);
-    frame_01f62395a0035b52d3f7a4f51f0b97bf = cache_frame_01f62395a0035b52d3f7a4f51f0b97bf;
+    assert(cache_frame_ebb00a263f89c0b8bcb3eeda8915cfd3->m_type_description == NULL);
+    frame_ebb00a263f89c0b8bcb3eeda8915cfd3 = cache_frame_ebb00a263f89c0b8bcb3eeda8915cfd3;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_01f62395a0035b52d3f7a4f51f0b97bf);
+    pushFrameStack(frame_ebb00a263f89c0b8bcb3eeda8915cfd3);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_01f62395a0035b52d3f7a4f51f0b97bf) == 2); // Frame stack
+    assert(Py_REFCNT(frame_ebb00a263f89c0b8bcb3eeda8915cfd3) == 2); // Frame stack
 
     // Framed code:
     {
@@ -6701,7 +6701,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__10__set_lims(s
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_01f62395a0035b52d3f7a4f51f0b97bf->m_frame.f_lineno = 260;
+        frame_ebb00a263f89c0b8bcb3eeda8915cfd3->m_frame.f_lineno = 260;
         tmp_assign_source_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[100]);
         Py_DECREF(tmp_called_instance_1);
         if (tmp_assign_source_1 == NULL) {
@@ -6840,7 +6840,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__10__set_lims(s
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_01f62395a0035b52d3f7a4f51f0b97bf->m_frame.f_lineno = 263;
+        frame_ebb00a263f89c0b8bcb3eeda8915cfd3->m_frame.f_lineno = 263;
         tmp_assign_source_3 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[102]);
         Py_DECREF(tmp_called_instance_2);
         if (tmp_assign_source_3 == NULL) {
@@ -7057,7 +7057,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__10__set_lims(s
         }
 
         tmp_args_element_name_2 = var_lims;
-        frame_01f62395a0035b52d3f7a4f51f0b97bf->m_frame.f_lineno = 266;
+        frame_ebb00a263f89c0b8bcb3eeda8915cfd3->m_frame.f_lineno = 266;
         tmp_args_element_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         if (tmp_args_element_name_1 == NULL) {
@@ -7070,7 +7070,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__10__set_lims(s
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_01f62395a0035b52d3f7a4f51f0b97bf->m_frame.f_lineno = 266;
+        frame_ebb00a263f89c0b8bcb3eeda8915cfd3->m_frame.f_lineno = 266;
         tmp_assign_source_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_element_name_1);
@@ -7216,7 +7216,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__10__set_lims(s
         tmp_called_name_3 = var_set_lim;
         CHECK_OBJECT(var_lims);
         tmp_args_element_name_3 = var_lims;
-        frame_01f62395a0035b52d3f7a4f51f0b97bf->m_frame.f_lineno = 271;
+        frame_ebb00a263f89c0b8bcb3eeda8915cfd3->m_frame.f_lineno = 271;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -7232,7 +7232,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__10__set_lims(s
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_01f62395a0035b52d3f7a4f51f0b97bf);
+    RESTORE_FRAME_EXCEPTION(frame_ebb00a263f89c0b8bcb3eeda8915cfd3);
 #endif
 
     // Put the previous frame back on top.
@@ -7243,18 +7243,18 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__10__set_lims(s
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_01f62395a0035b52d3f7a4f51f0b97bf);
+    RESTORE_FRAME_EXCEPTION(frame_ebb00a263f89c0b8bcb3eeda8915cfd3);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_01f62395a0035b52d3f7a4f51f0b97bf, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_01f62395a0035b52d3f7a4f51f0b97bf->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_01f62395a0035b52d3f7a4f51f0b97bf, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_ebb00a263f89c0b8bcb3eeda8915cfd3, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_ebb00a263f89c0b8bcb3eeda8915cfd3->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_ebb00a263f89c0b8bcb3eeda8915cfd3, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_01f62395a0035b52d3f7a4f51f0b97bf,
+        frame_ebb00a263f89c0b8bcb3eeda8915cfd3,
         type_description_1,
         par_self,
         var_lims,
@@ -7265,17 +7265,17 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__10__set_lims(s
 
 
     // Release cached frame if used for exception.
-    if (frame_01f62395a0035b52d3f7a4f51f0b97bf == cache_frame_01f62395a0035b52d3f7a4f51f0b97bf) {
+    if (frame_ebb00a263f89c0b8bcb3eeda8915cfd3 == cache_frame_ebb00a263f89c0b8bcb3eeda8915cfd3) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_01f62395a0035b52d3f7a4f51f0b97bf);
-        cache_frame_01f62395a0035b52d3f7a4f51f0b97bf = NULL;
+        Py_DECREF(cache_frame_ebb00a263f89c0b8bcb3eeda8915cfd3);
+        cache_frame_ebb00a263f89c0b8bcb3eeda8915cfd3 = NULL;
     }
 
-    assertFrameObject(frame_01f62395a0035b52d3f7a4f51f0b97bf);
+    assertFrameObject(frame_ebb00a263f89c0b8bcb3eeda8915cfd3);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -7366,14 +7366,14 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__11_set_aspect(
     PyObject *par_self = python_pars[0];
     PyObject *par_args = python_pars[1];
     PyObject *par_kwargs = python_pars[2];
-    struct Nuitka_FrameObject *frame_bfe4ccfd1eda654d6a3417f2decbe813;
+    struct Nuitka_FrameObject *frame_9684cbf48779dfae6f8a93768e4e6636;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_bfe4ccfd1eda654d6a3417f2decbe813 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_9684cbf48779dfae6f8a93768e4e6636 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -7382,31 +7382,31 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__11_set_aspect(
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_bfe4ccfd1eda654d6a3417f2decbe813)) {
-        Py_XDECREF(cache_frame_bfe4ccfd1eda654d6a3417f2decbe813);
+    if (isFrameUnusable(cache_frame_9684cbf48779dfae6f8a93768e4e6636)) {
+        Py_XDECREF(cache_frame_9684cbf48779dfae6f8a93768e4e6636);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_bfe4ccfd1eda654d6a3417f2decbe813 == NULL) {
+        if (cache_frame_9684cbf48779dfae6f8a93768e4e6636 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_bfe4ccfd1eda654d6a3417f2decbe813 = MAKE_FUNCTION_FRAME(codeobj_bfe4ccfd1eda654d6a3417f2decbe813, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_9684cbf48779dfae6f8a93768e4e6636 = MAKE_FUNCTION_FRAME(codeobj_9684cbf48779dfae6f8a93768e4e6636, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_bfe4ccfd1eda654d6a3417f2decbe813->m_type_description == NULL);
-    frame_bfe4ccfd1eda654d6a3417f2decbe813 = cache_frame_bfe4ccfd1eda654d6a3417f2decbe813;
+    assert(cache_frame_9684cbf48779dfae6f8a93768e4e6636->m_type_description == NULL);
+    frame_9684cbf48779dfae6f8a93768e4e6636 = cache_frame_9684cbf48779dfae6f8a93768e4e6636;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_bfe4ccfd1eda654d6a3417f2decbe813);
+    pushFrameStack(frame_9684cbf48779dfae6f8a93768e4e6636);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_bfe4ccfd1eda654d6a3417f2decbe813) == 2); // Frame stack
+    assert(Py_REFCNT(frame_9684cbf48779dfae6f8a93768e4e6636) == 2); // Frame stack
 
     // Framed code:
     {
@@ -7428,7 +7428,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__11_set_aspect(
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_bfe4ccfd1eda654d6a3417f2decbe813->m_frame.f_lineno = 278;
+        frame_9684cbf48779dfae6f8a93768e4e6636->m_frame.f_lineno = 278;
         tmp_call_result_1 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_1,
             mod_consts[109],
@@ -7449,7 +7449,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__11_set_aspect(
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_bfe4ccfd1eda654d6a3417f2decbe813);
+    RESTORE_FRAME_EXCEPTION(frame_9684cbf48779dfae6f8a93768e4e6636);
 #endif
 
     // Put the previous frame back on top.
@@ -7460,18 +7460,18 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__11_set_aspect(
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_bfe4ccfd1eda654d6a3417f2decbe813);
+    RESTORE_FRAME_EXCEPTION(frame_9684cbf48779dfae6f8a93768e4e6636);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_bfe4ccfd1eda654d6a3417f2decbe813, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_bfe4ccfd1eda654d6a3417f2decbe813->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_bfe4ccfd1eda654d6a3417f2decbe813, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_9684cbf48779dfae6f8a93768e4e6636, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_9684cbf48779dfae6f8a93768e4e6636->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_9684cbf48779dfae6f8a93768e4e6636, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_bfe4ccfd1eda654d6a3417f2decbe813,
+        frame_9684cbf48779dfae6f8a93768e4e6636,
         type_description_1,
         par_self,
         par_args,
@@ -7480,17 +7480,17 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__11_set_aspect(
 
 
     // Release cached frame if used for exception.
-    if (frame_bfe4ccfd1eda654d6a3417f2decbe813 == cache_frame_bfe4ccfd1eda654d6a3417f2decbe813) {
+    if (frame_9684cbf48779dfae6f8a93768e4e6636 == cache_frame_9684cbf48779dfae6f8a93768e4e6636) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_bfe4ccfd1eda654d6a3417f2decbe813);
-        cache_frame_bfe4ccfd1eda654d6a3417f2decbe813 = NULL;
+        Py_DECREF(cache_frame_9684cbf48779dfae6f8a93768e4e6636);
+        cache_frame_9684cbf48779dfae6f8a93768e4e6636 = NULL;
     }
 
-    assertFrameObject(frame_bfe4ccfd1eda654d6a3417f2decbe813);
+    assertFrameObject(frame_9684cbf48779dfae6f8a93768e4e6636);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -7578,7 +7578,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__12_set_xlabel(
     PyObject *par_fontdict = python_pars[2];
     PyObject *par_labelpad = python_pars[3];
     PyObject *par_kwargs = python_pars[4];
-    struct Nuitka_FrameObject *frame_1dde7a836fd4a71806ad9e1e53699d05;
+    struct Nuitka_FrameObject *frame_dd2ce04ae96e8441d19f39cf4aa42276;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -7586,7 +7586,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__12_set_xlabel(
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_1dde7a836fd4a71806ad9e1e53699d05 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_dd2ce04ae96e8441d19f39cf4aa42276 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -7594,31 +7594,31 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__12_set_xlabel(
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_1dde7a836fd4a71806ad9e1e53699d05)) {
-        Py_XDECREF(cache_frame_1dde7a836fd4a71806ad9e1e53699d05);
+    if (isFrameUnusable(cache_frame_dd2ce04ae96e8441d19f39cf4aa42276)) {
+        Py_XDECREF(cache_frame_dd2ce04ae96e8441d19f39cf4aa42276);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_1dde7a836fd4a71806ad9e1e53699d05 == NULL) {
+        if (cache_frame_dd2ce04ae96e8441d19f39cf4aa42276 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_1dde7a836fd4a71806ad9e1e53699d05 = MAKE_FUNCTION_FRAME(codeobj_1dde7a836fd4a71806ad9e1e53699d05, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_dd2ce04ae96e8441d19f39cf4aa42276 = MAKE_FUNCTION_FRAME(codeobj_dd2ce04ae96e8441d19f39cf4aa42276, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_1dde7a836fd4a71806ad9e1e53699d05->m_type_description == NULL);
-    frame_1dde7a836fd4a71806ad9e1e53699d05 = cache_frame_1dde7a836fd4a71806ad9e1e53699d05;
+    assert(cache_frame_dd2ce04ae96e8441d19f39cf4aa42276->m_type_description == NULL);
+    frame_dd2ce04ae96e8441d19f39cf4aa42276 = cache_frame_dd2ce04ae96e8441d19f39cf4aa42276;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_1dde7a836fd4a71806ad9e1e53699d05);
+    pushFrameStack(frame_dd2ce04ae96e8441d19f39cf4aa42276);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_1dde7a836fd4a71806ad9e1e53699d05) == 2); // Frame stack
+    assert(Py_REFCNT(frame_dd2ce04ae96e8441d19f39cf4aa42276) == 2); // Frame stack
 
     // Framed code:
     {
@@ -7741,7 +7741,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__12_set_xlabel(
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_1dde7a836fd4a71806ad9e1e53699d05);
+    RESTORE_FRAME_EXCEPTION(frame_dd2ce04ae96e8441d19f39cf4aa42276);
 #endif
 
     // Put the previous frame back on top.
@@ -7751,7 +7751,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__12_set_xlabel(
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_1dde7a836fd4a71806ad9e1e53699d05);
+    RESTORE_FRAME_EXCEPTION(frame_dd2ce04ae96e8441d19f39cf4aa42276);
 #endif
 
     // Put the previous frame back on top.
@@ -7762,18 +7762,18 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__12_set_xlabel(
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_1dde7a836fd4a71806ad9e1e53699d05);
+    RESTORE_FRAME_EXCEPTION(frame_dd2ce04ae96e8441d19f39cf4aa42276);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_1dde7a836fd4a71806ad9e1e53699d05, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_1dde7a836fd4a71806ad9e1e53699d05->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_1dde7a836fd4a71806ad9e1e53699d05, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_dd2ce04ae96e8441d19f39cf4aa42276, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_dd2ce04ae96e8441d19f39cf4aa42276->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_dd2ce04ae96e8441d19f39cf4aa42276, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_1dde7a836fd4a71806ad9e1e53699d05,
+        frame_dd2ce04ae96e8441d19f39cf4aa42276,
         type_description_1,
         par_self,
         par_xlabel,
@@ -7784,17 +7784,17 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__12_set_xlabel(
 
 
     // Release cached frame if used for exception.
-    if (frame_1dde7a836fd4a71806ad9e1e53699d05 == cache_frame_1dde7a836fd4a71806ad9e1e53699d05) {
+    if (frame_dd2ce04ae96e8441d19f39cf4aa42276 == cache_frame_dd2ce04ae96e8441d19f39cf4aa42276) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_1dde7a836fd4a71806ad9e1e53699d05);
-        cache_frame_1dde7a836fd4a71806ad9e1e53699d05 = NULL;
+        Py_DECREF(cache_frame_dd2ce04ae96e8441d19f39cf4aa42276);
+        cache_frame_dd2ce04ae96e8441d19f39cf4aa42276 = NULL;
     }
 
-    assertFrameObject(frame_1dde7a836fd4a71806ad9e1e53699d05);
+    assertFrameObject(frame_dd2ce04ae96e8441d19f39cf4aa42276);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -7889,7 +7889,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__13_set_ylabel(
     PyObject *par_fontdict = python_pars[2];
     PyObject *par_labelpad = python_pars[3];
     PyObject *par_kwargs = python_pars[4];
-    struct Nuitka_FrameObject *frame_9b35091de0db906cfb567ed2e60b6631;
+    struct Nuitka_FrameObject *frame_c0f04d61c7ee2acf29e4f8fa4daf0e98;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -7897,7 +7897,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__13_set_ylabel(
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_9b35091de0db906cfb567ed2e60b6631 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_c0f04d61c7ee2acf29e4f8fa4daf0e98 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -7905,31 +7905,31 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__13_set_ylabel(
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_9b35091de0db906cfb567ed2e60b6631)) {
-        Py_XDECREF(cache_frame_9b35091de0db906cfb567ed2e60b6631);
+    if (isFrameUnusable(cache_frame_c0f04d61c7ee2acf29e4f8fa4daf0e98)) {
+        Py_XDECREF(cache_frame_c0f04d61c7ee2acf29e4f8fa4daf0e98);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_9b35091de0db906cfb567ed2e60b6631 == NULL) {
+        if (cache_frame_c0f04d61c7ee2acf29e4f8fa4daf0e98 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_9b35091de0db906cfb567ed2e60b6631 = MAKE_FUNCTION_FRAME(codeobj_9b35091de0db906cfb567ed2e60b6631, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_c0f04d61c7ee2acf29e4f8fa4daf0e98 = MAKE_FUNCTION_FRAME(codeobj_c0f04d61c7ee2acf29e4f8fa4daf0e98, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_9b35091de0db906cfb567ed2e60b6631->m_type_description == NULL);
-    frame_9b35091de0db906cfb567ed2e60b6631 = cache_frame_9b35091de0db906cfb567ed2e60b6631;
+    assert(cache_frame_c0f04d61c7ee2acf29e4f8fa4daf0e98->m_type_description == NULL);
+    frame_c0f04d61c7ee2acf29e4f8fa4daf0e98 = cache_frame_c0f04d61c7ee2acf29e4f8fa4daf0e98;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_9b35091de0db906cfb567ed2e60b6631);
+    pushFrameStack(frame_c0f04d61c7ee2acf29e4f8fa4daf0e98);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_9b35091de0db906cfb567ed2e60b6631) == 2); // Frame stack
+    assert(Py_REFCNT(frame_c0f04d61c7ee2acf29e4f8fa4daf0e98) == 2); // Frame stack
 
     // Framed code:
     {
@@ -8052,7 +8052,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__13_set_ylabel(
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9b35091de0db906cfb567ed2e60b6631);
+    RESTORE_FRAME_EXCEPTION(frame_c0f04d61c7ee2acf29e4f8fa4daf0e98);
 #endif
 
     // Put the previous frame back on top.
@@ -8062,7 +8062,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__13_set_ylabel(
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9b35091de0db906cfb567ed2e60b6631);
+    RESTORE_FRAME_EXCEPTION(frame_c0f04d61c7ee2acf29e4f8fa4daf0e98);
 #endif
 
     // Put the previous frame back on top.
@@ -8073,18 +8073,18 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__13_set_ylabel(
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9b35091de0db906cfb567ed2e60b6631);
+    RESTORE_FRAME_EXCEPTION(frame_c0f04d61c7ee2acf29e4f8fa4daf0e98);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_9b35091de0db906cfb567ed2e60b6631, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_9b35091de0db906cfb567ed2e60b6631->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_9b35091de0db906cfb567ed2e60b6631, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_c0f04d61c7ee2acf29e4f8fa4daf0e98, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_c0f04d61c7ee2acf29e4f8fa4daf0e98->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_c0f04d61c7ee2acf29e4f8fa4daf0e98, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_9b35091de0db906cfb567ed2e60b6631,
+        frame_c0f04d61c7ee2acf29e4f8fa4daf0e98,
         type_description_1,
         par_self,
         par_ylabel,
@@ -8095,17 +8095,17 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__13_set_ylabel(
 
 
     // Release cached frame if used for exception.
-    if (frame_9b35091de0db906cfb567ed2e60b6631 == cache_frame_9b35091de0db906cfb567ed2e60b6631) {
+    if (frame_c0f04d61c7ee2acf29e4f8fa4daf0e98 == cache_frame_c0f04d61c7ee2acf29e4f8fa4daf0e98) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_9b35091de0db906cfb567ed2e60b6631);
-        cache_frame_9b35091de0db906cfb567ed2e60b6631 = NULL;
+        Py_DECREF(cache_frame_c0f04d61c7ee2acf29e4f8fa4daf0e98);
+        cache_frame_c0f04d61c7ee2acf29e4f8fa4daf0e98 = NULL;
     }
 
-    assertFrameObject(frame_9b35091de0db906cfb567ed2e60b6631);
+    assertFrameObject(frame_c0f04d61c7ee2acf29e4f8fa4daf0e98);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -8197,7 +8197,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__14_set_color(s
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_color = python_pars[1];
-    struct Nuitka_FrameObject *frame_09c3a949aec33c42abe633450efa20e1;
+    struct Nuitka_FrameObject *frame_1b34ffa295d17096d5df7d72f3a1ef69;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -8205,7 +8205,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__14_set_color(s
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     int tmp_res;
-    static struct Nuitka_FrameObject *cache_frame_09c3a949aec33c42abe633450efa20e1 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_1b34ffa295d17096d5df7d72f3a1ef69 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -8214,31 +8214,31 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__14_set_color(s
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_09c3a949aec33c42abe633450efa20e1)) {
-        Py_XDECREF(cache_frame_09c3a949aec33c42abe633450efa20e1);
+    if (isFrameUnusable(cache_frame_1b34ffa295d17096d5df7d72f3a1ef69)) {
+        Py_XDECREF(cache_frame_1b34ffa295d17096d5df7d72f3a1ef69);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_09c3a949aec33c42abe633450efa20e1 == NULL) {
+        if (cache_frame_1b34ffa295d17096d5df7d72f3a1ef69 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_09c3a949aec33c42abe633450efa20e1 = MAKE_FUNCTION_FRAME(codeobj_09c3a949aec33c42abe633450efa20e1, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *));
+        cache_frame_1b34ffa295d17096d5df7d72f3a1ef69 = MAKE_FUNCTION_FRAME(codeobj_1b34ffa295d17096d5df7d72f3a1ef69, module_matplotlib$axes$_secondary_axes, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_09c3a949aec33c42abe633450efa20e1->m_type_description == NULL);
-    frame_09c3a949aec33c42abe633450efa20e1 = cache_frame_09c3a949aec33c42abe633450efa20e1;
+    assert(cache_frame_1b34ffa295d17096d5df7d72f3a1ef69->m_type_description == NULL);
+    frame_1b34ffa295d17096d5df7d72f3a1ef69 = cache_frame_1b34ffa295d17096d5df7d72f3a1ef69;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_09c3a949aec33c42abe633450efa20e1);
+    pushFrameStack(frame_1b34ffa295d17096d5df7d72f3a1ef69);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_09c3a949aec33c42abe633450efa20e1) == 2); // Frame stack
+    assert(Py_REFCNT(frame_1b34ffa295d17096d5df7d72f3a1ef69) == 2); // Frame stack
 
     // Framed code:
     {
@@ -8335,7 +8335,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__14_set_color(s
         tmp_dict_value_1 = par_color;
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_09c3a949aec33c42abe633450efa20e1->m_frame.f_lineno = 339;
+        frame_1b34ffa295d17096d5df7d72f3a1ef69->m_frame.f_lineno = 339;
         tmp_call_result_1 = CALL_FUNCTION_WITH_KEYARGS(tmp_called_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_kwargs_name_1);
@@ -8421,7 +8421,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__14_set_color(s
         }
 
         tmp_args_element_name_1 = par_color;
-        frame_09c3a949aec33c42abe633450efa20e1->m_frame.f_lineno = 340;
+        frame_1b34ffa295d17096d5df7d72f3a1ef69->m_frame.f_lineno = 340;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_2);
         if (tmp_call_result_2 == NULL) {
@@ -8506,7 +8506,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__14_set_color(s
         }
 
         tmp_args_element_name_2 = par_color;
-        frame_09c3a949aec33c42abe633450efa20e1->m_frame.f_lineno = 341;
+        frame_1b34ffa295d17096d5df7d72f3a1ef69->m_frame.f_lineno = 341;
         tmp_call_result_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_3);
         if (tmp_call_result_3 == NULL) {
@@ -8589,7 +8589,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__14_set_color(s
         }
 
         tmp_args_element_name_3 = par_color;
-        frame_09c3a949aec33c42abe633450efa20e1->m_frame.f_lineno = 342;
+        frame_1b34ffa295d17096d5df7d72f3a1ef69->m_frame.f_lineno = 342;
         tmp_call_result_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_4);
         if (tmp_call_result_4 == NULL) {
@@ -8647,7 +8647,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__14_set_color(s
         tmp_dict_value_2 = par_color;
         tmp_res = PyDict_SetItem(tmp_kwargs_name_2, tmp_dict_key_2, tmp_dict_value_2);
         assert(!(tmp_res != 0));
-        frame_09c3a949aec33c42abe633450efa20e1->m_frame.f_lineno = 344;
+        frame_1b34ffa295d17096d5df7d72f3a1ef69->m_frame.f_lineno = 344;
         tmp_call_result_5 = CALL_FUNCTION_WITH_KEYARGS(tmp_called_name_5, tmp_kwargs_name_2);
         Py_DECREF(tmp_called_name_5);
         Py_DECREF(tmp_kwargs_name_2);
@@ -8733,7 +8733,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__14_set_color(s
         }
 
         tmp_args_element_name_4 = par_color;
-        frame_09c3a949aec33c42abe633450efa20e1->m_frame.f_lineno = 345;
+        frame_1b34ffa295d17096d5df7d72f3a1ef69->m_frame.f_lineno = 345;
         tmp_call_result_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_4);
         Py_DECREF(tmp_called_name_6);
         if (tmp_call_result_6 == NULL) {
@@ -8818,7 +8818,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__14_set_color(s
         }
 
         tmp_args_element_name_5 = par_color;
-        frame_09c3a949aec33c42abe633450efa20e1->m_frame.f_lineno = 346;
+        frame_1b34ffa295d17096d5df7d72f3a1ef69->m_frame.f_lineno = 346;
         tmp_call_result_7 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_7, tmp_args_element_name_5);
         Py_DECREF(tmp_called_name_7);
         if (tmp_call_result_7 == NULL) {
@@ -8901,7 +8901,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__14_set_color(s
         }
 
         tmp_args_element_name_6 = par_color;
-        frame_09c3a949aec33c42abe633450efa20e1->m_frame.f_lineno = 347;
+        frame_1b34ffa295d17096d5df7d72f3a1ef69->m_frame.f_lineno = 347;
         tmp_call_result_8 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_8, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_8);
         if (tmp_call_result_8 == NULL) {
@@ -8919,7 +8919,7 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__14_set_color(s
     branch_end_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_09c3a949aec33c42abe633450efa20e1);
+    RESTORE_FRAME_EXCEPTION(frame_1b34ffa295d17096d5df7d72f3a1ef69);
 #endif
 
     // Put the previous frame back on top.
@@ -8930,18 +8930,18 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__14_set_color(s
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_09c3a949aec33c42abe633450efa20e1);
+    RESTORE_FRAME_EXCEPTION(frame_1b34ffa295d17096d5df7d72f3a1ef69);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_09c3a949aec33c42abe633450efa20e1, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_09c3a949aec33c42abe633450efa20e1->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_09c3a949aec33c42abe633450efa20e1, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_1b34ffa295d17096d5df7d72f3a1ef69, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_1b34ffa295d17096d5df7d72f3a1ef69->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_1b34ffa295d17096d5df7d72f3a1ef69, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_09c3a949aec33c42abe633450efa20e1,
+        frame_1b34ffa295d17096d5df7d72f3a1ef69,
         type_description_1,
         par_self,
         par_color
@@ -8949,17 +8949,17 @@ static PyObject *impl_matplotlib$axes$_secondary_axes$$$function__14_set_color(s
 
 
     // Release cached frame if used for exception.
-    if (frame_09c3a949aec33c42abe633450efa20e1 == cache_frame_09c3a949aec33c42abe633450efa20e1) {
+    if (frame_1b34ffa295d17096d5df7d72f3a1ef69 == cache_frame_1b34ffa295d17096d5df7d72f3a1ef69) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_09c3a949aec33c42abe633450efa20e1);
-        cache_frame_09c3a949aec33c42abe633450efa20e1 = NULL;
+        Py_DECREF(cache_frame_1b34ffa295d17096d5df7d72f3a1ef69);
+        cache_frame_1b34ffa295d17096d5df7d72f3a1ef69 = NULL;
     }
 
-    assertFrameObject(frame_09c3a949aec33c42abe633450efa20e1);
+    assertFrameObject(frame_1b34ffa295d17096d5df7d72f3a1ef69);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -9031,9 +9031,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__10__s
         impl_matplotlib$axes$_secondary_axes$$$function__10__set_lims,
         mod_consts[72],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[167],
+        mod_consts[166],
 #endif
-        codeobj_01f62395a0035b52d3f7a4f51f0b97bf,
+        codeobj_ebb00a263f89c0b8bcb3eeda8915cfd3,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9054,11 +9054,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__10__s
 static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__11_set_aspect() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$axes$_secondary_axes$$$function__11_set_aspect,
-        mod_consts[168],
+        mod_consts[167],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[169],
+        mod_consts[168],
 #endif
-        codeobj_bfe4ccfd1eda654d6a3417f2decbe813,
+        codeobj_9684cbf48779dfae6f8a93768e4e6636,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9079,11 +9079,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__11_se
 static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__12_set_xlabel(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$axes$_secondary_axes$$$function__12_set_xlabel,
-        mod_consts[171],
+        mod_consts[170],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[172],
+        mod_consts[171],
 #endif
-        codeobj_1dde7a836fd4a71806ad9e1e53699d05,
+        codeobj_dd2ce04ae96e8441d19f39cf4aa42276,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9104,11 +9104,11 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__12_se
 static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__13_set_ylabel(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_matplotlib$axes$_secondary_axes$$$function__13_set_ylabel,
-        mod_consts[173],
+        mod_consts[172],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[174],
+        mod_consts[173],
 #endif
-        codeobj_9b35091de0db906cfb567ed2e60b6631,
+        codeobj_c0f04d61c7ee2acf29e4f8fa4daf0e98,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9131,9 +9131,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__14_se
         impl_matplotlib$axes$_secondary_axes$$$function__14_set_color,
         mod_consts[120],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[175],
+        mod_consts[174],
 #endif
-        codeobj_09c3a949aec33c42abe633450efa20e1,
+        codeobj_1b34ffa295d17096d5df7d72f3a1ef69,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9158,7 +9158,7 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__1__ma
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_f921e0fa32a818e0e3c8d70627d10ada,
+        codeobj_061c48c69e8d57f904107f47f8503fb6,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9183,7 +9183,7 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__1__ma
 #if PYTHON_VERSION >= 0x300
         mod_consts[4],
 #endif
-        codeobj_08b0af95b16b95b49a338289b08a8bbc,
+        codeobj_f7d83730d6dd471c511d8e80af406498,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9206,9 +9206,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__2___i
         impl_matplotlib$axes$_secondary_axes$$$function__2___init__,
         mod_consts[20],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[156],
+        mod_consts[155],
 #endif
-        codeobj_946312b68c39905523b7390f67b2a7ae,
+        codeobj_2da976a2f3f66099f1c874abded3c444,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9231,9 +9231,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__3_set
         impl_matplotlib$axes$_secondary_axes$$$function__3_set_alignment,
         mod_consts[50],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[157],
+        mod_consts[156],
 #endif
-        codeobj_268bc0c102675c8e606a6c75fe416d0c,
+        codeobj_125d366776c34a8ce4f7385d3343d880,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9256,9 +9256,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__4_set
         impl_matplotlib$axes$_secondary_axes$$$function__4_set_location,
         mod_consts[35],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[158],
+        mod_consts[157],
 #endif
-        codeobj_e8f60387931f9b84f24565b11f9b14f5,
+        codeobj_f3d4047f9a200fc9df15c6ea3abec619,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9281,9 +9281,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__5_app
         impl_matplotlib$axes$_secondary_axes$$$function__5_apply_aspect,
         mod_consts[73],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[160],
+        mod_consts[159],
 #endif
-        codeobj_2c5132c9c4e36201a3431c8bd435f209,
+        codeobj_2e74ad9da779e6d6f1d26ef4b61b3e61,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9306,9 +9306,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__6_set
         impl_matplotlib$axes$_secondary_axes$$$function__6_set_ticks,
         mod_consts[74],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[163],
+        mod_consts[162],
 #endif
-        codeobj_13a10395c72c8110ce310ed410b4294a,
+        codeobj_e145012ec8fe709f252392d8ea956a8d,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9331,9 +9331,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__7_set
         impl_matplotlib$axes$_secondary_axes$$$function__7_set_functions,
         mod_consts[36],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[164],
+        mod_consts[163],
 #endif
-        codeobj_de394b6407d92a1a411687eb7be820c0,
+        codeobj_1a0697abda6cb8529ffcaffd460740e7,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9358,7 +9358,7 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__7_set
 #if PYTHON_VERSION >= 0x300
         mod_consts[82],
 #endif
-        codeobj_8ec7f0a0f1848c1c25909925e0079982,
+        codeobj_5841679e57f288bd185db0c52809a2c9,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9383,7 +9383,7 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__7_set
 #if PYTHON_VERSION >= 0x300
         mod_consts[82],
 #endif
-        codeobj_8ec7f0a0f1848c1c25909925e0079982,
+        codeobj_5841679e57f288bd185db0c52809a2c9,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9406,9 +9406,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__8_dra
         impl_matplotlib$axes$_secondary_axes$$$function__8_draw,
         mod_consts[86],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[165],
+        mod_consts[164],
 #endif
-        codeobj_ddf3d1991db70facc9841c5b4432b673,
+        codeobj_230fc634eb3dc20ca27116be6deeae17,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9431,9 +9431,9 @@ static PyObject *MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__9__se
         impl_matplotlib$axes$_secondary_axes$$$function__9__set_scale,
         mod_consts[84],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[166],
+        mod_consts[165],
 #endif
-        codeobj_712a32e6100e5f2c74b3df5124749f99,
+        codeobj_6ac2d9d899f1d02dfd8098cdb67e2c92,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9843,7 +9843,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
     PyObject *tmp_class_creation_1__class_decl_dict = NULL;
     PyObject *tmp_class_creation_1__metaclass = NULL;
     PyObject *tmp_class_creation_1__prepared = NULL;
-    struct Nuitka_FrameObject *frame_ead51e5fa7c86ab430ae2fa4a855af00;
+    struct Nuitka_FrameObject *frame_bc590527e97c72d51fffc66f11a81848;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -9855,9 +9855,9 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
     PyObject *tmp_dictdel_key;
     PyObject *locals_matplotlib$axes$_secondary_axes$$$class__1_SecondaryAxis_37 = NULL;
     PyObject *tmp_dictset_value;
-    struct Nuitka_FrameObject *frame_5d38d650c597bd8ce727fd9b90f416cc_2;
+    struct Nuitka_FrameObject *frame_33b5589568eb3984056815178af820fa_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_5d38d650c597bd8ce727fd9b90f416cc_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_33b5589568eb3984056815178af820fa_2 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -9880,30 +9880,30 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[128];
-        UPDATE_STRING_DICT0(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[129], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[128], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_ead51e5fa7c86ab430ae2fa4a855af00 = MAKE_MODULE_FRAME(codeobj_ead51e5fa7c86ab430ae2fa4a855af00, module_matplotlib$axes$_secondary_axes);
+    frame_bc590527e97c72d51fffc66f11a81848 = MAKE_MODULE_FRAME(codeobj_bc590527e97c72d51fffc66f11a81848, module_matplotlib$axes$_secondary_axes);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_ead51e5fa7c86ab430ae2fa4a855af00);
-    assert(Py_REFCNT(frame_ead51e5fa7c86ab430ae2fa4a855af00) == 2);
+    pushFrameStack(frame_bc590527e97c72d51fffc66f11a81848);
+    assert(Py_REFCNT(frame_bc590527e97c72d51fffc66f11a81848) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[128];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[130]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[129]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[130]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[129]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[131], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[130], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -9919,14 +9919,14 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[130]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[129]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[130]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[129]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[132], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[131], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -9941,7 +9941,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[133], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[132], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -9950,12 +9950,12 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[134];
+        tmp_name_name_1 = mod_consts[133];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_matplotlib$axes$_secondary_axes;
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = Py_None;
         tmp_level_name_1 = mod_consts[51];
-        frame_ead51e5fa7c86ab430ae2fa4a855af00->m_frame.f_lineno = 1;
+        frame_bc590527e97c72d51fffc66f11a81848->m_frame.f_lineno = 1;
         tmp_assign_source_4 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -9977,12 +9977,12 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         PyObject *tmp_locals_arg_name_2;
         PyObject *tmp_fromlist_name_2;
         PyObject *tmp_level_name_2;
-        tmp_name_name_2 = mod_consts[135];
+        tmp_name_name_2 = mod_consts[134];
         tmp_globals_arg_name_2 = (PyObject *)moduledict_matplotlib$axes$_secondary_axes;
         tmp_locals_arg_name_2 = Py_None;
         tmp_fromlist_name_2 = Py_None;
         tmp_level_name_2 = mod_consts[51];
-        frame_ead51e5fa7c86ab430ae2fa4a855af00->m_frame.f_lineno = 3;
+        frame_bc590527e97c72d51fffc66f11a81848->m_frame.f_lineno = 3;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10026,12 +10026,12 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         PyObject *tmp_locals_arg_name_3;
         PyObject *tmp_fromlist_name_3;
         PyObject *tmp_level_name_3;
-        tmp_name_name_3 = mod_consts[136];
+        tmp_name_name_3 = mod_consts[135];
         tmp_globals_arg_name_3 = (PyObject *)moduledict_matplotlib$axes$_secondary_axes;
         tmp_locals_arg_name_3 = Py_None;
         tmp_fromlist_name_3 = Py_None;
         tmp_level_name_3 = mod_consts[51];
-        frame_ead51e5fa7c86ab430ae2fa4a855af00->m_frame.f_lineno = 4;
+        frame_bc590527e97c72d51fffc66f11a81848->m_frame.f_lineno = 4;
         tmp_import_name_from_2 = IMPORT_MODULE5(tmp_name_name_3, tmp_globals_arg_name_3, tmp_locals_arg_name_3, tmp_fromlist_name_3, tmp_level_name_3);
         if (tmp_import_name_from_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10047,11 +10047,11 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
             tmp_assign_source_6 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_2,
                 (PyObject *)moduledict_matplotlib$axes$_secondary_axes,
-                mod_consts[137],
+                mod_consts[136],
                 mod_consts[51]
             );
         } else {
-            tmp_assign_source_6 = IMPORT_NAME(tmp_import_name_from_2, mod_consts[137]);
+            tmp_assign_source_6 = IMPORT_NAME(tmp_import_name_from_2, mod_consts[136]);
         }
 
         Py_DECREF(tmp_import_name_from_2);
@@ -10065,7 +10065,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[137], tmp_assign_source_6);
+        UPDATE_STRING_DICT1(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[136], tmp_assign_source_6);
     }
     {
         PyObject *tmp_assign_source_7;
@@ -10075,12 +10075,12 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         PyObject *tmp_locals_arg_name_4;
         PyObject *tmp_fromlist_name_4;
         PyObject *tmp_level_name_4;
-        tmp_name_name_4 = mod_consts[138];
+        tmp_name_name_4 = mod_consts[137];
         tmp_globals_arg_name_4 = (PyObject *)moduledict_matplotlib$axes$_secondary_axes;
         tmp_locals_arg_name_4 = Py_None;
         tmp_fromlist_name_4 = Py_None;
         tmp_level_name_4 = mod_consts[51];
-        frame_ead51e5fa7c86ab430ae2fa4a855af00->m_frame.f_lineno = 5;
+        frame_bc590527e97c72d51fffc66f11a81848->m_frame.f_lineno = 5;
         tmp_import_name_from_3 = IMPORT_MODULE5(tmp_name_name_4, tmp_globals_arg_name_4, tmp_locals_arg_name_4, tmp_fromlist_name_4, tmp_level_name_4);
         if (tmp_import_name_from_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10096,11 +10096,11 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
             tmp_assign_source_7 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_3,
                 (PyObject *)moduledict_matplotlib$axes$_secondary_axes,
-                mod_consts[139],
+                mod_consts[138],
                 mod_consts[51]
             );
         } else {
-            tmp_assign_source_7 = IMPORT_NAME(tmp_import_name_from_3, mod_consts[139]);
+            tmp_assign_source_7 = IMPORT_NAME(tmp_import_name_from_3, mod_consts[138]);
         }
 
         Py_DECREF(tmp_import_name_from_3);
@@ -10124,12 +10124,12 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         PyObject *tmp_locals_arg_name_5;
         PyObject *tmp_fromlist_name_5;
         PyObject *tmp_level_name_5;
-        tmp_name_name_5 = mod_consts[140];
+        tmp_name_name_5 = mod_consts[139];
         tmp_globals_arg_name_5 = (PyObject *)moduledict_matplotlib$axes$_secondary_axes;
         tmp_locals_arg_name_5 = Py_None;
         tmp_fromlist_name_5 = Py_None;
         tmp_level_name_5 = mod_consts[51];
-        frame_ead51e5fa7c86ab430ae2fa4a855af00->m_frame.f_lineno = 6;
+        frame_bc590527e97c72d51fffc66f11a81848->m_frame.f_lineno = 6;
         tmp_import_name_from_4 = IMPORT_MODULE5(tmp_name_name_5, tmp_globals_arg_name_5, tmp_locals_arg_name_5, tmp_fromlist_name_5, tmp_level_name_5);
         if (tmp_import_name_from_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10145,11 +10145,11 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
             tmp_assign_source_8 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_4,
                 (PyObject *)moduledict_matplotlib$axes$_secondary_axes,
-                mod_consts[141],
+                mod_consts[140],
                 mod_consts[51]
             );
         } else {
-            tmp_assign_source_8 = IMPORT_NAME(tmp_import_name_from_4, mod_consts[141]);
+            tmp_assign_source_8 = IMPORT_NAME(tmp_import_name_from_4, mod_consts[140]);
         }
 
         Py_DECREF(tmp_import_name_from_4);
@@ -10173,12 +10173,12 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         PyObject *tmp_locals_arg_name_6;
         PyObject *tmp_fromlist_name_6;
         PyObject *tmp_level_name_6;
-        tmp_name_name_6 = mod_consts[142];
+        tmp_name_name_6 = mod_consts[141];
         tmp_globals_arg_name_6 = (PyObject *)moduledict_matplotlib$axes$_secondary_axes;
         tmp_locals_arg_name_6 = Py_None;
-        tmp_fromlist_name_6 = mod_consts[143];
+        tmp_fromlist_name_6 = mod_consts[142];
         tmp_level_name_6 = mod_consts[51];
-        frame_ead51e5fa7c86ab430ae2fa4a855af00->m_frame.f_lineno = 7;
+        frame_bc590527e97c72d51fffc66f11a81848->m_frame.f_lineno = 7;
         tmp_import_name_from_5 = IMPORT_MODULE5(tmp_name_name_6, tmp_globals_arg_name_6, tmp_locals_arg_name_6, tmp_fromlist_name_6, tmp_level_name_6);
         if (tmp_import_name_from_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10194,11 +10194,11 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
             tmp_assign_source_9 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_5,
                 (PyObject *)moduledict_matplotlib$axes$_secondary_axes,
-                mod_consts[144],
+                mod_consts[143],
                 mod_consts[51]
             );
         } else {
-            tmp_assign_source_9 = IMPORT_NAME(tmp_import_name_from_5, mod_consts[144]);
+            tmp_assign_source_9 = IMPORT_NAME(tmp_import_name_from_5, mod_consts[143]);
         }
 
         Py_DECREF(tmp_import_name_from_5);
@@ -10212,7 +10212,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[144], tmp_assign_source_9);
+        UPDATE_STRING_DICT1(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[143], tmp_assign_source_9);
     }
     {
         PyObject *tmp_assign_source_10;
@@ -10225,10 +10225,10 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
     {
         PyObject *tmp_assign_source_11;
         PyObject *tmp_tuple_element_1;
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[144]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[143]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[144]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[143]);
         }
 
         assert(!(tmp_tuple_element_1 == NULL));
@@ -10282,7 +10282,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         PyObject *tmp_expression_name_1;
         PyObject *tmp_subscript_name_1;
         PyObject *tmp_bases_name_1;
-        tmp_key_name_1 = mod_consts[145];
+        tmp_key_name_1 = mod_consts[144];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_1 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_1, tmp_key_name_1);
@@ -10296,7 +10296,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         condexpr_true_1:;
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_2 = tmp_class_creation_1__class_decl_dict;
-        tmp_key_name_2 = mod_consts[145];
+        tmp_key_name_2 = mod_consts[144];
         tmp_metaclass_name_1 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_2, tmp_key_name_2);
         if (tmp_metaclass_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10382,7 +10382,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         nuitka_bool tmp_condition_result_3;
         PyObject *tmp_key_name_3;
         PyObject *tmp_dict_arg_name_3;
-        tmp_key_name_3 = mod_consts[145];
+        tmp_key_name_3 = mod_consts[144];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_3 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_3, tmp_key_name_3);
@@ -10397,7 +10397,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
     branch_yes_1:;
     CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_1__class_decl_dict;
-    tmp_dictdel_key = mod_consts[145];
+    tmp_dictdel_key = mod_consts[144];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -10415,7 +10415,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         PyObject *tmp_expression_name_2;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_2 = tmp_class_creation_1__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_2, mod_consts[146]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_2, mod_consts[145]);
         tmp_condition_result_4 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_4 == NUITKA_BOOL_TRUE) {
             goto branch_yes_2;
@@ -10433,7 +10433,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         PyObject *tmp_kwargs_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_3 = tmp_class_creation_1__metaclass;
-        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[146]);
+        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[145]);
         if (tmp_called_name_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -10444,7 +10444,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
 
             goto try_except_handler_1;
         }
-        tmp_tuple_element_2 = mod_consts[147];
+        tmp_tuple_element_2 = mod_consts[146];
         tmp_args_name_1 = PyTuple_New(2);
         PyTuple_SET_ITEM0(tmp_args_name_1, 0, tmp_tuple_element_2);
         CHECK_OBJECT(tmp_class_creation_1__bases);
@@ -10452,7 +10452,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         PyTuple_SET_ITEM0(tmp_args_name_1, 1, tmp_tuple_element_2);
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_kwargs_name_1 = tmp_class_creation_1__class_decl_dict;
-        frame_ead51e5fa7c86ab430ae2fa4a855af00->m_frame.f_lineno = 37;
+        frame_bc590527e97c72d51fffc66f11a81848->m_frame.f_lineno = 37;
         tmp_assign_source_15 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -10475,7 +10475,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         PyObject *tmp_expression_name_4;
         CHECK_OBJECT(tmp_class_creation_1__prepared);
         tmp_expression_name_4 = tmp_class_creation_1__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_4, mod_consts[148]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_4, mod_consts[147]);
         tmp_operand_name_1 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_1);
         if (tmp_res == -1) {
@@ -10506,11 +10506,11 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         PyObject *tmp_getattr_attr_1;
         PyObject *tmp_getattr_default_1;
         tmp_raise_type_1 = PyExc_TypeError;
-        tmp_left_name_1 = mod_consts[149];
+        tmp_left_name_1 = mod_consts[148];
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_getattr_target_1 = tmp_class_creation_1__metaclass;
-        tmp_getattr_attr_1 = mod_consts[150];
-        tmp_getattr_default_1 = mod_consts[151];
+        tmp_getattr_attr_1 = mod_consts[149];
+        tmp_getattr_default_1 = mod_consts[150];
         tmp_tuple_element_3 = BUILTIN_GETATTR(tmp_getattr_target_1, tmp_getattr_attr_1, tmp_getattr_default_1);
         if (tmp_tuple_element_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10531,7 +10531,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
             tmp_type_arg_2 = tmp_class_creation_1__prepared;
             tmp_expression_name_5 = BUILTIN_TYPE1(tmp_type_arg_2);
             assert(!(tmp_expression_name_5 == NULL));
-            tmp_tuple_element_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_5, mod_consts[150]);
+            tmp_tuple_element_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_5, mod_consts[149]);
             Py_DECREF(tmp_expression_name_5);
             if (tmp_tuple_element_3 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -10593,8 +10593,8 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[152];
-        tmp_res = PyObject_SetItem(locals_matplotlib$axes$_secondary_axes$$$class__1_SecondaryAxis_37, mod_consts[153], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[151];
+        tmp_res = PyObject_SetItem(locals_matplotlib$axes$_secondary_axes$$$class__1_SecondaryAxis_37, mod_consts[152], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -10605,7 +10605,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
 
             goto try_except_handler_3;
         }
-        tmp_dictset_value = mod_consts[154];
+        tmp_dictset_value = mod_consts[153];
         tmp_res = PyObject_SetItem(locals_matplotlib$axes$_secondary_axes$$$class__1_SecondaryAxis_37, mod_consts[127], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -10617,8 +10617,8 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
 
             goto try_except_handler_3;
         }
-        tmp_dictset_value = mod_consts[147];
-        tmp_res = PyObject_SetItem(locals_matplotlib$axes$_secondary_axes$$$class__1_SecondaryAxis_37, mod_consts[155], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[146];
+        tmp_res = PyObject_SetItem(locals_matplotlib$axes$_secondary_axes$$$class__1_SecondaryAxis_37, mod_consts[154], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -10629,31 +10629,31 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
 
             goto try_except_handler_3;
         }
-        if (isFrameUnusable(cache_frame_5d38d650c597bd8ce727fd9b90f416cc_2)) {
-            Py_XDECREF(cache_frame_5d38d650c597bd8ce727fd9b90f416cc_2);
+        if (isFrameUnusable(cache_frame_33b5589568eb3984056815178af820fa_2)) {
+            Py_XDECREF(cache_frame_33b5589568eb3984056815178af820fa_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_5d38d650c597bd8ce727fd9b90f416cc_2 == NULL) {
+            if (cache_frame_33b5589568eb3984056815178af820fa_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_5d38d650c597bd8ce727fd9b90f416cc_2 = MAKE_FUNCTION_FRAME(codeobj_5d38d650c597bd8ce727fd9b90f416cc, module_matplotlib$axes$_secondary_axes, sizeof(void *));
+            cache_frame_33b5589568eb3984056815178af820fa_2 = MAKE_FUNCTION_FRAME(codeobj_33b5589568eb3984056815178af820fa, module_matplotlib$axes$_secondary_axes, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_5d38d650c597bd8ce727fd9b90f416cc_2->m_type_description == NULL);
-        frame_5d38d650c597bd8ce727fd9b90f416cc_2 = cache_frame_5d38d650c597bd8ce727fd9b90f416cc_2;
+        assert(cache_frame_33b5589568eb3984056815178af820fa_2->m_type_description == NULL);
+        frame_33b5589568eb3984056815178af820fa_2 = cache_frame_33b5589568eb3984056815178af820fa_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_5d38d650c597bd8ce727fd9b90f416cc_2);
+        pushFrameStack(frame_33b5589568eb3984056815178af820fa_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_5d38d650c597bd8ce727fd9b90f416cc_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_33b5589568eb3984056815178af820fa_2) == 2); // Frame stack
 
         // Framed code:
         {
@@ -10712,7 +10712,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         {
             PyObject *tmp_defaults_1;
             struct Nuitka_CellObject *tmp_closure_2[1];
-            tmp_defaults_1 = mod_consts[159];
+            tmp_defaults_1 = mod_consts[158];
             Py_INCREF(tmp_defaults_1);
 
             tmp_closure_2[0] = outline_0_var___class__;
@@ -10762,11 +10762,11 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
                 }
             }
 
-            frame_5d38d650c597bd8ce727fd9b90f416cc_2->m_frame.f_lineno = 157;
+            frame_33b5589568eb3984056815178af820fa_2->m_frame.f_lineno = 157;
             tmp_called_name_2 = CALL_METHOD_WITH_ARGS2(
                 tmp_called_instance_1,
-                mod_consts[161],
-                &PyTuple_GET_ITEM(mod_consts[162], 0)
+                mod_consts[160],
+                &PyTuple_GET_ITEM(mod_consts[161], 0)
             );
 
             Py_DECREF(tmp_called_instance_1);
@@ -10786,7 +10786,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
 
             tmp_args_element_name_1 = MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__6_set_ticks(tmp_defaults_2);
 
-            frame_5d38d650c597bd8ce727fd9b90f416cc_2->m_frame.f_lineno = 157;
+            frame_33b5589568eb3984056815178af820fa_2->m_frame.f_lineno = 157;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_1);
             Py_DECREF(tmp_called_name_2);
             Py_DECREF(tmp_args_element_name_1);
@@ -10886,7 +10886,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
 
         tmp_dictset_value = MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__11_set_aspect();
 
-        tmp_res = PyObject_SetItem(locals_matplotlib$axes$_secondary_axes$$$class__1_SecondaryAxis_37, mod_consts[168], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$axes$_secondary_axes$$$class__1_SecondaryAxis_37, mod_consts[167], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -10900,13 +10900,13 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         }
         {
             PyObject *tmp_defaults_3;
-            tmp_defaults_3 = mod_consts[170];
+            tmp_defaults_3 = mod_consts[169];
             Py_INCREF(tmp_defaults_3);
 
 
             tmp_dictset_value = MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__12_set_xlabel(tmp_defaults_3);
 
-            tmp_res = PyObject_SetItem(locals_matplotlib$axes$_secondary_axes$$$class__1_SecondaryAxis_37, mod_consts[171], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_matplotlib$axes$_secondary_axes$$$class__1_SecondaryAxis_37, mod_consts[170], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -10921,13 +10921,13 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         }
         {
             PyObject *tmp_defaults_4;
-            tmp_defaults_4 = mod_consts[170];
+            tmp_defaults_4 = mod_consts[169];
             Py_INCREF(tmp_defaults_4);
 
 
             tmp_dictset_value = MAKE_FUNCTION_matplotlib$axes$_secondary_axes$$$function__13_set_ylabel(tmp_defaults_4);
 
-            tmp_res = PyObject_SetItem(locals_matplotlib$axes$_secondary_axes$$$class__1_SecondaryAxis_37, mod_consts[173], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_matplotlib$axes$_secondary_axes$$$class__1_SecondaryAxis_37, mod_consts[172], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -10958,7 +10958,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_5d38d650c597bd8ce727fd9b90f416cc_2);
+        RESTORE_FRAME_EXCEPTION(frame_33b5589568eb3984056815178af820fa_2);
 #endif
 
         // Put the previous frame back on top.
@@ -10969,35 +10969,35 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_5d38d650c597bd8ce727fd9b90f416cc_2);
+        RESTORE_FRAME_EXCEPTION(frame_33b5589568eb3984056815178af820fa_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_5d38d650c597bd8ce727fd9b90f416cc_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_5d38d650c597bd8ce727fd9b90f416cc_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_5d38d650c597bd8ce727fd9b90f416cc_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_33b5589568eb3984056815178af820fa_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_33b5589568eb3984056815178af820fa_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_33b5589568eb3984056815178af820fa_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_5d38d650c597bd8ce727fd9b90f416cc_2,
+            frame_33b5589568eb3984056815178af820fa_2,
             type_description_2,
             outline_0_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_5d38d650c597bd8ce727fd9b90f416cc_2 == cache_frame_5d38d650c597bd8ce727fd9b90f416cc_2) {
+        if (frame_33b5589568eb3984056815178af820fa_2 == cache_frame_33b5589568eb3984056815178af820fa_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_5d38d650c597bd8ce727fd9b90f416cc_2);
-            cache_frame_5d38d650c597bd8ce727fd9b90f416cc_2 = NULL;
+            Py_DECREF(cache_frame_33b5589568eb3984056815178af820fa_2);
+            cache_frame_33b5589568eb3984056815178af820fa_2 = NULL;
         }
 
-        assertFrameObject(frame_5d38d650c597bd8ce727fd9b90f416cc_2);
+        assertFrameObject(frame_33b5589568eb3984056815178af820fa_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -11040,7 +11040,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         branch_yes_4:;
         CHECK_OBJECT(tmp_class_creation_1__bases_orig);
         tmp_dictset_value = tmp_class_creation_1__bases_orig;
-        tmp_res = PyObject_SetItem(locals_matplotlib$axes$_secondary_axes$$$class__1_SecondaryAxis_37, mod_consts[176], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_matplotlib$axes$_secondary_axes$$$class__1_SecondaryAxis_37, mod_consts[175], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -11060,7 +11060,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
             PyObject *tmp_kwargs_name_2;
             CHECK_OBJECT(tmp_class_creation_1__metaclass);
             tmp_called_name_3 = tmp_class_creation_1__metaclass;
-            tmp_tuple_element_4 = mod_consts[147];
+            tmp_tuple_element_4 = mod_consts[146];
             tmp_args_name_2 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_args_name_2, 0, tmp_tuple_element_4);
             CHECK_OBJECT(tmp_class_creation_1__bases);
@@ -11070,7 +11070,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
             PyTuple_SET_ITEM0(tmp_args_name_2, 2, tmp_tuple_element_4);
             CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
             tmp_kwargs_name_2 = tmp_class_creation_1__class_decl_dict;
-            frame_ead51e5fa7c86ab430ae2fa4a855af00->m_frame.f_lineno = 37;
+            frame_bc590527e97c72d51fffc66f11a81848->m_frame.f_lineno = 37;
             tmp_assign_source_18 = CALL_FUNCTION(tmp_called_name_3, tmp_args_name_2, tmp_kwargs_name_2);
             Py_DECREF(tmp_args_name_2);
             if (tmp_assign_source_18 == NULL) {
@@ -11158,7 +11158,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         exception_lineno = 37;
         goto try_except_handler_1;
         outline_result_1:;
-        UPDATE_STRING_DICT1(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[147], tmp_assign_source_17);
+        UPDATE_STRING_DICT1(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[146], tmp_assign_source_17);
     }
     goto try_end_1;
     // Exception handler code:
@@ -11206,8 +11206,8 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
     tmp_class_creation_1__prepared = NULL;
     {
         PyObject *tmp_assign_source_19;
-        tmp_assign_source_19 = mod_consts[177];
-        UPDATE_STRING_DICT0(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[178], tmp_assign_source_19);
+        tmp_assign_source_19 = mod_consts[176];
+        UPDATE_STRING_DICT0(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[177], tmp_assign_source_19);
     }
     {
         PyObject *tmp_called_name_4;
@@ -11217,10 +11217,10 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         PyObject *tmp_kwargs_name_3;
         PyObject *tmp_dict_key_1;
         PyObject *tmp_dict_value_1;
-        tmp_expression_name_7 = GET_STRING_DICT_VALUE(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[137]);
+        tmp_expression_name_7 = GET_STRING_DICT_VALUE(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[136]);
 
         if (unlikely(tmp_expression_name_7 == NULL)) {
-            tmp_expression_name_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[137]);
+            tmp_expression_name_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[136]);
         }
 
         if (tmp_expression_name_7 == NULL) {
@@ -11233,7 +11233,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
 
             goto frame_exception_exit_1;
         }
-        tmp_expression_name_6 = LOOKUP_ATTRIBUTE(tmp_expression_name_7, mod_consts[179]);
+        tmp_expression_name_6 = LOOKUP_ATTRIBUTE(tmp_expression_name_7, mod_consts[178]);
         if (tmp_expression_name_6 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -11244,7 +11244,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
 
             goto frame_exception_exit_1;
         }
-        tmp_called_name_4 = LOOKUP_ATTRIBUTE(tmp_expression_name_6, mod_consts[180]);
+        tmp_called_name_4 = LOOKUP_ATTRIBUTE(tmp_expression_name_6, mod_consts[179]);
         Py_DECREF(tmp_expression_name_6);
         if (tmp_called_name_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -11256,11 +11256,11 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
 
             goto frame_exception_exit_1;
         }
-        tmp_dict_key_1 = mod_consts[178];
-        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[178]);
+        tmp_dict_key_1 = mod_consts[177];
+        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_matplotlib$axes$_secondary_axes, (Nuitka_StringObject *)mod_consts[177]);
 
         if (unlikely(tmp_dict_value_1 == NULL)) {
-            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[178]);
+            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[177]);
         }
 
         if (tmp_dict_value_1 == NULL) {
@@ -11276,7 +11276,7 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
         tmp_kwargs_name_3 = _PyDict_NewPresized( 1 );
         tmp_res = PyDict_SetItem(tmp_kwargs_name_3, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_ead51e5fa7c86ab430ae2fa4a855af00->m_frame.f_lineno = 386;
+        frame_bc590527e97c72d51fffc66f11a81848->m_frame.f_lineno = 386;
         tmp_call_result_1 = CALL_FUNCTION_WITH_KEYARGS(tmp_called_name_4, tmp_kwargs_name_3);
         Py_DECREF(tmp_called_name_4);
         Py_DECREF(tmp_kwargs_name_3);
@@ -11295,23 +11295,23 @@ PyObject *modulecode_matplotlib$axes$_secondary_axes(PyObject *module, struct Nu
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ead51e5fa7c86ab430ae2fa4a855af00);
+    RESTORE_FRAME_EXCEPTION(frame_bc590527e97c72d51fffc66f11a81848);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_ead51e5fa7c86ab430ae2fa4a855af00);
+    assertFrameObject(frame_bc590527e97c72d51fffc66f11a81848);
 
     goto frame_no_exception_2;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ead51e5fa7c86ab430ae2fa4a855af00);
+    RESTORE_FRAME_EXCEPTION(frame_bc590527e97c72d51fffc66f11a81848);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ead51e5fa7c86ab430ae2fa4a855af00, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ead51e5fa7c86ab430ae2fa4a855af00->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ead51e5fa7c86ab430ae2fa4a855af00, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_bc590527e97c72d51fffc66f11a81848, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_bc590527e97c72d51fffc66f11a81848->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_bc590527e97c72d51fffc66f11a81848, exception_lineno);
     }
 
     // Put the previous frame back on top.

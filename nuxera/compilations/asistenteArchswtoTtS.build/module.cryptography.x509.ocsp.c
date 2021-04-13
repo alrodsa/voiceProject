@@ -65,117 +65,117 @@ void checkModuleConstants_cryptography$x509$ocsp(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_2a11684035e39cf780833978cdf673af;
-static PyCodeObject *codeobj_171a46352b1e31e8f289d27840a30495;
-static PyCodeObject *codeobj_63451c5e02d9c3c82e7db4b679017441;
-static PyCodeObject *codeobj_62d70d5012a1c4555691595fcac6515f;
-static PyCodeObject *codeobj_a9f859d01a49dd2be236b8f8f6006dbd;
-static PyCodeObject *codeobj_ad1c6dd82cbefa0ef6ac3ab309f7c2c8;
-static PyCodeObject *codeobj_01b6b7d51f0922168706506b32cd6ea9;
-static PyCodeObject *codeobj_d9642bbb5a0ff72e0147ac1e643a70ed;
-static PyCodeObject *codeobj_e1c7473d5e99810b6068cbfaa5e4079b;
-static PyCodeObject *codeobj_3cf1c548e16c37bf19eec4c11980340a;
-static PyCodeObject *codeobj_740527e3ffbddfd2f6a3708dc1c32171;
-static PyCodeObject *codeobj_b7758a0574d2d8110f49538d568aaf41;
-static PyCodeObject *codeobj_601f4fa17ad701199161ea160bdfa5ca;
-static PyCodeObject *codeobj_7244a7def0a4b1385c1c59d7ec96b799;
-static PyCodeObject *codeobj_6d96f4727956d5660e0e8ca270cc957e;
-static PyCodeObject *codeobj_57d159b7ac719d66a84fbcdfd759225f;
-static PyCodeObject *codeobj_f36bb219c9a8b9387d718686c3222f81;
-static PyCodeObject *codeobj_a7d2905e51fcd7ba3214cbb69fb6de34;
-static PyCodeObject *codeobj_fc9fdedbc17ead43e87e1d7001ae4419;
-static PyCodeObject *codeobj_b16187e53a7a92321dea187e438eb148;
-static PyCodeObject *codeobj_91d2e943dc9ba1e9f146a95f50f12373;
-static PyCodeObject *codeobj_687b86427e117eb5d2714fd1cfa58cd3;
-static PyCodeObject *codeobj_f2d554128afe34e47c566c50e09f23d8;
-static PyCodeObject *codeobj_3fef95d4003d164a4c5abe75c43476af;
-static PyCodeObject *codeobj_bb7bc54bedd3c1114821d5f6c8ef196e;
-static PyCodeObject *codeobj_3c0002bd42bc63ad6c87169dc1924c40;
-static PyCodeObject *codeobj_3fbfacced6eda95da7ea327d438fe611;
-static PyCodeObject *codeobj_9ea8c7d6376e56e5f673ab0640658be4;
-static PyCodeObject *codeobj_291abb41817bea68939d02262a9afa97;
-static PyCodeObject *codeobj_6240dfaefbf3fe28cdba21c35e868cac;
-static PyCodeObject *codeobj_2e2d0cb6568481df10cadb9ed6140481;
-static PyCodeObject *codeobj_75b0519164131764b941a11247f585c9;
-static PyCodeObject *codeobj_94b9944b02cdbe8921df32eecd0d432c;
-static PyCodeObject *codeobj_98254b2ffc3a5a4f9d60fa2fe71a6dd8;
-static PyCodeObject *codeobj_a3d844539e6897e1d09b912f253e7612;
-static PyCodeObject *codeobj_924f916b59f286cc0d765bbb8e5fae64;
-static PyCodeObject *codeobj_5d2b36adf598bd4ef1bc01bb3d6fd156;
-static PyCodeObject *codeobj_facd98d1963abf0d8dea8f994a2b6374;
-static PyCodeObject *codeobj_7c8db18bc90ff4f87631102dcacf4366;
-static PyCodeObject *codeobj_d67a9f67c84d35dc14016ed589443803;
-static PyCodeObject *codeobj_0f8a486db1a9eeaa610bc391d62e5e1b;
-static PyCodeObject *codeobj_c20790b7c4a439df647a5dfbaceafe6b;
-static PyCodeObject *codeobj_e967cecdc44b4391ca74a06c07036fab;
-static PyCodeObject *codeobj_df230fdc11293eb988edc3d718908036;
-static PyCodeObject *codeobj_fb36f317395981167a50b9dd6f5e6e15;
-static PyCodeObject *codeobj_754df25f8fadf95fe67e59577943098a;
-static PyCodeObject *codeobj_49eb61c9e6207083e665a0facef2008f;
-static PyCodeObject *codeobj_ec3028e447d892531f38e1ffd7d1ae75;
-static PyCodeObject *codeobj_eefd2452a8f8308434ad0dffa9640735;
-static PyCodeObject *codeobj_a850070f7e23810308269b6609504c25;
-static PyCodeObject *codeobj_4c6c4c18487b734c71420277e3033b52;
-static PyCodeObject *codeobj_82ccd642b0a047501fe89ff34b4ce9f5;
-static PyCodeObject *codeobj_62c4159da75983f8a102513ffafdcbb4;
-static PyCodeObject *codeobj_5b6814e3d5f60eb6548a6996a2fdaef3;
+static PyCodeObject *codeobj_0659e88bc8dafebdb8dacea62a6c5a03;
+static PyCodeObject *codeobj_a906fade75f484f4249db0d7d9f08bf7;
+static PyCodeObject *codeobj_f8a03fabccdcaa23d444f7c5f231cbde;
+static PyCodeObject *codeobj_06a3b060c82e363573d9e551cc9e3c86;
+static PyCodeObject *codeobj_7a9c6c03523e3c1a03770370cd80a4cc;
+static PyCodeObject *codeobj_fcdfc7103023dba79a1d9c8ee91e3f7b;
+static PyCodeObject *codeobj_f1f2c531a46b0692fe2121a544f899da;
+static PyCodeObject *codeobj_e25dc6e1838599f423133f30952c7cab;
+static PyCodeObject *codeobj_cf837cfb272d3ec3d88c9e39d55e065e;
+static PyCodeObject *codeobj_6c03541f5b253362f02492566b67d2ba;
+static PyCodeObject *codeobj_9ba7a8eba58823ea1e8cc2a6bb8b6efa;
+static PyCodeObject *codeobj_4f7cd561148baeb971940cac1e34735d;
+static PyCodeObject *codeobj_f2e8086d220a77cc23721b642e3b986c;
+static PyCodeObject *codeobj_1731e80b8e7a0ef46dadd48cdbbebd5d;
+static PyCodeObject *codeobj_c1ff6eaf2e3287012f3dc4076de7e09e;
+static PyCodeObject *codeobj_48709c1c3e86526af0f57ea0cf8cd82a;
+static PyCodeObject *codeobj_67ba66b5fecbc3119b79bf847324cf99;
+static PyCodeObject *codeobj_d59ffa5b2a97ba500b5a192ae38a47b0;
+static PyCodeObject *codeobj_01b3d2c6e40e0a6b7de96853bfb1185c;
+static PyCodeObject *codeobj_bcc9d7c2a6d8a717f043c713dc7bd55f;
+static PyCodeObject *codeobj_856338c2baf4c3289812a39f1bb21c39;
+static PyCodeObject *codeobj_7e7144c0ad74cc80b1ec5f23b52ce719;
+static PyCodeObject *codeobj_d0ff065e41ae76143f615fda36661bc7;
+static PyCodeObject *codeobj_7174350afb0751e67febb3a88ef8d0f8;
+static PyCodeObject *codeobj_f2fbb1047d66f51a568621a96879c165;
+static PyCodeObject *codeobj_2a24983e0560ea63ac920a53c9b87f83;
+static PyCodeObject *codeobj_95ae7e514f55c7317aa8021571f14914;
+static PyCodeObject *codeobj_7373b97bda95684eef4ac00b2a626f11;
+static PyCodeObject *codeobj_a71cdb1b6fb4bc35246735ffd1043796;
+static PyCodeObject *codeobj_f83f57890002f1876ce6fe206c4b0861;
+static PyCodeObject *codeobj_441796a90a80553e580c2facfcef2ab9;
+static PyCodeObject *codeobj_811ad7aed490f750f49872d5d367118f;
+static PyCodeObject *codeobj_b4722542f456816b23f86ac5c0f5e2ed;
+static PyCodeObject *codeobj_fc46485ed332a01aee5cf6f54150ecdf;
+static PyCodeObject *codeobj_f69ee23d95a7cce4dae2b0960b77db82;
+static PyCodeObject *codeobj_b5a143fbdf009c1bb3a860e84cd88fe7;
+static PyCodeObject *codeobj_61e76af390a55f94338bc545ef3bb3db;
+static PyCodeObject *codeobj_395243bfe7ab23eff12a8d0ae99dd7c1;
+static PyCodeObject *codeobj_0b689fac2e0b5a22977f3a1875b64a7f;
+static PyCodeObject *codeobj_9b88192bb9cd1bc438b5703c9d8bf768;
+static PyCodeObject *codeobj_296f6f5671548a3c12da420bcf41b1cb;
+static PyCodeObject *codeobj_7058e5c6eb8d85c94500389cb4e2c69a;
+static PyCodeObject *codeobj_c364602d5163dabfeb15f20563630074;
+static PyCodeObject *codeobj_a5f3ff554ae711c94fb82e8dbdc9afa3;
+static PyCodeObject *codeobj_9be2b52d7d886ffcabcac3dbb497023b;
+static PyCodeObject *codeobj_928bf8cf93746e1938aa7db755e9997c;
+static PyCodeObject *codeobj_02f49ed416be129ffb18a710070d966b;
+static PyCodeObject *codeobj_e6676aa19fee0d10f9d0eff0720eccc8;
+static PyCodeObject *codeobj_8e2eed81bcf0b6ed0316317675d089bd;
+static PyCodeObject *codeobj_f128465219d14168a2c6597d3ae06aeb;
+static PyCodeObject *codeobj_e914ac48e94eda47b64258f32fd77f07;
+static PyCodeObject *codeobj_537f88ca971bb08d107af1cce453b1ac;
+static PyCodeObject *codeobj_c8658f2dbad0e5dfac15f57b9641cd9e;
+static PyCodeObject *codeobj_174ebc5c936c115c6db2f35f54ec719f;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[94]; CHECK_OBJECT(module_filename_obj);
-    codeobj_2a11684035e39cf780833978cdf673af = MAKE_CODEOBJECT(module_filename_obj, 44, CO_NEWLOCALS | CO_NOFREE, mod_consts[254], mod_consts[255], NULL, 1, 0, 0);
-    codeobj_171a46352b1e31e8f289d27840a30495 = MAKE_CODEOBJECT(module_filename_obj, 67, CO_NEWLOCALS | CO_NOFREE, mod_consts[254], mod_consts[255], NULL, 1, 0, 0);
-    codeobj_63451c5e02d9c3c82e7db4b679017441 = MAKE_CODEOBJECT(module_filename_obj, 425, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[82], mod_consts[256], NULL, 1, 0, 0);
-    codeobj_62d70d5012a1c4555691595fcac6515f = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[257], NULL, NULL, 0, 0, 0);
-    codeobj_a9f859d01a49dd2be236b8f8f6006dbd = MAKE_CODEOBJECT(module_filename_obj, 61, CO_NOFREE, mod_consts[14], mod_consts[258], NULL, 0, 0, 0);
-    codeobj_ad1c6dd82cbefa0ef6ac3ab309f7c2c8 = MAKE_CODEOBJECT(module_filename_obj, 140, CO_NOFREE, mod_consts[161], mod_consts[258], NULL, 0, 0, 0);
-    codeobj_01b6b7d51f0922168706506b32cd6ea9 = MAKE_CODEOBJECT(module_filename_obj, 314, CO_NOFREE, mod_consts[54], mod_consts[258], NULL, 0, 0, 0);
-    codeobj_d9642bbb5a0ff72e0147ac1e643a70ed = MAKE_CODEOBJECT(module_filename_obj, 30, CO_NOFREE, mod_consts[76], mod_consts[258], NULL, 0, 0, 0);
-    codeobj_e1c7473d5e99810b6068cbfaa5e4079b = MAKE_CODEOBJECT(module_filename_obj, 178, CO_NOFREE, mod_consts[184], mod_consts[258], NULL, 0, 0, 0);
-    codeobj_3cf1c548e16c37bf19eec4c11980340a = MAKE_CODEOBJECT(module_filename_obj, 358, CO_NOFREE, mod_consts[73], mod_consts[258], NULL, 0, 0, 0);
-    codeobj_740527e3ffbddfd2f6a3708dc1c32171 = MAKE_CODEOBJECT(module_filename_obj, 35, CO_NOFREE, mod_consts[87], mod_consts[258], NULL, 0, 0, 0);
-    codeobj_b7758a0574d2d8110f49538d568aaf41 = MAKE_CODEOBJECT(module_filename_obj, 70, CO_NOFREE, mod_consts[72], mod_consts[258], NULL, 0, 0, 0);
-    codeobj_601f4fa17ad701199161ea160bdfa5ca = MAKE_CODEOBJECT(module_filename_obj, 71, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[156], mod_consts[259], NULL, 9, 0, 0);
-    codeobj_7244a7def0a4b1385c1c59d7ec96b799 = MAKE_CODEOBJECT(module_filename_obj, 315, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[156], mod_consts[260], NULL, 3, 0, 0);
-    codeobj_6d96f4727956d5660e0e8ca270cc957e = MAKE_CODEOBJECT(module_filename_obj, 359, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[156], mod_consts[261], NULL, 5, 0, 0);
-    codeobj_57d159b7ac719d66a84fbcdfd759225f = MAKE_CODEOBJECT(module_filename_obj, 54, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[5], mod_consts[262], NULL, 1, 0, 0);
-    codeobj_f36bb219c9a8b9387d718686c3222f81 = MAKE_CODEOBJECT(module_filename_obj, 319, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[229], mod_consts[263], NULL, 4, 0, 0);
-    codeobj_a7d2905e51fcd7ba3214cbb69fb6de34 = MAKE_CODEOBJECT(module_filename_obj, 336, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[233], mod_consts[264], NULL, 3, 0, 0);
-    codeobj_fc9fdedbc17ead43e87e1d7001ae4419 = MAKE_CODEOBJECT(module_filename_obj, 434, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[233], mod_consts[264], NULL, 3, 0, 0);
-    codeobj_b16187e53a7a92321dea187e438eb148 = MAKE_CODEOBJECT(module_filename_obj, 367, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[239], mod_consts[265], NULL, 9, 0, 0);
-    codeobj_91d2e943dc9ba1e9f146a95f50f12373 = MAKE_CODEOBJECT(module_filename_obj, 349, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[235], mod_consts[266], NULL, 1, 0, 0);
-    codeobj_687b86427e117eb5d2714fd1cfa58cd3 = MAKE_CODEOBJECT(module_filename_obj, 467, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[251], mod_consts[267], NULL, 2, 0, 0);
-    codeobj_f2d554128afe34e47c566c50e09f23d8 = MAKE_CODEOBJECT(module_filename_obj, 239, CO_NOFREE, mod_consts[207], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_3fef95d4003d164a4c5abe75c43476af = MAKE_CODEOBJECT(module_filename_obj, 213, CO_NOFREE, mod_consts[198], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_bb7bc54bedd3c1114821d5f6c8ef196e = MAKE_CODEOBJECT(module_filename_obj, 417, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[198], mod_consts[269], NULL, 2, 0, 0);
-    codeobj_3c0002bd42bc63ad6c87169dc1924c40 = MAKE_CODEOBJECT(module_filename_obj, 172, CO_NOFREE, mod_consts[181], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_3fbfacced6eda95da7ea327d438fe611 = MAKE_CODEOBJECT(module_filename_obj, 296, CO_NOFREE, mod_consts[181], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_9ea8c7d6376e56e5f673ab0640658be4 = MAKE_CODEOBJECT(module_filename_obj, 154, CO_NOFREE, mod_consts[170], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_291abb41817bea68939d02262a9afa97 = MAKE_CODEOBJECT(module_filename_obj, 284, CO_NOFREE, mod_consts[170], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_6240dfaefbf3fe28cdba21c35e868cac = MAKE_CODEOBJECT(module_filename_obj, 142, CO_NOFREE, mod_consts[165], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_2e2d0cb6568481df10cadb9ed6140481 = MAKE_CODEOBJECT(module_filename_obj, 272, CO_NOFREE, mod_consts[165], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_75b0519164131764b941a11247f585c9 = MAKE_CODEOBJECT(module_filename_obj, 148, CO_NOFREE, mod_consts[167], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_94b9944b02cdbe8921df32eecd0d432c = MAKE_CODEOBJECT(module_filename_obj, 278, CO_NOFREE, mod_consts[167], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_98254b2ffc3a5a4f9d60fa2fe71a6dd8 = MAKE_CODEOBJECT(module_filename_obj, 482, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[91], mod_consts[270], NULL, 1, 0, 0);
-    codeobj_a3d844539e6897e1d09b912f253e7612 = MAKE_CODEOBJECT(module_filename_obj, 488, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[92], mod_consts[270], NULL, 1, 0, 0);
-    codeobj_924f916b59f286cc0d765bbb8e5fae64 = MAKE_CODEOBJECT(module_filename_obj, 266, CO_NOFREE, mod_consts[215], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_5d2b36adf598bd4ef1bc01bb3d6fd156 = MAKE_CODEOBJECT(module_filename_obj, 233, CO_NOFREE, mod_consts[205], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_facd98d1963abf0d8dea8f994a2b6374 = MAKE_CODEOBJECT(module_filename_obj, 166, CO_NOFREE, mod_consts[178], mod_consts[271], NULL, 2, 0, 0);
-    codeobj_7c8db18bc90ff4f87631102dcacf4366 = MAKE_CODEOBJECT(module_filename_obj, 308, CO_NOFREE, mod_consts[178], mod_consts[271], NULL, 2, 0, 0);
-    codeobj_d67a9f67c84d35dc14016ed589443803 = MAKE_CODEOBJECT(module_filename_obj, 398, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[242], mod_consts[272], NULL, 3, 0, 0);
-    codeobj_0f8a486db1a9eeaa610bc391d62e5e1b = MAKE_CODEOBJECT(module_filename_obj, 221, CO_NOFREE, mod_consts[200], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_c20790b7c4a439df647a5dfbaceafe6b = MAKE_CODEOBJECT(module_filename_obj, 227, CO_NOFREE, mod_consts[203], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_e967cecdc44b4391ca74a06c07036fab = MAKE_CODEOBJECT(module_filename_obj, 180, CO_NOFREE, mod_consts[185], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_df230fdc11293eb988edc3d718908036 = MAKE_CODEOBJECT(module_filename_obj, 252, CO_NOFREE, mod_consts[211], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_fb36f317395981167a50b9dd6f5e6e15 = MAKE_CODEOBJECT(module_filename_obj, 245, CO_NOFREE, mod_consts[209], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_754df25f8fadf95fe67e59577943098a = MAKE_CODEOBJECT(module_filename_obj, 160, CO_NOFREE, mod_consts[173], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_49eb61c9e6207083e665a0facef2008f = MAKE_CODEOBJECT(module_filename_obj, 290, CO_NOFREE, mod_consts[173], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_ec3028e447d892531f38e1ffd7d1ae75 = MAKE_CODEOBJECT(module_filename_obj, 450, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[248], mod_consts[273], NULL, 3, 0, 0);
-    codeobj_eefd2452a8f8308434ad0dffa9640735 = MAKE_CODEOBJECT(module_filename_obj, 201, CO_NOFREE, mod_consts[193], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_a850070f7e23810308269b6609504c25 = MAKE_CODEOBJECT(module_filename_obj, 187, CO_NOFREE, mod_consts[188], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_4c6c4c18487b734c71420277e3033b52 = MAKE_CODEOBJECT(module_filename_obj, 193, CO_NOFREE, mod_consts[191], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_82ccd642b0a047501fe89ff34b4ce9f5 = MAKE_CODEOBJECT(module_filename_obj, 302, CO_NOFREE, mod_consts[222], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_62c4159da75983f8a102513ffafdcbb4 = MAKE_CODEOBJECT(module_filename_obj, 207, CO_NOFREE, mod_consts[195], mod_consts[268], NULL, 1, 0, 0);
-    codeobj_5b6814e3d5f60eb6548a6996a2fdaef3 = MAKE_CODEOBJECT(module_filename_obj, 259, CO_NOFREE, mod_consts[213], mod_consts[268], NULL, 1, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[253]); CHECK_OBJECT(module_filename_obj);
+    codeobj_0659e88bc8dafebdb8dacea62a6c5a03 = MAKE_CODEOBJECT(module_filename_obj, 44, CO_NEWLOCALS | CO_NOFREE, mod_consts[254], mod_consts[255], NULL, 1, 0, 0);
+    codeobj_a906fade75f484f4249db0d7d9f08bf7 = MAKE_CODEOBJECT(module_filename_obj, 67, CO_NEWLOCALS | CO_NOFREE, mod_consts[254], mod_consts[255], NULL, 1, 0, 0);
+    codeobj_f8a03fabccdcaa23d444f7c5f231cbde = MAKE_CODEOBJECT(module_filename_obj, 425, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[82], mod_consts[256], NULL, 1, 0, 0);
+    codeobj_06a3b060c82e363573d9e551cc9e3c86 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[257], NULL, NULL, 0, 0, 0);
+    codeobj_7a9c6c03523e3c1a03770370cd80a4cc = MAKE_CODEOBJECT(module_filename_obj, 61, CO_NOFREE, mod_consts[14], mod_consts[258], NULL, 0, 0, 0);
+    codeobj_fcdfc7103023dba79a1d9c8ee91e3f7b = MAKE_CODEOBJECT(module_filename_obj, 140, CO_NOFREE, mod_consts[160], mod_consts[258], NULL, 0, 0, 0);
+    codeobj_f1f2c531a46b0692fe2121a544f899da = MAKE_CODEOBJECT(module_filename_obj, 314, CO_NOFREE, mod_consts[54], mod_consts[258], NULL, 0, 0, 0);
+    codeobj_e25dc6e1838599f423133f30952c7cab = MAKE_CODEOBJECT(module_filename_obj, 30, CO_NOFREE, mod_consts[76], mod_consts[258], NULL, 0, 0, 0);
+    codeobj_cf837cfb272d3ec3d88c9e39d55e065e = MAKE_CODEOBJECT(module_filename_obj, 178, CO_NOFREE, mod_consts[183], mod_consts[258], NULL, 0, 0, 0);
+    codeobj_6c03541f5b253362f02492566b67d2ba = MAKE_CODEOBJECT(module_filename_obj, 358, CO_NOFREE, mod_consts[73], mod_consts[258], NULL, 0, 0, 0);
+    codeobj_9ba7a8eba58823ea1e8cc2a6bb8b6efa = MAKE_CODEOBJECT(module_filename_obj, 35, CO_NOFREE, mod_consts[87], mod_consts[258], NULL, 0, 0, 0);
+    codeobj_4f7cd561148baeb971940cac1e34735d = MAKE_CODEOBJECT(module_filename_obj, 70, CO_NOFREE, mod_consts[72], mod_consts[258], NULL, 0, 0, 0);
+    codeobj_f2e8086d220a77cc23721b642e3b986c = MAKE_CODEOBJECT(module_filename_obj, 71, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[155], mod_consts[259], NULL, 9, 0, 0);
+    codeobj_1731e80b8e7a0ef46dadd48cdbbebd5d = MAKE_CODEOBJECT(module_filename_obj, 315, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[155], mod_consts[260], NULL, 3, 0, 0);
+    codeobj_c1ff6eaf2e3287012f3dc4076de7e09e = MAKE_CODEOBJECT(module_filename_obj, 359, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[155], mod_consts[261], NULL, 5, 0, 0);
+    codeobj_48709c1c3e86526af0f57ea0cf8cd82a = MAKE_CODEOBJECT(module_filename_obj, 54, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[5], mod_consts[262], NULL, 1, 0, 0);
+    codeobj_67ba66b5fecbc3119b79bf847324cf99 = MAKE_CODEOBJECT(module_filename_obj, 319, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[228], mod_consts[263], NULL, 4, 0, 0);
+    codeobj_d59ffa5b2a97ba500b5a192ae38a47b0 = MAKE_CODEOBJECT(module_filename_obj, 336, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[232], mod_consts[264], NULL, 3, 0, 0);
+    codeobj_01b3d2c6e40e0a6b7de96853bfb1185c = MAKE_CODEOBJECT(module_filename_obj, 434, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[232], mod_consts[264], NULL, 3, 0, 0);
+    codeobj_bcc9d7c2a6d8a717f043c713dc7bd55f = MAKE_CODEOBJECT(module_filename_obj, 367, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[238], mod_consts[265], NULL, 9, 0, 0);
+    codeobj_856338c2baf4c3289812a39f1bb21c39 = MAKE_CODEOBJECT(module_filename_obj, 349, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[234], mod_consts[266], NULL, 1, 0, 0);
+    codeobj_7e7144c0ad74cc80b1ec5f23b52ce719 = MAKE_CODEOBJECT(module_filename_obj, 467, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[250], mod_consts[267], NULL, 2, 0, 0);
+    codeobj_d0ff065e41ae76143f615fda36661bc7 = MAKE_CODEOBJECT(module_filename_obj, 239, CO_NOFREE, mod_consts[206], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_7174350afb0751e67febb3a88ef8d0f8 = MAKE_CODEOBJECT(module_filename_obj, 213, CO_NOFREE, mod_consts[197], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_f2fbb1047d66f51a568621a96879c165 = MAKE_CODEOBJECT(module_filename_obj, 417, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[197], mod_consts[269], NULL, 2, 0, 0);
+    codeobj_2a24983e0560ea63ac920a53c9b87f83 = MAKE_CODEOBJECT(module_filename_obj, 172, CO_NOFREE, mod_consts[180], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_95ae7e514f55c7317aa8021571f14914 = MAKE_CODEOBJECT(module_filename_obj, 296, CO_NOFREE, mod_consts[180], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_7373b97bda95684eef4ac00b2a626f11 = MAKE_CODEOBJECT(module_filename_obj, 154, CO_NOFREE, mod_consts[169], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_a71cdb1b6fb4bc35246735ffd1043796 = MAKE_CODEOBJECT(module_filename_obj, 284, CO_NOFREE, mod_consts[169], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_f83f57890002f1876ce6fe206c4b0861 = MAKE_CODEOBJECT(module_filename_obj, 142, CO_NOFREE, mod_consts[164], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_441796a90a80553e580c2facfcef2ab9 = MAKE_CODEOBJECT(module_filename_obj, 272, CO_NOFREE, mod_consts[164], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_811ad7aed490f750f49872d5d367118f = MAKE_CODEOBJECT(module_filename_obj, 148, CO_NOFREE, mod_consts[166], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_b4722542f456816b23f86ac5c0f5e2ed = MAKE_CODEOBJECT(module_filename_obj, 278, CO_NOFREE, mod_consts[166], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_fc46485ed332a01aee5cf6f54150ecdf = MAKE_CODEOBJECT(module_filename_obj, 482, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[91], mod_consts[270], NULL, 1, 0, 0);
+    codeobj_f69ee23d95a7cce4dae2b0960b77db82 = MAKE_CODEOBJECT(module_filename_obj, 488, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[92], mod_consts[270], NULL, 1, 0, 0);
+    codeobj_b5a143fbdf009c1bb3a860e84cd88fe7 = MAKE_CODEOBJECT(module_filename_obj, 266, CO_NOFREE, mod_consts[214], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_61e76af390a55f94338bc545ef3bb3db = MAKE_CODEOBJECT(module_filename_obj, 233, CO_NOFREE, mod_consts[204], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_395243bfe7ab23eff12a8d0ae99dd7c1 = MAKE_CODEOBJECT(module_filename_obj, 166, CO_NOFREE, mod_consts[177], mod_consts[271], NULL, 2, 0, 0);
+    codeobj_0b689fac2e0b5a22977f3a1875b64a7f = MAKE_CODEOBJECT(module_filename_obj, 308, CO_NOFREE, mod_consts[177], mod_consts[271], NULL, 2, 0, 0);
+    codeobj_9b88192bb9cd1bc438b5703c9d8bf768 = MAKE_CODEOBJECT(module_filename_obj, 398, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[241], mod_consts[272], NULL, 3, 0, 0);
+    codeobj_296f6f5671548a3c12da420bcf41b1cb = MAKE_CODEOBJECT(module_filename_obj, 221, CO_NOFREE, mod_consts[199], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_7058e5c6eb8d85c94500389cb4e2c69a = MAKE_CODEOBJECT(module_filename_obj, 227, CO_NOFREE, mod_consts[202], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_c364602d5163dabfeb15f20563630074 = MAKE_CODEOBJECT(module_filename_obj, 180, CO_NOFREE, mod_consts[184], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_a5f3ff554ae711c94fb82e8dbdc9afa3 = MAKE_CODEOBJECT(module_filename_obj, 252, CO_NOFREE, mod_consts[210], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_9be2b52d7d886ffcabcac3dbb497023b = MAKE_CODEOBJECT(module_filename_obj, 245, CO_NOFREE, mod_consts[208], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_928bf8cf93746e1938aa7db755e9997c = MAKE_CODEOBJECT(module_filename_obj, 160, CO_NOFREE, mod_consts[172], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_02f49ed416be129ffb18a710070d966b = MAKE_CODEOBJECT(module_filename_obj, 290, CO_NOFREE, mod_consts[172], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_e6676aa19fee0d10f9d0eff0720eccc8 = MAKE_CODEOBJECT(module_filename_obj, 450, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[247], mod_consts[273], NULL, 3, 0, 0);
+    codeobj_8e2eed81bcf0b6ed0316317675d089bd = MAKE_CODEOBJECT(module_filename_obj, 201, CO_NOFREE, mod_consts[192], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_f128465219d14168a2c6597d3ae06aeb = MAKE_CODEOBJECT(module_filename_obj, 187, CO_NOFREE, mod_consts[187], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_e914ac48e94eda47b64258f32fd77f07 = MAKE_CODEOBJECT(module_filename_obj, 193, CO_NOFREE, mod_consts[190], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_537f88ca971bb08d107af1cce453b1ac = MAKE_CODEOBJECT(module_filename_obj, 302, CO_NOFREE, mod_consts[221], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_c8658f2dbad0e5dfac15f57b9641cd9e = MAKE_CODEOBJECT(module_filename_obj, 207, CO_NOFREE, mod_consts[194], mod_consts[268], NULL, 1, 0, 0);
+    codeobj_174ebc5c936c115c6db2f35f54ec719f = MAKE_CODEOBJECT(module_filename_obj, 259, CO_NOFREE, mod_consts[212], mod_consts[268], NULL, 1, 0, 0);
 }
 
 // The module function declarations.
@@ -320,14 +320,14 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__1__verify_algorithm(str
 
     // Local variable declarations.
     PyObject *par_algorithm = python_pars[0];
-    struct Nuitka_FrameObject *frame_57d159b7ac719d66a84fbcdfd759225f;
+    struct Nuitka_FrameObject *frame_48709c1c3e86526af0f57ea0cf8cd82a;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
-    static struct Nuitka_FrameObject *cache_frame_57d159b7ac719d66a84fbcdfd759225f = NULL;
+    static struct Nuitka_FrameObject *cache_frame_48709c1c3e86526af0f57ea0cf8cd82a = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -336,31 +336,31 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__1__verify_algorithm(str
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_57d159b7ac719d66a84fbcdfd759225f)) {
-        Py_XDECREF(cache_frame_57d159b7ac719d66a84fbcdfd759225f);
+    if (isFrameUnusable(cache_frame_48709c1c3e86526af0f57ea0cf8cd82a)) {
+        Py_XDECREF(cache_frame_48709c1c3e86526af0f57ea0cf8cd82a);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_57d159b7ac719d66a84fbcdfd759225f == NULL) {
+        if (cache_frame_48709c1c3e86526af0f57ea0cf8cd82a == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_57d159b7ac719d66a84fbcdfd759225f = MAKE_FUNCTION_FRAME(codeobj_57d159b7ac719d66a84fbcdfd759225f, module_cryptography$x509$ocsp, sizeof(void *));
+        cache_frame_48709c1c3e86526af0f57ea0cf8cd82a = MAKE_FUNCTION_FRAME(codeobj_48709c1c3e86526af0f57ea0cf8cd82a, module_cryptography$x509$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_57d159b7ac719d66a84fbcdfd759225f->m_type_description == NULL);
-    frame_57d159b7ac719d66a84fbcdfd759225f = cache_frame_57d159b7ac719d66a84fbcdfd759225f;
+    assert(cache_frame_48709c1c3e86526af0f57ea0cf8cd82a->m_type_description == NULL);
+    frame_48709c1c3e86526af0f57ea0cf8cd82a = cache_frame_48709c1c3e86526af0f57ea0cf8cd82a;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_57d159b7ac719d66a84fbcdfd759225f);
+    pushFrameStack(frame_48709c1c3e86526af0f57ea0cf8cd82a);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_57d159b7ac719d66a84fbcdfd759225f) == 2); // Frame stack
+    assert(Py_REFCNT(frame_48709c1c3e86526af0f57ea0cf8cd82a) == 2); // Frame stack
 
     // Framed code:
     {
@@ -421,7 +421,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__1__verify_algorithm(str
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[1];
-        frame_57d159b7ac719d66a84fbcdfd759225f->m_frame.f_lineno = 56;
+        frame_48709c1c3e86526af0f57ea0cf8cd82a->m_frame.f_lineno = 56;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -433,7 +433,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__1__verify_algorithm(str
     branch_no_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_57d159b7ac719d66a84fbcdfd759225f);
+    RESTORE_FRAME_EXCEPTION(frame_48709c1c3e86526af0f57ea0cf8cd82a);
 #endif
 
     // Put the previous frame back on top.
@@ -444,35 +444,35 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__1__verify_algorithm(str
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_57d159b7ac719d66a84fbcdfd759225f);
+    RESTORE_FRAME_EXCEPTION(frame_48709c1c3e86526af0f57ea0cf8cd82a);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_57d159b7ac719d66a84fbcdfd759225f, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_57d159b7ac719d66a84fbcdfd759225f->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_57d159b7ac719d66a84fbcdfd759225f, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_48709c1c3e86526af0f57ea0cf8cd82a, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_48709c1c3e86526af0f57ea0cf8cd82a->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_48709c1c3e86526af0f57ea0cf8cd82a, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_57d159b7ac719d66a84fbcdfd759225f,
+        frame_48709c1c3e86526af0f57ea0cf8cd82a,
         type_description_1,
         par_algorithm
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_57d159b7ac719d66a84fbcdfd759225f == cache_frame_57d159b7ac719d66a84fbcdfd759225f) {
+    if (frame_48709c1c3e86526af0f57ea0cf8cd82a == cache_frame_48709c1c3e86526af0f57ea0cf8cd82a) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_57d159b7ac719d66a84fbcdfd759225f);
-        cache_frame_57d159b7ac719d66a84fbcdfd759225f = NULL;
+        Py_DECREF(cache_frame_48709c1c3e86526af0f57ea0cf8cd82a);
+        cache_frame_48709c1c3e86526af0f57ea0cf8cd82a = NULL;
     }
 
-    assertFrameObject(frame_57d159b7ac719d66a84fbcdfd759225f);
+    assertFrameObject(frame_48709c1c3e86526af0f57ea0cf8cd82a);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -552,7 +552,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
     PyObject *par_next_update = python_pars[6];
     PyObject *par_revocation_time = python_pars[7];
     PyObject *par_revocation_reason = python_pars[8];
-    struct Nuitka_FrameObject *frame_601f4fa17ad701199161ea160bdfa5ca;
+    struct Nuitka_FrameObject *frame_f2e8086d220a77cc23721b642e3b986c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -561,7 +561,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
     int tmp_res;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_601f4fa17ad701199161ea160bdfa5ca = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f2e8086d220a77cc23721b642e3b986c = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -570,31 +570,31 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_601f4fa17ad701199161ea160bdfa5ca)) {
-        Py_XDECREF(cache_frame_601f4fa17ad701199161ea160bdfa5ca);
+    if (isFrameUnusable(cache_frame_f2e8086d220a77cc23721b642e3b986c)) {
+        Py_XDECREF(cache_frame_f2e8086d220a77cc23721b642e3b986c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_601f4fa17ad701199161ea160bdfa5ca == NULL) {
+        if (cache_frame_f2e8086d220a77cc23721b642e3b986c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_601f4fa17ad701199161ea160bdfa5ca = MAKE_FUNCTION_FRAME(codeobj_601f4fa17ad701199161ea160bdfa5ca, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_f2e8086d220a77cc23721b642e3b986c = MAKE_FUNCTION_FRAME(codeobj_f2e8086d220a77cc23721b642e3b986c, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_601f4fa17ad701199161ea160bdfa5ca->m_type_description == NULL);
-    frame_601f4fa17ad701199161ea160bdfa5ca = cache_frame_601f4fa17ad701199161ea160bdfa5ca;
+    assert(cache_frame_f2e8086d220a77cc23721b642e3b986c->m_type_description == NULL);
+    frame_f2e8086d220a77cc23721b642e3b986c = cache_frame_f2e8086d220a77cc23721b642e3b986c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_601f4fa17ad701199161ea160bdfa5ca);
+    pushFrameStack(frame_f2e8086d220a77cc23721b642e3b986c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_601f4fa17ad701199161ea160bdfa5ca) == 2); // Frame stack
+    assert(Py_REFCNT(frame_f2e8086d220a77cc23721b642e3b986c) == 2); // Frame stack
 
     // Framed code:
     {
@@ -751,7 +751,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[4];
-        frame_601f4fa17ad701199161ea160bdfa5ca->m_frame.f_lineno = 85;
+        frame_f2e8086d220a77cc23721b642e3b986c->m_frame.f_lineno = 85;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -783,7 +783,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
         }
         CHECK_OBJECT(par_algorithm);
         tmp_args_element_name_1 = par_algorithm;
-        frame_601f4fa17ad701199161ea160bdfa5ca->m_frame.f_lineno = 87;
+        frame_f2e8086d220a77cc23721b642e3b986c->m_frame.f_lineno = 87;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -868,7 +868,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
         PyObject *tmp_raise_type_2;
         PyObject *tmp_make_exception_arg_2;
         tmp_make_exception_arg_2 = mod_consts[7];
-        frame_601f4fa17ad701199161ea160bdfa5ca->m_frame.f_lineno = 89;
+        frame_f2e8086d220a77cc23721b642e3b986c->m_frame.f_lineno = 89;
         tmp_raise_type_2 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_2);
         assert(!(tmp_raise_type_2 == NULL));
         exception_type = tmp_raise_type_2;
@@ -970,7 +970,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
         PyObject *tmp_raise_type_3;
         PyObject *tmp_make_exception_arg_3;
         tmp_make_exception_arg_3 = mod_consts[8];
-        frame_601f4fa17ad701199161ea160bdfa5ca->m_frame.f_lineno = 93;
+        frame_f2e8086d220a77cc23721b642e3b986c->m_frame.f_lineno = 93;
         tmp_raise_type_3 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_3);
         assert(!(tmp_raise_type_3 == NULL));
         exception_type = tmp_raise_type_3;
@@ -1133,7 +1133,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
         PyObject *tmp_raise_type_4;
         PyObject *tmp_make_exception_arg_4;
         tmp_make_exception_arg_4 = mod_consts[15];
-        frame_601f4fa17ad701199161ea160bdfa5ca->m_frame.f_lineno = 102;
+        frame_f2e8086d220a77cc23721b642e3b986c->m_frame.f_lineno = 102;
         tmp_raise_type_4 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_4);
         assert(!(tmp_raise_type_4 == NULL));
         exception_type = tmp_raise_type_4;
@@ -1205,7 +1205,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
         PyObject *tmp_raise_type_5;
         PyObject *tmp_make_exception_arg_5;
         tmp_make_exception_arg_5 = mod_consts[17];
-        frame_601f4fa17ad701199161ea160bdfa5ca->m_frame.f_lineno = 107;
+        frame_f2e8086d220a77cc23721b642e3b986c->m_frame.f_lineno = 107;
         tmp_raise_type_5 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_5);
         assert(!(tmp_raise_type_5 == NULL));
         exception_type = tmp_raise_type_5;
@@ -1234,7 +1234,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
         PyObject *tmp_raise_type_6;
         PyObject *tmp_make_exception_arg_6;
         tmp_make_exception_arg_6 = mod_consts[18];
-        frame_601f4fa17ad701199161ea160bdfa5ca->m_frame.f_lineno = 112;
+        frame_f2e8086d220a77cc23721b642e3b986c->m_frame.f_lineno = 112;
         tmp_raise_type_6 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_6);
         assert(!(tmp_raise_type_6 == NULL));
         exception_type = tmp_raise_type_6;
@@ -1317,7 +1317,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
         PyObject *tmp_raise_type_7;
         PyObject *tmp_make_exception_arg_7;
         tmp_make_exception_arg_7 = mod_consts[19];
-        frame_601f4fa17ad701199161ea160bdfa5ca->m_frame.f_lineno = 118;
+        frame_f2e8086d220a77cc23721b642e3b986c->m_frame.f_lineno = 118;
         tmp_raise_type_7 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_7);
         assert(!(tmp_raise_type_7 == NULL));
         exception_type = tmp_raise_type_7;
@@ -1349,7 +1349,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
         }
         CHECK_OBJECT(par_revocation_time);
         tmp_args_element_name_2 = par_revocation_time;
-        frame_601f4fa17ad701199161ea160bdfa5ca->m_frame.f_lineno = 120;
+        frame_f2e8086d220a77cc23721b642e3b986c->m_frame.f_lineno = 120;
         tmp_assign_source_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1414,7 +1414,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
         PyObject *tmp_raise_type_8;
         PyObject *tmp_make_exception_arg_8;
         tmp_make_exception_arg_8 = mod_consts[22];
-        frame_601f4fa17ad701199161ea160bdfa5ca->m_frame.f_lineno = 122;
+        frame_f2e8086d220a77cc23721b642e3b986c->m_frame.f_lineno = 122;
         tmp_raise_type_8 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_8);
         assert(!(tmp_raise_type_8 == NULL));
         exception_type = tmp_raise_type_8;
@@ -1516,7 +1516,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
         PyObject *tmp_raise_type_9;
         PyObject *tmp_make_exception_arg_9;
         tmp_make_exception_arg_9 = mod_consts[24];
-        frame_601f4fa17ad701199161ea160bdfa5ca->m_frame.f_lineno = 130;
+        frame_f2e8086d220a77cc23721b642e3b986c->m_frame.f_lineno = 130;
         tmp_raise_type_9 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_9);
         assert(!(tmp_raise_type_9 == NULL));
         exception_type = tmp_raise_type_9;
@@ -1586,7 +1586,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_601f4fa17ad701199161ea160bdfa5ca);
+    RESTORE_FRAME_EXCEPTION(frame_f2e8086d220a77cc23721b642e3b986c);
 #endif
 
     // Put the previous frame back on top.
@@ -1597,18 +1597,18 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_601f4fa17ad701199161ea160bdfa5ca);
+    RESTORE_FRAME_EXCEPTION(frame_f2e8086d220a77cc23721b642e3b986c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_601f4fa17ad701199161ea160bdfa5ca, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_601f4fa17ad701199161ea160bdfa5ca->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_601f4fa17ad701199161ea160bdfa5ca, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_f2e8086d220a77cc23721b642e3b986c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_f2e8086d220a77cc23721b642e3b986c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_f2e8086d220a77cc23721b642e3b986c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_601f4fa17ad701199161ea160bdfa5ca,
+        frame_f2e8086d220a77cc23721b642e3b986c,
         type_description_1,
         par_self,
         par_cert,
@@ -1623,17 +1623,17 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__2___init__(struct Nuitk
 
 
     // Release cached frame if used for exception.
-    if (frame_601f4fa17ad701199161ea160bdfa5ca == cache_frame_601f4fa17ad701199161ea160bdfa5ca) {
+    if (frame_f2e8086d220a77cc23721b642e3b986c == cache_frame_f2e8086d220a77cc23721b642e3b986c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_601f4fa17ad701199161ea160bdfa5ca);
-        cache_frame_601f4fa17ad701199161ea160bdfa5ca = NULL;
+        Py_DECREF(cache_frame_f2e8086d220a77cc23721b642e3b986c);
+        cache_frame_f2e8086d220a77cc23721b642e3b986c = NULL;
     }
 
-    assertFrameObject(frame_601f4fa17ad701199161ea160bdfa5ca);
+    assertFrameObject(frame_f2e8086d220a77cc23721b642e3b986c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2956,14 +2956,14 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__30___init__(struct Nuit
     PyObject *par_self = python_pars[0];
     PyObject *par_request = python_pars[1];
     PyObject *par_extensions = python_pars[2];
-    struct Nuitka_FrameObject *frame_7244a7def0a4b1385c1c59d7ec96b799;
+    struct Nuitka_FrameObject *frame_1731e80b8e7a0ef46dadd48cdbbebd5d;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_7244a7def0a4b1385c1c59d7ec96b799 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_1731e80b8e7a0ef46dadd48cdbbebd5d = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -2972,31 +2972,31 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__30___init__(struct Nuit
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_7244a7def0a4b1385c1c59d7ec96b799)) {
-        Py_XDECREF(cache_frame_7244a7def0a4b1385c1c59d7ec96b799);
+    if (isFrameUnusable(cache_frame_1731e80b8e7a0ef46dadd48cdbbebd5d)) {
+        Py_XDECREF(cache_frame_1731e80b8e7a0ef46dadd48cdbbebd5d);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_7244a7def0a4b1385c1c59d7ec96b799 == NULL) {
+        if (cache_frame_1731e80b8e7a0ef46dadd48cdbbebd5d == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_7244a7def0a4b1385c1c59d7ec96b799 = MAKE_FUNCTION_FRAME(codeobj_7244a7def0a4b1385c1c59d7ec96b799, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_1731e80b8e7a0ef46dadd48cdbbebd5d = MAKE_FUNCTION_FRAME(codeobj_1731e80b8e7a0ef46dadd48cdbbebd5d, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_7244a7def0a4b1385c1c59d7ec96b799->m_type_description == NULL);
-    frame_7244a7def0a4b1385c1c59d7ec96b799 = cache_frame_7244a7def0a4b1385c1c59d7ec96b799;
+    assert(cache_frame_1731e80b8e7a0ef46dadd48cdbbebd5d->m_type_description == NULL);
+    frame_1731e80b8e7a0ef46dadd48cdbbebd5d = cache_frame_1731e80b8e7a0ef46dadd48cdbbebd5d;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_7244a7def0a4b1385c1c59d7ec96b799);
+    pushFrameStack(frame_1731e80b8e7a0ef46dadd48cdbbebd5d);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_7244a7def0a4b1385c1c59d7ec96b799) == 2); // Frame stack
+    assert(Py_REFCNT(frame_1731e80b8e7a0ef46dadd48cdbbebd5d) == 2); // Frame stack
 
     // Framed code:
     {
@@ -3039,7 +3039,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__30___init__(struct Nuit
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_7244a7def0a4b1385c1c59d7ec96b799);
+    RESTORE_FRAME_EXCEPTION(frame_1731e80b8e7a0ef46dadd48cdbbebd5d);
 #endif
 
     // Put the previous frame back on top.
@@ -3050,18 +3050,18 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__30___init__(struct Nuit
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_7244a7def0a4b1385c1c59d7ec96b799);
+    RESTORE_FRAME_EXCEPTION(frame_1731e80b8e7a0ef46dadd48cdbbebd5d);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_7244a7def0a4b1385c1c59d7ec96b799, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_7244a7def0a4b1385c1c59d7ec96b799->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_7244a7def0a4b1385c1c59d7ec96b799, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_1731e80b8e7a0ef46dadd48cdbbebd5d, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_1731e80b8e7a0ef46dadd48cdbbebd5d->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_1731e80b8e7a0ef46dadd48cdbbebd5d, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_7244a7def0a4b1385c1c59d7ec96b799,
+        frame_1731e80b8e7a0ef46dadd48cdbbebd5d,
         type_description_1,
         par_self,
         par_request,
@@ -3070,17 +3070,17 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__30___init__(struct Nuit
 
 
     // Release cached frame if used for exception.
-    if (frame_7244a7def0a4b1385c1c59d7ec96b799 == cache_frame_7244a7def0a4b1385c1c59d7ec96b799) {
+    if (frame_1731e80b8e7a0ef46dadd48cdbbebd5d == cache_frame_1731e80b8e7a0ef46dadd48cdbbebd5d) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_7244a7def0a4b1385c1c59d7ec96b799);
-        cache_frame_7244a7def0a4b1385c1c59d7ec96b799 = NULL;
+        Py_DECREF(cache_frame_1731e80b8e7a0ef46dadd48cdbbebd5d);
+        cache_frame_1731e80b8e7a0ef46dadd48cdbbebd5d = NULL;
     }
 
-    assertFrameObject(frame_7244a7def0a4b1385c1c59d7ec96b799);
+    assertFrameObject(frame_1731e80b8e7a0ef46dadd48cdbbebd5d);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -3167,7 +3167,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__31_add_certificate(stru
     PyObject *par_cert = python_pars[1];
     PyObject *par_issuer = python_pars[2];
     PyObject *par_algorithm = python_pars[3];
-    struct Nuitka_FrameObject *frame_f36bb219c9a8b9387d718686c3222f81;
+    struct Nuitka_FrameObject *frame_67ba66b5fecbc3119b79bf847324cf99;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -3176,7 +3176,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__31_add_certificate(stru
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     int tmp_res;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_f36bb219c9a8b9387d718686c3222f81 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_67ba66b5fecbc3119b79bf847324cf99 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -3184,31 +3184,31 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__31_add_certificate(stru
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_f36bb219c9a8b9387d718686c3222f81)) {
-        Py_XDECREF(cache_frame_f36bb219c9a8b9387d718686c3222f81);
+    if (isFrameUnusable(cache_frame_67ba66b5fecbc3119b79bf847324cf99)) {
+        Py_XDECREF(cache_frame_67ba66b5fecbc3119b79bf847324cf99);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_f36bb219c9a8b9387d718686c3222f81 == NULL) {
+        if (cache_frame_67ba66b5fecbc3119b79bf847324cf99 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_f36bb219c9a8b9387d718686c3222f81 = MAKE_FUNCTION_FRAME(codeobj_f36bb219c9a8b9387d718686c3222f81, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_67ba66b5fecbc3119b79bf847324cf99 = MAKE_FUNCTION_FRAME(codeobj_67ba66b5fecbc3119b79bf847324cf99, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_f36bb219c9a8b9387d718686c3222f81->m_type_description == NULL);
-    frame_f36bb219c9a8b9387d718686c3222f81 = cache_frame_f36bb219c9a8b9387d718686c3222f81;
+    assert(cache_frame_67ba66b5fecbc3119b79bf847324cf99->m_type_description == NULL);
+    frame_67ba66b5fecbc3119b79bf847324cf99 = cache_frame_67ba66b5fecbc3119b79bf847324cf99;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_f36bb219c9a8b9387d718686c3222f81);
+    pushFrameStack(frame_67ba66b5fecbc3119b79bf847324cf99);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_f36bb219c9a8b9387d718686c3222f81) == 2); // Frame stack
+    assert(Py_REFCNT(frame_67ba66b5fecbc3119b79bf847324cf99) == 2); // Frame stack
 
     // Framed code:
     {
@@ -3243,7 +3243,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__31_add_certificate(stru
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[53];
-        frame_f36bb219c9a8b9387d718686c3222f81->m_frame.f_lineno = 326;
+        frame_67ba66b5fecbc3119b79bf847324cf99->m_frame.f_lineno = 326;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -3275,7 +3275,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__31_add_certificate(stru
         }
         CHECK_OBJECT(par_algorithm);
         tmp_args_element_name_1 = par_algorithm;
-        frame_f36bb219c9a8b9387d718686c3222f81->m_frame.f_lineno = 328;
+        frame_67ba66b5fecbc3119b79bf847324cf99->m_frame.f_lineno = 328;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3443,7 +3443,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__31_add_certificate(stru
         PyObject *tmp_raise_type_2;
         PyObject *tmp_make_exception_arg_2;
         tmp_make_exception_arg_2 = mod_consts[4];
-        frame_f36bb219c9a8b9387d718686c3222f81->m_frame.f_lineno = 332;
+        frame_67ba66b5fecbc3119b79bf847324cf99->m_frame.f_lineno = 332;
         tmp_raise_type_2 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_2);
         assert(!(tmp_raise_type_2 == NULL));
         exception_type = tmp_raise_type_2;
@@ -3509,7 +3509,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__31_add_certificate(stru
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_f36bb219c9a8b9387d718686c3222f81->m_frame.f_lineno = 334;
+        frame_67ba66b5fecbc3119b79bf847324cf99->m_frame.f_lineno = 334;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -3531,7 +3531,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__31_add_certificate(stru
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f36bb219c9a8b9387d718686c3222f81);
+    RESTORE_FRAME_EXCEPTION(frame_67ba66b5fecbc3119b79bf847324cf99);
 #endif
 
     // Put the previous frame back on top.
@@ -3541,7 +3541,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__31_add_certificate(stru
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f36bb219c9a8b9387d718686c3222f81);
+    RESTORE_FRAME_EXCEPTION(frame_67ba66b5fecbc3119b79bf847324cf99);
 #endif
 
     // Put the previous frame back on top.
@@ -3552,18 +3552,18 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__31_add_certificate(stru
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f36bb219c9a8b9387d718686c3222f81);
+    RESTORE_FRAME_EXCEPTION(frame_67ba66b5fecbc3119b79bf847324cf99);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_f36bb219c9a8b9387d718686c3222f81, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_f36bb219c9a8b9387d718686c3222f81->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_f36bb219c9a8b9387d718686c3222f81, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_67ba66b5fecbc3119b79bf847324cf99, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_67ba66b5fecbc3119b79bf847324cf99->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_67ba66b5fecbc3119b79bf847324cf99, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_f36bb219c9a8b9387d718686c3222f81,
+        frame_67ba66b5fecbc3119b79bf847324cf99,
         type_description_1,
         par_self,
         par_cert,
@@ -3573,17 +3573,17 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__31_add_certificate(stru
 
 
     // Release cached frame if used for exception.
-    if (frame_f36bb219c9a8b9387d718686c3222f81 == cache_frame_f36bb219c9a8b9387d718686c3222f81) {
+    if (frame_67ba66b5fecbc3119b79bf847324cf99 == cache_frame_67ba66b5fecbc3119b79bf847324cf99) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_f36bb219c9a8b9387d718686c3222f81);
-        cache_frame_f36bb219c9a8b9387d718686c3222f81 = NULL;
+        Py_DECREF(cache_frame_67ba66b5fecbc3119b79bf847324cf99);
+        cache_frame_67ba66b5fecbc3119b79bf847324cf99 = NULL;
     }
 
-    assertFrameObject(frame_f36bb219c9a8b9387d718686c3222f81);
+    assertFrameObject(frame_67ba66b5fecbc3119b79bf847324cf99);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -3671,7 +3671,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__32_add_extension(struct
     PyObject *par_extval = python_pars[1];
     PyObject *par_critical = python_pars[2];
     PyObject *var_extension = NULL;
-    struct Nuitka_FrameObject *frame_a7d2905e51fcd7ba3214cbb69fb6de34;
+    struct Nuitka_FrameObject *frame_d59ffa5b2a97ba500b5a192ae38a47b0;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -3680,7 +3680,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__32_add_extension(struct
     int tmp_res;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_a7d2905e51fcd7ba3214cbb69fb6de34 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d59ffa5b2a97ba500b5a192ae38a47b0 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -3688,31 +3688,31 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__32_add_extension(struct
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_a7d2905e51fcd7ba3214cbb69fb6de34)) {
-        Py_XDECREF(cache_frame_a7d2905e51fcd7ba3214cbb69fb6de34);
+    if (isFrameUnusable(cache_frame_d59ffa5b2a97ba500b5a192ae38a47b0)) {
+        Py_XDECREF(cache_frame_d59ffa5b2a97ba500b5a192ae38a47b0);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_a7d2905e51fcd7ba3214cbb69fb6de34 == NULL) {
+        if (cache_frame_d59ffa5b2a97ba500b5a192ae38a47b0 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_a7d2905e51fcd7ba3214cbb69fb6de34 = MAKE_FUNCTION_FRAME(codeobj_a7d2905e51fcd7ba3214cbb69fb6de34, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_d59ffa5b2a97ba500b5a192ae38a47b0 = MAKE_FUNCTION_FRAME(codeobj_d59ffa5b2a97ba500b5a192ae38a47b0, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_a7d2905e51fcd7ba3214cbb69fb6de34->m_type_description == NULL);
-    frame_a7d2905e51fcd7ba3214cbb69fb6de34 = cache_frame_a7d2905e51fcd7ba3214cbb69fb6de34;
+    assert(cache_frame_d59ffa5b2a97ba500b5a192ae38a47b0->m_type_description == NULL);
+    frame_d59ffa5b2a97ba500b5a192ae38a47b0 = cache_frame_d59ffa5b2a97ba500b5a192ae38a47b0;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_a7d2905e51fcd7ba3214cbb69fb6de34);
+    pushFrameStack(frame_d59ffa5b2a97ba500b5a192ae38a47b0);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_a7d2905e51fcd7ba3214cbb69fb6de34) == 2); // Frame stack
+    assert(Py_REFCNT(frame_d59ffa5b2a97ba500b5a192ae38a47b0) == 2); // Frame stack
 
     // Framed code:
     {
@@ -3786,7 +3786,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__32_add_extension(struct
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[57];
-        frame_a7d2905e51fcd7ba3214cbb69fb6de34->m_frame.f_lineno = 340;
+        frame_d59ffa5b2a97ba500b5a192ae38a47b0->m_frame.f_lineno = 340;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -3860,7 +3860,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__32_add_extension(struct
         }
 
         tmp_args_element_name_3 = par_extval;
-        frame_a7d2905e51fcd7ba3214cbb69fb6de34->m_frame.f_lineno = 342;
+        frame_d59ffa5b2a97ba500b5a192ae38a47b0->m_frame.f_lineno = 342;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_1, call_args);
@@ -3918,7 +3918,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__32_add_extension(struct
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_a7d2905e51fcd7ba3214cbb69fb6de34->m_frame.f_lineno = 343;
+        frame_d59ffa5b2a97ba500b5a192ae38a47b0->m_frame.f_lineno = 343;
         {
             PyObject *call_args[] = {tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_call_result_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -4027,7 +4027,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__32_add_extension(struct
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_a7d2905e51fcd7ba3214cbb69fb6de34->m_frame.f_lineno = 345;
+        frame_d59ffa5b2a97ba500b5a192ae38a47b0->m_frame.f_lineno = 345;
         {
             PyObject *call_args[] = {tmp_args_element_name_6, tmp_args_element_name_7};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -4049,7 +4049,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__32_add_extension(struct
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a7d2905e51fcd7ba3214cbb69fb6de34);
+    RESTORE_FRAME_EXCEPTION(frame_d59ffa5b2a97ba500b5a192ae38a47b0);
 #endif
 
     // Put the previous frame back on top.
@@ -4059,7 +4059,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__32_add_extension(struct
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a7d2905e51fcd7ba3214cbb69fb6de34);
+    RESTORE_FRAME_EXCEPTION(frame_d59ffa5b2a97ba500b5a192ae38a47b0);
 #endif
 
     // Put the previous frame back on top.
@@ -4070,18 +4070,18 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__32_add_extension(struct
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a7d2905e51fcd7ba3214cbb69fb6de34);
+    RESTORE_FRAME_EXCEPTION(frame_d59ffa5b2a97ba500b5a192ae38a47b0);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a7d2905e51fcd7ba3214cbb69fb6de34, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a7d2905e51fcd7ba3214cbb69fb6de34->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a7d2905e51fcd7ba3214cbb69fb6de34, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d59ffa5b2a97ba500b5a192ae38a47b0, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d59ffa5b2a97ba500b5a192ae38a47b0->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d59ffa5b2a97ba500b5a192ae38a47b0, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_a7d2905e51fcd7ba3214cbb69fb6de34,
+        frame_d59ffa5b2a97ba500b5a192ae38a47b0,
         type_description_1,
         par_self,
         par_extval,
@@ -4091,17 +4091,17 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__32_add_extension(struct
 
 
     // Release cached frame if used for exception.
-    if (frame_a7d2905e51fcd7ba3214cbb69fb6de34 == cache_frame_a7d2905e51fcd7ba3214cbb69fb6de34) {
+    if (frame_d59ffa5b2a97ba500b5a192ae38a47b0 == cache_frame_d59ffa5b2a97ba500b5a192ae38a47b0) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_a7d2905e51fcd7ba3214cbb69fb6de34);
-        cache_frame_a7d2905e51fcd7ba3214cbb69fb6de34 = NULL;
+        Py_DECREF(cache_frame_d59ffa5b2a97ba500b5a192ae38a47b0);
+        cache_frame_d59ffa5b2a97ba500b5a192ae38a47b0 = NULL;
     }
 
-    assertFrameObject(frame_a7d2905e51fcd7ba3214cbb69fb6de34);
+    assertFrameObject(frame_d59ffa5b2a97ba500b5a192ae38a47b0);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -4182,14 +4182,14 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__33_build(struct Nuitka_
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *var_backend = NULL;
-    struct Nuitka_FrameObject *frame_91d2e943dc9ba1e9f146a95f50f12373;
+    struct Nuitka_FrameObject *frame_856338c2baf4c3289812a39f1bb21c39;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_91d2e943dc9ba1e9f146a95f50f12373 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_856338c2baf4c3289812a39f1bb21c39 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -4197,31 +4197,31 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__33_build(struct Nuitka_
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_91d2e943dc9ba1e9f146a95f50f12373)) {
-        Py_XDECREF(cache_frame_91d2e943dc9ba1e9f146a95f50f12373);
+    if (isFrameUnusable(cache_frame_856338c2baf4c3289812a39f1bb21c39)) {
+        Py_XDECREF(cache_frame_856338c2baf4c3289812a39f1bb21c39);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_91d2e943dc9ba1e9f146a95f50f12373 == NULL) {
+        if (cache_frame_856338c2baf4c3289812a39f1bb21c39 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_91d2e943dc9ba1e9f146a95f50f12373 = MAKE_FUNCTION_FRAME(codeobj_91d2e943dc9ba1e9f146a95f50f12373, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *));
+        cache_frame_856338c2baf4c3289812a39f1bb21c39 = MAKE_FUNCTION_FRAME(codeobj_856338c2baf4c3289812a39f1bb21c39, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_91d2e943dc9ba1e9f146a95f50f12373->m_type_description == NULL);
-    frame_91d2e943dc9ba1e9f146a95f50f12373 = cache_frame_91d2e943dc9ba1e9f146a95f50f12373;
+    assert(cache_frame_856338c2baf4c3289812a39f1bb21c39->m_type_description == NULL);
+    frame_856338c2baf4c3289812a39f1bb21c39 = cache_frame_856338c2baf4c3289812a39f1bb21c39;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_91d2e943dc9ba1e9f146a95f50f12373);
+    pushFrameStack(frame_856338c2baf4c3289812a39f1bb21c39);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_91d2e943dc9ba1e9f146a95f50f12373) == 2); // Frame stack
+    assert(Py_REFCNT(frame_856338c2baf4c3289812a39f1bb21c39) == 2); // Frame stack
 
     // Framed code:
     {
@@ -4237,7 +4237,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__33_build(struct Nuitka_
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = mod_consts[63];
         tmp_level_name_1 = mod_consts[64];
-        frame_91d2e943dc9ba1e9f146a95f50f12373->m_frame.f_lineno = 350;
+        frame_856338c2baf4c3289812a39f1bb21c39->m_frame.f_lineno = 350;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4306,7 +4306,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__33_build(struct Nuitka_
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[66];
-        frame_91d2e943dc9ba1e9f146a95f50f12373->m_frame.f_lineno = 353;
+        frame_856338c2baf4c3289812a39f1bb21c39->m_frame.f_lineno = 353;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -4346,7 +4346,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__33_build(struct Nuitka_
         }
 
         tmp_args_element_name_1 = par_self;
-        frame_91d2e943dc9ba1e9f146a95f50f12373->m_frame.f_lineno = 355;
+        frame_856338c2baf4c3289812a39f1bb21c39->m_frame.f_lineno = 355;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         if (tmp_return_value == NULL) {
@@ -4363,7 +4363,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__33_build(struct Nuitka_
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_91d2e943dc9ba1e9f146a95f50f12373);
+    RESTORE_FRAME_EXCEPTION(frame_856338c2baf4c3289812a39f1bb21c39);
 #endif
 
     // Put the previous frame back on top.
@@ -4373,7 +4373,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__33_build(struct Nuitka_
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_91d2e943dc9ba1e9f146a95f50f12373);
+    RESTORE_FRAME_EXCEPTION(frame_856338c2baf4c3289812a39f1bb21c39);
 #endif
 
     // Put the previous frame back on top.
@@ -4384,18 +4384,18 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__33_build(struct Nuitka_
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_91d2e943dc9ba1e9f146a95f50f12373);
+    RESTORE_FRAME_EXCEPTION(frame_856338c2baf4c3289812a39f1bb21c39);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_91d2e943dc9ba1e9f146a95f50f12373, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_91d2e943dc9ba1e9f146a95f50f12373->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_91d2e943dc9ba1e9f146a95f50f12373, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_856338c2baf4c3289812a39f1bb21c39, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_856338c2baf4c3289812a39f1bb21c39->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_856338c2baf4c3289812a39f1bb21c39, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_91d2e943dc9ba1e9f146a95f50f12373,
+        frame_856338c2baf4c3289812a39f1bb21c39,
         type_description_1,
         par_self,
         var_backend
@@ -4403,17 +4403,17 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__33_build(struct Nuitka_
 
 
     // Release cached frame if used for exception.
-    if (frame_91d2e943dc9ba1e9f146a95f50f12373 == cache_frame_91d2e943dc9ba1e9f146a95f50f12373) {
+    if (frame_856338c2baf4c3289812a39f1bb21c39 == cache_frame_856338c2baf4c3289812a39f1bb21c39) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_91d2e943dc9ba1e9f146a95f50f12373);
-        cache_frame_91d2e943dc9ba1e9f146a95f50f12373 = NULL;
+        Py_DECREF(cache_frame_856338c2baf4c3289812a39f1bb21c39);
+        cache_frame_856338c2baf4c3289812a39f1bb21c39 = NULL;
     }
 
-    assertFrameObject(frame_91d2e943dc9ba1e9f146a95f50f12373);
+    assertFrameObject(frame_856338c2baf4c3289812a39f1bb21c39);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -4488,14 +4488,14 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__34___init__(struct Nuit
     PyObject *par_responder_id = python_pars[2];
     PyObject *par_certs = python_pars[3];
     PyObject *par_extensions = python_pars[4];
-    struct Nuitka_FrameObject *frame_6d96f4727956d5660e0e8ca270cc957e;
+    struct Nuitka_FrameObject *frame_c1ff6eaf2e3287012f3dc4076de7e09e;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_6d96f4727956d5660e0e8ca270cc957e = NULL;
+    static struct Nuitka_FrameObject *cache_frame_c1ff6eaf2e3287012f3dc4076de7e09e = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -4504,31 +4504,31 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__34___init__(struct Nuit
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_6d96f4727956d5660e0e8ca270cc957e)) {
-        Py_XDECREF(cache_frame_6d96f4727956d5660e0e8ca270cc957e);
+    if (isFrameUnusable(cache_frame_c1ff6eaf2e3287012f3dc4076de7e09e)) {
+        Py_XDECREF(cache_frame_c1ff6eaf2e3287012f3dc4076de7e09e);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_6d96f4727956d5660e0e8ca270cc957e == NULL) {
+        if (cache_frame_c1ff6eaf2e3287012f3dc4076de7e09e == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_6d96f4727956d5660e0e8ca270cc957e = MAKE_FUNCTION_FRAME(codeobj_6d96f4727956d5660e0e8ca270cc957e, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_c1ff6eaf2e3287012f3dc4076de7e09e = MAKE_FUNCTION_FRAME(codeobj_c1ff6eaf2e3287012f3dc4076de7e09e, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_6d96f4727956d5660e0e8ca270cc957e->m_type_description == NULL);
-    frame_6d96f4727956d5660e0e8ca270cc957e = cache_frame_6d96f4727956d5660e0e8ca270cc957e;
+    assert(cache_frame_c1ff6eaf2e3287012f3dc4076de7e09e->m_type_description == NULL);
+    frame_c1ff6eaf2e3287012f3dc4076de7e09e = cache_frame_c1ff6eaf2e3287012f3dc4076de7e09e;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_6d96f4727956d5660e0e8ca270cc957e);
+    pushFrameStack(frame_c1ff6eaf2e3287012f3dc4076de7e09e);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_6d96f4727956d5660e0e8ca270cc957e) == 2); // Frame stack
+    assert(Py_REFCNT(frame_c1ff6eaf2e3287012f3dc4076de7e09e) == 2); // Frame stack
 
     // Framed code:
     {
@@ -4609,7 +4609,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__34___init__(struct Nuit
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6d96f4727956d5660e0e8ca270cc957e);
+    RESTORE_FRAME_EXCEPTION(frame_c1ff6eaf2e3287012f3dc4076de7e09e);
 #endif
 
     // Put the previous frame back on top.
@@ -4620,18 +4620,18 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__34___init__(struct Nuit
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6d96f4727956d5660e0e8ca270cc957e);
+    RESTORE_FRAME_EXCEPTION(frame_c1ff6eaf2e3287012f3dc4076de7e09e);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_6d96f4727956d5660e0e8ca270cc957e, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_6d96f4727956d5660e0e8ca270cc957e->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_6d96f4727956d5660e0e8ca270cc957e, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_c1ff6eaf2e3287012f3dc4076de7e09e, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_c1ff6eaf2e3287012f3dc4076de7e09e->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_c1ff6eaf2e3287012f3dc4076de7e09e, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_6d96f4727956d5660e0e8ca270cc957e,
+        frame_c1ff6eaf2e3287012f3dc4076de7e09e,
         type_description_1,
         par_self,
         par_response,
@@ -4642,17 +4642,17 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__34___init__(struct Nuit
 
 
     // Release cached frame if used for exception.
-    if (frame_6d96f4727956d5660e0e8ca270cc957e == cache_frame_6d96f4727956d5660e0e8ca270cc957e) {
+    if (frame_c1ff6eaf2e3287012f3dc4076de7e09e == cache_frame_c1ff6eaf2e3287012f3dc4076de7e09e) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_6d96f4727956d5660e0e8ca270cc957e);
-        cache_frame_6d96f4727956d5660e0e8ca270cc957e = NULL;
+        Py_DECREF(cache_frame_c1ff6eaf2e3287012f3dc4076de7e09e);
+        cache_frame_c1ff6eaf2e3287012f3dc4076de7e09e = NULL;
     }
 
-    assertFrameObject(frame_6d96f4727956d5660e0e8ca270cc957e);
+    assertFrameObject(frame_c1ff6eaf2e3287012f3dc4076de7e09e);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -4757,14 +4757,14 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__35_add_response(struct 
     PyObject *par_revocation_time = python_pars[7];
     PyObject *par_revocation_reason = python_pars[8];
     PyObject *var_singleresp = NULL;
-    struct Nuitka_FrameObject *frame_b16187e53a7a92321dea187e438eb148;
+    struct Nuitka_FrameObject *frame_bcc9d7c2a6d8a717f043c713dc7bd55f;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_b16187e53a7a92321dea187e438eb148 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_bcc9d7c2a6d8a717f043c713dc7bd55f = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -4772,31 +4772,31 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__35_add_response(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_b16187e53a7a92321dea187e438eb148)) {
-        Py_XDECREF(cache_frame_b16187e53a7a92321dea187e438eb148);
+    if (isFrameUnusable(cache_frame_bcc9d7c2a6d8a717f043c713dc7bd55f)) {
+        Py_XDECREF(cache_frame_bcc9d7c2a6d8a717f043c713dc7bd55f);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_b16187e53a7a92321dea187e438eb148 == NULL) {
+        if (cache_frame_bcc9d7c2a6d8a717f043c713dc7bd55f == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_b16187e53a7a92321dea187e438eb148 = MAKE_FUNCTION_FRAME(codeobj_b16187e53a7a92321dea187e438eb148, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_bcc9d7c2a6d8a717f043c713dc7bd55f = MAKE_FUNCTION_FRAME(codeobj_bcc9d7c2a6d8a717f043c713dc7bd55f, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_b16187e53a7a92321dea187e438eb148->m_type_description == NULL);
-    frame_b16187e53a7a92321dea187e438eb148 = cache_frame_b16187e53a7a92321dea187e438eb148;
+    assert(cache_frame_bcc9d7c2a6d8a717f043c713dc7bd55f->m_type_description == NULL);
+    frame_bcc9d7c2a6d8a717f043c713dc7bd55f = cache_frame_bcc9d7c2a6d8a717f043c713dc7bd55f;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_b16187e53a7a92321dea187e438eb148);
+    pushFrameStack(frame_bcc9d7c2a6d8a717f043c713dc7bd55f);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_b16187e53a7a92321dea187e438eb148) == 2); // Frame stack
+    assert(Py_REFCNT(frame_bcc9d7c2a6d8a717f043c713dc7bd55f) == 2); // Frame stack
 
     // Framed code:
     {
@@ -4831,7 +4831,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__35_add_response(struct 
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[71];
-        frame_b16187e53a7a92321dea187e438eb148->m_frame.f_lineno = 379;
+        frame_bcc9d7c2a6d8a717f043c713dc7bd55f->m_frame.f_lineno = 379;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -4884,7 +4884,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__35_add_response(struct 
         tmp_args_element_name_7 = par_revocation_time;
         CHECK_OBJECT(par_revocation_reason);
         tmp_args_element_name_8 = par_revocation_reason;
-        frame_b16187e53a7a92321dea187e438eb148->m_frame.f_lineno = 381;
+        frame_bcc9d7c2a6d8a717f043c713dc7bd55f->m_frame.f_lineno = 381;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5, tmp_args_element_name_6, tmp_args_element_name_7, tmp_args_element_name_8};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS8(tmp_called_name_1, call_args);
@@ -5004,7 +5004,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__35_add_response(struct 
             type_description_1 = "oooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_b16187e53a7a92321dea187e438eb148->m_frame.f_lineno = 391;
+        frame_bcc9d7c2a6d8a717f043c713dc7bd55f->m_frame.f_lineno = 391;
         {
             PyObject *call_args[] = {tmp_args_element_name_9, tmp_args_element_name_10, tmp_args_element_name_11, tmp_args_element_name_12};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_2, call_args);
@@ -5027,7 +5027,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__35_add_response(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b16187e53a7a92321dea187e438eb148);
+    RESTORE_FRAME_EXCEPTION(frame_bcc9d7c2a6d8a717f043c713dc7bd55f);
 #endif
 
     // Put the previous frame back on top.
@@ -5037,7 +5037,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__35_add_response(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b16187e53a7a92321dea187e438eb148);
+    RESTORE_FRAME_EXCEPTION(frame_bcc9d7c2a6d8a717f043c713dc7bd55f);
 #endif
 
     // Put the previous frame back on top.
@@ -5048,18 +5048,18 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__35_add_response(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b16187e53a7a92321dea187e438eb148);
+    RESTORE_FRAME_EXCEPTION(frame_bcc9d7c2a6d8a717f043c713dc7bd55f);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_b16187e53a7a92321dea187e438eb148, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_b16187e53a7a92321dea187e438eb148->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_b16187e53a7a92321dea187e438eb148, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_bcc9d7c2a6d8a717f043c713dc7bd55f, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_bcc9d7c2a6d8a717f043c713dc7bd55f->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_bcc9d7c2a6d8a717f043c713dc7bd55f, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_b16187e53a7a92321dea187e438eb148,
+        frame_bcc9d7c2a6d8a717f043c713dc7bd55f,
         type_description_1,
         par_self,
         par_cert,
@@ -5075,17 +5075,17 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__35_add_response(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_b16187e53a7a92321dea187e438eb148 == cache_frame_b16187e53a7a92321dea187e438eb148) {
+    if (frame_bcc9d7c2a6d8a717f043c713dc7bd55f == cache_frame_bcc9d7c2a6d8a717f043c713dc7bd55f) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_b16187e53a7a92321dea187e438eb148);
-        cache_frame_b16187e53a7a92321dea187e438eb148 = NULL;
+        Py_DECREF(cache_frame_bcc9d7c2a6d8a717f043c713dc7bd55f);
+        cache_frame_bcc9d7c2a6d8a717f043c713dc7bd55f = NULL;
     }
 
-    assertFrameObject(frame_b16187e53a7a92321dea187e438eb148);
+    assertFrameObject(frame_bcc9d7c2a6d8a717f043c713dc7bd55f);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5207,7 +5207,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__36_responder_id(struct 
     PyObject *par_self = python_pars[0];
     PyObject *par_encoding = python_pars[1];
     PyObject *par_responder_cert = python_pars[2];
-    struct Nuitka_FrameObject *frame_d67a9f67c84d35dc14016ed589443803;
+    struct Nuitka_FrameObject *frame_9b88192bb9cd1bc438b5703c9d8bf768;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -5215,7 +5215,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__36_responder_id(struct 
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_d67a9f67c84d35dc14016ed589443803 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_9b88192bb9cd1bc438b5703c9d8bf768 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -5223,31 +5223,31 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__36_responder_id(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_d67a9f67c84d35dc14016ed589443803)) {
-        Py_XDECREF(cache_frame_d67a9f67c84d35dc14016ed589443803);
+    if (isFrameUnusable(cache_frame_9b88192bb9cd1bc438b5703c9d8bf768)) {
+        Py_XDECREF(cache_frame_9b88192bb9cd1bc438b5703c9d8bf768);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_d67a9f67c84d35dc14016ed589443803 == NULL) {
+        if (cache_frame_9b88192bb9cd1bc438b5703c9d8bf768 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_d67a9f67c84d35dc14016ed589443803 = MAKE_FUNCTION_FRAME(codeobj_d67a9f67c84d35dc14016ed589443803, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_9b88192bb9cd1bc438b5703c9d8bf768 = MAKE_FUNCTION_FRAME(codeobj_9b88192bb9cd1bc438b5703c9d8bf768, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_d67a9f67c84d35dc14016ed589443803->m_type_description == NULL);
-    frame_d67a9f67c84d35dc14016ed589443803 = cache_frame_d67a9f67c84d35dc14016ed589443803;
+    assert(cache_frame_9b88192bb9cd1bc438b5703c9d8bf768->m_type_description == NULL);
+    frame_9b88192bb9cd1bc438b5703c9d8bf768 = cache_frame_9b88192bb9cd1bc438b5703c9d8bf768;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_d67a9f67c84d35dc14016ed589443803);
+    pushFrameStack(frame_9b88192bb9cd1bc438b5703c9d8bf768);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_d67a9f67c84d35dc14016ed589443803) == 2); // Frame stack
+    assert(Py_REFCNT(frame_9b88192bb9cd1bc438b5703c9d8bf768) == 2); // Frame stack
 
     // Framed code:
     {
@@ -5282,7 +5282,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__36_responder_id(struct 
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[74];
-        frame_d67a9f67c84d35dc14016ed589443803->m_frame.f_lineno = 402;
+        frame_9b88192bb9cd1bc438b5703c9d8bf768->m_frame.f_lineno = 402;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -5363,7 +5363,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__36_responder_id(struct 
         PyObject *tmp_raise_type_2;
         PyObject *tmp_make_exception_arg_2;
         tmp_make_exception_arg_2 = mod_consts[75];
-        frame_d67a9f67c84d35dc14016ed589443803->m_frame.f_lineno = 404;
+        frame_9b88192bb9cd1bc438b5703c9d8bf768->m_frame.f_lineno = 404;
         tmp_raise_type_2 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_2);
         assert(!(tmp_raise_type_2 == NULL));
         exception_type = tmp_raise_type_2;
@@ -5431,7 +5431,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__36_responder_id(struct 
         PyObject *tmp_raise_type_3;
         PyObject *tmp_make_exception_arg_3;
         tmp_make_exception_arg_3 = mod_consts[77];
-        frame_d67a9f67c84d35dc14016ed589443803->m_frame.f_lineno = 406;
+        frame_9b88192bb9cd1bc438b5703c9d8bf768->m_frame.f_lineno = 406;
         tmp_raise_type_3 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_3);
         assert(!(tmp_raise_type_3 == NULL));
         exception_type = tmp_raise_type_3;
@@ -5552,7 +5552,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__36_responder_id(struct 
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_d67a9f67c84d35dc14016ed589443803->m_frame.f_lineno = 410;
+        frame_9b88192bb9cd1bc438b5703c9d8bf768->m_frame.f_lineno = 410;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_1, call_args);
@@ -5576,7 +5576,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__36_responder_id(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d67a9f67c84d35dc14016ed589443803);
+    RESTORE_FRAME_EXCEPTION(frame_9b88192bb9cd1bc438b5703c9d8bf768);
 #endif
 
     // Put the previous frame back on top.
@@ -5586,7 +5586,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__36_responder_id(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d67a9f67c84d35dc14016ed589443803);
+    RESTORE_FRAME_EXCEPTION(frame_9b88192bb9cd1bc438b5703c9d8bf768);
 #endif
 
     // Put the previous frame back on top.
@@ -5597,18 +5597,18 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__36_responder_id(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d67a9f67c84d35dc14016ed589443803);
+    RESTORE_FRAME_EXCEPTION(frame_9b88192bb9cd1bc438b5703c9d8bf768);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_d67a9f67c84d35dc14016ed589443803, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_d67a9f67c84d35dc14016ed589443803->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_d67a9f67c84d35dc14016ed589443803, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_9b88192bb9cd1bc438b5703c9d8bf768, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_9b88192bb9cd1bc438b5703c9d8bf768->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_9b88192bb9cd1bc438b5703c9d8bf768, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_d67a9f67c84d35dc14016ed589443803,
+        frame_9b88192bb9cd1bc438b5703c9d8bf768,
         type_description_1,
         par_self,
         par_encoding,
@@ -5617,17 +5617,17 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__36_responder_id(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_d67a9f67c84d35dc14016ed589443803 == cache_frame_d67a9f67c84d35dc14016ed589443803) {
+    if (frame_9b88192bb9cd1bc438b5703c9d8bf768 == cache_frame_9b88192bb9cd1bc438b5703c9d8bf768) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_d67a9f67c84d35dc14016ed589443803);
-        cache_frame_d67a9f67c84d35dc14016ed589443803 = NULL;
+        Py_DECREF(cache_frame_9b88192bb9cd1bc438b5703c9d8bf768);
+        cache_frame_9b88192bb9cd1bc438b5703c9d8bf768 = NULL;
     }
 
-    assertFrameObject(frame_d67a9f67c84d35dc14016ed589443803);
+    assertFrameObject(frame_9b88192bb9cd1bc438b5703c9d8bf768);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5708,7 +5708,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__37_certificates(struct 
     PyObject *par_self = python_pars[0];
     PyObject *par_certs = python_pars[1];
     PyObject *tmp_genexpr_1__$0 = NULL;
-    struct Nuitka_FrameObject *frame_bb7bc54bedd3c1114821d5f6c8ef196e;
+    struct Nuitka_FrameObject *frame_f2fbb1047d66f51a568621a96879c165;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -5716,7 +5716,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__37_certificates(struct 
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_bb7bc54bedd3c1114821d5f6c8ef196e = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f2fbb1047d66f51a568621a96879c165 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -5724,31 +5724,31 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__37_certificates(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_bb7bc54bedd3c1114821d5f6c8ef196e)) {
-        Py_XDECREF(cache_frame_bb7bc54bedd3c1114821d5f6c8ef196e);
+    if (isFrameUnusable(cache_frame_f2fbb1047d66f51a568621a96879c165)) {
+        Py_XDECREF(cache_frame_f2fbb1047d66f51a568621a96879c165);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_bb7bc54bedd3c1114821d5f6c8ef196e == NULL) {
+        if (cache_frame_f2fbb1047d66f51a568621a96879c165 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_bb7bc54bedd3c1114821d5f6c8ef196e = MAKE_FUNCTION_FRAME(codeobj_bb7bc54bedd3c1114821d5f6c8ef196e, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *));
+        cache_frame_f2fbb1047d66f51a568621a96879c165 = MAKE_FUNCTION_FRAME(codeobj_f2fbb1047d66f51a568621a96879c165, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_bb7bc54bedd3c1114821d5f6c8ef196e->m_type_description == NULL);
-    frame_bb7bc54bedd3c1114821d5f6c8ef196e = cache_frame_bb7bc54bedd3c1114821d5f6c8ef196e;
+    assert(cache_frame_f2fbb1047d66f51a568621a96879c165->m_type_description == NULL);
+    frame_f2fbb1047d66f51a568621a96879c165 = cache_frame_f2fbb1047d66f51a568621a96879c165;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_bb7bc54bedd3c1114821d5f6c8ef196e);
+    pushFrameStack(frame_f2fbb1047d66f51a568621a96879c165);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_bb7bc54bedd3c1114821d5f6c8ef196e) == 2); // Frame stack
+    assert(Py_REFCNT(frame_f2fbb1047d66f51a568621a96879c165) == 2); // Frame stack
 
     // Framed code:
     {
@@ -5783,7 +5783,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__37_certificates(struct 
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[78];
-        frame_bb7bc54bedd3c1114821d5f6c8ef196e->m_frame.f_lineno = 421;
+        frame_f2fbb1047d66f51a568621a96879c165->m_frame.f_lineno = 421;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -5844,7 +5844,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__37_certificates(struct 
         PyObject *tmp_raise_type_2;
         PyObject *tmp_make_exception_arg_2;
         tmp_make_exception_arg_2 = mod_consts[79];
-        frame_bb7bc54bedd3c1114821d5f6c8ef196e->m_frame.f_lineno = 424;
+        frame_f2fbb1047d66f51a568621a96879c165->m_frame.f_lineno = 424;
         tmp_raise_type_2 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_2);
         assert(!(tmp_raise_type_2 == NULL));
         exception_type = tmp_raise_type_2;
@@ -5949,7 +5949,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__37_certificates(struct 
         PyObject *tmp_raise_type_3;
         PyObject *tmp_make_exception_arg_3;
         tmp_make_exception_arg_3 = mod_consts[81];
-        frame_bb7bc54bedd3c1114821d5f6c8ef196e->m_frame.f_lineno = 426;
+        frame_f2fbb1047d66f51a568621a96879c165->m_frame.f_lineno = 426;
         tmp_raise_type_3 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_3);
         assert(!(tmp_raise_type_3 == NULL));
         exception_type = tmp_raise_type_3;
@@ -6072,7 +6072,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__37_certificates(struct 
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_bb7bc54bedd3c1114821d5f6c8ef196e->m_frame.f_lineno = 427;
+        frame_f2fbb1047d66f51a568621a96879c165->m_frame.f_lineno = 427;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_1, call_args);
@@ -6095,7 +6095,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__37_certificates(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_bb7bc54bedd3c1114821d5f6c8ef196e);
+    RESTORE_FRAME_EXCEPTION(frame_f2fbb1047d66f51a568621a96879c165);
 #endif
 
     // Put the previous frame back on top.
@@ -6105,7 +6105,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__37_certificates(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_bb7bc54bedd3c1114821d5f6c8ef196e);
+    RESTORE_FRAME_EXCEPTION(frame_f2fbb1047d66f51a568621a96879c165);
 #endif
 
     // Put the previous frame back on top.
@@ -6116,18 +6116,18 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__37_certificates(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_bb7bc54bedd3c1114821d5f6c8ef196e);
+    RESTORE_FRAME_EXCEPTION(frame_f2fbb1047d66f51a568621a96879c165);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_bb7bc54bedd3c1114821d5f6c8ef196e, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_bb7bc54bedd3c1114821d5f6c8ef196e->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_bb7bc54bedd3c1114821d5f6c8ef196e, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_f2fbb1047d66f51a568621a96879c165, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_f2fbb1047d66f51a568621a96879c165->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_f2fbb1047d66f51a568621a96879c165, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_bb7bc54bedd3c1114821d5f6c8ef196e,
+        frame_f2fbb1047d66f51a568621a96879c165,
         type_description_1,
         par_self,
         par_certs
@@ -6135,17 +6135,17 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__37_certificates(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_bb7bc54bedd3c1114821d5f6c8ef196e == cache_frame_bb7bc54bedd3c1114821d5f6c8ef196e) {
+    if (frame_f2fbb1047d66f51a568621a96879c165 == cache_frame_f2fbb1047d66f51a568621a96879c165) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_bb7bc54bedd3c1114821d5f6c8ef196e);
-        cache_frame_bb7bc54bedd3c1114821d5f6c8ef196e = NULL;
+        Py_DECREF(cache_frame_f2fbb1047d66f51a568621a96879c165);
+        cache_frame_f2fbb1047d66f51a568621a96879c165 = NULL;
     }
 
-    assertFrameObject(frame_bb7bc54bedd3c1114821d5f6c8ef196e);
+    assertFrameObject(frame_f2fbb1047d66f51a568621a96879c165);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -6266,7 +6266,7 @@ static PyObject *cryptography$x509$ocsp$$$function__37_certificates$$$genexpr__1
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_m_frame = MAKE_FUNCTION_FRAME(codeobj_63451c5e02d9c3c82e7db4b679017441, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *));
+        cache_m_frame = MAKE_FUNCTION_FRAME(codeobj_f8a03fabccdcaa23d444f7c5f231cbde, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
@@ -6556,7 +6556,7 @@ static PyObject *MAKE_GENERATOR_cryptography$x509$ocsp$$$function__37_certificat
 #if PYTHON_VERSION >= 0x350
         mod_consts[83],
 #endif
-        codeobj_63451c5e02d9c3c82e7db4b679017441,
+        codeobj_f8a03fabccdcaa23d444f7c5f231cbde,
         closure,
         1,
         sizeof(struct cryptography$x509$ocsp$$$function__37_certificates$$$genexpr__1_genexpr_locals)
@@ -6575,7 +6575,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__38_add_extension(struct
     PyObject *par_extval = python_pars[1];
     PyObject *par_critical = python_pars[2];
     PyObject *var_extension = NULL;
-    struct Nuitka_FrameObject *frame_fc9fdedbc17ead43e87e1d7001ae4419;
+    struct Nuitka_FrameObject *frame_01b3d2c6e40e0a6b7de96853bfb1185c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -6584,7 +6584,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__38_add_extension(struct
     int tmp_res;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_fc9fdedbc17ead43e87e1d7001ae4419 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_01b3d2c6e40e0a6b7de96853bfb1185c = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -6592,31 +6592,31 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__38_add_extension(struct
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_fc9fdedbc17ead43e87e1d7001ae4419)) {
-        Py_XDECREF(cache_frame_fc9fdedbc17ead43e87e1d7001ae4419);
+    if (isFrameUnusable(cache_frame_01b3d2c6e40e0a6b7de96853bfb1185c)) {
+        Py_XDECREF(cache_frame_01b3d2c6e40e0a6b7de96853bfb1185c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_fc9fdedbc17ead43e87e1d7001ae4419 == NULL) {
+        if (cache_frame_01b3d2c6e40e0a6b7de96853bfb1185c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_fc9fdedbc17ead43e87e1d7001ae4419 = MAKE_FUNCTION_FRAME(codeobj_fc9fdedbc17ead43e87e1d7001ae4419, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_01b3d2c6e40e0a6b7de96853bfb1185c = MAKE_FUNCTION_FRAME(codeobj_01b3d2c6e40e0a6b7de96853bfb1185c, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_fc9fdedbc17ead43e87e1d7001ae4419->m_type_description == NULL);
-    frame_fc9fdedbc17ead43e87e1d7001ae4419 = cache_frame_fc9fdedbc17ead43e87e1d7001ae4419;
+    assert(cache_frame_01b3d2c6e40e0a6b7de96853bfb1185c->m_type_description == NULL);
+    frame_01b3d2c6e40e0a6b7de96853bfb1185c = cache_frame_01b3d2c6e40e0a6b7de96853bfb1185c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_fc9fdedbc17ead43e87e1d7001ae4419);
+    pushFrameStack(frame_01b3d2c6e40e0a6b7de96853bfb1185c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_fc9fdedbc17ead43e87e1d7001ae4419) == 2); // Frame stack
+    assert(Py_REFCNT(frame_01b3d2c6e40e0a6b7de96853bfb1185c) == 2); // Frame stack
 
     // Framed code:
     {
@@ -6690,7 +6690,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__38_add_extension(struct
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[57];
-        frame_fc9fdedbc17ead43e87e1d7001ae4419->m_frame.f_lineno = 438;
+        frame_01b3d2c6e40e0a6b7de96853bfb1185c->m_frame.f_lineno = 438;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -6764,7 +6764,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__38_add_extension(struct
         }
 
         tmp_args_element_name_3 = par_extval;
-        frame_fc9fdedbc17ead43e87e1d7001ae4419->m_frame.f_lineno = 440;
+        frame_01b3d2c6e40e0a6b7de96853bfb1185c->m_frame.f_lineno = 440;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_1, call_args);
@@ -6822,7 +6822,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__38_add_extension(struct
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_fc9fdedbc17ead43e87e1d7001ae4419->m_frame.f_lineno = 441;
+        frame_01b3d2c6e40e0a6b7de96853bfb1185c->m_frame.f_lineno = 441;
         {
             PyObject *call_args[] = {tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_call_result_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -6991,7 +6991,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__38_add_extension(struct
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_fc9fdedbc17ead43e87e1d7001ae4419->m_frame.f_lineno = 443;
+        frame_01b3d2c6e40e0a6b7de96853bfb1185c->m_frame.f_lineno = 443;
         {
             PyObject *call_args[] = {tmp_args_element_name_6, tmp_args_element_name_7, tmp_args_element_name_8, tmp_args_element_name_9};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_3, call_args);
@@ -7015,7 +7015,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__38_add_extension(struct
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_fc9fdedbc17ead43e87e1d7001ae4419);
+    RESTORE_FRAME_EXCEPTION(frame_01b3d2c6e40e0a6b7de96853bfb1185c);
 #endif
 
     // Put the previous frame back on top.
@@ -7025,7 +7025,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__38_add_extension(struct
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_fc9fdedbc17ead43e87e1d7001ae4419);
+    RESTORE_FRAME_EXCEPTION(frame_01b3d2c6e40e0a6b7de96853bfb1185c);
 #endif
 
     // Put the previous frame back on top.
@@ -7036,18 +7036,18 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__38_add_extension(struct
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_fc9fdedbc17ead43e87e1d7001ae4419);
+    RESTORE_FRAME_EXCEPTION(frame_01b3d2c6e40e0a6b7de96853bfb1185c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_fc9fdedbc17ead43e87e1d7001ae4419, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_fc9fdedbc17ead43e87e1d7001ae4419->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_fc9fdedbc17ead43e87e1d7001ae4419, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_01b3d2c6e40e0a6b7de96853bfb1185c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_01b3d2c6e40e0a6b7de96853bfb1185c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_01b3d2c6e40e0a6b7de96853bfb1185c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_fc9fdedbc17ead43e87e1d7001ae4419,
+        frame_01b3d2c6e40e0a6b7de96853bfb1185c,
         type_description_1,
         par_self,
         par_extval,
@@ -7057,17 +7057,17 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__38_add_extension(struct
 
 
     // Release cached frame if used for exception.
-    if (frame_fc9fdedbc17ead43e87e1d7001ae4419 == cache_frame_fc9fdedbc17ead43e87e1d7001ae4419) {
+    if (frame_01b3d2c6e40e0a6b7de96853bfb1185c == cache_frame_01b3d2c6e40e0a6b7de96853bfb1185c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_fc9fdedbc17ead43e87e1d7001ae4419);
-        cache_frame_fc9fdedbc17ead43e87e1d7001ae4419 = NULL;
+        Py_DECREF(cache_frame_01b3d2c6e40e0a6b7de96853bfb1185c);
+        cache_frame_01b3d2c6e40e0a6b7de96853bfb1185c = NULL;
     }
 
-    assertFrameObject(frame_fc9fdedbc17ead43e87e1d7001ae4419);
+    assertFrameObject(frame_01b3d2c6e40e0a6b7de96853bfb1185c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -7150,14 +7150,14 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__39_sign(struct Nuitka_F
     PyObject *par_private_key = python_pars[1];
     PyObject *par_algorithm = python_pars[2];
     PyObject *var_backend = NULL;
-    struct Nuitka_FrameObject *frame_ec3028e447d892531f38e1ffd7d1ae75;
+    struct Nuitka_FrameObject *frame_e6676aa19fee0d10f9d0eff0720eccc8;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_ec3028e447d892531f38e1ffd7d1ae75 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_e6676aa19fee0d10f9d0eff0720eccc8 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -7165,31 +7165,31 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__39_sign(struct Nuitka_F
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ec3028e447d892531f38e1ffd7d1ae75)) {
-        Py_XDECREF(cache_frame_ec3028e447d892531f38e1ffd7d1ae75);
+    if (isFrameUnusable(cache_frame_e6676aa19fee0d10f9d0eff0720eccc8)) {
+        Py_XDECREF(cache_frame_e6676aa19fee0d10f9d0eff0720eccc8);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ec3028e447d892531f38e1ffd7d1ae75 == NULL) {
+        if (cache_frame_e6676aa19fee0d10f9d0eff0720eccc8 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ec3028e447d892531f38e1ffd7d1ae75 = MAKE_FUNCTION_FRAME(codeobj_ec3028e447d892531f38e1ffd7d1ae75, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_e6676aa19fee0d10f9d0eff0720eccc8 = MAKE_FUNCTION_FRAME(codeobj_e6676aa19fee0d10f9d0eff0720eccc8, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ec3028e447d892531f38e1ffd7d1ae75->m_type_description == NULL);
-    frame_ec3028e447d892531f38e1ffd7d1ae75 = cache_frame_ec3028e447d892531f38e1ffd7d1ae75;
+    assert(cache_frame_e6676aa19fee0d10f9d0eff0720eccc8->m_type_description == NULL);
+    frame_e6676aa19fee0d10f9d0eff0720eccc8 = cache_frame_e6676aa19fee0d10f9d0eff0720eccc8;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ec3028e447d892531f38e1ffd7d1ae75);
+    pushFrameStack(frame_e6676aa19fee0d10f9d0eff0720eccc8);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ec3028e447d892531f38e1ffd7d1ae75) == 2); // Frame stack
+    assert(Py_REFCNT(frame_e6676aa19fee0d10f9d0eff0720eccc8) == 2); // Frame stack
 
     // Framed code:
     {
@@ -7205,7 +7205,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__39_sign(struct Nuitka_F
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = mod_consts[63];
         tmp_level_name_1 = mod_consts[64];
-        frame_ec3028e447d892531f38e1ffd7d1ae75->m_frame.f_lineno = 455;
+        frame_e6676aa19fee0d10f9d0eff0720eccc8->m_frame.f_lineno = 455;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -7274,7 +7274,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__39_sign(struct Nuitka_F
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[84];
-        frame_ec3028e447d892531f38e1ffd7d1ae75->m_frame.f_lineno = 458;
+        frame_e6676aa19fee0d10f9d0eff0720eccc8->m_frame.f_lineno = 458;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -7327,7 +7327,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__39_sign(struct Nuitka_F
         PyObject *tmp_raise_type_2;
         PyObject *tmp_make_exception_arg_2;
         tmp_make_exception_arg_2 = mod_consts[85];
-        frame_ec3028e447d892531f38e1ffd7d1ae75->m_frame.f_lineno = 460;
+        frame_e6676aa19fee0d10f9d0eff0720eccc8->m_frame.f_lineno = 460;
         tmp_raise_type_2 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_2);
         assert(!(tmp_raise_type_2 == NULL));
         exception_type = tmp_raise_type_2;
@@ -7403,7 +7403,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__39_sign(struct Nuitka_F
         tmp_args_element_name_3 = par_private_key;
         CHECK_OBJECT(par_algorithm);
         tmp_args_element_name_4 = par_algorithm;
-        frame_ec3028e447d892531f38e1ffd7d1ae75->m_frame.f_lineno = 462;
+        frame_e6676aa19fee0d10f9d0eff0720eccc8->m_frame.f_lineno = 462;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_1, call_args);
@@ -7425,7 +7425,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__39_sign(struct Nuitka_F
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ec3028e447d892531f38e1ffd7d1ae75);
+    RESTORE_FRAME_EXCEPTION(frame_e6676aa19fee0d10f9d0eff0720eccc8);
 #endif
 
     // Put the previous frame back on top.
@@ -7435,7 +7435,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__39_sign(struct Nuitka_F
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ec3028e447d892531f38e1ffd7d1ae75);
+    RESTORE_FRAME_EXCEPTION(frame_e6676aa19fee0d10f9d0eff0720eccc8);
 #endif
 
     // Put the previous frame back on top.
@@ -7446,18 +7446,18 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__39_sign(struct Nuitka_F
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ec3028e447d892531f38e1ffd7d1ae75);
+    RESTORE_FRAME_EXCEPTION(frame_e6676aa19fee0d10f9d0eff0720eccc8);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ec3028e447d892531f38e1ffd7d1ae75, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ec3028e447d892531f38e1ffd7d1ae75->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ec3028e447d892531f38e1ffd7d1ae75, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_e6676aa19fee0d10f9d0eff0720eccc8, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_e6676aa19fee0d10f9d0eff0720eccc8->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_e6676aa19fee0d10f9d0eff0720eccc8, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ec3028e447d892531f38e1ffd7d1ae75,
+        frame_e6676aa19fee0d10f9d0eff0720eccc8,
         type_description_1,
         par_self,
         par_private_key,
@@ -7467,17 +7467,17 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__39_sign(struct Nuitka_F
 
 
     // Release cached frame if used for exception.
-    if (frame_ec3028e447d892531f38e1ffd7d1ae75 == cache_frame_ec3028e447d892531f38e1ffd7d1ae75) {
+    if (frame_e6676aa19fee0d10f9d0eff0720eccc8 == cache_frame_e6676aa19fee0d10f9d0eff0720eccc8) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ec3028e447d892531f38e1ffd7d1ae75);
-        cache_frame_ec3028e447d892531f38e1ffd7d1ae75 = NULL;
+        Py_DECREF(cache_frame_e6676aa19fee0d10f9d0eff0720eccc8);
+        cache_frame_e6676aa19fee0d10f9d0eff0720eccc8 = NULL;
     }
 
-    assertFrameObject(frame_ec3028e447d892531f38e1ffd7d1ae75);
+    assertFrameObject(frame_e6676aa19fee0d10f9d0eff0720eccc8);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -7558,7 +7558,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__40_build_unsuccessful(s
     PyObject *par_cls = python_pars[0];
     PyObject *par_response_status = python_pars[1];
     PyObject *var_backend = NULL;
-    struct Nuitka_FrameObject *frame_687b86427e117eb5d2714fd1cfa58cd3;
+    struct Nuitka_FrameObject *frame_7e7144c0ad74cc80b1ec5f23b52ce719;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -7566,7 +7566,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__40_build_unsuccessful(s
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_687b86427e117eb5d2714fd1cfa58cd3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_7e7144c0ad74cc80b1ec5f23b52ce719 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -7574,31 +7574,31 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__40_build_unsuccessful(s
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_687b86427e117eb5d2714fd1cfa58cd3)) {
-        Py_XDECREF(cache_frame_687b86427e117eb5d2714fd1cfa58cd3);
+    if (isFrameUnusable(cache_frame_7e7144c0ad74cc80b1ec5f23b52ce719)) {
+        Py_XDECREF(cache_frame_7e7144c0ad74cc80b1ec5f23b52ce719);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_687b86427e117eb5d2714fd1cfa58cd3 == NULL) {
+        if (cache_frame_7e7144c0ad74cc80b1ec5f23b52ce719 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_687b86427e117eb5d2714fd1cfa58cd3 = MAKE_FUNCTION_FRAME(codeobj_687b86427e117eb5d2714fd1cfa58cd3, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_7e7144c0ad74cc80b1ec5f23b52ce719 = MAKE_FUNCTION_FRAME(codeobj_7e7144c0ad74cc80b1ec5f23b52ce719, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_687b86427e117eb5d2714fd1cfa58cd3->m_type_description == NULL);
-    frame_687b86427e117eb5d2714fd1cfa58cd3 = cache_frame_687b86427e117eb5d2714fd1cfa58cd3;
+    assert(cache_frame_7e7144c0ad74cc80b1ec5f23b52ce719->m_type_description == NULL);
+    frame_7e7144c0ad74cc80b1ec5f23b52ce719 = cache_frame_7e7144c0ad74cc80b1ec5f23b52ce719;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_687b86427e117eb5d2714fd1cfa58cd3);
+    pushFrameStack(frame_7e7144c0ad74cc80b1ec5f23b52ce719);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_687b86427e117eb5d2714fd1cfa58cd3) == 2); // Frame stack
+    assert(Py_REFCNT(frame_7e7144c0ad74cc80b1ec5f23b52ce719) == 2); // Frame stack
 
     // Framed code:
     {
@@ -7614,7 +7614,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__40_build_unsuccessful(s
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = mod_consts[63];
         tmp_level_name_1 = mod_consts[64];
-        frame_687b86427e117eb5d2714fd1cfa58cd3->m_frame.f_lineno = 470;
+        frame_7e7144c0ad74cc80b1ec5f23b52ce719->m_frame.f_lineno = 470;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -7709,7 +7709,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__40_build_unsuccessful(s
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[89];
-        frame_687b86427e117eb5d2714fd1cfa58cd3->m_frame.f_lineno = 473;
+        frame_7e7144c0ad74cc80b1ec5f23b52ce719->m_frame.f_lineno = 473;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_TypeError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -7766,7 +7766,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__40_build_unsuccessful(s
         PyObject *tmp_raise_type_2;
         PyObject *tmp_make_exception_arg_2;
         tmp_make_exception_arg_2 = mod_consts[90];
-        frame_687b86427e117eb5d2714fd1cfa58cd3->m_frame.f_lineno = 477;
+        frame_7e7144c0ad74cc80b1ec5f23b52ce719->m_frame.f_lineno = 477;
         tmp_raise_type_2 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_2);
         assert(!(tmp_raise_type_2 == NULL));
         exception_type = tmp_raise_type_2;
@@ -7789,7 +7789,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__40_build_unsuccessful(s
         tmp_args_element_name_2 = Py_None;
         tmp_args_element_name_3 = Py_None;
         tmp_args_element_name_4 = Py_None;
-        frame_687b86427e117eb5d2714fd1cfa58cd3->m_frame.f_lineno = 479;
+        frame_7e7144c0ad74cc80b1ec5f23b52ce719->m_frame.f_lineno = 479;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_return_value = CALL_METHOD_WITH_ARGS4(
@@ -7813,7 +7813,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__40_build_unsuccessful(s
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_687b86427e117eb5d2714fd1cfa58cd3);
+    RESTORE_FRAME_EXCEPTION(frame_7e7144c0ad74cc80b1ec5f23b52ce719);
 #endif
 
     // Put the previous frame back on top.
@@ -7823,7 +7823,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__40_build_unsuccessful(s
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_687b86427e117eb5d2714fd1cfa58cd3);
+    RESTORE_FRAME_EXCEPTION(frame_7e7144c0ad74cc80b1ec5f23b52ce719);
 #endif
 
     // Put the previous frame back on top.
@@ -7834,18 +7834,18 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__40_build_unsuccessful(s
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_687b86427e117eb5d2714fd1cfa58cd3);
+    RESTORE_FRAME_EXCEPTION(frame_7e7144c0ad74cc80b1ec5f23b52ce719);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_687b86427e117eb5d2714fd1cfa58cd3, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_687b86427e117eb5d2714fd1cfa58cd3->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_687b86427e117eb5d2714fd1cfa58cd3, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_7e7144c0ad74cc80b1ec5f23b52ce719, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_7e7144c0ad74cc80b1ec5f23b52ce719->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_7e7144c0ad74cc80b1ec5f23b52ce719, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_687b86427e117eb5d2714fd1cfa58cd3,
+        frame_7e7144c0ad74cc80b1ec5f23b52ce719,
         type_description_1,
         par_cls,
         par_response_status,
@@ -7854,17 +7854,17 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__40_build_unsuccessful(s
 
 
     // Release cached frame if used for exception.
-    if (frame_687b86427e117eb5d2714fd1cfa58cd3 == cache_frame_687b86427e117eb5d2714fd1cfa58cd3) {
+    if (frame_7e7144c0ad74cc80b1ec5f23b52ce719 == cache_frame_7e7144c0ad74cc80b1ec5f23b52ce719) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_687b86427e117eb5d2714fd1cfa58cd3);
-        cache_frame_687b86427e117eb5d2714fd1cfa58cd3 = NULL;
+        Py_DECREF(cache_frame_7e7144c0ad74cc80b1ec5f23b52ce719);
+        cache_frame_7e7144c0ad74cc80b1ec5f23b52ce719 = NULL;
     }
 
-    assertFrameObject(frame_687b86427e117eb5d2714fd1cfa58cd3);
+    assertFrameObject(frame_7e7144c0ad74cc80b1ec5f23b52ce719);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -7942,14 +7942,14 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__41_load_der_ocsp_reques
     // Local variable declarations.
     PyObject *par_data = python_pars[0];
     PyObject *var_backend = NULL;
-    struct Nuitka_FrameObject *frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8;
+    struct Nuitka_FrameObject *frame_fc46485ed332a01aee5cf6f54150ecdf;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_fc46485ed332a01aee5cf6f54150ecdf = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -7957,31 +7957,31 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__41_load_der_ocsp_reques
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8)) {
-        Py_XDECREF(cache_frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8);
+    if (isFrameUnusable(cache_frame_fc46485ed332a01aee5cf6f54150ecdf)) {
+        Py_XDECREF(cache_frame_fc46485ed332a01aee5cf6f54150ecdf);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8 == NULL) {
+        if (cache_frame_fc46485ed332a01aee5cf6f54150ecdf == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8 = MAKE_FUNCTION_FRAME(codeobj_98254b2ffc3a5a4f9d60fa2fe71a6dd8, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *));
+        cache_frame_fc46485ed332a01aee5cf6f54150ecdf = MAKE_FUNCTION_FRAME(codeobj_fc46485ed332a01aee5cf6f54150ecdf, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8->m_type_description == NULL);
-    frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8 = cache_frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8;
+    assert(cache_frame_fc46485ed332a01aee5cf6f54150ecdf->m_type_description == NULL);
+    frame_fc46485ed332a01aee5cf6f54150ecdf = cache_frame_fc46485ed332a01aee5cf6f54150ecdf;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8);
+    pushFrameStack(frame_fc46485ed332a01aee5cf6f54150ecdf);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8) == 2); // Frame stack
+    assert(Py_REFCNT(frame_fc46485ed332a01aee5cf6f54150ecdf) == 2); // Frame stack
 
     // Framed code:
     {
@@ -7997,7 +7997,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__41_load_der_ocsp_reques
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = mod_consts[63];
         tmp_level_name_1 = mod_consts[64];
-        frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8->m_frame.f_lineno = 483;
+        frame_fc46485ed332a01aee5cf6f54150ecdf->m_frame.f_lineno = 483;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -8041,7 +8041,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__41_load_der_ocsp_reques
         tmp_called_instance_1 = var_backend;
         CHECK_OBJECT(par_data);
         tmp_args_element_name_1 = par_data;
-        frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8->m_frame.f_lineno = 485;
+        frame_fc46485ed332a01aee5cf6f54150ecdf->m_frame.f_lineno = 485;
         tmp_return_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[91], tmp_args_element_name_1);
         if (tmp_return_value == NULL) {
             assert(ERROR_OCCURRED());
@@ -8057,7 +8057,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__41_load_der_ocsp_reques
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8);
+    RESTORE_FRAME_EXCEPTION(frame_fc46485ed332a01aee5cf6f54150ecdf);
 #endif
 
     // Put the previous frame back on top.
@@ -8067,7 +8067,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__41_load_der_ocsp_reques
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8);
+    RESTORE_FRAME_EXCEPTION(frame_fc46485ed332a01aee5cf6f54150ecdf);
 #endif
 
     // Put the previous frame back on top.
@@ -8078,18 +8078,18 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__41_load_der_ocsp_reques
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8);
+    RESTORE_FRAME_EXCEPTION(frame_fc46485ed332a01aee5cf6f54150ecdf);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_fc46485ed332a01aee5cf6f54150ecdf, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_fc46485ed332a01aee5cf6f54150ecdf->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_fc46485ed332a01aee5cf6f54150ecdf, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8,
+        frame_fc46485ed332a01aee5cf6f54150ecdf,
         type_description_1,
         par_data,
         var_backend
@@ -8097,17 +8097,17 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__41_load_der_ocsp_reques
 
 
     // Release cached frame if used for exception.
-    if (frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8 == cache_frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8) {
+    if (frame_fc46485ed332a01aee5cf6f54150ecdf == cache_frame_fc46485ed332a01aee5cf6f54150ecdf) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8);
-        cache_frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8 = NULL;
+        Py_DECREF(cache_frame_fc46485ed332a01aee5cf6f54150ecdf);
+        cache_frame_fc46485ed332a01aee5cf6f54150ecdf = NULL;
     }
 
-    assertFrameObject(frame_98254b2ffc3a5a4f9d60fa2fe71a6dd8);
+    assertFrameObject(frame_fc46485ed332a01aee5cf6f54150ecdf);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -8179,14 +8179,14 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__42_load_der_ocsp_respon
     // Local variable declarations.
     PyObject *par_data = python_pars[0];
     PyObject *var_backend = NULL;
-    struct Nuitka_FrameObject *frame_a3d844539e6897e1d09b912f253e7612;
+    struct Nuitka_FrameObject *frame_f69ee23d95a7cce4dae2b0960b77db82;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_a3d844539e6897e1d09b912f253e7612 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f69ee23d95a7cce4dae2b0960b77db82 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -8194,31 +8194,31 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__42_load_der_ocsp_respon
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_a3d844539e6897e1d09b912f253e7612)) {
-        Py_XDECREF(cache_frame_a3d844539e6897e1d09b912f253e7612);
+    if (isFrameUnusable(cache_frame_f69ee23d95a7cce4dae2b0960b77db82)) {
+        Py_XDECREF(cache_frame_f69ee23d95a7cce4dae2b0960b77db82);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_a3d844539e6897e1d09b912f253e7612 == NULL) {
+        if (cache_frame_f69ee23d95a7cce4dae2b0960b77db82 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_a3d844539e6897e1d09b912f253e7612 = MAKE_FUNCTION_FRAME(codeobj_a3d844539e6897e1d09b912f253e7612, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *));
+        cache_frame_f69ee23d95a7cce4dae2b0960b77db82 = MAKE_FUNCTION_FRAME(codeobj_f69ee23d95a7cce4dae2b0960b77db82, module_cryptography$x509$ocsp, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_a3d844539e6897e1d09b912f253e7612->m_type_description == NULL);
-    frame_a3d844539e6897e1d09b912f253e7612 = cache_frame_a3d844539e6897e1d09b912f253e7612;
+    assert(cache_frame_f69ee23d95a7cce4dae2b0960b77db82->m_type_description == NULL);
+    frame_f69ee23d95a7cce4dae2b0960b77db82 = cache_frame_f69ee23d95a7cce4dae2b0960b77db82;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_a3d844539e6897e1d09b912f253e7612);
+    pushFrameStack(frame_f69ee23d95a7cce4dae2b0960b77db82);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_a3d844539e6897e1d09b912f253e7612) == 2); // Frame stack
+    assert(Py_REFCNT(frame_f69ee23d95a7cce4dae2b0960b77db82) == 2); // Frame stack
 
     // Framed code:
     {
@@ -8234,7 +8234,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__42_load_der_ocsp_respon
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = mod_consts[63];
         tmp_level_name_1 = mod_consts[64];
-        frame_a3d844539e6897e1d09b912f253e7612->m_frame.f_lineno = 489;
+        frame_f69ee23d95a7cce4dae2b0960b77db82->m_frame.f_lineno = 489;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -8278,7 +8278,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__42_load_der_ocsp_respon
         tmp_called_instance_1 = var_backend;
         CHECK_OBJECT(par_data);
         tmp_args_element_name_1 = par_data;
-        frame_a3d844539e6897e1d09b912f253e7612->m_frame.f_lineno = 491;
+        frame_f69ee23d95a7cce4dae2b0960b77db82->m_frame.f_lineno = 491;
         tmp_return_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[92], tmp_args_element_name_1);
         if (tmp_return_value == NULL) {
             assert(ERROR_OCCURRED());
@@ -8294,7 +8294,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__42_load_der_ocsp_respon
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a3d844539e6897e1d09b912f253e7612);
+    RESTORE_FRAME_EXCEPTION(frame_f69ee23d95a7cce4dae2b0960b77db82);
 #endif
 
     // Put the previous frame back on top.
@@ -8304,7 +8304,7 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__42_load_der_ocsp_respon
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a3d844539e6897e1d09b912f253e7612);
+    RESTORE_FRAME_EXCEPTION(frame_f69ee23d95a7cce4dae2b0960b77db82);
 #endif
 
     // Put the previous frame back on top.
@@ -8315,18 +8315,18 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__42_load_der_ocsp_respon
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a3d844539e6897e1d09b912f253e7612);
+    RESTORE_FRAME_EXCEPTION(frame_f69ee23d95a7cce4dae2b0960b77db82);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a3d844539e6897e1d09b912f253e7612, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a3d844539e6897e1d09b912f253e7612->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a3d844539e6897e1d09b912f253e7612, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_f69ee23d95a7cce4dae2b0960b77db82, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_f69ee23d95a7cce4dae2b0960b77db82->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_f69ee23d95a7cce4dae2b0960b77db82, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_a3d844539e6897e1d09b912f253e7612,
+        frame_f69ee23d95a7cce4dae2b0960b77db82,
         type_description_1,
         par_data,
         var_backend
@@ -8334,17 +8334,17 @@ static PyObject *impl_cryptography$x509$ocsp$$$function__42_load_der_ocsp_respon
 
 
     // Release cached frame if used for exception.
-    if (frame_a3d844539e6897e1d09b912f253e7612 == cache_frame_a3d844539e6897e1d09b912f253e7612) {
+    if (frame_f69ee23d95a7cce4dae2b0960b77db82 == cache_frame_f69ee23d95a7cce4dae2b0960b77db82) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_a3d844539e6897e1d09b912f253e7612);
-        cache_frame_a3d844539e6897e1d09b912f253e7612 = NULL;
+        Py_DECREF(cache_frame_f69ee23d95a7cce4dae2b0960b77db82);
+        cache_frame_f69ee23d95a7cce4dae2b0960b77db82 = NULL;
     }
 
-    assertFrameObject(frame_a3d844539e6897e1d09b912f253e7612);
+    assertFrameObject(frame_f69ee23d95a7cce4dae2b0960b77db82);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -8411,11 +8411,11 @@ function_return_exit:
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__10_signature_algorithm_oid(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__10_signature_algorithm_oid,
-        mod_consts[188],
+        mod_consts[187],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[189],
+        mod_consts[188],
 #endif
-        codeobj_a850070f7e23810308269b6609504c25,
+        codeobj_f128465219d14168a2c6597d3ae06aeb,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8436,11 +8436,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__10_signature_a
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__11_signature_hash_algorithm(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__11_signature_hash_algorithm,
-        mod_consts[191],
+        mod_consts[190],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[192],
+        mod_consts[191],
 #endif
-        codeobj_4c6c4c18487b734c71420277e3033b52,
+        codeobj_e914ac48e94eda47b64258f32fd77f07,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8461,11 +8461,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__11_signature_h
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__12_signature(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__12_signature,
-        mod_consts[193],
+        mod_consts[192],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[194],
+        mod_consts[193],
 #endif
-        codeobj_eefd2452a8f8308434ad0dffa9640735,
+        codeobj_8e2eed81bcf0b6ed0316317675d089bd,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8486,11 +8486,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__12_signature(P
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__13_tbs_response_bytes(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__13_tbs_response_bytes,
-        mod_consts[195],
+        mod_consts[194],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[196],
+        mod_consts[195],
 #endif
-        codeobj_62c4159da75983f8a102513ffafdcbb4,
+        codeobj_c8658f2dbad0e5dfac15f57b9641cd9e,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8511,11 +8511,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__13_tbs_respons
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__14_certificates(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__14_certificates,
-        mod_consts[198],
+        mod_consts[197],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[199],
+        mod_consts[198],
 #endif
-        codeobj_3fef95d4003d164a4c5abe75c43476af,
+        codeobj_7174350afb0751e67febb3a88ef8d0f8,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8536,11 +8536,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__14_certificate
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__15_responder_key_hash(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__15_responder_key_hash,
-        mod_consts[200],
+        mod_consts[199],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[201],
+        mod_consts[200],
 #endif
-        codeobj_0f8a486db1a9eeaa610bc391d62e5e1b,
+        codeobj_296f6f5671548a3c12da420bcf41b1cb,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8561,11 +8561,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__15_responder_k
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__16_responder_name(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__16_responder_name,
-        mod_consts[203],
+        mod_consts[202],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[204],
+        mod_consts[203],
 #endif
-        codeobj_c20790b7c4a439df647a5dfbaceafe6b,
+        codeobj_7058e5c6eb8d85c94500389cb4e2c69a,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8586,11 +8586,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__16_responder_n
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__17_produced_at(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__17_produced_at,
-        mod_consts[205],
+        mod_consts[204],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[206],
+        mod_consts[205],
 #endif
-        codeobj_5d2b36adf598bd4ef1bc01bb3d6fd156,
+        codeobj_61e76af390a55f94338bc545ef3bb3db,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8611,11 +8611,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__17_produced_at
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__18_certificate_status(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__18_certificate_status,
-        mod_consts[207],
+        mod_consts[206],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[208],
+        mod_consts[207],
 #endif
-        codeobj_f2d554128afe34e47c566c50e09f23d8,
+        codeobj_d0ff065e41ae76143f615fda36661bc7,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8636,11 +8636,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__18_certificate
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__19_revocation_time(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__19_revocation_time,
-        mod_consts[209],
+        mod_consts[208],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[210],
+        mod_consts[209],
 #endif
-        codeobj_fb36f317395981167a50b9dd6f5e6e15,
+        codeobj_9be2b52d7d886ffcabcac3dbb497023b,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8665,7 +8665,7 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__1__verify_algo
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_57d159b7ac719d66a84fbcdfd759225f,
+        codeobj_48709c1c3e86526af0f57ea0cf8cd82a,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8686,11 +8686,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__1__verify_algo
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__20_revocation_reason(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__20_revocation_reason,
-        mod_consts[211],
+        mod_consts[210],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[212],
+        mod_consts[211],
 #endif
-        codeobj_df230fdc11293eb988edc3d718908036,
+        codeobj_a5f3ff554ae711c94fb82e8dbdc9afa3,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8711,11 +8711,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__20_revocation_
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__21_this_update(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__21_this_update,
-        mod_consts[213],
+        mod_consts[212],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[214],
+        mod_consts[213],
 #endif
-        codeobj_5b6814e3d5f60eb6548a6996a2fdaef3,
+        codeobj_174ebc5c936c115c6db2f35f54ec719f,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8736,11 +8736,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__21_this_update
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__22_next_update(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__22_next_update,
-        mod_consts[215],
+        mod_consts[214],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[216],
+        mod_consts[215],
 #endif
-        codeobj_924f916b59f286cc0d765bbb8e5fae64,
+        codeobj_b5a143fbdf009c1bb3a860e84cd88fe7,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8761,11 +8761,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__22_next_update
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__23_issuer_key_hash(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__23_issuer_key_hash,
-        mod_consts[165],
+        mod_consts[164],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[217],
+        mod_consts[216],
 #endif
-        codeobj_2e2d0cb6568481df10cadb9ed6140481,
+        codeobj_441796a90a80553e580c2facfcef2ab9,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8786,11 +8786,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__23_issuer_key_
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__24_issuer_name_hash(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__24_issuer_name_hash,
-        mod_consts[167],
+        mod_consts[166],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[218],
+        mod_consts[217],
 #endif
-        codeobj_94b9944b02cdbe8921df32eecd0d432c,
+        codeobj_b4722542f456816b23f86ac5c0f5e2ed,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8811,11 +8811,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__24_issuer_name
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__25_hash_algorithm(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__25_hash_algorithm,
-        mod_consts[170],
+        mod_consts[169],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[219],
+        mod_consts[218],
 #endif
-        codeobj_291abb41817bea68939d02262a9afa97,
+        codeobj_a71cdb1b6fb4bc35246735ffd1043796,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8836,11 +8836,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__25_hash_algori
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__26_serial_number(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__26_serial_number,
-        mod_consts[173],
+        mod_consts[172],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[220],
+        mod_consts[219],
 #endif
-        codeobj_49eb61c9e6207083e665a0facef2008f,
+        codeobj_02f49ed416be129ffb18a710070d966b,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8861,11 +8861,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__26_serial_numb
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__27_extensions(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__27_extensions,
-        mod_consts[181],
+        mod_consts[180],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[221],
+        mod_consts[220],
 #endif
-        codeobj_3fbfacced6eda95da7ea327d438fe611,
+        codeobj_95ae7e514f55c7317aa8021571f14914,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8886,11 +8886,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__27_extensions(
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__28_single_extensions(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__28_single_extensions,
-        mod_consts[222],
+        mod_consts[221],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[223],
+        mod_consts[222],
 #endif
-        codeobj_82ccd642b0a047501fe89ff34b4ce9f5,
+        codeobj_537f88ca971bb08d107af1cce453b1ac,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8911,11 +8911,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__28_single_exte
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__29_public_bytes(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__29_public_bytes,
-        mod_consts[178],
+        mod_consts[177],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[224],
+        mod_consts[223],
 #endif
-        codeobj_7c8db18bc90ff4f87631102dcacf4366,
+        codeobj_0b689fac2e0b5a22977f3a1875b64a7f,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8936,11 +8936,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__29_public_byte
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__2___init__() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__2___init__,
-        mod_consts[156],
+        mod_consts[155],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[157],
+        mod_consts[156],
 #endif
-        codeobj_601f4fa17ad701199161ea160bdfa5ca,
+        codeobj_f2e8086d220a77cc23721b642e3b986c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8961,11 +8961,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__2___init__() {
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__30___init__(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__30___init__,
-        mod_consts[156],
+        mod_consts[155],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[225],
+        mod_consts[224],
 #endif
-        codeobj_7244a7def0a4b1385c1c59d7ec96b799,
+        codeobj_1731e80b8e7a0ef46dadd48cdbbebd5d,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -8986,11 +8986,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__30___init__(Py
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__31_add_certificate(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__31_add_certificate,
-        mod_consts[229],
+        mod_consts[228],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[230],
+        mod_consts[229],
 #endif
-        codeobj_f36bb219c9a8b9387d718686c3222f81,
+        codeobj_67ba66b5fecbc3119b79bf847324cf99,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9011,11 +9011,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__31_add_certifi
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__32_add_extension(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__32_add_extension,
-        mod_consts[233],
+        mod_consts[232],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[234],
+        mod_consts[233],
 #endif
-        codeobj_a7d2905e51fcd7ba3214cbb69fb6de34,
+        codeobj_d59ffa5b2a97ba500b5a192ae38a47b0,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9036,11 +9036,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__32_add_extensi
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__33_build(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__33_build,
-        mod_consts[235],
+        mod_consts[234],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[236],
+        mod_consts[235],
 #endif
-        codeobj_91d2e943dc9ba1e9f146a95f50f12373,
+        codeobj_856338c2baf4c3289812a39f1bb21c39,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9061,11 +9061,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__33_build(PyObj
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__34___init__(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__34___init__,
-        mod_consts[156],
+        mod_consts[155],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[237],
+        mod_consts[236],
 #endif
-        codeobj_6d96f4727956d5660e0e8ca270cc957e,
+        codeobj_c1ff6eaf2e3287012f3dc4076de7e09e,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9086,11 +9086,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__34___init__(Py
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__35_add_response(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__35_add_response,
-        mod_consts[239],
+        mod_consts[238],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[240],
+        mod_consts[239],
 #endif
-        codeobj_b16187e53a7a92321dea187e438eb148,
+        codeobj_bcc9d7c2a6d8a717f043c713dc7bd55f,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9111,11 +9111,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__35_add_respons
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__36_responder_id(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__36_responder_id,
-        mod_consts[242],
+        mod_consts[241],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[243],
+        mod_consts[242],
 #endif
-        codeobj_d67a9f67c84d35dc14016ed589443803,
+        codeobj_9b88192bb9cd1bc438b5703c9d8bf768,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9136,11 +9136,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__36_responder_i
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__37_certificates(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__37_certificates,
-        mod_consts[198],
+        mod_consts[197],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[245],
+        mod_consts[244],
 #endif
-        codeobj_bb7bc54bedd3c1114821d5f6c8ef196e,
+        codeobj_f2fbb1047d66f51a568621a96879c165,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9161,11 +9161,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__37_certificate
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__38_add_extension(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__38_add_extension,
-        mod_consts[233],
+        mod_consts[232],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[246],
+        mod_consts[245],
 #endif
-        codeobj_fc9fdedbc17ead43e87e1d7001ae4419,
+        codeobj_01b3d2c6e40e0a6b7de96853bfb1185c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9186,11 +9186,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__38_add_extensi
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__39_sign(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__39_sign,
-        mod_consts[248],
+        mod_consts[247],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[249],
+        mod_consts[248],
 #endif
-        codeobj_ec3028e447d892531f38e1ffd7d1ae75,
+        codeobj_e6676aa19fee0d10f9d0eff0720eccc8,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9211,11 +9211,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__39_sign(PyObje
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__3_issuer_key_hash(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__3_issuer_key_hash,
-        mod_consts[165],
+        mod_consts[164],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[166],
+        mod_consts[165],
 #endif
-        codeobj_6240dfaefbf3fe28cdba21c35e868cac,
+        codeobj_f83f57890002f1876ce6fe206c4b0861,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9236,11 +9236,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__3_issuer_key_h
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__40_build_unsuccessful(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__40_build_unsuccessful,
-        mod_consts[251],
+        mod_consts[250],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[252],
+        mod_consts[251],
 #endif
-        codeobj_687b86427e117eb5d2714fd1cfa58cd3,
+        codeobj_7e7144c0ad74cc80b1ec5f23b52ce719,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9265,7 +9265,7 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__41_load_der_oc
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_98254b2ffc3a5a4f9d60fa2fe71a6dd8,
+        codeobj_fc46485ed332a01aee5cf6f54150ecdf,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9290,7 +9290,7 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__42_load_der_oc
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_a3d844539e6897e1d09b912f253e7612,
+        codeobj_f69ee23d95a7cce4dae2b0960b77db82,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9311,11 +9311,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__42_load_der_oc
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__4_issuer_name_hash(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__4_issuer_name_hash,
-        mod_consts[167],
+        mod_consts[166],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[168],
+        mod_consts[167],
 #endif
-        codeobj_75b0519164131764b941a11247f585c9,
+        codeobj_811ad7aed490f750f49872d5d367118f,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9336,11 +9336,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__4_issuer_name_
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__5_hash_algorithm(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__5_hash_algorithm,
-        mod_consts[170],
+        mod_consts[169],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[171],
+        mod_consts[170],
 #endif
-        codeobj_9ea8c7d6376e56e5f673ab0640658be4,
+        codeobj_7373b97bda95684eef4ac00b2a626f11,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9361,11 +9361,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__5_hash_algorit
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__6_serial_number(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__6_serial_number,
-        mod_consts[173],
+        mod_consts[172],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[174],
+        mod_consts[173],
 #endif
-        codeobj_754df25f8fadf95fe67e59577943098a,
+        codeobj_928bf8cf93746e1938aa7db755e9997c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9386,11 +9386,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__6_serial_numbe
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__7_public_bytes(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__7_public_bytes,
-        mod_consts[178],
+        mod_consts[177],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[179],
+        mod_consts[178],
 #endif
-        codeobj_facd98d1963abf0d8dea8f994a2b6374,
+        codeobj_395243bfe7ab23eff12a8d0ae99dd7c1,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9411,11 +9411,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__7_public_bytes
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__8_extensions(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__8_extensions,
-        mod_consts[181],
+        mod_consts[180],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[182],
+        mod_consts[181],
 #endif
-        codeobj_3c0002bd42bc63ad6c87169dc1924c40,
+        codeobj_2a24983e0560ea63ac920a53c9b87f83,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9436,11 +9436,11 @@ static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__8_extensions(P
 static PyObject *MAKE_FUNCTION_cryptography$x509$ocsp$$$function__9_response_status(PyObject *annotations) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_cryptography$x509$ocsp$$$function__9_response_status,
-        mod_consts[185],
+        mod_consts[184],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[186],
+        mod_consts[185],
 #endif
-        codeobj_e967cecdc44b4391ca74a06c07036fab,
+        codeobj_c364602d5163dabfeb15f20563630074,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -9920,7 +9920,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     PyObject *tmp_dictcontraction_2__iter_value_0 = NULL;
     PyObject *tmp_import_from_1__module = NULL;
     PyObject *tmp_import_from_2__module = NULL;
-    struct Nuitka_FrameObject *frame_62d70d5012a1c4555691595fcac6515f;
+    struct Nuitka_FrameObject *frame_06a3b060c82e363573d9e551cc9e3c86;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -9940,9 +9940,9 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     PyObject *tmp_dictdel_key;
     PyObject *locals_cryptography$x509$ocsp$$$class__1_OCSPResponderEncoding_30 = NULL;
     PyObject *tmp_dictset_value;
-    struct Nuitka_FrameObject *frame_d9642bbb5a0ff72e0147ac1e643a70ed_2;
+    struct Nuitka_FrameObject *frame_e25dc6e1838599f423133f30952c7cab_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_d9642bbb5a0ff72e0147ac1e643a70ed_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_e25dc6e1838599f423133f30952c7cab_2 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -9956,9 +9956,9 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     PyTracebackObject *exception_keeper_tb_5;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_5;
     PyObject *locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35 = NULL;
-    struct Nuitka_FrameObject *frame_740527e3ffbddfd2f6a3708dc1c32171_3;
+    struct Nuitka_FrameObject *frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3;
     NUITKA_MAY_BE_UNUSED char const *type_description_3 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_740527e3ffbddfd2f6a3708dc1c32171_3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3 = NULL;
     PyObject *exception_keeper_type_6;
     PyObject *exception_keeper_value_6;
     PyTracebackObject *exception_keeper_tb_6;
@@ -9971,21 +9971,21 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     PyObject *exception_keeper_value_8;
     PyTracebackObject *exception_keeper_tb_8;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_8;
-    struct Nuitka_FrameObject *frame_2a11684035e39cf780833978cdf673af_4;
+    struct Nuitka_FrameObject *frame_0659e88bc8dafebdb8dacea62a6c5a03_4;
     NUITKA_MAY_BE_UNUSED char const *type_description_4 = NULL;
     PyObject *exception_keeper_type_9;
     PyObject *exception_keeper_value_9;
     PyTracebackObject *exception_keeper_tb_9;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_9;
-    static struct Nuitka_FrameObject *cache_frame_2a11684035e39cf780833978cdf673af_4 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_0659e88bc8dafebdb8dacea62a6c5a03_4 = NULL;
     PyObject *exception_keeper_type_10;
     PyObject *exception_keeper_value_10;
     PyTracebackObject *exception_keeper_tb_10;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_10;
     PyObject *locals_cryptography$x509$ocsp$$$class__3_OCSPCertStatus_61 = NULL;
-    struct Nuitka_FrameObject *frame_a9f859d01a49dd2be236b8f8f6006dbd_5;
+    struct Nuitka_FrameObject *frame_7a9c6c03523e3c1a03770370cd80a4cc_5;
     NUITKA_MAY_BE_UNUSED char const *type_description_5 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_a9f859d01a49dd2be236b8f8f6006dbd_5 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_7a9c6c03523e3c1a03770370cd80a4cc_5 = NULL;
     PyObject *exception_keeper_type_11;
     PyObject *exception_keeper_value_11;
     PyTracebackObject *exception_keeper_tb_11;
@@ -9998,21 +9998,21 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     PyObject *exception_keeper_value_13;
     PyTracebackObject *exception_keeper_tb_13;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_13;
-    struct Nuitka_FrameObject *frame_171a46352b1e31e8f289d27840a30495_6;
+    struct Nuitka_FrameObject *frame_a906fade75f484f4249db0d7d9f08bf7_6;
     NUITKA_MAY_BE_UNUSED char const *type_description_6 = NULL;
     PyObject *exception_keeper_type_14;
     PyObject *exception_keeper_value_14;
     PyTracebackObject *exception_keeper_tb_14;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_14;
-    static struct Nuitka_FrameObject *cache_frame_171a46352b1e31e8f289d27840a30495_6 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_a906fade75f484f4249db0d7d9f08bf7_6 = NULL;
     PyObject *exception_keeper_type_15;
     PyObject *exception_keeper_value_15;
     PyTracebackObject *exception_keeper_tb_15;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_15;
     PyObject *locals_cryptography$x509$ocsp$$$class__4__SingleResponse_70 = NULL;
-    struct Nuitka_FrameObject *frame_b7758a0574d2d8110f49538d568aaf41_7;
+    struct Nuitka_FrameObject *frame_4f7cd561148baeb971940cac1e34735d_7;
     NUITKA_MAY_BE_UNUSED char const *type_description_7 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_b7758a0574d2d8110f49538d568aaf41_7 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_4f7cd561148baeb971940cac1e34735d_7 = NULL;
     PyObject *exception_keeper_type_16;
     PyObject *exception_keeper_value_16;
     PyTracebackObject *exception_keeper_tb_16;
@@ -10026,9 +10026,9 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     PyTracebackObject *exception_keeper_tb_18;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_18;
     PyObject *locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140 = NULL;
-    struct Nuitka_FrameObject *frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8;
+    struct Nuitka_FrameObject *frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8;
     NUITKA_MAY_BE_UNUSED char const *type_description_8 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8 = NULL;
     PyObject *exception_keeper_type_19;
     PyObject *exception_keeper_value_19;
     PyTracebackObject *exception_keeper_tb_19;
@@ -10042,9 +10042,9 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     PyTracebackObject *exception_keeper_tb_21;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_21;
     PyObject *locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178 = NULL;
-    struct Nuitka_FrameObject *frame_e1c7473d5e99810b6068cbfaa5e4079b_9;
+    struct Nuitka_FrameObject *frame_cf837cfb272d3ec3d88c9e39d55e065e_9;
     NUITKA_MAY_BE_UNUSED char const *type_description_9 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_e1c7473d5e99810b6068cbfaa5e4079b_9 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_cf837cfb272d3ec3d88c9e39d55e065e_9 = NULL;
     PyObject *exception_keeper_type_22;
     PyObject *exception_keeper_value_22;
     PyTracebackObject *exception_keeper_tb_22;
@@ -10058,9 +10058,9 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     PyTracebackObject *exception_keeper_tb_24;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_24;
     PyObject *locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314 = NULL;
-    struct Nuitka_FrameObject *frame_01b6b7d51f0922168706506b32cd6ea9_10;
+    struct Nuitka_FrameObject *frame_f1f2c531a46b0692fe2121a544f899da_10;
     NUITKA_MAY_BE_UNUSED char const *type_description_10 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_01b6b7d51f0922168706506b32cd6ea9_10 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f1f2c531a46b0692fe2121a544f899da_10 = NULL;
     PyObject *exception_keeper_type_25;
     PyObject *exception_keeper_value_25;
     PyTracebackObject *exception_keeper_tb_25;
@@ -10074,9 +10074,9 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     PyTracebackObject *exception_keeper_tb_27;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_27;
     PyObject *locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358 = NULL;
-    struct Nuitka_FrameObject *frame_3cf1c548e16c37bf19eec4c11980340a_11;
+    struct Nuitka_FrameObject *frame_6c03541f5b253362f02492566b67d2ba_11;
     NUITKA_MAY_BE_UNUSED char const *type_description_11 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_3cf1c548e16c37bf19eec4c11980340a_11 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_6c03541f5b253362f02492566b67d2ba_11 = NULL;
     PyObject *exception_keeper_type_28;
     PyObject *exception_keeper_value_28;
     PyTracebackObject *exception_keeper_tb_28;
@@ -10098,30 +10098,30 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[94];
-        UPDATE_STRING_DICT0(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[95], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[94], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_62d70d5012a1c4555691595fcac6515f = MAKE_MODULE_FRAME(codeobj_62d70d5012a1c4555691595fcac6515f, module_cryptography$x509$ocsp);
+    frame_06a3b060c82e363573d9e551cc9e3c86 = MAKE_MODULE_FRAME(codeobj_06a3b060c82e363573d9e551cc9e3c86, module_cryptography$x509$ocsp);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_62d70d5012a1c4555691595fcac6515f);
-    assert(Py_REFCNT(frame_62d70d5012a1c4555691595fcac6515f) == 2);
+    pushFrameStack(frame_06a3b060c82e363573d9e551cc9e3c86);
+    assert(Py_REFCNT(frame_06a3b060c82e363573d9e551cc9e3c86) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[94];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[96]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[95]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[96]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[95]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[97], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[96], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -10137,14 +10137,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[96]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[95]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[96]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[95]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[98], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[97], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -10159,7 +10159,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[98], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -10168,12 +10168,12 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[100];
+        tmp_name_name_1 = mod_consts[99];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_cryptography$x509$ocsp;
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = Py_None;
         tmp_level_name_1 = mod_consts[64];
-        frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 6;
+        frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 6;
         tmp_assign_source_4 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_assign_source_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10185,7 +10185,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100], tmp_assign_source_4);
+        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99], tmp_assign_source_4);
     }
     {
         PyObject *tmp_assign_source_5;
@@ -10199,7 +10199,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         tmp_locals_arg_name_2 = Py_None;
         tmp_fromlist_name_2 = Py_None;
         tmp_level_name_2 = mod_consts[64];
-        frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 7;
+        frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 7;
         tmp_assign_source_5 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_assign_source_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10220,12 +10220,12 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_locals_arg_name_3;
         PyObject *tmp_fromlist_name_3;
         PyObject *tmp_level_name_3;
-        tmp_name_name_3 = mod_consts[101];
+        tmp_name_name_3 = mod_consts[100];
         tmp_globals_arg_name_3 = (PyObject *)moduledict_cryptography$x509$ocsp;
         tmp_locals_arg_name_3 = Py_None;
         tmp_fromlist_name_3 = Py_None;
         tmp_level_name_3 = mod_consts[64];
-        frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 8;
+        frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 8;
         tmp_assign_source_6 = IMPORT_MODULE5(tmp_name_name_3, tmp_globals_arg_name_3, tmp_locals_arg_name_3, tmp_fromlist_name_3, tmp_level_name_3);
         if (tmp_assign_source_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10237,7 +10237,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[101], tmp_assign_source_6);
+        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100], tmp_assign_source_6);
     }
     {
         PyObject *tmp_assign_source_7;
@@ -10247,12 +10247,12 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_locals_arg_name_4;
         PyObject *tmp_fromlist_name_4;
         PyObject *tmp_level_name_4;
-        tmp_name_name_4 = mod_consts[102];
+        tmp_name_name_4 = mod_consts[101];
         tmp_globals_arg_name_4 = (PyObject *)moduledict_cryptography$x509$ocsp;
         tmp_locals_arg_name_4 = Py_None;
-        tmp_fromlist_name_4 = mod_consts[103];
+        tmp_fromlist_name_4 = mod_consts[102];
         tmp_level_name_4 = mod_consts[64];
-        frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 9;
+        frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 9;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_4, tmp_globals_arg_name_4, tmp_locals_arg_name_4, tmp_fromlist_name_4, tmp_level_name_4);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10268,11 +10268,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_assign_source_7 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_1,
                 (PyObject *)moduledict_cryptography$x509$ocsp,
-                mod_consts[104],
+                mod_consts[103],
                 mod_consts[64]
             );
         } else {
-            tmp_assign_source_7 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[104]);
+            tmp_assign_source_7 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[103]);
         }
 
         Py_DECREF(tmp_import_name_from_1);
@@ -10286,7 +10286,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[104], tmp_assign_source_7);
+        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[103], tmp_assign_source_7);
     }
     {
         PyObject *tmp_assign_source_8;
@@ -10296,12 +10296,12 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_locals_arg_name_5;
         PyObject *tmp_fromlist_name_5;
         PyObject *tmp_level_name_5;
-        tmp_name_name_5 = mod_consts[105];
+        tmp_name_name_5 = mod_consts[104];
         tmp_globals_arg_name_5 = (PyObject *)moduledict_cryptography$x509$ocsp;
         tmp_locals_arg_name_5 = Py_None;
-        tmp_fromlist_name_5 = mod_consts[106];
+        tmp_fromlist_name_5 = mod_consts[105];
         tmp_level_name_5 = mod_consts[64];
-        frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 11;
+        frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 11;
         tmp_import_name_from_2 = IMPORT_MODULE5(tmp_name_name_5, tmp_globals_arg_name_5, tmp_locals_arg_name_5, tmp_fromlist_name_5, tmp_level_name_5);
         if (tmp_import_name_from_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10344,12 +10344,12 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_locals_arg_name_6;
         PyObject *tmp_fromlist_name_6;
         PyObject *tmp_level_name_6;
-        tmp_name_name_6 = mod_consts[107];
+        tmp_name_name_6 = mod_consts[106];
         tmp_globals_arg_name_6 = (PyObject *)moduledict_cryptography$x509$ocsp;
         tmp_locals_arg_name_6 = Py_None;
-        tmp_fromlist_name_6 = mod_consts[108];
+        tmp_fromlist_name_6 = mod_consts[107];
         tmp_level_name_6 = mod_consts[64];
-        frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 12;
+        frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 12;
         tmp_assign_source_9 = IMPORT_MODULE5(tmp_name_name_6, tmp_globals_arg_name_6, tmp_locals_arg_name_6, tmp_fromlist_name_6, tmp_level_name_6);
         if (tmp_assign_source_9 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10374,11 +10374,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_assign_source_10 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_3,
                 (PyObject *)moduledict_cryptography$x509$ocsp,
-                mod_consts[109],
+                mod_consts[108],
                 mod_consts[64]
             );
         } else {
-            tmp_assign_source_10 = IMPORT_NAME(tmp_import_name_from_3, mod_consts[109]);
+            tmp_assign_source_10 = IMPORT_NAME(tmp_import_name_from_3, mod_consts[108]);
         }
 
         if (tmp_assign_source_10 == NULL) {
@@ -10391,7 +10391,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto try_except_handler_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109], tmp_assign_source_10);
+        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108], tmp_assign_source_10);
     }
     {
         PyObject *tmp_assign_source_11;
@@ -10402,11 +10402,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_assign_source_11 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_4,
                 (PyObject *)moduledict_cryptography$x509$ocsp,
-                mod_consts[110],
+                mod_consts[109],
                 mod_consts[64]
             );
         } else {
-            tmp_assign_source_11 = IMPORT_NAME(tmp_import_name_from_4, mod_consts[110]);
+            tmp_assign_source_11 = IMPORT_NAME(tmp_import_name_from_4, mod_consts[109]);
         }
 
         if (tmp_assign_source_11 == NULL) {
@@ -10419,7 +10419,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto try_except_handler_1;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[110], tmp_assign_source_11);
+        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109], tmp_assign_source_11);
     }
     goto try_end_1;
     // Exception handler code:
@@ -10455,12 +10455,12 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_locals_arg_name_7;
         PyObject *tmp_fromlist_name_7;
         PyObject *tmp_level_name_7;
-        tmp_name_name_7 = mod_consts[111];
+        tmp_name_name_7 = mod_consts[110];
         tmp_globals_arg_name_7 = (PyObject *)moduledict_cryptography$x509$ocsp;
         tmp_locals_arg_name_7 = Py_None;
-        tmp_fromlist_name_7 = mod_consts[112];
+        tmp_fromlist_name_7 = mod_consts[111];
         tmp_level_name_7 = mod_consts[64];
-        frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 13;
+        frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 13;
         tmp_assign_source_12 = IMPORT_MODULE5(tmp_name_name_7, tmp_globals_arg_name_7, tmp_locals_arg_name_7, tmp_fromlist_name_7, tmp_level_name_7);
         if (tmp_assign_source_12 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10513,11 +10513,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_assign_source_14 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_6,
                 (PyObject *)moduledict_cryptography$x509$ocsp,
-                mod_consts[113],
+                mod_consts[112],
                 mod_consts[64]
             );
         } else {
-            tmp_assign_source_14 = IMPORT_NAME(tmp_import_name_from_6, mod_consts[113]);
+            tmp_assign_source_14 = IMPORT_NAME(tmp_import_name_from_6, mod_consts[112]);
         }
 
         if (tmp_assign_source_14 == NULL) {
@@ -10530,7 +10530,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto try_except_handler_2;
         }
-        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[113], tmp_assign_source_14);
+        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[112], tmp_assign_source_14);
     }
     {
         PyObject *tmp_assign_source_15;
@@ -10620,11 +10620,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_dict_key_1;
         PyObject *tmp_dict_value_1;
         PyObject *tmp_called_instance_1;
-        tmp_dict_key_1 = mod_consts[114];
-        tmp_called_instance_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
+        tmp_dict_key_1 = mod_consts[113];
+        tmp_called_instance_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108]);
 
         if (unlikely(tmp_called_instance_1 == NULL)) {
-            tmp_called_instance_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
+            tmp_called_instance_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[108]);
         }
 
         if (tmp_called_instance_1 == NULL) {
@@ -10637,8 +10637,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto frame_exception_exit_1;
         }
-        frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 22;
-        tmp_dict_value_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[115]);
+        frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 22;
+        tmp_dict_value_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[114]);
         if (tmp_dict_value_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -10658,11 +10658,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_res = PyDict_SetItem(tmp_assign_source_17, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[116];
-            tmp_called_instance_2 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
+            tmp_dict_key_1 = mod_consts[115];
+            tmp_called_instance_2 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108]);
 
             if (unlikely(tmp_called_instance_2 == NULL)) {
-                tmp_called_instance_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
+                tmp_called_instance_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[108]);
             }
 
             if (tmp_called_instance_2 == NULL) {
@@ -10675,8 +10675,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
                 goto dict_build_exception_1;
             }
-            frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 23;
-            tmp_dict_value_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[117]);
+            frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 23;
+            tmp_dict_value_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[116]);
             if (tmp_dict_value_1 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -10690,11 +10690,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_res = PyDict_SetItem(tmp_assign_source_17, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[118];
-            tmp_called_instance_3 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
+            tmp_dict_key_1 = mod_consts[117];
+            tmp_called_instance_3 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108]);
 
             if (unlikely(tmp_called_instance_3 == NULL)) {
-                tmp_called_instance_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
+                tmp_called_instance_3 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[108]);
             }
 
             if (tmp_called_instance_3 == NULL) {
@@ -10707,8 +10707,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
                 goto dict_build_exception_1;
             }
-            frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 24;
-            tmp_dict_value_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_3, mod_consts[119]);
+            frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 24;
+            tmp_dict_value_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_3, mod_consts[118]);
             if (tmp_dict_value_1 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -10722,11 +10722,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_res = PyDict_SetItem(tmp_assign_source_17, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[120];
-            tmp_called_instance_4 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
+            tmp_dict_key_1 = mod_consts[119];
+            tmp_called_instance_4 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108]);
 
             if (unlikely(tmp_called_instance_4 == NULL)) {
-                tmp_called_instance_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
+                tmp_called_instance_4 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[108]);
             }
 
             if (tmp_called_instance_4 == NULL) {
@@ -10739,8 +10739,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
                 goto dict_build_exception_1;
             }
-            frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 25;
-            tmp_dict_value_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_4, mod_consts[121]);
+            frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 25;
+            tmp_dict_value_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_4, mod_consts[120]);
             if (tmp_dict_value_1 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -10754,11 +10754,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_res = PyDict_SetItem(tmp_assign_source_17, tmp_dict_key_1, tmp_dict_value_1);
             Py_DECREF(tmp_dict_value_1);
             assert(!(tmp_res != 0));
-            tmp_dict_key_1 = mod_consts[122];
-            tmp_called_instance_5 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
+            tmp_dict_key_1 = mod_consts[121];
+            tmp_called_instance_5 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108]);
 
             if (unlikely(tmp_called_instance_5 == NULL)) {
-                tmp_called_instance_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
+                tmp_called_instance_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[108]);
             }
 
             if (tmp_called_instance_5 == NULL) {
@@ -10771,8 +10771,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
                 goto dict_build_exception_1;
             }
-            frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 26;
-            tmp_dict_value_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_5, mod_consts[123]);
+            frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 26;
+            tmp_dict_value_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_5, mod_consts[122]);
             if (tmp_dict_value_1 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -10794,16 +10794,16 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         goto frame_exception_exit_1;
         // Finished with no exception for dict_build:
         dict_build_noexception_1:;
-        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[124], tmp_assign_source_17);
+        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[123], tmp_assign_source_17);
     }
     // Tried code:
     {
         PyObject *tmp_assign_source_18;
         PyObject *tmp_tuple_element_1;
-        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[104]);
+        tmp_tuple_element_1 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[103]);
 
         if (unlikely(tmp_tuple_element_1 == NULL)) {
-            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[104]);
+            tmp_tuple_element_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[103]);
         }
 
         if (tmp_tuple_element_1 == NULL) {
@@ -10865,7 +10865,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_1;
         PyObject *tmp_subscript_name_1;
         PyObject *tmp_bases_name_1;
-        tmp_key_name_1 = mod_consts[125];
+        tmp_key_name_1 = mod_consts[124];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_1 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_1, tmp_key_name_1);
@@ -10879,7 +10879,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         condexpr_true_1:;
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_2 = tmp_class_creation_1__class_decl_dict;
-        tmp_key_name_2 = mod_consts[125];
+        tmp_key_name_2 = mod_consts[124];
         tmp_metaclass_name_1 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_2, tmp_key_name_2);
         if (tmp_metaclass_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -10965,7 +10965,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         nuitka_bool tmp_condition_result_3;
         PyObject *tmp_key_name_3;
         PyObject *tmp_dict_arg_name_3;
-        tmp_key_name_3 = mod_consts[125];
+        tmp_key_name_3 = mod_consts[124];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_3 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_3, tmp_key_name_3);
@@ -10980,7 +10980,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     branch_yes_1:;
     CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_1__class_decl_dict;
-    tmp_dictdel_key = mod_consts[125];
+    tmp_dictdel_key = mod_consts[124];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -10998,7 +10998,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_2;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_2 = tmp_class_creation_1__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_2, mod_consts[126]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_2, mod_consts[125]);
         tmp_condition_result_4 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_4 == NUITKA_BOOL_TRUE) {
             goto branch_yes_2;
@@ -11016,7 +11016,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_kwargs_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_3 = tmp_class_creation_1__metaclass;
-        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[126]);
+        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_3, mod_consts[125]);
         if (tmp_called_name_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -11035,7 +11035,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyTuple_SET_ITEM0(tmp_args_name_1, 1, tmp_tuple_element_2);
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_kwargs_name_1 = tmp_class_creation_1__class_decl_dict;
-        frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 30;
+        frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 30;
         tmp_assign_source_22 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -11058,7 +11058,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_4;
         CHECK_OBJECT(tmp_class_creation_1__prepared);
         tmp_expression_name_4 = tmp_class_creation_1__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_4, mod_consts[127]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_4, mod_consts[126]);
         tmp_operand_name_1 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_1);
         if (tmp_res == -1) {
@@ -11089,11 +11089,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_getattr_attr_1;
         PyObject *tmp_getattr_default_1;
         tmp_raise_type_1 = PyExc_TypeError;
-        tmp_left_name_1 = mod_consts[128];
+        tmp_left_name_1 = mod_consts[127];
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_getattr_target_1 = tmp_class_creation_1__metaclass;
-        tmp_getattr_attr_1 = mod_consts[129];
-        tmp_getattr_default_1 = mod_consts[130];
+        tmp_getattr_attr_1 = mod_consts[128];
+        tmp_getattr_default_1 = mod_consts[129];
         tmp_tuple_element_3 = BUILTIN_GETATTR(tmp_getattr_target_1, tmp_getattr_attr_1, tmp_getattr_default_1);
         if (tmp_tuple_element_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -11114,7 +11114,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_type_arg_2 = tmp_class_creation_1__prepared;
             tmp_expression_name_5 = BUILTIN_TYPE1(tmp_type_arg_2);
             assert(!(tmp_expression_name_5 == NULL));
-            tmp_tuple_element_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_5, mod_consts[129]);
+            tmp_tuple_element_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_5, mod_consts[128]);
             Py_DECREF(tmp_expression_name_5);
             if (tmp_tuple_element_3 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -11176,8 +11176,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[131];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__1_OCSPResponderEncoding_30, mod_consts[132], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[130];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__1_OCSPResponderEncoding_30, mod_consts[131], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -11189,7 +11189,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             goto try_except_handler_5;
         }
         tmp_dictset_value = mod_consts[76];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__1_OCSPResponderEncoding_30, mod_consts[133], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__1_OCSPResponderEncoding_30, mod_consts[132], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -11200,35 +11200,35 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto try_except_handler_5;
         }
-        if (isFrameUnusable(cache_frame_d9642bbb5a0ff72e0147ac1e643a70ed_2)) {
-            Py_XDECREF(cache_frame_d9642bbb5a0ff72e0147ac1e643a70ed_2);
+        if (isFrameUnusable(cache_frame_e25dc6e1838599f423133f30952c7cab_2)) {
+            Py_XDECREF(cache_frame_e25dc6e1838599f423133f30952c7cab_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_d9642bbb5a0ff72e0147ac1e643a70ed_2 == NULL) {
+            if (cache_frame_e25dc6e1838599f423133f30952c7cab_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_d9642bbb5a0ff72e0147ac1e643a70ed_2 = MAKE_FUNCTION_FRAME(codeobj_d9642bbb5a0ff72e0147ac1e643a70ed, module_cryptography$x509$ocsp, sizeof(void *));
+            cache_frame_e25dc6e1838599f423133f30952c7cab_2 = MAKE_FUNCTION_FRAME(codeobj_e25dc6e1838599f423133f30952c7cab, module_cryptography$x509$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_d9642bbb5a0ff72e0147ac1e643a70ed_2->m_type_description == NULL);
-        frame_d9642bbb5a0ff72e0147ac1e643a70ed_2 = cache_frame_d9642bbb5a0ff72e0147ac1e643a70ed_2;
+        assert(cache_frame_e25dc6e1838599f423133f30952c7cab_2->m_type_description == NULL);
+        frame_e25dc6e1838599f423133f30952c7cab_2 = cache_frame_e25dc6e1838599f423133f30952c7cab_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_d9642bbb5a0ff72e0147ac1e643a70ed_2);
+        pushFrameStack(frame_e25dc6e1838599f423133f30952c7cab_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_d9642bbb5a0ff72e0147ac1e643a70ed_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_e25dc6e1838599f423133f30952c7cab_2) == 2); // Frame stack
 
         // Framed code:
-        tmp_dictset_value = mod_consts[134];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__1_OCSPResponderEncoding_30, mod_consts[135], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[133];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__1_OCSPResponderEncoding_30, mod_consts[134], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -11239,8 +11239,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             type_description_2 = "o";
             goto frame_exception_exit_2;
         }
-        tmp_dictset_value = mod_consts[136];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__1_OCSPResponderEncoding_30, mod_consts[137], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[135];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__1_OCSPResponderEncoding_30, mod_consts[136], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -11253,7 +11253,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_d9642bbb5a0ff72e0147ac1e643a70ed_2);
+        RESTORE_FRAME_EXCEPTION(frame_e25dc6e1838599f423133f30952c7cab_2);
 #endif
 
         // Put the previous frame back on top.
@@ -11264,35 +11264,35 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_d9642bbb5a0ff72e0147ac1e643a70ed_2);
+        RESTORE_FRAME_EXCEPTION(frame_e25dc6e1838599f423133f30952c7cab_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_d9642bbb5a0ff72e0147ac1e643a70ed_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_d9642bbb5a0ff72e0147ac1e643a70ed_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_d9642bbb5a0ff72e0147ac1e643a70ed_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_e25dc6e1838599f423133f30952c7cab_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_e25dc6e1838599f423133f30952c7cab_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_e25dc6e1838599f423133f30952c7cab_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_d9642bbb5a0ff72e0147ac1e643a70ed_2,
+            frame_e25dc6e1838599f423133f30952c7cab_2,
             type_description_2,
             outline_0_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_d9642bbb5a0ff72e0147ac1e643a70ed_2 == cache_frame_d9642bbb5a0ff72e0147ac1e643a70ed_2) {
+        if (frame_e25dc6e1838599f423133f30952c7cab_2 == cache_frame_e25dc6e1838599f423133f30952c7cab_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_d9642bbb5a0ff72e0147ac1e643a70ed_2);
-            cache_frame_d9642bbb5a0ff72e0147ac1e643a70ed_2 = NULL;
+            Py_DECREF(cache_frame_e25dc6e1838599f423133f30952c7cab_2);
+            cache_frame_e25dc6e1838599f423133f30952c7cab_2 = NULL;
         }
 
-        assertFrameObject(frame_d9642bbb5a0ff72e0147ac1e643a70ed_2);
+        assertFrameObject(frame_e25dc6e1838599f423133f30952c7cab_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -11335,7 +11335,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         branch_yes_4:;
         CHECK_OBJECT(tmp_class_creation_1__bases_orig);
         tmp_dictset_value = tmp_class_creation_1__bases_orig;
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__1_OCSPResponderEncoding_30, mod_consts[138], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__1_OCSPResponderEncoding_30, mod_consts[137], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -11365,7 +11365,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyTuple_SET_ITEM0(tmp_args_name_2, 2, tmp_tuple_element_4);
             CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
             tmp_kwargs_name_2 = tmp_class_creation_1__class_decl_dict;
-            frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 30;
+            frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 30;
             tmp_assign_source_25 = CALL_FUNCTION(tmp_called_name_2, tmp_args_name_2, tmp_kwargs_name_2);
             Py_DECREF(tmp_args_name_2);
             if (tmp_assign_source_25 == NULL) {
@@ -11495,10 +11495,10 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     {
         PyObject *tmp_assign_source_26;
         PyObject *tmp_tuple_element_5;
-        tmp_tuple_element_5 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[104]);
+        tmp_tuple_element_5 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[103]);
 
         if (unlikely(tmp_tuple_element_5 == NULL)) {
-            tmp_tuple_element_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[104]);
+            tmp_tuple_element_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[103]);
         }
 
         if (tmp_tuple_element_5 == NULL) {
@@ -11560,7 +11560,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_6;
         PyObject *tmp_subscript_name_2;
         PyObject *tmp_bases_name_2;
-        tmp_key_name_4 = mod_consts[125];
+        tmp_key_name_4 = mod_consts[124];
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_4 = tmp_class_creation_2__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_4, tmp_key_name_4);
@@ -11574,7 +11574,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         condexpr_true_3:;
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_5 = tmp_class_creation_2__class_decl_dict;
-        tmp_key_name_5 = mod_consts[125];
+        tmp_key_name_5 = mod_consts[124];
         tmp_metaclass_name_2 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_5, tmp_key_name_5);
         if (tmp_metaclass_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -11660,7 +11660,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         nuitka_bool tmp_condition_result_9;
         PyObject *tmp_key_name_6;
         PyObject *tmp_dict_arg_name_6;
-        tmp_key_name_6 = mod_consts[125];
+        tmp_key_name_6 = mod_consts[124];
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_6 = tmp_class_creation_2__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_6, tmp_key_name_6);
@@ -11675,7 +11675,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     branch_yes_5:;
     CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_2__class_decl_dict;
-    tmp_dictdel_key = mod_consts[125];
+    tmp_dictdel_key = mod_consts[124];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -11693,7 +11693,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_7;
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_expression_name_7 = tmp_class_creation_2__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_7, mod_consts[126]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_7, mod_consts[125]);
         tmp_condition_result_10 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_10 == NUITKA_BOOL_TRUE) {
             goto branch_yes_6;
@@ -11711,7 +11711,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_kwargs_name_3;
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_expression_name_8 = tmp_class_creation_2__metaclass;
-        tmp_called_name_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_8, mod_consts[126]);
+        tmp_called_name_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_8, mod_consts[125]);
         if (tmp_called_name_3 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -11730,7 +11730,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyTuple_SET_ITEM0(tmp_args_name_3, 1, tmp_tuple_element_6);
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_kwargs_name_3 = tmp_class_creation_2__class_decl_dict;
-        frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 35;
+        frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 35;
         tmp_assign_source_30 = CALL_FUNCTION(tmp_called_name_3, tmp_args_name_3, tmp_kwargs_name_3);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_name_3);
@@ -11753,7 +11753,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_9;
         CHECK_OBJECT(tmp_class_creation_2__prepared);
         tmp_expression_name_9 = tmp_class_creation_2__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_9, mod_consts[127]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_9, mod_consts[126]);
         tmp_operand_name_2 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_2);
         if (tmp_res == -1) {
@@ -11784,11 +11784,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_getattr_attr_2;
         PyObject *tmp_getattr_default_2;
         tmp_raise_type_2 = PyExc_TypeError;
-        tmp_left_name_2 = mod_consts[128];
+        tmp_left_name_2 = mod_consts[127];
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_getattr_target_2 = tmp_class_creation_2__metaclass;
-        tmp_getattr_attr_2 = mod_consts[129];
-        tmp_getattr_default_2 = mod_consts[130];
+        tmp_getattr_attr_2 = mod_consts[128];
+        tmp_getattr_default_2 = mod_consts[129];
         tmp_tuple_element_7 = BUILTIN_GETATTR(tmp_getattr_target_2, tmp_getattr_attr_2, tmp_getattr_default_2);
         if (tmp_tuple_element_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -11809,7 +11809,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_type_arg_4 = tmp_class_creation_2__prepared;
             tmp_expression_name_10 = BUILTIN_TYPE1(tmp_type_arg_4);
             assert(!(tmp_expression_name_10 == NULL));
-            tmp_tuple_element_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_10, mod_consts[129]);
+            tmp_tuple_element_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_10, mod_consts[128]);
             Py_DECREF(tmp_expression_name_10);
             if (tmp_tuple_element_7 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -11871,8 +11871,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[131];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35, mod_consts[132], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[130];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35, mod_consts[131], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -11884,7 +11884,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             goto try_except_handler_8;
         }
         tmp_dictset_value = mod_consts[87];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35, mod_consts[133], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35, mod_consts[132], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -11895,31 +11895,31 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto try_except_handler_8;
         }
-        if (isFrameUnusable(cache_frame_740527e3ffbddfd2f6a3708dc1c32171_3)) {
-            Py_XDECREF(cache_frame_740527e3ffbddfd2f6a3708dc1c32171_3);
+        if (isFrameUnusable(cache_frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3)) {
+            Py_XDECREF(cache_frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_740527e3ffbddfd2f6a3708dc1c32171_3 == NULL) {
+            if (cache_frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_740527e3ffbddfd2f6a3708dc1c32171_3 = MAKE_FUNCTION_FRAME(codeobj_740527e3ffbddfd2f6a3708dc1c32171, module_cryptography$x509$ocsp, sizeof(void *));
+            cache_frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3 = MAKE_FUNCTION_FRAME(codeobj_9ba7a8eba58823ea1e8cc2a6bb8b6efa, module_cryptography$x509$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_740527e3ffbddfd2f6a3708dc1c32171_3->m_type_description == NULL);
-        frame_740527e3ffbddfd2f6a3708dc1c32171_3 = cache_frame_740527e3ffbddfd2f6a3708dc1c32171_3;
+        assert(cache_frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3->m_type_description == NULL);
+        frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3 = cache_frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_740527e3ffbddfd2f6a3708dc1c32171_3);
+        pushFrameStack(frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_740527e3ffbddfd2f6a3708dc1c32171_3) == 2); // Frame stack
+        assert(Py_REFCNT(frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3) == 2); // Frame stack
 
         // Framed code:
         tmp_dictset_value = mod_consts[64];
@@ -11934,8 +11934,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             type_description_2 = "o";
             goto frame_exception_exit_3;
         }
-        tmp_dictset_value = mod_consts[139];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35, mod_consts[140], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[138];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35, mod_consts[139], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -11946,8 +11946,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             type_description_2 = "o";
             goto frame_exception_exit_3;
         }
-        tmp_dictset_value = mod_consts[141];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35, mod_consts[142], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[140];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35, mod_consts[141], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -11958,8 +11958,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             type_description_2 = "o";
             goto frame_exception_exit_3;
         }
-        tmp_dictset_value = mod_consts[143];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35, mod_consts[144], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[142];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35, mod_consts[143], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -11970,8 +11970,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             type_description_2 = "o";
             goto frame_exception_exit_3;
         }
-        tmp_dictset_value = mod_consts[145];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35, mod_consts[146], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[144];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35, mod_consts[145], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -11982,8 +11982,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             type_description_2 = "o";
             goto frame_exception_exit_3;
         }
-        tmp_dictset_value = mod_consts[147];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35, mod_consts[148], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[146];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35, mod_consts[147], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -11996,7 +11996,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_740527e3ffbddfd2f6a3708dc1c32171_3);
+        RESTORE_FRAME_EXCEPTION(frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3);
 #endif
 
         // Put the previous frame back on top.
@@ -12007,35 +12007,35 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         frame_exception_exit_3:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_740527e3ffbddfd2f6a3708dc1c32171_3);
+        RESTORE_FRAME_EXCEPTION(frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_740527e3ffbddfd2f6a3708dc1c32171_3, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_740527e3ffbddfd2f6a3708dc1c32171_3->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_740527e3ffbddfd2f6a3708dc1c32171_3, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_740527e3ffbddfd2f6a3708dc1c32171_3,
+            frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3,
             type_description_2,
             outline_1_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_740527e3ffbddfd2f6a3708dc1c32171_3 == cache_frame_740527e3ffbddfd2f6a3708dc1c32171_3) {
+        if (frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3 == cache_frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_740527e3ffbddfd2f6a3708dc1c32171_3);
-            cache_frame_740527e3ffbddfd2f6a3708dc1c32171_3 = NULL;
+            Py_DECREF(cache_frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3);
+            cache_frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3 = NULL;
         }
 
-        assertFrameObject(frame_740527e3ffbddfd2f6a3708dc1c32171_3);
+        assertFrameObject(frame_9ba7a8eba58823ea1e8cc2a6bb8b6efa_3);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -12078,7 +12078,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         branch_yes_8:;
         CHECK_OBJECT(tmp_class_creation_2__bases_orig);
         tmp_dictset_value = tmp_class_creation_2__bases_orig;
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35, mod_consts[138], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__2_OCSPResponseStatus_35, mod_consts[137], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -12108,7 +12108,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyTuple_SET_ITEM0(tmp_args_name_4, 2, tmp_tuple_element_8);
             CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
             tmp_kwargs_name_4 = tmp_class_creation_2__class_decl_dict;
-            frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 35;
+            frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 35;
             tmp_assign_source_33 = CALL_FUNCTION(tmp_called_name_4, tmp_args_name_4, tmp_kwargs_name_4);
             Py_DECREF(tmp_args_name_4);
             if (tmp_assign_source_33 == NULL) {
@@ -12276,31 +12276,31 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             assert(tmp_dictcontraction_1__contraction == NULL);
             tmp_dictcontraction_1__contraction = tmp_assign_source_36;
         }
-        if (isFrameUnusable(cache_frame_2a11684035e39cf780833978cdf673af_4)) {
-            Py_XDECREF(cache_frame_2a11684035e39cf780833978cdf673af_4);
+        if (isFrameUnusable(cache_frame_0659e88bc8dafebdb8dacea62a6c5a03_4)) {
+            Py_XDECREF(cache_frame_0659e88bc8dafebdb8dacea62a6c5a03_4);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_2a11684035e39cf780833978cdf673af_4 == NULL) {
+            if (cache_frame_0659e88bc8dafebdb8dacea62a6c5a03_4 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_2a11684035e39cf780833978cdf673af_4 = MAKE_FUNCTION_FRAME(codeobj_2a11684035e39cf780833978cdf673af, module_cryptography$x509$ocsp, sizeof(void *));
+            cache_frame_0659e88bc8dafebdb8dacea62a6c5a03_4 = MAKE_FUNCTION_FRAME(codeobj_0659e88bc8dafebdb8dacea62a6c5a03, module_cryptography$x509$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_2a11684035e39cf780833978cdf673af_4->m_type_description == NULL);
-        frame_2a11684035e39cf780833978cdf673af_4 = cache_frame_2a11684035e39cf780833978cdf673af_4;
+        assert(cache_frame_0659e88bc8dafebdb8dacea62a6c5a03_4->m_type_description == NULL);
+        frame_0659e88bc8dafebdb8dacea62a6c5a03_4 = cache_frame_0659e88bc8dafebdb8dacea62a6c5a03_4;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_2a11684035e39cf780833978cdf673af_4);
+        pushFrameStack(frame_0659e88bc8dafebdb8dacea62a6c5a03_4);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_2a11684035e39cf780833978cdf673af_4) == 2); // Frame stack
+        assert(Py_REFCNT(frame_0659e88bc8dafebdb8dacea62a6c5a03_4) == 2); // Frame stack
 
         // Framed code:
         // Tried code:
@@ -12350,7 +12350,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_dictset38_dict_1;
             CHECK_OBJECT(outline_2_var_x);
             tmp_expression_name_11 = outline_2_var_x;
-            tmp_dictset38_key_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_11, mod_consts[149]);
+            tmp_dictset38_key_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_11, mod_consts[148]);
             if (tmp_dictset38_key_1 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -12363,7 +12363,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             }
             if (outline_2_var_x == NULL) {
                 Py_DECREF(tmp_dictset38_key_1);
-                FORMAT_UNBOUND_LOCAL_ERROR(&exception_type, &exception_value, mod_consts[150]);
+                FORMAT_UNBOUND_LOCAL_ERROR(&exception_type, &exception_value, mod_consts[149]);
                 exception_tb = NULL;
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
@@ -12445,7 +12445,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         // End of try:
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_2a11684035e39cf780833978cdf673af_4);
+        RESTORE_FRAME_EXCEPTION(frame_0659e88bc8dafebdb8dacea62a6c5a03_4);
 #endif
 
         // Put the previous frame back on top.
@@ -12455,7 +12455,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
         frame_return_exit_1:;
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_2a11684035e39cf780833978cdf673af_4);
+        RESTORE_FRAME_EXCEPTION(frame_0659e88bc8dafebdb8dacea62a6c5a03_4);
 #endif
 
         // Put the previous frame back on top.
@@ -12466,35 +12466,35 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         frame_exception_exit_4:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_2a11684035e39cf780833978cdf673af_4);
+        RESTORE_FRAME_EXCEPTION(frame_0659e88bc8dafebdb8dacea62a6c5a03_4);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_2a11684035e39cf780833978cdf673af_4, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_2a11684035e39cf780833978cdf673af_4->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_2a11684035e39cf780833978cdf673af_4, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_0659e88bc8dafebdb8dacea62a6c5a03_4, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_0659e88bc8dafebdb8dacea62a6c5a03_4->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_0659e88bc8dafebdb8dacea62a6c5a03_4, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_2a11684035e39cf780833978cdf673af_4,
+            frame_0659e88bc8dafebdb8dacea62a6c5a03_4,
             type_description_2,
             outline_2_var_x
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_2a11684035e39cf780833978cdf673af_4 == cache_frame_2a11684035e39cf780833978cdf673af_4) {
+        if (frame_0659e88bc8dafebdb8dacea62a6c5a03_4 == cache_frame_0659e88bc8dafebdb8dacea62a6c5a03_4) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_2a11684035e39cf780833978cdf673af_4);
-            cache_frame_2a11684035e39cf780833978cdf673af_4 = NULL;
+            Py_DECREF(cache_frame_0659e88bc8dafebdb8dacea62a6c5a03_4);
+            cache_frame_0659e88bc8dafebdb8dacea62a6c5a03_4 = NULL;
         }
 
-        assertFrameObject(frame_2a11684035e39cf780833978cdf673af_4);
+        assertFrameObject(frame_0659e88bc8dafebdb8dacea62a6c5a03_4);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -12542,16 +12542,16 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         exception_lineno = 44;
         goto frame_exception_exit_1;
         outline_result_3:;
-        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[151], tmp_assign_source_34);
+        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[150], tmp_assign_source_34);
     }
     {
         PyObject *tmp_assign_source_39;
         PyObject *tmp_tuple_element_9;
         PyObject *tmp_expression_name_12;
-        tmp_expression_name_12 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
+        tmp_expression_name_12 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108]);
 
         if (unlikely(tmp_expression_name_12 == NULL)) {
-            tmp_expression_name_12 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
+            tmp_expression_name_12 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[108]);
         }
 
         if (tmp_expression_name_12 == NULL) {
@@ -12564,7 +12564,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto frame_exception_exit_1;
         }
-        tmp_tuple_element_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_12, mod_consts[115]);
+        tmp_tuple_element_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_12, mod_consts[114]);
         if (tmp_tuple_element_9 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -12582,10 +12582,10 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_expression_name_15;
             PyObject *tmp_expression_name_16;
             PyTuple_SET_ITEM(tmp_assign_source_39, 0, tmp_tuple_element_9);
-            tmp_expression_name_13 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
+            tmp_expression_name_13 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108]);
 
             if (unlikely(tmp_expression_name_13 == NULL)) {
-                tmp_expression_name_13 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
+                tmp_expression_name_13 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[108]);
             }
 
             if (tmp_expression_name_13 == NULL) {
@@ -12598,7 +12598,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
                 goto tuple_build_exception_3;
             }
-            tmp_tuple_element_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_13, mod_consts[117]);
+            tmp_tuple_element_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_13, mod_consts[116]);
             if (tmp_tuple_element_9 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -12610,10 +12610,10 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 goto tuple_build_exception_3;
             }
             PyTuple_SET_ITEM(tmp_assign_source_39, 1, tmp_tuple_element_9);
-            tmp_expression_name_14 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
+            tmp_expression_name_14 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108]);
 
             if (unlikely(tmp_expression_name_14 == NULL)) {
-                tmp_expression_name_14 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
+                tmp_expression_name_14 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[108]);
             }
 
             if (tmp_expression_name_14 == NULL) {
@@ -12626,7 +12626,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
                 goto tuple_build_exception_3;
             }
-            tmp_tuple_element_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_14, mod_consts[119]);
+            tmp_tuple_element_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_14, mod_consts[118]);
             if (tmp_tuple_element_9 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -12638,10 +12638,10 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 goto tuple_build_exception_3;
             }
             PyTuple_SET_ITEM(tmp_assign_source_39, 2, tmp_tuple_element_9);
-            tmp_expression_name_15 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
+            tmp_expression_name_15 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108]);
 
             if (unlikely(tmp_expression_name_15 == NULL)) {
-                tmp_expression_name_15 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
+                tmp_expression_name_15 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[108]);
             }
 
             if (tmp_expression_name_15 == NULL) {
@@ -12654,7 +12654,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
                 goto tuple_build_exception_3;
             }
-            tmp_tuple_element_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_15, mod_consts[121]);
+            tmp_tuple_element_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_15, mod_consts[120]);
             if (tmp_tuple_element_9 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -12666,10 +12666,10 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 goto tuple_build_exception_3;
             }
             PyTuple_SET_ITEM(tmp_assign_source_39, 3, tmp_tuple_element_9);
-            tmp_expression_name_16 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
+            tmp_expression_name_16 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108]);
 
             if (unlikely(tmp_expression_name_16 == NULL)) {
-                tmp_expression_name_16 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
+                tmp_expression_name_16 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[108]);
             }
 
             if (tmp_expression_name_16 == NULL) {
@@ -12682,7 +12682,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
                 goto tuple_build_exception_3;
             }
-            tmp_tuple_element_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_16, mod_consts[123]);
+            tmp_tuple_element_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_16, mod_consts[122]);
             if (tmp_tuple_element_9 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -12716,10 +12716,10 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     {
         PyObject *tmp_assign_source_41;
         PyObject *tmp_tuple_element_10;
-        tmp_tuple_element_10 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[104]);
+        tmp_tuple_element_10 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[103]);
 
         if (unlikely(tmp_tuple_element_10 == NULL)) {
-            tmp_tuple_element_10 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[104]);
+            tmp_tuple_element_10 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[103]);
         }
 
         if (tmp_tuple_element_10 == NULL) {
@@ -12781,7 +12781,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_17;
         PyObject *tmp_subscript_name_3;
         PyObject *tmp_bases_name_3;
-        tmp_key_name_7 = mod_consts[125];
+        tmp_key_name_7 = mod_consts[124];
         CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
         tmp_dict_arg_name_7 = tmp_class_creation_3__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_7, tmp_key_name_7);
@@ -12795,7 +12795,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         condexpr_true_5:;
         CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
         tmp_dict_arg_name_8 = tmp_class_creation_3__class_decl_dict;
-        tmp_key_name_8 = mod_consts[125];
+        tmp_key_name_8 = mod_consts[124];
         tmp_metaclass_name_3 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_8, tmp_key_name_8);
         if (tmp_metaclass_name_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -12881,7 +12881,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         nuitka_bool tmp_condition_result_15;
         PyObject *tmp_key_name_9;
         PyObject *tmp_dict_arg_name_9;
-        tmp_key_name_9 = mod_consts[125];
+        tmp_key_name_9 = mod_consts[124];
         CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
         tmp_dict_arg_name_9 = tmp_class_creation_3__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_9, tmp_key_name_9);
@@ -12896,7 +12896,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     branch_yes_9:;
     CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_3__class_decl_dict;
-    tmp_dictdel_key = mod_consts[125];
+    tmp_dictdel_key = mod_consts[124];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -12914,7 +12914,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_18;
         CHECK_OBJECT(tmp_class_creation_3__metaclass);
         tmp_expression_name_18 = tmp_class_creation_3__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_18, mod_consts[126]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_18, mod_consts[125]);
         tmp_condition_result_16 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_16 == NUITKA_BOOL_TRUE) {
             goto branch_yes_10;
@@ -12932,7 +12932,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_kwargs_name_5;
         CHECK_OBJECT(tmp_class_creation_3__metaclass);
         tmp_expression_name_19 = tmp_class_creation_3__metaclass;
-        tmp_called_name_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_19, mod_consts[126]);
+        tmp_called_name_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_19, mod_consts[125]);
         if (tmp_called_name_5 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -12951,7 +12951,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyTuple_SET_ITEM0(tmp_args_name_5, 1, tmp_tuple_element_11);
         CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
         tmp_kwargs_name_5 = tmp_class_creation_3__class_decl_dict;
-        frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 61;
+        frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 61;
         tmp_assign_source_45 = CALL_FUNCTION(tmp_called_name_5, tmp_args_name_5, tmp_kwargs_name_5);
         Py_DECREF(tmp_called_name_5);
         Py_DECREF(tmp_args_name_5);
@@ -12974,7 +12974,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_20;
         CHECK_OBJECT(tmp_class_creation_3__prepared);
         tmp_expression_name_20 = tmp_class_creation_3__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_20, mod_consts[127]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_20, mod_consts[126]);
         tmp_operand_name_3 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_3);
         if (tmp_res == -1) {
@@ -13005,11 +13005,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_getattr_attr_3;
         PyObject *tmp_getattr_default_3;
         tmp_raise_type_3 = PyExc_TypeError;
-        tmp_left_name_3 = mod_consts[128];
+        tmp_left_name_3 = mod_consts[127];
         CHECK_OBJECT(tmp_class_creation_3__metaclass);
         tmp_getattr_target_3 = tmp_class_creation_3__metaclass;
-        tmp_getattr_attr_3 = mod_consts[129];
-        tmp_getattr_default_3 = mod_consts[130];
+        tmp_getattr_attr_3 = mod_consts[128];
+        tmp_getattr_default_3 = mod_consts[129];
         tmp_tuple_element_12 = BUILTIN_GETATTR(tmp_getattr_target_3, tmp_getattr_attr_3, tmp_getattr_default_3);
         if (tmp_tuple_element_12 == NULL) {
             assert(ERROR_OCCURRED());
@@ -13030,7 +13030,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_type_arg_6 = tmp_class_creation_3__prepared;
             tmp_expression_name_21 = BUILTIN_TYPE1(tmp_type_arg_6);
             assert(!(tmp_expression_name_21 == NULL));
-            tmp_tuple_element_12 = LOOKUP_ATTRIBUTE(tmp_expression_name_21, mod_consts[129]);
+            tmp_tuple_element_12 = LOOKUP_ATTRIBUTE(tmp_expression_name_21, mod_consts[128]);
             Py_DECREF(tmp_expression_name_21);
             if (tmp_tuple_element_12 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -13092,8 +13092,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[131];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__3_OCSPCertStatus_61, mod_consts[132], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[130];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__3_OCSPCertStatus_61, mod_consts[131], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -13105,7 +13105,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             goto try_except_handler_13;
         }
         tmp_dictset_value = mod_consts[14];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__3_OCSPCertStatus_61, mod_consts[133], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__3_OCSPCertStatus_61, mod_consts[132], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -13116,35 +13116,35 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto try_except_handler_13;
         }
-        if (isFrameUnusable(cache_frame_a9f859d01a49dd2be236b8f8f6006dbd_5)) {
-            Py_XDECREF(cache_frame_a9f859d01a49dd2be236b8f8f6006dbd_5);
+        if (isFrameUnusable(cache_frame_7a9c6c03523e3c1a03770370cd80a4cc_5)) {
+            Py_XDECREF(cache_frame_7a9c6c03523e3c1a03770370cd80a4cc_5);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_a9f859d01a49dd2be236b8f8f6006dbd_5 == NULL) {
+            if (cache_frame_7a9c6c03523e3c1a03770370cd80a4cc_5 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_a9f859d01a49dd2be236b8f8f6006dbd_5 = MAKE_FUNCTION_FRAME(codeobj_a9f859d01a49dd2be236b8f8f6006dbd, module_cryptography$x509$ocsp, sizeof(void *));
+            cache_frame_7a9c6c03523e3c1a03770370cd80a4cc_5 = MAKE_FUNCTION_FRAME(codeobj_7a9c6c03523e3c1a03770370cd80a4cc, module_cryptography$x509$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_a9f859d01a49dd2be236b8f8f6006dbd_5->m_type_description == NULL);
-        frame_a9f859d01a49dd2be236b8f8f6006dbd_5 = cache_frame_a9f859d01a49dd2be236b8f8f6006dbd_5;
+        assert(cache_frame_7a9c6c03523e3c1a03770370cd80a4cc_5->m_type_description == NULL);
+        frame_7a9c6c03523e3c1a03770370cd80a4cc_5 = cache_frame_7a9c6c03523e3c1a03770370cd80a4cc_5;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_a9f859d01a49dd2be236b8f8f6006dbd_5);
+        pushFrameStack(frame_7a9c6c03523e3c1a03770370cd80a4cc_5);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_a9f859d01a49dd2be236b8f8f6006dbd_5) == 2); // Frame stack
+        assert(Py_REFCNT(frame_7a9c6c03523e3c1a03770370cd80a4cc_5) == 2); // Frame stack
 
         // Framed code:
         tmp_dictset_value = mod_consts[64];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__3_OCSPCertStatus_61, mod_consts[152], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__3_OCSPCertStatus_61, mod_consts[151], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -13155,7 +13155,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             type_description_2 = "o";
             goto frame_exception_exit_5;
         }
-        tmp_dictset_value = mod_consts[139];
+        tmp_dictset_value = mod_consts[138];
         tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__3_OCSPCertStatus_61, mod_consts[16], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -13167,8 +13167,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             type_description_2 = "o";
             goto frame_exception_exit_5;
         }
-        tmp_dictset_value = mod_consts[141];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__3_OCSPCertStatus_61, mod_consts[153], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[140];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__3_OCSPCertStatus_61, mod_consts[152], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -13181,7 +13181,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_a9f859d01a49dd2be236b8f8f6006dbd_5);
+        RESTORE_FRAME_EXCEPTION(frame_7a9c6c03523e3c1a03770370cd80a4cc_5);
 #endif
 
         // Put the previous frame back on top.
@@ -13192,35 +13192,35 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         frame_exception_exit_5:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_a9f859d01a49dd2be236b8f8f6006dbd_5);
+        RESTORE_FRAME_EXCEPTION(frame_7a9c6c03523e3c1a03770370cd80a4cc_5);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_a9f859d01a49dd2be236b8f8f6006dbd_5, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_a9f859d01a49dd2be236b8f8f6006dbd_5->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_a9f859d01a49dd2be236b8f8f6006dbd_5, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_7a9c6c03523e3c1a03770370cd80a4cc_5, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_7a9c6c03523e3c1a03770370cd80a4cc_5->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_7a9c6c03523e3c1a03770370cd80a4cc_5, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_a9f859d01a49dd2be236b8f8f6006dbd_5,
+            frame_7a9c6c03523e3c1a03770370cd80a4cc_5,
             type_description_2,
             outline_3_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_a9f859d01a49dd2be236b8f8f6006dbd_5 == cache_frame_a9f859d01a49dd2be236b8f8f6006dbd_5) {
+        if (frame_7a9c6c03523e3c1a03770370cd80a4cc_5 == cache_frame_7a9c6c03523e3c1a03770370cd80a4cc_5) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_a9f859d01a49dd2be236b8f8f6006dbd_5);
-            cache_frame_a9f859d01a49dd2be236b8f8f6006dbd_5 = NULL;
+            Py_DECREF(cache_frame_7a9c6c03523e3c1a03770370cd80a4cc_5);
+            cache_frame_7a9c6c03523e3c1a03770370cd80a4cc_5 = NULL;
         }
 
-        assertFrameObject(frame_a9f859d01a49dd2be236b8f8f6006dbd_5);
+        assertFrameObject(frame_7a9c6c03523e3c1a03770370cd80a4cc_5);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -13263,7 +13263,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         branch_yes_12:;
         CHECK_OBJECT(tmp_class_creation_3__bases_orig);
         tmp_dictset_value = tmp_class_creation_3__bases_orig;
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__3_OCSPCertStatus_61, mod_consts[138], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__3_OCSPCertStatus_61, mod_consts[137], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -13293,7 +13293,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyTuple_SET_ITEM0(tmp_args_name_6, 2, tmp_tuple_element_13);
             CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
             tmp_kwargs_name_6 = tmp_class_creation_3__class_decl_dict;
-            frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 61;
+            frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 61;
             tmp_assign_source_48 = CALL_FUNCTION(tmp_called_name_6, tmp_args_name_6, tmp_kwargs_name_6);
             Py_DECREF(tmp_args_name_6);
             if (tmp_assign_source_48 == NULL) {
@@ -13461,31 +13461,31 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             assert(tmp_dictcontraction_2__contraction == NULL);
             tmp_dictcontraction_2__contraction = tmp_assign_source_51;
         }
-        if (isFrameUnusable(cache_frame_171a46352b1e31e8f289d27840a30495_6)) {
-            Py_XDECREF(cache_frame_171a46352b1e31e8f289d27840a30495_6);
+        if (isFrameUnusable(cache_frame_a906fade75f484f4249db0d7d9f08bf7_6)) {
+            Py_XDECREF(cache_frame_a906fade75f484f4249db0d7d9f08bf7_6);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_171a46352b1e31e8f289d27840a30495_6 == NULL) {
+            if (cache_frame_a906fade75f484f4249db0d7d9f08bf7_6 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_171a46352b1e31e8f289d27840a30495_6 = MAKE_FUNCTION_FRAME(codeobj_171a46352b1e31e8f289d27840a30495, module_cryptography$x509$ocsp, sizeof(void *));
+            cache_frame_a906fade75f484f4249db0d7d9f08bf7_6 = MAKE_FUNCTION_FRAME(codeobj_a906fade75f484f4249db0d7d9f08bf7, module_cryptography$x509$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_171a46352b1e31e8f289d27840a30495_6->m_type_description == NULL);
-        frame_171a46352b1e31e8f289d27840a30495_6 = cache_frame_171a46352b1e31e8f289d27840a30495_6;
+        assert(cache_frame_a906fade75f484f4249db0d7d9f08bf7_6->m_type_description == NULL);
+        frame_a906fade75f484f4249db0d7d9f08bf7_6 = cache_frame_a906fade75f484f4249db0d7d9f08bf7_6;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_171a46352b1e31e8f289d27840a30495_6);
+        pushFrameStack(frame_a906fade75f484f4249db0d7d9f08bf7_6);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_171a46352b1e31e8f289d27840a30495_6) == 2); // Frame stack
+        assert(Py_REFCNT(frame_a906fade75f484f4249db0d7d9f08bf7_6) == 2); // Frame stack
 
         // Framed code:
         // Tried code:
@@ -13535,7 +13535,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_dictset38_dict_2;
             CHECK_OBJECT(outline_4_var_x);
             tmp_expression_name_22 = outline_4_var_x;
-            tmp_dictset38_key_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_22, mod_consts[149]);
+            tmp_dictset38_key_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_22, mod_consts[148]);
             if (tmp_dictset38_key_2 == NULL) {
                 assert(ERROR_OCCURRED());
 
@@ -13548,7 +13548,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             }
             if (outline_4_var_x == NULL) {
                 Py_DECREF(tmp_dictset38_key_2);
-                FORMAT_UNBOUND_LOCAL_ERROR(&exception_type, &exception_value, mod_consts[150]);
+                FORMAT_UNBOUND_LOCAL_ERROR(&exception_type, &exception_value, mod_consts[149]);
                 exception_tb = NULL;
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
@@ -13630,7 +13630,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         // End of try:
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_171a46352b1e31e8f289d27840a30495_6);
+        RESTORE_FRAME_EXCEPTION(frame_a906fade75f484f4249db0d7d9f08bf7_6);
 #endif
 
         // Put the previous frame back on top.
@@ -13640,7 +13640,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
         frame_return_exit_2:;
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_171a46352b1e31e8f289d27840a30495_6);
+        RESTORE_FRAME_EXCEPTION(frame_a906fade75f484f4249db0d7d9f08bf7_6);
 #endif
 
         // Put the previous frame back on top.
@@ -13651,35 +13651,35 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         frame_exception_exit_6:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_171a46352b1e31e8f289d27840a30495_6);
+        RESTORE_FRAME_EXCEPTION(frame_a906fade75f484f4249db0d7d9f08bf7_6);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_171a46352b1e31e8f289d27840a30495_6, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_171a46352b1e31e8f289d27840a30495_6->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_171a46352b1e31e8f289d27840a30495_6, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_a906fade75f484f4249db0d7d9f08bf7_6, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_a906fade75f484f4249db0d7d9f08bf7_6->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_a906fade75f484f4249db0d7d9f08bf7_6, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_171a46352b1e31e8f289d27840a30495_6,
+            frame_a906fade75f484f4249db0d7d9f08bf7_6,
             type_description_2,
             outline_4_var_x
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_171a46352b1e31e8f289d27840a30495_6 == cache_frame_171a46352b1e31e8f289d27840a30495_6) {
+        if (frame_a906fade75f484f4249db0d7d9f08bf7_6 == cache_frame_a906fade75f484f4249db0d7d9f08bf7_6) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_171a46352b1e31e8f289d27840a30495_6);
-            cache_frame_171a46352b1e31e8f289d27840a30495_6 = NULL;
+            Py_DECREF(cache_frame_a906fade75f484f4249db0d7d9f08bf7_6);
+            cache_frame_a906fade75f484f4249db0d7d9f08bf7_6 = NULL;
         }
 
-        assertFrameObject(frame_171a46352b1e31e8f289d27840a30495_6);
+        assertFrameObject(frame_a906fade75f484f4249db0d7d9f08bf7_6);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -13727,13 +13727,13 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         exception_lineno = 67;
         goto frame_exception_exit_1;
         outline_result_5:;
-        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[154], tmp_assign_source_49);
+        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[153], tmp_assign_source_49);
     }
     // Tried code:
     {
         PyObject *tmp_assign_source_54;
         PyObject *tmp_dircall_arg1_4;
-        tmp_dircall_arg1_4 = mod_consts[155];
+        tmp_dircall_arg1_4 = mod_consts[154];
         Py_INCREF(tmp_dircall_arg1_4);
 
         {
@@ -13773,7 +13773,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_23;
         PyObject *tmp_subscript_name_4;
         PyObject *tmp_bases_name_4;
-        tmp_key_name_10 = mod_consts[125];
+        tmp_key_name_10 = mod_consts[124];
         CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
         tmp_dict_arg_name_10 = tmp_class_creation_4__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_10, tmp_key_name_10);
@@ -13787,7 +13787,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         condexpr_true_7:;
         CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
         tmp_dict_arg_name_11 = tmp_class_creation_4__class_decl_dict;
-        tmp_key_name_11 = mod_consts[125];
+        tmp_key_name_11 = mod_consts[124];
         tmp_metaclass_name_4 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_11, tmp_key_name_11);
         if (tmp_metaclass_name_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -13873,7 +13873,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         nuitka_bool tmp_condition_result_21;
         PyObject *tmp_key_name_12;
         PyObject *tmp_dict_arg_name_12;
-        tmp_key_name_12 = mod_consts[125];
+        tmp_key_name_12 = mod_consts[124];
         CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
         tmp_dict_arg_name_12 = tmp_class_creation_4__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_12, tmp_key_name_12);
@@ -13888,7 +13888,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     branch_yes_13:;
     CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_4__class_decl_dict;
-    tmp_dictdel_key = mod_consts[125];
+    tmp_dictdel_key = mod_consts[124];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -13906,7 +13906,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_24;
         CHECK_OBJECT(tmp_class_creation_4__metaclass);
         tmp_expression_name_24 = tmp_class_creation_4__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_24, mod_consts[126]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_24, mod_consts[125]);
         tmp_condition_result_22 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_22 == NUITKA_BOOL_TRUE) {
             goto branch_yes_14;
@@ -13924,7 +13924,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_kwargs_name_7;
         CHECK_OBJECT(tmp_class_creation_4__metaclass);
         tmp_expression_name_25 = tmp_class_creation_4__metaclass;
-        tmp_called_name_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_25, mod_consts[126]);
+        tmp_called_name_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_25, mod_consts[125]);
         if (tmp_called_name_7 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -13943,7 +13943,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyTuple_SET_ITEM0(tmp_args_name_7, 1, tmp_tuple_element_14);
         CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
         tmp_kwargs_name_7 = tmp_class_creation_4__class_decl_dict;
-        frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 70;
+        frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 70;
         tmp_assign_source_57 = CALL_FUNCTION(tmp_called_name_7, tmp_args_name_7, tmp_kwargs_name_7);
         Py_DECREF(tmp_called_name_7);
         Py_DECREF(tmp_args_name_7);
@@ -13966,7 +13966,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_26;
         CHECK_OBJECT(tmp_class_creation_4__prepared);
         tmp_expression_name_26 = tmp_class_creation_4__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_26, mod_consts[127]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_26, mod_consts[126]);
         tmp_operand_name_4 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_4);
         if (tmp_res == -1) {
@@ -13997,11 +13997,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_getattr_attr_4;
         PyObject *tmp_getattr_default_4;
         tmp_raise_type_4 = PyExc_TypeError;
-        tmp_left_name_4 = mod_consts[128];
+        tmp_left_name_4 = mod_consts[127];
         CHECK_OBJECT(tmp_class_creation_4__metaclass);
         tmp_getattr_target_4 = tmp_class_creation_4__metaclass;
-        tmp_getattr_attr_4 = mod_consts[129];
-        tmp_getattr_default_4 = mod_consts[130];
+        tmp_getattr_attr_4 = mod_consts[128];
+        tmp_getattr_default_4 = mod_consts[129];
         tmp_tuple_element_15 = BUILTIN_GETATTR(tmp_getattr_target_4, tmp_getattr_attr_4, tmp_getattr_default_4);
         if (tmp_tuple_element_15 == NULL) {
             assert(ERROR_OCCURRED());
@@ -14022,7 +14022,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_type_arg_8 = tmp_class_creation_4__prepared;
             tmp_expression_name_27 = BUILTIN_TYPE1(tmp_type_arg_8);
             assert(!(tmp_expression_name_27 == NULL));
-            tmp_tuple_element_15 = LOOKUP_ATTRIBUTE(tmp_expression_name_27, mod_consts[129]);
+            tmp_tuple_element_15 = LOOKUP_ATTRIBUTE(tmp_expression_name_27, mod_consts[128]);
             Py_DECREF(tmp_expression_name_27);
             if (tmp_tuple_element_15 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -14084,8 +14084,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[131];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__4__SingleResponse_70, mod_consts[132], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[130];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__4__SingleResponse_70, mod_consts[131], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -14097,7 +14097,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             goto try_except_handler_18;
         }
         tmp_dictset_value = mod_consts[72];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__4__SingleResponse_70, mod_consts[133], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__4__SingleResponse_70, mod_consts[132], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -14108,38 +14108,38 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto try_except_handler_18;
         }
-        if (isFrameUnusable(cache_frame_b7758a0574d2d8110f49538d568aaf41_7)) {
-            Py_XDECREF(cache_frame_b7758a0574d2d8110f49538d568aaf41_7);
+        if (isFrameUnusable(cache_frame_4f7cd561148baeb971940cac1e34735d_7)) {
+            Py_XDECREF(cache_frame_4f7cd561148baeb971940cac1e34735d_7);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_b7758a0574d2d8110f49538d568aaf41_7 == NULL) {
+            if (cache_frame_4f7cd561148baeb971940cac1e34735d_7 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_b7758a0574d2d8110f49538d568aaf41_7 = MAKE_FUNCTION_FRAME(codeobj_b7758a0574d2d8110f49538d568aaf41, module_cryptography$x509$ocsp, sizeof(void *));
+            cache_frame_4f7cd561148baeb971940cac1e34735d_7 = MAKE_FUNCTION_FRAME(codeobj_4f7cd561148baeb971940cac1e34735d, module_cryptography$x509$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_b7758a0574d2d8110f49538d568aaf41_7->m_type_description == NULL);
-        frame_b7758a0574d2d8110f49538d568aaf41_7 = cache_frame_b7758a0574d2d8110f49538d568aaf41_7;
+        assert(cache_frame_4f7cd561148baeb971940cac1e34735d_7->m_type_description == NULL);
+        frame_4f7cd561148baeb971940cac1e34735d_7 = cache_frame_4f7cd561148baeb971940cac1e34735d_7;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_b7758a0574d2d8110f49538d568aaf41_7);
+        pushFrameStack(frame_4f7cd561148baeb971940cac1e34735d_7);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_b7758a0574d2d8110f49538d568aaf41_7) == 2); // Frame stack
+        assert(Py_REFCNT(frame_4f7cd561148baeb971940cac1e34735d_7) == 2); // Frame stack
 
         // Framed code:
 
 
         tmp_dictset_value = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__2___init__();
 
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__4__SingleResponse_70, mod_consts[156], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__4__SingleResponse_70, mod_consts[155], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -14153,7 +14153,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_b7758a0574d2d8110f49538d568aaf41_7);
+        RESTORE_FRAME_EXCEPTION(frame_4f7cd561148baeb971940cac1e34735d_7);
 #endif
 
         // Put the previous frame back on top.
@@ -14164,35 +14164,35 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         frame_exception_exit_7:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_b7758a0574d2d8110f49538d568aaf41_7);
+        RESTORE_FRAME_EXCEPTION(frame_4f7cd561148baeb971940cac1e34735d_7);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_b7758a0574d2d8110f49538d568aaf41_7, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_b7758a0574d2d8110f49538d568aaf41_7->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_b7758a0574d2d8110f49538d568aaf41_7, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_4f7cd561148baeb971940cac1e34735d_7, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_4f7cd561148baeb971940cac1e34735d_7->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_4f7cd561148baeb971940cac1e34735d_7, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_b7758a0574d2d8110f49538d568aaf41_7,
+            frame_4f7cd561148baeb971940cac1e34735d_7,
             type_description_2,
             outline_5_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_b7758a0574d2d8110f49538d568aaf41_7 == cache_frame_b7758a0574d2d8110f49538d568aaf41_7) {
+        if (frame_4f7cd561148baeb971940cac1e34735d_7 == cache_frame_4f7cd561148baeb971940cac1e34735d_7) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_b7758a0574d2d8110f49538d568aaf41_7);
-            cache_frame_b7758a0574d2d8110f49538d568aaf41_7 = NULL;
+            Py_DECREF(cache_frame_4f7cd561148baeb971940cac1e34735d_7);
+            cache_frame_4f7cd561148baeb971940cac1e34735d_7 = NULL;
         }
 
-        assertFrameObject(frame_b7758a0574d2d8110f49538d568aaf41_7);
+        assertFrameObject(frame_4f7cd561148baeb971940cac1e34735d_7);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -14212,7 +14212,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_compexpr_right_4;
             CHECK_OBJECT(tmp_class_creation_4__bases);
             tmp_compexpr_left_4 = tmp_class_creation_4__bases;
-            tmp_compexpr_right_4 = mod_consts[155];
+            tmp_compexpr_right_4 = mod_consts[154];
             tmp_condition_result_24 = RICH_COMPARE_NE_NBOOL_OBJECT_TUPLE(tmp_compexpr_left_4, tmp_compexpr_right_4);
             if (tmp_condition_result_24 == NUITKA_BOOL_EXCEPTION) {
                 assert(ERROR_OCCURRED());
@@ -14232,8 +14232,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             assert(tmp_condition_result_24 != NUITKA_BOOL_UNASSIGNED);
         }
         branch_yes_16:;
-        tmp_dictset_value = mod_consts[155];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__4__SingleResponse_70, mod_consts[138], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[154];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__4__SingleResponse_70, mod_consts[137], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -14263,7 +14263,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyTuple_SET_ITEM0(tmp_args_name_8, 2, tmp_tuple_element_16);
             CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
             tmp_kwargs_name_8 = tmp_class_creation_4__class_decl_dict;
-            frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 70;
+            frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 70;
             tmp_assign_source_60 = CALL_FUNCTION(tmp_called_name_8, tmp_args_name_8, tmp_kwargs_name_8);
             Py_DECREF(tmp_args_name_8);
             if (tmp_assign_source_60 == NULL) {
@@ -14390,11 +14390,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_dict_key_2;
         PyObject *tmp_dict_value_2;
         PyObject *tmp_expression_name_28;
-        tmp_dict_key_2 = mod_consts[125];
-        tmp_expression_name_28 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+        tmp_dict_key_2 = mod_consts[124];
+        tmp_expression_name_28 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
         if (unlikely(tmp_expression_name_28 == NULL)) {
-            tmp_expression_name_28 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+            tmp_expression_name_28 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
         }
 
         if (tmp_expression_name_28 == NULL) {
@@ -14407,7 +14407,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto try_except_handler_19;
         }
-        tmp_dict_value_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_28, mod_consts[158]);
+        tmp_dict_value_2 = LOOKUP_ATTRIBUTE(tmp_expression_name_28, mod_consts[157]);
         if (tmp_dict_value_2 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -14434,7 +14434,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_dict_arg_name_14;
         PyObject *tmp_key_name_14;
         PyObject *tmp_bases_name_5;
-        tmp_key_name_13 = mod_consts[125];
+        tmp_key_name_13 = mod_consts[124];
         CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
         tmp_dict_arg_name_13 = tmp_class_creation_5__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_13, tmp_key_name_13);
@@ -14448,7 +14448,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         condexpr_true_9:;
         CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
         tmp_dict_arg_name_14 = tmp_class_creation_5__class_decl_dict;
-        tmp_key_name_14 = mod_consts[125];
+        tmp_key_name_14 = mod_consts[124];
         tmp_metaclass_name_5 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_14, tmp_key_name_14);
         if (tmp_metaclass_name_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -14465,7 +14465,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         tmp_metaclass_name_5 = (PyObject *)&PyType_Type;
         Py_INCREF(tmp_metaclass_name_5);
         condexpr_end_9:;
-        tmp_bases_name_5 = mod_consts[159];
+        tmp_bases_name_5 = mod_consts[158];
         tmp_assign_source_62 = SELECT_METACLASS(tmp_metaclass_name_5, tmp_bases_name_5);
         Py_DECREF(tmp_metaclass_name_5);
         if (tmp_assign_source_62 == NULL) {
@@ -14485,7 +14485,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         nuitka_bool tmp_condition_result_26;
         PyObject *tmp_key_name_15;
         PyObject *tmp_dict_arg_name_15;
-        tmp_key_name_15 = mod_consts[125];
+        tmp_key_name_15 = mod_consts[124];
         CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
         tmp_dict_arg_name_15 = tmp_class_creation_5__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_15, tmp_key_name_15);
@@ -14500,7 +14500,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     branch_yes_17:;
     CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_5__class_decl_dict;
-    tmp_dictdel_key = mod_consts[125];
+    tmp_dictdel_key = mod_consts[124];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -14518,7 +14518,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_29;
         CHECK_OBJECT(tmp_class_creation_5__metaclass);
         tmp_expression_name_29 = tmp_class_creation_5__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_29, mod_consts[126]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_29, mod_consts[125]);
         tmp_condition_result_27 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_27 == NUITKA_BOOL_TRUE) {
             goto branch_yes_18;
@@ -14535,7 +14535,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_kwargs_name_9;
         CHECK_OBJECT(tmp_class_creation_5__metaclass);
         tmp_expression_name_30 = tmp_class_creation_5__metaclass;
-        tmp_called_name_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_30, mod_consts[126]);
+        tmp_called_name_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_30, mod_consts[125]);
         if (tmp_called_name_9 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -14546,10 +14546,10 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto try_except_handler_19;
         }
-        tmp_args_name_9 = mod_consts[160];
+        tmp_args_name_9 = mod_consts[159];
         CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
         tmp_kwargs_name_9 = tmp_class_creation_5__class_decl_dict;
-        frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 140;
+        frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 140;
         tmp_assign_source_63 = CALL_FUNCTION(tmp_called_name_9, tmp_args_name_9, tmp_kwargs_name_9);
         Py_DECREF(tmp_called_name_9);
         if (tmp_assign_source_63 == NULL) {
@@ -14571,7 +14571,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_31;
         CHECK_OBJECT(tmp_class_creation_5__prepared);
         tmp_expression_name_31 = tmp_class_creation_5__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_31, mod_consts[127]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_31, mod_consts[126]);
         tmp_operand_name_5 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_5);
         if (tmp_res == -1) {
@@ -14602,11 +14602,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_getattr_attr_5;
         PyObject *tmp_getattr_default_5;
         tmp_raise_type_5 = PyExc_TypeError;
-        tmp_left_name_5 = mod_consts[128];
+        tmp_left_name_5 = mod_consts[127];
         CHECK_OBJECT(tmp_class_creation_5__metaclass);
         tmp_getattr_target_5 = tmp_class_creation_5__metaclass;
-        tmp_getattr_attr_5 = mod_consts[129];
-        tmp_getattr_default_5 = mod_consts[130];
+        tmp_getattr_attr_5 = mod_consts[128];
+        tmp_getattr_default_5 = mod_consts[129];
         tmp_tuple_element_17 = BUILTIN_GETATTR(tmp_getattr_target_5, tmp_getattr_attr_5, tmp_getattr_default_5);
         if (tmp_tuple_element_17 == NULL) {
             assert(ERROR_OCCURRED());
@@ -14627,7 +14627,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_type_arg_9 = tmp_class_creation_5__prepared;
             tmp_expression_name_32 = BUILTIN_TYPE1(tmp_type_arg_9);
             assert(!(tmp_expression_name_32 == NULL));
-            tmp_tuple_element_17 = LOOKUP_ATTRIBUTE(tmp_expression_name_32, mod_consts[129]);
+            tmp_tuple_element_17 = LOOKUP_ATTRIBUTE(tmp_expression_name_32, mod_consts[128]);
             Py_DECREF(tmp_expression_name_32);
             if (tmp_tuple_element_17 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -14689,7 +14689,19 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[131];
+        tmp_dictset_value = mod_consts[130];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[131], tmp_dictset_value);
+        if (tmp_res != 0) {
+            assert(ERROR_OCCURRED());
+
+            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+            exception_lineno = 140;
+
+            goto try_except_handler_21;
+        }
+        tmp_dictset_value = mod_consts[160];
         tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[132], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -14701,43 +14713,31 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto try_except_handler_21;
         }
-        tmp_dictset_value = mod_consts[161];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[133], tmp_dictset_value);
-        if (tmp_res != 0) {
-            assert(ERROR_OCCURRED());
-
-            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
-
-
-            exception_lineno = 140;
-
-            goto try_except_handler_21;
-        }
-        if (isFrameUnusable(cache_frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8)) {
-            Py_XDECREF(cache_frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8);
+        if (isFrameUnusable(cache_frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8)) {
+            Py_XDECREF(cache_frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8 == NULL) {
+            if (cache_frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8 = MAKE_FUNCTION_FRAME(codeobj_ad1c6dd82cbefa0ef6ac3ab309f7c2c8, module_cryptography$x509$ocsp, sizeof(void *));
+            cache_frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8 = MAKE_FUNCTION_FRAME(codeobj_fcdfc7103023dba79a1d9c8ee91e3f7b, module_cryptography$x509$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8->m_type_description == NULL);
-        frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8 = cache_frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8;
+        assert(cache_frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8->m_type_description == NULL);
+        frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8 = cache_frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8);
+        pushFrameStack(frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8) == 2); // Frame stack
+        assert(Py_REFCNT(frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8) == 2); // Frame stack
 
         // Framed code:
         {
@@ -14747,14 +14747,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_annotations_1;
             PyObject *tmp_dict_key_3;
             PyObject *tmp_dict_value_3;
-            tmp_expression_name_33 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[100]);
+            tmp_expression_name_33 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[99]);
 
             if (tmp_expression_name_33 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_33 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_33 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_33 == NULL)) {
-                        tmp_expression_name_33 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_33 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_33 == NULL) {
@@ -14771,7 +14771,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_10 = LOOKUP_ATTRIBUTE(tmp_expression_name_33, mod_consts[162]);
+            tmp_called_name_10 = LOOKUP_ATTRIBUTE(tmp_expression_name_33, mod_consts[161]);
             Py_DECREF(tmp_expression_name_33);
             if (tmp_called_name_10 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -14783,8 +14783,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_8;
             }
-            tmp_dict_key_3 = mod_consts[163];
-            tmp_dict_value_3 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[164]);
+            tmp_dict_key_3 = mod_consts[162];
+            tmp_dict_value_3 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[163]);
 
             if (tmp_dict_value_3 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -14801,7 +14801,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_1 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__3_issuer_key_hash(tmp_annotations_1);
 
-            frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8->m_frame.f_lineno = 141;
+            frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8->m_frame.f_lineno = 141;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_10, tmp_args_element_name_1);
             Py_DECREF(tmp_called_name_10);
             Py_DECREF(tmp_args_element_name_1);
@@ -14815,7 +14815,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_8;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[165], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[164], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -14835,14 +14835,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_annotations_2;
             PyObject *tmp_dict_key_4;
             PyObject *tmp_dict_value_4;
-            tmp_expression_name_34 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[100]);
+            tmp_expression_name_34 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[99]);
 
             if (tmp_expression_name_34 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_34 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_34 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_34 == NULL)) {
-                        tmp_expression_name_34 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_34 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_34 == NULL) {
@@ -14859,7 +14859,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_11 = LOOKUP_ATTRIBUTE(tmp_expression_name_34, mod_consts[162]);
+            tmp_called_name_11 = LOOKUP_ATTRIBUTE(tmp_expression_name_34, mod_consts[161]);
             Py_DECREF(tmp_expression_name_34);
             if (tmp_called_name_11 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -14871,8 +14871,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_8;
             }
-            tmp_dict_key_4 = mod_consts[163];
-            tmp_dict_value_4 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[164]);
+            tmp_dict_key_4 = mod_consts[162];
+            tmp_dict_value_4 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[163]);
 
             if (tmp_dict_value_4 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -14889,7 +14889,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_2 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__4_issuer_name_hash(tmp_annotations_2);
 
-            frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8->m_frame.f_lineno = 147;
+            frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8->m_frame.f_lineno = 147;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_11, tmp_args_element_name_2);
             Py_DECREF(tmp_called_name_11);
             Py_DECREF(tmp_args_element_name_2);
@@ -14903,7 +14903,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_8;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[167], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[166], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -14924,14 +14924,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_dict_key_5;
             PyObject *tmp_dict_value_5;
             PyObject *tmp_expression_name_36;
-            tmp_expression_name_35 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[100]);
+            tmp_expression_name_35 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[99]);
 
             if (tmp_expression_name_35 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_35 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_35 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_35 == NULL)) {
-                        tmp_expression_name_35 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_35 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_35 == NULL) {
@@ -14948,7 +14948,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_12 = LOOKUP_ATTRIBUTE(tmp_expression_name_35, mod_consts[162]);
+            tmp_called_name_12 = LOOKUP_ATTRIBUTE(tmp_expression_name_35, mod_consts[161]);
             Py_DECREF(tmp_expression_name_35);
             if (tmp_called_name_12 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -14960,15 +14960,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_8;
             }
-            tmp_dict_key_5 = mod_consts[163];
-            tmp_expression_name_36 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[109]);
+            tmp_dict_key_5 = mod_consts[162];
+            tmp_expression_name_36 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[108]);
 
             if (tmp_expression_name_36 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_36 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
+                    tmp_expression_name_36 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108]);
 
                     if (unlikely(tmp_expression_name_36 == NULL)) {
-                        tmp_expression_name_36 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
+                        tmp_expression_name_36 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[108]);
                     }
 
                     if (tmp_expression_name_36 == NULL) {
@@ -14985,7 +14985,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_dict_value_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_36, mod_consts[169]);
+            tmp_dict_value_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_36, mod_consts[168]);
             Py_DECREF(tmp_expression_name_36);
             if (tmp_dict_value_5 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -15005,7 +15005,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_3 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__5_hash_algorithm(tmp_annotations_3);
 
-            frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8->m_frame.f_lineno = 153;
+            frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8->m_frame.f_lineno = 153;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_12, tmp_args_element_name_3);
             Py_DECREF(tmp_called_name_12);
             Py_DECREF(tmp_args_element_name_3);
@@ -15019,7 +15019,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_8;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[170], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[169], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -15039,14 +15039,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_annotations_4;
             PyObject *tmp_dict_key_6;
             PyObject *tmp_dict_value_6;
-            tmp_expression_name_37 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[100]);
+            tmp_expression_name_37 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[99]);
 
             if (tmp_expression_name_37 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_37 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_37 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_37 == NULL)) {
-                        tmp_expression_name_37 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_37 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_37 == NULL) {
@@ -15063,7 +15063,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_13 = LOOKUP_ATTRIBUTE(tmp_expression_name_37, mod_consts[162]);
+            tmp_called_name_13 = LOOKUP_ATTRIBUTE(tmp_expression_name_37, mod_consts[161]);
             Py_DECREF(tmp_expression_name_37);
             if (tmp_called_name_13 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -15075,8 +15075,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_8;
             }
-            tmp_dict_key_6 = mod_consts[163];
-            tmp_dict_value_6 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[172]);
+            tmp_dict_key_6 = mod_consts[162];
+            tmp_dict_value_6 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[171]);
 
             if (tmp_dict_value_6 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -15093,7 +15093,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_4 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__6_serial_number(tmp_annotations_4);
 
-            frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8->m_frame.f_lineno = 159;
+            frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8->m_frame.f_lineno = 159;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_13, tmp_args_element_name_4);
             Py_DECREF(tmp_called_name_13);
             Py_DECREF(tmp_args_element_name_4);
@@ -15107,7 +15107,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_8;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[173], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[172], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -15128,14 +15128,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_dict_key_7;
             PyObject *tmp_dict_value_7;
             PyObject *tmp_expression_name_39;
-            tmp_expression_name_38 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[100]);
+            tmp_expression_name_38 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[99]);
 
             if (tmp_expression_name_38 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_38 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_38 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_38 == NULL)) {
-                        tmp_expression_name_38 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_38 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_38 == NULL) {
@@ -15152,7 +15152,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_14 = LOOKUP_ATTRIBUTE(tmp_expression_name_38, mod_consts[175]);
+            tmp_called_name_14 = LOOKUP_ATTRIBUTE(tmp_expression_name_38, mod_consts[174]);
             Py_DECREF(tmp_expression_name_38);
             if (tmp_called_name_14 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -15164,15 +15164,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_8;
             }
-            tmp_dict_key_7 = mod_consts[176];
-            tmp_expression_name_39 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[110]);
+            tmp_dict_key_7 = mod_consts[175];
+            tmp_expression_name_39 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[109]);
 
             if (tmp_expression_name_39 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_39 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[110]);
+                    tmp_expression_name_39 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
 
                     if (unlikely(tmp_expression_name_39 == NULL)) {
-                        tmp_expression_name_39 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[110]);
+                        tmp_expression_name_39 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
                     }
 
                     if (tmp_expression_name_39 == NULL) {
@@ -15189,7 +15189,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_dict_value_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_39, mod_consts[177]);
+            tmp_dict_value_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_39, mod_consts[176]);
             Py_DECREF(tmp_expression_name_39);
             if (tmp_dict_value_7 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -15205,8 +15205,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_res = PyDict_SetItem(tmp_annotations_5, tmp_dict_key_7, tmp_dict_value_7);
             Py_DECREF(tmp_dict_value_7);
             assert(!(tmp_res != 0));
-            tmp_dict_key_7 = mod_consts[163];
-            tmp_dict_value_7 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[164]);
+            tmp_dict_key_7 = mod_consts[162];
+            tmp_dict_value_7 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[163]);
 
             if (tmp_dict_value_7 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -15222,7 +15222,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_5 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__7_public_bytes(tmp_annotations_5);
 
-            frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8->m_frame.f_lineno = 165;
+            frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8->m_frame.f_lineno = 165;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_14, tmp_args_element_name_5);
             Py_DECREF(tmp_called_name_14);
             Py_DECREF(tmp_args_element_name_5);
@@ -15236,7 +15236,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_8;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[178], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[177], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -15257,14 +15257,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_dict_key_8;
             PyObject *tmp_dict_value_8;
             PyObject *tmp_expression_name_41;
-            tmp_expression_name_40 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[100]);
+            tmp_expression_name_40 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[99]);
 
             if (tmp_expression_name_40 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_40 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_40 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_40 == NULL)) {
-                        tmp_expression_name_40 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_40 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_40 == NULL) {
@@ -15281,7 +15281,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_15 = LOOKUP_ATTRIBUTE(tmp_expression_name_40, mod_consts[162]);
+            tmp_called_name_15 = LOOKUP_ATTRIBUTE(tmp_expression_name_40, mod_consts[161]);
             Py_DECREF(tmp_expression_name_40);
             if (tmp_called_name_15 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -15293,7 +15293,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_8;
             }
-            tmp_dict_key_8 = mod_consts[163];
+            tmp_dict_key_8 = mod_consts[162];
             tmp_expression_name_41 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[2]);
 
             if (tmp_expression_name_41 == NULL) {
@@ -15318,7 +15318,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_dict_value_8 = LOOKUP_ATTRIBUTE(tmp_expression_name_41, mod_consts[180]);
+            tmp_dict_value_8 = LOOKUP_ATTRIBUTE(tmp_expression_name_41, mod_consts[179]);
             Py_DECREF(tmp_expression_name_41);
             if (tmp_dict_value_8 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -15338,7 +15338,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_6 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__8_extensions(tmp_annotations_6);
 
-            frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8->m_frame.f_lineno = 171;
+            frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8->m_frame.f_lineno = 171;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_15, tmp_args_element_name_6);
             Py_DECREF(tmp_called_name_15);
             Py_DECREF(tmp_args_element_name_6);
@@ -15352,7 +15352,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_8;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[181], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140, mod_consts[180], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -15367,7 +15367,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8);
+        RESTORE_FRAME_EXCEPTION(frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8);
 #endif
 
         // Put the previous frame back on top.
@@ -15378,35 +15378,35 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         frame_exception_exit_8:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8);
+        RESTORE_FRAME_EXCEPTION(frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8,
+            frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8,
             type_description_2,
             outline_6_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8 == cache_frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8) {
+        if (frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8 == cache_frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8);
-            cache_frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8 = NULL;
+            Py_DECREF(cache_frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8);
+            cache_frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8 = NULL;
         }
 
-        assertFrameObject(frame_ad1c6dd82cbefa0ef6ac3ab309f7c2c8_8);
+        assertFrameObject(frame_fcdfc7103023dba79a1d9c8ee91e3f7b_8);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -15428,16 +15428,16 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_kwargs_name_10;
             CHECK_OBJECT(tmp_class_creation_5__metaclass);
             tmp_called_name_16 = tmp_class_creation_5__metaclass;
-            tmp_tuple_element_18 = mod_consts[161];
+            tmp_tuple_element_18 = mod_consts[160];
             tmp_args_name_10 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_args_name_10, 0, tmp_tuple_element_18);
-            tmp_tuple_element_18 = mod_consts[159];
+            tmp_tuple_element_18 = mod_consts[158];
             PyTuple_SET_ITEM0(tmp_args_name_10, 1, tmp_tuple_element_18);
             tmp_tuple_element_18 = locals_cryptography$x509$ocsp$$$class__5_OCSPRequest_140;
             PyTuple_SET_ITEM0(tmp_args_name_10, 2, tmp_tuple_element_18);
             CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
             tmp_kwargs_name_10 = tmp_class_creation_5__class_decl_dict;
-            frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 140;
+            frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 140;
             tmp_assign_source_66 = CALL_FUNCTION(tmp_called_name_16, tmp_args_name_10, tmp_kwargs_name_10);
             Py_DECREF(tmp_args_name_10);
             if (tmp_assign_source_66 == NULL) {
@@ -15518,7 +15518,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         exception_lineno = 140;
         goto try_except_handler_19;
         outline_result_7:;
-        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[161], tmp_assign_source_65);
+        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[160], tmp_assign_source_65);
     }
     goto try_end_7;
     // Exception handler code:
@@ -15560,11 +15560,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_dict_key_9;
         PyObject *tmp_dict_value_9;
         PyObject *tmp_expression_name_42;
-        tmp_dict_key_9 = mod_consts[125];
-        tmp_expression_name_42 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+        tmp_dict_key_9 = mod_consts[124];
+        tmp_expression_name_42 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
         if (unlikely(tmp_expression_name_42 == NULL)) {
-            tmp_expression_name_42 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+            tmp_expression_name_42 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
         }
 
         if (tmp_expression_name_42 == NULL) {
@@ -15577,7 +15577,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto try_except_handler_22;
         }
-        tmp_dict_value_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_42, mod_consts[158]);
+        tmp_dict_value_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_42, mod_consts[157]);
         if (tmp_dict_value_9 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -15604,7 +15604,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_dict_arg_name_17;
         PyObject *tmp_key_name_17;
         PyObject *tmp_bases_name_6;
-        tmp_key_name_16 = mod_consts[125];
+        tmp_key_name_16 = mod_consts[124];
         CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
         tmp_dict_arg_name_16 = tmp_class_creation_6__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_16, tmp_key_name_16);
@@ -15618,7 +15618,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         condexpr_true_10:;
         CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
         tmp_dict_arg_name_17 = tmp_class_creation_6__class_decl_dict;
-        tmp_key_name_17 = mod_consts[125];
+        tmp_key_name_17 = mod_consts[124];
         tmp_metaclass_name_6 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_17, tmp_key_name_17);
         if (tmp_metaclass_name_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -15635,7 +15635,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         tmp_metaclass_name_6 = (PyObject *)&PyType_Type;
         Py_INCREF(tmp_metaclass_name_6);
         condexpr_end_10:;
-        tmp_bases_name_6 = mod_consts[159];
+        tmp_bases_name_6 = mod_consts[158];
         tmp_assign_source_68 = SELECT_METACLASS(tmp_metaclass_name_6, tmp_bases_name_6);
         Py_DECREF(tmp_metaclass_name_6);
         if (tmp_assign_source_68 == NULL) {
@@ -15655,7 +15655,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         nuitka_bool tmp_condition_result_30;
         PyObject *tmp_key_name_18;
         PyObject *tmp_dict_arg_name_18;
-        tmp_key_name_18 = mod_consts[125];
+        tmp_key_name_18 = mod_consts[124];
         CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
         tmp_dict_arg_name_18 = tmp_class_creation_6__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_18, tmp_key_name_18);
@@ -15670,7 +15670,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     branch_yes_20:;
     CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_6__class_decl_dict;
-    tmp_dictdel_key = mod_consts[125];
+    tmp_dictdel_key = mod_consts[124];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -15688,7 +15688,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_43;
         CHECK_OBJECT(tmp_class_creation_6__metaclass);
         tmp_expression_name_43 = tmp_class_creation_6__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_43, mod_consts[126]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_43, mod_consts[125]);
         tmp_condition_result_31 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_31 == NUITKA_BOOL_TRUE) {
             goto branch_yes_21;
@@ -15705,7 +15705,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_kwargs_name_11;
         CHECK_OBJECT(tmp_class_creation_6__metaclass);
         tmp_expression_name_44 = tmp_class_creation_6__metaclass;
-        tmp_called_name_17 = LOOKUP_ATTRIBUTE(tmp_expression_name_44, mod_consts[126]);
+        tmp_called_name_17 = LOOKUP_ATTRIBUTE(tmp_expression_name_44, mod_consts[125]);
         if (tmp_called_name_17 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -15716,10 +15716,10 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto try_except_handler_22;
         }
-        tmp_args_name_11 = mod_consts[183];
+        tmp_args_name_11 = mod_consts[182];
         CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
         tmp_kwargs_name_11 = tmp_class_creation_6__class_decl_dict;
-        frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 178;
+        frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 178;
         tmp_assign_source_69 = CALL_FUNCTION(tmp_called_name_17, tmp_args_name_11, tmp_kwargs_name_11);
         Py_DECREF(tmp_called_name_17);
         if (tmp_assign_source_69 == NULL) {
@@ -15741,7 +15741,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_45;
         CHECK_OBJECT(tmp_class_creation_6__prepared);
         tmp_expression_name_45 = tmp_class_creation_6__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_45, mod_consts[127]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_45, mod_consts[126]);
         tmp_operand_name_6 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_6);
         if (tmp_res == -1) {
@@ -15772,11 +15772,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_getattr_attr_6;
         PyObject *tmp_getattr_default_6;
         tmp_raise_type_6 = PyExc_TypeError;
-        tmp_left_name_6 = mod_consts[128];
+        tmp_left_name_6 = mod_consts[127];
         CHECK_OBJECT(tmp_class_creation_6__metaclass);
         tmp_getattr_target_6 = tmp_class_creation_6__metaclass;
-        tmp_getattr_attr_6 = mod_consts[129];
-        tmp_getattr_default_6 = mod_consts[130];
+        tmp_getattr_attr_6 = mod_consts[128];
+        tmp_getattr_default_6 = mod_consts[129];
         tmp_tuple_element_19 = BUILTIN_GETATTR(tmp_getattr_target_6, tmp_getattr_attr_6, tmp_getattr_default_6);
         if (tmp_tuple_element_19 == NULL) {
             assert(ERROR_OCCURRED());
@@ -15797,7 +15797,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_type_arg_10 = tmp_class_creation_6__prepared;
             tmp_expression_name_46 = BUILTIN_TYPE1(tmp_type_arg_10);
             assert(!(tmp_expression_name_46 == NULL));
-            tmp_tuple_element_19 = LOOKUP_ATTRIBUTE(tmp_expression_name_46, mod_consts[129]);
+            tmp_tuple_element_19 = LOOKUP_ATTRIBUTE(tmp_expression_name_46, mod_consts[128]);
             Py_DECREF(tmp_expression_name_46);
             if (tmp_tuple_element_19 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -15859,7 +15859,19 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[131];
+        tmp_dictset_value = mod_consts[130];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[131], tmp_dictset_value);
+        if (tmp_res != 0) {
+            assert(ERROR_OCCURRED());
+
+            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
+
+
+            exception_lineno = 178;
+
+            goto try_except_handler_24;
+        }
+        tmp_dictset_value = mod_consts[183];
         tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[132], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -15871,43 +15883,31 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto try_except_handler_24;
         }
-        tmp_dictset_value = mod_consts[184];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[133], tmp_dictset_value);
-        if (tmp_res != 0) {
-            assert(ERROR_OCCURRED());
-
-            FETCH_ERROR_OCCURRED(&exception_type, &exception_value, &exception_tb);
-
-
-            exception_lineno = 178;
-
-            goto try_except_handler_24;
-        }
-        if (isFrameUnusable(cache_frame_e1c7473d5e99810b6068cbfaa5e4079b_9)) {
-            Py_XDECREF(cache_frame_e1c7473d5e99810b6068cbfaa5e4079b_9);
+        if (isFrameUnusable(cache_frame_cf837cfb272d3ec3d88c9e39d55e065e_9)) {
+            Py_XDECREF(cache_frame_cf837cfb272d3ec3d88c9e39d55e065e_9);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_e1c7473d5e99810b6068cbfaa5e4079b_9 == NULL) {
+            if (cache_frame_cf837cfb272d3ec3d88c9e39d55e065e_9 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_e1c7473d5e99810b6068cbfaa5e4079b_9 = MAKE_FUNCTION_FRAME(codeobj_e1c7473d5e99810b6068cbfaa5e4079b, module_cryptography$x509$ocsp, sizeof(void *));
+            cache_frame_cf837cfb272d3ec3d88c9e39d55e065e_9 = MAKE_FUNCTION_FRAME(codeobj_cf837cfb272d3ec3d88c9e39d55e065e, module_cryptography$x509$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_type_description == NULL);
-        frame_e1c7473d5e99810b6068cbfaa5e4079b_9 = cache_frame_e1c7473d5e99810b6068cbfaa5e4079b_9;
+        assert(cache_frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_type_description == NULL);
+        frame_cf837cfb272d3ec3d88c9e39d55e065e_9 = cache_frame_cf837cfb272d3ec3d88c9e39d55e065e_9;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_e1c7473d5e99810b6068cbfaa5e4079b_9);
+        pushFrameStack(frame_cf837cfb272d3ec3d88c9e39d55e065e_9);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_e1c7473d5e99810b6068cbfaa5e4079b_9) == 2); // Frame stack
+        assert(Py_REFCNT(frame_cf837cfb272d3ec3d88c9e39d55e065e_9) == 2); // Frame stack
 
         // Framed code:
         {
@@ -15917,14 +15917,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_annotations_7;
             PyObject *tmp_dict_key_10;
             PyObject *tmp_dict_value_10;
-            tmp_expression_name_47 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_47 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_47 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_47 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_47 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_47 == NULL)) {
-                        tmp_expression_name_47 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_47 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_47 == NULL) {
@@ -15941,7 +15941,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_18 = LOOKUP_ATTRIBUTE(tmp_expression_name_47, mod_consts[162]);
+            tmp_called_name_18 = LOOKUP_ATTRIBUTE(tmp_expression_name_47, mod_consts[161]);
             Py_DECREF(tmp_expression_name_47);
             if (tmp_called_name_18 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -15953,7 +15953,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_10 = mod_consts[163];
+            tmp_dict_key_10 = mod_consts[162];
             tmp_dict_value_10 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[87]);
 
             if (tmp_dict_value_10 == NULL) {
@@ -15986,7 +15986,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_7 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__9_response_status(tmp_annotations_7);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 179;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 179;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_18, tmp_args_element_name_7);
             Py_DECREF(tmp_called_name_18);
             Py_DECREF(tmp_args_element_name_7);
@@ -16000,7 +16000,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[185], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[184], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -16021,14 +16021,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_dict_key_11;
             PyObject *tmp_dict_value_11;
             PyObject *tmp_expression_name_49;
-            tmp_expression_name_48 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_48 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_48 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_48 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_48 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_48 == NULL)) {
-                        tmp_expression_name_48 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_48 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_48 == NULL) {
@@ -16045,7 +16045,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_19 = LOOKUP_ATTRIBUTE(tmp_expression_name_48, mod_consts[162]);
+            tmp_called_name_19 = LOOKUP_ATTRIBUTE(tmp_expression_name_48, mod_consts[161]);
             Py_DECREF(tmp_expression_name_48);
             if (tmp_called_name_19 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -16057,7 +16057,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_11 = mod_consts[163];
+            tmp_dict_key_11 = mod_consts[162];
             tmp_expression_name_49 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[2]);
 
             if (tmp_expression_name_49 == NULL) {
@@ -16082,7 +16082,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_dict_value_11 = LOOKUP_ATTRIBUTE(tmp_expression_name_49, mod_consts[187]);
+            tmp_dict_value_11 = LOOKUP_ATTRIBUTE(tmp_expression_name_49, mod_consts[186]);
             Py_DECREF(tmp_expression_name_49);
             if (tmp_dict_value_11 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -16102,7 +16102,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_8 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__10_signature_algorithm_oid(tmp_annotations_8);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 186;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 186;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_19, tmp_args_element_name_8);
             Py_DECREF(tmp_called_name_19);
             Py_DECREF(tmp_args_element_name_8);
@@ -16116,7 +16116,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[188], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[187], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -16140,14 +16140,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_expression_name_52;
             PyObject *tmp_subscript_name_5;
             PyObject *tmp_expression_name_53;
-            tmp_expression_name_50 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_50 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_50 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_50 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_50 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_50 == NULL)) {
-                        tmp_expression_name_50 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_50 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_50 == NULL) {
@@ -16164,7 +16164,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_20 = LOOKUP_ATTRIBUTE(tmp_expression_name_50, mod_consts[162]);
+            tmp_called_name_20 = LOOKUP_ATTRIBUTE(tmp_expression_name_50, mod_consts[161]);
             Py_DECREF(tmp_expression_name_50);
             if (tmp_called_name_20 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -16176,15 +16176,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_12 = mod_consts[163];
-            tmp_expression_name_52 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[101]);
+            tmp_dict_key_12 = mod_consts[162];
+            tmp_expression_name_52 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
 
             if (tmp_expression_name_52 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_52 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[101]);
+                    tmp_expression_name_52 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
 
                     if (unlikely(tmp_expression_name_52 == NULL)) {
-                        tmp_expression_name_52 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[101]);
+                        tmp_expression_name_52 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
                     }
 
                     if (tmp_expression_name_52 == NULL) {
@@ -16201,7 +16201,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_expression_name_51 = LOOKUP_ATTRIBUTE(tmp_expression_name_52, mod_consts[190]);
+            tmp_expression_name_51 = LOOKUP_ATTRIBUTE(tmp_expression_name_52, mod_consts[189]);
             Py_DECREF(tmp_expression_name_52);
             if (tmp_expression_name_51 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -16213,14 +16213,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_expression_name_53 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[109]);
+            tmp_expression_name_53 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[108]);
 
             if (tmp_expression_name_53 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_53 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
+                    tmp_expression_name_53 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108]);
 
                     if (unlikely(tmp_expression_name_53 == NULL)) {
-                        tmp_expression_name_53 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
+                        tmp_expression_name_53 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[108]);
                     }
 
                     if (tmp_expression_name_53 == NULL) {
@@ -16238,7 +16238,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_subscript_name_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_53, mod_consts[169]);
+            tmp_subscript_name_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_53, mod_consts[168]);
             Py_DECREF(tmp_expression_name_53);
             if (tmp_subscript_name_5 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -16272,7 +16272,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_9 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__11_signature_hash_algorithm(tmp_annotations_9);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 192;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 192;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_20, tmp_args_element_name_9);
             Py_DECREF(tmp_called_name_20);
             Py_DECREF(tmp_args_element_name_9);
@@ -16286,7 +16286,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[191], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[190], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -16306,14 +16306,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_annotations_10;
             PyObject *tmp_dict_key_13;
             PyObject *tmp_dict_value_13;
-            tmp_expression_name_54 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_54 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_54 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_54 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_54 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_54 == NULL)) {
-                        tmp_expression_name_54 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_54 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_54 == NULL) {
@@ -16330,7 +16330,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_21 = LOOKUP_ATTRIBUTE(tmp_expression_name_54, mod_consts[162]);
+            tmp_called_name_21 = LOOKUP_ATTRIBUTE(tmp_expression_name_54, mod_consts[161]);
             Py_DECREF(tmp_expression_name_54);
             if (tmp_called_name_21 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -16342,8 +16342,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_13 = mod_consts[163];
-            tmp_dict_value_13 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[164]);
+            tmp_dict_key_13 = mod_consts[162];
+            tmp_dict_value_13 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[163]);
 
             if (tmp_dict_value_13 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -16360,7 +16360,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_10 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__12_signature(tmp_annotations_10);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 200;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 200;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_21, tmp_args_element_name_10);
             Py_DECREF(tmp_called_name_21);
             Py_DECREF(tmp_args_element_name_10);
@@ -16374,7 +16374,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[193], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[192], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -16394,14 +16394,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_annotations_11;
             PyObject *tmp_dict_key_14;
             PyObject *tmp_dict_value_14;
-            tmp_expression_name_55 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_55 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_55 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_55 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_55 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_55 == NULL)) {
-                        tmp_expression_name_55 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_55 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_55 == NULL) {
@@ -16418,7 +16418,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_22 = LOOKUP_ATTRIBUTE(tmp_expression_name_55, mod_consts[162]);
+            tmp_called_name_22 = LOOKUP_ATTRIBUTE(tmp_expression_name_55, mod_consts[161]);
             Py_DECREF(tmp_expression_name_55);
             if (tmp_called_name_22 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -16430,8 +16430,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_14 = mod_consts[163];
-            tmp_dict_value_14 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[164]);
+            tmp_dict_key_14 = mod_consts[162];
+            tmp_dict_value_14 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[163]);
 
             if (tmp_dict_value_14 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -16448,7 +16448,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_11 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__13_tbs_response_bytes(tmp_annotations_11);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 206;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 206;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_22, tmp_args_element_name_11);
             Py_DECREF(tmp_called_name_22);
             Py_DECREF(tmp_args_element_name_11);
@@ -16462,7 +16462,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[195], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[194], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -16486,14 +16486,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_expression_name_58;
             PyObject *tmp_subscript_name_6;
             PyObject *tmp_expression_name_59;
-            tmp_expression_name_56 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_56 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_56 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_56 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_56 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_56 == NULL)) {
-                        tmp_expression_name_56 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_56 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_56 == NULL) {
@@ -16510,7 +16510,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_23 = LOOKUP_ATTRIBUTE(tmp_expression_name_56, mod_consts[162]);
+            tmp_called_name_23 = LOOKUP_ATTRIBUTE(tmp_expression_name_56, mod_consts[161]);
             Py_DECREF(tmp_expression_name_56);
             if (tmp_called_name_23 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -16522,15 +16522,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_15 = mod_consts[163];
-            tmp_expression_name_58 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[101]);
+            tmp_dict_key_15 = mod_consts[162];
+            tmp_expression_name_58 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
 
             if (tmp_expression_name_58 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_58 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[101]);
+                    tmp_expression_name_58 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
 
                     if (unlikely(tmp_expression_name_58 == NULL)) {
-                        tmp_expression_name_58 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[101]);
+                        tmp_expression_name_58 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
                     }
 
                     if (tmp_expression_name_58 == NULL) {
@@ -16547,7 +16547,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_expression_name_57 = LOOKUP_ATTRIBUTE(tmp_expression_name_58, mod_consts[197]);
+            tmp_expression_name_57 = LOOKUP_ATTRIBUTE(tmp_expression_name_58, mod_consts[196]);
             Py_DECREF(tmp_expression_name_58);
             if (tmp_expression_name_57 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -16618,7 +16618,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_12 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__14_certificates(tmp_annotations_12);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 212;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 212;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_23, tmp_args_element_name_12);
             Py_DECREF(tmp_called_name_23);
             Py_DECREF(tmp_args_element_name_12);
@@ -16632,7 +16632,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[198], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[197], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -16655,14 +16655,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_expression_name_61;
             PyObject *tmp_expression_name_62;
             PyObject *tmp_subscript_name_7;
-            tmp_expression_name_60 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_60 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_60 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_60 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_60 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_60 == NULL)) {
-                        tmp_expression_name_60 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_60 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_60 == NULL) {
@@ -16679,7 +16679,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_24 = LOOKUP_ATTRIBUTE(tmp_expression_name_60, mod_consts[162]);
+            tmp_called_name_24 = LOOKUP_ATTRIBUTE(tmp_expression_name_60, mod_consts[161]);
             Py_DECREF(tmp_expression_name_60);
             if (tmp_called_name_24 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -16691,15 +16691,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_16 = mod_consts[163];
-            tmp_expression_name_62 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[101]);
+            tmp_dict_key_16 = mod_consts[162];
+            tmp_expression_name_62 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
 
             if (tmp_expression_name_62 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_62 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[101]);
+                    tmp_expression_name_62 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
 
                     if (unlikely(tmp_expression_name_62 == NULL)) {
-                        tmp_expression_name_62 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[101]);
+                        tmp_expression_name_62 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
                     }
 
                     if (tmp_expression_name_62 == NULL) {
@@ -16716,7 +16716,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_expression_name_61 = LOOKUP_ATTRIBUTE(tmp_expression_name_62, mod_consts[190]);
+            tmp_expression_name_61 = LOOKUP_ATTRIBUTE(tmp_expression_name_62, mod_consts[189]);
             Py_DECREF(tmp_expression_name_62);
             if (tmp_expression_name_61 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -16728,7 +16728,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_subscript_name_7 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[164]);
+            tmp_subscript_name_7 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[163]);
 
             if (tmp_subscript_name_7 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -16758,7 +16758,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_13 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__15_responder_key_hash(tmp_annotations_13);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 220;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 220;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_24, tmp_args_element_name_13);
             Py_DECREF(tmp_called_name_24);
             Py_DECREF(tmp_args_element_name_13);
@@ -16772,7 +16772,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[200], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[199], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -16796,14 +16796,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_expression_name_65;
             PyObject *tmp_subscript_name_8;
             PyObject *tmp_expression_name_66;
-            tmp_expression_name_63 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_63 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_63 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_63 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_63 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_63 == NULL)) {
-                        tmp_expression_name_63 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_63 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_63 == NULL) {
@@ -16820,7 +16820,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_25 = LOOKUP_ATTRIBUTE(tmp_expression_name_63, mod_consts[162]);
+            tmp_called_name_25 = LOOKUP_ATTRIBUTE(tmp_expression_name_63, mod_consts[161]);
             Py_DECREF(tmp_expression_name_63);
             if (tmp_called_name_25 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -16832,15 +16832,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_17 = mod_consts[163];
-            tmp_expression_name_65 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[101]);
+            tmp_dict_key_17 = mod_consts[162];
+            tmp_expression_name_65 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
 
             if (tmp_expression_name_65 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_65 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[101]);
+                    tmp_expression_name_65 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
 
                     if (unlikely(tmp_expression_name_65 == NULL)) {
-                        tmp_expression_name_65 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[101]);
+                        tmp_expression_name_65 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
                     }
 
                     if (tmp_expression_name_65 == NULL) {
@@ -16857,7 +16857,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_expression_name_64 = LOOKUP_ATTRIBUTE(tmp_expression_name_65, mod_consts[190]);
+            tmp_expression_name_64 = LOOKUP_ATTRIBUTE(tmp_expression_name_65, mod_consts[189]);
             Py_DECREF(tmp_expression_name_65);
             if (tmp_expression_name_64 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -16894,7 +16894,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_subscript_name_8 = LOOKUP_ATTRIBUTE(tmp_expression_name_66, mod_consts[202]);
+            tmp_subscript_name_8 = LOOKUP_ATTRIBUTE(tmp_expression_name_66, mod_consts[201]);
             Py_DECREF(tmp_expression_name_66);
             if (tmp_subscript_name_8 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -16928,7 +16928,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_14 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__16_responder_name(tmp_annotations_14);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 226;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 226;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_25, tmp_args_element_name_14);
             Py_DECREF(tmp_called_name_25);
             Py_DECREF(tmp_args_element_name_14);
@@ -16942,7 +16942,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[203], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[202], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -16963,14 +16963,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_dict_key_18;
             PyObject *tmp_dict_value_18;
             PyObject *tmp_expression_name_68;
-            tmp_expression_name_67 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_67 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_67 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_67 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_67 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_67 == NULL)) {
-                        tmp_expression_name_67 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_67 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_67 == NULL) {
@@ -16987,7 +16987,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_26 = LOOKUP_ATTRIBUTE(tmp_expression_name_67, mod_consts[162]);
+            tmp_called_name_26 = LOOKUP_ATTRIBUTE(tmp_expression_name_67, mod_consts[161]);
             Py_DECREF(tmp_expression_name_67);
             if (tmp_called_name_26 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -16999,7 +16999,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_18 = mod_consts[163];
+            tmp_dict_key_18 = mod_consts[162];
             tmp_expression_name_68 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[6]);
 
             if (tmp_expression_name_68 == NULL) {
@@ -17044,7 +17044,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_15 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__17_produced_at(tmp_annotations_15);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 232;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 232;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_26, tmp_args_element_name_15);
             Py_DECREF(tmp_called_name_26);
             Py_DECREF(tmp_args_element_name_15);
@@ -17058,7 +17058,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[205], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[204], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -17078,14 +17078,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_annotations_16;
             PyObject *tmp_dict_key_19;
             PyObject *tmp_dict_value_19;
-            tmp_expression_name_69 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_69 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_69 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_69 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_69 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_69 == NULL)) {
-                        tmp_expression_name_69 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_69 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_69 == NULL) {
@@ -17102,7 +17102,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_27 = LOOKUP_ATTRIBUTE(tmp_expression_name_69, mod_consts[162]);
+            tmp_called_name_27 = LOOKUP_ATTRIBUTE(tmp_expression_name_69, mod_consts[161]);
             Py_DECREF(tmp_expression_name_69);
             if (tmp_called_name_27 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -17114,7 +17114,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_19 = mod_consts[163];
+            tmp_dict_key_19 = mod_consts[162];
             tmp_dict_value_19 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[14]);
 
             if (tmp_dict_value_19 == NULL) {
@@ -17147,7 +17147,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_16 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__18_certificate_status(tmp_annotations_16);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 238;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 238;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_27, tmp_args_element_name_16);
             Py_DECREF(tmp_called_name_27);
             Py_DECREF(tmp_args_element_name_16);
@@ -17161,7 +17161,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[207], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[206], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -17185,14 +17185,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_expression_name_72;
             PyObject *tmp_subscript_name_9;
             PyObject *tmp_expression_name_73;
-            tmp_expression_name_70 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_70 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_70 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_70 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_70 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_70 == NULL)) {
-                        tmp_expression_name_70 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_70 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_70 == NULL) {
@@ -17209,7 +17209,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_28 = LOOKUP_ATTRIBUTE(tmp_expression_name_70, mod_consts[162]);
+            tmp_called_name_28 = LOOKUP_ATTRIBUTE(tmp_expression_name_70, mod_consts[161]);
             Py_DECREF(tmp_expression_name_70);
             if (tmp_called_name_28 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -17221,15 +17221,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_20 = mod_consts[163];
-            tmp_expression_name_72 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[101]);
+            tmp_dict_key_20 = mod_consts[162];
+            tmp_expression_name_72 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
 
             if (tmp_expression_name_72 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_72 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[101]);
+                    tmp_expression_name_72 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
 
                     if (unlikely(tmp_expression_name_72 == NULL)) {
-                        tmp_expression_name_72 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[101]);
+                        tmp_expression_name_72 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
                     }
 
                     if (tmp_expression_name_72 == NULL) {
@@ -17246,7 +17246,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_expression_name_71 = LOOKUP_ATTRIBUTE(tmp_expression_name_72, mod_consts[190]);
+            tmp_expression_name_71 = LOOKUP_ATTRIBUTE(tmp_expression_name_72, mod_consts[189]);
             Py_DECREF(tmp_expression_name_72);
             if (tmp_expression_name_71 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -17317,7 +17317,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_17 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__19_revocation_time(tmp_annotations_17);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 244;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 244;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_28, tmp_args_element_name_17);
             Py_DECREF(tmp_called_name_28);
             Py_DECREF(tmp_args_element_name_17);
@@ -17331,7 +17331,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[209], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[208], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -17355,14 +17355,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_expression_name_76;
             PyObject *tmp_subscript_name_10;
             PyObject *tmp_expression_name_77;
-            tmp_expression_name_74 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_74 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_74 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_74 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_74 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_74 == NULL)) {
-                        tmp_expression_name_74 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_74 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_74 == NULL) {
@@ -17379,7 +17379,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_29 = LOOKUP_ATTRIBUTE(tmp_expression_name_74, mod_consts[162]);
+            tmp_called_name_29 = LOOKUP_ATTRIBUTE(tmp_expression_name_74, mod_consts[161]);
             Py_DECREF(tmp_expression_name_74);
             if (tmp_called_name_29 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -17391,15 +17391,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_21 = mod_consts[163];
-            tmp_expression_name_76 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[101]);
+            tmp_dict_key_21 = mod_consts[162];
+            tmp_expression_name_76 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
 
             if (tmp_expression_name_76 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_76 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[101]);
+                    tmp_expression_name_76 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
 
                     if (unlikely(tmp_expression_name_76 == NULL)) {
-                        tmp_expression_name_76 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[101]);
+                        tmp_expression_name_76 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
                     }
 
                     if (tmp_expression_name_76 == NULL) {
@@ -17416,7 +17416,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_expression_name_75 = LOOKUP_ATTRIBUTE(tmp_expression_name_76, mod_consts[190]);
+            tmp_expression_name_75 = LOOKUP_ATTRIBUTE(tmp_expression_name_76, mod_consts[189]);
             Py_DECREF(tmp_expression_name_76);
             if (tmp_expression_name_75 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -17487,7 +17487,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_18 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__20_revocation_reason(tmp_annotations_18);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 251;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 251;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_29, tmp_args_element_name_18);
             Py_DECREF(tmp_called_name_29);
             Py_DECREF(tmp_args_element_name_18);
@@ -17501,7 +17501,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[211], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[210], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -17522,14 +17522,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_dict_key_22;
             PyObject *tmp_dict_value_22;
             PyObject *tmp_expression_name_79;
-            tmp_expression_name_78 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_78 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_78 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_78 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_78 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_78 == NULL)) {
-                        tmp_expression_name_78 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_78 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_78 == NULL) {
@@ -17546,7 +17546,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_30 = LOOKUP_ATTRIBUTE(tmp_expression_name_78, mod_consts[162]);
+            tmp_called_name_30 = LOOKUP_ATTRIBUTE(tmp_expression_name_78, mod_consts[161]);
             Py_DECREF(tmp_expression_name_78);
             if (tmp_called_name_30 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -17558,7 +17558,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_22 = mod_consts[163];
+            tmp_dict_key_22 = mod_consts[162];
             tmp_expression_name_79 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[6]);
 
             if (tmp_expression_name_79 == NULL) {
@@ -17603,7 +17603,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_19 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__21_this_update(tmp_annotations_19);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 258;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 258;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_30, tmp_args_element_name_19);
             Py_DECREF(tmp_called_name_30);
             Py_DECREF(tmp_args_element_name_19);
@@ -17617,7 +17617,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[213], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[212], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -17641,14 +17641,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_expression_name_82;
             PyObject *tmp_subscript_name_11;
             PyObject *tmp_expression_name_83;
-            tmp_expression_name_80 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_80 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_80 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_80 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_80 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_80 == NULL)) {
-                        tmp_expression_name_80 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_80 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_80 == NULL) {
@@ -17665,7 +17665,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_31 = LOOKUP_ATTRIBUTE(tmp_expression_name_80, mod_consts[162]);
+            tmp_called_name_31 = LOOKUP_ATTRIBUTE(tmp_expression_name_80, mod_consts[161]);
             Py_DECREF(tmp_expression_name_80);
             if (tmp_called_name_31 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -17677,15 +17677,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_23 = mod_consts[163];
-            tmp_expression_name_82 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[101]);
+            tmp_dict_key_23 = mod_consts[162];
+            tmp_expression_name_82 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
 
             if (tmp_expression_name_82 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_82 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[101]);
+                    tmp_expression_name_82 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
 
                     if (unlikely(tmp_expression_name_82 == NULL)) {
-                        tmp_expression_name_82 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[101]);
+                        tmp_expression_name_82 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
                     }
 
                     if (tmp_expression_name_82 == NULL) {
@@ -17702,7 +17702,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_expression_name_81 = LOOKUP_ATTRIBUTE(tmp_expression_name_82, mod_consts[190]);
+            tmp_expression_name_81 = LOOKUP_ATTRIBUTE(tmp_expression_name_82, mod_consts[189]);
             Py_DECREF(tmp_expression_name_82);
             if (tmp_expression_name_81 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -17773,7 +17773,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_20 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__22_next_update(tmp_annotations_20);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 265;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 265;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_31, tmp_args_element_name_20);
             Py_DECREF(tmp_called_name_31);
             Py_DECREF(tmp_args_element_name_20);
@@ -17787,7 +17787,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[215], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[214], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -17807,14 +17807,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_annotations_21;
             PyObject *tmp_dict_key_24;
             PyObject *tmp_dict_value_24;
-            tmp_expression_name_84 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_84 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_84 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_84 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_84 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_84 == NULL)) {
-                        tmp_expression_name_84 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_84 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_84 == NULL) {
@@ -17831,7 +17831,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_32 = LOOKUP_ATTRIBUTE(tmp_expression_name_84, mod_consts[162]);
+            tmp_called_name_32 = LOOKUP_ATTRIBUTE(tmp_expression_name_84, mod_consts[161]);
             Py_DECREF(tmp_expression_name_84);
             if (tmp_called_name_32 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -17843,8 +17843,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_24 = mod_consts[163];
-            tmp_dict_value_24 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[164]);
+            tmp_dict_key_24 = mod_consts[162];
+            tmp_dict_value_24 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[163]);
 
             if (tmp_dict_value_24 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -17861,7 +17861,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_21 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__23_issuer_key_hash(tmp_annotations_21);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 271;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 271;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_32, tmp_args_element_name_21);
             Py_DECREF(tmp_called_name_32);
             Py_DECREF(tmp_args_element_name_21);
@@ -17875,7 +17875,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[165], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[164], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -17895,14 +17895,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_annotations_22;
             PyObject *tmp_dict_key_25;
             PyObject *tmp_dict_value_25;
-            tmp_expression_name_85 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_85 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_85 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_85 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_85 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_85 == NULL)) {
-                        tmp_expression_name_85 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_85 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_85 == NULL) {
@@ -17919,7 +17919,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_33 = LOOKUP_ATTRIBUTE(tmp_expression_name_85, mod_consts[162]);
+            tmp_called_name_33 = LOOKUP_ATTRIBUTE(tmp_expression_name_85, mod_consts[161]);
             Py_DECREF(tmp_expression_name_85);
             if (tmp_called_name_33 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -17931,8 +17931,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_25 = mod_consts[163];
-            tmp_dict_value_25 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[164]);
+            tmp_dict_key_25 = mod_consts[162];
+            tmp_dict_value_25 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[163]);
 
             if (tmp_dict_value_25 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -17949,7 +17949,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_22 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__24_issuer_name_hash(tmp_annotations_22);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 277;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 277;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_33, tmp_args_element_name_22);
             Py_DECREF(tmp_called_name_33);
             Py_DECREF(tmp_args_element_name_22);
@@ -17963,7 +17963,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[167], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[166], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -17984,14 +17984,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_dict_key_26;
             PyObject *tmp_dict_value_26;
             PyObject *tmp_expression_name_87;
-            tmp_expression_name_86 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_86 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_86 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_86 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_86 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_86 == NULL)) {
-                        tmp_expression_name_86 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_86 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_86 == NULL) {
@@ -18008,7 +18008,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_34 = LOOKUP_ATTRIBUTE(tmp_expression_name_86, mod_consts[162]);
+            tmp_called_name_34 = LOOKUP_ATTRIBUTE(tmp_expression_name_86, mod_consts[161]);
             Py_DECREF(tmp_expression_name_86);
             if (tmp_called_name_34 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -18020,15 +18020,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_26 = mod_consts[163];
-            tmp_expression_name_87 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[109]);
+            tmp_dict_key_26 = mod_consts[162];
+            tmp_expression_name_87 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[108]);
 
             if (tmp_expression_name_87 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_87 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
+                    tmp_expression_name_87 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108]);
 
                     if (unlikely(tmp_expression_name_87 == NULL)) {
-                        tmp_expression_name_87 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
+                        tmp_expression_name_87 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[108]);
                     }
 
                     if (tmp_expression_name_87 == NULL) {
@@ -18045,7 +18045,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_dict_value_26 = LOOKUP_ATTRIBUTE(tmp_expression_name_87, mod_consts[169]);
+            tmp_dict_value_26 = LOOKUP_ATTRIBUTE(tmp_expression_name_87, mod_consts[168]);
             Py_DECREF(tmp_expression_name_87);
             if (tmp_dict_value_26 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -18065,7 +18065,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_23 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__25_hash_algorithm(tmp_annotations_23);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 283;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 283;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_34, tmp_args_element_name_23);
             Py_DECREF(tmp_called_name_34);
             Py_DECREF(tmp_args_element_name_23);
@@ -18079,7 +18079,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[170], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[169], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -18099,14 +18099,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_annotations_24;
             PyObject *tmp_dict_key_27;
             PyObject *tmp_dict_value_27;
-            tmp_expression_name_88 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_88 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_88 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_88 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_88 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_88 == NULL)) {
-                        tmp_expression_name_88 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_88 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_88 == NULL) {
@@ -18123,7 +18123,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_35 = LOOKUP_ATTRIBUTE(tmp_expression_name_88, mod_consts[162]);
+            tmp_called_name_35 = LOOKUP_ATTRIBUTE(tmp_expression_name_88, mod_consts[161]);
             Py_DECREF(tmp_expression_name_88);
             if (tmp_called_name_35 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -18135,8 +18135,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_27 = mod_consts[163];
-            tmp_dict_value_27 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[172]);
+            tmp_dict_key_27 = mod_consts[162];
+            tmp_dict_value_27 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[171]);
 
             if (tmp_dict_value_27 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -18153,7 +18153,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_24 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__26_serial_number(tmp_annotations_24);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 289;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 289;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_35, tmp_args_element_name_24);
             Py_DECREF(tmp_called_name_35);
             Py_DECREF(tmp_args_element_name_24);
@@ -18167,7 +18167,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[173], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[172], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -18188,14 +18188,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_dict_key_28;
             PyObject *tmp_dict_value_28;
             PyObject *tmp_expression_name_90;
-            tmp_expression_name_89 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_89 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_89 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_89 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_89 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_89 == NULL)) {
-                        tmp_expression_name_89 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_89 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_89 == NULL) {
@@ -18212,7 +18212,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_36 = LOOKUP_ATTRIBUTE(tmp_expression_name_89, mod_consts[162]);
+            tmp_called_name_36 = LOOKUP_ATTRIBUTE(tmp_expression_name_89, mod_consts[161]);
             Py_DECREF(tmp_expression_name_89);
             if (tmp_called_name_36 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -18224,7 +18224,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_28 = mod_consts[163];
+            tmp_dict_key_28 = mod_consts[162];
             tmp_expression_name_90 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[2]);
 
             if (tmp_expression_name_90 == NULL) {
@@ -18249,7 +18249,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_dict_value_28 = LOOKUP_ATTRIBUTE(tmp_expression_name_90, mod_consts[180]);
+            tmp_dict_value_28 = LOOKUP_ATTRIBUTE(tmp_expression_name_90, mod_consts[179]);
             Py_DECREF(tmp_expression_name_90);
             if (tmp_dict_value_28 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -18269,7 +18269,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_25 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__27_extensions(tmp_annotations_25);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 295;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 295;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_36, tmp_args_element_name_25);
             Py_DECREF(tmp_called_name_36);
             Py_DECREF(tmp_args_element_name_25);
@@ -18283,7 +18283,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[181], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[180], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -18304,14 +18304,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_dict_key_29;
             PyObject *tmp_dict_value_29;
             PyObject *tmp_expression_name_92;
-            tmp_expression_name_91 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_91 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_91 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_91 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_91 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_91 == NULL)) {
-                        tmp_expression_name_91 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_91 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_91 == NULL) {
@@ -18328,7 +18328,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_37 = LOOKUP_ATTRIBUTE(tmp_expression_name_91, mod_consts[162]);
+            tmp_called_name_37 = LOOKUP_ATTRIBUTE(tmp_expression_name_91, mod_consts[161]);
             Py_DECREF(tmp_expression_name_91);
             if (tmp_called_name_37 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -18340,7 +18340,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_29 = mod_consts[163];
+            tmp_dict_key_29 = mod_consts[162];
             tmp_expression_name_92 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[2]);
 
             if (tmp_expression_name_92 == NULL) {
@@ -18365,7 +18365,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_dict_value_29 = LOOKUP_ATTRIBUTE(tmp_expression_name_92, mod_consts[180]);
+            tmp_dict_value_29 = LOOKUP_ATTRIBUTE(tmp_expression_name_92, mod_consts[179]);
             Py_DECREF(tmp_expression_name_92);
             if (tmp_dict_value_29 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -18385,7 +18385,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_26 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__28_single_extensions(tmp_annotations_26);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 301;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 301;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_37, tmp_args_element_name_26);
             Py_DECREF(tmp_called_name_37);
             Py_DECREF(tmp_args_element_name_26);
@@ -18399,7 +18399,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[222], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[221], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -18420,14 +18420,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_dict_key_30;
             PyObject *tmp_dict_value_30;
             PyObject *tmp_expression_name_94;
-            tmp_expression_name_93 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[100]);
+            tmp_expression_name_93 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[99]);
 
             if (tmp_expression_name_93 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_93 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
+                    tmp_expression_name_93 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[99]);
 
                     if (unlikely(tmp_expression_name_93 == NULL)) {
-                        tmp_expression_name_93 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
+                        tmp_expression_name_93 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[99]);
                     }
 
                     if (tmp_expression_name_93 == NULL) {
@@ -18444,7 +18444,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_called_name_38 = LOOKUP_ATTRIBUTE(tmp_expression_name_93, mod_consts[175]);
+            tmp_called_name_38 = LOOKUP_ATTRIBUTE(tmp_expression_name_93, mod_consts[174]);
             Py_DECREF(tmp_expression_name_93);
             if (tmp_called_name_38 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -18456,15 +18456,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_dict_key_30 = mod_consts[176];
-            tmp_expression_name_94 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[110]);
+            tmp_dict_key_30 = mod_consts[175];
+            tmp_expression_name_94 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[109]);
 
             if (tmp_expression_name_94 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_94 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[110]);
+                    tmp_expression_name_94 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
 
                     if (unlikely(tmp_expression_name_94 == NULL)) {
-                        tmp_expression_name_94 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[110]);
+                        tmp_expression_name_94 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
                     }
 
                     if (tmp_expression_name_94 == NULL) {
@@ -18481,7 +18481,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_dict_value_30 = LOOKUP_ATTRIBUTE(tmp_expression_name_94, mod_consts[177]);
+            tmp_dict_value_30 = LOOKUP_ATTRIBUTE(tmp_expression_name_94, mod_consts[176]);
             Py_DECREF(tmp_expression_name_94);
             if (tmp_dict_value_30 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -18497,8 +18497,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_res = PyDict_SetItem(tmp_annotations_27, tmp_dict_key_30, tmp_dict_value_30);
             Py_DECREF(tmp_dict_value_30);
             assert(!(tmp_res != 0));
-            tmp_dict_key_30 = mod_consts[163];
-            tmp_dict_value_30 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[164]);
+            tmp_dict_key_30 = mod_consts[162];
+            tmp_dict_value_30 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[163]);
 
             if (tmp_dict_value_30 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -18514,7 +18514,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_27 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__29_public_bytes(tmp_annotations_27);
 
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame.f_lineno = 307;
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame.f_lineno = 307;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_38, tmp_args_element_name_27);
             Py_DECREF(tmp_called_name_38);
             Py_DECREF(tmp_args_element_name_27);
@@ -18528,7 +18528,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_9;
             }
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[178], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178, mod_consts[177], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -18543,7 +18543,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_e1c7473d5e99810b6068cbfaa5e4079b_9);
+        RESTORE_FRAME_EXCEPTION(frame_cf837cfb272d3ec3d88c9e39d55e065e_9);
 #endif
 
         // Put the previous frame back on top.
@@ -18554,35 +18554,35 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         frame_exception_exit_9:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_e1c7473d5e99810b6068cbfaa5e4079b_9);
+        RESTORE_FRAME_EXCEPTION(frame_cf837cfb272d3ec3d88c9e39d55e065e_9);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_e1c7473d5e99810b6068cbfaa5e4079b_9, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_e1c7473d5e99810b6068cbfaa5e4079b_9->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_e1c7473d5e99810b6068cbfaa5e4079b_9, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_cf837cfb272d3ec3d88c9e39d55e065e_9, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_cf837cfb272d3ec3d88c9e39d55e065e_9->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_cf837cfb272d3ec3d88c9e39d55e065e_9, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_e1c7473d5e99810b6068cbfaa5e4079b_9,
+            frame_cf837cfb272d3ec3d88c9e39d55e065e_9,
             type_description_2,
             outline_7_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_e1c7473d5e99810b6068cbfaa5e4079b_9 == cache_frame_e1c7473d5e99810b6068cbfaa5e4079b_9) {
+        if (frame_cf837cfb272d3ec3d88c9e39d55e065e_9 == cache_frame_cf837cfb272d3ec3d88c9e39d55e065e_9) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_e1c7473d5e99810b6068cbfaa5e4079b_9);
-            cache_frame_e1c7473d5e99810b6068cbfaa5e4079b_9 = NULL;
+            Py_DECREF(cache_frame_cf837cfb272d3ec3d88c9e39d55e065e_9);
+            cache_frame_cf837cfb272d3ec3d88c9e39d55e065e_9 = NULL;
         }
 
-        assertFrameObject(frame_e1c7473d5e99810b6068cbfaa5e4079b_9);
+        assertFrameObject(frame_cf837cfb272d3ec3d88c9e39d55e065e_9);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -18604,16 +18604,16 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_kwargs_name_12;
             CHECK_OBJECT(tmp_class_creation_6__metaclass);
             tmp_called_name_39 = tmp_class_creation_6__metaclass;
-            tmp_tuple_element_20 = mod_consts[184];
+            tmp_tuple_element_20 = mod_consts[183];
             tmp_args_name_12 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_args_name_12, 0, tmp_tuple_element_20);
-            tmp_tuple_element_20 = mod_consts[159];
+            tmp_tuple_element_20 = mod_consts[158];
             PyTuple_SET_ITEM0(tmp_args_name_12, 1, tmp_tuple_element_20);
             tmp_tuple_element_20 = locals_cryptography$x509$ocsp$$$class__6_OCSPResponse_178;
             PyTuple_SET_ITEM0(tmp_args_name_12, 2, tmp_tuple_element_20);
             CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
             tmp_kwargs_name_12 = tmp_class_creation_6__class_decl_dict;
-            frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 178;
+            frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 178;
             tmp_assign_source_72 = CALL_FUNCTION(tmp_called_name_39, tmp_args_name_12, tmp_kwargs_name_12);
             Py_DECREF(tmp_args_name_12);
             if (tmp_assign_source_72 == NULL) {
@@ -18694,7 +18694,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         exception_lineno = 178;
         goto try_except_handler_22;
         outline_result_8:;
-        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[184], tmp_assign_source_71);
+        UPDATE_STRING_DICT1(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[183], tmp_assign_source_71);
     }
     goto try_end_8;
     // Exception handler code:
@@ -18734,7 +18734,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     {
         PyObject *tmp_assign_source_73;
         PyObject *tmp_dircall_arg1_5;
-        tmp_dircall_arg1_5 = mod_consts[155];
+        tmp_dircall_arg1_5 = mod_consts[154];
         Py_INCREF(tmp_dircall_arg1_5);
 
         {
@@ -18774,7 +18774,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_95;
         PyObject *tmp_subscript_name_12;
         PyObject *tmp_bases_name_7;
-        tmp_key_name_19 = mod_consts[125];
+        tmp_key_name_19 = mod_consts[124];
         CHECK_OBJECT(tmp_class_creation_7__class_decl_dict);
         tmp_dict_arg_name_19 = tmp_class_creation_7__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_19, tmp_key_name_19);
@@ -18788,7 +18788,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         condexpr_true_11:;
         CHECK_OBJECT(tmp_class_creation_7__class_decl_dict);
         tmp_dict_arg_name_20 = tmp_class_creation_7__class_decl_dict;
-        tmp_key_name_20 = mod_consts[125];
+        tmp_key_name_20 = mod_consts[124];
         tmp_metaclass_name_7 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_20, tmp_key_name_20);
         if (tmp_metaclass_name_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -18874,7 +18874,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         nuitka_bool tmp_condition_result_35;
         PyObject *tmp_key_name_21;
         PyObject *tmp_dict_arg_name_21;
-        tmp_key_name_21 = mod_consts[125];
+        tmp_key_name_21 = mod_consts[124];
         CHECK_OBJECT(tmp_class_creation_7__class_decl_dict);
         tmp_dict_arg_name_21 = tmp_class_creation_7__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_21, tmp_key_name_21);
@@ -18889,7 +18889,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     branch_yes_23:;
     CHECK_OBJECT(tmp_class_creation_7__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_7__class_decl_dict;
-    tmp_dictdel_key = mod_consts[125];
+    tmp_dictdel_key = mod_consts[124];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -18907,7 +18907,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_96;
         CHECK_OBJECT(tmp_class_creation_7__metaclass);
         tmp_expression_name_96 = tmp_class_creation_7__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_96, mod_consts[126]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_96, mod_consts[125]);
         tmp_condition_result_36 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_36 == NUITKA_BOOL_TRUE) {
             goto branch_yes_24;
@@ -18925,7 +18925,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_kwargs_name_13;
         CHECK_OBJECT(tmp_class_creation_7__metaclass);
         tmp_expression_name_97 = tmp_class_creation_7__metaclass;
-        tmp_called_name_40 = LOOKUP_ATTRIBUTE(tmp_expression_name_97, mod_consts[126]);
+        tmp_called_name_40 = LOOKUP_ATTRIBUTE(tmp_expression_name_97, mod_consts[125]);
         if (tmp_called_name_40 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -18944,7 +18944,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyTuple_SET_ITEM0(tmp_args_name_13, 1, tmp_tuple_element_21);
         CHECK_OBJECT(tmp_class_creation_7__class_decl_dict);
         tmp_kwargs_name_13 = tmp_class_creation_7__class_decl_dict;
-        frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 314;
+        frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 314;
         tmp_assign_source_76 = CALL_FUNCTION(tmp_called_name_40, tmp_args_name_13, tmp_kwargs_name_13);
         Py_DECREF(tmp_called_name_40);
         Py_DECREF(tmp_args_name_13);
@@ -18967,7 +18967,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_98;
         CHECK_OBJECT(tmp_class_creation_7__prepared);
         tmp_expression_name_98 = tmp_class_creation_7__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_98, mod_consts[127]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_98, mod_consts[126]);
         tmp_operand_name_7 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_7);
         if (tmp_res == -1) {
@@ -18998,11 +18998,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_getattr_attr_7;
         PyObject *tmp_getattr_default_7;
         tmp_raise_type_7 = PyExc_TypeError;
-        tmp_left_name_7 = mod_consts[128];
+        tmp_left_name_7 = mod_consts[127];
         CHECK_OBJECT(tmp_class_creation_7__metaclass);
         tmp_getattr_target_7 = tmp_class_creation_7__metaclass;
-        tmp_getattr_attr_7 = mod_consts[129];
-        tmp_getattr_default_7 = mod_consts[130];
+        tmp_getattr_attr_7 = mod_consts[128];
+        tmp_getattr_default_7 = mod_consts[129];
         tmp_tuple_element_22 = BUILTIN_GETATTR(tmp_getattr_target_7, tmp_getattr_attr_7, tmp_getattr_default_7);
         if (tmp_tuple_element_22 == NULL) {
             assert(ERROR_OCCURRED());
@@ -19023,7 +19023,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_type_arg_12 = tmp_class_creation_7__prepared;
             tmp_expression_name_99 = BUILTIN_TYPE1(tmp_type_arg_12);
             assert(!(tmp_expression_name_99 == NULL));
-            tmp_tuple_element_22 = LOOKUP_ATTRIBUTE(tmp_expression_name_99, mod_consts[129]);
+            tmp_tuple_element_22 = LOOKUP_ATTRIBUTE(tmp_expression_name_99, mod_consts[128]);
             Py_DECREF(tmp_expression_name_99);
             if (tmp_tuple_element_22 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -19085,8 +19085,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[131];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[132], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[130];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[131], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -19098,7 +19098,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             goto try_except_handler_27;
         }
         tmp_dictset_value = mod_consts[54];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[133], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[132], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -19109,31 +19109,31 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto try_except_handler_27;
         }
-        if (isFrameUnusable(cache_frame_01b6b7d51f0922168706506b32cd6ea9_10)) {
-            Py_XDECREF(cache_frame_01b6b7d51f0922168706506b32cd6ea9_10);
+        if (isFrameUnusable(cache_frame_f1f2c531a46b0692fe2121a544f899da_10)) {
+            Py_XDECREF(cache_frame_f1f2c531a46b0692fe2121a544f899da_10);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_01b6b7d51f0922168706506b32cd6ea9_10 == NULL) {
+            if (cache_frame_f1f2c531a46b0692fe2121a544f899da_10 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_01b6b7d51f0922168706506b32cd6ea9_10 = MAKE_FUNCTION_FRAME(codeobj_01b6b7d51f0922168706506b32cd6ea9, module_cryptography$x509$ocsp, sizeof(void *));
+            cache_frame_f1f2c531a46b0692fe2121a544f899da_10 = MAKE_FUNCTION_FRAME(codeobj_f1f2c531a46b0692fe2121a544f899da, module_cryptography$x509$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_01b6b7d51f0922168706506b32cd6ea9_10->m_type_description == NULL);
-        frame_01b6b7d51f0922168706506b32cd6ea9_10 = cache_frame_01b6b7d51f0922168706506b32cd6ea9_10;
+        assert(cache_frame_f1f2c531a46b0692fe2121a544f899da_10->m_type_description == NULL);
+        frame_f1f2c531a46b0692fe2121a544f899da_10 = cache_frame_f1f2c531a46b0692fe2121a544f899da_10;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_01b6b7d51f0922168706506b32cd6ea9_10);
+        pushFrameStack(frame_f1f2c531a46b0692fe2121a544f899da_10);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_01b6b7d51f0922168706506b32cd6ea9_10) == 2); // Frame stack
+        assert(Py_REFCNT(frame_f1f2c531a46b0692fe2121a544f899da_10) == 2); // Frame stack
 
         // Framed code:
         {
@@ -19148,7 +19148,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_dictset_value = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__30___init__(tmp_defaults_1);
 
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[156], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[155], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -19166,7 +19166,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_dict_key_31;
             PyObject *tmp_dict_value_31;
             PyObject *tmp_expression_name_100;
-            tmp_dict_key_31 = mod_consts[226];
+            tmp_dict_key_31 = mod_consts[225];
             tmp_expression_name_100 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[2]);
 
             if (tmp_expression_name_100 == NULL) {
@@ -19210,7 +19210,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 tmp_res = PyDict_SetItem(tmp_annotations_28, tmp_dict_key_31, tmp_dict_value_31);
                 Py_DECREF(tmp_dict_value_31);
                 assert(!(tmp_res != 0));
-                tmp_dict_key_31 = mod_consts[227];
+                tmp_dict_key_31 = mod_consts[226];
                 tmp_expression_name_101 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[2]);
 
                 if (tmp_expression_name_101 == NULL) {
@@ -19250,15 +19250,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 tmp_res = PyDict_SetItem(tmp_annotations_28, tmp_dict_key_31, tmp_dict_value_31);
                 Py_DECREF(tmp_dict_value_31);
                 assert(!(tmp_res != 0));
-                tmp_dict_key_31 = mod_consts[228];
-                tmp_expression_name_102 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[109]);
+                tmp_dict_key_31 = mod_consts[227];
+                tmp_expression_name_102 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[108]);
 
                 if (tmp_expression_name_102 == NULL) {
                     if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                        tmp_expression_name_102 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
+                        tmp_expression_name_102 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108]);
 
                         if (unlikely(tmp_expression_name_102 == NULL)) {
-                            tmp_expression_name_102 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
+                            tmp_expression_name_102 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[108]);
                         }
 
                         if (tmp_expression_name_102 == NULL) {
@@ -19275,7 +19275,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                     }
                 }
 
-                tmp_dict_value_31 = LOOKUP_ATTRIBUTE(tmp_expression_name_102, mod_consts[169]);
+                tmp_dict_value_31 = LOOKUP_ATTRIBUTE(tmp_expression_name_102, mod_consts[168]);
                 Py_DECREF(tmp_expression_name_102);
                 if (tmp_dict_value_31 == NULL) {
                     assert(ERROR_OCCURRED());
@@ -19290,7 +19290,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 tmp_res = PyDict_SetItem(tmp_annotations_28, tmp_dict_key_31, tmp_dict_value_31);
                 Py_DECREF(tmp_dict_value_31);
                 assert(!(tmp_res != 0));
-                tmp_dict_key_31 = mod_consts[163];
+                tmp_dict_key_31 = mod_consts[162];
                 tmp_dict_value_31 = mod_consts[54];
                 tmp_res = PyDict_SetItem(tmp_annotations_28, tmp_dict_key_31, tmp_dict_value_31);
                 assert(!(tmp_res != 0));
@@ -19306,7 +19306,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_dictset_value = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__31_add_certificate(tmp_annotations_28);
 
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[229], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[228], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -19365,8 +19365,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_res = PyDict_SetItem(tmp_annotations_29, tmp_dict_key_32, tmp_dict_value_32);
             Py_DECREF(tmp_dict_value_32);
             assert(!(tmp_res != 0));
-            tmp_dict_key_32 = mod_consts[231];
-            tmp_dict_value_32 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[232]);
+            tmp_dict_key_32 = mod_consts[230];
+            tmp_dict_value_32 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[231]);
 
             if (tmp_dict_value_32 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -19378,7 +19378,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_res = PyDict_SetItem(tmp_annotations_29, tmp_dict_key_32, tmp_dict_value_32);
             Py_DECREF(tmp_dict_value_32);
             assert(!(tmp_res != 0));
-            tmp_dict_key_32 = mod_consts[163];
+            tmp_dict_key_32 = mod_consts[162];
             tmp_dict_value_32 = mod_consts[54];
             tmp_res = PyDict_SetItem(tmp_annotations_29, tmp_dict_key_32, tmp_dict_value_32);
             assert(!(tmp_res != 0));
@@ -19386,7 +19386,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_dictset_value = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__32_add_extension(tmp_annotations_29);
 
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[233], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[232], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -19403,15 +19403,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_annotations_30;
             PyObject *tmp_dict_key_33;
             PyObject *tmp_dict_value_33;
-            tmp_dict_key_33 = mod_consts[163];
-            tmp_dict_value_33 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[161]);
+            tmp_dict_key_33 = mod_consts[162];
+            tmp_dict_value_33 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[160]);
 
             if (tmp_dict_value_33 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_dict_value_33 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[161]);
+                    tmp_dict_value_33 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[160]);
 
                     if (unlikely(tmp_dict_value_33 == NULL)) {
-                        tmp_dict_value_33 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[161]);
+                        tmp_dict_value_33 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[160]);
                     }
 
                     if (tmp_dict_value_33 == NULL) {
@@ -19436,7 +19436,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_dictset_value = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__33_build(tmp_annotations_30);
 
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[235], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[234], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -19451,7 +19451,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_01b6b7d51f0922168706506b32cd6ea9_10);
+        RESTORE_FRAME_EXCEPTION(frame_f1f2c531a46b0692fe2121a544f899da_10);
 #endif
 
         // Put the previous frame back on top.
@@ -19462,35 +19462,35 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         frame_exception_exit_10:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_01b6b7d51f0922168706506b32cd6ea9_10);
+        RESTORE_FRAME_EXCEPTION(frame_f1f2c531a46b0692fe2121a544f899da_10);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_01b6b7d51f0922168706506b32cd6ea9_10, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_01b6b7d51f0922168706506b32cd6ea9_10->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_01b6b7d51f0922168706506b32cd6ea9_10, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_f1f2c531a46b0692fe2121a544f899da_10, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_f1f2c531a46b0692fe2121a544f899da_10->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_f1f2c531a46b0692fe2121a544f899da_10, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_01b6b7d51f0922168706506b32cd6ea9_10,
+            frame_f1f2c531a46b0692fe2121a544f899da_10,
             type_description_2,
             outline_8_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_01b6b7d51f0922168706506b32cd6ea9_10 == cache_frame_01b6b7d51f0922168706506b32cd6ea9_10) {
+        if (frame_f1f2c531a46b0692fe2121a544f899da_10 == cache_frame_f1f2c531a46b0692fe2121a544f899da_10) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_01b6b7d51f0922168706506b32cd6ea9_10);
-            cache_frame_01b6b7d51f0922168706506b32cd6ea9_10 = NULL;
+            Py_DECREF(cache_frame_f1f2c531a46b0692fe2121a544f899da_10);
+            cache_frame_f1f2c531a46b0692fe2121a544f899da_10 = NULL;
         }
 
-        assertFrameObject(frame_01b6b7d51f0922168706506b32cd6ea9_10);
+        assertFrameObject(frame_f1f2c531a46b0692fe2121a544f899da_10);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -19510,7 +19510,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_compexpr_right_5;
             CHECK_OBJECT(tmp_class_creation_7__bases);
             tmp_compexpr_left_5 = tmp_class_creation_7__bases;
-            tmp_compexpr_right_5 = mod_consts[155];
+            tmp_compexpr_right_5 = mod_consts[154];
             tmp_condition_result_38 = RICH_COMPARE_NE_NBOOL_OBJECT_TUPLE(tmp_compexpr_left_5, tmp_compexpr_right_5);
             if (tmp_condition_result_38 == NUITKA_BOOL_EXCEPTION) {
                 assert(ERROR_OCCURRED());
@@ -19530,8 +19530,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             assert(tmp_condition_result_38 != NUITKA_BOOL_UNASSIGNED);
         }
         branch_yes_26:;
-        tmp_dictset_value = mod_consts[155];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[138], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[154];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__7_OCSPRequestBuilder_314, mod_consts[137], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -19561,7 +19561,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyTuple_SET_ITEM0(tmp_args_name_14, 2, tmp_tuple_element_24);
             CHECK_OBJECT(tmp_class_creation_7__class_decl_dict);
             tmp_kwargs_name_14 = tmp_class_creation_7__class_decl_dict;
-            frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 314;
+            frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 314;
             tmp_assign_source_79 = CALL_FUNCTION(tmp_called_name_41, tmp_args_name_14, tmp_kwargs_name_14);
             Py_DECREF(tmp_args_name_14);
             if (tmp_assign_source_79 == NULL) {
@@ -19686,7 +19686,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     {
         PyObject *tmp_assign_source_80;
         PyObject *tmp_dircall_arg1_6;
-        tmp_dircall_arg1_6 = mod_consts[155];
+        tmp_dircall_arg1_6 = mod_consts[154];
         Py_INCREF(tmp_dircall_arg1_6);
 
         {
@@ -19726,7 +19726,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_104;
         PyObject *tmp_subscript_name_13;
         PyObject *tmp_bases_name_8;
-        tmp_key_name_22 = mod_consts[125];
+        tmp_key_name_22 = mod_consts[124];
         CHECK_OBJECT(tmp_class_creation_8__class_decl_dict);
         tmp_dict_arg_name_22 = tmp_class_creation_8__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_22, tmp_key_name_22);
@@ -19740,7 +19740,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         condexpr_true_13:;
         CHECK_OBJECT(tmp_class_creation_8__class_decl_dict);
         tmp_dict_arg_name_23 = tmp_class_creation_8__class_decl_dict;
-        tmp_key_name_23 = mod_consts[125];
+        tmp_key_name_23 = mod_consts[124];
         tmp_metaclass_name_8 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_23, tmp_key_name_23);
         if (tmp_metaclass_name_8 == NULL) {
             assert(ERROR_OCCURRED());
@@ -19826,7 +19826,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         nuitka_bool tmp_condition_result_41;
         PyObject *tmp_key_name_24;
         PyObject *tmp_dict_arg_name_24;
-        tmp_key_name_24 = mod_consts[125];
+        tmp_key_name_24 = mod_consts[124];
         CHECK_OBJECT(tmp_class_creation_8__class_decl_dict);
         tmp_dict_arg_name_24 = tmp_class_creation_8__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_24, tmp_key_name_24);
@@ -19841,7 +19841,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
     branch_yes_27:;
     CHECK_OBJECT(tmp_class_creation_8__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_8__class_decl_dict;
-    tmp_dictdel_key = mod_consts[125];
+    tmp_dictdel_key = mod_consts[124];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -19859,7 +19859,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_105;
         CHECK_OBJECT(tmp_class_creation_8__metaclass);
         tmp_expression_name_105 = tmp_class_creation_8__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_105, mod_consts[126]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_105, mod_consts[125]);
         tmp_condition_result_42 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_42 == NUITKA_BOOL_TRUE) {
             goto branch_yes_28;
@@ -19877,7 +19877,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_kwargs_name_15;
         CHECK_OBJECT(tmp_class_creation_8__metaclass);
         tmp_expression_name_106 = tmp_class_creation_8__metaclass;
-        tmp_called_name_42 = LOOKUP_ATTRIBUTE(tmp_expression_name_106, mod_consts[126]);
+        tmp_called_name_42 = LOOKUP_ATTRIBUTE(tmp_expression_name_106, mod_consts[125]);
         if (tmp_called_name_42 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -19896,7 +19896,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyTuple_SET_ITEM0(tmp_args_name_15, 1, tmp_tuple_element_25);
         CHECK_OBJECT(tmp_class_creation_8__class_decl_dict);
         tmp_kwargs_name_15 = tmp_class_creation_8__class_decl_dict;
-        frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 358;
+        frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 358;
         tmp_assign_source_83 = CALL_FUNCTION(tmp_called_name_42, tmp_args_name_15, tmp_kwargs_name_15);
         Py_DECREF(tmp_called_name_42);
         Py_DECREF(tmp_args_name_15);
@@ -19919,7 +19919,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_expression_name_107;
         CHECK_OBJECT(tmp_class_creation_8__prepared);
         tmp_expression_name_107 = tmp_class_creation_8__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_107, mod_consts[127]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_107, mod_consts[126]);
         tmp_operand_name_8 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_8);
         if (tmp_res == -1) {
@@ -19950,11 +19950,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_getattr_attr_8;
         PyObject *tmp_getattr_default_8;
         tmp_raise_type_8 = PyExc_TypeError;
-        tmp_left_name_8 = mod_consts[128];
+        tmp_left_name_8 = mod_consts[127];
         CHECK_OBJECT(tmp_class_creation_8__metaclass);
         tmp_getattr_target_8 = tmp_class_creation_8__metaclass;
-        tmp_getattr_attr_8 = mod_consts[129];
-        tmp_getattr_default_8 = mod_consts[130];
+        tmp_getattr_attr_8 = mod_consts[128];
+        tmp_getattr_default_8 = mod_consts[129];
         tmp_tuple_element_26 = BUILTIN_GETATTR(tmp_getattr_target_8, tmp_getattr_attr_8, tmp_getattr_default_8);
         if (tmp_tuple_element_26 == NULL) {
             assert(ERROR_OCCURRED());
@@ -19975,7 +19975,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_type_arg_14 = tmp_class_creation_8__prepared;
             tmp_expression_name_108 = BUILTIN_TYPE1(tmp_type_arg_14);
             assert(!(tmp_expression_name_108 == NULL));
-            tmp_tuple_element_26 = LOOKUP_ATTRIBUTE(tmp_expression_name_108, mod_consts[129]);
+            tmp_tuple_element_26 = LOOKUP_ATTRIBUTE(tmp_expression_name_108, mod_consts[128]);
             Py_DECREF(tmp_expression_name_108);
             if (tmp_tuple_element_26 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -20037,8 +20037,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[131];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[132], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[130];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[131], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -20050,7 +20050,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             goto try_except_handler_30;
         }
         tmp_dictset_value = mod_consts[73];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[133], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[132], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -20061,31 +20061,31 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             goto try_except_handler_30;
         }
-        if (isFrameUnusable(cache_frame_3cf1c548e16c37bf19eec4c11980340a_11)) {
-            Py_XDECREF(cache_frame_3cf1c548e16c37bf19eec4c11980340a_11);
+        if (isFrameUnusable(cache_frame_6c03541f5b253362f02492566b67d2ba_11)) {
+            Py_XDECREF(cache_frame_6c03541f5b253362f02492566b67d2ba_11);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_3cf1c548e16c37bf19eec4c11980340a_11 == NULL) {
+            if (cache_frame_6c03541f5b253362f02492566b67d2ba_11 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_3cf1c548e16c37bf19eec4c11980340a_11 = MAKE_FUNCTION_FRAME(codeobj_3cf1c548e16c37bf19eec4c11980340a, module_cryptography$x509$ocsp, sizeof(void *));
+            cache_frame_6c03541f5b253362f02492566b67d2ba_11 = MAKE_FUNCTION_FRAME(codeobj_6c03541f5b253362f02492566b67d2ba, module_cryptography$x509$ocsp, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_3cf1c548e16c37bf19eec4c11980340a_11->m_type_description == NULL);
-        frame_3cf1c548e16c37bf19eec4c11980340a_11 = cache_frame_3cf1c548e16c37bf19eec4c11980340a_11;
+        assert(cache_frame_6c03541f5b253362f02492566b67d2ba_11->m_type_description == NULL);
+        frame_6c03541f5b253362f02492566b67d2ba_11 = cache_frame_6c03541f5b253362f02492566b67d2ba_11;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_3cf1c548e16c37bf19eec4c11980340a_11);
+        pushFrameStack(frame_6c03541f5b253362f02492566b67d2ba_11);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_3cf1c548e16c37bf19eec4c11980340a_11) == 2); // Frame stack
+        assert(Py_REFCNT(frame_6c03541f5b253362f02492566b67d2ba_11) == 2); // Frame stack
 
         // Framed code:
         {
@@ -20104,7 +20104,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_dictset_value = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__34___init__(tmp_defaults_2);
 
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[156], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[155], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -20122,7 +20122,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_dict_key_34;
             PyObject *tmp_dict_value_34;
             PyObject *tmp_expression_name_109;
-            tmp_dict_key_34 = mod_consts[226];
+            tmp_dict_key_34 = mod_consts[225];
             tmp_expression_name_109 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[2]);
 
             if (tmp_expression_name_109 == NULL) {
@@ -20179,7 +20179,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 tmp_res = PyDict_SetItem(tmp_annotations_31, tmp_dict_key_34, tmp_dict_value_34);
                 Py_DECREF(tmp_dict_value_34);
                 assert(!(tmp_res != 0));
-                tmp_dict_key_34 = mod_consts[227];
+                tmp_dict_key_34 = mod_consts[226];
                 tmp_expression_name_110 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[2]);
 
                 if (tmp_expression_name_110 == NULL) {
@@ -20219,15 +20219,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 tmp_res = PyDict_SetItem(tmp_annotations_31, tmp_dict_key_34, tmp_dict_value_34);
                 Py_DECREF(tmp_dict_value_34);
                 assert(!(tmp_res != 0));
-                tmp_dict_key_34 = mod_consts[228];
-                tmp_expression_name_111 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[109]);
+                tmp_dict_key_34 = mod_consts[227];
+                tmp_expression_name_111 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[108]);
 
                 if (tmp_expression_name_111 == NULL) {
                     if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                        tmp_expression_name_111 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
+                        tmp_expression_name_111 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108]);
 
                         if (unlikely(tmp_expression_name_111 == NULL)) {
-                            tmp_expression_name_111 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
+                            tmp_expression_name_111 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[108]);
                         }
 
                         if (tmp_expression_name_111 == NULL) {
@@ -20244,7 +20244,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                     }
                 }
 
-                tmp_dict_value_34 = LOOKUP_ATTRIBUTE(tmp_expression_name_111, mod_consts[169]);
+                tmp_dict_value_34 = LOOKUP_ATTRIBUTE(tmp_expression_name_111, mod_consts[168]);
                 Py_DECREF(tmp_expression_name_111);
                 if (tmp_dict_value_34 == NULL) {
                     assert(ERROR_OCCURRED());
@@ -20259,7 +20259,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 tmp_res = PyDict_SetItem(tmp_annotations_31, tmp_dict_key_34, tmp_dict_value_34);
                 Py_DECREF(tmp_dict_value_34);
                 assert(!(tmp_res != 0));
-                tmp_dict_key_34 = mod_consts[238];
+                tmp_dict_key_34 = mod_consts[237];
                 tmp_dict_value_34 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[14]);
 
                 if (tmp_dict_value_34 == NULL) {
@@ -20287,7 +20287,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 tmp_res = PyDict_SetItem(tmp_annotations_31, tmp_dict_key_34, tmp_dict_value_34);
                 Py_DECREF(tmp_dict_value_34);
                 assert(!(tmp_res != 0));
-                tmp_dict_key_34 = mod_consts[213];
+                tmp_dict_key_34 = mod_consts[212];
                 tmp_expression_name_112 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[6]);
 
                 if (tmp_expression_name_112 == NULL) {
@@ -20327,15 +20327,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 tmp_res = PyDict_SetItem(tmp_annotations_31, tmp_dict_key_34, tmp_dict_value_34);
                 Py_DECREF(tmp_dict_value_34);
                 assert(!(tmp_res != 0));
-                tmp_dict_key_34 = mod_consts[215];
-                tmp_expression_name_114 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[101]);
+                tmp_dict_key_34 = mod_consts[214];
+                tmp_expression_name_114 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[100]);
 
                 if (tmp_expression_name_114 == NULL) {
                     if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                        tmp_expression_name_114 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[101]);
+                        tmp_expression_name_114 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
 
                         if (unlikely(tmp_expression_name_114 == NULL)) {
-                            tmp_expression_name_114 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[101]);
+                            tmp_expression_name_114 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
                         }
 
                         if (tmp_expression_name_114 == NULL) {
@@ -20352,7 +20352,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                     }
                 }
 
-                tmp_expression_name_113 = LOOKUP_ATTRIBUTE(tmp_expression_name_114, mod_consts[190]);
+                tmp_expression_name_113 = LOOKUP_ATTRIBUTE(tmp_expression_name_114, mod_consts[189]);
                 Py_DECREF(tmp_expression_name_114);
                 if (tmp_expression_name_113 == NULL) {
                     assert(ERROR_OCCURRED());
@@ -20416,15 +20416,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 tmp_res = PyDict_SetItem(tmp_annotations_31, tmp_dict_key_34, tmp_dict_value_34);
                 Py_DECREF(tmp_dict_value_34);
                 assert(!(tmp_res != 0));
-                tmp_dict_key_34 = mod_consts[209];
-                tmp_expression_name_117 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[101]);
+                tmp_dict_key_34 = mod_consts[208];
+                tmp_expression_name_117 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[100]);
 
                 if (tmp_expression_name_117 == NULL) {
                     if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                        tmp_expression_name_117 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[101]);
+                        tmp_expression_name_117 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
 
                         if (unlikely(tmp_expression_name_117 == NULL)) {
-                            tmp_expression_name_117 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[101]);
+                            tmp_expression_name_117 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
                         }
 
                         if (tmp_expression_name_117 == NULL) {
@@ -20441,7 +20441,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                     }
                 }
 
-                tmp_expression_name_116 = LOOKUP_ATTRIBUTE(tmp_expression_name_117, mod_consts[190]);
+                tmp_expression_name_116 = LOOKUP_ATTRIBUTE(tmp_expression_name_117, mod_consts[189]);
                 Py_DECREF(tmp_expression_name_117);
                 if (tmp_expression_name_116 == NULL) {
                     assert(ERROR_OCCURRED());
@@ -20505,15 +20505,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 tmp_res = PyDict_SetItem(tmp_annotations_31, tmp_dict_key_34, tmp_dict_value_34);
                 Py_DECREF(tmp_dict_value_34);
                 assert(!(tmp_res != 0));
-                tmp_dict_key_34 = mod_consts[211];
-                tmp_expression_name_120 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[101]);
+                tmp_dict_key_34 = mod_consts[210];
+                tmp_expression_name_120 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[100]);
 
                 if (tmp_expression_name_120 == NULL) {
                     if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                        tmp_expression_name_120 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[101]);
+                        tmp_expression_name_120 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
 
                         if (unlikely(tmp_expression_name_120 == NULL)) {
-                            tmp_expression_name_120 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[101]);
+                            tmp_expression_name_120 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
                         }
 
                         if (tmp_expression_name_120 == NULL) {
@@ -20530,7 +20530,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                     }
                 }
 
-                tmp_expression_name_119 = LOOKUP_ATTRIBUTE(tmp_expression_name_120, mod_consts[190]);
+                tmp_expression_name_119 = LOOKUP_ATTRIBUTE(tmp_expression_name_120, mod_consts[189]);
                 Py_DECREF(tmp_expression_name_120);
                 if (tmp_expression_name_119 == NULL) {
                     assert(ERROR_OCCURRED());
@@ -20594,7 +20594,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 tmp_res = PyDict_SetItem(tmp_annotations_31, tmp_dict_key_34, tmp_dict_value_34);
                 Py_DECREF(tmp_dict_value_34);
                 assert(!(tmp_res != 0));
-                tmp_dict_key_34 = mod_consts[163];
+                tmp_dict_key_34 = mod_consts[162];
                 tmp_dict_value_34 = mod_consts[73];
                 tmp_res = PyDict_SetItem(tmp_annotations_31, tmp_dict_key_34, tmp_dict_value_34);
                 assert(!(tmp_res != 0));
@@ -20610,7 +20610,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_dictset_value = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__35_add_response(tmp_annotations_31);
 
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[239], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[238], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -20627,7 +20627,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_annotations_32;
             PyObject *tmp_dict_key_35;
             PyObject *tmp_dict_value_35;
-            tmp_dict_key_35 = mod_consts[176];
+            tmp_dict_key_35 = mod_consts[175];
             tmp_dict_value_35 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[76]);
 
             if (tmp_dict_value_35 == NULL) {
@@ -20658,7 +20658,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 tmp_res = PyDict_SetItem(tmp_annotations_32, tmp_dict_key_35, tmp_dict_value_35);
                 Py_DECREF(tmp_dict_value_35);
                 assert(!(tmp_res != 0));
-                tmp_dict_key_35 = mod_consts[241];
+                tmp_dict_key_35 = mod_consts[240];
                 tmp_expression_name_122 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[2]);
 
                 if (tmp_expression_name_122 == NULL) {
@@ -20698,7 +20698,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 tmp_res = PyDict_SetItem(tmp_annotations_32, tmp_dict_key_35, tmp_dict_value_35);
                 Py_DECREF(tmp_dict_value_35);
                 assert(!(tmp_res != 0));
-                tmp_dict_key_35 = mod_consts[163];
+                tmp_dict_key_35 = mod_consts[162];
                 tmp_dict_value_35 = mod_consts[73];
                 tmp_res = PyDict_SetItem(tmp_annotations_32, tmp_dict_key_35, tmp_dict_value_35);
                 assert(!(tmp_res != 0));
@@ -20714,7 +20714,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_dictset_value = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__36_responder_id(tmp_annotations_32);
 
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[242], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[241], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -20736,14 +20736,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_subscript_name_17;
             PyObject *tmp_expression_name_125;
             tmp_dict_key_36 = mod_consts[80];
-            tmp_expression_name_124 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[101]);
+            tmp_expression_name_124 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[100]);
 
             if (tmp_expression_name_124 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_124 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[101]);
+                    tmp_expression_name_124 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
 
                     if (unlikely(tmp_expression_name_124 == NULL)) {
-                        tmp_expression_name_124 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[101]);
+                        tmp_expression_name_124 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
                     }
 
                     if (tmp_expression_name_124 == NULL) {
@@ -20760,7 +20760,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 }
             }
 
-            tmp_expression_name_123 = LOOKUP_ATTRIBUTE(tmp_expression_name_124, mod_consts[244]);
+            tmp_expression_name_123 = LOOKUP_ATTRIBUTE(tmp_expression_name_124, mod_consts[243]);
             Py_DECREF(tmp_expression_name_124);
             if (tmp_expression_name_123 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -20825,7 +20825,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_res = PyDict_SetItem(tmp_annotations_33, tmp_dict_key_36, tmp_dict_value_36);
             Py_DECREF(tmp_dict_value_36);
             assert(!(tmp_res != 0));
-            tmp_dict_key_36 = mod_consts[163];
+            tmp_dict_key_36 = mod_consts[162];
             tmp_dict_value_36 = mod_consts[73];
             tmp_res = PyDict_SetItem(tmp_annotations_33, tmp_dict_key_36, tmp_dict_value_36);
             assert(!(tmp_res != 0));
@@ -20833,7 +20833,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_dictset_value = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__37_certificates(tmp_annotations_33);
 
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[198], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[197], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -20892,8 +20892,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_res = PyDict_SetItem(tmp_annotations_34, tmp_dict_key_37, tmp_dict_value_37);
             Py_DECREF(tmp_dict_value_37);
             assert(!(tmp_res != 0));
-            tmp_dict_key_37 = mod_consts[231];
-            tmp_dict_value_37 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[232]);
+            tmp_dict_key_37 = mod_consts[230];
+            tmp_dict_value_37 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[231]);
 
             if (tmp_dict_value_37 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
@@ -20905,7 +20905,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_res = PyDict_SetItem(tmp_annotations_34, tmp_dict_key_37, tmp_dict_value_37);
             Py_DECREF(tmp_dict_value_37);
             assert(!(tmp_res != 0));
-            tmp_dict_key_37 = mod_consts[163];
+            tmp_dict_key_37 = mod_consts[162];
             tmp_dict_value_37 = mod_consts[73];
             tmp_res = PyDict_SetItem(tmp_annotations_34, tmp_dict_key_37, tmp_dict_value_37);
             assert(!(tmp_res != 0));
@@ -20913,7 +20913,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_dictset_value = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__38_add_extension(tmp_annotations_34);
 
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[233], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[232], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -20930,15 +20930,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_annotations_35;
             PyObject *tmp_dict_key_38;
             PyObject *tmp_dict_value_38;
-            tmp_dict_key_38 = mod_consts[247];
-            tmp_dict_value_38 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[113]);
+            tmp_dict_key_38 = mod_consts[246];
+            tmp_dict_value_38 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[112]);
 
             if (tmp_dict_value_38 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_dict_value_38 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[113]);
+                    tmp_dict_value_38 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[112]);
 
                     if (unlikely(tmp_dict_value_38 == NULL)) {
-                        tmp_dict_value_38 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[113]);
+                        tmp_dict_value_38 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[112]);
                     }
 
                     if (tmp_dict_value_38 == NULL) {
@@ -20964,15 +20964,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 tmp_res = PyDict_SetItem(tmp_annotations_35, tmp_dict_key_38, tmp_dict_value_38);
                 Py_DECREF(tmp_dict_value_38);
                 assert(!(tmp_res != 0));
-                tmp_dict_key_38 = mod_consts[228];
-                tmp_expression_name_128 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[101]);
+                tmp_dict_key_38 = mod_consts[227];
+                tmp_expression_name_128 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[100]);
 
                 if (tmp_expression_name_128 == NULL) {
                     if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                        tmp_expression_name_128 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[101]);
+                        tmp_expression_name_128 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[100]);
 
                         if (unlikely(tmp_expression_name_128 == NULL)) {
-                            tmp_expression_name_128 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[101]);
+                            tmp_expression_name_128 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[100]);
                         }
 
                         if (tmp_expression_name_128 == NULL) {
@@ -20989,7 +20989,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                     }
                 }
 
-                tmp_expression_name_127 = LOOKUP_ATTRIBUTE(tmp_expression_name_128, mod_consts[190]);
+                tmp_expression_name_127 = LOOKUP_ATTRIBUTE(tmp_expression_name_128, mod_consts[189]);
                 Py_DECREF(tmp_expression_name_128);
                 if (tmp_expression_name_127 == NULL) {
                     assert(ERROR_OCCURRED());
@@ -21001,14 +21001,14 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                     type_description_2 = "o";
                     goto dict_build_exception_5;
                 }
-                tmp_expression_name_129 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[109]);
+                tmp_expression_name_129 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[108]);
 
                 if (tmp_expression_name_129 == NULL) {
                     if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                        tmp_expression_name_129 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[109]);
+                        tmp_expression_name_129 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[108]);
 
                         if (unlikely(tmp_expression_name_129 == NULL)) {
-                            tmp_expression_name_129 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[109]);
+                            tmp_expression_name_129 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[108]);
                         }
 
                         if (tmp_expression_name_129 == NULL) {
@@ -21025,7 +21025,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                     }
                 }
 
-                tmp_subscript_name_18 = LOOKUP_ATTRIBUTE(tmp_expression_name_129, mod_consts[169]);
+                tmp_subscript_name_18 = LOOKUP_ATTRIBUTE(tmp_expression_name_129, mod_consts[168]);
                 Py_DECREF(tmp_expression_name_129);
                 if (tmp_subscript_name_18 == NULL) {
                     assert(ERROR_OCCURRED());
@@ -21053,15 +21053,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 tmp_res = PyDict_SetItem(tmp_annotations_35, tmp_dict_key_38, tmp_dict_value_38);
                 Py_DECREF(tmp_dict_value_38);
                 assert(!(tmp_res != 0));
-                tmp_dict_key_38 = mod_consts[163];
-                tmp_dict_value_38 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[184]);
+                tmp_dict_key_38 = mod_consts[162];
+                tmp_dict_value_38 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[183]);
 
                 if (tmp_dict_value_38 == NULL) {
                     if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                        tmp_dict_value_38 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[184]);
+                        tmp_dict_value_38 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[183]);
 
                         if (unlikely(tmp_dict_value_38 == NULL)) {
-                            tmp_dict_value_38 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[184]);
+                            tmp_dict_value_38 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[183]);
                         }
 
                         if (tmp_dict_value_38 == NULL) {
@@ -21093,7 +21093,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_dictset_value = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__39_sign(tmp_annotations_35);
 
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[248], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[247], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -21117,7 +21117,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_annotations_37;
             PyObject *tmp_dict_key_40;
             PyObject *tmp_dict_value_40;
-            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[250]);
+            tmp_res = MAPPING_HAS_ITEM(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[249]);
 
             if (tmp_res == -1) {
                 assert(ERROR_OCCURRED());
@@ -21136,11 +21136,11 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 goto condexpr_false_15;
             }
             condexpr_true_15:;
-            tmp_called_name_43 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[250]);
+            tmp_called_name_43 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[249]);
 
             if (unlikely(tmp_called_name_43 == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED())) {
 
-                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[250]);
+                FORMAT_NAME_ERROR(&exception_type, &exception_value, mod_consts[249]);
                 NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(exception_value);
 
@@ -21159,7 +21159,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 type_description_2 = "o";
                 goto frame_exception_exit_11;
             }
-            tmp_dict_key_39 = mod_consts[185];
+            tmp_dict_key_39 = mod_consts[184];
             tmp_dict_value_39 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[87]);
 
             if (tmp_dict_value_39 == NULL) {
@@ -21188,15 +21188,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_res = PyDict_SetItem(tmp_annotations_36, tmp_dict_key_39, tmp_dict_value_39);
             Py_DECREF(tmp_dict_value_39);
             assert(!(tmp_res != 0));
-            tmp_dict_key_39 = mod_consts[163];
-            tmp_dict_value_39 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[184]);
+            tmp_dict_key_39 = mod_consts[162];
+            tmp_dict_value_39 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[183]);
 
             if (tmp_dict_value_39 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_dict_value_39 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[184]);
+                    tmp_dict_value_39 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[183]);
 
                     if (unlikely(tmp_dict_value_39 == NULL)) {
-                        tmp_dict_value_39 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[184]);
+                        tmp_dict_value_39 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[183]);
                     }
 
                     if (tmp_dict_value_39 == NULL) {
@@ -21228,7 +21228,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
             tmp_args_element_name_28 = MAKE_FUNCTION_cryptography$x509$ocsp$$$function__40_build_unsuccessful(tmp_annotations_36);
 
-            frame_3cf1c548e16c37bf19eec4c11980340a_11->m_frame.f_lineno = 466;
+            frame_6c03541f5b253362f02492566b67d2ba_11->m_frame.f_lineno = 466;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_43, tmp_args_element_name_28);
             Py_DECREF(tmp_called_name_43);
             Py_DECREF(tmp_args_element_name_28);
@@ -21244,7 +21244,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             }
             goto condexpr_end_15;
             condexpr_false_15:;
-            tmp_dict_key_40 = mod_consts[185];
+            tmp_dict_key_40 = mod_consts[184];
             tmp_dict_value_40 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[87]);
 
             if (tmp_dict_value_40 == NULL) {
@@ -21273,15 +21273,15 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             tmp_res = PyDict_SetItem(tmp_annotations_37, tmp_dict_key_40, tmp_dict_value_40);
             Py_DECREF(tmp_dict_value_40);
             assert(!(tmp_res != 0));
-            tmp_dict_key_40 = mod_consts[163];
-            tmp_dict_value_40 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[184]);
+            tmp_dict_key_40 = mod_consts[162];
+            tmp_dict_value_40 = PyObject_GetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[183]);
 
             if (tmp_dict_value_40 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_dict_value_40 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[184]);
+                    tmp_dict_value_40 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[183]);
 
                     if (unlikely(tmp_dict_value_40 == NULL)) {
-                        tmp_dict_value_40 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[184]);
+                        tmp_dict_value_40 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[183]);
                     }
 
                     if (tmp_dict_value_40 == NULL) {
@@ -21325,7 +21325,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
                 goto frame_exception_exit_11;
             }
             condexpr_end_15:;
-            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[251], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[250], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -21340,7 +21340,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_3cf1c548e16c37bf19eec4c11980340a_11);
+        RESTORE_FRAME_EXCEPTION(frame_6c03541f5b253362f02492566b67d2ba_11);
 #endif
 
         // Put the previous frame back on top.
@@ -21351,35 +21351,35 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         frame_exception_exit_11:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_3cf1c548e16c37bf19eec4c11980340a_11);
+        RESTORE_FRAME_EXCEPTION(frame_6c03541f5b253362f02492566b67d2ba_11);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_3cf1c548e16c37bf19eec4c11980340a_11, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_3cf1c548e16c37bf19eec4c11980340a_11->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_3cf1c548e16c37bf19eec4c11980340a_11, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_6c03541f5b253362f02492566b67d2ba_11, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_6c03541f5b253362f02492566b67d2ba_11->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_6c03541f5b253362f02492566b67d2ba_11, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_3cf1c548e16c37bf19eec4c11980340a_11,
+            frame_6c03541f5b253362f02492566b67d2ba_11,
             type_description_2,
             outline_9_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_3cf1c548e16c37bf19eec4c11980340a_11 == cache_frame_3cf1c548e16c37bf19eec4c11980340a_11) {
+        if (frame_6c03541f5b253362f02492566b67d2ba_11 == cache_frame_6c03541f5b253362f02492566b67d2ba_11) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_3cf1c548e16c37bf19eec4c11980340a_11);
-            cache_frame_3cf1c548e16c37bf19eec4c11980340a_11 = NULL;
+            Py_DECREF(cache_frame_6c03541f5b253362f02492566b67d2ba_11);
+            cache_frame_6c03541f5b253362f02492566b67d2ba_11 = NULL;
         }
 
-        assertFrameObject(frame_3cf1c548e16c37bf19eec4c11980340a_11);
+        assertFrameObject(frame_6c03541f5b253362f02492566b67d2ba_11);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -21399,7 +21399,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyObject *tmp_compexpr_right_6;
             CHECK_OBJECT(tmp_class_creation_8__bases);
             tmp_compexpr_left_6 = tmp_class_creation_8__bases;
-            tmp_compexpr_right_6 = mod_consts[155];
+            tmp_compexpr_right_6 = mod_consts[154];
             tmp_condition_result_45 = RICH_COMPARE_NE_NBOOL_OBJECT_TUPLE(tmp_compexpr_left_6, tmp_compexpr_right_6);
             if (tmp_condition_result_45 == NUITKA_BOOL_EXCEPTION) {
                 assert(ERROR_OCCURRED());
@@ -21419,8 +21419,8 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             assert(tmp_condition_result_45 != NUITKA_BOOL_UNASSIGNED);
         }
         branch_yes_30:;
-        tmp_dictset_value = mod_consts[155];
-        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[138], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[154];
+        tmp_res = PyObject_SetItem(locals_cryptography$x509$ocsp$$$class__8_OCSPResponseBuilder_358, mod_consts[137], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -21450,7 +21450,7 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
             PyTuple_SET_ITEM0(tmp_args_name_16, 2, tmp_tuple_element_28);
             CHECK_OBJECT(tmp_class_creation_8__class_decl_dict);
             tmp_kwargs_name_16 = tmp_class_creation_8__class_decl_dict;
-            frame_62d70d5012a1c4555691595fcac6515f->m_frame.f_lineno = 358;
+            frame_06a3b060c82e363573d9e551cc9e3c86->m_frame.f_lineno = 358;
             tmp_assign_source_86 = CALL_FUNCTION(tmp_called_name_44, tmp_args_name_16, tmp_kwargs_name_16);
             Py_DECREF(tmp_args_name_16);
             if (tmp_assign_source_86 == NULL) {
@@ -21576,16 +21576,16 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_annotations_38;
         PyObject *tmp_dict_key_41;
         PyObject *tmp_dict_value_41;
-        tmp_dict_key_41 = mod_consts[253];
+        tmp_dict_key_41 = mod_consts[252];
         tmp_dict_value_41 = (PyObject *)&PyBytes_Type;
         tmp_annotations_38 = _PyDict_NewPresized( 2 );
         tmp_res = PyDict_SetItem(tmp_annotations_38, tmp_dict_key_41, tmp_dict_value_41);
         assert(!(tmp_res != 0));
-        tmp_dict_key_41 = mod_consts[163];
-        tmp_dict_value_41 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[161]);
+        tmp_dict_key_41 = mod_consts[162];
+        tmp_dict_value_41 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[160]);
 
         if (unlikely(tmp_dict_value_41 == NULL)) {
-            tmp_dict_value_41 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[161]);
+            tmp_dict_value_41 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[160]);
         }
 
         if (tmp_dict_value_41 == NULL) {
@@ -21618,16 +21618,16 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_annotations_39;
         PyObject *tmp_dict_key_42;
         PyObject *tmp_dict_value_42;
-        tmp_dict_key_42 = mod_consts[253];
+        tmp_dict_key_42 = mod_consts[252];
         tmp_dict_value_42 = (PyObject *)&PyBytes_Type;
         tmp_annotations_39 = _PyDict_NewPresized( 2 );
         tmp_res = PyDict_SetItem(tmp_annotations_39, tmp_dict_key_42, tmp_dict_value_42);
         assert(!(tmp_res != 0));
-        tmp_dict_key_42 = mod_consts[163];
-        tmp_dict_value_42 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[184]);
+        tmp_dict_key_42 = mod_consts[162];
+        tmp_dict_value_42 = GET_STRING_DICT_VALUE(moduledict_cryptography$x509$ocsp, (Nuitka_StringObject *)mod_consts[183]);
 
         if (unlikely(tmp_dict_value_42 == NULL)) {
-            tmp_dict_value_42 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[184]);
+            tmp_dict_value_42 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[183]);
         }
 
         if (tmp_dict_value_42 == NULL) {
@@ -21658,23 +21658,23 @@ PyObject *modulecode_cryptography$x509$ocsp(PyObject *module, struct Nuitka_Meta
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_62d70d5012a1c4555691595fcac6515f);
+    RESTORE_FRAME_EXCEPTION(frame_06a3b060c82e363573d9e551cc9e3c86);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_62d70d5012a1c4555691595fcac6515f);
+    assertFrameObject(frame_06a3b060c82e363573d9e551cc9e3c86);
 
     goto frame_no_exception_11;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_62d70d5012a1c4555691595fcac6515f);
+    RESTORE_FRAME_EXCEPTION(frame_06a3b060c82e363573d9e551cc9e3c86);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_62d70d5012a1c4555691595fcac6515f, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_62d70d5012a1c4555691595fcac6515f->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_62d70d5012a1c4555691595fcac6515f, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_06a3b060c82e363573d9e551cc9e3c86, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_06a3b060c82e363573d9e551cc9e3c86->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_06a3b060c82e363573d9e551cc9e3c86, exception_lineno);
     }
 
     // Put the previous frame back on top.

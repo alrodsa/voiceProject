@@ -65,179 +65,179 @@ void checkModuleConstants_mpl_toolkits$mplot3d$art3d(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_27dcc926c49eeb80de0f0c6c29fbb478;
-static PyCodeObject *codeobj_c2fe34a743fb3f72716c632a8244ae77;
-static PyCodeObject *codeobj_07618661fd1028ee8d3522a3686e0dd4;
-static PyCodeObject *codeobj_c0bfa08c864fdbe3715fa1736f7c1a09;
-static PyCodeObject *codeobj_cb0ace18e25bc1d793d657fe66109f5f;
-static PyCodeObject *codeobj_af54d084aae276790e4df6547d696fe1;
-static PyCodeObject *codeobj_8eb7d5b921f1224daef07841a65228da;
-static PyCodeObject *codeobj_a3df94cc4d55d15155a170504bd5781a;
-static PyCodeObject *codeobj_0629792fd42d7b2f4b1470222ab499d5;
-static PyCodeObject *codeobj_b3d14a5bcb1a9285d9190a58768d142f;
-static PyCodeObject *codeobj_8457da77418f5e8437316df599b7ad52;
-static PyCodeObject *codeobj_4feb7c703e0736b29fc76165803e1e6f;
-static PyCodeObject *codeobj_af4678c899e349f6652d32ecf611b8c0;
-static PyCodeObject *codeobj_54d78a4e13d4117963730b0ff9e2deab;
-static PyCodeObject *codeobj_444e3e6d8379edf10208f795889be03c;
-static PyCodeObject *codeobj_2c95d76f838cdcd546ac1fef951a424c;
-static PyCodeObject *codeobj_bb7586f67a5f32bd053c702be1c2d874;
-static PyCodeObject *codeobj_35c53257df883d017862067a24d2b29d;
-static PyCodeObject *codeobj_416628511ae61e6ee641ce28ad093b24;
-static PyCodeObject *codeobj_b7cfacc99a9d0fa80237d1a7f46f6c25;
-static PyCodeObject *codeobj_6b5d3ce800897df02329afff84ed253c;
-static PyCodeObject *codeobj_68ac56ea93fb1f5293e7a3a6619928b1;
-static PyCodeObject *codeobj_13c767f091765adc8f651265de0d8849;
-static PyCodeObject *codeobj_13ff6c34fade58011fd4e0381bc3392e;
-static PyCodeObject *codeobj_166100917f7a592c435b808f312d955d;
-static PyCodeObject *codeobj_752ba1fcbf2c7fdc68cf04330293cf29;
-static PyCodeObject *codeobj_1a7952008aa34ca84573e7ec09c736ca;
-static PyCodeObject *codeobj_e47659c7c41a61f053cd23a6bdbe4c0c;
-static PyCodeObject *codeobj_f110b211ada6e11b6d27aa9023d8f878;
-static PyCodeObject *codeobj_08bc12f387a522999e6f55a77e2ff132;
-static PyCodeObject *codeobj_07f407febdae4d9e60cb960618cea20e;
-static PyCodeObject *codeobj_8fa6aff5c2f4b92711e9c256d1f118c9;
-static PyCodeObject *codeobj_a9387996af37c5365d010f56b6d3a9c4;
-static PyCodeObject *codeobj_4778a5978c7d8c06564775a095a247c2;
-static PyCodeObject *codeobj_53ccc28474e683e42211d8aaedfd6ae1;
-static PyCodeObject *codeobj_c259580a2f7a26046813c4338c3bd4bc;
-static PyCodeObject *codeobj_9b10165220f03b76c6ed94025c7dcb01;
-static PyCodeObject *codeobj_bd53a12fd9ba977f006da52347cfac08;
-static PyCodeObject *codeobj_24ef3eaffa95a6952d65244d94dfdceb;
-static PyCodeObject *codeobj_d2c763baff12c0315aba171a2f2d1dfd;
-static PyCodeObject *codeobj_d1d9a2f1f5ca9791339da1416ce9e08e;
-static PyCodeObject *codeobj_4f5de935fc76e6a7e2249d70d0d3aad1;
-static PyCodeObject *codeobj_d2fc00b0df82db560090bbcc1e8088ac;
-static PyCodeObject *codeobj_17c4fd654b64f23d19bf5168d7202ac7;
-static PyCodeObject *codeobj_525e5049da746999f737807fc701aa50;
-static PyCodeObject *codeobj_2b3d6418cac66bd0040dd55e5f98be04;
-static PyCodeObject *codeobj_4d965b2b29384cc493657b22f6fc4ba7;
-static PyCodeObject *codeobj_52b08f94f62fede528501ebd12b585da;
-static PyCodeObject *codeobj_763d4ff5ee9d7383793532dccb0593f7;
-static PyCodeObject *codeobj_d8fee9a5024e72fb7de7505cf756396b;
-static PyCodeObject *codeobj_a58a591c84eb629606afa8d537e4d930;
-static PyCodeObject *codeobj_0059c58759a24b4d9633ac0e2172e3bf;
-static PyCodeObject *codeobj_d9c8f2bb65c910e3eb8e9e41907d0a82;
-static PyCodeObject *codeobj_3202215492382951e5b600f541ea64b6;
-static PyCodeObject *codeobj_79208d6b9d371adc5e7320f1a8a33af2;
-static PyCodeObject *codeobj_6d2224ca244efe9d9c5479cb5bcac047;
-static PyCodeObject *codeobj_bfcaba8c3fb018c24c6475001699d5a3;
-static PyCodeObject *codeobj_00eb5387ea643138fbe2b2885ce56667;
-static PyCodeObject *codeobj_8c1667add019f719d24172b0d1c06955;
-static PyCodeObject *codeobj_d69f5c7f50f74b8cb9c38bb0e2087a75;
-static PyCodeObject *codeobj_7099c13384e90c3b98a789810a50bf53;
-static PyCodeObject *codeobj_05e5198d983f0aaef53582907daaf9ba;
-static PyCodeObject *codeobj_cbeacb49ddaada1e8679ae6dcdcef501;
-static PyCodeObject *codeobj_44234b8bfa29608065db8835256fe585;
-static PyCodeObject *codeobj_b707f78515e4977f19170cb2b9f24c80;
-static PyCodeObject *codeobj_5cf8f014787c829acc75007fe6987187;
-static PyCodeObject *codeobj_a2aba7d00fc9ce139f14fa18a16f3a91;
-static PyCodeObject *codeobj_02320c3e53dcf82a4d575cf3a3929478;
-static PyCodeObject *codeobj_ba78da36cfaae963e0af19754581b47f;
-static PyCodeObject *codeobj_93fbeee15905192d01870bd9369d5046;
-static PyCodeObject *codeobj_9d8e7e02ef5877a5b245a25219b89693;
-static PyCodeObject *codeobj_b484d416efb30dc980da12816857db56;
-static PyCodeObject *codeobj_303576e9a876da764b8989ce9b6de16a;
-static PyCodeObject *codeobj_ce2c957ff5cf8530fe78457cfdfc2eca;
-static PyCodeObject *codeobj_5abf5cf7d56898633ff0079bbb435a2d;
-static PyCodeObject *codeobj_27d43359c98aca3e5ba06fe2406a8663;
-static PyCodeObject *codeobj_6c04f5093cbe157348c056bd1035f2a4;
-static PyCodeObject *codeobj_25387fa300c953e856d6cfc4c9f0e487;
-static PyCodeObject *codeobj_ab29b294a6e0d3a3da251abbd778e806;
-static PyCodeObject *codeobj_bd88637a561d6d49696e719f8f3ec799;
-static PyCodeObject *codeobj_4647efa2e26c81116c813b07c08cdec3;
-static PyCodeObject *codeobj_9b3005b6cc92daf710b4c0176a0961ea;
-static PyCodeObject *codeobj_0ff2516c755cc23ad5495db168b984e8;
-static PyCodeObject *codeobj_beec34d580ef781d2fe34f73ee1209b4;
-static PyCodeObject *codeobj_c041e4e65215769122804eeef8e73516;
+static PyCodeObject *codeobj_05087e57ec33cdc8a3523d5e0992e90d;
+static PyCodeObject *codeobj_e968b08aefb01c02feecc3d3386ed3f0;
+static PyCodeObject *codeobj_f69ffb4c16e1e16f1ab33fabbba9e195;
+static PyCodeObject *codeobj_53e70f57d7030df00390ec3cdbcd8e56;
+static PyCodeObject *codeobj_a68fed8f9a32ea6349f574328cf9d9e7;
+static PyCodeObject *codeobj_45ba208f28510d0479645db99205e86b;
+static PyCodeObject *codeobj_b1a4627b52c6ae45d87aaa03209c2f02;
+static PyCodeObject *codeobj_a383b06051274f19fc97217a7b5ab4ca;
+static PyCodeObject *codeobj_e62ded93f95a2ab459f86f1c0b68b502;
+static PyCodeObject *codeobj_f9eedd99fa83bae4e88f649999b7a479;
+static PyCodeObject *codeobj_693f73276d0316d2cc77364692c9d694;
+static PyCodeObject *codeobj_2ba10cb447105eeb981e69c9b1786a74;
+static PyCodeObject *codeobj_5f439b5e337acb4c1cb2d6f5ca624110;
+static PyCodeObject *codeobj_aecf92cc7b4b96dcb93972880cf89058;
+static PyCodeObject *codeobj_0b719ac8d47333bf91f57081ce2b482f;
+static PyCodeObject *codeobj_5e2c4cb624509251f84402cb0025e59f;
+static PyCodeObject *codeobj_24bf64935ec27e5edf66a6813c51d070;
+static PyCodeObject *codeobj_1ea2e54f2ac84f954985355118b8a9ef;
+static PyCodeObject *codeobj_9dcfc0e8873478eae4b293b0bd6ad4ed;
+static PyCodeObject *codeobj_e57809f6791e7499a3fdaa2b00b1ea8b;
+static PyCodeObject *codeobj_5eefb1636aac3c578e9174782a01ab4c;
+static PyCodeObject *codeobj_d0360fb44511b7cc96b287e29a6b9b18;
+static PyCodeObject *codeobj_75cdb105a84d8515d23b829258a05858;
+static PyCodeObject *codeobj_b299f38ea88c782d130e6fcc277fea74;
+static PyCodeObject *codeobj_1f16a44144fe99a39bbff51e31bd4d58;
+static PyCodeObject *codeobj_d4a80e760b2893a0aab9549507ebf606;
+static PyCodeObject *codeobj_6c23e530b420d01fcb892a5adfcc4974;
+static PyCodeObject *codeobj_b8087622e3aaaaaffe03f83e953cb4df;
+static PyCodeObject *codeobj_62e8fbbce515d7ed9365a0f40a7e1521;
+static PyCodeObject *codeobj_04dba8d4545bcdc9383259f777be02f0;
+static PyCodeObject *codeobj_5059be3e41fd5774757e39fc72f28b2d;
+static PyCodeObject *codeobj_63fcf7ee625556a9f83956a7d7583329;
+static PyCodeObject *codeobj_64e4ce53479dbfcaf13932d6ee71454b;
+static PyCodeObject *codeobj_16264440f8743f9d0b62d5162bc36db6;
+static PyCodeObject *codeobj_0c5078ed52be3e8e8df8277e569dddc4;
+static PyCodeObject *codeobj_293664f1a3eae1da3b665702d7c4a852;
+static PyCodeObject *codeobj_50cfc983dc49f4e95c760b36739e4b0b;
+static PyCodeObject *codeobj_d981b4c4ca72ca2c5a726b59af1ee0c1;
+static PyCodeObject *codeobj_a304a22c244c411591ffccaf17317fb3;
+static PyCodeObject *codeobj_c564fe8c67123b7b88733850fbfc84a6;
+static PyCodeObject *codeobj_d62bff6824f20219b0caccfd686e4201;
+static PyCodeObject *codeobj_1579f78ba25f77c59ff5df54bd9e4512;
+static PyCodeObject *codeobj_6f79e474c38ed7510c3056bcbbd21b8a;
+static PyCodeObject *codeobj_19e9002d141ffae0decf6cf15a2b4d31;
+static PyCodeObject *codeobj_aec5e178050cac6046fffe47015e5831;
+static PyCodeObject *codeobj_080f5b098ab90e0861feab8593a14934;
+static PyCodeObject *codeobj_36a3e666e299aad9a7ed599483c2710c;
+static PyCodeObject *codeobj_76305ac8068951c919f299417d93c772;
+static PyCodeObject *codeobj_84014db248f881715aae0a3ca374ec6a;
+static PyCodeObject *codeobj_f5f109e73b9339aa2efa87244987e383;
+static PyCodeObject *codeobj_106c12281d82fb301190777e5f4adab0;
+static PyCodeObject *codeobj_2c9659fa9b019156c36add753f796f46;
+static PyCodeObject *codeobj_f2dbf6fe79145f4dab9d3fe34f12ad3e;
+static PyCodeObject *codeobj_feada5e0596d26f7a8c18da5436848a9;
+static PyCodeObject *codeobj_f9f845e887972d445493300ac38dadfc;
+static PyCodeObject *codeobj_1669d78b2e89120affd8aac8baf1c331;
+static PyCodeObject *codeobj_ec2e59cdd36dbf9aa213ca339552a171;
+static PyCodeObject *codeobj_4129542e15aaa02bf83768e90b5da699;
+static PyCodeObject *codeobj_05f3b669d2a3655a6a09b7c82fae102c;
+static PyCodeObject *codeobj_b52ae1a3dce04fe019b0824cba1fb8d9;
+static PyCodeObject *codeobj_8822f043da15b1564c0700e4dfa7b742;
+static PyCodeObject *codeobj_d376a0253a738d1ca16bd2d9711bb86e;
+static PyCodeObject *codeobj_db4c638aa2717eb9251ef71fb4659b83;
+static PyCodeObject *codeobj_046c6a6c31af0e60f568521c624f4c61;
+static PyCodeObject *codeobj_78f37890def300391ac0a42d05bc7f48;
+static PyCodeObject *codeobj_cdde693b9a3d8a1bdf4be4065bf14c58;
+static PyCodeObject *codeobj_7e9a64fd7707da107a14f4d4f17b26a6;
+static PyCodeObject *codeobj_0f554c3d385fa843287b4cdae82f3bd0;
+static PyCodeObject *codeobj_abbb9b654cb05f8a4848267bc01ac4c6;
+static PyCodeObject *codeobj_a081f7e24f88a5b1e5ec16d12ef68699;
+static PyCodeObject *codeobj_9f18279adaeb21d7617e26715c8ffcd4;
+static PyCodeObject *codeobj_edf0ba0694edae13b16dbe9d2ceccb1e;
+static PyCodeObject *codeobj_14657e559d0d4746a64210c5e6b2199c;
+static PyCodeObject *codeobj_e2b538be8303821ed901499af0e537c4;
+static PyCodeObject *codeobj_ef01ee12923ba17959e718a3074b3e34;
+static PyCodeObject *codeobj_d5d4b52d50387805428c7a7290dd29c1;
+static PyCodeObject *codeobj_7259fbe7be6391cae6294b3c66cb7138;
+static PyCodeObject *codeobj_fa5aac9aaf4aa5d46bcab8134609f586;
+static PyCodeObject *codeobj_09107cff93eae5653f257a274a280cee;
+static PyCodeObject *codeobj_bed77eb0d00065c145103ce4892f47ef;
+static PyCodeObject *codeobj_24c6b5a617b08669296defb1247bebc4;
+static PyCodeObject *codeobj_269b116253b99dcacd9c13c3cb35cafe;
+static PyCodeObject *codeobj_e2a316c5f084e5f7877d9cc6630e87bf;
+static PyCodeObject *codeobj_87e7883400ccbc9cd932ed7e438de200;
+static PyCodeObject *codeobj_8a75d1d6e18010a608d2b5620b4c3758;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[249]; CHECK_OBJECT(module_filename_obj);
-    codeobj_27dcc926c49eeb80de0f0c6c29fbb478 = MAKE_CODEOBJECT(module_filename_obj, 763, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[217], mod_consts[350], NULL, 1, 0, 0);
-    codeobj_c2fe34a743fb3f72716c632a8244ae77 = MAKE_CODEOBJECT(module_filename_obj, 766, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[206], mod_consts[351], NULL, 1, 0, 0);
-    codeobj_07618661fd1028ee8d3522a3686e0dd4 = MAKE_CODEOBJECT(module_filename_obj, 772, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[353], NULL, 1, 0, 0);
-    codeobj_c0bfa08c864fdbe3715fa1736f7c1a09 = MAKE_CODEOBJECT(module_filename_obj, 211, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[354], NULL, 1, 0, 0);
-    codeobj_cb0ace18e25bc1d793d657fe66109f5f = MAKE_CODEOBJECT(module_filename_obj, 237, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[354], NULL, 1, 0, 0);
-    codeobj_af54d084aae276790e4df6547d696fe1 = MAKE_CODEOBJECT(module_filename_obj, 269, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[355], NULL, 1, 0, 0);
-    codeobj_8eb7d5b921f1224daef07841a65228da = MAKE_CODEOBJECT(module_filename_obj, 706, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[356], NULL, 1, 0, 0);
-    codeobj_a3df94cc4d55d15155a170504bd5781a = MAKE_CODEOBJECT(module_filename_obj, 748, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[357], NULL, 1, 0, 0);
-    codeobj_0629792fd42d7b2f4b1470222ab499d5 = MAKE_CODEOBJECT(module_filename_obj, 202, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[358], NULL, 1, 0, 0);
-    codeobj_b3d14a5bcb1a9285d9190a58768d142f = MAKE_CODEOBJECT(module_filename_obj, 221, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[358], NULL, 1, 0, 0);
-    codeobj_8457da77418f5e8437316df599b7ad52 = MAKE_CODEOBJECT(module_filename_obj, 203, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[359], NULL, 1, 0, 0);
-    codeobj_4feb7c703e0736b29fc76165803e1e6f = MAKE_CODEOBJECT(module_filename_obj, 224, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[359], NULL, 1, 0, 0);
-    codeobj_af4678c899e349f6652d32ecf611b8c0 = MAKE_CODEOBJECT(module_filename_obj, 306, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[359], NULL, 1, 0, 0);
-    codeobj_54d78a4e13d4117963730b0ff9e2deab = MAKE_CODEOBJECT(module_filename_obj, 272, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[360], NULL, 1, 0, 0);
-    codeobj_444e3e6d8379edf10208f795889be03c = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[361], NULL, NULL, 0, 0, 0);
-    codeobj_2c95d76f838cdcd546ac1fef951a424c = MAKE_CODEOBJECT(module_filename_obj, 128, CO_NOFREE, mod_consts[61], mod_consts[362], NULL, 0, 0, 0);
-    codeobj_bb7586f67a5f32bd053c702be1c2d874 = MAKE_CODEOBJECT(module_filename_obj, 246, CO_NOFREE, mod_consts[90], mod_consts[362], NULL, 0, 0, 0);
-    codeobj_35c53257df883d017862067a24d2b29d = MAKE_CODEOBJECT(module_filename_obj, 295, CO_NOFREE, mod_consts[104], mod_consts[362], NULL, 0, 0, 0);
-    codeobj_416628511ae61e6ee641ce28ad093b24 = MAKE_CODEOBJECT(module_filename_obj, 377, CO_NOFREE, mod_consts[166], mod_consts[362], NULL, 0, 0, 0);
-    codeobj_b7cfacc99a9d0fa80237d1a7f46f6c25 = MAKE_CODEOBJECT(module_filename_obj, 445, CO_NOFREE, mod_consts[165], mod_consts[362], NULL, 0, 0, 0);
-    codeobj_6b5d3ce800897df02329afff84ed253c = MAKE_CODEOBJECT(module_filename_obj, 326, CO_NOFREE, mod_consts[119], mod_consts[362], NULL, 0, 0, 0);
-    codeobj_68ac56ea93fb1f5293e7a3a6619928b1 = MAKE_CODEOBJECT(module_filename_obj, 634, CO_NOFREE, mod_consts[226], mod_consts[362], NULL, 0, 0, 0);
-    codeobj_13c767f091765adc8f651265de0d8849 = MAKE_CODEOBJECT(module_filename_obj, 74, CO_NOFREE, mod_consts[43], mod_consts[362], NULL, 0, 0, 0);
-    codeobj_13ff6c34fade58011fd4e0381bc3392e = MAKE_CODEOBJECT(module_filename_obj, 331, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[21], mod_consts[363], NULL, 2, 2, 0);
-    codeobj_166100917f7a592c435b808f312d955d = MAKE_CODEOBJECT(module_filename_obj, 655, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS, mod_consts[21], mod_consts[364], mod_consts[362], 2, 1, 0);
-    codeobj_752ba1fcbf2c7fdc68cf04330293cf29 = MAKE_CODEOBJECT(module_filename_obj, 94, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[21], mod_consts[365], NULL, 6, 0, 0);
-    codeobj_1a7952008aa34ca84573e7ec09c736ca = MAKE_CODEOBJECT(module_filename_obj, 133, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[21], mod_consts[366], NULL, 4, 0, 0);
-    codeobj_e47659c7c41a61f053cd23a6bdbe4c0c = MAKE_CODEOBJECT(module_filename_obj, 300, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[21], mod_consts[367], NULL, 1, 2, 0);
-    codeobj_f110b211ada6e11b6d27aa9023d8f878 = MAKE_CODEOBJECT(module_filename_obj, 382, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS, mod_consts[21], mod_consts[368], mod_consts[362], 1, 3, 0);
-    codeobj_08bc12f387a522999e6f55a77e2ff132 = MAKE_CODEOBJECT(module_filename_obj, 450, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS, mod_consts[21], mod_consts[368], mod_consts[362], 1, 3, 0);
-    codeobj_07f407febdae4d9e60cb960618cea20e = MAKE_CODEOBJECT(module_filename_obj, 868, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[349], mod_consts[369], NULL, 2, 0, 0);
-    codeobj_8fa6aff5c2f4b92711e9c256d1f118c9 = MAKE_CODEOBJECT(module_filename_obj, 349, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[115], mod_consts[370], NULL, 1, 0, 0);
-    codeobj_a9387996af37c5365d010f56b6d3a9c4 = MAKE_CODEOBJECT(module_filename_obj, 23, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[267], mod_consts[371], NULL, 1, 0, 0);
-    codeobj_4778a5978c7d8c06564775a095a247c2 = MAKE_CODEOBJECT(module_filename_obj, 31, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[40], mod_consts[371], NULL, 1, 0, 0);
-    codeobj_53ccc28474e683e42211d8aaedfd6ae1 = MAKE_CODEOBJECT(module_filename_obj, 197, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[68], mod_consts[372], NULL, 3, 0, 0);
-    codeobj_c259580a2f7a26046813c4338c3bd4bc = MAKE_CODEOBJECT(module_filename_obj, 216, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[71], mod_consts[373], NULL, 3, 0, 0);
-    codeobj_9b10165220f03b76c6ed94025c7dcb01 = MAKE_CODEOBJECT(module_filename_obj, 207, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[88], mod_consts[374], NULL, 3, 0, 0);
-    codeobj_bd53a12fd9ba977f006da52347cfac08 = MAKE_CODEOBJECT(module_filename_obj, 231, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[225], mod_consts[375], NULL, 3, 0, 0);
-    codeobj_24ef3eaffa95a6952d65244d94dfdceb = MAKE_CODEOBJECT(module_filename_obj, 537, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[80], mod_consts[376], NULL, 1, 0, 0);
-    codeobj_d2c763baff12c0315aba171a2f2d1dfd = MAKE_CODEOBJECT(module_filename_obj, 875, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[132], mod_consts[377], NULL, 2, 0, 0);
-    codeobj_d1d9a2f1f5ca9791339da1416ce9e08e = MAKE_CODEOBJECT(module_filename_obj, 316, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[87], mod_consts[378], NULL, 2, 0, 0);
-    codeobj_4f5de935fc76e6a7e2249d70d0d3aad1 = MAKE_CODEOBJECT(module_filename_obj, 339, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[87], mod_consts[378], NULL, 2, 0, 0);
-    codeobj_d2fc00b0df82db560090bbcc1e8088ac = MAKE_CODEOBJECT(module_filename_obj, 740, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[87], mod_consts[379], NULL, 2, 0, 0);
-    codeobj_17c4fd654b64f23d19bf5168d7202ac7 = MAKE_CODEOBJECT(module_filename_obj, 422, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[87], mod_consts[380], NULL, 2, 0, 0);
-    codeobj_525e5049da746999f737807fc701aa50 = MAKE_CODEOBJECT(module_filename_obj, 492, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[87], mod_consts[381], NULL, 2, 0, 0);
-    codeobj_2b3d6418cac66bd0040dd55e5f98be04 = MAKE_CODEOBJECT(module_filename_obj, 263, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[87], mod_consts[382], NULL, 2, 0, 0);
-    codeobj_4d965b2b29384cc493657b22f6fc4ba7 = MAKE_CODEOBJECT(module_filename_obj, 105, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[41], mod_consts[383], NULL, 2, 0, 0);
-    codeobj_52b08f94f62fede528501ebd12b585da = MAKE_CODEOBJECT(module_filename_obj, 282, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[41], mod_consts[384], NULL, 3, 0, 0);
-    codeobj_763d4ff5ee9d7383793532dccb0593f7 = MAKE_CODEOBJECT(module_filename_obj, 182, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[41], mod_consts[385], NULL, 2, 0, 0);
-    codeobj_d8fee9a5024e72fb7de7505cf756396b = MAKE_CODEOBJECT(module_filename_obj, 170, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[293], mod_consts[386], NULL, 1, 0, 0);
-    codeobj_a58a591c84eb629606afa8d537e4d930 = MAKE_CODEOBJECT(module_filename_obj, 39, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[27], mod_consts[387], NULL, 1, 0, 0);
-    codeobj_0059c58759a24b4d9633ac0e2172e3bf = MAKE_CODEOBJECT(module_filename_obj, 819, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[130], mod_consts[386], NULL, 1, 0, 0);
-    codeobj_d9c8f2bb65c910e3eb8e9e41907d0a82 = MAKE_CODEOBJECT(module_filename_obj, 313, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[96], mod_consts[386], NULL, 1, 0, 0);
-    codeobj_3202215492382951e5b600f541ea64b6 = MAKE_CODEOBJECT(module_filename_obj, 816, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[96], mod_consts[386], NULL, 1, 0, 0);
-    codeobj_79208d6b9d371adc5e7320f1a8a33af2 = MAKE_CODEOBJECT(module_filename_obj, 310, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[111], mod_consts[386], NULL, 1, 0, 0);
-    codeobj_6d2224ca244efe9d9c5479cb5bcac047 = MAKE_CODEOBJECT(module_filename_obj, 116, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[284], mod_consts[388], NULL, 2, 0, 0);
-    codeobj_bfcaba8c3fb018c24c6475001699d5a3 = MAKE_CODEOBJECT(module_filename_obj, 697, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[185], mod_consts[389], NULL, 2, 0, 0);
-    codeobj_00eb5387ea643138fbe2b2885ce56667 = MAKE_CODEOBJECT(module_filename_obj, 832, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[53], mod_consts[390], NULL, 4, 0, 0);
-    codeobj_8c1667add019f719d24172b0d1c06955 = MAKE_CODEOBJECT(module_filename_obj, 190, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[296], mod_consts[391], NULL, 3, 0, 0);
-    codeobj_d69f5c7f50f74b8cb9c38bb0e2087a75 = MAKE_CODEOBJECT(module_filename_obj, 288, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[304], mod_consts[392], NULL, 3, 0, 0);
-    codeobj_7099c13384e90c3b98a789810a50bf53 = MAKE_CODEOBJECT(module_filename_obj, 360, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[316], mod_consts[393], NULL, 3, 0, 0);
-    codeobj_05e5198d983f0aaef53582907daaf9ba = MAKE_CODEOBJECT(module_filename_obj, 608, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[330], mod_consts[394], NULL, 4, 0, 0);
-    codeobj_cbeacb49ddaada1e8679ae6dcdcef501 = MAKE_CODEOBJECT(module_filename_obj, 367, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[317], mod_consts[395], NULL, 3, 0, 0);
-    codeobj_44234b8bfa29608065db8835256fe585 = MAKE_CODEOBJECT(module_filename_obj, 823, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[348], mod_consts[396], NULL, 3, 0, 0);
-    codeobj_b707f78515e4977f19170cb2b9f24c80 = MAKE_CODEOBJECT(module_filename_obj, 848, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[229], mod_consts[390], NULL, 4, 0, 0);
-    codeobj_5cf8f014787c829acc75007fe6987187 = MAKE_CODEOBJECT(module_filename_obj, 724, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[22], mod_consts[386], NULL, 1, 0, 0);
-    codeobj_a2aba7d00fc9ce139f14fa18a16f3a91 = MAKE_CODEOBJECT(module_filename_obj, 335, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[22], mod_consts[397], NULL, 4, 0, 0);
-    codeobj_02320c3e53dcf82a4d575cf3a3929478 = MAKE_CODEOBJECT(module_filename_obj, 304, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[22], mod_consts[398], NULL, 4, 0, 0);
-    codeobj_ba78da36cfaae963e0af19754581b47f = MAKE_CODEOBJECT(module_filename_obj, 98, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[22], mod_consts[399], NULL, 3, 0, 0);
-    codeobj_93fbeee15905192d01870bd9369d5046 = MAKE_CODEOBJECT(module_filename_obj, 407, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[22], mod_consts[400], NULL, 3, 0, 0);
-    codeobj_9d8e7e02ef5877a5b245a25219b89693 = MAKE_CODEOBJECT(module_filename_obj, 475, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[22], mod_consts[400], NULL, 3, 0, 0);
-    codeobj_b484d416efb30dc980da12816857db56 = MAKE_CODEOBJECT(module_filename_obj, 140, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[22], mod_consts[401], NULL, 3, 0, 0);
-    codeobj_303576e9a876da764b8989ce9b6de16a = MAKE_CODEOBJECT(module_filename_obj, 801, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[223], mod_consts[402], NULL, 2, 0, 0);
-    codeobj_ce2c957ff5cf8530fe78457cfdfc2eca = MAKE_CODEOBJECT(module_filename_obj, 147, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_NOFREE, mod_consts[291], mod_consts[403], NULL, 1, 0, 0);
-    codeobj_5abf5cf7d56898633ff0079bbb435a2d = MAKE_CODEOBJECT(module_filename_obj, 797, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[220], mod_consts[404], NULL, 2, 0, 0);
-    codeobj_27d43359c98aca3e5ba06fe2406a8663 = MAKE_CODEOBJECT(module_filename_obj, 793, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[219], mod_consts[404], NULL, 2, 0, 0);
-    codeobj_6c04f5093cbe157348c056bd1035f2a4 = MAKE_CODEOBJECT(module_filename_obj, 256, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[78], mod_consts[405], NULL, 2, 0, 0);
-    codeobj_25387fa300c953e856d6cfc4c9f0e487 = MAKE_CODEOBJECT(module_filename_obj, 251, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[298], mod_consts[406], NULL, 2, 0, 0);
-    codeobj_ab29b294a6e0d3a3da251abbd778e806 = MAKE_CODEOBJECT(module_filename_obj, 402, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[298], mod_consts[406], NULL, 2, 0, 0);
-    codeobj_bd88637a561d6d49696e719f8f3ec799 = MAKE_CODEOBJECT(module_filename_obj, 470, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[298], mod_consts[406], NULL, 2, 0, 0);
-    codeobj_4647efa2e26c81116c813b07c08cdec3 = MAKE_CODEOBJECT(module_filename_obj, 735, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[298], mod_consts[406], NULL, 2, 0, 0);
-    codeobj_9b3005b6cc92daf710b4c0176a0961ea = MAKE_CODEOBJECT(module_filename_obj, 709, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[187], mod_consts[407], NULL, 3, 0, 0);
-    codeobj_0ff2516c755cc23ad5495db168b984e8 = MAKE_CODEOBJECT(module_filename_obj, 716, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[212], mod_consts[408], NULL, 3, 0, 0);
-    codeobj_beec34d580ef781d2fe34f73ee1209b4 = MAKE_CODEOBJECT(module_filename_obj, 683, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[168], mod_consts[409], NULL, 2, 0, 0);
-    codeobj_c041e4e65215769122804eeef8e73516 = MAKE_CODEOBJECT(module_filename_obj, 122, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[287], mod_consts[410], NULL, 3, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[349]); CHECK_OBJECT(module_filename_obj);
+    codeobj_05087e57ec33cdc8a3523d5e0992e90d = MAKE_CODEOBJECT(module_filename_obj, 763, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[217], mod_consts[350], NULL, 1, 0, 0);
+    codeobj_e968b08aefb01c02feecc3d3386ed3f0 = MAKE_CODEOBJECT(module_filename_obj, 766, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[206], mod_consts[351], NULL, 1, 0, 0);
+    codeobj_f69ffb4c16e1e16f1ab33fabbba9e195 = MAKE_CODEOBJECT(module_filename_obj, 772, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[353], NULL, 1, 0, 0);
+    codeobj_53e70f57d7030df00390ec3cdbcd8e56 = MAKE_CODEOBJECT(module_filename_obj, 211, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[354], NULL, 1, 0, 0);
+    codeobj_a68fed8f9a32ea6349f574328cf9d9e7 = MAKE_CODEOBJECT(module_filename_obj, 237, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[354], NULL, 1, 0, 0);
+    codeobj_45ba208f28510d0479645db99205e86b = MAKE_CODEOBJECT(module_filename_obj, 269, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[355], NULL, 1, 0, 0);
+    codeobj_b1a4627b52c6ae45d87aaa03209c2f02 = MAKE_CODEOBJECT(module_filename_obj, 706, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[356], NULL, 1, 0, 0);
+    codeobj_a383b06051274f19fc97217a7b5ab4ca = MAKE_CODEOBJECT(module_filename_obj, 748, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[357], NULL, 1, 0, 0);
+    codeobj_e62ded93f95a2ab459f86f1c0b68b502 = MAKE_CODEOBJECT(module_filename_obj, 202, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[358], NULL, 1, 0, 0);
+    codeobj_f9eedd99fa83bae4e88f649999b7a479 = MAKE_CODEOBJECT(module_filename_obj, 221, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[358], NULL, 1, 0, 0);
+    codeobj_693f73276d0316d2cc77364692c9d694 = MAKE_CODEOBJECT(module_filename_obj, 203, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[359], NULL, 1, 0, 0);
+    codeobj_2ba10cb447105eeb981e69c9b1786a74 = MAKE_CODEOBJECT(module_filename_obj, 224, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[359], NULL, 1, 0, 0);
+    codeobj_5f439b5e337acb4c1cb2d6f5ca624110 = MAKE_CODEOBJECT(module_filename_obj, 306, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[359], NULL, 1, 0, 0);
+    codeobj_aecf92cc7b4b96dcb93972880cf89058 = MAKE_CODEOBJECT(module_filename_obj, 272, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[352], mod_consts[360], NULL, 1, 0, 0);
+    codeobj_0b719ac8d47333bf91f57081ce2b482f = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[361], NULL, NULL, 0, 0, 0);
+    codeobj_5e2c4cb624509251f84402cb0025e59f = MAKE_CODEOBJECT(module_filename_obj, 128, CO_NOFREE, mod_consts[61], mod_consts[362], NULL, 0, 0, 0);
+    codeobj_24bf64935ec27e5edf66a6813c51d070 = MAKE_CODEOBJECT(module_filename_obj, 246, CO_NOFREE, mod_consts[90], mod_consts[362], NULL, 0, 0, 0);
+    codeobj_1ea2e54f2ac84f954985355118b8a9ef = MAKE_CODEOBJECT(module_filename_obj, 295, CO_NOFREE, mod_consts[104], mod_consts[362], NULL, 0, 0, 0);
+    codeobj_9dcfc0e8873478eae4b293b0bd6ad4ed = MAKE_CODEOBJECT(module_filename_obj, 377, CO_NOFREE, mod_consts[166], mod_consts[362], NULL, 0, 0, 0);
+    codeobj_e57809f6791e7499a3fdaa2b00b1ea8b = MAKE_CODEOBJECT(module_filename_obj, 445, CO_NOFREE, mod_consts[165], mod_consts[362], NULL, 0, 0, 0);
+    codeobj_5eefb1636aac3c578e9174782a01ab4c = MAKE_CODEOBJECT(module_filename_obj, 326, CO_NOFREE, mod_consts[119], mod_consts[362], NULL, 0, 0, 0);
+    codeobj_d0360fb44511b7cc96b287e29a6b9b18 = MAKE_CODEOBJECT(module_filename_obj, 634, CO_NOFREE, mod_consts[226], mod_consts[362], NULL, 0, 0, 0);
+    codeobj_75cdb105a84d8515d23b829258a05858 = MAKE_CODEOBJECT(module_filename_obj, 74, CO_NOFREE, mod_consts[43], mod_consts[362], NULL, 0, 0, 0);
+    codeobj_b299f38ea88c782d130e6fcc277fea74 = MAKE_CODEOBJECT(module_filename_obj, 331, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[21], mod_consts[363], NULL, 2, 2, 0);
+    codeobj_1f16a44144fe99a39bbff51e31bd4d58 = MAKE_CODEOBJECT(module_filename_obj, 655, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS, mod_consts[21], mod_consts[364], mod_consts[362], 2, 1, 0);
+    codeobj_d4a80e760b2893a0aab9549507ebf606 = MAKE_CODEOBJECT(module_filename_obj, 94, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[21], mod_consts[365], NULL, 6, 0, 0);
+    codeobj_6c23e530b420d01fcb892a5adfcc4974 = MAKE_CODEOBJECT(module_filename_obj, 133, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[21], mod_consts[366], NULL, 4, 0, 0);
+    codeobj_b8087622e3aaaaaffe03f83e953cb4df = MAKE_CODEOBJECT(module_filename_obj, 300, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS | CO_NOFREE, mod_consts[21], mod_consts[367], NULL, 1, 2, 0);
+    codeobj_62e8fbbce515d7ed9365a0f40a7e1521 = MAKE_CODEOBJECT(module_filename_obj, 382, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS, mod_consts[21], mod_consts[368], mod_consts[362], 1, 3, 0);
+    codeobj_04dba8d4545bcdc9383259f777be02f0 = MAKE_CODEOBJECT(module_filename_obj, 450, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS, mod_consts[21], mod_consts[368], mod_consts[362], 1, 3, 0);
+    codeobj_5059be3e41fd5774757e39fc72f28b2d = MAKE_CODEOBJECT(module_filename_obj, 868, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[348], mod_consts[369], NULL, 2, 0, 0);
+    codeobj_63fcf7ee625556a9f83956a7d7583329 = MAKE_CODEOBJECT(module_filename_obj, 349, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[115], mod_consts[370], NULL, 1, 0, 0);
+    codeobj_64e4ce53479dbfcaf13932d6ee71454b = MAKE_CODEOBJECT(module_filename_obj, 23, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[266], mod_consts[371], NULL, 1, 0, 0);
+    codeobj_16264440f8743f9d0b62d5162bc36db6 = MAKE_CODEOBJECT(module_filename_obj, 31, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[40], mod_consts[371], NULL, 1, 0, 0);
+    codeobj_0c5078ed52be3e8e8df8277e569dddc4 = MAKE_CODEOBJECT(module_filename_obj, 197, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[68], mod_consts[372], NULL, 3, 0, 0);
+    codeobj_293664f1a3eae1da3b665702d7c4a852 = MAKE_CODEOBJECT(module_filename_obj, 216, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[71], mod_consts[373], NULL, 3, 0, 0);
+    codeobj_50cfc983dc49f4e95c760b36739e4b0b = MAKE_CODEOBJECT(module_filename_obj, 207, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[88], mod_consts[374], NULL, 3, 0, 0);
+    codeobj_d981b4c4ca72ca2c5a726b59af1ee0c1 = MAKE_CODEOBJECT(module_filename_obj, 231, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[225], mod_consts[375], NULL, 3, 0, 0);
+    codeobj_a304a22c244c411591ffccaf17317fb3 = MAKE_CODEOBJECT(module_filename_obj, 537, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[80], mod_consts[376], NULL, 1, 0, 0);
+    codeobj_c564fe8c67123b7b88733850fbfc84a6 = MAKE_CODEOBJECT(module_filename_obj, 875, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[132], mod_consts[377], NULL, 2, 0, 0);
+    codeobj_d62bff6824f20219b0caccfd686e4201 = MAKE_CODEOBJECT(module_filename_obj, 316, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[87], mod_consts[378], NULL, 2, 0, 0);
+    codeobj_1579f78ba25f77c59ff5df54bd9e4512 = MAKE_CODEOBJECT(module_filename_obj, 339, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[87], mod_consts[378], NULL, 2, 0, 0);
+    codeobj_6f79e474c38ed7510c3056bcbbd21b8a = MAKE_CODEOBJECT(module_filename_obj, 740, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[87], mod_consts[379], NULL, 2, 0, 0);
+    codeobj_19e9002d141ffae0decf6cf15a2b4d31 = MAKE_CODEOBJECT(module_filename_obj, 422, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[87], mod_consts[380], NULL, 2, 0, 0);
+    codeobj_aec5e178050cac6046fffe47015e5831 = MAKE_CODEOBJECT(module_filename_obj, 492, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[87], mod_consts[381], NULL, 2, 0, 0);
+    codeobj_080f5b098ab90e0861feab8593a14934 = MAKE_CODEOBJECT(module_filename_obj, 263, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[87], mod_consts[382], NULL, 2, 0, 0);
+    codeobj_36a3e666e299aad9a7ed599483c2710c = MAKE_CODEOBJECT(module_filename_obj, 105, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[41], mod_consts[383], NULL, 2, 0, 0);
+    codeobj_76305ac8068951c919f299417d93c772 = MAKE_CODEOBJECT(module_filename_obj, 282, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[41], mod_consts[384], NULL, 3, 0, 0);
+    codeobj_84014db248f881715aae0a3ca374ec6a = MAKE_CODEOBJECT(module_filename_obj, 182, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[41], mod_consts[385], NULL, 2, 0, 0);
+    codeobj_f5f109e73b9339aa2efa87244987e383 = MAKE_CODEOBJECT(module_filename_obj, 170, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[292], mod_consts[386], NULL, 1, 0, 0);
+    codeobj_106c12281d82fb301190777e5f4adab0 = MAKE_CODEOBJECT(module_filename_obj, 39, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[27], mod_consts[387], NULL, 1, 0, 0);
+    codeobj_2c9659fa9b019156c36add753f796f46 = MAKE_CODEOBJECT(module_filename_obj, 819, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[130], mod_consts[386], NULL, 1, 0, 0);
+    codeobj_f2dbf6fe79145f4dab9d3fe34f12ad3e = MAKE_CODEOBJECT(module_filename_obj, 313, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[96], mod_consts[386], NULL, 1, 0, 0);
+    codeobj_feada5e0596d26f7a8c18da5436848a9 = MAKE_CODEOBJECT(module_filename_obj, 816, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[96], mod_consts[386], NULL, 1, 0, 0);
+    codeobj_f9f845e887972d445493300ac38dadfc = MAKE_CODEOBJECT(module_filename_obj, 310, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[111], mod_consts[386], NULL, 1, 0, 0);
+    codeobj_1669d78b2e89120affd8aac8baf1c331 = MAKE_CODEOBJECT(module_filename_obj, 116, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[283], mod_consts[388], NULL, 2, 0, 0);
+    codeobj_ec2e59cdd36dbf9aa213ca339552a171 = MAKE_CODEOBJECT(module_filename_obj, 697, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[185], mod_consts[389], NULL, 2, 0, 0);
+    codeobj_4129542e15aaa02bf83768e90b5da699 = MAKE_CODEOBJECT(module_filename_obj, 832, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[53], mod_consts[390], NULL, 4, 0, 0);
+    codeobj_05f3b669d2a3655a6a09b7c82fae102c = MAKE_CODEOBJECT(module_filename_obj, 190, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[295], mod_consts[391], NULL, 3, 0, 0);
+    codeobj_b52ae1a3dce04fe019b0824cba1fb8d9 = MAKE_CODEOBJECT(module_filename_obj, 288, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[303], mod_consts[392], NULL, 3, 0, 0);
+    codeobj_8822f043da15b1564c0700e4dfa7b742 = MAKE_CODEOBJECT(module_filename_obj, 360, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[315], mod_consts[393], NULL, 3, 0, 0);
+    codeobj_d376a0253a738d1ca16bd2d9711bb86e = MAKE_CODEOBJECT(module_filename_obj, 608, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[329], mod_consts[394], NULL, 4, 0, 0);
+    codeobj_db4c638aa2717eb9251ef71fb4659b83 = MAKE_CODEOBJECT(module_filename_obj, 367, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[316], mod_consts[395], NULL, 3, 0, 0);
+    codeobj_046c6a6c31af0e60f568521c624f4c61 = MAKE_CODEOBJECT(module_filename_obj, 823, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[347], mod_consts[396], NULL, 3, 0, 0);
+    codeobj_78f37890def300391ac0a42d05bc7f48 = MAKE_CODEOBJECT(module_filename_obj, 848, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[229], mod_consts[390], NULL, 4, 0, 0);
+    codeobj_cdde693b9a3d8a1bdf4be4065bf14c58 = MAKE_CODEOBJECT(module_filename_obj, 724, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[22], mod_consts[386], NULL, 1, 0, 0);
+    codeobj_7e9a64fd7707da107a14f4d4f17b26a6 = MAKE_CODEOBJECT(module_filename_obj, 335, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[22], mod_consts[397], NULL, 4, 0, 0);
+    codeobj_0f554c3d385fa843287b4cdae82f3bd0 = MAKE_CODEOBJECT(module_filename_obj, 304, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[22], mod_consts[398], NULL, 4, 0, 0);
+    codeobj_abbb9b654cb05f8a4848267bc01ac4c6 = MAKE_CODEOBJECT(module_filename_obj, 98, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[22], mod_consts[399], NULL, 3, 0, 0);
+    codeobj_a081f7e24f88a5b1e5ec16d12ef68699 = MAKE_CODEOBJECT(module_filename_obj, 407, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[22], mod_consts[400], NULL, 3, 0, 0);
+    codeobj_9f18279adaeb21d7617e26715c8ffcd4 = MAKE_CODEOBJECT(module_filename_obj, 475, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[22], mod_consts[400], NULL, 3, 0, 0);
+    codeobj_edf0ba0694edae13b16dbe9d2ceccb1e = MAKE_CODEOBJECT(module_filename_obj, 140, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[22], mod_consts[401], NULL, 3, 0, 0);
+    codeobj_14657e559d0d4746a64210c5e6b2199c = MAKE_CODEOBJECT(module_filename_obj, 801, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[223], mod_consts[402], NULL, 2, 0, 0);
+    codeobj_e2b538be8303821ed901499af0e537c4 = MAKE_CODEOBJECT(module_filename_obj, 147, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_NOFREE, mod_consts[290], mod_consts[403], NULL, 1, 0, 0);
+    codeobj_ef01ee12923ba17959e718a3074b3e34 = MAKE_CODEOBJECT(module_filename_obj, 797, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[220], mod_consts[404], NULL, 2, 0, 0);
+    codeobj_d5d4b52d50387805428c7a7290dd29c1 = MAKE_CODEOBJECT(module_filename_obj, 793, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[219], mod_consts[404], NULL, 2, 0, 0);
+    codeobj_7259fbe7be6391cae6294b3c66cb7138 = MAKE_CODEOBJECT(module_filename_obj, 256, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[78], mod_consts[405], NULL, 2, 0, 0);
+    codeobj_fa5aac9aaf4aa5d46bcab8134609f586 = MAKE_CODEOBJECT(module_filename_obj, 251, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[297], mod_consts[406], NULL, 2, 0, 0);
+    codeobj_09107cff93eae5653f257a274a280cee = MAKE_CODEOBJECT(module_filename_obj, 402, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[297], mod_consts[406], NULL, 2, 0, 0);
+    codeobj_bed77eb0d00065c145103ce4892f47ef = MAKE_CODEOBJECT(module_filename_obj, 470, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[297], mod_consts[406], NULL, 2, 0, 0);
+    codeobj_24c6b5a617b08669296defb1247bebc4 = MAKE_CODEOBJECT(module_filename_obj, 735, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[297], mod_consts[406], NULL, 2, 0, 0);
+    codeobj_269b116253b99dcacd9c13c3cb35cafe = MAKE_CODEOBJECT(module_filename_obj, 709, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[187], mod_consts[407], NULL, 3, 0, 0);
+    codeobj_e2a316c5f084e5f7877d9cc6630e87bf = MAKE_CODEOBJECT(module_filename_obj, 716, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[212], mod_consts[408], NULL, 3, 0, 0);
+    codeobj_87e7883400ccbc9cd932ed7e438de200 = MAKE_CODEOBJECT(module_filename_obj, 683, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[168], mod_consts[409], NULL, 2, 0, 0);
+    codeobj_8a75d1d6e18010a608d2b5620b4c3758 = MAKE_CODEOBJECT(module_filename_obj, 122, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[286], mod_consts[410], NULL, 3, 0, 0);
 }
 
 // The module function declarations.
@@ -460,13 +460,13 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__1__norm_angle(struc
 
     // Local variable declarations.
     PyObject *par_a = python_pars[0];
-    struct Nuitka_FrameObject *frame_a9387996af37c5365d010f56b6d3a9c4;
+    struct Nuitka_FrameObject *frame_64e4ce53479dbfcaf13932d6ee71454b;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_a9387996af37c5365d010f56b6d3a9c4 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_64e4ce53479dbfcaf13932d6ee71454b = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -475,31 +475,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__1__norm_angle(struc
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_a9387996af37c5365d010f56b6d3a9c4)) {
-        Py_XDECREF(cache_frame_a9387996af37c5365d010f56b6d3a9c4);
+    if (isFrameUnusable(cache_frame_64e4ce53479dbfcaf13932d6ee71454b)) {
+        Py_XDECREF(cache_frame_64e4ce53479dbfcaf13932d6ee71454b);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_a9387996af37c5365d010f56b6d3a9c4 == NULL) {
+        if (cache_frame_64e4ce53479dbfcaf13932d6ee71454b == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_a9387996af37c5365d010f56b6d3a9c4 = MAKE_FUNCTION_FRAME(codeobj_a9387996af37c5365d010f56b6d3a9c4, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+        cache_frame_64e4ce53479dbfcaf13932d6ee71454b = MAKE_FUNCTION_FRAME(codeobj_64e4ce53479dbfcaf13932d6ee71454b, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_a9387996af37c5365d010f56b6d3a9c4->m_type_description == NULL);
-    frame_a9387996af37c5365d010f56b6d3a9c4 = cache_frame_a9387996af37c5365d010f56b6d3a9c4;
+    assert(cache_frame_64e4ce53479dbfcaf13932d6ee71454b->m_type_description == NULL);
+    frame_64e4ce53479dbfcaf13932d6ee71454b = cache_frame_64e4ce53479dbfcaf13932d6ee71454b;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_a9387996af37c5365d010f56b6d3a9c4);
+    pushFrameStack(frame_64e4ce53479dbfcaf13932d6ee71454b);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_a9387996af37c5365d010f56b6d3a9c4) == 2); // Frame stack
+    assert(Py_REFCNT(frame_64e4ce53479dbfcaf13932d6ee71454b) == 2); // Frame stack
 
     // Framed code:
     {
@@ -610,7 +610,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__1__norm_angle(struc
     branch_no_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a9387996af37c5365d010f56b6d3a9c4);
+    RESTORE_FRAME_EXCEPTION(frame_64e4ce53479dbfcaf13932d6ee71454b);
 #endif
 
     // Put the previous frame back on top.
@@ -621,35 +621,35 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__1__norm_angle(struc
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a9387996af37c5365d010f56b6d3a9c4);
+    RESTORE_FRAME_EXCEPTION(frame_64e4ce53479dbfcaf13932d6ee71454b);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a9387996af37c5365d010f56b6d3a9c4, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a9387996af37c5365d010f56b6d3a9c4->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a9387996af37c5365d010f56b6d3a9c4, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_64e4ce53479dbfcaf13932d6ee71454b, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_64e4ce53479dbfcaf13932d6ee71454b->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_64e4ce53479dbfcaf13932d6ee71454b, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_a9387996af37c5365d010f56b6d3a9c4,
+        frame_64e4ce53479dbfcaf13932d6ee71454b,
         type_description_1,
         par_a
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_a9387996af37c5365d010f56b6d3a9c4 == cache_frame_a9387996af37c5365d010f56b6d3a9c4) {
+    if (frame_64e4ce53479dbfcaf13932d6ee71454b == cache_frame_64e4ce53479dbfcaf13932d6ee71454b) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_a9387996af37c5365d010f56b6d3a9c4);
-        cache_frame_a9387996af37c5365d010f56b6d3a9c4 = NULL;
+        Py_DECREF(cache_frame_64e4ce53479dbfcaf13932d6ee71454b);
+        cache_frame_64e4ce53479dbfcaf13932d6ee71454b = NULL;
     }
 
-    assertFrameObject(frame_a9387996af37c5365d010f56b6d3a9c4);
+    assertFrameObject(frame_64e4ce53479dbfcaf13932d6ee71454b);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -721,13 +721,13 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__2__norm_text_angle(
 
     // Local variable declarations.
     PyObject *par_a = python_pars[0];
-    struct Nuitka_FrameObject *frame_4778a5978c7d8c06564775a095a247c2;
+    struct Nuitka_FrameObject *frame_16264440f8743f9d0b62d5162bc36db6;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_4778a5978c7d8c06564775a095a247c2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_16264440f8743f9d0b62d5162bc36db6 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -736,31 +736,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__2__norm_text_angle(
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_4778a5978c7d8c06564775a095a247c2)) {
-        Py_XDECREF(cache_frame_4778a5978c7d8c06564775a095a247c2);
+    if (isFrameUnusable(cache_frame_16264440f8743f9d0b62d5162bc36db6)) {
+        Py_XDECREF(cache_frame_16264440f8743f9d0b62d5162bc36db6);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_4778a5978c7d8c06564775a095a247c2 == NULL) {
+        if (cache_frame_16264440f8743f9d0b62d5162bc36db6 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_4778a5978c7d8c06564775a095a247c2 = MAKE_FUNCTION_FRAME(codeobj_4778a5978c7d8c06564775a095a247c2, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+        cache_frame_16264440f8743f9d0b62d5162bc36db6 = MAKE_FUNCTION_FRAME(codeobj_16264440f8743f9d0b62d5162bc36db6, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_4778a5978c7d8c06564775a095a247c2->m_type_description == NULL);
-    frame_4778a5978c7d8c06564775a095a247c2 = cache_frame_4778a5978c7d8c06564775a095a247c2;
+    assert(cache_frame_16264440f8743f9d0b62d5162bc36db6->m_type_description == NULL);
+    frame_16264440f8743f9d0b62d5162bc36db6 = cache_frame_16264440f8743f9d0b62d5162bc36db6;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_4778a5978c7d8c06564775a095a247c2);
+    pushFrameStack(frame_16264440f8743f9d0b62d5162bc36db6);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_4778a5978c7d8c06564775a095a247c2) == 2); // Frame stack
+    assert(Py_REFCNT(frame_16264440f8743f9d0b62d5162bc36db6) == 2); // Frame stack
 
     // Framed code:
     {
@@ -871,7 +871,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__2__norm_text_angle(
     branch_no_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4778a5978c7d8c06564775a095a247c2);
+    RESTORE_FRAME_EXCEPTION(frame_16264440f8743f9d0b62d5162bc36db6);
 #endif
 
     // Put the previous frame back on top.
@@ -882,35 +882,35 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__2__norm_text_angle(
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4778a5978c7d8c06564775a095a247c2);
+    RESTORE_FRAME_EXCEPTION(frame_16264440f8743f9d0b62d5162bc36db6);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_4778a5978c7d8c06564775a095a247c2, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_4778a5978c7d8c06564775a095a247c2->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_4778a5978c7d8c06564775a095a247c2, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_16264440f8743f9d0b62d5162bc36db6, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_16264440f8743f9d0b62d5162bc36db6->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_16264440f8743f9d0b62d5162bc36db6, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_4778a5978c7d8c06564775a095a247c2,
+        frame_16264440f8743f9d0b62d5162bc36db6,
         type_description_1,
         par_a
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_4778a5978c7d8c06564775a095a247c2 == cache_frame_4778a5978c7d8c06564775a095a247c2) {
+    if (frame_16264440f8743f9d0b62d5162bc36db6 == cache_frame_16264440f8743f9d0b62d5162bc36db6) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_4778a5978c7d8c06564775a095a247c2);
-        cache_frame_4778a5978c7d8c06564775a095a247c2 = NULL;
+        Py_DECREF(cache_frame_16264440f8743f9d0b62d5162bc36db6);
+        cache_frame_16264440f8743f9d0b62d5162bc36db6 = NULL;
     }
 
-    assertFrameObject(frame_4778a5978c7d8c06564775a095a247c2);
+    assertFrameObject(frame_16264440f8743f9d0b62d5162bc36db6);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -982,14 +982,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__3_get_dir_vector(st
 
     // Local variable declarations.
     PyObject *par_zdir = python_pars[0];
-    struct Nuitka_FrameObject *frame_a58a591c84eb629606afa8d537e4d930;
+    struct Nuitka_FrameObject *frame_106c12281d82fb301190777e5f4adab0;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_a58a591c84eb629606afa8d537e4d930 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_106c12281d82fb301190777e5f4adab0 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -997,31 +997,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__3_get_dir_vector(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_a58a591c84eb629606afa8d537e4d930)) {
-        Py_XDECREF(cache_frame_a58a591c84eb629606afa8d537e4d930);
+    if (isFrameUnusable(cache_frame_106c12281d82fb301190777e5f4adab0)) {
+        Py_XDECREF(cache_frame_106c12281d82fb301190777e5f4adab0);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_a58a591c84eb629606afa8d537e4d930 == NULL) {
+        if (cache_frame_106c12281d82fb301190777e5f4adab0 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_a58a591c84eb629606afa8d537e4d930 = MAKE_FUNCTION_FRAME(codeobj_a58a591c84eb629606afa8d537e4d930, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+        cache_frame_106c12281d82fb301190777e5f4adab0 = MAKE_FUNCTION_FRAME(codeobj_106c12281d82fb301190777e5f4adab0, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_a58a591c84eb629606afa8d537e4d930->m_type_description == NULL);
-    frame_a58a591c84eb629606afa8d537e4d930 = cache_frame_a58a591c84eb629606afa8d537e4d930;
+    assert(cache_frame_106c12281d82fb301190777e5f4adab0->m_type_description == NULL);
+    frame_106c12281d82fb301190777e5f4adab0 = cache_frame_106c12281d82fb301190777e5f4adab0;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_a58a591c84eb629606afa8d537e4d930);
+    pushFrameStack(frame_106c12281d82fb301190777e5f4adab0);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_a58a591c84eb629606afa8d537e4d930) == 2); // Frame stack
+    assert(Py_REFCNT(frame_106c12281d82fb301190777e5f4adab0) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1082,7 +1082,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__3_get_dir_vector(st
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_a58a591c84eb629606afa8d537e4d930->m_frame.f_lineno = 61;
+        frame_106c12281d82fb301190777e5f4adab0->m_frame.f_lineno = 61;
         tmp_return_value = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_1,
             mod_consts[7],
@@ -1161,7 +1161,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__3_get_dir_vector(st
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_a58a591c84eb629606afa8d537e4d930->m_frame.f_lineno = 63;
+        frame_106c12281d82fb301190777e5f4adab0->m_frame.f_lineno = 63;
         tmp_return_value = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_2,
             mod_consts[7],
@@ -1240,7 +1240,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__3_get_dir_vector(st
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_a58a591c84eb629606afa8d537e4d930->m_frame.f_lineno = 65;
+        frame_106c12281d82fb301190777e5f4adab0->m_frame.f_lineno = 65;
         tmp_return_value = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_3,
             mod_consts[7],
@@ -1294,7 +1294,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__3_get_dir_vector(st
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_a58a591c84eb629606afa8d537e4d930->m_frame.f_lineno = 67;
+        frame_106c12281d82fb301190777e5f4adab0->m_frame.f_lineno = 67;
         tmp_return_value = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_4,
             mod_consts[7],
@@ -1347,7 +1347,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__3_get_dir_vector(st
         }
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_1 = par_zdir;
-        frame_a58a591c84eb629606afa8d537e4d930->m_frame.f_lineno = 68;
+        frame_106c12281d82fb301190777e5f4adab0->m_frame.f_lineno = 68;
         tmp_call_result_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_5, mod_consts[14], tmp_args_element_name_1);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1454,7 +1454,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__3_get_dir_vector(st
         PyObject *tmp_raise_type_1;
         PyObject *tmp_make_exception_arg_1;
         tmp_make_exception_arg_1 = mod_consts[17];
-        frame_a58a591c84eb629606afa8d537e4d930->m_frame.f_lineno = 71;
+        frame_106c12281d82fb301190777e5f4adab0->m_frame.f_lineno = 71;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(PyExc_ValueError, tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
@@ -1470,7 +1470,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__3_get_dir_vector(st
     branch_end_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a58a591c84eb629606afa8d537e4d930);
+    RESTORE_FRAME_EXCEPTION(frame_106c12281d82fb301190777e5f4adab0);
 #endif
 
     // Put the previous frame back on top.
@@ -1480,7 +1480,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__3_get_dir_vector(st
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a58a591c84eb629606afa8d537e4d930);
+    RESTORE_FRAME_EXCEPTION(frame_106c12281d82fb301190777e5f4adab0);
 #endif
 
     // Put the previous frame back on top.
@@ -1491,35 +1491,35 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__3_get_dir_vector(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a58a591c84eb629606afa8d537e4d930);
+    RESTORE_FRAME_EXCEPTION(frame_106c12281d82fb301190777e5f4adab0);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a58a591c84eb629606afa8d537e4d930, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a58a591c84eb629606afa8d537e4d930->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a58a591c84eb629606afa8d537e4d930, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_106c12281d82fb301190777e5f4adab0, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_106c12281d82fb301190777e5f4adab0->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_106c12281d82fb301190777e5f4adab0, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_a58a591c84eb629606afa8d537e4d930,
+        frame_106c12281d82fb301190777e5f4adab0,
         type_description_1,
         par_zdir
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_a58a591c84eb629606afa8d537e4d930 == cache_frame_a58a591c84eb629606afa8d537e4d930) {
+    if (frame_106c12281d82fb301190777e5f4adab0 == cache_frame_106c12281d82fb301190777e5f4adab0) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_a58a591c84eb629606afa8d537e4d930);
-        cache_frame_a58a591c84eb629606afa8d537e4d930 = NULL;
+        Py_DECREF(cache_frame_106c12281d82fb301190777e5f4adab0);
+        cache_frame_106c12281d82fb301190777e5f4adab0 = NULL;
     }
 
-    assertFrameObject(frame_a58a591c84eb629606afa8d537e4d930);
+    assertFrameObject(frame_106c12281d82fb301190777e5f4adab0);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1592,14 +1592,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__4___init__(struct N
     PyObject *par_text = python_pars[4];
     PyObject *par_zdir = python_pars[5];
     PyObject *par_kwargs = python_pars[6];
-    struct Nuitka_FrameObject *frame_752ba1fcbf2c7fdc68cf04330293cf29;
+    struct Nuitka_FrameObject *frame_d4a80e760b2893a0aab9549507ebf606;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_752ba1fcbf2c7fdc68cf04330293cf29 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d4a80e760b2893a0aab9549507ebf606 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -1608,31 +1608,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__4___init__(struct N
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_752ba1fcbf2c7fdc68cf04330293cf29)) {
-        Py_XDECREF(cache_frame_752ba1fcbf2c7fdc68cf04330293cf29);
+    if (isFrameUnusable(cache_frame_d4a80e760b2893a0aab9549507ebf606)) {
+        Py_XDECREF(cache_frame_d4a80e760b2893a0aab9549507ebf606);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_752ba1fcbf2c7fdc68cf04330293cf29 == NULL) {
+        if (cache_frame_d4a80e760b2893a0aab9549507ebf606 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_752ba1fcbf2c7fdc68cf04330293cf29 = MAKE_FUNCTION_FRAME(codeobj_752ba1fcbf2c7fdc68cf04330293cf29, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_d4a80e760b2893a0aab9549507ebf606 = MAKE_FUNCTION_FRAME(codeobj_d4a80e760b2893a0aab9549507ebf606, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_752ba1fcbf2c7fdc68cf04330293cf29->m_type_description == NULL);
-    frame_752ba1fcbf2c7fdc68cf04330293cf29 = cache_frame_752ba1fcbf2c7fdc68cf04330293cf29;
+    assert(cache_frame_d4a80e760b2893a0aab9549507ebf606->m_type_description == NULL);
+    frame_d4a80e760b2893a0aab9549507ebf606 = cache_frame_d4a80e760b2893a0aab9549507ebf606;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_752ba1fcbf2c7fdc68cf04330293cf29);
+    pushFrameStack(frame_d4a80e760b2893a0aab9549507ebf606);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_752ba1fcbf2c7fdc68cf04330293cf29) == 2); // Frame stack
+    assert(Py_REFCNT(frame_d4a80e760b2893a0aab9549507ebf606) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1726,7 +1726,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__4___init__(struct N
         tmp_args_element_name_1 = par_z;
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_2 = par_zdir;
-        frame_752ba1fcbf2c7fdc68cf04330293cf29->m_frame.f_lineno = 96;
+        frame_d4a80e760b2893a0aab9549507ebf606->m_frame.f_lineno = 96;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_2 = CALL_METHOD_WITH_ARGS2(
@@ -1750,7 +1750,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__4___init__(struct N
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_752ba1fcbf2c7fdc68cf04330293cf29);
+    RESTORE_FRAME_EXCEPTION(frame_d4a80e760b2893a0aab9549507ebf606);
 #endif
 
     // Put the previous frame back on top.
@@ -1761,18 +1761,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__4___init__(struct N
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_752ba1fcbf2c7fdc68cf04330293cf29);
+    RESTORE_FRAME_EXCEPTION(frame_d4a80e760b2893a0aab9549507ebf606);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_752ba1fcbf2c7fdc68cf04330293cf29, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_752ba1fcbf2c7fdc68cf04330293cf29->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_752ba1fcbf2c7fdc68cf04330293cf29, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d4a80e760b2893a0aab9549507ebf606, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d4a80e760b2893a0aab9549507ebf606->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d4a80e760b2893a0aab9549507ebf606, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_752ba1fcbf2c7fdc68cf04330293cf29,
+        frame_d4a80e760b2893a0aab9549507ebf606,
         type_description_1,
         par_self,
         par_x,
@@ -1785,17 +1785,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__4___init__(struct N
 
 
     // Release cached frame if used for exception.
-    if (frame_752ba1fcbf2c7fdc68cf04330293cf29 == cache_frame_752ba1fcbf2c7fdc68cf04330293cf29) {
+    if (frame_d4a80e760b2893a0aab9549507ebf606 == cache_frame_d4a80e760b2893a0aab9549507ebf606) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_752ba1fcbf2c7fdc68cf04330293cf29);
-        cache_frame_752ba1fcbf2c7fdc68cf04330293cf29 = NULL;
+        Py_DECREF(cache_frame_d4a80e760b2893a0aab9549507ebf606);
+        cache_frame_d4a80e760b2893a0aab9549507ebf606 = NULL;
     }
 
-    assertFrameObject(frame_752ba1fcbf2c7fdc68cf04330293cf29);
+    assertFrameObject(frame_d4a80e760b2893a0aab9549507ebf606);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1904,7 +1904,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__5_set_3d_properties
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_ba78da36cfaae963e0af19754581b47f;
+    struct Nuitka_FrameObject *frame_abbb9b654cb05f8a4848267bc01ac4c6;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -1920,7 +1920,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__5_set_3d_properties
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_ba78da36cfaae963e0af19754581b47f = NULL;
+    static struct Nuitka_FrameObject *cache_frame_abbb9b654cb05f8a4848267bc01ac4c6 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
@@ -1929,31 +1929,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__5_set_3d_properties
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ba78da36cfaae963e0af19754581b47f)) {
-        Py_XDECREF(cache_frame_ba78da36cfaae963e0af19754581b47f);
+    if (isFrameUnusable(cache_frame_abbb9b654cb05f8a4848267bc01ac4c6)) {
+        Py_XDECREF(cache_frame_abbb9b654cb05f8a4848267bc01ac4c6);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ba78da36cfaae963e0af19754581b47f == NULL) {
+        if (cache_frame_abbb9b654cb05f8a4848267bc01ac4c6 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ba78da36cfaae963e0af19754581b47f = MAKE_FUNCTION_FRAME(codeobj_ba78da36cfaae963e0af19754581b47f, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_abbb9b654cb05f8a4848267bc01ac4c6 = MAKE_FUNCTION_FRAME(codeobj_abbb9b654cb05f8a4848267bc01ac4c6, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ba78da36cfaae963e0af19754581b47f->m_type_description == NULL);
-    frame_ba78da36cfaae963e0af19754581b47f = cache_frame_ba78da36cfaae963e0af19754581b47f;
+    assert(cache_frame_abbb9b654cb05f8a4848267bc01ac4c6->m_type_description == NULL);
+    frame_abbb9b654cb05f8a4848267bc01ac4c6 = cache_frame_abbb9b654cb05f8a4848267bc01ac4c6;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ba78da36cfaae963e0af19754581b47f);
+    pushFrameStack(frame_abbb9b654cb05f8a4848267bc01ac4c6);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ba78da36cfaae963e0af19754581b47f) == 2); // Frame stack
+    assert(Py_REFCNT(frame_abbb9b654cb05f8a4848267bc01ac4c6) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -1963,7 +1963,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__5_set_3d_properties
         PyObject *tmp_called_instance_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_ba78da36cfaae963e0af19754581b47f->m_frame.f_lineno = 99;
+        frame_abbb9b654cb05f8a4848267bc01ac4c6->m_frame.f_lineno = 99;
         tmp_iter_arg_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[23]);
         if (tmp_iter_arg_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2184,7 +2184,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__5_set_3d_properties
         CHECK_OBJECT(par_z);
         tmp_tuple_element_1 = par_z;
         PyTuple_SET_ITEM0(tmp_args_element_name_1, 2, tmp_tuple_element_1);
-        frame_ba78da36cfaae963e0af19754581b47f->m_frame.f_lineno = 100;
+        frame_abbb9b654cb05f8a4848267bc01ac4c6->m_frame.f_lineno = 100;
         tmp_assattr_name_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[7], tmp_args_element_name_1);
         Py_DECREF(tmp_args_element_name_1);
         if (tmp_assattr_name_1 == NULL) {
@@ -2246,7 +2246,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__5_set_3d_properties
         }
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_2 = par_zdir;
-        frame_ba78da36cfaae963e0af19754581b47f->m_frame.f_lineno = 101;
+        frame_abbb9b654cb05f8a4848267bc01ac4c6->m_frame.f_lineno = 101;
         tmp_assattr_name_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_2);
         if (tmp_assattr_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2315,7 +2315,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__5_set_3d_properties
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ba78da36cfaae963e0af19754581b47f);
+    RESTORE_FRAME_EXCEPTION(frame_abbb9b654cb05f8a4848267bc01ac4c6);
 #endif
 
     // Put the previous frame back on top.
@@ -2326,18 +2326,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__5_set_3d_properties
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ba78da36cfaae963e0af19754581b47f);
+    RESTORE_FRAME_EXCEPTION(frame_abbb9b654cb05f8a4848267bc01ac4c6);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ba78da36cfaae963e0af19754581b47f, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ba78da36cfaae963e0af19754581b47f->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ba78da36cfaae963e0af19754581b47f, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_abbb9b654cb05f8a4848267bc01ac4c6, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_abbb9b654cb05f8a4848267bc01ac4c6->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_abbb9b654cb05f8a4848267bc01ac4c6, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ba78da36cfaae963e0af19754581b47f,
+        frame_abbb9b654cb05f8a4848267bc01ac4c6,
         type_description_1,
         par_self,
         par_z,
@@ -2348,17 +2348,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__5_set_3d_properties
 
 
     // Release cached frame if used for exception.
-    if (frame_ba78da36cfaae963e0af19754581b47f == cache_frame_ba78da36cfaae963e0af19754581b47f) {
+    if (frame_abbb9b654cb05f8a4848267bc01ac4c6 == cache_frame_abbb9b654cb05f8a4848267bc01ac4c6) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ba78da36cfaae963e0af19754581b47f);
-        cache_frame_ba78da36cfaae963e0af19754581b47f = NULL;
+        Py_DECREF(cache_frame_abbb9b654cb05f8a4848267bc01ac4c6);
+        cache_frame_abbb9b654cb05f8a4848267bc01ac4c6 = NULL;
     }
 
-    assertFrameObject(frame_ba78da36cfaae963e0af19754581b47f);
+    assertFrameObject(frame_abbb9b654cb05f8a4848267bc01ac4c6);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2451,7 +2451,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__6_draw(struct Nuitk
     PyObject *var_dx = NULL;
     PyObject *var_dy = NULL;
     PyObject *var_angle = NULL;
-    struct Nuitka_FrameObject *frame_4d965b2b29384cc493657b22f6fc4ba7;
+    struct Nuitka_FrameObject *frame_36a3e666e299aad9a7ed599483c2710c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -2459,7 +2459,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__6_draw(struct Nuitk
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_4d965b2b29384cc493657b22f6fc4ba7 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_36a3e666e299aad9a7ed599483c2710c = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -2468,31 +2468,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__6_draw(struct Nuitk
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_4d965b2b29384cc493657b22f6fc4ba7)) {
-        Py_XDECREF(cache_frame_4d965b2b29384cc493657b22f6fc4ba7);
+    if (isFrameUnusable(cache_frame_36a3e666e299aad9a7ed599483c2710c)) {
+        Py_XDECREF(cache_frame_36a3e666e299aad9a7ed599483c2710c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_4d965b2b29384cc493657b22f6fc4ba7 == NULL) {
+        if (cache_frame_36a3e666e299aad9a7ed599483c2710c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_4d965b2b29384cc493657b22f6fc4ba7 = MAKE_FUNCTION_FRAME(codeobj_4d965b2b29384cc493657b22f6fc4ba7, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_36a3e666e299aad9a7ed599483c2710c = MAKE_FUNCTION_FRAME(codeobj_36a3e666e299aad9a7ed599483c2710c, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_4d965b2b29384cc493657b22f6fc4ba7->m_type_description == NULL);
-    frame_4d965b2b29384cc493657b22f6fc4ba7 = cache_frame_4d965b2b29384cc493657b22f6fc4ba7;
+    assert(cache_frame_36a3e666e299aad9a7ed599483c2710c->m_type_description == NULL);
+    frame_36a3e666e299aad9a7ed599483c2710c = cache_frame_36a3e666e299aad9a7ed599483c2710c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_4d965b2b29384cc493657b22f6fc4ba7);
+    pushFrameStack(frame_36a3e666e299aad9a7ed599483c2710c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_4d965b2b29384cc493657b22f6fc4ba7) == 2); // Frame stack
+    assert(Py_REFCNT(frame_36a3e666e299aad9a7ed599483c2710c) == 2); // Frame stack
 
     // Framed code:
     {
@@ -2636,7 +2636,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__6_draw(struct Nuitk
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_4d965b2b29384cc493657b22f6fc4ba7->m_frame.f_lineno = 106;
+        frame_36a3e666e299aad9a7ed599483c2710c->m_frame.f_lineno = 106;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -2877,7 +2877,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__6_draw(struct Nuitk
         tmp_args_element_name_4 = var_dy;
         CHECK_OBJECT(var_dx);
         tmp_args_element_name_5 = var_dx;
-        frame_4d965b2b29384cc493657b22f6fc4ba7->m_frame.f_lineno = 110;
+        frame_36a3e666e299aad9a7ed599483c2710c->m_frame.f_lineno = 110;
         {
             PyObject *call_args[] = {tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_args_element_name_3 = CALL_METHOD_WITH_ARGS2(
@@ -2897,7 +2897,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__6_draw(struct Nuitk
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_4d965b2b29384cc493657b22f6fc4ba7->m_frame.f_lineno = 110;
+        frame_36a3e666e299aad9a7ed599483c2710c->m_frame.f_lineno = 110;
         tmp_assign_source_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_3);
@@ -3019,7 +3019,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__6_draw(struct Nuitk
         goto frame_exception_exit_1;
         // Finished with no exception for tuple_build:
         tuple_build_noexception_1:;
-        frame_4d965b2b29384cc493657b22f6fc4ba7->m_frame.f_lineno = 111;
+        frame_36a3e666e299aad9a7ed599483c2710c->m_frame.f_lineno = 111;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_6);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_6);
@@ -3084,7 +3084,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__6_draw(struct Nuitk
         }
         CHECK_OBJECT(var_angle);
         tmp_args_element_name_8 = var_angle;
-        frame_4d965b2b29384cc493657b22f6fc4ba7->m_frame.f_lineno = 112;
+        frame_36a3e666e299aad9a7ed599483c2710c->m_frame.f_lineno = 112;
         tmp_args_element_name_7 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_8);
         if (tmp_args_element_name_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3096,7 +3096,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__6_draw(struct Nuitk
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_4d965b2b29384cc493657b22f6fc4ba7->m_frame.f_lineno = 112;
+        frame_36a3e666e299aad9a7ed599483c2710c->m_frame.f_lineno = 112;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_4);
         Py_DECREF(tmp_args_element_name_7);
@@ -3184,7 +3184,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__6_draw(struct Nuitk
         }
 
         tmp_args_element_name_10 = par_renderer;
-        frame_4d965b2b29384cc493657b22f6fc4ba7->m_frame.f_lineno = 113;
+        frame_36a3e666e299aad9a7ed599483c2710c->m_frame.f_lineno = 113;
         {
             PyObject *call_args[] = {tmp_args_element_name_9, tmp_args_element_name_10};
             tmp_call_result_3 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_6, call_args);
@@ -3234,7 +3234,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__6_draw(struct Nuitk
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4d965b2b29384cc493657b22f6fc4ba7);
+    RESTORE_FRAME_EXCEPTION(frame_36a3e666e299aad9a7ed599483c2710c);
 #endif
 
     // Put the previous frame back on top.
@@ -3245,18 +3245,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__6_draw(struct Nuitk
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4d965b2b29384cc493657b22f6fc4ba7);
+    RESTORE_FRAME_EXCEPTION(frame_36a3e666e299aad9a7ed599483c2710c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_4d965b2b29384cc493657b22f6fc4ba7, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_4d965b2b29384cc493657b22f6fc4ba7->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_4d965b2b29384cc493657b22f6fc4ba7, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_36a3e666e299aad9a7ed599483c2710c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_36a3e666e299aad9a7ed599483c2710c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_36a3e666e299aad9a7ed599483c2710c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_4d965b2b29384cc493657b22f6fc4ba7,
+        frame_36a3e666e299aad9a7ed599483c2710c,
         type_description_1,
         par_self,
         par_renderer,
@@ -3268,17 +3268,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__6_draw(struct Nuitk
 
 
     // Release cached frame if used for exception.
-    if (frame_4d965b2b29384cc493657b22f6fc4ba7 == cache_frame_4d965b2b29384cc493657b22f6fc4ba7) {
+    if (frame_36a3e666e299aad9a7ed599483c2710c == cache_frame_36a3e666e299aad9a7ed599483c2710c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_4d965b2b29384cc493657b22f6fc4ba7);
-        cache_frame_4d965b2b29384cc493657b22f6fc4ba7 = NULL;
+        Py_DECREF(cache_frame_36a3e666e299aad9a7ed599483c2710c);
+        cache_frame_36a3e666e299aad9a7ed599483c2710c = NULL;
     }
 
-    assertFrameObject(frame_4d965b2b29384cc493657b22f6fc4ba7);
+    assertFrameObject(frame_36a3e666e299aad9a7ed599483c2710c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -3423,7 +3423,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__8_text_2d_to_3d(str
     PyObject *par_obj = python_pars[0];
     PyObject *par_z = python_pars[1];
     PyObject *par_zdir = python_pars[2];
-    struct Nuitka_FrameObject *frame_c041e4e65215769122804eeef8e73516;
+    struct Nuitka_FrameObject *frame_8a75d1d6e18010a608d2b5620b4c3758;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -3431,7 +3431,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__8_text_2d_to_3d(str
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_c041e4e65215769122804eeef8e73516 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_8a75d1d6e18010a608d2b5620b4c3758 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -3440,31 +3440,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__8_text_2d_to_3d(str
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_c041e4e65215769122804eeef8e73516)) {
-        Py_XDECREF(cache_frame_c041e4e65215769122804eeef8e73516);
+    if (isFrameUnusable(cache_frame_8a75d1d6e18010a608d2b5620b4c3758)) {
+        Py_XDECREF(cache_frame_8a75d1d6e18010a608d2b5620b4c3758);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_c041e4e65215769122804eeef8e73516 == NULL) {
+        if (cache_frame_8a75d1d6e18010a608d2b5620b4c3758 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_c041e4e65215769122804eeef8e73516 = MAKE_FUNCTION_FRAME(codeobj_c041e4e65215769122804eeef8e73516, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_8a75d1d6e18010a608d2b5620b4c3758 = MAKE_FUNCTION_FRAME(codeobj_8a75d1d6e18010a608d2b5620b4c3758, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_c041e4e65215769122804eeef8e73516->m_type_description == NULL);
-    frame_c041e4e65215769122804eeef8e73516 = cache_frame_c041e4e65215769122804eeef8e73516;
+    assert(cache_frame_8a75d1d6e18010a608d2b5620b4c3758->m_type_description == NULL);
+    frame_8a75d1d6e18010a608d2b5620b4c3758 = cache_frame_8a75d1d6e18010a608d2b5620b4c3758;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_c041e4e65215769122804eeef8e73516);
+    pushFrameStack(frame_8a75d1d6e18010a608d2b5620b4c3758);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_c041e4e65215769122804eeef8e73516) == 2); // Frame stack
+    assert(Py_REFCNT(frame_8a75d1d6e18010a608d2b5620b4c3758) == 2); // Frame stack
 
     // Framed code:
     {
@@ -3511,7 +3511,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__8_text_2d_to_3d(str
         tmp_args_element_name_1 = par_z;
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_2 = par_zdir;
-        frame_c041e4e65215769122804eeef8e73516->m_frame.f_lineno = 125;
+        frame_8a75d1d6e18010a608d2b5620b4c3758->m_frame.f_lineno = 125;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS2(
@@ -3535,7 +3535,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__8_text_2d_to_3d(str
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c041e4e65215769122804eeef8e73516);
+    RESTORE_FRAME_EXCEPTION(frame_8a75d1d6e18010a608d2b5620b4c3758);
 #endif
 
     // Put the previous frame back on top.
@@ -3546,18 +3546,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__8_text_2d_to_3d(str
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c041e4e65215769122804eeef8e73516);
+    RESTORE_FRAME_EXCEPTION(frame_8a75d1d6e18010a608d2b5620b4c3758);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_c041e4e65215769122804eeef8e73516, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_c041e4e65215769122804eeef8e73516->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_c041e4e65215769122804eeef8e73516, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_8a75d1d6e18010a608d2b5620b4c3758, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_8a75d1d6e18010a608d2b5620b4c3758->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_8a75d1d6e18010a608d2b5620b4c3758, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_c041e4e65215769122804eeef8e73516,
+        frame_8a75d1d6e18010a608d2b5620b4c3758,
         type_description_1,
         par_obj,
         par_z,
@@ -3566,17 +3566,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__8_text_2d_to_3d(str
 
 
     // Release cached frame if used for exception.
-    if (frame_c041e4e65215769122804eeef8e73516 == cache_frame_c041e4e65215769122804eeef8e73516) {
+    if (frame_8a75d1d6e18010a608d2b5620b4c3758 == cache_frame_8a75d1d6e18010a608d2b5620b4c3758) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_c041e4e65215769122804eeef8e73516);
-        cache_frame_c041e4e65215769122804eeef8e73516 = NULL;
+        Py_DECREF(cache_frame_8a75d1d6e18010a608d2b5620b4c3758);
+        cache_frame_8a75d1d6e18010a608d2b5620b4c3758 = NULL;
     }
 
-    assertFrameObject(frame_c041e4e65215769122804eeef8e73516);
+    assertFrameObject(frame_8a75d1d6e18010a608d2b5620b4c3758);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -3659,7 +3659,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__9___init__(struct N
     PyObject *par_zs = python_pars[3];
     PyObject *par_args = python_pars[4];
     PyObject *par_kwargs = python_pars[5];
-    struct Nuitka_FrameObject *frame_1a7952008aa34ca84573e7ec09c736ca;
+    struct Nuitka_FrameObject *frame_6c23e530b420d01fcb892a5adfcc4974;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -3667,7 +3667,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__9___init__(struct N
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_1a7952008aa34ca84573e7ec09c736ca = NULL;
+    static struct Nuitka_FrameObject *cache_frame_6c23e530b420d01fcb892a5adfcc4974 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -3676,31 +3676,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__9___init__(struct N
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_1a7952008aa34ca84573e7ec09c736ca)) {
-        Py_XDECREF(cache_frame_1a7952008aa34ca84573e7ec09c736ca);
+    if (isFrameUnusable(cache_frame_6c23e530b420d01fcb892a5adfcc4974)) {
+        Py_XDECREF(cache_frame_6c23e530b420d01fcb892a5adfcc4974);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_1a7952008aa34ca84573e7ec09c736ca == NULL) {
+        if (cache_frame_6c23e530b420d01fcb892a5adfcc4974 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_1a7952008aa34ca84573e7ec09c736ca = MAKE_FUNCTION_FRAME(codeobj_1a7952008aa34ca84573e7ec09c736ca, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_6c23e530b420d01fcb892a5adfcc4974 = MAKE_FUNCTION_FRAME(codeobj_6c23e530b420d01fcb892a5adfcc4974, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_1a7952008aa34ca84573e7ec09c736ca->m_type_description == NULL);
-    frame_1a7952008aa34ca84573e7ec09c736ca = cache_frame_1a7952008aa34ca84573e7ec09c736ca;
+    assert(cache_frame_6c23e530b420d01fcb892a5adfcc4974->m_type_description == NULL);
+    frame_6c23e530b420d01fcb892a5adfcc4974 = cache_frame_6c23e530b420d01fcb892a5adfcc4974;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_1a7952008aa34ca84573e7ec09c736ca);
+    pushFrameStack(frame_6c23e530b420d01fcb892a5adfcc4974);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_1a7952008aa34ca84573e7ec09c736ca) == 2); // Frame stack
+    assert(Py_REFCNT(frame_6c23e530b420d01fcb892a5adfcc4974) == 2); // Frame stack
 
     // Framed code:
     {
@@ -3813,7 +3813,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__9___init__(struct N
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_1a7952008aa34ca84573e7ec09c736ca);
+    RESTORE_FRAME_EXCEPTION(frame_6c23e530b420d01fcb892a5adfcc4974);
 #endif
 
     // Put the previous frame back on top.
@@ -3824,18 +3824,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__9___init__(struct N
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_1a7952008aa34ca84573e7ec09c736ca);
+    RESTORE_FRAME_EXCEPTION(frame_6c23e530b420d01fcb892a5adfcc4974);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_1a7952008aa34ca84573e7ec09c736ca, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_1a7952008aa34ca84573e7ec09c736ca->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_1a7952008aa34ca84573e7ec09c736ca, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_6c23e530b420d01fcb892a5adfcc4974, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_6c23e530b420d01fcb892a5adfcc4974->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_6c23e530b420d01fcb892a5adfcc4974, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_1a7952008aa34ca84573e7ec09c736ca,
+        frame_6c23e530b420d01fcb892a5adfcc4974,
         type_description_1,
         par_self,
         par_xs,
@@ -3847,17 +3847,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__9___init__(struct N
 
 
     // Release cached frame if used for exception.
-    if (frame_1a7952008aa34ca84573e7ec09c736ca == cache_frame_1a7952008aa34ca84573e7ec09c736ca) {
+    if (frame_6c23e530b420d01fcb892a5adfcc4974 == cache_frame_6c23e530b420d01fcb892a5adfcc4974) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_1a7952008aa34ca84573e7ec09c736ca);
-        cache_frame_1a7952008aa34ca84573e7ec09c736ca = NULL;
+        Py_DECREF(cache_frame_6c23e530b420d01fcb892a5adfcc4974);
+        cache_frame_6c23e530b420d01fcb892a5adfcc4974 = NULL;
     }
 
-    assertFrameObject(frame_1a7952008aa34ca84573e7ec09c736ca);
+    assertFrameObject(frame_6c23e530b420d01fcb892a5adfcc4974);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -3963,14 +3963,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__10_set_3d_propertie
     PyObject *par_zdir = python_pars[2];
     PyObject *var_xs = NULL;
     PyObject *var_ys = NULL;
-    struct Nuitka_FrameObject *frame_b484d416efb30dc980da12816857db56;
+    struct Nuitka_FrameObject *frame_edf0ba0694edae13b16dbe9d2ceccb1e;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_b484d416efb30dc980da12816857db56 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_edf0ba0694edae13b16dbe9d2ceccb1e = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -3979,31 +3979,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__10_set_3d_propertie
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_b484d416efb30dc980da12816857db56)) {
-        Py_XDECREF(cache_frame_b484d416efb30dc980da12816857db56);
+    if (isFrameUnusable(cache_frame_edf0ba0694edae13b16dbe9d2ceccb1e)) {
+        Py_XDECREF(cache_frame_edf0ba0694edae13b16dbe9d2ceccb1e);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_b484d416efb30dc980da12816857db56 == NULL) {
+        if (cache_frame_edf0ba0694edae13b16dbe9d2ceccb1e == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_b484d416efb30dc980da12816857db56 = MAKE_FUNCTION_FRAME(codeobj_b484d416efb30dc980da12816857db56, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_edf0ba0694edae13b16dbe9d2ceccb1e = MAKE_FUNCTION_FRAME(codeobj_edf0ba0694edae13b16dbe9d2ceccb1e, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_b484d416efb30dc980da12816857db56->m_type_description == NULL);
-    frame_b484d416efb30dc980da12816857db56 = cache_frame_b484d416efb30dc980da12816857db56;
+    assert(cache_frame_edf0ba0694edae13b16dbe9d2ceccb1e->m_type_description == NULL);
+    frame_edf0ba0694edae13b16dbe9d2ceccb1e = cache_frame_edf0ba0694edae13b16dbe9d2ceccb1e;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_b484d416efb30dc980da12816857db56);
+    pushFrameStack(frame_edf0ba0694edae13b16dbe9d2ceccb1e);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_b484d416efb30dc980da12816857db56) == 2); // Frame stack
+    assert(Py_REFCNT(frame_edf0ba0694edae13b16dbe9d2ceccb1e) == 2); // Frame stack
 
     // Framed code:
     {
@@ -4011,7 +4011,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__10_set_3d_propertie
         PyObject *tmp_called_instance_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_b484d416efb30dc980da12816857db56->m_frame.f_lineno = 141;
+        frame_edf0ba0694edae13b16dbe9d2ceccb1e->m_frame.f_lineno = 141;
         tmp_assign_source_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[49]);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4042,7 +4042,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__10_set_3d_propertie
         }
 
         tmp_called_instance_2 = par_self;
-        frame_b484d416efb30dc980da12816857db56->m_frame.f_lineno = 142;
+        frame_edf0ba0694edae13b16dbe9d2ceccb1e->m_frame.f_lineno = 142;
         tmp_assign_source_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[50]);
         if (tmp_assign_source_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -4106,7 +4106,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__10_set_3d_propertie
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_b484d416efb30dc980da12816857db56->m_frame.f_lineno = 143;
+        frame_edf0ba0694edae13b16dbe9d2ceccb1e->m_frame.f_lineno = 143;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_3 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -4174,7 +4174,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__10_set_3d_propertie
         tmp_args_element_name_5 = par_zs;
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_6 = par_zdir;
-        frame_b484d416efb30dc980da12816857db56->m_frame.f_lineno = 144;
+        frame_edf0ba0694edae13b16dbe9d2ceccb1e->m_frame.f_lineno = 144;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_assattr_name_1 = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_2, call_args);
@@ -4247,7 +4247,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__10_set_3d_propertie
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b484d416efb30dc980da12816857db56);
+    RESTORE_FRAME_EXCEPTION(frame_edf0ba0694edae13b16dbe9d2ceccb1e);
 #endif
 
     // Put the previous frame back on top.
@@ -4258,18 +4258,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__10_set_3d_propertie
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b484d416efb30dc980da12816857db56);
+    RESTORE_FRAME_EXCEPTION(frame_edf0ba0694edae13b16dbe9d2ceccb1e);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_b484d416efb30dc980da12816857db56, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_b484d416efb30dc980da12816857db56->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_b484d416efb30dc980da12816857db56, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_edf0ba0694edae13b16dbe9d2ceccb1e, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_edf0ba0694edae13b16dbe9d2ceccb1e->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_edf0ba0694edae13b16dbe9d2ceccb1e, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_b484d416efb30dc980da12816857db56,
+        frame_edf0ba0694edae13b16dbe9d2ceccb1e,
         type_description_1,
         par_self,
         par_zs,
@@ -4280,17 +4280,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__10_set_3d_propertie
 
 
     // Release cached frame if used for exception.
-    if (frame_b484d416efb30dc980da12816857db56 == cache_frame_b484d416efb30dc980da12816857db56) {
+    if (frame_edf0ba0694edae13b16dbe9d2ceccb1e == cache_frame_edf0ba0694edae13b16dbe9d2ceccb1e) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_b484d416efb30dc980da12816857db56);
-        cache_frame_b484d416efb30dc980da12816857db56 = NULL;
+        Py_DECREF(cache_frame_edf0ba0694edae13b16dbe9d2ceccb1e);
+        cache_frame_edf0ba0694edae13b16dbe9d2ceccb1e = NULL;
     }
 
-    assertFrameObject(frame_b484d416efb30dc980da12816857db56);
+    assertFrameObject(frame_edf0ba0694edae13b16dbe9d2ceccb1e);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -4381,14 +4381,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__11_set_data_3d(stru
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_args = python_pars[1];
-    struct Nuitka_FrameObject *frame_ce2c957ff5cf8530fe78457cfdfc2eca;
+    struct Nuitka_FrameObject *frame_e2b538be8303821ed901499af0e537c4;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_ce2c957ff5cf8530fe78457cfdfc2eca = NULL;
+    static struct Nuitka_FrameObject *cache_frame_e2b538be8303821ed901499af0e537c4 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -4397,31 +4397,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__11_set_data_3d(stru
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ce2c957ff5cf8530fe78457cfdfc2eca)) {
-        Py_XDECREF(cache_frame_ce2c957ff5cf8530fe78457cfdfc2eca);
+    if (isFrameUnusable(cache_frame_e2b538be8303821ed901499af0e537c4)) {
+        Py_XDECREF(cache_frame_e2b538be8303821ed901499af0e537c4);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ce2c957ff5cf8530fe78457cfdfc2eca == NULL) {
+        if (cache_frame_e2b538be8303821ed901499af0e537c4 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ce2c957ff5cf8530fe78457cfdfc2eca = MAKE_FUNCTION_FRAME(codeobj_ce2c957ff5cf8530fe78457cfdfc2eca, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
+        cache_frame_e2b538be8303821ed901499af0e537c4 = MAKE_FUNCTION_FRAME(codeobj_e2b538be8303821ed901499af0e537c4, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ce2c957ff5cf8530fe78457cfdfc2eca->m_type_description == NULL);
-    frame_ce2c957ff5cf8530fe78457cfdfc2eca = cache_frame_ce2c957ff5cf8530fe78457cfdfc2eca;
+    assert(cache_frame_e2b538be8303821ed901499af0e537c4->m_type_description == NULL);
+    frame_e2b538be8303821ed901499af0e537c4 = cache_frame_e2b538be8303821ed901499af0e537c4;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ce2c957ff5cf8530fe78457cfdfc2eca);
+    pushFrameStack(frame_e2b538be8303821ed901499af0e537c4);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ce2c957ff5cf8530fe78457cfdfc2eca) == 2); // Frame stack
+    assert(Py_REFCNT(frame_e2b538be8303821ed901499af0e537c4) == 2); // Frame stack
 
     // Framed code:
     {
@@ -4554,7 +4554,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__11_set_data_3d(stru
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ce2c957ff5cf8530fe78457cfdfc2eca);
+    RESTORE_FRAME_EXCEPTION(frame_e2b538be8303821ed901499af0e537c4);
 #endif
 
     // Put the previous frame back on top.
@@ -4565,18 +4565,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__11_set_data_3d(stru
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ce2c957ff5cf8530fe78457cfdfc2eca);
+    RESTORE_FRAME_EXCEPTION(frame_e2b538be8303821ed901499af0e537c4);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ce2c957ff5cf8530fe78457cfdfc2eca, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ce2c957ff5cf8530fe78457cfdfc2eca->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ce2c957ff5cf8530fe78457cfdfc2eca, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_e2b538be8303821ed901499af0e537c4, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_e2b538be8303821ed901499af0e537c4->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_e2b538be8303821ed901499af0e537c4, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ce2c957ff5cf8530fe78457cfdfc2eca,
+        frame_e2b538be8303821ed901499af0e537c4,
         type_description_1,
         par_self,
         par_args
@@ -4584,17 +4584,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__11_set_data_3d(stru
 
 
     // Release cached frame if used for exception.
-    if (frame_ce2c957ff5cf8530fe78457cfdfc2eca == cache_frame_ce2c957ff5cf8530fe78457cfdfc2eca) {
+    if (frame_e2b538be8303821ed901499af0e537c4 == cache_frame_e2b538be8303821ed901499af0e537c4) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ce2c957ff5cf8530fe78457cfdfc2eca);
-        cache_frame_ce2c957ff5cf8530fe78457cfdfc2eca = NULL;
+        Py_DECREF(cache_frame_e2b538be8303821ed901499af0e537c4);
+        cache_frame_e2b538be8303821ed901499af0e537c4 = NULL;
     }
 
-    assertFrameObject(frame_ce2c957ff5cf8530fe78457cfdfc2eca);
+    assertFrameObject(frame_e2b538be8303821ed901499af0e537c4);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -4670,14 +4670,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__12_get_data_3d(stru
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_d8fee9a5024e72fb7de7505cf756396b;
+    struct Nuitka_FrameObject *frame_f5f109e73b9339aa2efa87244987e383;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_d8fee9a5024e72fb7de7505cf756396b = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f5f109e73b9339aa2efa87244987e383 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -4685,31 +4685,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__12_get_data_3d(stru
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_d8fee9a5024e72fb7de7505cf756396b)) {
-        Py_XDECREF(cache_frame_d8fee9a5024e72fb7de7505cf756396b);
+    if (isFrameUnusable(cache_frame_f5f109e73b9339aa2efa87244987e383)) {
+        Py_XDECREF(cache_frame_f5f109e73b9339aa2efa87244987e383);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_d8fee9a5024e72fb7de7505cf756396b == NULL) {
+        if (cache_frame_f5f109e73b9339aa2efa87244987e383 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_d8fee9a5024e72fb7de7505cf756396b = MAKE_FUNCTION_FRAME(codeobj_d8fee9a5024e72fb7de7505cf756396b, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+        cache_frame_f5f109e73b9339aa2efa87244987e383 = MAKE_FUNCTION_FRAME(codeobj_f5f109e73b9339aa2efa87244987e383, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_d8fee9a5024e72fb7de7505cf756396b->m_type_description == NULL);
-    frame_d8fee9a5024e72fb7de7505cf756396b = cache_frame_d8fee9a5024e72fb7de7505cf756396b;
+    assert(cache_frame_f5f109e73b9339aa2efa87244987e383->m_type_description == NULL);
+    frame_f5f109e73b9339aa2efa87244987e383 = cache_frame_f5f109e73b9339aa2efa87244987e383;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_d8fee9a5024e72fb7de7505cf756396b);
+    pushFrameStack(frame_f5f109e73b9339aa2efa87244987e383);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_d8fee9a5024e72fb7de7505cf756396b) == 2); // Frame stack
+    assert(Py_REFCNT(frame_f5f109e73b9339aa2efa87244987e383) == 2); // Frame stack
 
     // Framed code:
     {
@@ -4731,7 +4731,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__12_get_data_3d(stru
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d8fee9a5024e72fb7de7505cf756396b);
+    RESTORE_FRAME_EXCEPTION(frame_f5f109e73b9339aa2efa87244987e383);
 #endif
 
     // Put the previous frame back on top.
@@ -4741,7 +4741,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__12_get_data_3d(stru
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d8fee9a5024e72fb7de7505cf756396b);
+    RESTORE_FRAME_EXCEPTION(frame_f5f109e73b9339aa2efa87244987e383);
 #endif
 
     // Put the previous frame back on top.
@@ -4752,35 +4752,35 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__12_get_data_3d(stru
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d8fee9a5024e72fb7de7505cf756396b);
+    RESTORE_FRAME_EXCEPTION(frame_f5f109e73b9339aa2efa87244987e383);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_d8fee9a5024e72fb7de7505cf756396b, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_d8fee9a5024e72fb7de7505cf756396b->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_d8fee9a5024e72fb7de7505cf756396b, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_f5f109e73b9339aa2efa87244987e383, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_f5f109e73b9339aa2efa87244987e383->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_f5f109e73b9339aa2efa87244987e383, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_d8fee9a5024e72fb7de7505cf756396b,
+        frame_f5f109e73b9339aa2efa87244987e383,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_d8fee9a5024e72fb7de7505cf756396b == cache_frame_d8fee9a5024e72fb7de7505cf756396b) {
+    if (frame_f5f109e73b9339aa2efa87244987e383 == cache_frame_f5f109e73b9339aa2efa87244987e383) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_d8fee9a5024e72fb7de7505cf756396b);
-        cache_frame_d8fee9a5024e72fb7de7505cf756396b = NULL;
+        Py_DECREF(cache_frame_f5f109e73b9339aa2efa87244987e383);
+        cache_frame_f5f109e73b9339aa2efa87244987e383 = NULL;
     }
 
-    assertFrameObject(frame_d8fee9a5024e72fb7de7505cf756396b);
+    assertFrameObject(frame_f5f109e73b9339aa2efa87244987e383);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -4862,7 +4862,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__13_draw(struct Nuit
     PyObject *tmp_tuple_unpack_2__element_2 = NULL;
     PyObject *tmp_tuple_unpack_2__element_3 = NULL;
     PyObject *tmp_tuple_unpack_2__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_763d4ff5ee9d7383793532dccb0593f7;
+    struct Nuitka_FrameObject *frame_84014db248f881715aae0a3ca374ec6a;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -4887,7 +4887,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__13_draw(struct Nuit
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_4;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_763d4ff5ee9d7383793532dccb0593f7 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_84014db248f881715aae0a3ca374ec6a = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_5;
     PyObject *exception_keeper_value_5;
@@ -4896,31 +4896,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__13_draw(struct Nuit
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_763d4ff5ee9d7383793532dccb0593f7)) {
-        Py_XDECREF(cache_frame_763d4ff5ee9d7383793532dccb0593f7);
+    if (isFrameUnusable(cache_frame_84014db248f881715aae0a3ca374ec6a)) {
+        Py_XDECREF(cache_frame_84014db248f881715aae0a3ca374ec6a);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_763d4ff5ee9d7383793532dccb0593f7 == NULL) {
+        if (cache_frame_84014db248f881715aae0a3ca374ec6a == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_763d4ff5ee9d7383793532dccb0593f7 = MAKE_FUNCTION_FRAME(codeobj_763d4ff5ee9d7383793532dccb0593f7, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_84014db248f881715aae0a3ca374ec6a = MAKE_FUNCTION_FRAME(codeobj_84014db248f881715aae0a3ca374ec6a, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_763d4ff5ee9d7383793532dccb0593f7->m_type_description == NULL);
-    frame_763d4ff5ee9d7383793532dccb0593f7 = cache_frame_763d4ff5ee9d7383793532dccb0593f7;
+    assert(cache_frame_84014db248f881715aae0a3ca374ec6a->m_type_description == NULL);
+    frame_84014db248f881715aae0a3ca374ec6a = cache_frame_84014db248f881715aae0a3ca374ec6a;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_763d4ff5ee9d7383793532dccb0593f7);
+    pushFrameStack(frame_84014db248f881715aae0a3ca374ec6a);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_763d4ff5ee9d7383793532dccb0593f7) == 2); // Frame stack
+    assert(Py_REFCNT(frame_84014db248f881715aae0a3ca374ec6a) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -5214,7 +5214,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__13_draw(struct Nuit
             type_description_1 = "oooooooo";
             goto try_except_handler_4;
         }
-        frame_763d4ff5ee9d7383793532dccb0593f7->m_frame.f_lineno = 184;
+        frame_84014db248f881715aae0a3ca374ec6a->m_frame.f_lineno = 184;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_iter_arg_2 = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_1, call_args);
@@ -5470,7 +5470,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__13_draw(struct Nuit
         tmp_args_element_name_5 = var_xs;
         CHECK_OBJECT(var_ys);
         tmp_args_element_name_6 = var_ys;
-        frame_763d4ff5ee9d7383793532dccb0593f7->m_frame.f_lineno = 185;
+        frame_84014db248f881715aae0a3ca374ec6a->m_frame.f_lineno = 185;
         {
             PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS2(
@@ -5564,7 +5564,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__13_draw(struct Nuit
         }
 
         tmp_args_element_name_8 = par_renderer;
-        frame_763d4ff5ee9d7383793532dccb0593f7->m_frame.f_lineno = 186;
+        frame_84014db248f881715aae0a3ca374ec6a->m_frame.f_lineno = 186;
         {
             PyObject *call_args[] = {tmp_args_element_name_7, tmp_args_element_name_8};
             tmp_call_result_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -5614,7 +5614,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__13_draw(struct Nuit
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_763d4ff5ee9d7383793532dccb0593f7);
+    RESTORE_FRAME_EXCEPTION(frame_84014db248f881715aae0a3ca374ec6a);
 #endif
 
     // Put the previous frame back on top.
@@ -5625,18 +5625,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__13_draw(struct Nuit
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_763d4ff5ee9d7383793532dccb0593f7);
+    RESTORE_FRAME_EXCEPTION(frame_84014db248f881715aae0a3ca374ec6a);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_763d4ff5ee9d7383793532dccb0593f7, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_763d4ff5ee9d7383793532dccb0593f7->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_763d4ff5ee9d7383793532dccb0593f7, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_84014db248f881715aae0a3ca374ec6a, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_84014db248f881715aae0a3ca374ec6a->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_84014db248f881715aae0a3ca374ec6a, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_763d4ff5ee9d7383793532dccb0593f7,
+        frame_84014db248f881715aae0a3ca374ec6a,
         type_description_1,
         par_self,
         par_renderer,
@@ -5650,17 +5650,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__13_draw(struct Nuit
 
 
     // Release cached frame if used for exception.
-    if (frame_763d4ff5ee9d7383793532dccb0593f7 == cache_frame_763d4ff5ee9d7383793532dccb0593f7) {
+    if (frame_84014db248f881715aae0a3ca374ec6a == cache_frame_84014db248f881715aae0a3ca374ec6a) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_763d4ff5ee9d7383793532dccb0593f7);
-        cache_frame_763d4ff5ee9d7383793532dccb0593f7 = NULL;
+        Py_DECREF(cache_frame_84014db248f881715aae0a3ca374ec6a);
+        cache_frame_84014db248f881715aae0a3ca374ec6a = NULL;
     }
 
-    assertFrameObject(frame_763d4ff5ee9d7383793532dccb0593f7);
+    assertFrameObject(frame_84014db248f881715aae0a3ca374ec6a);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -5761,7 +5761,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__14_line_2d_to_3d(st
     PyObject *par_line = python_pars[0];
     PyObject *par_zs = python_pars[1];
     PyObject *par_zdir = python_pars[2];
-    struct Nuitka_FrameObject *frame_8c1667add019f719d24172b0d1c06955;
+    struct Nuitka_FrameObject *frame_05f3b669d2a3655a6a09b7c82fae102c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -5769,7 +5769,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__14_line_2d_to_3d(st
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_8c1667add019f719d24172b0d1c06955 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_05f3b669d2a3655a6a09b7c82fae102c = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -5778,31 +5778,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__14_line_2d_to_3d(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_8c1667add019f719d24172b0d1c06955)) {
-        Py_XDECREF(cache_frame_8c1667add019f719d24172b0d1c06955);
+    if (isFrameUnusable(cache_frame_05f3b669d2a3655a6a09b7c82fae102c)) {
+        Py_XDECREF(cache_frame_05f3b669d2a3655a6a09b7c82fae102c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_8c1667add019f719d24172b0d1c06955 == NULL) {
+        if (cache_frame_05f3b669d2a3655a6a09b7c82fae102c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_8c1667add019f719d24172b0d1c06955 = MAKE_FUNCTION_FRAME(codeobj_8c1667add019f719d24172b0d1c06955, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_05f3b669d2a3655a6a09b7c82fae102c = MAKE_FUNCTION_FRAME(codeobj_05f3b669d2a3655a6a09b7c82fae102c, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_8c1667add019f719d24172b0d1c06955->m_type_description == NULL);
-    frame_8c1667add019f719d24172b0d1c06955 = cache_frame_8c1667add019f719d24172b0d1c06955;
+    assert(cache_frame_05f3b669d2a3655a6a09b7c82fae102c->m_type_description == NULL);
+    frame_05f3b669d2a3655a6a09b7c82fae102c = cache_frame_05f3b669d2a3655a6a09b7c82fae102c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_8c1667add019f719d24172b0d1c06955);
+    pushFrameStack(frame_05f3b669d2a3655a6a09b7c82fae102c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_8c1667add019f719d24172b0d1c06955) == 2); // Frame stack
+    assert(Py_REFCNT(frame_05f3b669d2a3655a6a09b7c82fae102c) == 2); // Frame stack
 
     // Framed code:
     {
@@ -5849,7 +5849,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__14_line_2d_to_3d(st
         tmp_args_element_name_1 = par_zs;
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_2 = par_zdir;
-        frame_8c1667add019f719d24172b0d1c06955->m_frame.f_lineno = 194;
+        frame_05f3b669d2a3655a6a09b7c82fae102c->m_frame.f_lineno = 194;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS2(
@@ -5873,7 +5873,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__14_line_2d_to_3d(st
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_8c1667add019f719d24172b0d1c06955);
+    RESTORE_FRAME_EXCEPTION(frame_05f3b669d2a3655a6a09b7c82fae102c);
 #endif
 
     // Put the previous frame back on top.
@@ -5884,18 +5884,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__14_line_2d_to_3d(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_8c1667add019f719d24172b0d1c06955);
+    RESTORE_FRAME_EXCEPTION(frame_05f3b669d2a3655a6a09b7c82fae102c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_8c1667add019f719d24172b0d1c06955, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_8c1667add019f719d24172b0d1c06955->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_8c1667add019f719d24172b0d1c06955, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_05f3b669d2a3655a6a09b7c82fae102c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_05f3b669d2a3655a6a09b7c82fae102c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_05f3b669d2a3655a6a09b7c82fae102c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_8c1667add019f719d24172b0d1c06955,
+        frame_05f3b669d2a3655a6a09b7c82fae102c,
         type_description_1,
         par_line,
         par_zs,
@@ -5904,17 +5904,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__14_line_2d_to_3d(st
 
 
     // Release cached frame if used for exception.
-    if (frame_8c1667add019f719d24172b0d1c06955 == cache_frame_8c1667add019f719d24172b0d1c06955) {
+    if (frame_05f3b669d2a3655a6a09b7c82fae102c == cache_frame_05f3b669d2a3655a6a09b7c82fae102c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_8c1667add019f719d24172b0d1c06955);
-        cache_frame_8c1667add019f719d24172b0d1c06955 = NULL;
+        Py_DECREF(cache_frame_05f3b669d2a3655a6a09b7c82fae102c);
+        cache_frame_05f3b669d2a3655a6a09b7c82fae102c = NULL;
     }
 
-    assertFrameObject(frame_8c1667add019f719d24172b0d1c06955);
+    assertFrameObject(frame_05f3b669d2a3655a6a09b7c82fae102c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -6023,13 +6023,13 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
     PyObject *tmp_listcomp_2__$0 = NULL;
     PyObject *tmp_listcomp_2__contraction = NULL;
     PyObject *tmp_listcomp_2__iter_value_0 = NULL;
-    struct Nuitka_FrameObject *frame_53ccc28474e683e42211d8aaedfd6ae1;
+    struct Nuitka_FrameObject *frame_0c5078ed52be3e8e8df8277e569dddc4;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    struct Nuitka_FrameObject *frame_0629792fd42d7b2f4b1470222ab499d5_2;
+    struct Nuitka_FrameObject *frame_e62ded93f95a2ab459f86f1c0b68b502_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
     PyObject *tmp_iterator_attempt;
     PyObject *exception_keeper_type_1;
@@ -6061,12 +6061,12 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
     PyObject *exception_keeper_value_7;
     PyTracebackObject *exception_keeper_tb_7;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_7;
-    static struct Nuitka_FrameObject *cache_frame_0629792fd42d7b2f4b1470222ab499d5_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_e62ded93f95a2ab459f86f1c0b68b502_2 = NULL;
     PyObject *exception_keeper_type_8;
     PyObject *exception_keeper_value_8;
     PyTracebackObject *exception_keeper_tb_8;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_8;
-    struct Nuitka_FrameObject *frame_8457da77418f5e8437316df599b7ad52_3;
+    struct Nuitka_FrameObject *frame_693f73276d0316d2cc77364692c9d694_3;
     NUITKA_MAY_BE_UNUSED char const *type_description_3 = NULL;
     PyObject *exception_keeper_type_9;
     PyObject *exception_keeper_value_9;
@@ -6080,12 +6080,12 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
     PyObject *exception_keeper_value_11;
     PyTracebackObject *exception_keeper_tb_11;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_11;
-    static struct Nuitka_FrameObject *cache_frame_8457da77418f5e8437316df599b7ad52_3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_693f73276d0316d2cc77364692c9d694_3 = NULL;
     PyObject *exception_keeper_type_12;
     PyObject *exception_keeper_value_12;
     PyTracebackObject *exception_keeper_tb_12;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_12;
-    static struct Nuitka_FrameObject *cache_frame_53ccc28474e683e42211d8aaedfd6ae1 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_0c5078ed52be3e8e8df8277e569dddc4 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_13;
     PyObject *exception_keeper_value_13;
@@ -6094,31 +6094,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_53ccc28474e683e42211d8aaedfd6ae1)) {
-        Py_XDECREF(cache_frame_53ccc28474e683e42211d8aaedfd6ae1);
+    if (isFrameUnusable(cache_frame_0c5078ed52be3e8e8df8277e569dddc4)) {
+        Py_XDECREF(cache_frame_0c5078ed52be3e8e8df8277e569dddc4);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_53ccc28474e683e42211d8aaedfd6ae1 == NULL) {
+        if (cache_frame_0c5078ed52be3e8e8df8277e569dddc4 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_53ccc28474e683e42211d8aaedfd6ae1 = MAKE_FUNCTION_FRAME(codeobj_53ccc28474e683e42211d8aaedfd6ae1, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_0c5078ed52be3e8e8df8277e569dddc4 = MAKE_FUNCTION_FRAME(codeobj_0c5078ed52be3e8e8df8277e569dddc4, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_53ccc28474e683e42211d8aaedfd6ae1->m_type_description == NULL);
-    frame_53ccc28474e683e42211d8aaedfd6ae1 = cache_frame_53ccc28474e683e42211d8aaedfd6ae1;
+    assert(cache_frame_0c5078ed52be3e8e8df8277e569dddc4->m_type_description == NULL);
+    frame_0c5078ed52be3e8e8df8277e569dddc4 = cache_frame_0c5078ed52be3e8e8df8277e569dddc4;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_53ccc28474e683e42211d8aaedfd6ae1);
+    pushFrameStack(frame_0c5078ed52be3e8e8df8277e569dddc4);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_53ccc28474e683e42211d8aaedfd6ae1) == 2); // Frame stack
+    assert(Py_REFCNT(frame_0c5078ed52be3e8e8df8277e569dddc4) == 2); // Frame stack
 
     // Framed code:
     {
@@ -6170,7 +6170,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_53ccc28474e683e42211d8aaedfd6ae1->m_frame.f_lineno = 200;
+        frame_0c5078ed52be3e8e8df8277e569dddc4->m_frame.f_lineno = 200;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -6225,7 +6225,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
             goto frame_exception_exit_1;
         }
         tmp_kwargs_name_1 = PyDict_Copy(mod_consts[65]);
-        frame_53ccc28474e683e42211d8aaedfd6ae1->m_frame.f_lineno = 201;
+        frame_0c5078ed52be3e8e8df8277e569dddc4->m_frame.f_lineno = 201;
         tmp_assign_source_2 = CALL_FUNCTION_WITH_KEYARGS(tmp_called_name_2, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_kwargs_name_1);
@@ -6256,7 +6256,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
             tmp_args_element_name_3 = var_pathsegs;
             CHECK_OBJECT(par_zs);
             tmp_args_element_name_4 = par_zs;
-            frame_53ccc28474e683e42211d8aaedfd6ae1->m_frame.f_lineno = 202;
+            frame_0c5078ed52be3e8e8df8277e569dddc4->m_frame.f_lineno = 202;
             {
                 PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
                 tmp_iter_arg_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -6293,31 +6293,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
             assert(tmp_listcomp_1__contraction == NULL);
             tmp_listcomp_1__contraction = tmp_assign_source_5;
         }
-        if (isFrameUnusable(cache_frame_0629792fd42d7b2f4b1470222ab499d5_2)) {
-            Py_XDECREF(cache_frame_0629792fd42d7b2f4b1470222ab499d5_2);
+        if (isFrameUnusable(cache_frame_e62ded93f95a2ab459f86f1c0b68b502_2)) {
+            Py_XDECREF(cache_frame_e62ded93f95a2ab459f86f1c0b68b502_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_0629792fd42d7b2f4b1470222ab499d5_2 == NULL) {
+            if (cache_frame_e62ded93f95a2ab459f86f1c0b68b502_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_0629792fd42d7b2f4b1470222ab499d5_2 = MAKE_FUNCTION_FRAME(codeobj_0629792fd42d7b2f4b1470222ab499d5, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+            cache_frame_e62ded93f95a2ab459f86f1c0b68b502_2 = MAKE_FUNCTION_FRAME(codeobj_e62ded93f95a2ab459f86f1c0b68b502, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_0629792fd42d7b2f4b1470222ab499d5_2->m_type_description == NULL);
-        frame_0629792fd42d7b2f4b1470222ab499d5_2 = cache_frame_0629792fd42d7b2f4b1470222ab499d5_2;
+        assert(cache_frame_e62ded93f95a2ab459f86f1c0b68b502_2->m_type_description == NULL);
+        frame_e62ded93f95a2ab459f86f1c0b68b502_2 = cache_frame_e62ded93f95a2ab459f86f1c0b68b502_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_0629792fd42d7b2f4b1470222ab499d5_2);
+        pushFrameStack(frame_e62ded93f95a2ab459f86f1c0b68b502_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_0629792fd42d7b2f4b1470222ab499d5_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_e62ded93f95a2ab459f86f1c0b68b502_2) == 2); // Frame stack
 
         // Framed code:
         // Tried code:
@@ -7015,7 +7015,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
         // End of try:
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_0629792fd42d7b2f4b1470222ab499d5_2);
+        RESTORE_FRAME_EXCEPTION(frame_e62ded93f95a2ab459f86f1c0b68b502_2);
 #endif
 
         // Put the previous frame back on top.
@@ -7025,7 +7025,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
 
         frame_return_exit_1:;
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_0629792fd42d7b2f4b1470222ab499d5_2);
+        RESTORE_FRAME_EXCEPTION(frame_e62ded93f95a2ab459f86f1c0b68b502_2);
 #endif
 
         // Put the previous frame back on top.
@@ -7036,18 +7036,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_0629792fd42d7b2f4b1470222ab499d5_2);
+        RESTORE_FRAME_EXCEPTION(frame_e62ded93f95a2ab459f86f1c0b68b502_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_0629792fd42d7b2f4b1470222ab499d5_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_0629792fd42d7b2f4b1470222ab499d5_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_0629792fd42d7b2f4b1470222ab499d5_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_e62ded93f95a2ab459f86f1c0b68b502_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_e62ded93f95a2ab459f86f1c0b68b502_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_e62ded93f95a2ab459f86f1c0b68b502_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_0629792fd42d7b2f4b1470222ab499d5_2,
+            frame_e62ded93f95a2ab459f86f1c0b68b502_2,
             type_description_2,
             outline_0_var_x,
             outline_0_var_y,
@@ -7057,17 +7057,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
 
 
         // Release cached frame if used for exception.
-        if (frame_0629792fd42d7b2f4b1470222ab499d5_2 == cache_frame_0629792fd42d7b2f4b1470222ab499d5_2) {
+        if (frame_e62ded93f95a2ab459f86f1c0b68b502_2 == cache_frame_e62ded93f95a2ab459f86f1c0b68b502_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_0629792fd42d7b2f4b1470222ab499d5_2);
-            cache_frame_0629792fd42d7b2f4b1470222ab499d5_2 = NULL;
+            Py_DECREF(cache_frame_e62ded93f95a2ab459f86f1c0b68b502_2);
+            cache_frame_e62ded93f95a2ab459f86f1c0b68b502_2 = NULL;
         }
 
-        assertFrameObject(frame_0629792fd42d7b2f4b1470222ab499d5_2);
+        assertFrameObject(frame_e62ded93f95a2ab459f86f1c0b68b502_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -7158,31 +7158,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
             assert(tmp_listcomp_2__contraction == NULL);
             tmp_listcomp_2__contraction = tmp_assign_source_22;
         }
-        if (isFrameUnusable(cache_frame_8457da77418f5e8437316df599b7ad52_3)) {
-            Py_XDECREF(cache_frame_8457da77418f5e8437316df599b7ad52_3);
+        if (isFrameUnusable(cache_frame_693f73276d0316d2cc77364692c9d694_3)) {
+            Py_XDECREF(cache_frame_693f73276d0316d2cc77364692c9d694_3);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_8457da77418f5e8437316df599b7ad52_3 == NULL) {
+            if (cache_frame_693f73276d0316d2cc77364692c9d694_3 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_8457da77418f5e8437316df599b7ad52_3 = MAKE_FUNCTION_FRAME(codeobj_8457da77418f5e8437316df599b7ad52, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+            cache_frame_693f73276d0316d2cc77364692c9d694_3 = MAKE_FUNCTION_FRAME(codeobj_693f73276d0316d2cc77364692c9d694, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_8457da77418f5e8437316df599b7ad52_3->m_type_description == NULL);
-        frame_8457da77418f5e8437316df599b7ad52_3 = cache_frame_8457da77418f5e8437316df599b7ad52_3;
+        assert(cache_frame_693f73276d0316d2cc77364692c9d694_3->m_type_description == NULL);
+        frame_693f73276d0316d2cc77364692c9d694_3 = cache_frame_693f73276d0316d2cc77364692c9d694_3;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_8457da77418f5e8437316df599b7ad52_3);
+        pushFrameStack(frame_693f73276d0316d2cc77364692c9d694_3);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_8457da77418f5e8437316df599b7ad52_3) == 2); // Frame stack
+        assert(Py_REFCNT(frame_693f73276d0316d2cc77364692c9d694_3) == 2); // Frame stack
 
         // Framed code:
         // Tried code:
@@ -7507,7 +7507,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
             }
 
             tmp_args_element_name_8 = par_zdir;
-            frame_8457da77418f5e8437316df599b7ad52_3->m_frame.f_lineno = 203;
+            frame_693f73276d0316d2cc77364692c9d694_3->m_frame.f_lineno = 203;
             {
                 PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6, tmp_args_element_name_7, tmp_args_element_name_8};
                 tmp_append_value_2 = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_4, call_args);
@@ -7592,7 +7592,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
         // End of try:
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_8457da77418f5e8437316df599b7ad52_3);
+        RESTORE_FRAME_EXCEPTION(frame_693f73276d0316d2cc77364692c9d694_3);
 #endif
 
         // Put the previous frame back on top.
@@ -7602,7 +7602,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
 
         frame_return_exit_2:;
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_8457da77418f5e8437316df599b7ad52_3);
+        RESTORE_FRAME_EXCEPTION(frame_693f73276d0316d2cc77364692c9d694_3);
 #endif
 
         // Put the previous frame back on top.
@@ -7613,18 +7613,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
         frame_exception_exit_3:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_8457da77418f5e8437316df599b7ad52_3);
+        RESTORE_FRAME_EXCEPTION(frame_693f73276d0316d2cc77364692c9d694_3);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_8457da77418f5e8437316df599b7ad52_3, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_8457da77418f5e8437316df599b7ad52_3->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_8457da77418f5e8437316df599b7ad52_3, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_693f73276d0316d2cc77364692c9d694_3, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_693f73276d0316d2cc77364692c9d694_3->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_693f73276d0316d2cc77364692c9d694_3, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_8457da77418f5e8437316df599b7ad52_3,
+            frame_693f73276d0316d2cc77364692c9d694_3,
             type_description_2,
             outline_1_var_x,
             outline_1_var_y,
@@ -7634,17 +7634,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
 
 
         // Release cached frame if used for exception.
-        if (frame_8457da77418f5e8437316df599b7ad52_3 == cache_frame_8457da77418f5e8437316df599b7ad52_3) {
+        if (frame_693f73276d0316d2cc77364692c9d694_3 == cache_frame_693f73276d0316d2cc77364692c9d694_3) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_8457da77418f5e8437316df599b7ad52_3);
-            cache_frame_8457da77418f5e8437316df599b7ad52_3 = NULL;
+            Py_DECREF(cache_frame_693f73276d0316d2cc77364692c9d694_3);
+            cache_frame_693f73276d0316d2cc77364692c9d694_3 = NULL;
         }
 
-        assertFrameObject(frame_8457da77418f5e8437316df599b7ad52_3);
+        assertFrameObject(frame_693f73276d0316d2cc77364692c9d694_3);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -7705,7 +7705,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_53ccc28474e683e42211d8aaedfd6ae1);
+    RESTORE_FRAME_EXCEPTION(frame_0c5078ed52be3e8e8df8277e569dddc4);
 #endif
 
     // Put the previous frame back on top.
@@ -7716,18 +7716,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_53ccc28474e683e42211d8aaedfd6ae1);
+    RESTORE_FRAME_EXCEPTION(frame_0c5078ed52be3e8e8df8277e569dddc4);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_53ccc28474e683e42211d8aaedfd6ae1, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_53ccc28474e683e42211d8aaedfd6ae1->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_53ccc28474e683e42211d8aaedfd6ae1, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_0c5078ed52be3e8e8df8277e569dddc4, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_0c5078ed52be3e8e8df8277e569dddc4->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_0c5078ed52be3e8e8df8277e569dddc4, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_53ccc28474e683e42211d8aaedfd6ae1,
+        frame_0c5078ed52be3e8e8df8277e569dddc4,
         type_description_1,
         par_path,
         par_zs,
@@ -7739,17 +7739,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__15__path_to_3d_segm
 
 
     // Release cached frame if used for exception.
-    if (frame_53ccc28474e683e42211d8aaedfd6ae1 == cache_frame_53ccc28474e683e42211d8aaedfd6ae1) {
+    if (frame_0c5078ed52be3e8e8df8277e569dddc4 == cache_frame_0c5078ed52be3e8e8df8277e569dddc4) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_53ccc28474e683e42211d8aaedfd6ae1);
-        cache_frame_53ccc28474e683e42211d8aaedfd6ae1 = NULL;
+        Py_DECREF(cache_frame_0c5078ed52be3e8e8df8277e569dddc4);
+        cache_frame_0c5078ed52be3e8e8df8277e569dddc4 = NULL;
     }
 
-    assertFrameObject(frame_53ccc28474e683e42211d8aaedfd6ae1);
+    assertFrameObject(frame_0c5078ed52be3e8e8df8277e569dddc4);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -7852,13 +7852,13 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__16__paths_to_3d_seg
     PyObject *tmp_listcomp_1__$0 = NULL;
     PyObject *tmp_listcomp_1__contraction = NULL;
     PyObject *tmp_listcomp_1__iter_value_0 = NULL;
-    struct Nuitka_FrameObject *frame_9b10165220f03b76c6ed94025c7dcb01;
+    struct Nuitka_FrameObject *frame_50cfc983dc49f4e95c760b36739e4b0b;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    struct Nuitka_FrameObject *frame_c0bfa08c864fdbe3715fa1736f7c1a09_2;
+    struct Nuitka_FrameObject *frame_53e70f57d7030df00390ec3cdbcd8e56_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
     PyObject *tmp_iterator_attempt;
     PyObject *exception_keeper_type_1;
@@ -7874,12 +7874,12 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__16__paths_to_3d_seg
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_3;
-    static struct Nuitka_FrameObject *cache_frame_c0bfa08c864fdbe3715fa1736f7c1a09_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_53e70f57d7030df00390ec3cdbcd8e56_2 = NULL;
     PyObject *exception_keeper_type_4;
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_4;
-    static struct Nuitka_FrameObject *cache_frame_9b10165220f03b76c6ed94025c7dcb01 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_50cfc983dc49f4e95c760b36739e4b0b = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_5;
     PyObject *exception_keeper_value_5;
@@ -7888,31 +7888,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__16__paths_to_3d_seg
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_9b10165220f03b76c6ed94025c7dcb01)) {
-        Py_XDECREF(cache_frame_9b10165220f03b76c6ed94025c7dcb01);
+    if (isFrameUnusable(cache_frame_50cfc983dc49f4e95c760b36739e4b0b)) {
+        Py_XDECREF(cache_frame_50cfc983dc49f4e95c760b36739e4b0b);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_9b10165220f03b76c6ed94025c7dcb01 == NULL) {
+        if (cache_frame_50cfc983dc49f4e95c760b36739e4b0b == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_9b10165220f03b76c6ed94025c7dcb01 = MAKE_FUNCTION_FRAME(codeobj_9b10165220f03b76c6ed94025c7dcb01, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_50cfc983dc49f4e95c760b36739e4b0b = MAKE_FUNCTION_FRAME(codeobj_50cfc983dc49f4e95c760b36739e4b0b, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_9b10165220f03b76c6ed94025c7dcb01->m_type_description == NULL);
-    frame_9b10165220f03b76c6ed94025c7dcb01 = cache_frame_9b10165220f03b76c6ed94025c7dcb01;
+    assert(cache_frame_50cfc983dc49f4e95c760b36739e4b0b->m_type_description == NULL);
+    frame_50cfc983dc49f4e95c760b36739e4b0b = cache_frame_50cfc983dc49f4e95c760b36739e4b0b;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_9b10165220f03b76c6ed94025c7dcb01);
+    pushFrameStack(frame_50cfc983dc49f4e95c760b36739e4b0b);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_9b10165220f03b76c6ed94025c7dcb01) == 2); // Frame stack
+    assert(Py_REFCNT(frame_50cfc983dc49f4e95c760b36739e4b0b) == 2); // Frame stack
 
     // Framed code:
     {
@@ -7964,7 +7964,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__16__paths_to_3d_seg
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_9b10165220f03b76c6ed94025c7dcb01->m_frame.f_lineno = 210;
+        frame_50cfc983dc49f4e95c760b36739e4b0b->m_frame.f_lineno = 210;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -8014,7 +8014,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__16__paths_to_3d_seg
             tmp_args_element_name_3 = par_paths;
             CHECK_OBJECT(par_zs);
             tmp_args_element_name_4 = par_zs;
-            frame_9b10165220f03b76c6ed94025c7dcb01->m_frame.f_lineno = 212;
+            frame_50cfc983dc49f4e95c760b36739e4b0b->m_frame.f_lineno = 212;
             {
                 PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
                 tmp_iter_arg_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -8051,31 +8051,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__16__paths_to_3d_seg
             assert(tmp_listcomp_1__contraction == NULL);
             tmp_listcomp_1__contraction = tmp_assign_source_4;
         }
-        if (isFrameUnusable(cache_frame_c0bfa08c864fdbe3715fa1736f7c1a09_2)) {
-            Py_XDECREF(cache_frame_c0bfa08c864fdbe3715fa1736f7c1a09_2);
+        if (isFrameUnusable(cache_frame_53e70f57d7030df00390ec3cdbcd8e56_2)) {
+            Py_XDECREF(cache_frame_53e70f57d7030df00390ec3cdbcd8e56_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_c0bfa08c864fdbe3715fa1736f7c1a09_2 == NULL) {
+            if (cache_frame_53e70f57d7030df00390ec3cdbcd8e56_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_c0bfa08c864fdbe3715fa1736f7c1a09_2 = MAKE_FUNCTION_FRAME(codeobj_c0bfa08c864fdbe3715fa1736f7c1a09, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
+            cache_frame_53e70f57d7030df00390ec3cdbcd8e56_2 = MAKE_FUNCTION_FRAME(codeobj_53e70f57d7030df00390ec3cdbcd8e56, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_c0bfa08c864fdbe3715fa1736f7c1a09_2->m_type_description == NULL);
-        frame_c0bfa08c864fdbe3715fa1736f7c1a09_2 = cache_frame_c0bfa08c864fdbe3715fa1736f7c1a09_2;
+        assert(cache_frame_53e70f57d7030df00390ec3cdbcd8e56_2->m_type_description == NULL);
+        frame_53e70f57d7030df00390ec3cdbcd8e56_2 = cache_frame_53e70f57d7030df00390ec3cdbcd8e56_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_c0bfa08c864fdbe3715fa1736f7c1a09_2);
+        pushFrameStack(frame_53e70f57d7030df00390ec3cdbcd8e56_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_c0bfa08c864fdbe3715fa1736f7c1a09_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_53e70f57d7030df00390ec3cdbcd8e56_2) == 2); // Frame stack
 
         // Framed code:
         // Tried code:
@@ -8350,7 +8350,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__16__paths_to_3d_seg
             }
 
             tmp_args_element_name_7 = par_zdir;
-            frame_c0bfa08c864fdbe3715fa1736f7c1a09_2->m_frame.f_lineno = 211;
+            frame_53e70f57d7030df00390ec3cdbcd8e56_2->m_frame.f_lineno = 211;
             {
                 PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6, tmp_args_element_name_7};
                 tmp_append_value_1 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_3, call_args);
@@ -8435,7 +8435,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__16__paths_to_3d_seg
         // End of try:
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_c0bfa08c864fdbe3715fa1736f7c1a09_2);
+        RESTORE_FRAME_EXCEPTION(frame_53e70f57d7030df00390ec3cdbcd8e56_2);
 #endif
 
         // Put the previous frame back on top.
@@ -8445,7 +8445,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__16__paths_to_3d_seg
 
         frame_return_exit_1:;
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_c0bfa08c864fdbe3715fa1736f7c1a09_2);
+        RESTORE_FRAME_EXCEPTION(frame_53e70f57d7030df00390ec3cdbcd8e56_2);
 #endif
 
         // Put the previous frame back on top.
@@ -8456,18 +8456,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__16__paths_to_3d_seg
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_c0bfa08c864fdbe3715fa1736f7c1a09_2);
+        RESTORE_FRAME_EXCEPTION(frame_53e70f57d7030df00390ec3cdbcd8e56_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_c0bfa08c864fdbe3715fa1736f7c1a09_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_c0bfa08c864fdbe3715fa1736f7c1a09_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_c0bfa08c864fdbe3715fa1736f7c1a09_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_53e70f57d7030df00390ec3cdbcd8e56_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_53e70f57d7030df00390ec3cdbcd8e56_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_53e70f57d7030df00390ec3cdbcd8e56_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_c0bfa08c864fdbe3715fa1736f7c1a09_2,
+            frame_53e70f57d7030df00390ec3cdbcd8e56_2,
             type_description_2,
             outline_0_var_path,
             outline_0_var_pathz,
@@ -8476,17 +8476,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__16__paths_to_3d_seg
 
 
         // Release cached frame if used for exception.
-        if (frame_c0bfa08c864fdbe3715fa1736f7c1a09_2 == cache_frame_c0bfa08c864fdbe3715fa1736f7c1a09_2) {
+        if (frame_53e70f57d7030df00390ec3cdbcd8e56_2 == cache_frame_53e70f57d7030df00390ec3cdbcd8e56_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_c0bfa08c864fdbe3715fa1736f7c1a09_2);
-            cache_frame_c0bfa08c864fdbe3715fa1736f7c1a09_2 = NULL;
+            Py_DECREF(cache_frame_53e70f57d7030df00390ec3cdbcd8e56_2);
+            cache_frame_53e70f57d7030df00390ec3cdbcd8e56_2 = NULL;
         }
 
-        assertFrameObject(frame_c0bfa08c864fdbe3715fa1736f7c1a09_2);
+        assertFrameObject(frame_53e70f57d7030df00390ec3cdbcd8e56_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -8543,7 +8543,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__16__paths_to_3d_seg
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9b10165220f03b76c6ed94025c7dcb01);
+    RESTORE_FRAME_EXCEPTION(frame_50cfc983dc49f4e95c760b36739e4b0b);
 #endif
 
     // Put the previous frame back on top.
@@ -8554,18 +8554,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__16__paths_to_3d_seg
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9b10165220f03b76c6ed94025c7dcb01);
+    RESTORE_FRAME_EXCEPTION(frame_50cfc983dc49f4e95c760b36739e4b0b);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_9b10165220f03b76c6ed94025c7dcb01, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_9b10165220f03b76c6ed94025c7dcb01->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_9b10165220f03b76c6ed94025c7dcb01, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_50cfc983dc49f4e95c760b36739e4b0b, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_50cfc983dc49f4e95c760b36739e4b0b->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_50cfc983dc49f4e95c760b36739e4b0b, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_9b10165220f03b76c6ed94025c7dcb01,
+        frame_50cfc983dc49f4e95c760b36739e4b0b,
         type_description_1,
         par_paths,
         par_zs,
@@ -8575,17 +8575,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__16__paths_to_3d_seg
 
 
     // Release cached frame if used for exception.
-    if (frame_9b10165220f03b76c6ed94025c7dcb01 == cache_frame_9b10165220f03b76c6ed94025c7dcb01) {
+    if (frame_50cfc983dc49f4e95c760b36739e4b0b == cache_frame_50cfc983dc49f4e95c760b36739e4b0b) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_9b10165220f03b76c6ed94025c7dcb01);
-        cache_frame_9b10165220f03b76c6ed94025c7dcb01 = NULL;
+        Py_DECREF(cache_frame_50cfc983dc49f4e95c760b36739e4b0b);
+        cache_frame_50cfc983dc49f4e95c760b36739e4b0b = NULL;
     }
 
-    assertFrameObject(frame_9b10165220f03b76c6ed94025c7dcb01);
+    assertFrameObject(frame_50cfc983dc49f4e95c760b36739e4b0b);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -8704,13 +8704,13 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_c259580a2f7a26046813c4338c3bd4bc;
+    struct Nuitka_FrameObject *frame_293664f1a3eae1da3b665702d7c4a852;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    struct Nuitka_FrameObject *frame_b3d14a5bcb1a9285d9190a58768d142f_2;
+    struct Nuitka_FrameObject *frame_f9eedd99fa83bae4e88f649999b7a479_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
     PyObject *tmp_iterator_attempt;
     PyObject *exception_keeper_type_1;
@@ -8742,7 +8742,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
     PyObject *exception_keeper_value_7;
     PyTracebackObject *exception_keeper_tb_7;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_7;
-    static struct Nuitka_FrameObject *cache_frame_b3d14a5bcb1a9285d9190a58768d142f_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f9eedd99fa83bae4e88f649999b7a479_2 = NULL;
     PyObject *exception_keeper_type_8;
     PyObject *exception_keeper_value_8;
     PyTracebackObject *exception_keeper_tb_8;
@@ -8755,7 +8755,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
     PyObject *exception_keeper_value_10;
     PyTracebackObject *exception_keeper_tb_10;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_10;
-    struct Nuitka_FrameObject *frame_4feb7c703e0736b29fc76165803e1e6f_3;
+    struct Nuitka_FrameObject *frame_2ba10cb447105eeb981e69c9b1786a74_3;
     NUITKA_MAY_BE_UNUSED char const *type_description_3 = NULL;
     PyObject *exception_keeper_type_11;
     PyObject *exception_keeper_value_11;
@@ -8769,13 +8769,13 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
     PyObject *exception_keeper_value_13;
     PyTracebackObject *exception_keeper_tb_13;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_13;
-    static struct Nuitka_FrameObject *cache_frame_4feb7c703e0736b29fc76165803e1e6f_3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_2ba10cb447105eeb981e69c9b1786a74_3 = NULL;
     PyObject *exception_keeper_type_14;
     PyObject *exception_keeper_value_14;
     PyTracebackObject *exception_keeper_tb_14;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_14;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_c259580a2f7a26046813c4338c3bd4bc = NULL;
+    static struct Nuitka_FrameObject *cache_frame_293664f1a3eae1da3b665702d7c4a852 = NULL;
     PyObject *exception_keeper_type_15;
     PyObject *exception_keeper_value_15;
     PyTracebackObject *exception_keeper_tb_15;
@@ -8783,31 +8783,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_c259580a2f7a26046813c4338c3bd4bc)) {
-        Py_XDECREF(cache_frame_c259580a2f7a26046813c4338c3bd4bc);
+    if (isFrameUnusable(cache_frame_293664f1a3eae1da3b665702d7c4a852)) {
+        Py_XDECREF(cache_frame_293664f1a3eae1da3b665702d7c4a852);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_c259580a2f7a26046813c4338c3bd4bc == NULL) {
+        if (cache_frame_293664f1a3eae1da3b665702d7c4a852 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_c259580a2f7a26046813c4338c3bd4bc = MAKE_FUNCTION_FRAME(codeobj_c259580a2f7a26046813c4338c3bd4bc, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_293664f1a3eae1da3b665702d7c4a852 = MAKE_FUNCTION_FRAME(codeobj_293664f1a3eae1da3b665702d7c4a852, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_c259580a2f7a26046813c4338c3bd4bc->m_type_description == NULL);
-    frame_c259580a2f7a26046813c4338c3bd4bc = cache_frame_c259580a2f7a26046813c4338c3bd4bc;
+    assert(cache_frame_293664f1a3eae1da3b665702d7c4a852->m_type_description == NULL);
+    frame_293664f1a3eae1da3b665702d7c4a852 = cache_frame_293664f1a3eae1da3b665702d7c4a852;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_c259580a2f7a26046813c4338c3bd4bc);
+    pushFrameStack(frame_293664f1a3eae1da3b665702d7c4a852);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_c259580a2f7a26046813c4338c3bd4bc) == 2); // Frame stack
+    assert(Py_REFCNT(frame_293664f1a3eae1da3b665702d7c4a852) == 2); // Frame stack
 
     // Framed code:
     {
@@ -8859,7 +8859,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
             type_description_1 = "oooooooo";
             goto frame_exception_exit_1;
         }
-        frame_c259580a2f7a26046813c4338c3bd4bc->m_frame.f_lineno = 219;
+        frame_293664f1a3eae1da3b665702d7c4a852->m_frame.f_lineno = 219;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -8914,7 +8914,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
             goto frame_exception_exit_1;
         }
         tmp_kwargs_name_1 = PyDict_Copy(mod_consts[65]);
-        frame_c259580a2f7a26046813c4338c3bd4bc->m_frame.f_lineno = 220;
+        frame_293664f1a3eae1da3b665702d7c4a852->m_frame.f_lineno = 220;
         tmp_assign_source_2 = CALL_FUNCTION_WITH_KEYARGS(tmp_called_name_2, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_kwargs_name_1);
@@ -8945,7 +8945,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
             tmp_args_element_name_3 = var_pathsegs;
             CHECK_OBJECT(par_zs);
             tmp_args_element_name_4 = par_zs;
-            frame_c259580a2f7a26046813c4338c3bd4bc->m_frame.f_lineno = 221;
+            frame_293664f1a3eae1da3b665702d7c4a852->m_frame.f_lineno = 221;
             {
                 PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
                 tmp_iter_arg_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -8982,31 +8982,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
             assert(tmp_listcomp_1__contraction == NULL);
             tmp_listcomp_1__contraction = tmp_assign_source_5;
         }
-        if (isFrameUnusable(cache_frame_b3d14a5bcb1a9285d9190a58768d142f_2)) {
-            Py_XDECREF(cache_frame_b3d14a5bcb1a9285d9190a58768d142f_2);
+        if (isFrameUnusable(cache_frame_f9eedd99fa83bae4e88f649999b7a479_2)) {
+            Py_XDECREF(cache_frame_f9eedd99fa83bae4e88f649999b7a479_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_b3d14a5bcb1a9285d9190a58768d142f_2 == NULL) {
+            if (cache_frame_f9eedd99fa83bae4e88f649999b7a479_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_b3d14a5bcb1a9285d9190a58768d142f_2 = MAKE_FUNCTION_FRAME(codeobj_b3d14a5bcb1a9285d9190a58768d142f, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+            cache_frame_f9eedd99fa83bae4e88f649999b7a479_2 = MAKE_FUNCTION_FRAME(codeobj_f9eedd99fa83bae4e88f649999b7a479, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_b3d14a5bcb1a9285d9190a58768d142f_2->m_type_description == NULL);
-        frame_b3d14a5bcb1a9285d9190a58768d142f_2 = cache_frame_b3d14a5bcb1a9285d9190a58768d142f_2;
+        assert(cache_frame_f9eedd99fa83bae4e88f649999b7a479_2->m_type_description == NULL);
+        frame_f9eedd99fa83bae4e88f649999b7a479_2 = cache_frame_f9eedd99fa83bae4e88f649999b7a479_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_b3d14a5bcb1a9285d9190a58768d142f_2);
+        pushFrameStack(frame_f9eedd99fa83bae4e88f649999b7a479_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_b3d14a5bcb1a9285d9190a58768d142f_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_f9eedd99fa83bae4e88f649999b7a479_2) == 2); // Frame stack
 
         // Framed code:
         // Tried code:
@@ -9710,7 +9710,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
         // End of try:
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_b3d14a5bcb1a9285d9190a58768d142f_2);
+        RESTORE_FRAME_EXCEPTION(frame_f9eedd99fa83bae4e88f649999b7a479_2);
 #endif
 
         // Put the previous frame back on top.
@@ -9720,7 +9720,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
 
         frame_return_exit_2:;
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_b3d14a5bcb1a9285d9190a58768d142f_2);
+        RESTORE_FRAME_EXCEPTION(frame_f9eedd99fa83bae4e88f649999b7a479_2);
 #endif
 
         // Put the previous frame back on top.
@@ -9731,18 +9731,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_b3d14a5bcb1a9285d9190a58768d142f_2);
+        RESTORE_FRAME_EXCEPTION(frame_f9eedd99fa83bae4e88f649999b7a479_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_b3d14a5bcb1a9285d9190a58768d142f_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_b3d14a5bcb1a9285d9190a58768d142f_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_b3d14a5bcb1a9285d9190a58768d142f_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_f9eedd99fa83bae4e88f649999b7a479_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_f9eedd99fa83bae4e88f649999b7a479_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_f9eedd99fa83bae4e88f649999b7a479_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_b3d14a5bcb1a9285d9190a58768d142f_2,
+            frame_f9eedd99fa83bae4e88f649999b7a479_2,
             type_description_2,
             outline_0_var_x,
             outline_0_var_y,
@@ -9752,17 +9752,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
 
 
         // Release cached frame if used for exception.
-        if (frame_b3d14a5bcb1a9285d9190a58768d142f_2 == cache_frame_b3d14a5bcb1a9285d9190a58768d142f_2) {
+        if (frame_f9eedd99fa83bae4e88f649999b7a479_2 == cache_frame_f9eedd99fa83bae4e88f649999b7a479_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_b3d14a5bcb1a9285d9190a58768d142f_2);
-            cache_frame_b3d14a5bcb1a9285d9190a58768d142f_2 = NULL;
+            Py_DECREF(cache_frame_f9eedd99fa83bae4e88f649999b7a479_2);
+            cache_frame_f9eedd99fa83bae4e88f649999b7a479_2 = NULL;
         }
 
-        assertFrameObject(frame_b3d14a5bcb1a9285d9190a58768d142f_2);
+        assertFrameObject(frame_f9eedd99fa83bae4e88f649999b7a479_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -10079,31 +10079,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
             assert(tmp_listcomp_2__contraction == NULL);
             tmp_listcomp_2__contraction = tmp_assign_source_27;
         }
-        if (isFrameUnusable(cache_frame_4feb7c703e0736b29fc76165803e1e6f_3)) {
-            Py_XDECREF(cache_frame_4feb7c703e0736b29fc76165803e1e6f_3);
+        if (isFrameUnusable(cache_frame_2ba10cb447105eeb981e69c9b1786a74_3)) {
+            Py_XDECREF(cache_frame_2ba10cb447105eeb981e69c9b1786a74_3);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_4feb7c703e0736b29fc76165803e1e6f_3 == NULL) {
+            if (cache_frame_2ba10cb447105eeb981e69c9b1786a74_3 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_4feb7c703e0736b29fc76165803e1e6f_3 = MAKE_FUNCTION_FRAME(codeobj_4feb7c703e0736b29fc76165803e1e6f, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+            cache_frame_2ba10cb447105eeb981e69c9b1786a74_3 = MAKE_FUNCTION_FRAME(codeobj_2ba10cb447105eeb981e69c9b1786a74, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_4feb7c703e0736b29fc76165803e1e6f_3->m_type_description == NULL);
-        frame_4feb7c703e0736b29fc76165803e1e6f_3 = cache_frame_4feb7c703e0736b29fc76165803e1e6f_3;
+        assert(cache_frame_2ba10cb447105eeb981e69c9b1786a74_3->m_type_description == NULL);
+        frame_2ba10cb447105eeb981e69c9b1786a74_3 = cache_frame_2ba10cb447105eeb981e69c9b1786a74_3;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_4feb7c703e0736b29fc76165803e1e6f_3);
+        pushFrameStack(frame_2ba10cb447105eeb981e69c9b1786a74_3);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_4feb7c703e0736b29fc76165803e1e6f_3) == 2); // Frame stack
+        assert(Py_REFCNT(frame_2ba10cb447105eeb981e69c9b1786a74_3) == 2); // Frame stack
 
         // Framed code:
         // Tried code:
@@ -10428,7 +10428,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
             }
 
             tmp_args_element_name_8 = par_zdir;
-            frame_4feb7c703e0736b29fc76165803e1e6f_3->m_frame.f_lineno = 224;
+            frame_2ba10cb447105eeb981e69c9b1786a74_3->m_frame.f_lineno = 224;
             {
                 PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6, tmp_args_element_name_7, tmp_args_element_name_8};
                 tmp_append_value_2 = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_4, call_args);
@@ -10513,7 +10513,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
         // End of try:
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_4feb7c703e0736b29fc76165803e1e6f_3);
+        RESTORE_FRAME_EXCEPTION(frame_2ba10cb447105eeb981e69c9b1786a74_3);
 #endif
 
         // Put the previous frame back on top.
@@ -10523,7 +10523,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
 
         frame_return_exit_3:;
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_4feb7c703e0736b29fc76165803e1e6f_3);
+        RESTORE_FRAME_EXCEPTION(frame_2ba10cb447105eeb981e69c9b1786a74_3);
 #endif
 
         // Put the previous frame back on top.
@@ -10534,18 +10534,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
         frame_exception_exit_3:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_4feb7c703e0736b29fc76165803e1e6f_3);
+        RESTORE_FRAME_EXCEPTION(frame_2ba10cb447105eeb981e69c9b1786a74_3);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_4feb7c703e0736b29fc76165803e1e6f_3, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_4feb7c703e0736b29fc76165803e1e6f_3->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_4feb7c703e0736b29fc76165803e1e6f_3, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_2ba10cb447105eeb981e69c9b1786a74_3, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_2ba10cb447105eeb981e69c9b1786a74_3->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_2ba10cb447105eeb981e69c9b1786a74_3, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_4feb7c703e0736b29fc76165803e1e6f_3,
+            frame_2ba10cb447105eeb981e69c9b1786a74_3,
             type_description_2,
             outline_1_var_x,
             outline_1_var_y,
@@ -10555,17 +10555,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
 
 
         // Release cached frame if used for exception.
-        if (frame_4feb7c703e0736b29fc76165803e1e6f_3 == cache_frame_4feb7c703e0736b29fc76165803e1e6f_3) {
+        if (frame_2ba10cb447105eeb981e69c9b1786a74_3 == cache_frame_2ba10cb447105eeb981e69c9b1786a74_3) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_4feb7c703e0736b29fc76165803e1e6f_3);
-            cache_frame_4feb7c703e0736b29fc76165803e1e6f_3 = NULL;
+            Py_DECREF(cache_frame_2ba10cb447105eeb981e69c9b1786a74_3);
+            cache_frame_2ba10cb447105eeb981e69c9b1786a74_3 = NULL;
         }
 
-        assertFrameObject(frame_4feb7c703e0736b29fc76165803e1e6f_3);
+        assertFrameObject(frame_2ba10cb447105eeb981e69c9b1786a74_3);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -10673,7 +10673,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c259580a2f7a26046813c4338c3bd4bc);
+    RESTORE_FRAME_EXCEPTION(frame_293664f1a3eae1da3b665702d7c4a852);
 #endif
 
     // Put the previous frame back on top.
@@ -10683,7 +10683,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c259580a2f7a26046813c4338c3bd4bc);
+    RESTORE_FRAME_EXCEPTION(frame_293664f1a3eae1da3b665702d7c4a852);
 #endif
 
     // Put the previous frame back on top.
@@ -10694,18 +10694,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c259580a2f7a26046813c4338c3bd4bc);
+    RESTORE_FRAME_EXCEPTION(frame_293664f1a3eae1da3b665702d7c4a852);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_c259580a2f7a26046813c4338c3bd4bc, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_c259580a2f7a26046813c4338c3bd4bc->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_c259580a2f7a26046813c4338c3bd4bc, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_293664f1a3eae1da3b665702d7c4a852, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_293664f1a3eae1da3b665702d7c4a852->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_293664f1a3eae1da3b665702d7c4a852, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_c259580a2f7a26046813c4338c3bd4bc,
+        frame_293664f1a3eae1da3b665702d7c4a852,
         type_description_1,
         par_path,
         par_zs,
@@ -10719,17 +10719,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__17__path_to_3d_segm
 
 
     // Release cached frame if used for exception.
-    if (frame_c259580a2f7a26046813c4338c3bd4bc == cache_frame_c259580a2f7a26046813c4338c3bd4bc) {
+    if (frame_293664f1a3eae1da3b665702d7c4a852 == cache_frame_293664f1a3eae1da3b665702d7c4a852) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_c259580a2f7a26046813c4338c3bd4bc);
-        cache_frame_c259580a2f7a26046813c4338c3bd4bc = NULL;
+        Py_DECREF(cache_frame_293664f1a3eae1da3b665702d7c4a852);
+        cache_frame_293664f1a3eae1da3b665702d7c4a852 = NULL;
     }
 
-    assertFrameObject(frame_c259580a2f7a26046813c4338c3bd4bc);
+    assertFrameObject(frame_293664f1a3eae1da3b665702d7c4a852);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -10848,13 +10848,13 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__18__paths_to_3d_seg
     PyObject *tmp_tuple_unpack_2__element_1 = NULL;
     PyObject *tmp_tuple_unpack_2__element_2 = NULL;
     PyObject *tmp_tuple_unpack_2__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_bd53a12fd9ba977f006da52347cfac08;
+    struct Nuitka_FrameObject *frame_d981b4c4ca72ca2c5a726b59af1ee0c1;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    struct Nuitka_FrameObject *frame_cb0ace18e25bc1d793d657fe66109f5f_2;
+    struct Nuitka_FrameObject *frame_a68fed8f9a32ea6349f574328cf9d9e7_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
     PyObject *tmp_iterator_attempt;
     PyObject *exception_keeper_type_1;
@@ -10870,7 +10870,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__18__paths_to_3d_seg
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_3;
-    static struct Nuitka_FrameObject *cache_frame_cb0ace18e25bc1d793d657fe66109f5f_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_a68fed8f9a32ea6349f574328cf9d9e7_2 = NULL;
     PyObject *exception_keeper_type_4;
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
@@ -10892,7 +10892,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__18__paths_to_3d_seg
     PyTracebackObject *exception_keeper_tb_8;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_8;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_bd53a12fd9ba977f006da52347cfac08 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d981b4c4ca72ca2c5a726b59af1ee0c1 = NULL;
     PyObject *exception_keeper_type_9;
     PyObject *exception_keeper_value_9;
     PyTracebackObject *exception_keeper_tb_9;
@@ -10900,31 +10900,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__18__paths_to_3d_seg
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_bd53a12fd9ba977f006da52347cfac08)) {
-        Py_XDECREF(cache_frame_bd53a12fd9ba977f006da52347cfac08);
+    if (isFrameUnusable(cache_frame_d981b4c4ca72ca2c5a726b59af1ee0c1)) {
+        Py_XDECREF(cache_frame_d981b4c4ca72ca2c5a726b59af1ee0c1);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_bd53a12fd9ba977f006da52347cfac08 == NULL) {
+        if (cache_frame_d981b4c4ca72ca2c5a726b59af1ee0c1 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_bd53a12fd9ba977f006da52347cfac08 = MAKE_FUNCTION_FRAME(codeobj_bd53a12fd9ba977f006da52347cfac08, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_d981b4c4ca72ca2c5a726b59af1ee0c1 = MAKE_FUNCTION_FRAME(codeobj_d981b4c4ca72ca2c5a726b59af1ee0c1, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_bd53a12fd9ba977f006da52347cfac08->m_type_description == NULL);
-    frame_bd53a12fd9ba977f006da52347cfac08 = cache_frame_bd53a12fd9ba977f006da52347cfac08;
+    assert(cache_frame_d981b4c4ca72ca2c5a726b59af1ee0c1->m_type_description == NULL);
+    frame_d981b4c4ca72ca2c5a726b59af1ee0c1 = cache_frame_d981b4c4ca72ca2c5a726b59af1ee0c1;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_bd53a12fd9ba977f006da52347cfac08);
+    pushFrameStack(frame_d981b4c4ca72ca2c5a726b59af1ee0c1);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_bd53a12fd9ba977f006da52347cfac08) == 2); // Frame stack
+    assert(Py_REFCNT(frame_d981b4c4ca72ca2c5a726b59af1ee0c1) == 2); // Frame stack
 
     // Framed code:
     {
@@ -10976,7 +10976,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__18__paths_to_3d_seg
             type_description_1 = "oooooo";
             goto frame_exception_exit_1;
         }
-        frame_bd53a12fd9ba977f006da52347cfac08->m_frame.f_lineno = 236;
+        frame_d981b4c4ca72ca2c5a726b59af1ee0c1->m_frame.f_lineno = 236;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -11026,7 +11026,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__18__paths_to_3d_seg
             tmp_args_element_name_3 = par_paths;
             CHECK_OBJECT(par_zs);
             tmp_args_element_name_4 = par_zs;
-            frame_bd53a12fd9ba977f006da52347cfac08->m_frame.f_lineno = 238;
+            frame_d981b4c4ca72ca2c5a726b59af1ee0c1->m_frame.f_lineno = 238;
             {
                 PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
                 tmp_iter_arg_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -11063,31 +11063,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__18__paths_to_3d_seg
             assert(tmp_listcomp_1__contraction == NULL);
             tmp_listcomp_1__contraction = tmp_assign_source_4;
         }
-        if (isFrameUnusable(cache_frame_cb0ace18e25bc1d793d657fe66109f5f_2)) {
-            Py_XDECREF(cache_frame_cb0ace18e25bc1d793d657fe66109f5f_2);
+        if (isFrameUnusable(cache_frame_a68fed8f9a32ea6349f574328cf9d9e7_2)) {
+            Py_XDECREF(cache_frame_a68fed8f9a32ea6349f574328cf9d9e7_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_cb0ace18e25bc1d793d657fe66109f5f_2 == NULL) {
+            if (cache_frame_a68fed8f9a32ea6349f574328cf9d9e7_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_cb0ace18e25bc1d793d657fe66109f5f_2 = MAKE_FUNCTION_FRAME(codeobj_cb0ace18e25bc1d793d657fe66109f5f, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
+            cache_frame_a68fed8f9a32ea6349f574328cf9d9e7_2 = MAKE_FUNCTION_FRAME(codeobj_a68fed8f9a32ea6349f574328cf9d9e7, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_cb0ace18e25bc1d793d657fe66109f5f_2->m_type_description == NULL);
-        frame_cb0ace18e25bc1d793d657fe66109f5f_2 = cache_frame_cb0ace18e25bc1d793d657fe66109f5f_2;
+        assert(cache_frame_a68fed8f9a32ea6349f574328cf9d9e7_2->m_type_description == NULL);
+        frame_a68fed8f9a32ea6349f574328cf9d9e7_2 = cache_frame_a68fed8f9a32ea6349f574328cf9d9e7_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_cb0ace18e25bc1d793d657fe66109f5f_2);
+        pushFrameStack(frame_a68fed8f9a32ea6349f574328cf9d9e7_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_cb0ace18e25bc1d793d657fe66109f5f_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_a68fed8f9a32ea6349f574328cf9d9e7_2) == 2); // Frame stack
 
         // Framed code:
         // Tried code:
@@ -11362,7 +11362,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__18__paths_to_3d_seg
             }
 
             tmp_args_element_name_7 = par_zdir;
-            frame_cb0ace18e25bc1d793d657fe66109f5f_2->m_frame.f_lineno = 237;
+            frame_a68fed8f9a32ea6349f574328cf9d9e7_2->m_frame.f_lineno = 237;
             {
                 PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6, tmp_args_element_name_7};
                 tmp_append_value_1 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_3, call_args);
@@ -11447,7 +11447,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__18__paths_to_3d_seg
         // End of try:
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_cb0ace18e25bc1d793d657fe66109f5f_2);
+        RESTORE_FRAME_EXCEPTION(frame_a68fed8f9a32ea6349f574328cf9d9e7_2);
 #endif
 
         // Put the previous frame back on top.
@@ -11457,7 +11457,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__18__paths_to_3d_seg
 
         frame_return_exit_2:;
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_cb0ace18e25bc1d793d657fe66109f5f_2);
+        RESTORE_FRAME_EXCEPTION(frame_a68fed8f9a32ea6349f574328cf9d9e7_2);
 #endif
 
         // Put the previous frame back on top.
@@ -11468,18 +11468,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__18__paths_to_3d_seg
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_cb0ace18e25bc1d793d657fe66109f5f_2);
+        RESTORE_FRAME_EXCEPTION(frame_a68fed8f9a32ea6349f574328cf9d9e7_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_cb0ace18e25bc1d793d657fe66109f5f_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_cb0ace18e25bc1d793d657fe66109f5f_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_cb0ace18e25bc1d793d657fe66109f5f_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_a68fed8f9a32ea6349f574328cf9d9e7_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_a68fed8f9a32ea6349f574328cf9d9e7_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_a68fed8f9a32ea6349f574328cf9d9e7_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_cb0ace18e25bc1d793d657fe66109f5f_2,
+            frame_a68fed8f9a32ea6349f574328cf9d9e7_2,
             type_description_2,
             outline_0_var_path,
             outline_0_var_pathz,
@@ -11488,17 +11488,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__18__paths_to_3d_seg
 
 
         // Release cached frame if used for exception.
-        if (frame_cb0ace18e25bc1d793d657fe66109f5f_2 == cache_frame_cb0ace18e25bc1d793d657fe66109f5f_2) {
+        if (frame_a68fed8f9a32ea6349f574328cf9d9e7_2 == cache_frame_a68fed8f9a32ea6349f574328cf9d9e7_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_cb0ace18e25bc1d793d657fe66109f5f_2);
-            cache_frame_cb0ace18e25bc1d793d657fe66109f5f_2 = NULL;
+            Py_DECREF(cache_frame_a68fed8f9a32ea6349f574328cf9d9e7_2);
+            cache_frame_a68fed8f9a32ea6349f574328cf9d9e7_2 = NULL;
         }
 
-        assertFrameObject(frame_cb0ace18e25bc1d793d657fe66109f5f_2);
+        assertFrameObject(frame_a68fed8f9a32ea6349f574328cf9d9e7_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -11988,7 +11988,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__18__paths_to_3d_seg
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_bd53a12fd9ba977f006da52347cfac08);
+    RESTORE_FRAME_EXCEPTION(frame_d981b4c4ca72ca2c5a726b59af1ee0c1);
 #endif
 
     // Put the previous frame back on top.
@@ -11998,7 +11998,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__18__paths_to_3d_seg
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_bd53a12fd9ba977f006da52347cfac08);
+    RESTORE_FRAME_EXCEPTION(frame_d981b4c4ca72ca2c5a726b59af1ee0c1);
 #endif
 
     // Put the previous frame back on top.
@@ -12009,18 +12009,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__18__paths_to_3d_seg
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_bd53a12fd9ba977f006da52347cfac08);
+    RESTORE_FRAME_EXCEPTION(frame_d981b4c4ca72ca2c5a726b59af1ee0c1);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_bd53a12fd9ba977f006da52347cfac08, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_bd53a12fd9ba977f006da52347cfac08->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_bd53a12fd9ba977f006da52347cfac08, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d981b4c4ca72ca2c5a726b59af1ee0c1, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d981b4c4ca72ca2c5a726b59af1ee0c1->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d981b4c4ca72ca2c5a726b59af1ee0c1, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_bd53a12fd9ba977f006da52347cfac08,
+        frame_d981b4c4ca72ca2c5a726b59af1ee0c1,
         type_description_1,
         par_paths,
         par_zs,
@@ -12032,17 +12032,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__18__paths_to_3d_seg
 
 
     // Release cached frame if used for exception.
-    if (frame_bd53a12fd9ba977f006da52347cfac08 == cache_frame_bd53a12fd9ba977f006da52347cfac08) {
+    if (frame_d981b4c4ca72ca2c5a726b59af1ee0c1 == cache_frame_d981b4c4ca72ca2c5a726b59af1ee0c1) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_bd53a12fd9ba977f006da52347cfac08);
-        cache_frame_bd53a12fd9ba977f006da52347cfac08 = NULL;
+        Py_DECREF(cache_frame_d981b4c4ca72ca2c5a726b59af1ee0c1);
+        cache_frame_d981b4c4ca72ca2c5a726b59af1ee0c1 = NULL;
     }
 
-    assertFrameObject(frame_bd53a12fd9ba977f006da52347cfac08);
+    assertFrameObject(frame_d981b4c4ca72ca2c5a726b59af1ee0c1);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -12134,14 +12134,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__19_set_sort_zpos(st
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_val = python_pars[1];
-    struct Nuitka_FrameObject *frame_25387fa300c953e856d6cfc4c9f0e487;
+    struct Nuitka_FrameObject *frame_fa5aac9aaf4aa5d46bcab8134609f586;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_25387fa300c953e856d6cfc4c9f0e487 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_fa5aac9aaf4aa5d46bcab8134609f586 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -12150,31 +12150,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__19_set_sort_zpos(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_25387fa300c953e856d6cfc4c9f0e487)) {
-        Py_XDECREF(cache_frame_25387fa300c953e856d6cfc4c9f0e487);
+    if (isFrameUnusable(cache_frame_fa5aac9aaf4aa5d46bcab8134609f586)) {
+        Py_XDECREF(cache_frame_fa5aac9aaf4aa5d46bcab8134609f586);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_25387fa300c953e856d6cfc4c9f0e487 == NULL) {
+        if (cache_frame_fa5aac9aaf4aa5d46bcab8134609f586 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_25387fa300c953e856d6cfc4c9f0e487 = MAKE_FUNCTION_FRAME(codeobj_25387fa300c953e856d6cfc4c9f0e487, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
+        cache_frame_fa5aac9aaf4aa5d46bcab8134609f586 = MAKE_FUNCTION_FRAME(codeobj_fa5aac9aaf4aa5d46bcab8134609f586, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_25387fa300c953e856d6cfc4c9f0e487->m_type_description == NULL);
-    frame_25387fa300c953e856d6cfc4c9f0e487 = cache_frame_25387fa300c953e856d6cfc4c9f0e487;
+    assert(cache_frame_fa5aac9aaf4aa5d46bcab8134609f586->m_type_description == NULL);
+    frame_fa5aac9aaf4aa5d46bcab8134609f586 = cache_frame_fa5aac9aaf4aa5d46bcab8134609f586;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_25387fa300c953e856d6cfc4c9f0e487);
+    pushFrameStack(frame_fa5aac9aaf4aa5d46bcab8134609f586);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_25387fa300c953e856d6cfc4c9f0e487) == 2); // Frame stack
+    assert(Py_REFCNT(frame_fa5aac9aaf4aa5d46bcab8134609f586) == 2); // Frame stack
 
     // Framed code:
     {
@@ -12216,7 +12216,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__19_set_sort_zpos(st
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_25387fa300c953e856d6cfc4c9f0e487);
+    RESTORE_FRAME_EXCEPTION(frame_fa5aac9aaf4aa5d46bcab8134609f586);
 #endif
 
     // Put the previous frame back on top.
@@ -12227,18 +12227,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__19_set_sort_zpos(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_25387fa300c953e856d6cfc4c9f0e487);
+    RESTORE_FRAME_EXCEPTION(frame_fa5aac9aaf4aa5d46bcab8134609f586);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_25387fa300c953e856d6cfc4c9f0e487, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_25387fa300c953e856d6cfc4c9f0e487->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_25387fa300c953e856d6cfc4c9f0e487, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_fa5aac9aaf4aa5d46bcab8134609f586, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_fa5aac9aaf4aa5d46bcab8134609f586->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_fa5aac9aaf4aa5d46bcab8134609f586, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_25387fa300c953e856d6cfc4c9f0e487,
+        frame_fa5aac9aaf4aa5d46bcab8134609f586,
         type_description_1,
         par_self,
         par_val
@@ -12246,17 +12246,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__19_set_sort_zpos(st
 
 
     // Release cached frame if used for exception.
-    if (frame_25387fa300c953e856d6cfc4c9f0e487 == cache_frame_25387fa300c953e856d6cfc4c9f0e487) {
+    if (frame_fa5aac9aaf4aa5d46bcab8134609f586 == cache_frame_fa5aac9aaf4aa5d46bcab8134609f586) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_25387fa300c953e856d6cfc4c9f0e487);
-        cache_frame_25387fa300c953e856d6cfc4c9f0e487 = NULL;
+        Py_DECREF(cache_frame_fa5aac9aaf4aa5d46bcab8134609f586);
+        cache_frame_fa5aac9aaf4aa5d46bcab8134609f586 = NULL;
     }
 
-    assertFrameObject(frame_25387fa300c953e856d6cfc4c9f0e487);
+    assertFrameObject(frame_fa5aac9aaf4aa5d46bcab8134609f586);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -12335,7 +12335,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__20_set_segments(str
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_segments = python_pars[1];
-    struct Nuitka_FrameObject *frame_6c04f5093cbe157348c056bd1035f2a4;
+    struct Nuitka_FrameObject *frame_7259fbe7be6391cae6294b3c66cb7138;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -12343,7 +12343,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__20_set_segments(str
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_6c04f5093cbe157348c056bd1035f2a4 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_7259fbe7be6391cae6294b3c66cb7138 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -12352,31 +12352,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__20_set_segments(str
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_6c04f5093cbe157348c056bd1035f2a4)) {
-        Py_XDECREF(cache_frame_6c04f5093cbe157348c056bd1035f2a4);
+    if (isFrameUnusable(cache_frame_7259fbe7be6391cae6294b3c66cb7138)) {
+        Py_XDECREF(cache_frame_7259fbe7be6391cae6294b3c66cb7138);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_6c04f5093cbe157348c056bd1035f2a4 == NULL) {
+        if (cache_frame_7259fbe7be6391cae6294b3c66cb7138 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_6c04f5093cbe157348c056bd1035f2a4 = MAKE_FUNCTION_FRAME(codeobj_6c04f5093cbe157348c056bd1035f2a4, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
+        cache_frame_7259fbe7be6391cae6294b3c66cb7138 = MAKE_FUNCTION_FRAME(codeobj_7259fbe7be6391cae6294b3c66cb7138, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_6c04f5093cbe157348c056bd1035f2a4->m_type_description == NULL);
-    frame_6c04f5093cbe157348c056bd1035f2a4 = cache_frame_6c04f5093cbe157348c056bd1035f2a4;
+    assert(cache_frame_7259fbe7be6391cae6294b3c66cb7138->m_type_description == NULL);
+    frame_7259fbe7be6391cae6294b3c66cb7138 = cache_frame_7259fbe7be6391cae6294b3c66cb7138;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_6c04f5093cbe157348c056bd1035f2a4);
+    pushFrameStack(frame_7259fbe7be6391cae6294b3c66cb7138);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_6c04f5093cbe157348c056bd1035f2a4) == 2); // Frame stack
+    assert(Py_REFCNT(frame_7259fbe7be6391cae6294b3c66cb7138) == 2); // Frame stack
 
     // Framed code:
     {
@@ -12422,7 +12422,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__20_set_segments(str
         CHECK_OBJECT(par_self);
         tmp_args_element_name_1 = par_self;
         tmp_args_element_name_2 = PyList_New(0);
-        frame_6c04f5093cbe157348c056bd1035f2a4->m_frame.f_lineno = 261;
+        frame_7259fbe7be6391cae6294b3c66cb7138->m_frame.f_lineno = 261;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS2(
@@ -12447,7 +12447,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__20_set_segments(str
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6c04f5093cbe157348c056bd1035f2a4);
+    RESTORE_FRAME_EXCEPTION(frame_7259fbe7be6391cae6294b3c66cb7138);
 #endif
 
     // Put the previous frame back on top.
@@ -12458,18 +12458,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__20_set_segments(str
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6c04f5093cbe157348c056bd1035f2a4);
+    RESTORE_FRAME_EXCEPTION(frame_7259fbe7be6391cae6294b3c66cb7138);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_6c04f5093cbe157348c056bd1035f2a4, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_6c04f5093cbe157348c056bd1035f2a4->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_6c04f5093cbe157348c056bd1035f2a4, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_7259fbe7be6391cae6294b3c66cb7138, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_7259fbe7be6391cae6294b3c66cb7138->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_7259fbe7be6391cae6294b3c66cb7138, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_6c04f5093cbe157348c056bd1035f2a4,
+        frame_7259fbe7be6391cae6294b3c66cb7138,
         type_description_1,
         par_self,
         par_segments
@@ -12477,17 +12477,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__20_set_segments(str
 
 
     // Release cached frame if used for exception.
-    if (frame_6c04f5093cbe157348c056bd1035f2a4 == cache_frame_6c04f5093cbe157348c056bd1035f2a4) {
+    if (frame_7259fbe7be6391cae6294b3c66cb7138 == cache_frame_7259fbe7be6391cae6294b3c66cb7138) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_6c04f5093cbe157348c056bd1035f2a4);
-        cache_frame_6c04f5093cbe157348c056bd1035f2a4 = NULL;
+        Py_DECREF(cache_frame_7259fbe7be6391cae6294b3c66cb7138);
+        cache_frame_7259fbe7be6391cae6294b3c66cb7138 = NULL;
     }
 
-    assertFrameObject(frame_6c04f5093cbe157348c056bd1035f2a4);
+    assertFrameObject(frame_7259fbe7be6391cae6294b3c66cb7138);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -12590,26 +12590,26 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__element_3 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_2b3d6418cac66bd0040dd55e5f98be04;
+    struct Nuitka_FrameObject *frame_080f5b098ab90e0861feab8593a14934;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    struct Nuitka_FrameObject *frame_af54d084aae276790e4df6547d696fe1_2;
+    struct Nuitka_FrameObject *frame_45ba208f28510d0479645db99205e86b_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
     bool tmp_result;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_1;
-    static struct Nuitka_FrameObject *cache_frame_af54d084aae276790e4df6547d696fe1_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_45ba208f28510d0479645db99205e86b_2 = NULL;
     PyObject *exception_keeper_type_2;
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
-    struct Nuitka_FrameObject *frame_54d78a4e13d4117963730b0ff9e2deab_3;
+    struct Nuitka_FrameObject *frame_aecf92cc7b4b96dcb93972880cf89058_3;
     NUITKA_MAY_BE_UNUSED char const *type_description_3 = NULL;
     PyObject *tmp_iterator_attempt;
     PyObject *exception_keeper_type_3;
@@ -12624,7 +12624,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
     PyObject *exception_keeper_value_5;
     PyTracebackObject *exception_keeper_tb_5;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_5;
-    static struct Nuitka_FrameObject *cache_frame_54d78a4e13d4117963730b0ff9e2deab_3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_aecf92cc7b4b96dcb93972880cf89058_3 = NULL;
     PyObject *exception_keeper_type_6;
     PyObject *exception_keeper_value_6;
     PyTracebackObject *exception_keeper_tb_6;
@@ -12642,7 +12642,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
     PyTracebackObject *exception_keeper_tb_9;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_9;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_2b3d6418cac66bd0040dd55e5f98be04 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_080f5b098ab90e0861feab8593a14934 = NULL;
     PyObject *exception_keeper_type_10;
     PyObject *exception_keeper_value_10;
     PyTracebackObject *exception_keeper_tb_10;
@@ -12650,31 +12650,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_2b3d6418cac66bd0040dd55e5f98be04)) {
-        Py_XDECREF(cache_frame_2b3d6418cac66bd0040dd55e5f98be04);
+    if (isFrameUnusable(cache_frame_080f5b098ab90e0861feab8593a14934)) {
+        Py_XDECREF(cache_frame_080f5b098ab90e0861feab8593a14934);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_2b3d6418cac66bd0040dd55e5f98be04 == NULL) {
+        if (cache_frame_080f5b098ab90e0861feab8593a14934 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_2b3d6418cac66bd0040dd55e5f98be04 = MAKE_FUNCTION_FRAME(codeobj_2b3d6418cac66bd0040dd55e5f98be04, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_080f5b098ab90e0861feab8593a14934 = MAKE_FUNCTION_FRAME(codeobj_080f5b098ab90e0861feab8593a14934, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_2b3d6418cac66bd0040dd55e5f98be04->m_type_description == NULL);
-    frame_2b3d6418cac66bd0040dd55e5f98be04 = cache_frame_2b3d6418cac66bd0040dd55e5f98be04;
+    assert(cache_frame_080f5b098ab90e0861feab8593a14934->m_type_description == NULL);
+    frame_080f5b098ab90e0861feab8593a14934 = cache_frame_080f5b098ab90e0861feab8593a14934;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_2b3d6418cac66bd0040dd55e5f98be04);
+    pushFrameStack(frame_080f5b098ab90e0861feab8593a14934);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_2b3d6418cac66bd0040dd55e5f98be04) == 2); // Frame stack
+    assert(Py_REFCNT(frame_080f5b098ab90e0861feab8593a14934) == 2); // Frame stack
 
     // Framed code:
     {
@@ -12699,7 +12699,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
         }
         CHECK_OBJECT(par_self);
         tmp_args_element_name_1 = par_self;
-        frame_2b3d6418cac66bd0040dd55e5f98be04->m_frame.f_lineno = 268;
+        frame_080f5b098ab90e0861feab8593a14934->m_frame.f_lineno = 268;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -12754,31 +12754,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
             assert(tmp_listcomp_1__contraction == NULL);
             tmp_listcomp_1__contraction = tmp_assign_source_3;
         }
-        if (isFrameUnusable(cache_frame_af54d084aae276790e4df6547d696fe1_2)) {
-            Py_XDECREF(cache_frame_af54d084aae276790e4df6547d696fe1_2);
+        if (isFrameUnusable(cache_frame_45ba208f28510d0479645db99205e86b_2)) {
+            Py_XDECREF(cache_frame_45ba208f28510d0479645db99205e86b_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_af54d084aae276790e4df6547d696fe1_2 == NULL) {
+            if (cache_frame_45ba208f28510d0479645db99205e86b_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_af54d084aae276790e4df6547d696fe1_2 = MAKE_FUNCTION_FRAME(codeobj_af54d084aae276790e4df6547d696fe1, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
+            cache_frame_45ba208f28510d0479645db99205e86b_2 = MAKE_FUNCTION_FRAME(codeobj_45ba208f28510d0479645db99205e86b, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_af54d084aae276790e4df6547d696fe1_2->m_type_description == NULL);
-        frame_af54d084aae276790e4df6547d696fe1_2 = cache_frame_af54d084aae276790e4df6547d696fe1_2;
+        assert(cache_frame_45ba208f28510d0479645db99205e86b_2->m_type_description == NULL);
+        frame_45ba208f28510d0479645db99205e86b_2 = cache_frame_45ba208f28510d0479645db99205e86b_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_af54d084aae276790e4df6547d696fe1_2);
+        pushFrameStack(frame_45ba208f28510d0479645db99205e86b_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_af54d084aae276790e4df6547d696fe1_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_45ba208f28510d0479645db99205e86b_2) == 2); // Frame stack
 
         // Framed code:
         // Tried code:
@@ -12884,7 +12884,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
                 type_description_2 = "oo";
                 goto try_except_handler_3;
             }
-            frame_af54d084aae276790e4df6547d696fe1_2->m_frame.f_lineno = 270;
+            frame_45ba208f28510d0479645db99205e86b_2->m_frame.f_lineno = 270;
             {
                 PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
                 tmp_append_value_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -12971,7 +12971,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
         // End of try:
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_af54d084aae276790e4df6547d696fe1_2);
+        RESTORE_FRAME_EXCEPTION(frame_45ba208f28510d0479645db99205e86b_2);
 #endif
 
         // Put the previous frame back on top.
@@ -12981,7 +12981,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
 
         frame_return_exit_2:;
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_af54d084aae276790e4df6547d696fe1_2);
+        RESTORE_FRAME_EXCEPTION(frame_45ba208f28510d0479645db99205e86b_2);
 #endif
 
         // Put the previous frame back on top.
@@ -12992,18 +12992,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_af54d084aae276790e4df6547d696fe1_2);
+        RESTORE_FRAME_EXCEPTION(frame_45ba208f28510d0479645db99205e86b_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_af54d084aae276790e4df6547d696fe1_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_af54d084aae276790e4df6547d696fe1_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_af54d084aae276790e4df6547d696fe1_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_45ba208f28510d0479645db99205e86b_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_45ba208f28510d0479645db99205e86b_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_45ba208f28510d0479645db99205e86b_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_af54d084aae276790e4df6547d696fe1_2,
+            frame_45ba208f28510d0479645db99205e86b_2,
             type_description_2,
             outline_0_var_points,
             par_renderer
@@ -13011,17 +13011,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
 
 
         // Release cached frame if used for exception.
-        if (frame_af54d084aae276790e4df6547d696fe1_2 == cache_frame_af54d084aae276790e4df6547d696fe1_2) {
+        if (frame_45ba208f28510d0479645db99205e86b_2 == cache_frame_45ba208f28510d0479645db99205e86b_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_af54d084aae276790e4df6547d696fe1_2);
-            cache_frame_af54d084aae276790e4df6547d696fe1_2 = NULL;
+            Py_DECREF(cache_frame_45ba208f28510d0479645db99205e86b_2);
+            cache_frame_45ba208f28510d0479645db99205e86b_2 = NULL;
         }
 
-        assertFrameObject(frame_af54d084aae276790e4df6547d696fe1_2);
+        assertFrameObject(frame_45ba208f28510d0479645db99205e86b_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -13100,31 +13100,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
             assert(tmp_listcomp_2__contraction == NULL);
             tmp_listcomp_2__contraction = tmp_assign_source_8;
         }
-        if (isFrameUnusable(cache_frame_54d78a4e13d4117963730b0ff9e2deab_3)) {
-            Py_XDECREF(cache_frame_54d78a4e13d4117963730b0ff9e2deab_3);
+        if (isFrameUnusable(cache_frame_aecf92cc7b4b96dcb93972880cf89058_3)) {
+            Py_XDECREF(cache_frame_aecf92cc7b4b96dcb93972880cf89058_3);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_54d78a4e13d4117963730b0ff9e2deab_3 == NULL) {
+            if (cache_frame_aecf92cc7b4b96dcb93972880cf89058_3 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_54d78a4e13d4117963730b0ff9e2deab_3 = MAKE_FUNCTION_FRAME(codeobj_54d78a4e13d4117963730b0ff9e2deab, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
+            cache_frame_aecf92cc7b4b96dcb93972880cf89058_3 = MAKE_FUNCTION_FRAME(codeobj_aecf92cc7b4b96dcb93972880cf89058, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_54d78a4e13d4117963730b0ff9e2deab_3->m_type_description == NULL);
-        frame_54d78a4e13d4117963730b0ff9e2deab_3 = cache_frame_54d78a4e13d4117963730b0ff9e2deab_3;
+        assert(cache_frame_aecf92cc7b4b96dcb93972880cf89058_3->m_type_description == NULL);
+        frame_aecf92cc7b4b96dcb93972880cf89058_3 = cache_frame_aecf92cc7b4b96dcb93972880cf89058_3;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_54d78a4e13d4117963730b0ff9e2deab_3);
+        pushFrameStack(frame_aecf92cc7b4b96dcb93972880cf89058_3);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_54d78a4e13d4117963730b0ff9e2deab_3) == 2); // Frame stack
+        assert(Py_REFCNT(frame_aecf92cc7b4b96dcb93972880cf89058_3) == 2); // Frame stack
 
         // Framed code:
         // Tried code:
@@ -13435,7 +13435,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
             CHECK_OBJECT(outline_1_var_ys);
             tmp_list_element_1 = outline_1_var_ys;
             PyList_SET_ITEM0(tmp_args_element_name_4, 1, tmp_list_element_1);
-            frame_54d78a4e13d4117963730b0ff9e2deab_3->m_frame.f_lineno = 272;
+            frame_aecf92cc7b4b96dcb93972880cf89058_3->m_frame.f_lineno = 272;
             tmp_append_value_2 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[81], tmp_args_element_name_4);
             Py_DECREF(tmp_args_element_name_4);
             if (tmp_append_value_2 == NULL) {
@@ -13517,7 +13517,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
         // End of try:
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_54d78a4e13d4117963730b0ff9e2deab_3);
+        RESTORE_FRAME_EXCEPTION(frame_aecf92cc7b4b96dcb93972880cf89058_3);
 #endif
 
         // Put the previous frame back on top.
@@ -13527,7 +13527,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
 
         frame_return_exit_3:;
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_54d78a4e13d4117963730b0ff9e2deab_3);
+        RESTORE_FRAME_EXCEPTION(frame_aecf92cc7b4b96dcb93972880cf89058_3);
 #endif
 
         // Put the previous frame back on top.
@@ -13538,18 +13538,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
         frame_exception_exit_3:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_54d78a4e13d4117963730b0ff9e2deab_3);
+        RESTORE_FRAME_EXCEPTION(frame_aecf92cc7b4b96dcb93972880cf89058_3);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_54d78a4e13d4117963730b0ff9e2deab_3, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_54d78a4e13d4117963730b0ff9e2deab_3->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_54d78a4e13d4117963730b0ff9e2deab_3, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_aecf92cc7b4b96dcb93972880cf89058_3, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_aecf92cc7b4b96dcb93972880cf89058_3->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_aecf92cc7b4b96dcb93972880cf89058_3, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_54d78a4e13d4117963730b0ff9e2deab_3,
+            frame_aecf92cc7b4b96dcb93972880cf89058_3,
             type_description_2,
             outline_1_var_xs,
             outline_1_var_ys,
@@ -13558,17 +13558,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
 
 
         // Release cached frame if used for exception.
-        if (frame_54d78a4e13d4117963730b0ff9e2deab_3 == cache_frame_54d78a4e13d4117963730b0ff9e2deab_3) {
+        if (frame_aecf92cc7b4b96dcb93972880cf89058_3 == cache_frame_aecf92cc7b4b96dcb93972880cf89058_3) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_54d78a4e13d4117963730b0ff9e2deab_3);
-            cache_frame_54d78a4e13d4117963730b0ff9e2deab_3 = NULL;
+            Py_DECREF(cache_frame_aecf92cc7b4b96dcb93972880cf89058_3);
+            cache_frame_aecf92cc7b4b96dcb93972880cf89058_3 = NULL;
         }
 
-        assertFrameObject(frame_54d78a4e13d4117963730b0ff9e2deab_3);
+        assertFrameObject(frame_aecf92cc7b4b96dcb93972880cf89058_3);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -13675,7 +13675,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
         tmp_args_element_name_5 = par_self;
         CHECK_OBJECT(var_segments_2d);
         tmp_args_element_name_6 = var_segments_2d;
-        frame_2b3d6418cac66bd0040dd55e5f98be04->m_frame.f_lineno = 273;
+        frame_080f5b098ab90e0861feab8593a14934->m_frame.f_lineno = 273;
         {
             PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_call_result_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -14034,7 +14034,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
         assert(tmp_called_name_5 != NULL);
         CHECK_OBJECT(var_zs);
         tmp_args_element_name_9 = var_zs;
-        frame_2b3d6418cac66bd0040dd55e5f98be04->m_frame.f_lineno = 278;
+        frame_080f5b098ab90e0861feab8593a14934->m_frame.f_lineno = 278;
         tmp_args_element_name_8 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_5, tmp_args_element_name_9);
         if (tmp_args_element_name_8 == NULL) {
             assert(ERROR_OCCURRED());
@@ -14046,7 +14046,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
             type_description_1 = "oooooooo";
             goto try_except_handler_8;
         }
-        frame_2b3d6418cac66bd0040dd55e5f98be04->m_frame.f_lineno = 278;
+        frame_080f5b098ab90e0861feab8593a14934->m_frame.f_lineno = 278;
         {
             PyObject *call_args[] = {tmp_args_element_name_7, tmp_args_element_name_8};
             tmp_assign_source_27 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -14128,7 +14128,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
     goto frame_return_exit_1;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_2b3d6418cac66bd0040dd55e5f98be04);
+    RESTORE_FRAME_EXCEPTION(frame_080f5b098ab90e0861feab8593a14934);
 #endif
 
     // Put the previous frame back on top.
@@ -14138,7 +14138,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_2b3d6418cac66bd0040dd55e5f98be04);
+    RESTORE_FRAME_EXCEPTION(frame_080f5b098ab90e0861feab8593a14934);
 #endif
 
     // Put the previous frame back on top.
@@ -14149,18 +14149,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_2b3d6418cac66bd0040dd55e5f98be04);
+    RESTORE_FRAME_EXCEPTION(frame_080f5b098ab90e0861feab8593a14934);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_2b3d6418cac66bd0040dd55e5f98be04, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_2b3d6418cac66bd0040dd55e5f98be04->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_2b3d6418cac66bd0040dd55e5f98be04, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_080f5b098ab90e0861feab8593a14934, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_080f5b098ab90e0861feab8593a14934->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_080f5b098ab90e0861feab8593a14934, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_2b3d6418cac66bd0040dd55e5f98be04,
+        frame_080f5b098ab90e0861feab8593a14934,
         type_description_1,
         par_self,
         par_renderer,
@@ -14174,17 +14174,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection
 
 
     // Release cached frame if used for exception.
-    if (frame_2b3d6418cac66bd0040dd55e5f98be04 == cache_frame_2b3d6418cac66bd0040dd55e5f98be04) {
+    if (frame_080f5b098ab90e0861feab8593a14934 == cache_frame_080f5b098ab90e0861feab8593a14934) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_2b3d6418cac66bd0040dd55e5f98be04);
-        cache_frame_2b3d6418cac66bd0040dd55e5f98be04 = NULL;
+        Py_DECREF(cache_frame_080f5b098ab90e0861feab8593a14934);
+        cache_frame_080f5b098ab90e0861feab8593a14934 = NULL;
     }
 
-    assertFrameObject(frame_2b3d6418cac66bd0040dd55e5f98be04);
+    assertFrameObject(frame_080f5b098ab90e0861feab8593a14934);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -14281,14 +14281,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__22_draw(struct Nuit
     PyObject *par_self = python_pars[0];
     PyObject *par_renderer = python_pars[1];
     PyObject *par_project = python_pars[2];
-    struct Nuitka_FrameObject *frame_52b08f94f62fede528501ebd12b585da;
+    struct Nuitka_FrameObject *frame_76305ac8068951c919f299417d93c772;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_52b08f94f62fede528501ebd12b585da = NULL;
+    static struct Nuitka_FrameObject *cache_frame_76305ac8068951c919f299417d93c772 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -14297,31 +14297,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__22_draw(struct Nuit
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_52b08f94f62fede528501ebd12b585da)) {
-        Py_XDECREF(cache_frame_52b08f94f62fede528501ebd12b585da);
+    if (isFrameUnusable(cache_frame_76305ac8068951c919f299417d93c772)) {
+        Py_XDECREF(cache_frame_76305ac8068951c919f299417d93c772);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_52b08f94f62fede528501ebd12b585da == NULL) {
+        if (cache_frame_76305ac8068951c919f299417d93c772 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_52b08f94f62fede528501ebd12b585da = MAKE_FUNCTION_FRAME(codeobj_52b08f94f62fede528501ebd12b585da, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_76305ac8068951c919f299417d93c772 = MAKE_FUNCTION_FRAME(codeobj_76305ac8068951c919f299417d93c772, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_52b08f94f62fede528501ebd12b585da->m_type_description == NULL);
-    frame_52b08f94f62fede528501ebd12b585da = cache_frame_52b08f94f62fede528501ebd12b585da;
+    assert(cache_frame_76305ac8068951c919f299417d93c772->m_type_description == NULL);
+    frame_76305ac8068951c919f299417d93c772 = cache_frame_76305ac8068951c919f299417d93c772;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_52b08f94f62fede528501ebd12b585da);
+    pushFrameStack(frame_76305ac8068951c919f299417d93c772);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_52b08f94f62fede528501ebd12b585da) == 2); // Frame stack
+    assert(Py_REFCNT(frame_76305ac8068951c919f299417d93c772) == 2); // Frame stack
 
     // Framed code:
     {
@@ -14355,7 +14355,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__22_draw(struct Nuit
         tmp_called_instance_1 = par_self;
         CHECK_OBJECT(par_renderer);
         tmp_args_element_name_1 = par_renderer;
-        frame_52b08f94f62fede528501ebd12b585da->m_frame.f_lineno = 284;
+        frame_76305ac8068951c919f299417d93c772->m_frame.f_lineno = 284;
         tmp_call_result_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[87], tmp_args_element_name_1);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -14429,7 +14429,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__22_draw(struct Nuit
         }
 
         tmp_args_element_name_3 = par_renderer;
-        frame_52b08f94f62fede528501ebd12b585da->m_frame.f_lineno = 285;
+        frame_76305ac8068951c919f299417d93c772->m_frame.f_lineno = 285;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_call_result_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -14450,7 +14450,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__22_draw(struct Nuit
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_52b08f94f62fede528501ebd12b585da);
+    RESTORE_FRAME_EXCEPTION(frame_76305ac8068951c919f299417d93c772);
 #endif
 
     // Put the previous frame back on top.
@@ -14461,18 +14461,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__22_draw(struct Nuit
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_52b08f94f62fede528501ebd12b585da);
+    RESTORE_FRAME_EXCEPTION(frame_76305ac8068951c919f299417d93c772);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_52b08f94f62fede528501ebd12b585da, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_52b08f94f62fede528501ebd12b585da->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_52b08f94f62fede528501ebd12b585da, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_76305ac8068951c919f299417d93c772, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_76305ac8068951c919f299417d93c772->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_76305ac8068951c919f299417d93c772, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_52b08f94f62fede528501ebd12b585da,
+        frame_76305ac8068951c919f299417d93c772,
         type_description_1,
         par_self,
         par_renderer,
@@ -14481,17 +14481,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__22_draw(struct Nuit
 
 
     // Release cached frame if used for exception.
-    if (frame_52b08f94f62fede528501ebd12b585da == cache_frame_52b08f94f62fede528501ebd12b585da) {
+    if (frame_76305ac8068951c919f299417d93c772 == cache_frame_76305ac8068951c919f299417d93c772) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_52b08f94f62fede528501ebd12b585da);
-        cache_frame_52b08f94f62fede528501ebd12b585da = NULL;
+        Py_DECREF(cache_frame_76305ac8068951c919f299417d93c772);
+        cache_frame_76305ac8068951c919f299417d93c772 = NULL;
     }
 
-    assertFrameObject(frame_52b08f94f62fede528501ebd12b585da);
+    assertFrameObject(frame_76305ac8068951c919f299417d93c772);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -14574,7 +14574,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__23_line_collection_
     PyObject *par_zs = python_pars[1];
     PyObject *par_zdir = python_pars[2];
     PyObject *var_segments3d = NULL;
-    struct Nuitka_FrameObject *frame_d69f5c7f50f74b8cb9c38bb0e2087a75;
+    struct Nuitka_FrameObject *frame_b52ae1a3dce04fe019b0824cba1fb8d9;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -14582,7 +14582,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__23_line_collection_
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_d69f5c7f50f74b8cb9c38bb0e2087a75 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_b52ae1a3dce04fe019b0824cba1fb8d9 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -14591,31 +14591,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__23_line_collection_
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_d69f5c7f50f74b8cb9c38bb0e2087a75)) {
-        Py_XDECREF(cache_frame_d69f5c7f50f74b8cb9c38bb0e2087a75);
+    if (isFrameUnusable(cache_frame_b52ae1a3dce04fe019b0824cba1fb8d9)) {
+        Py_XDECREF(cache_frame_b52ae1a3dce04fe019b0824cba1fb8d9);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_d69f5c7f50f74b8cb9c38bb0e2087a75 == NULL) {
+        if (cache_frame_b52ae1a3dce04fe019b0824cba1fb8d9 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_d69f5c7f50f74b8cb9c38bb0e2087a75 = MAKE_FUNCTION_FRAME(codeobj_d69f5c7f50f74b8cb9c38bb0e2087a75, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_b52ae1a3dce04fe019b0824cba1fb8d9 = MAKE_FUNCTION_FRAME(codeobj_b52ae1a3dce04fe019b0824cba1fb8d9, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_d69f5c7f50f74b8cb9c38bb0e2087a75->m_type_description == NULL);
-    frame_d69f5c7f50f74b8cb9c38bb0e2087a75 = cache_frame_d69f5c7f50f74b8cb9c38bb0e2087a75;
+    assert(cache_frame_b52ae1a3dce04fe019b0824cba1fb8d9->m_type_description == NULL);
+    frame_b52ae1a3dce04fe019b0824cba1fb8d9 = cache_frame_b52ae1a3dce04fe019b0824cba1fb8d9;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_d69f5c7f50f74b8cb9c38bb0e2087a75);
+    pushFrameStack(frame_b52ae1a3dce04fe019b0824cba1fb8d9);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_d69f5c7f50f74b8cb9c38bb0e2087a75) == 2); // Frame stack
+    assert(Py_REFCNT(frame_b52ae1a3dce04fe019b0824cba1fb8d9) == 2); // Frame stack
 
     // Framed code:
     {
@@ -14643,7 +14643,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__23_line_collection_
         }
         CHECK_OBJECT(par_col);
         tmp_called_instance_1 = par_col;
-        frame_d69f5c7f50f74b8cb9c38bb0e2087a75->m_frame.f_lineno = 290;
+        frame_b52ae1a3dce04fe019b0824cba1fb8d9->m_frame.f_lineno = 290;
         tmp_args_element_name_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[89]);
         if (tmp_args_element_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -14659,7 +14659,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__23_line_collection_
         tmp_args_element_name_2 = par_zs;
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_3 = par_zdir;
-        frame_d69f5c7f50f74b8cb9c38bb0e2087a75->m_frame.f_lineno = 290;
+        frame_b52ae1a3dce04fe019b0824cba1fb8d9->m_frame.f_lineno = 290;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_1, call_args);
@@ -14742,7 +14742,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__23_line_collection_
         tmp_called_instance_2 = par_col;
         CHECK_OBJECT(var_segments3d);
         tmp_args_element_name_4 = var_segments3d;
-        frame_d69f5c7f50f74b8cb9c38bb0e2087a75->m_frame.f_lineno = 292;
+        frame_b52ae1a3dce04fe019b0824cba1fb8d9->m_frame.f_lineno = 292;
         tmp_call_result_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[78], tmp_args_element_name_4);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -14758,7 +14758,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__23_line_collection_
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d69f5c7f50f74b8cb9c38bb0e2087a75);
+    RESTORE_FRAME_EXCEPTION(frame_b52ae1a3dce04fe019b0824cba1fb8d9);
 #endif
 
     // Put the previous frame back on top.
@@ -14769,18 +14769,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__23_line_collection_
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d69f5c7f50f74b8cb9c38bb0e2087a75);
+    RESTORE_FRAME_EXCEPTION(frame_b52ae1a3dce04fe019b0824cba1fb8d9);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_d69f5c7f50f74b8cb9c38bb0e2087a75, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_d69f5c7f50f74b8cb9c38bb0e2087a75->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_d69f5c7f50f74b8cb9c38bb0e2087a75, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_b52ae1a3dce04fe019b0824cba1fb8d9, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_b52ae1a3dce04fe019b0824cba1fb8d9->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_b52ae1a3dce04fe019b0824cba1fb8d9, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_d69f5c7f50f74b8cb9c38bb0e2087a75,
+        frame_b52ae1a3dce04fe019b0824cba1fb8d9,
         type_description_1,
         par_col,
         par_zs,
@@ -14790,17 +14790,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__23_line_collection_
 
 
     // Release cached frame if used for exception.
-    if (frame_d69f5c7f50f74b8cb9c38bb0e2087a75 == cache_frame_d69f5c7f50f74b8cb9c38bb0e2087a75) {
+    if (frame_b52ae1a3dce04fe019b0824cba1fb8d9 == cache_frame_b52ae1a3dce04fe019b0824cba1fb8d9) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_d69f5c7f50f74b8cb9c38bb0e2087a75);
-        cache_frame_d69f5c7f50f74b8cb9c38bb0e2087a75 = NULL;
+        Py_DECREF(cache_frame_b52ae1a3dce04fe019b0824cba1fb8d9);
+        cache_frame_b52ae1a3dce04fe019b0824cba1fb8d9 = NULL;
     }
 
-    assertFrameObject(frame_d69f5c7f50f74b8cb9c38bb0e2087a75);
+    assertFrameObject(frame_b52ae1a3dce04fe019b0824cba1fb8d9);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -14890,14 +14890,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__24___init__(struct 
     PyObject *par_zdir = python_pars[2];
     PyObject *par_args = python_pars[3];
     PyObject *par_kwargs = python_pars[4];
-    struct Nuitka_FrameObject *frame_e47659c7c41a61f053cd23a6bdbe4c0c;
+    struct Nuitka_FrameObject *frame_b8087622e3aaaaaffe03f83e953cb4df;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_e47659c7c41a61f053cd23a6bdbe4c0c = NULL;
+    static struct Nuitka_FrameObject *cache_frame_b8087622e3aaaaaffe03f83e953cb4df = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -14906,31 +14906,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__24___init__(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_e47659c7c41a61f053cd23a6bdbe4c0c)) {
-        Py_XDECREF(cache_frame_e47659c7c41a61f053cd23a6bdbe4c0c);
+    if (isFrameUnusable(cache_frame_b8087622e3aaaaaffe03f83e953cb4df)) {
+        Py_XDECREF(cache_frame_b8087622e3aaaaaffe03f83e953cb4df);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_e47659c7c41a61f053cd23a6bdbe4c0c == NULL) {
+        if (cache_frame_b8087622e3aaaaaffe03f83e953cb4df == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_e47659c7c41a61f053cd23a6bdbe4c0c = MAKE_FUNCTION_FRAME(codeobj_e47659c7c41a61f053cd23a6bdbe4c0c, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_b8087622e3aaaaaffe03f83e953cb4df = MAKE_FUNCTION_FRAME(codeobj_b8087622e3aaaaaffe03f83e953cb4df, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_e47659c7c41a61f053cd23a6bdbe4c0c->m_type_description == NULL);
-    frame_e47659c7c41a61f053cd23a6bdbe4c0c = cache_frame_e47659c7c41a61f053cd23a6bdbe4c0c;
+    assert(cache_frame_b8087622e3aaaaaffe03f83e953cb4df->m_type_description == NULL);
+    frame_b8087622e3aaaaaffe03f83e953cb4df = cache_frame_b8087622e3aaaaaffe03f83e953cb4df;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_e47659c7c41a61f053cd23a6bdbe4c0c);
+    pushFrameStack(frame_b8087622e3aaaaaffe03f83e953cb4df);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_e47659c7c41a61f053cd23a6bdbe4c0c) == 2); // Frame stack
+    assert(Py_REFCNT(frame_b8087622e3aaaaaffe03f83e953cb4df) == 2); // Frame stack
 
     // Framed code:
     {
@@ -15006,7 +15006,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__24___init__(struct 
         tmp_args_element_name_1 = par_zs;
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_2 = par_zdir;
-        frame_e47659c7c41a61f053cd23a6bdbe4c0c->m_frame.f_lineno = 302;
+        frame_b8087622e3aaaaaffe03f83e953cb4df->m_frame.f_lineno = 302;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_2 = CALL_METHOD_WITH_ARGS2(
@@ -15030,7 +15030,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__24___init__(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e47659c7c41a61f053cd23a6bdbe4c0c);
+    RESTORE_FRAME_EXCEPTION(frame_b8087622e3aaaaaffe03f83e953cb4df);
 #endif
 
     // Put the previous frame back on top.
@@ -15041,18 +15041,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__24___init__(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_e47659c7c41a61f053cd23a6bdbe4c0c);
+    RESTORE_FRAME_EXCEPTION(frame_b8087622e3aaaaaffe03f83e953cb4df);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_e47659c7c41a61f053cd23a6bdbe4c0c, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_e47659c7c41a61f053cd23a6bdbe4c0c->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_e47659c7c41a61f053cd23a6bdbe4c0c, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_b8087622e3aaaaaffe03f83e953cb4df, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_b8087622e3aaaaaffe03f83e953cb4df->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_b8087622e3aaaaaffe03f83e953cb4df, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_e47659c7c41a61f053cd23a6bdbe4c0c,
+        frame_b8087622e3aaaaaffe03f83e953cb4df,
         type_description_1,
         par_self,
         par_zs,
@@ -15063,17 +15063,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__24___init__(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_e47659c7c41a61f053cd23a6bdbe4c0c == cache_frame_e47659c7c41a61f053cd23a6bdbe4c0c) {
+    if (frame_b8087622e3aaaaaffe03f83e953cb4df == cache_frame_b8087622e3aaaaaffe03f83e953cb4df) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_e47659c7c41a61f053cd23a6bdbe4c0c);
-        cache_frame_e47659c7c41a61f053cd23a6bdbe4c0c = NULL;
+        Py_DECREF(cache_frame_b8087622e3aaaaaffe03f83e953cb4df);
+        cache_frame_b8087622e3aaaaaffe03f83e953cb4df = NULL;
     }
 
-    assertFrameObject(frame_e47659c7c41a61f053cd23a6bdbe4c0c);
+    assertFrameObject(frame_b8087622e3aaaaaffe03f83e953cb4df);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -15178,13 +15178,13 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_propertie
     PyObject *tmp_listcomp_1__$0 = NULL;
     PyObject *tmp_listcomp_1__contraction = NULL;
     PyObject *tmp_listcomp_1__iter_value_0 = NULL;
-    struct Nuitka_FrameObject *frame_02320c3e53dcf82a4d575cf3a3929478;
+    struct Nuitka_FrameObject *frame_0f554c3d385fa843287b4cdae82f3bd0;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    struct Nuitka_FrameObject *frame_af4678c899e349f6652d32ecf611b8c0_2;
+    struct Nuitka_FrameObject *frame_5f439b5e337acb4c1cb2d6f5ca624110_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
     PyObject *tmp_iterator_attempt;
     PyObject *exception_keeper_type_1;
@@ -15208,12 +15208,12 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_propertie
     PyObject *exception_keeper_value_5;
     PyTracebackObject *exception_keeper_tb_5;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_5;
-    static struct Nuitka_FrameObject *cache_frame_af4678c899e349f6652d32ecf611b8c0_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_5f439b5e337acb4c1cb2d6f5ca624110_2 = NULL;
     PyObject *exception_keeper_type_6;
     PyObject *exception_keeper_value_6;
     PyTracebackObject *exception_keeper_tb_6;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_6;
-    static struct Nuitka_FrameObject *cache_frame_02320c3e53dcf82a4d575cf3a3929478 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_0f554c3d385fa843287b4cdae82f3bd0 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_7;
     PyObject *exception_keeper_value_7;
@@ -15222,31 +15222,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_propertie
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_02320c3e53dcf82a4d575cf3a3929478)) {
-        Py_XDECREF(cache_frame_02320c3e53dcf82a4d575cf3a3929478);
+    if (isFrameUnusable(cache_frame_0f554c3d385fa843287b4cdae82f3bd0)) {
+        Py_XDECREF(cache_frame_0f554c3d385fa843287b4cdae82f3bd0);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_02320c3e53dcf82a4d575cf3a3929478 == NULL) {
+        if (cache_frame_0f554c3d385fa843287b4cdae82f3bd0 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_02320c3e53dcf82a4d575cf3a3929478 = MAKE_FUNCTION_FRAME(codeobj_02320c3e53dcf82a4d575cf3a3929478, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_0f554c3d385fa843287b4cdae82f3bd0 = MAKE_FUNCTION_FRAME(codeobj_0f554c3d385fa843287b4cdae82f3bd0, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_02320c3e53dcf82a4d575cf3a3929478->m_type_description == NULL);
-    frame_02320c3e53dcf82a4d575cf3a3929478 = cache_frame_02320c3e53dcf82a4d575cf3a3929478;
+    assert(cache_frame_0f554c3d385fa843287b4cdae82f3bd0->m_type_description == NULL);
+    frame_0f554c3d385fa843287b4cdae82f3bd0 = cache_frame_0f554c3d385fa843287b4cdae82f3bd0;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_02320c3e53dcf82a4d575cf3a3929478);
+    pushFrameStack(frame_0f554c3d385fa843287b4cdae82f3bd0);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_02320c3e53dcf82a4d575cf3a3929478) == 2); // Frame stack
+    assert(Py_REFCNT(frame_0f554c3d385fa843287b4cdae82f3bd0) == 2); // Frame stack
 
     // Framed code:
     {
@@ -15298,7 +15298,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_propertie
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
-        frame_02320c3e53dcf82a4d575cf3a3929478->m_frame.f_lineno = 305;
+        frame_0f554c3d385fa843287b4cdae82f3bd0->m_frame.f_lineno = 305;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -15349,7 +15349,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_propertie
             tmp_args_element_name_3 = par_verts;
             CHECK_OBJECT(par_zs);
             tmp_args_element_name_4 = par_zs;
-            frame_02320c3e53dcf82a4d575cf3a3929478->m_frame.f_lineno = 307;
+            frame_0f554c3d385fa843287b4cdae82f3bd0->m_frame.f_lineno = 307;
             {
                 PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
                 tmp_iter_arg_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -15386,31 +15386,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_propertie
             assert(tmp_listcomp_1__contraction == NULL);
             tmp_listcomp_1__contraction = tmp_assign_source_3;
         }
-        if (isFrameUnusable(cache_frame_af4678c899e349f6652d32ecf611b8c0_2)) {
-            Py_XDECREF(cache_frame_af4678c899e349f6652d32ecf611b8c0_2);
+        if (isFrameUnusable(cache_frame_5f439b5e337acb4c1cb2d6f5ca624110_2)) {
+            Py_XDECREF(cache_frame_5f439b5e337acb4c1cb2d6f5ca624110_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_af4678c899e349f6652d32ecf611b8c0_2 == NULL) {
+            if (cache_frame_5f439b5e337acb4c1cb2d6f5ca624110_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_af4678c899e349f6652d32ecf611b8c0_2 = MAKE_FUNCTION_FRAME(codeobj_af4678c899e349f6652d32ecf611b8c0, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+            cache_frame_5f439b5e337acb4c1cb2d6f5ca624110_2 = MAKE_FUNCTION_FRAME(codeobj_5f439b5e337acb4c1cb2d6f5ca624110, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_af4678c899e349f6652d32ecf611b8c0_2->m_type_description == NULL);
-        frame_af4678c899e349f6652d32ecf611b8c0_2 = cache_frame_af4678c899e349f6652d32ecf611b8c0_2;
+        assert(cache_frame_5f439b5e337acb4c1cb2d6f5ca624110_2->m_type_description == NULL);
+        frame_5f439b5e337acb4c1cb2d6f5ca624110_2 = cache_frame_5f439b5e337acb4c1cb2d6f5ca624110_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_af4678c899e349f6652d32ecf611b8c0_2);
+        pushFrameStack(frame_5f439b5e337acb4c1cb2d6f5ca624110_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_af4678c899e349f6652d32ecf611b8c0_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_5f439b5e337acb4c1cb2d6f5ca624110_2) == 2); // Frame stack
 
         // Framed code:
         // Tried code:
@@ -15878,7 +15878,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_propertie
             }
 
             tmp_args_element_name_8 = par_zdir;
-            frame_af4678c899e349f6652d32ecf611b8c0_2->m_frame.f_lineno = 306;
+            frame_5f439b5e337acb4c1cb2d6f5ca624110_2->m_frame.f_lineno = 306;
             {
                 PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6, tmp_args_element_name_7, tmp_args_element_name_8};
                 tmp_append_value_1 = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_3, call_args);
@@ -15963,7 +15963,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_propertie
         // End of try:
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_af4678c899e349f6652d32ecf611b8c0_2);
+        RESTORE_FRAME_EXCEPTION(frame_5f439b5e337acb4c1cb2d6f5ca624110_2);
 #endif
 
         // Put the previous frame back on top.
@@ -15973,7 +15973,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_propertie
 
         frame_return_exit_1:;
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_af4678c899e349f6652d32ecf611b8c0_2);
+        RESTORE_FRAME_EXCEPTION(frame_5f439b5e337acb4c1cb2d6f5ca624110_2);
 #endif
 
         // Put the previous frame back on top.
@@ -15984,18 +15984,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_propertie
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_af4678c899e349f6652d32ecf611b8c0_2);
+        RESTORE_FRAME_EXCEPTION(frame_5f439b5e337acb4c1cb2d6f5ca624110_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_af4678c899e349f6652d32ecf611b8c0_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_af4678c899e349f6652d32ecf611b8c0_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_af4678c899e349f6652d32ecf611b8c0_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_5f439b5e337acb4c1cb2d6f5ca624110_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_5f439b5e337acb4c1cb2d6f5ca624110_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_5f439b5e337acb4c1cb2d6f5ca624110_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_af4678c899e349f6652d32ecf611b8c0_2,
+            frame_5f439b5e337acb4c1cb2d6f5ca624110_2,
             type_description_2,
             outline_0_var_x,
             outline_0_var_y,
@@ -16005,17 +16005,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_propertie
 
 
         // Release cached frame if used for exception.
-        if (frame_af4678c899e349f6652d32ecf611b8c0_2 == cache_frame_af4678c899e349f6652d32ecf611b8c0_2) {
+        if (frame_5f439b5e337acb4c1cb2d6f5ca624110_2 == cache_frame_5f439b5e337acb4c1cb2d6f5ca624110_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_af4678c899e349f6652d32ecf611b8c0_2);
-            cache_frame_af4678c899e349f6652d32ecf611b8c0_2 = NULL;
+            Py_DECREF(cache_frame_5f439b5e337acb4c1cb2d6f5ca624110_2);
+            cache_frame_5f439b5e337acb4c1cb2d6f5ca624110_2 = NULL;
         }
 
-        assertFrameObject(frame_af4678c899e349f6652d32ecf611b8c0_2);
+        assertFrameObject(frame_5f439b5e337acb4c1cb2d6f5ca624110_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -16109,7 +16109,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_propertie
         }
         CHECK_OBJECT(par_self);
         tmp_args_element_name_9 = par_self;
-        frame_02320c3e53dcf82a4d575cf3a3929478->m_frame.f_lineno = 308;
+        frame_0f554c3d385fa843287b4cdae82f3bd0->m_frame.f_lineno = 308;
         tmp_assattr_name_2 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[96], tmp_args_element_name_9);
         if (tmp_assattr_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -16149,7 +16149,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_propertie
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_02320c3e53dcf82a4d575cf3a3929478);
+    RESTORE_FRAME_EXCEPTION(frame_0f554c3d385fa843287b4cdae82f3bd0);
 #endif
 
     // Put the previous frame back on top.
@@ -16160,18 +16160,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_propertie
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_02320c3e53dcf82a4d575cf3a3929478);
+    RESTORE_FRAME_EXCEPTION(frame_0f554c3d385fa843287b4cdae82f3bd0);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_02320c3e53dcf82a4d575cf3a3929478, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_02320c3e53dcf82a4d575cf3a3929478->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_02320c3e53dcf82a4d575cf3a3929478, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_0f554c3d385fa843287b4cdae82f3bd0, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_0f554c3d385fa843287b4cdae82f3bd0->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_0f554c3d385fa843287b4cdae82f3bd0, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_02320c3e53dcf82a4d575cf3a3929478,
+        frame_0f554c3d385fa843287b4cdae82f3bd0,
         type_description_1,
         par_self,
         par_verts,
@@ -16181,17 +16181,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_propertie
 
 
     // Release cached frame if used for exception.
-    if (frame_02320c3e53dcf82a4d575cf3a3929478 == cache_frame_02320c3e53dcf82a4d575cf3a3929478) {
+    if (frame_0f554c3d385fa843287b4cdae82f3bd0 == cache_frame_0f554c3d385fa843287b4cdae82f3bd0) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_02320c3e53dcf82a4d575cf3a3929478);
-        cache_frame_02320c3e53dcf82a4d575cf3a3929478 = NULL;
+        Py_DECREF(cache_frame_0f554c3d385fa843287b4cdae82f3bd0);
+        cache_frame_0f554c3d385fa843287b4cdae82f3bd0 = NULL;
     }
 
-    assertFrameObject(frame_02320c3e53dcf82a4d575cf3a3929478);
+    assertFrameObject(frame_0f554c3d385fa843287b4cdae82f3bd0);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -16274,14 +16274,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__26_get_path(struct 
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_79208d6b9d371adc5e7320f1a8a33af2;
+    struct Nuitka_FrameObject *frame_f9f845e887972d445493300ac38dadfc;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_79208d6b9d371adc5e7320f1a8a33af2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f9f845e887972d445493300ac38dadfc = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -16289,31 +16289,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__26_get_path(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_79208d6b9d371adc5e7320f1a8a33af2)) {
-        Py_XDECREF(cache_frame_79208d6b9d371adc5e7320f1a8a33af2);
+    if (isFrameUnusable(cache_frame_f9f845e887972d445493300ac38dadfc)) {
+        Py_XDECREF(cache_frame_f9f845e887972d445493300ac38dadfc);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_79208d6b9d371adc5e7320f1a8a33af2 == NULL) {
+        if (cache_frame_f9f845e887972d445493300ac38dadfc == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_79208d6b9d371adc5e7320f1a8a33af2 = MAKE_FUNCTION_FRAME(codeobj_79208d6b9d371adc5e7320f1a8a33af2, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+        cache_frame_f9f845e887972d445493300ac38dadfc = MAKE_FUNCTION_FRAME(codeobj_f9f845e887972d445493300ac38dadfc, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_79208d6b9d371adc5e7320f1a8a33af2->m_type_description == NULL);
-    frame_79208d6b9d371adc5e7320f1a8a33af2 = cache_frame_79208d6b9d371adc5e7320f1a8a33af2;
+    assert(cache_frame_f9f845e887972d445493300ac38dadfc->m_type_description == NULL);
+    frame_f9f845e887972d445493300ac38dadfc = cache_frame_f9f845e887972d445493300ac38dadfc;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_79208d6b9d371adc5e7320f1a8a33af2);
+    pushFrameStack(frame_f9f845e887972d445493300ac38dadfc);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_79208d6b9d371adc5e7320f1a8a33af2) == 2); // Frame stack
+    assert(Py_REFCNT(frame_f9f845e887972d445493300ac38dadfc) == 2); // Frame stack
 
     // Framed code:
     {
@@ -16335,7 +16335,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__26_get_path(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_79208d6b9d371adc5e7320f1a8a33af2);
+    RESTORE_FRAME_EXCEPTION(frame_f9f845e887972d445493300ac38dadfc);
 #endif
 
     // Put the previous frame back on top.
@@ -16345,7 +16345,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__26_get_path(struct 
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_79208d6b9d371adc5e7320f1a8a33af2);
+    RESTORE_FRAME_EXCEPTION(frame_f9f845e887972d445493300ac38dadfc);
 #endif
 
     // Put the previous frame back on top.
@@ -16356,35 +16356,35 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__26_get_path(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_79208d6b9d371adc5e7320f1a8a33af2);
+    RESTORE_FRAME_EXCEPTION(frame_f9f845e887972d445493300ac38dadfc);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_79208d6b9d371adc5e7320f1a8a33af2, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_79208d6b9d371adc5e7320f1a8a33af2->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_79208d6b9d371adc5e7320f1a8a33af2, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_f9f845e887972d445493300ac38dadfc, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_f9f845e887972d445493300ac38dadfc->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_f9f845e887972d445493300ac38dadfc, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_79208d6b9d371adc5e7320f1a8a33af2,
+        frame_f9f845e887972d445493300ac38dadfc,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_79208d6b9d371adc5e7320f1a8a33af2 == cache_frame_79208d6b9d371adc5e7320f1a8a33af2) {
+    if (frame_f9f845e887972d445493300ac38dadfc == cache_frame_f9f845e887972d445493300ac38dadfc) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_79208d6b9d371adc5e7320f1a8a33af2);
-        cache_frame_79208d6b9d371adc5e7320f1a8a33af2 = NULL;
+        Py_DECREF(cache_frame_f9f845e887972d445493300ac38dadfc);
+        cache_frame_f9f845e887972d445493300ac38dadfc = NULL;
     }
 
-    assertFrameObject(frame_79208d6b9d371adc5e7320f1a8a33af2);
+    assertFrameObject(frame_f9f845e887972d445493300ac38dadfc);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -16451,14 +16451,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__27_get_facecolor(st
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_d9c8f2bb65c910e3eb8e9e41907d0a82;
+    struct Nuitka_FrameObject *frame_f2dbf6fe79145f4dab9d3fe34f12ad3e;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_d9c8f2bb65c910e3eb8e9e41907d0a82 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f2dbf6fe79145f4dab9d3fe34f12ad3e = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -16466,31 +16466,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__27_get_facecolor(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_d9c8f2bb65c910e3eb8e9e41907d0a82)) {
-        Py_XDECREF(cache_frame_d9c8f2bb65c910e3eb8e9e41907d0a82);
+    if (isFrameUnusable(cache_frame_f2dbf6fe79145f4dab9d3fe34f12ad3e)) {
+        Py_XDECREF(cache_frame_f2dbf6fe79145f4dab9d3fe34f12ad3e);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_d9c8f2bb65c910e3eb8e9e41907d0a82 == NULL) {
+        if (cache_frame_f2dbf6fe79145f4dab9d3fe34f12ad3e == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_d9c8f2bb65c910e3eb8e9e41907d0a82 = MAKE_FUNCTION_FRAME(codeobj_d9c8f2bb65c910e3eb8e9e41907d0a82, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+        cache_frame_f2dbf6fe79145f4dab9d3fe34f12ad3e = MAKE_FUNCTION_FRAME(codeobj_f2dbf6fe79145f4dab9d3fe34f12ad3e, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_d9c8f2bb65c910e3eb8e9e41907d0a82->m_type_description == NULL);
-    frame_d9c8f2bb65c910e3eb8e9e41907d0a82 = cache_frame_d9c8f2bb65c910e3eb8e9e41907d0a82;
+    assert(cache_frame_f2dbf6fe79145f4dab9d3fe34f12ad3e->m_type_description == NULL);
+    frame_f2dbf6fe79145f4dab9d3fe34f12ad3e = cache_frame_f2dbf6fe79145f4dab9d3fe34f12ad3e;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_d9c8f2bb65c910e3eb8e9e41907d0a82);
+    pushFrameStack(frame_f2dbf6fe79145f4dab9d3fe34f12ad3e);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_d9c8f2bb65c910e3eb8e9e41907d0a82) == 2); // Frame stack
+    assert(Py_REFCNT(frame_f2dbf6fe79145f4dab9d3fe34f12ad3e) == 2); // Frame stack
 
     // Framed code:
     {
@@ -16512,7 +16512,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__27_get_facecolor(st
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d9c8f2bb65c910e3eb8e9e41907d0a82);
+    RESTORE_FRAME_EXCEPTION(frame_f2dbf6fe79145f4dab9d3fe34f12ad3e);
 #endif
 
     // Put the previous frame back on top.
@@ -16522,7 +16522,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__27_get_facecolor(st
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d9c8f2bb65c910e3eb8e9e41907d0a82);
+    RESTORE_FRAME_EXCEPTION(frame_f2dbf6fe79145f4dab9d3fe34f12ad3e);
 #endif
 
     // Put the previous frame back on top.
@@ -16533,35 +16533,35 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__27_get_facecolor(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d9c8f2bb65c910e3eb8e9e41907d0a82);
+    RESTORE_FRAME_EXCEPTION(frame_f2dbf6fe79145f4dab9d3fe34f12ad3e);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_d9c8f2bb65c910e3eb8e9e41907d0a82, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_d9c8f2bb65c910e3eb8e9e41907d0a82->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_d9c8f2bb65c910e3eb8e9e41907d0a82, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_f2dbf6fe79145f4dab9d3fe34f12ad3e, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_f2dbf6fe79145f4dab9d3fe34f12ad3e->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_f2dbf6fe79145f4dab9d3fe34f12ad3e, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_d9c8f2bb65c910e3eb8e9e41907d0a82,
+        frame_f2dbf6fe79145f4dab9d3fe34f12ad3e,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_d9c8f2bb65c910e3eb8e9e41907d0a82 == cache_frame_d9c8f2bb65c910e3eb8e9e41907d0a82) {
+    if (frame_f2dbf6fe79145f4dab9d3fe34f12ad3e == cache_frame_f2dbf6fe79145f4dab9d3fe34f12ad3e) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_d9c8f2bb65c910e3eb8e9e41907d0a82);
-        cache_frame_d9c8f2bb65c910e3eb8e9e41907d0a82 = NULL;
+        Py_DECREF(cache_frame_f2dbf6fe79145f4dab9d3fe34f12ad3e);
+        cache_frame_f2dbf6fe79145f4dab9d3fe34f12ad3e = NULL;
     }
 
-    assertFrameObject(frame_d9c8f2bb65c910e3eb8e9e41907d0a82);
+    assertFrameObject(frame_f2dbf6fe79145f4dab9d3fe34f12ad3e);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -16646,7 +16646,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__28_do_3d_projection
     PyObject *tmp_tuple_unpack_2__element_3 = NULL;
     PyObject *tmp_tuple_unpack_2__element_4 = NULL;
     PyObject *tmp_tuple_unpack_2__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_d1d9a2f1f5ca9791339da1416ce9e08e;
+    struct Nuitka_FrameObject *frame_d62bff6824f20219b0caccfd686e4201;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -16671,7 +16671,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__28_do_3d_projection
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_4;
     bool tmp_result;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_d1d9a2f1f5ca9791339da1416ce9e08e = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d62bff6824f20219b0caccfd686e4201 = NULL;
     PyObject *exception_keeper_type_5;
     PyObject *exception_keeper_value_5;
     PyTracebackObject *exception_keeper_tb_5;
@@ -16679,31 +16679,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__28_do_3d_projection
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_d1d9a2f1f5ca9791339da1416ce9e08e)) {
-        Py_XDECREF(cache_frame_d1d9a2f1f5ca9791339da1416ce9e08e);
+    if (isFrameUnusable(cache_frame_d62bff6824f20219b0caccfd686e4201)) {
+        Py_XDECREF(cache_frame_d62bff6824f20219b0caccfd686e4201);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_d1d9a2f1f5ca9791339da1416ce9e08e == NULL) {
+        if (cache_frame_d62bff6824f20219b0caccfd686e4201 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_d1d9a2f1f5ca9791339da1416ce9e08e = MAKE_FUNCTION_FRAME(codeobj_d1d9a2f1f5ca9791339da1416ce9e08e, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_d62bff6824f20219b0caccfd686e4201 = MAKE_FUNCTION_FRAME(codeobj_d62bff6824f20219b0caccfd686e4201, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_d1d9a2f1f5ca9791339da1416ce9e08e->m_type_description == NULL);
-    frame_d1d9a2f1f5ca9791339da1416ce9e08e = cache_frame_d1d9a2f1f5ca9791339da1416ce9e08e;
+    assert(cache_frame_d62bff6824f20219b0caccfd686e4201->m_type_description == NULL);
+    frame_d62bff6824f20219b0caccfd686e4201 = cache_frame_d62bff6824f20219b0caccfd686e4201;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_d1d9a2f1f5ca9791339da1416ce9e08e);
+    pushFrameStack(frame_d62bff6824f20219b0caccfd686e4201);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_d1d9a2f1f5ca9791339da1416ce9e08e) == 2); // Frame stack
+    assert(Py_REFCNT(frame_d62bff6824f20219b0caccfd686e4201) == 2); // Frame stack
 
     // Framed code:
     {
@@ -17024,7 +17024,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__28_do_3d_projection
             type_description_1 = "oooooooooo";
             goto try_except_handler_4;
         }
-        frame_d1d9a2f1f5ca9791339da1416ce9e08e->m_frame.f_lineno = 319;
+        frame_d62bff6824f20219b0caccfd686e4201->m_frame.f_lineno = 319;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_iter_arg_2 = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_1, call_args);
@@ -17356,7 +17356,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__28_do_3d_projection
         CHECK_OBJECT(var_vys);
         tmp_list_element_1 = var_vys;
         PyList_SET_ITEM0(tmp_args_element_name_6, 1, tmp_list_element_1);
-        frame_d1d9a2f1f5ca9791339da1416ce9e08e->m_frame.f_lineno = 320;
+        frame_d62bff6824f20219b0caccfd686e4201->m_frame.f_lineno = 320;
         tmp_args_element_name_5 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[81], tmp_args_element_name_6);
         Py_DECREF(tmp_args_element_name_6);
         if (tmp_args_element_name_5 == NULL) {
@@ -17369,7 +17369,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__28_do_3d_projection
             type_description_1 = "oooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_d1d9a2f1f5ca9791339da1416ce9e08e->m_frame.f_lineno = 320;
+        frame_d62bff6824f20219b0caccfd686e4201->m_frame.f_lineno = 320;
         tmp_assattr_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_5);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_5);
@@ -17470,7 +17470,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__28_do_3d_projection
         assert(tmp_called_name_3 != NULL);
         CHECK_OBJECT(var_vzs);
         tmp_args_element_name_7 = var_vzs;
-        frame_d1d9a2f1f5ca9791339da1416ce9e08e->m_frame.f_lineno = 323;
+        frame_d62bff6824f20219b0caccfd686e4201->m_frame.f_lineno = 323;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_7);
         if (tmp_return_value == NULL) {
             assert(ERROR_OCCURRED());
@@ -17486,7 +17486,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__28_do_3d_projection
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d1d9a2f1f5ca9791339da1416ce9e08e);
+    RESTORE_FRAME_EXCEPTION(frame_d62bff6824f20219b0caccfd686e4201);
 #endif
 
     // Put the previous frame back on top.
@@ -17496,7 +17496,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__28_do_3d_projection
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d1d9a2f1f5ca9791339da1416ce9e08e);
+    RESTORE_FRAME_EXCEPTION(frame_d62bff6824f20219b0caccfd686e4201);
 #endif
 
     // Put the previous frame back on top.
@@ -17507,18 +17507,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__28_do_3d_projection
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d1d9a2f1f5ca9791339da1416ce9e08e);
+    RESTORE_FRAME_EXCEPTION(frame_d62bff6824f20219b0caccfd686e4201);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_d1d9a2f1f5ca9791339da1416ce9e08e, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_d1d9a2f1f5ca9791339da1416ce9e08e->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_d1d9a2f1f5ca9791339da1416ce9e08e, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d62bff6824f20219b0caccfd686e4201, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d62bff6824f20219b0caccfd686e4201->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d62bff6824f20219b0caccfd686e4201, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_d1d9a2f1f5ca9791339da1416ce9e08e,
+        frame_d62bff6824f20219b0caccfd686e4201,
         type_description_1,
         par_self,
         par_renderer,
@@ -17534,17 +17534,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__28_do_3d_projection
 
 
     // Release cached frame if used for exception.
-    if (frame_d1d9a2f1f5ca9791339da1416ce9e08e == cache_frame_d1d9a2f1f5ca9791339da1416ce9e08e) {
+    if (frame_d62bff6824f20219b0caccfd686e4201 == cache_frame_d62bff6824f20219b0caccfd686e4201) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_d1d9a2f1f5ca9791339da1416ce9e08e);
-        cache_frame_d1d9a2f1f5ca9791339da1416ce9e08e = NULL;
+        Py_DECREF(cache_frame_d62bff6824f20219b0caccfd686e4201);
+        cache_frame_d62bff6824f20219b0caccfd686e4201 = NULL;
     }
 
-    assertFrameObject(frame_d1d9a2f1f5ca9791339da1416ce9e08e);
+    assertFrameObject(frame_d62bff6824f20219b0caccfd686e4201);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -17654,14 +17654,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__29___init__(struct 
     PyObject *par_zs = python_pars[2];
     PyObject *par_zdir = python_pars[3];
     PyObject *par_kwargs = python_pars[4];
-    struct Nuitka_FrameObject *frame_13ff6c34fade58011fd4e0381bc3392e;
+    struct Nuitka_FrameObject *frame_b299f38ea88c782d130e6fcc277fea74;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_13ff6c34fade58011fd4e0381bc3392e = NULL;
+    static struct Nuitka_FrameObject *cache_frame_b299f38ea88c782d130e6fcc277fea74 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -17670,31 +17670,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__29___init__(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_13ff6c34fade58011fd4e0381bc3392e)) {
-        Py_XDECREF(cache_frame_13ff6c34fade58011fd4e0381bc3392e);
+    if (isFrameUnusable(cache_frame_b299f38ea88c782d130e6fcc277fea74)) {
+        Py_XDECREF(cache_frame_b299f38ea88c782d130e6fcc277fea74);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_13ff6c34fade58011fd4e0381bc3392e == NULL) {
+        if (cache_frame_b299f38ea88c782d130e6fcc277fea74 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_13ff6c34fade58011fd4e0381bc3392e = MAKE_FUNCTION_FRAME(codeobj_13ff6c34fade58011fd4e0381bc3392e, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_b299f38ea88c782d130e6fcc277fea74 = MAKE_FUNCTION_FRAME(codeobj_b299f38ea88c782d130e6fcc277fea74, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_13ff6c34fade58011fd4e0381bc3392e->m_type_description == NULL);
-    frame_13ff6c34fade58011fd4e0381bc3392e = cache_frame_13ff6c34fade58011fd4e0381bc3392e;
+    assert(cache_frame_b299f38ea88c782d130e6fcc277fea74->m_type_description == NULL);
+    frame_b299f38ea88c782d130e6fcc277fea74 = cache_frame_b299f38ea88c782d130e6fcc277fea74;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_13ff6c34fade58011fd4e0381bc3392e);
+    pushFrameStack(frame_b299f38ea88c782d130e6fcc277fea74);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_13ff6c34fade58011fd4e0381bc3392e) == 2); // Frame stack
+    assert(Py_REFCNT(frame_b299f38ea88c782d130e6fcc277fea74) == 2); // Frame stack
 
     // Framed code:
     {
@@ -17769,7 +17769,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__29___init__(struct 
         tmp_args_element_name_2 = par_zs;
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_3 = par_zdir;
-        frame_13ff6c34fade58011fd4e0381bc3392e->m_frame.f_lineno = 333;
+        frame_b299f38ea88c782d130e6fcc277fea74->m_frame.f_lineno = 333;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_call_result_2 = CALL_METHOD_WITH_ARGS3(
@@ -17793,7 +17793,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__29___init__(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_13ff6c34fade58011fd4e0381bc3392e);
+    RESTORE_FRAME_EXCEPTION(frame_b299f38ea88c782d130e6fcc277fea74);
 #endif
 
     // Put the previous frame back on top.
@@ -17804,18 +17804,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__29___init__(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_13ff6c34fade58011fd4e0381bc3392e);
+    RESTORE_FRAME_EXCEPTION(frame_b299f38ea88c782d130e6fcc277fea74);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_13ff6c34fade58011fd4e0381bc3392e, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_13ff6c34fade58011fd4e0381bc3392e->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_13ff6c34fade58011fd4e0381bc3392e, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_b299f38ea88c782d130e6fcc277fea74, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_b299f38ea88c782d130e6fcc277fea74->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_b299f38ea88c782d130e6fcc277fea74, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_13ff6c34fade58011fd4e0381bc3392e,
+        frame_b299f38ea88c782d130e6fcc277fea74,
         type_description_1,
         par_self,
         par_path,
@@ -17826,17 +17826,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__29___init__(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_13ff6c34fade58011fd4e0381bc3392e == cache_frame_13ff6c34fade58011fd4e0381bc3392e) {
+    if (frame_b299f38ea88c782d130e6fcc277fea74 == cache_frame_b299f38ea88c782d130e6fcc277fea74) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_13ff6c34fade58011fd4e0381bc3392e);
-        cache_frame_13ff6c34fade58011fd4e0381bc3392e = NULL;
+        Py_DECREF(cache_frame_b299f38ea88c782d130e6fcc277fea74);
+        cache_frame_b299f38ea88c782d130e6fcc277fea74 = NULL;
     }
 
-    assertFrameObject(frame_13ff6c34fade58011fd4e0381bc3392e);
+    assertFrameObject(frame_b299f38ea88c782d130e6fcc277fea74);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -17927,7 +17927,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__30_set_3d_propertie
     PyObject *par_path = python_pars[1];
     PyObject *par_zs = python_pars[2];
     PyObject *par_zdir = python_pars[3];
-    struct Nuitka_FrameObject *frame_a2aba7d00fc9ce139f14fa18a16f3a91;
+    struct Nuitka_FrameObject *frame_7e9a64fd7707da107a14f4d4f17b26a6;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -17936,7 +17936,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__30_set_3d_propertie
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_a2aba7d00fc9ce139f14fa18a16f3a91 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_7e9a64fd7707da107a14f4d4f17b26a6 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -17945,31 +17945,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__30_set_3d_propertie
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_a2aba7d00fc9ce139f14fa18a16f3a91)) {
-        Py_XDECREF(cache_frame_a2aba7d00fc9ce139f14fa18a16f3a91);
+    if (isFrameUnusable(cache_frame_7e9a64fd7707da107a14f4d4f17b26a6)) {
+        Py_XDECREF(cache_frame_7e9a64fd7707da107a14f4d4f17b26a6);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_a2aba7d00fc9ce139f14fa18a16f3a91 == NULL) {
+        if (cache_frame_7e9a64fd7707da107a14f4d4f17b26a6 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_a2aba7d00fc9ce139f14fa18a16f3a91 = MAKE_FUNCTION_FRAME(codeobj_a2aba7d00fc9ce139f14fa18a16f3a91, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_7e9a64fd7707da107a14f4d4f17b26a6 = MAKE_FUNCTION_FRAME(codeobj_7e9a64fd7707da107a14f4d4f17b26a6, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_a2aba7d00fc9ce139f14fa18a16f3a91->m_type_description == NULL);
-    frame_a2aba7d00fc9ce139f14fa18a16f3a91 = cache_frame_a2aba7d00fc9ce139f14fa18a16f3a91;
+    assert(cache_frame_7e9a64fd7707da107a14f4d4f17b26a6->m_type_description == NULL);
+    frame_7e9a64fd7707da107a14f4d4f17b26a6 = cache_frame_7e9a64fd7707da107a14f4d4f17b26a6;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_a2aba7d00fc9ce139f14fa18a16f3a91);
+    pushFrameStack(frame_7e9a64fd7707da107a14f4d4f17b26a6);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_a2aba7d00fc9ce139f14fa18a16f3a91) == 2); // Frame stack
+    assert(Py_REFCNT(frame_7e9a64fd7707da107a14f4d4f17b26a6) == 2); // Frame stack
 
     // Framed code:
     {
@@ -18048,7 +18048,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__30_set_3d_propertie
         tmp_dict_value_1 = par_zdir;
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_a2aba7d00fc9ce139f14fa18a16f3a91->m_frame.f_lineno = 336;
+        frame_7e9a64fd7707da107a14f4d4f17b26a6->m_frame.f_lineno = 336;
         tmp_call_result_1 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -18121,7 +18121,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__30_set_3d_propertie
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a2aba7d00fc9ce139f14fa18a16f3a91);
+    RESTORE_FRAME_EXCEPTION(frame_7e9a64fd7707da107a14f4d4f17b26a6);
 #endif
 
     // Put the previous frame back on top.
@@ -18132,18 +18132,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__30_set_3d_propertie
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a2aba7d00fc9ce139f14fa18a16f3a91);
+    RESTORE_FRAME_EXCEPTION(frame_7e9a64fd7707da107a14f4d4f17b26a6);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a2aba7d00fc9ce139f14fa18a16f3a91, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a2aba7d00fc9ce139f14fa18a16f3a91->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a2aba7d00fc9ce139f14fa18a16f3a91, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_7e9a64fd7707da107a14f4d4f17b26a6, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_7e9a64fd7707da107a14f4d4f17b26a6->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_7e9a64fd7707da107a14f4d4f17b26a6, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_a2aba7d00fc9ce139f14fa18a16f3a91,
+        frame_7e9a64fd7707da107a14f4d4f17b26a6,
         type_description_1,
         par_self,
         par_path,
@@ -18153,17 +18153,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__30_set_3d_propertie
 
 
     // Release cached frame if used for exception.
-    if (frame_a2aba7d00fc9ce139f14fa18a16f3a91 == cache_frame_a2aba7d00fc9ce139f14fa18a16f3a91) {
+    if (frame_7e9a64fd7707da107a14f4d4f17b26a6 == cache_frame_7e9a64fd7707da107a14f4d4f17b26a6) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_a2aba7d00fc9ce139f14fa18a16f3a91);
-        cache_frame_a2aba7d00fc9ce139f14fa18a16f3a91 = NULL;
+        Py_DECREF(cache_frame_7e9a64fd7707da107a14f4d4f17b26a6);
+        cache_frame_7e9a64fd7707da107a14f4d4f17b26a6 = NULL;
     }
 
-    assertFrameObject(frame_a2aba7d00fc9ce139f14fa18a16f3a91);
+    assertFrameObject(frame_7e9a64fd7707da107a14f4d4f17b26a6);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -18263,7 +18263,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__31_do_3d_projection
     PyObject *tmp_tuple_unpack_2__element_3 = NULL;
     PyObject *tmp_tuple_unpack_2__element_4 = NULL;
     PyObject *tmp_tuple_unpack_2__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_4f5de935fc76e6a7e2249d70d0d3aad1;
+    struct Nuitka_FrameObject *frame_1579f78ba25f77c59ff5df54bd9e4512;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -18288,7 +18288,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__31_do_3d_projection
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_4;
     bool tmp_result;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_4f5de935fc76e6a7e2249d70d0d3aad1 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_1579f78ba25f77c59ff5df54bd9e4512 = NULL;
     PyObject *exception_keeper_type_5;
     PyObject *exception_keeper_value_5;
     PyTracebackObject *exception_keeper_tb_5;
@@ -18296,31 +18296,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__31_do_3d_projection
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_4f5de935fc76e6a7e2249d70d0d3aad1)) {
-        Py_XDECREF(cache_frame_4f5de935fc76e6a7e2249d70d0d3aad1);
+    if (isFrameUnusable(cache_frame_1579f78ba25f77c59ff5df54bd9e4512)) {
+        Py_XDECREF(cache_frame_1579f78ba25f77c59ff5df54bd9e4512);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_4f5de935fc76e6a7e2249d70d0d3aad1 == NULL) {
+        if (cache_frame_1579f78ba25f77c59ff5df54bd9e4512 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_4f5de935fc76e6a7e2249d70d0d3aad1 = MAKE_FUNCTION_FRAME(codeobj_4f5de935fc76e6a7e2249d70d0d3aad1, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_1579f78ba25f77c59ff5df54bd9e4512 = MAKE_FUNCTION_FRAME(codeobj_1579f78ba25f77c59ff5df54bd9e4512, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_4f5de935fc76e6a7e2249d70d0d3aad1->m_type_description == NULL);
-    frame_4f5de935fc76e6a7e2249d70d0d3aad1 = cache_frame_4f5de935fc76e6a7e2249d70d0d3aad1;
+    assert(cache_frame_1579f78ba25f77c59ff5df54bd9e4512->m_type_description == NULL);
+    frame_1579f78ba25f77c59ff5df54bd9e4512 = cache_frame_1579f78ba25f77c59ff5df54bd9e4512;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_4f5de935fc76e6a7e2249d70d0d3aad1);
+    pushFrameStack(frame_1579f78ba25f77c59ff5df54bd9e4512);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_4f5de935fc76e6a7e2249d70d0d3aad1) == 2); // Frame stack
+    assert(Py_REFCNT(frame_1579f78ba25f77c59ff5df54bd9e4512) == 2); // Frame stack
 
     // Framed code:
     {
@@ -18641,7 +18641,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__31_do_3d_projection
             type_description_1 = "oooooooooo";
             goto try_except_handler_4;
         }
-        frame_4f5de935fc76e6a7e2249d70d0d3aad1->m_frame.f_lineno = 342;
+        frame_1579f78ba25f77c59ff5df54bd9e4512->m_frame.f_lineno = 342;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_iter_arg_2 = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_1, call_args);
@@ -18975,7 +18975,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__31_do_3d_projection
         CHECK_OBJECT(var_vys);
         tmp_list_element_1 = var_vys;
         PyList_SET_ITEM0(tmp_args_element_name_6, 1, tmp_list_element_1);
-        frame_4f5de935fc76e6a7e2249d70d0d3aad1->m_frame.f_lineno = 343;
+        frame_1579f78ba25f77c59ff5df54bd9e4512->m_frame.f_lineno = 343;
         tmp_args_element_name_5 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[81], tmp_args_element_name_6);
         Py_DECREF(tmp_args_element_name_6);
         if (tmp_args_element_name_5 == NULL) {
@@ -19014,7 +19014,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__31_do_3d_projection
             type_description_1 = "oooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_4f5de935fc76e6a7e2249d70d0d3aad1->m_frame.f_lineno = 343;
+        frame_1579f78ba25f77c59ff5df54bd9e4512->m_frame.f_lineno = 343;
         {
             PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_7};
             tmp_assattr_name_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -19120,7 +19120,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__31_do_3d_projection
         assert(tmp_called_name_3 != NULL);
         CHECK_OBJECT(var_vzs);
         tmp_args_element_name_8 = var_vzs;
-        frame_4f5de935fc76e6a7e2249d70d0d3aad1->m_frame.f_lineno = 346;
+        frame_1579f78ba25f77c59ff5df54bd9e4512->m_frame.f_lineno = 346;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_8);
         if (tmp_return_value == NULL) {
             assert(ERROR_OCCURRED());
@@ -19136,7 +19136,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__31_do_3d_projection
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4f5de935fc76e6a7e2249d70d0d3aad1);
+    RESTORE_FRAME_EXCEPTION(frame_1579f78ba25f77c59ff5df54bd9e4512);
 #endif
 
     // Put the previous frame back on top.
@@ -19146,7 +19146,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__31_do_3d_projection
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4f5de935fc76e6a7e2249d70d0d3aad1);
+    RESTORE_FRAME_EXCEPTION(frame_1579f78ba25f77c59ff5df54bd9e4512);
 #endif
 
     // Put the previous frame back on top.
@@ -19157,18 +19157,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__31_do_3d_projection
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4f5de935fc76e6a7e2249d70d0d3aad1);
+    RESTORE_FRAME_EXCEPTION(frame_1579f78ba25f77c59ff5df54bd9e4512);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_4f5de935fc76e6a7e2249d70d0d3aad1, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_4f5de935fc76e6a7e2249d70d0d3aad1->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_4f5de935fc76e6a7e2249d70d0d3aad1, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_1579f78ba25f77c59ff5df54bd9e4512, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_1579f78ba25f77c59ff5df54bd9e4512->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_1579f78ba25f77c59ff5df54bd9e4512, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_4f5de935fc76e6a7e2249d70d0d3aad1,
+        frame_1579f78ba25f77c59ff5df54bd9e4512,
         type_description_1,
         par_self,
         par_renderer,
@@ -19184,17 +19184,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__31_do_3d_projection
 
 
     // Release cached frame if used for exception.
-    if (frame_4f5de935fc76e6a7e2249d70d0d3aad1 == cache_frame_4f5de935fc76e6a7e2249d70d0d3aad1) {
+    if (frame_1579f78ba25f77c59ff5df54bd9e4512 == cache_frame_1579f78ba25f77c59ff5df54bd9e4512) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_4f5de935fc76e6a7e2249d70d0d3aad1);
-        cache_frame_4f5de935fc76e6a7e2249d70d0d3aad1 = NULL;
+        Py_DECREF(cache_frame_1579f78ba25f77c59ff5df54bd9e4512);
+        cache_frame_1579f78ba25f77c59ff5df54bd9e4512 = NULL;
     }
 
-    assertFrameObject(frame_4f5de935fc76e6a7e2249d70d0d3aad1);
+    assertFrameObject(frame_1579f78ba25f77c59ff5df54bd9e4512);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -19303,14 +19303,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__32__get_patch_verts
     PyObject *var_trans = NULL;
     PyObject *var_path = NULL;
     PyObject *var_polygons = NULL;
-    struct Nuitka_FrameObject *frame_8fa6aff5c2f4b92711e9c256d1f118c9;
+    struct Nuitka_FrameObject *frame_63fcf7ee625556a9f83956a7d7583329;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_8fa6aff5c2f4b92711e9c256d1f118c9 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_63fcf7ee625556a9f83956a7d7583329 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -19318,31 +19318,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__32__get_patch_verts
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_8fa6aff5c2f4b92711e9c256d1f118c9)) {
-        Py_XDECREF(cache_frame_8fa6aff5c2f4b92711e9c256d1f118c9);
+    if (isFrameUnusable(cache_frame_63fcf7ee625556a9f83956a7d7583329)) {
+        Py_XDECREF(cache_frame_63fcf7ee625556a9f83956a7d7583329);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_8fa6aff5c2f4b92711e9c256d1f118c9 == NULL) {
+        if (cache_frame_63fcf7ee625556a9f83956a7d7583329 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_8fa6aff5c2f4b92711e9c256d1f118c9 = MAKE_FUNCTION_FRAME(codeobj_8fa6aff5c2f4b92711e9c256d1f118c9, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_63fcf7ee625556a9f83956a7d7583329 = MAKE_FUNCTION_FRAME(codeobj_63fcf7ee625556a9f83956a7d7583329, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_8fa6aff5c2f4b92711e9c256d1f118c9->m_type_description == NULL);
-    frame_8fa6aff5c2f4b92711e9c256d1f118c9 = cache_frame_8fa6aff5c2f4b92711e9c256d1f118c9;
+    assert(cache_frame_63fcf7ee625556a9f83956a7d7583329->m_type_description == NULL);
+    frame_63fcf7ee625556a9f83956a7d7583329 = cache_frame_63fcf7ee625556a9f83956a7d7583329;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_8fa6aff5c2f4b92711e9c256d1f118c9);
+    pushFrameStack(frame_63fcf7ee625556a9f83956a7d7583329);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_8fa6aff5c2f4b92711e9c256d1f118c9) == 2); // Frame stack
+    assert(Py_REFCNT(frame_63fcf7ee625556a9f83956a7d7583329) == 2); // Frame stack
 
     // Framed code:
     {
@@ -19350,7 +19350,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__32__get_patch_verts
         PyObject *tmp_called_instance_1;
         CHECK_OBJECT(par_patch);
         tmp_called_instance_1 = par_patch;
-        frame_8fa6aff5c2f4b92711e9c256d1f118c9->m_frame.f_lineno = 351;
+        frame_63fcf7ee625556a9f83956a7d7583329->m_frame.f_lineno = 351;
         tmp_assign_source_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[109]);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -19381,7 +19381,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__32__get_patch_verts
         }
 
         tmp_called_instance_2 = par_patch;
-        frame_8fa6aff5c2f4b92711e9c256d1f118c9->m_frame.f_lineno = 352;
+        frame_63fcf7ee625556a9f83956a7d7583329->m_frame.f_lineno = 352;
         tmp_assign_source_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[111]);
         if (tmp_assign_source_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -19404,7 +19404,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__32__get_patch_verts
         tmp_called_instance_3 = var_path;
         CHECK_OBJECT(var_trans);
         tmp_args_element_name_1 = var_trans;
-        frame_8fa6aff5c2f4b92711e9c256d1f118c9->m_frame.f_lineno = 353;
+        frame_63fcf7ee625556a9f83956a7d7583329->m_frame.f_lineno = 353;
         tmp_assign_source_3 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[112], tmp_args_element_name_1);
         if (tmp_assign_source_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -19494,7 +19494,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__32__get_patch_verts
     branch_end_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_8fa6aff5c2f4b92711e9c256d1f118c9);
+    RESTORE_FRAME_EXCEPTION(frame_63fcf7ee625556a9f83956a7d7583329);
 #endif
 
     // Put the previous frame back on top.
@@ -19504,7 +19504,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__32__get_patch_verts
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_8fa6aff5c2f4b92711e9c256d1f118c9);
+    RESTORE_FRAME_EXCEPTION(frame_63fcf7ee625556a9f83956a7d7583329);
 #endif
 
     // Put the previous frame back on top.
@@ -19515,18 +19515,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__32__get_patch_verts
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_8fa6aff5c2f4b92711e9c256d1f118c9);
+    RESTORE_FRAME_EXCEPTION(frame_63fcf7ee625556a9f83956a7d7583329);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_8fa6aff5c2f4b92711e9c256d1f118c9, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_8fa6aff5c2f4b92711e9c256d1f118c9->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_8fa6aff5c2f4b92711e9c256d1f118c9, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_63fcf7ee625556a9f83956a7d7583329, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_63fcf7ee625556a9f83956a7d7583329->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_63fcf7ee625556a9f83956a7d7583329, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_8fa6aff5c2f4b92711e9c256d1f118c9,
+        frame_63fcf7ee625556a9f83956a7d7583329,
         type_description_1,
         par_patch,
         var_trans,
@@ -19536,17 +19536,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__32__get_patch_verts
 
 
     // Release cached frame if used for exception.
-    if (frame_8fa6aff5c2f4b92711e9c256d1f118c9 == cache_frame_8fa6aff5c2f4b92711e9c256d1f118c9) {
+    if (frame_63fcf7ee625556a9f83956a7d7583329 == cache_frame_63fcf7ee625556a9f83956a7d7583329) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_8fa6aff5c2f4b92711e9c256d1f118c9);
-        cache_frame_8fa6aff5c2f4b92711e9c256d1f118c9 = NULL;
+        Py_DECREF(cache_frame_63fcf7ee625556a9f83956a7d7583329);
+        cache_frame_63fcf7ee625556a9f83956a7d7583329 = NULL;
     }
 
-    assertFrameObject(frame_8fa6aff5c2f4b92711e9c256d1f118c9);
+    assertFrameObject(frame_63fcf7ee625556a9f83956a7d7583329);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -19628,7 +19628,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__33_patch_2d_to_3d(s
     PyObject *par_z = python_pars[1];
     PyObject *par_zdir = python_pars[2];
     PyObject *var_verts = NULL;
-    struct Nuitka_FrameObject *frame_7099c13384e90c3b98a789810a50bf53;
+    struct Nuitka_FrameObject *frame_8822f043da15b1564c0700e4dfa7b742;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -19636,7 +19636,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__33_patch_2d_to_3d(s
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_7099c13384e90c3b98a789810a50bf53 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_8822f043da15b1564c0700e4dfa7b742 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -19645,31 +19645,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__33_patch_2d_to_3d(s
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_7099c13384e90c3b98a789810a50bf53)) {
-        Py_XDECREF(cache_frame_7099c13384e90c3b98a789810a50bf53);
+    if (isFrameUnusable(cache_frame_8822f043da15b1564c0700e4dfa7b742)) {
+        Py_XDECREF(cache_frame_8822f043da15b1564c0700e4dfa7b742);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_7099c13384e90c3b98a789810a50bf53 == NULL) {
+        if (cache_frame_8822f043da15b1564c0700e4dfa7b742 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_7099c13384e90c3b98a789810a50bf53 = MAKE_FUNCTION_FRAME(codeobj_7099c13384e90c3b98a789810a50bf53, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_8822f043da15b1564c0700e4dfa7b742 = MAKE_FUNCTION_FRAME(codeobj_8822f043da15b1564c0700e4dfa7b742, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_7099c13384e90c3b98a789810a50bf53->m_type_description == NULL);
-    frame_7099c13384e90c3b98a789810a50bf53 = cache_frame_7099c13384e90c3b98a789810a50bf53;
+    assert(cache_frame_8822f043da15b1564c0700e4dfa7b742->m_type_description == NULL);
+    frame_8822f043da15b1564c0700e4dfa7b742 = cache_frame_8822f043da15b1564c0700e4dfa7b742;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_7099c13384e90c3b98a789810a50bf53);
+    pushFrameStack(frame_8822f043da15b1564c0700e4dfa7b742);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_7099c13384e90c3b98a789810a50bf53) == 2); // Frame stack
+    assert(Py_REFCNT(frame_8822f043da15b1564c0700e4dfa7b742) == 2); // Frame stack
 
     // Framed code:
     {
@@ -19694,7 +19694,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__33_patch_2d_to_3d(s
         }
         CHECK_OBJECT(par_patch);
         tmp_args_element_name_1 = par_patch;
-        frame_7099c13384e90c3b98a789810a50bf53->m_frame.f_lineno = 362;
+        frame_8822f043da15b1564c0700e4dfa7b742->m_frame.f_lineno = 362;
         tmp_assign_source_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -19756,7 +19756,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__33_patch_2d_to_3d(s
         tmp_args_element_name_3 = par_z;
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_4 = par_zdir;
-        frame_7099c13384e90c3b98a789810a50bf53->m_frame.f_lineno = 364;
+        frame_8822f043da15b1564c0700e4dfa7b742->m_frame.f_lineno = 364;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS3(
@@ -19780,7 +19780,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__33_patch_2d_to_3d(s
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_7099c13384e90c3b98a789810a50bf53);
+    RESTORE_FRAME_EXCEPTION(frame_8822f043da15b1564c0700e4dfa7b742);
 #endif
 
     // Put the previous frame back on top.
@@ -19791,18 +19791,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__33_patch_2d_to_3d(s
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_7099c13384e90c3b98a789810a50bf53);
+    RESTORE_FRAME_EXCEPTION(frame_8822f043da15b1564c0700e4dfa7b742);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_7099c13384e90c3b98a789810a50bf53, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_7099c13384e90c3b98a789810a50bf53->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_7099c13384e90c3b98a789810a50bf53, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_8822f043da15b1564c0700e4dfa7b742, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_8822f043da15b1564c0700e4dfa7b742->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_8822f043da15b1564c0700e4dfa7b742, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_7099c13384e90c3b98a789810a50bf53,
+        frame_8822f043da15b1564c0700e4dfa7b742,
         type_description_1,
         par_patch,
         par_z,
@@ -19812,17 +19812,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__33_patch_2d_to_3d(s
 
 
     // Release cached frame if used for exception.
-    if (frame_7099c13384e90c3b98a789810a50bf53 == cache_frame_7099c13384e90c3b98a789810a50bf53) {
+    if (frame_8822f043da15b1564c0700e4dfa7b742 == cache_frame_8822f043da15b1564c0700e4dfa7b742) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_7099c13384e90c3b98a789810a50bf53);
-        cache_frame_7099c13384e90c3b98a789810a50bf53 = NULL;
+        Py_DECREF(cache_frame_8822f043da15b1564c0700e4dfa7b742);
+        cache_frame_8822f043da15b1564c0700e4dfa7b742 = NULL;
     }
 
-    assertFrameObject(frame_7099c13384e90c3b98a789810a50bf53);
+    assertFrameObject(frame_8822f043da15b1564c0700e4dfa7b742);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -19909,7 +19909,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__34_pathpatch_2d_to_
     PyObject *var_path = NULL;
     PyObject *var_trans = NULL;
     PyObject *var_mpath = NULL;
-    struct Nuitka_FrameObject *frame_cbeacb49ddaada1e8679ae6dcdcef501;
+    struct Nuitka_FrameObject *frame_db4c638aa2717eb9251ef71fb4659b83;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -19917,7 +19917,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__34_pathpatch_2d_to_
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_cbeacb49ddaada1e8679ae6dcdcef501 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_db4c638aa2717eb9251ef71fb4659b83 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -19926,31 +19926,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__34_pathpatch_2d_to_
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_cbeacb49ddaada1e8679ae6dcdcef501)) {
-        Py_XDECREF(cache_frame_cbeacb49ddaada1e8679ae6dcdcef501);
+    if (isFrameUnusable(cache_frame_db4c638aa2717eb9251ef71fb4659b83)) {
+        Py_XDECREF(cache_frame_db4c638aa2717eb9251ef71fb4659b83);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_cbeacb49ddaada1e8679ae6dcdcef501 == NULL) {
+        if (cache_frame_db4c638aa2717eb9251ef71fb4659b83 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_cbeacb49ddaada1e8679ae6dcdcef501 = MAKE_FUNCTION_FRAME(codeobj_cbeacb49ddaada1e8679ae6dcdcef501, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_db4c638aa2717eb9251ef71fb4659b83 = MAKE_FUNCTION_FRAME(codeobj_db4c638aa2717eb9251ef71fb4659b83, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_cbeacb49ddaada1e8679ae6dcdcef501->m_type_description == NULL);
-    frame_cbeacb49ddaada1e8679ae6dcdcef501 = cache_frame_cbeacb49ddaada1e8679ae6dcdcef501;
+    assert(cache_frame_db4c638aa2717eb9251ef71fb4659b83->m_type_description == NULL);
+    frame_db4c638aa2717eb9251ef71fb4659b83 = cache_frame_db4c638aa2717eb9251ef71fb4659b83;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_cbeacb49ddaada1e8679ae6dcdcef501);
+    pushFrameStack(frame_db4c638aa2717eb9251ef71fb4659b83);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_cbeacb49ddaada1e8679ae6dcdcef501) == 2); // Frame stack
+    assert(Py_REFCNT(frame_db4c638aa2717eb9251ef71fb4659b83) == 2); // Frame stack
 
     // Framed code:
     {
@@ -19958,7 +19958,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__34_pathpatch_2d_to_
         PyObject *tmp_called_instance_1;
         CHECK_OBJECT(par_pathpatch);
         tmp_called_instance_1 = par_pathpatch;
-        frame_cbeacb49ddaada1e8679ae6dcdcef501->m_frame.f_lineno = 369;
+        frame_db4c638aa2717eb9251ef71fb4659b83->m_frame.f_lineno = 369;
         tmp_assign_source_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[111]);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -19989,7 +19989,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__34_pathpatch_2d_to_
         }
 
         tmp_called_instance_2 = par_pathpatch;
-        frame_cbeacb49ddaada1e8679ae6dcdcef501->m_frame.f_lineno = 370;
+        frame_db4c638aa2717eb9251ef71fb4659b83->m_frame.f_lineno = 370;
         tmp_assign_source_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[109]);
         if (tmp_assign_source_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -20012,7 +20012,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__34_pathpatch_2d_to_
         tmp_called_instance_3 = var_trans;
         CHECK_OBJECT(var_path);
         tmp_args_element_name_1 = var_path;
-        frame_cbeacb49ddaada1e8679ae6dcdcef501->m_frame.f_lineno = 372;
+        frame_db4c638aa2717eb9251ef71fb4659b83->m_frame.f_lineno = 372;
         tmp_assign_source_3 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[118], tmp_args_element_name_1);
         if (tmp_assign_source_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -20096,7 +20096,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__34_pathpatch_2d_to_
         tmp_args_element_name_3 = par_z;
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_4 = par_zdir;
-        frame_cbeacb49ddaada1e8679ae6dcdcef501->m_frame.f_lineno = 374;
+        frame_db4c638aa2717eb9251ef71fb4659b83->m_frame.f_lineno = 374;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS3(
@@ -20120,7 +20120,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__34_pathpatch_2d_to_
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_cbeacb49ddaada1e8679ae6dcdcef501);
+    RESTORE_FRAME_EXCEPTION(frame_db4c638aa2717eb9251ef71fb4659b83);
 #endif
 
     // Put the previous frame back on top.
@@ -20131,18 +20131,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__34_pathpatch_2d_to_
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_cbeacb49ddaada1e8679ae6dcdcef501);
+    RESTORE_FRAME_EXCEPTION(frame_db4c638aa2717eb9251ef71fb4659b83);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_cbeacb49ddaada1e8679ae6dcdcef501, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_cbeacb49ddaada1e8679ae6dcdcef501->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_cbeacb49ddaada1e8679ae6dcdcef501, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_db4c638aa2717eb9251ef71fb4659b83, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_db4c638aa2717eb9251ef71fb4659b83->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_db4c638aa2717eb9251ef71fb4659b83, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_cbeacb49ddaada1e8679ae6dcdcef501,
+        frame_db4c638aa2717eb9251ef71fb4659b83,
         type_description_1,
         par_pathpatch,
         par_z,
@@ -20154,17 +20154,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__34_pathpatch_2d_to_
 
 
     // Release cached frame if used for exception.
-    if (frame_cbeacb49ddaada1e8679ae6dcdcef501 == cache_frame_cbeacb49ddaada1e8679ae6dcdcef501) {
+    if (frame_db4c638aa2717eb9251ef71fb4659b83 == cache_frame_db4c638aa2717eb9251ef71fb4659b83) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_cbeacb49ddaada1e8679ae6dcdcef501);
-        cache_frame_cbeacb49ddaada1e8679ae6dcdcef501 = NULL;
+        Py_DECREF(cache_frame_db4c638aa2717eb9251ef71fb4659b83);
+        cache_frame_db4c638aa2717eb9251ef71fb4659b83 = NULL;
     }
 
-    assertFrameObject(frame_cbeacb49ddaada1e8679ae6dcdcef501);
+    assertFrameObject(frame_db4c638aa2717eb9251ef71fb4659b83);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -20259,7 +20259,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__35___init__(struct 
     PyObject *par_depthshade = python_pars[3];
     PyObject *par_args = python_pars[4];
     PyObject *par_kwargs = python_pars[5];
-    struct Nuitka_FrameObject *frame_f110b211ada6e11b6d27aa9023d8f878;
+    struct Nuitka_FrameObject *frame_62e8fbbce515d7ed9365a0f40a7e1521;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -20267,7 +20267,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__35___init__(struct 
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_f110b211ada6e11b6d27aa9023d8f878 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_62e8fbbce515d7ed9365a0f40a7e1521 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -20276,31 +20276,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__35___init__(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_f110b211ada6e11b6d27aa9023d8f878)) {
-        Py_XDECREF(cache_frame_f110b211ada6e11b6d27aa9023d8f878);
+    if (isFrameUnusable(cache_frame_62e8fbbce515d7ed9365a0f40a7e1521)) {
+        Py_XDECREF(cache_frame_62e8fbbce515d7ed9365a0f40a7e1521);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_f110b211ada6e11b6d27aa9023d8f878 == NULL) {
+        if (cache_frame_62e8fbbce515d7ed9365a0f40a7e1521 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_f110b211ada6e11b6d27aa9023d8f878 = MAKE_FUNCTION_FRAME(codeobj_f110b211ada6e11b6d27aa9023d8f878, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_62e8fbbce515d7ed9365a0f40a7e1521 = MAKE_FUNCTION_FRAME(codeobj_62e8fbbce515d7ed9365a0f40a7e1521, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_f110b211ada6e11b6d27aa9023d8f878->m_type_description == NULL);
-    frame_f110b211ada6e11b6d27aa9023d8f878 = cache_frame_f110b211ada6e11b6d27aa9023d8f878;
+    assert(cache_frame_62e8fbbce515d7ed9365a0f40a7e1521->m_type_description == NULL);
+    frame_62e8fbbce515d7ed9365a0f40a7e1521 = cache_frame_62e8fbbce515d7ed9365a0f40a7e1521;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_f110b211ada6e11b6d27aa9023d8f878);
+    pushFrameStack(frame_62e8fbbce515d7ed9365a0f40a7e1521);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_f110b211ada6e11b6d27aa9023d8f878) == 2); // Frame stack
+    assert(Py_REFCNT(frame_62e8fbbce515d7ed9365a0f40a7e1521) == 2); // Frame stack
 
     // Framed code:
     {
@@ -20402,7 +20402,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__35___init__(struct 
         tmp_args_element_name_1 = par_zs;
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_2 = par_zdir;
-        frame_f110b211ada6e11b6d27aa9023d8f878->m_frame.f_lineno = 400;
+        frame_62e8fbbce515d7ed9365a0f40a7e1521->m_frame.f_lineno = 400;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_2 = CALL_METHOD_WITH_ARGS2(
@@ -20426,7 +20426,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__35___init__(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f110b211ada6e11b6d27aa9023d8f878);
+    RESTORE_FRAME_EXCEPTION(frame_62e8fbbce515d7ed9365a0f40a7e1521);
 #endif
 
     // Put the previous frame back on top.
@@ -20437,18 +20437,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__35___init__(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_f110b211ada6e11b6d27aa9023d8f878);
+    RESTORE_FRAME_EXCEPTION(frame_62e8fbbce515d7ed9365a0f40a7e1521);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_f110b211ada6e11b6d27aa9023d8f878, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_f110b211ada6e11b6d27aa9023d8f878->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_f110b211ada6e11b6d27aa9023d8f878, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_62e8fbbce515d7ed9365a0f40a7e1521, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_62e8fbbce515d7ed9365a0f40a7e1521->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_62e8fbbce515d7ed9365a0f40a7e1521, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_f110b211ada6e11b6d27aa9023d8f878,
+        frame_62e8fbbce515d7ed9365a0f40a7e1521,
         type_description_1,
         par_self,
         par_zs,
@@ -20461,17 +20461,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__35___init__(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_f110b211ada6e11b6d27aa9023d8f878 == cache_frame_f110b211ada6e11b6d27aa9023d8f878) {
+    if (frame_62e8fbbce515d7ed9365a0f40a7e1521 == cache_frame_62e8fbbce515d7ed9365a0f40a7e1521) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_f110b211ada6e11b6d27aa9023d8f878);
-        cache_frame_f110b211ada6e11b6d27aa9023d8f878 = NULL;
+        Py_DECREF(cache_frame_62e8fbbce515d7ed9365a0f40a7e1521);
+        cache_frame_62e8fbbce515d7ed9365a0f40a7e1521 = NULL;
     }
 
-    assertFrameObject(frame_f110b211ada6e11b6d27aa9023d8f878);
+    assertFrameObject(frame_62e8fbbce515d7ed9365a0f40a7e1521);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -20568,14 +20568,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__36_set_sort_zpos(st
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_val = python_pars[1];
-    struct Nuitka_FrameObject *frame_ab29b294a6e0d3a3da251abbd778e806;
+    struct Nuitka_FrameObject *frame_09107cff93eae5653f257a274a280cee;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_ab29b294a6e0d3a3da251abbd778e806 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_09107cff93eae5653f257a274a280cee = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -20584,31 +20584,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__36_set_sort_zpos(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ab29b294a6e0d3a3da251abbd778e806)) {
-        Py_XDECREF(cache_frame_ab29b294a6e0d3a3da251abbd778e806);
+    if (isFrameUnusable(cache_frame_09107cff93eae5653f257a274a280cee)) {
+        Py_XDECREF(cache_frame_09107cff93eae5653f257a274a280cee);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ab29b294a6e0d3a3da251abbd778e806 == NULL) {
+        if (cache_frame_09107cff93eae5653f257a274a280cee == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ab29b294a6e0d3a3da251abbd778e806 = MAKE_FUNCTION_FRAME(codeobj_ab29b294a6e0d3a3da251abbd778e806, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
+        cache_frame_09107cff93eae5653f257a274a280cee = MAKE_FUNCTION_FRAME(codeobj_09107cff93eae5653f257a274a280cee, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ab29b294a6e0d3a3da251abbd778e806->m_type_description == NULL);
-    frame_ab29b294a6e0d3a3da251abbd778e806 = cache_frame_ab29b294a6e0d3a3da251abbd778e806;
+    assert(cache_frame_09107cff93eae5653f257a274a280cee->m_type_description == NULL);
+    frame_09107cff93eae5653f257a274a280cee = cache_frame_09107cff93eae5653f257a274a280cee;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ab29b294a6e0d3a3da251abbd778e806);
+    pushFrameStack(frame_09107cff93eae5653f257a274a280cee);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ab29b294a6e0d3a3da251abbd778e806) == 2); // Frame stack
+    assert(Py_REFCNT(frame_09107cff93eae5653f257a274a280cee) == 2); // Frame stack
 
     // Framed code:
     {
@@ -20650,7 +20650,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__36_set_sort_zpos(st
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ab29b294a6e0d3a3da251abbd778e806);
+    RESTORE_FRAME_EXCEPTION(frame_09107cff93eae5653f257a274a280cee);
 #endif
 
     // Put the previous frame back on top.
@@ -20661,18 +20661,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__36_set_sort_zpos(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ab29b294a6e0d3a3da251abbd778e806);
+    RESTORE_FRAME_EXCEPTION(frame_09107cff93eae5653f257a274a280cee);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ab29b294a6e0d3a3da251abbd778e806, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ab29b294a6e0d3a3da251abbd778e806->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ab29b294a6e0d3a3da251abbd778e806, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_09107cff93eae5653f257a274a280cee, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_09107cff93eae5653f257a274a280cee->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_09107cff93eae5653f257a274a280cee, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ab29b294a6e0d3a3da251abbd778e806,
+        frame_09107cff93eae5653f257a274a280cee,
         type_description_1,
         par_self,
         par_val
@@ -20680,17 +20680,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__36_set_sort_zpos(st
 
 
     // Release cached frame if used for exception.
-    if (frame_ab29b294a6e0d3a3da251abbd778e806 == cache_frame_ab29b294a6e0d3a3da251abbd778e806) {
+    if (frame_09107cff93eae5653f257a274a280cee == cache_frame_09107cff93eae5653f257a274a280cee) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ab29b294a6e0d3a3da251abbd778e806);
-        cache_frame_ab29b294a6e0d3a3da251abbd778e806 = NULL;
+        Py_DECREF(cache_frame_09107cff93eae5653f257a274a280cee);
+        cache_frame_09107cff93eae5653f257a274a280cee = NULL;
     }
 
-    assertFrameObject(frame_ab29b294a6e0d3a3da251abbd778e806);
+    assertFrameObject(frame_09107cff93eae5653f257a274a280cee);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -20776,7 +20776,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__37_set_3d_propertie
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_93fbeee15905192d01870bd9369d5046;
+    struct Nuitka_FrameObject *frame_a081f7e24f88a5b1e5ec16d12ef68699;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -20793,7 +20793,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__37_set_3d_propertie
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_93fbeee15905192d01870bd9369d5046 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_a081f7e24f88a5b1e5ec16d12ef68699 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
@@ -20802,31 +20802,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__37_set_3d_propertie
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_93fbeee15905192d01870bd9369d5046)) {
-        Py_XDECREF(cache_frame_93fbeee15905192d01870bd9369d5046);
+    if (isFrameUnusable(cache_frame_a081f7e24f88a5b1e5ec16d12ef68699)) {
+        Py_XDECREF(cache_frame_a081f7e24f88a5b1e5ec16d12ef68699);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_93fbeee15905192d01870bd9369d5046 == NULL) {
+        if (cache_frame_a081f7e24f88a5b1e5ec16d12ef68699 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_93fbeee15905192d01870bd9369d5046 = MAKE_FUNCTION_FRAME(codeobj_93fbeee15905192d01870bd9369d5046, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_a081f7e24f88a5b1e5ec16d12ef68699 = MAKE_FUNCTION_FRAME(codeobj_a081f7e24f88a5b1e5ec16d12ef68699, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_93fbeee15905192d01870bd9369d5046->m_type_description == NULL);
-    frame_93fbeee15905192d01870bd9369d5046 = cache_frame_93fbeee15905192d01870bd9369d5046;
+    assert(cache_frame_a081f7e24f88a5b1e5ec16d12ef68699->m_type_description == NULL);
+    frame_a081f7e24f88a5b1e5ec16d12ef68699 = cache_frame_a081f7e24f88a5b1e5ec16d12ef68699;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_93fbeee15905192d01870bd9369d5046);
+    pushFrameStack(frame_a081f7e24f88a5b1e5ec16d12ef68699);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_93fbeee15905192d01870bd9369d5046) == 2); // Frame stack
+    assert(Py_REFCNT(frame_a081f7e24f88a5b1e5ec16d12ef68699) == 2); // Frame stack
 
     // Framed code:
     {
@@ -20834,7 +20834,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__37_set_3d_propertie
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_93fbeee15905192d01870bd9369d5046->m_frame.f_lineno = 410;
+        frame_a081f7e24f88a5b1e5ec16d12ef68699->m_frame.f_lineno = 410;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[124]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -20864,7 +20864,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__37_set_3d_propertie
         }
 
         tmp_called_instance_2 = par_self;
-        frame_93fbeee15905192d01870bd9369d5046->m_frame.f_lineno = 411;
+        frame_a081f7e24f88a5b1e5ec16d12ef68699->m_frame.f_lineno = 411;
         tmp_assign_source_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[125]);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21180,7 +21180,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__37_set_3d_propertie
         }
         CHECK_OBJECT(par_zs);
         tmp_args_element_name_4 = par_zs;
-        frame_93fbeee15905192d01870bd9369d5046->m_frame.f_lineno = 417;
+        frame_a081f7e24f88a5b1e5ec16d12ef68699->m_frame.f_lineno = 417;
         tmp_args_element_name_3 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[128], tmp_args_element_name_4);
         if (tmp_args_element_name_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21194,7 +21194,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__37_set_3d_propertie
         }
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_5 = par_zdir;
-        frame_93fbeee15905192d01870bd9369d5046->m_frame.f_lineno = 417;
+        frame_a081f7e24f88a5b1e5ec16d12ef68699->m_frame.f_lineno = 417;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_5};
             tmp_assattr_name_1 = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_1, call_args);
@@ -21254,7 +21254,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__37_set_3d_propertie
         }
 
         tmp_called_instance_4 = par_self;
-        frame_93fbeee15905192d01870bd9369d5046->m_frame.f_lineno = 418;
+        frame_a081f7e24f88a5b1e5ec16d12ef68699->m_frame.f_lineno = 418;
         tmp_assattr_name_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_4, mod_consts[96]);
         if (tmp_assattr_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21309,7 +21309,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__37_set_3d_propertie
         }
 
         tmp_called_instance_5 = par_self;
-        frame_93fbeee15905192d01870bd9369d5046->m_frame.f_lineno = 419;
+        frame_a081f7e24f88a5b1e5ec16d12ef68699->m_frame.f_lineno = 419;
         tmp_assattr_name_3 = CALL_METHOD_NO_ARGS(tmp_called_instance_5, mod_consts[130]);
         if (tmp_assattr_name_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21378,7 +21378,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__37_set_3d_propertie
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_93fbeee15905192d01870bd9369d5046);
+    RESTORE_FRAME_EXCEPTION(frame_a081f7e24f88a5b1e5ec16d12ef68699);
 #endif
 
     // Put the previous frame back on top.
@@ -21389,18 +21389,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__37_set_3d_propertie
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_93fbeee15905192d01870bd9369d5046);
+    RESTORE_FRAME_EXCEPTION(frame_a081f7e24f88a5b1e5ec16d12ef68699);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_93fbeee15905192d01870bd9369d5046, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_93fbeee15905192d01870bd9369d5046->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_93fbeee15905192d01870bd9369d5046, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_a081f7e24f88a5b1e5ec16d12ef68699, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_a081f7e24f88a5b1e5ec16d12ef68699->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_a081f7e24f88a5b1e5ec16d12ef68699, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_93fbeee15905192d01870bd9369d5046,
+        frame_a081f7e24f88a5b1e5ec16d12ef68699,
         type_description_1,
         par_self,
         par_zs,
@@ -21412,17 +21412,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__37_set_3d_propertie
 
 
     // Release cached frame if used for exception.
-    if (frame_93fbeee15905192d01870bd9369d5046 == cache_frame_93fbeee15905192d01870bd9369d5046) {
+    if (frame_a081f7e24f88a5b1e5ec16d12ef68699 == cache_frame_a081f7e24f88a5b1e5ec16d12ef68699) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_93fbeee15905192d01870bd9369d5046);
-        cache_frame_93fbeee15905192d01870bd9369d5046 = NULL;
+        Py_DECREF(cache_frame_a081f7e24f88a5b1e5ec16d12ef68699);
+        cache_frame_a081f7e24f88a5b1e5ec16d12ef68699 = NULL;
     }
 
-    assertFrameObject(frame_93fbeee15905192d01870bd9369d5046);
+    assertFrameObject(frame_a081f7e24f88a5b1e5ec16d12ef68699);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -21535,7 +21535,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
     PyObject *tmp_tuple_unpack_2__element_3 = NULL;
     PyObject *tmp_tuple_unpack_2__element_4 = NULL;
     PyObject *tmp_tuple_unpack_2__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_17c4fd654b64f23d19bf5168d7202ac7;
+    struct Nuitka_FrameObject *frame_19e9002d141ffae0decf6cf15a2b4d31;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -21560,7 +21560,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
     PyTracebackObject *exception_keeper_tb_4;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_4;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_17c4fd654b64f23d19bf5168d7202ac7 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_19e9002d141ffae0decf6cf15a2b4d31 = NULL;
     PyObject *exception_keeper_type_5;
     PyObject *exception_keeper_value_5;
     PyTracebackObject *exception_keeper_tb_5;
@@ -21568,31 +21568,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_17c4fd654b64f23d19bf5168d7202ac7)) {
-        Py_XDECREF(cache_frame_17c4fd654b64f23d19bf5168d7202ac7);
+    if (isFrameUnusable(cache_frame_19e9002d141ffae0decf6cf15a2b4d31)) {
+        Py_XDECREF(cache_frame_19e9002d141ffae0decf6cf15a2b4d31);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_17c4fd654b64f23d19bf5168d7202ac7 == NULL) {
+        if (cache_frame_19e9002d141ffae0decf6cf15a2b4d31 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_17c4fd654b64f23d19bf5168d7202ac7 = MAKE_FUNCTION_FRAME(codeobj_17c4fd654b64f23d19bf5168d7202ac7, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_19e9002d141ffae0decf6cf15a2b4d31 = MAKE_FUNCTION_FRAME(codeobj_19e9002d141ffae0decf6cf15a2b4d31, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_17c4fd654b64f23d19bf5168d7202ac7->m_type_description == NULL);
-    frame_17c4fd654b64f23d19bf5168d7202ac7 = cache_frame_17c4fd654b64f23d19bf5168d7202ac7;
+    assert(cache_frame_19e9002d141ffae0decf6cf15a2b4d31->m_type_description == NULL);
+    frame_19e9002d141ffae0decf6cf15a2b4d31 = cache_frame_19e9002d141ffae0decf6cf15a2b4d31;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_17c4fd654b64f23d19bf5168d7202ac7);
+    pushFrameStack(frame_19e9002d141ffae0decf6cf15a2b4d31);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_17c4fd654b64f23d19bf5168d7202ac7) == 2); // Frame stack
+    assert(Py_REFCNT(frame_19e9002d141ffae0decf6cf15a2b4d31) == 2); // Frame stack
 
     // Framed code:
     {
@@ -21617,7 +21617,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
         }
         CHECK_OBJECT(par_self);
         tmp_args_element_name_1 = par_self;
-        frame_17c4fd654b64f23d19bf5168d7202ac7->m_frame.f_lineno = 424;
+        frame_19e9002d141ffae0decf6cf15a2b4d31->m_frame.f_lineno = 424;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -21922,7 +21922,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
             type_description_1 = "ooooooooooo";
             goto try_except_handler_4;
         }
-        frame_17c4fd654b64f23d19bf5168d7202ac7->m_frame.f_lineno = 426;
+        frame_19e9002d141ffae0decf6cf15a2b4d31->m_frame.f_lineno = 426;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_iter_arg_2 = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_2, call_args);
@@ -22291,7 +22291,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
         }
         CHECK_OBJECT(var_vzs);
         tmp_args_element_name_7 = var_vzs;
-        frame_17c4fd654b64f23d19bf5168d7202ac7->m_frame.f_lineno = 428;
+        frame_19e9002d141ffae0decf6cf15a2b4d31->m_frame.f_lineno = 428;
         {
             PyObject *call_args[] = {tmp_args_element_name_6, tmp_args_element_name_7};
             tmp_assign_source_17 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -22398,7 +22398,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
             type_description_1 = "ooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_17c4fd654b64f23d19bf5168d7202ac7->m_frame.f_lineno = 430;
+        frame_19e9002d141ffae0decf6cf15a2b4d31->m_frame.f_lineno = 430;
         {
             PyObject *call_args[] = {tmp_args_element_name_8, tmp_args_element_name_9};
             tmp_assign_source_18 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -22442,7 +22442,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
         tmp_called_instance_1 = par_self;
         CHECK_OBJECT(var_fcs);
         tmp_args_element_name_10 = var_fcs;
-        frame_17c4fd654b64f23d19bf5168d7202ac7->m_frame.f_lineno = 431;
+        frame_19e9002d141ffae0decf6cf15a2b4d31->m_frame.f_lineno = 431;
         tmp_call_result_2 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[136], tmp_args_element_name_10);
         if (tmp_call_result_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -22552,7 +22552,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
         }
         CHECK_OBJECT(var_vzs);
         tmp_args_element_name_12 = var_vzs;
-        frame_17c4fd654b64f23d19bf5168d7202ac7->m_frame.f_lineno = 433;
+        frame_19e9002d141ffae0decf6cf15a2b4d31->m_frame.f_lineno = 433;
         {
             PyObject *call_args[] = {tmp_args_element_name_11, tmp_args_element_name_12};
             tmp_assign_source_19 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_5, call_args);
@@ -22659,7 +22659,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
             type_description_1 = "ooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_17c4fd654b64f23d19bf5168d7202ac7->m_frame.f_lineno = 435;
+        frame_19e9002d141ffae0decf6cf15a2b4d31->m_frame.f_lineno = 435;
         {
             PyObject *call_args[] = {tmp_args_element_name_13, tmp_args_element_name_14};
             tmp_assign_source_20 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_6, call_args);
@@ -22703,7 +22703,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
         tmp_called_instance_2 = par_self;
         CHECK_OBJECT(var_ecs);
         tmp_args_element_name_15 = var_ecs;
-        frame_17c4fd654b64f23d19bf5168d7202ac7->m_frame.f_lineno = 436;
+        frame_19e9002d141ffae0decf6cf15a2b4d31->m_frame.f_lineno = 436;
         tmp_call_result_3 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[137], tmp_args_element_name_15);
         if (tmp_call_result_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -22789,7 +22789,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
         CHECK_OBJECT(var_vys);
         tmp_list_element_1 = var_vys;
         PyList_SET_ITEM0(tmp_args_element_name_18, 1, tmp_list_element_1);
-        frame_17c4fd654b64f23d19bf5168d7202ac7->m_frame.f_lineno = 437;
+        frame_19e9002d141ffae0decf6cf15a2b4d31->m_frame.f_lineno = 437;
         tmp_args_element_name_17 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[81], tmp_args_element_name_18);
         Py_DECREF(tmp_args_element_name_18);
         if (tmp_args_element_name_17 == NULL) {
@@ -22802,7 +22802,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
             type_description_1 = "ooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_17c4fd654b64f23d19bf5168d7202ac7->m_frame.f_lineno = 437;
+        frame_19e9002d141ffae0decf6cf15a2b4d31->m_frame.f_lineno = 437;
         {
             PyObject *call_args[] = {tmp_args_element_name_16, tmp_args_element_name_17};
             tmp_call_result_4 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_7, call_args);
@@ -22893,7 +22893,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
         }
 
         tmp_args_element_name_19 = var_vzs;
-        frame_17c4fd654b64f23d19bf5168d7202ac7->m_frame.f_lineno = 440;
+        frame_19e9002d141ffae0decf6cf15a2b4d31->m_frame.f_lineno = 440;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_8, tmp_args_element_name_19);
         if (tmp_return_value == NULL) {
             assert(ERROR_OCCURRED());
@@ -22943,7 +22943,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
     branch_end_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_17c4fd654b64f23d19bf5168d7202ac7);
+    RESTORE_FRAME_EXCEPTION(frame_19e9002d141ffae0decf6cf15a2b4d31);
 #endif
 
     // Put the previous frame back on top.
@@ -22953,7 +22953,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_17c4fd654b64f23d19bf5168d7202ac7);
+    RESTORE_FRAME_EXCEPTION(frame_19e9002d141ffae0decf6cf15a2b4d31);
 #endif
 
     // Put the previous frame back on top.
@@ -22964,18 +22964,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_17c4fd654b64f23d19bf5168d7202ac7);
+    RESTORE_FRAME_EXCEPTION(frame_19e9002d141ffae0decf6cf15a2b4d31);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_17c4fd654b64f23d19bf5168d7202ac7, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_17c4fd654b64f23d19bf5168d7202ac7->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_17c4fd654b64f23d19bf5168d7202ac7, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_19e9002d141ffae0decf6cf15a2b4d31, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_19e9002d141ffae0decf6cf15a2b4d31->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_19e9002d141ffae0decf6cf15a2b4d31, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_17c4fd654b64f23d19bf5168d7202ac7,
+        frame_19e9002d141ffae0decf6cf15a2b4d31,
         type_description_1,
         par_self,
         par_renderer,
@@ -22992,17 +22992,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection
 
 
     // Release cached frame if used for exception.
-    if (frame_17c4fd654b64f23d19bf5168d7202ac7 == cache_frame_17c4fd654b64f23d19bf5168d7202ac7) {
+    if (frame_19e9002d141ffae0decf6cf15a2b4d31 == cache_frame_19e9002d141ffae0decf6cf15a2b4d31) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_17c4fd654b64f23d19bf5168d7202ac7);
-        cache_frame_17c4fd654b64f23d19bf5168d7202ac7 = NULL;
+        Py_DECREF(cache_frame_19e9002d141ffae0decf6cf15a2b4d31);
+        cache_frame_19e9002d141ffae0decf6cf15a2b4d31 = NULL;
     }
 
-    assertFrameObject(frame_17c4fd654b64f23d19bf5168d7202ac7);
+    assertFrameObject(frame_19e9002d141ffae0decf6cf15a2b4d31);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -23115,7 +23115,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__39___init__(struct 
     PyObject *par_depthshade = python_pars[3];
     PyObject *par_args = python_pars[4];
     PyObject *par_kwargs = python_pars[5];
-    struct Nuitka_FrameObject *frame_08bc12f387a522999e6f55a77e2ff132;
+    struct Nuitka_FrameObject *frame_04dba8d4545bcdc9383259f777be02f0;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -23123,7 +23123,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__39___init__(struct 
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_08bc12f387a522999e6f55a77e2ff132 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_04dba8d4545bcdc9383259f777be02f0 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -23132,31 +23132,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__39___init__(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_08bc12f387a522999e6f55a77e2ff132)) {
-        Py_XDECREF(cache_frame_08bc12f387a522999e6f55a77e2ff132);
+    if (isFrameUnusable(cache_frame_04dba8d4545bcdc9383259f777be02f0)) {
+        Py_XDECREF(cache_frame_04dba8d4545bcdc9383259f777be02f0);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_08bc12f387a522999e6f55a77e2ff132 == NULL) {
+        if (cache_frame_04dba8d4545bcdc9383259f777be02f0 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_08bc12f387a522999e6f55a77e2ff132 = MAKE_FUNCTION_FRAME(codeobj_08bc12f387a522999e6f55a77e2ff132, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_04dba8d4545bcdc9383259f777be02f0 = MAKE_FUNCTION_FRAME(codeobj_04dba8d4545bcdc9383259f777be02f0, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_08bc12f387a522999e6f55a77e2ff132->m_type_description == NULL);
-    frame_08bc12f387a522999e6f55a77e2ff132 = cache_frame_08bc12f387a522999e6f55a77e2ff132;
+    assert(cache_frame_04dba8d4545bcdc9383259f777be02f0->m_type_description == NULL);
+    frame_04dba8d4545bcdc9383259f777be02f0 = cache_frame_04dba8d4545bcdc9383259f777be02f0;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_08bc12f387a522999e6f55a77e2ff132);
+    pushFrameStack(frame_04dba8d4545bcdc9383259f777be02f0);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_08bc12f387a522999e6f55a77e2ff132) == 2); // Frame stack
+    assert(Py_REFCNT(frame_04dba8d4545bcdc9383259f777be02f0) == 2); // Frame stack
 
     // Framed code:
     {
@@ -23258,7 +23258,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__39___init__(struct 
         tmp_args_element_name_1 = par_zs;
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_2 = par_zdir;
-        frame_08bc12f387a522999e6f55a77e2ff132->m_frame.f_lineno = 468;
+        frame_04dba8d4545bcdc9383259f777be02f0->m_frame.f_lineno = 468;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_2 = CALL_METHOD_WITH_ARGS2(
@@ -23282,7 +23282,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__39___init__(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_08bc12f387a522999e6f55a77e2ff132);
+    RESTORE_FRAME_EXCEPTION(frame_04dba8d4545bcdc9383259f777be02f0);
 #endif
 
     // Put the previous frame back on top.
@@ -23293,18 +23293,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__39___init__(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_08bc12f387a522999e6f55a77e2ff132);
+    RESTORE_FRAME_EXCEPTION(frame_04dba8d4545bcdc9383259f777be02f0);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_08bc12f387a522999e6f55a77e2ff132, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_08bc12f387a522999e6f55a77e2ff132->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_08bc12f387a522999e6f55a77e2ff132, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_04dba8d4545bcdc9383259f777be02f0, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_04dba8d4545bcdc9383259f777be02f0->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_04dba8d4545bcdc9383259f777be02f0, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_08bc12f387a522999e6f55a77e2ff132,
+        frame_04dba8d4545bcdc9383259f777be02f0,
         type_description_1,
         par_self,
         par_zs,
@@ -23317,17 +23317,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__39___init__(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_08bc12f387a522999e6f55a77e2ff132 == cache_frame_08bc12f387a522999e6f55a77e2ff132) {
+    if (frame_04dba8d4545bcdc9383259f777be02f0 == cache_frame_04dba8d4545bcdc9383259f777be02f0) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_08bc12f387a522999e6f55a77e2ff132);
-        cache_frame_08bc12f387a522999e6f55a77e2ff132 = NULL;
+        Py_DECREF(cache_frame_04dba8d4545bcdc9383259f777be02f0);
+        cache_frame_04dba8d4545bcdc9383259f777be02f0 = NULL;
     }
 
-    assertFrameObject(frame_08bc12f387a522999e6f55a77e2ff132);
+    assertFrameObject(frame_04dba8d4545bcdc9383259f777be02f0);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -23424,14 +23424,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__40_set_sort_zpos(st
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_val = python_pars[1];
-    struct Nuitka_FrameObject *frame_bd88637a561d6d49696e719f8f3ec799;
+    struct Nuitka_FrameObject *frame_bed77eb0d00065c145103ce4892f47ef;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_bd88637a561d6d49696e719f8f3ec799 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_bed77eb0d00065c145103ce4892f47ef = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -23440,31 +23440,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__40_set_sort_zpos(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_bd88637a561d6d49696e719f8f3ec799)) {
-        Py_XDECREF(cache_frame_bd88637a561d6d49696e719f8f3ec799);
+    if (isFrameUnusable(cache_frame_bed77eb0d00065c145103ce4892f47ef)) {
+        Py_XDECREF(cache_frame_bed77eb0d00065c145103ce4892f47ef);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_bd88637a561d6d49696e719f8f3ec799 == NULL) {
+        if (cache_frame_bed77eb0d00065c145103ce4892f47ef == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_bd88637a561d6d49696e719f8f3ec799 = MAKE_FUNCTION_FRAME(codeobj_bd88637a561d6d49696e719f8f3ec799, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
+        cache_frame_bed77eb0d00065c145103ce4892f47ef = MAKE_FUNCTION_FRAME(codeobj_bed77eb0d00065c145103ce4892f47ef, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_bd88637a561d6d49696e719f8f3ec799->m_type_description == NULL);
-    frame_bd88637a561d6d49696e719f8f3ec799 = cache_frame_bd88637a561d6d49696e719f8f3ec799;
+    assert(cache_frame_bed77eb0d00065c145103ce4892f47ef->m_type_description == NULL);
+    frame_bed77eb0d00065c145103ce4892f47ef = cache_frame_bed77eb0d00065c145103ce4892f47ef;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_bd88637a561d6d49696e719f8f3ec799);
+    pushFrameStack(frame_bed77eb0d00065c145103ce4892f47ef);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_bd88637a561d6d49696e719f8f3ec799) == 2); // Frame stack
+    assert(Py_REFCNT(frame_bed77eb0d00065c145103ce4892f47ef) == 2); // Frame stack
 
     // Framed code:
     {
@@ -23506,7 +23506,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__40_set_sort_zpos(st
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_bd88637a561d6d49696e719f8f3ec799);
+    RESTORE_FRAME_EXCEPTION(frame_bed77eb0d00065c145103ce4892f47ef);
 #endif
 
     // Put the previous frame back on top.
@@ -23517,18 +23517,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__40_set_sort_zpos(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_bd88637a561d6d49696e719f8f3ec799);
+    RESTORE_FRAME_EXCEPTION(frame_bed77eb0d00065c145103ce4892f47ef);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_bd88637a561d6d49696e719f8f3ec799, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_bd88637a561d6d49696e719f8f3ec799->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_bd88637a561d6d49696e719f8f3ec799, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_bed77eb0d00065c145103ce4892f47ef, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_bed77eb0d00065c145103ce4892f47ef->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_bed77eb0d00065c145103ce4892f47ef, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_bd88637a561d6d49696e719f8f3ec799,
+        frame_bed77eb0d00065c145103ce4892f47ef,
         type_description_1,
         par_self,
         par_val
@@ -23536,17 +23536,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__40_set_sort_zpos(st
 
 
     // Release cached frame if used for exception.
-    if (frame_bd88637a561d6d49696e719f8f3ec799 == cache_frame_bd88637a561d6d49696e719f8f3ec799) {
+    if (frame_bed77eb0d00065c145103ce4892f47ef == cache_frame_bed77eb0d00065c145103ce4892f47ef) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_bd88637a561d6d49696e719f8f3ec799);
-        cache_frame_bd88637a561d6d49696e719f8f3ec799 = NULL;
+        Py_DECREF(cache_frame_bed77eb0d00065c145103ce4892f47ef);
+        cache_frame_bed77eb0d00065c145103ce4892f47ef = NULL;
     }
 
-    assertFrameObject(frame_bd88637a561d6d49696e719f8f3ec799);
+    assertFrameObject(frame_bed77eb0d00065c145103ce4892f47ef);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -23632,7 +23632,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__41_set_3d_propertie
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_9d8e7e02ef5877a5b245a25219b89693;
+    struct Nuitka_FrameObject *frame_9f18279adaeb21d7617e26715c8ffcd4;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -23649,7 +23649,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__41_set_3d_propertie
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_9d8e7e02ef5877a5b245a25219b89693 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_9f18279adaeb21d7617e26715c8ffcd4 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
@@ -23658,31 +23658,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__41_set_3d_propertie
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_9d8e7e02ef5877a5b245a25219b89693)) {
-        Py_XDECREF(cache_frame_9d8e7e02ef5877a5b245a25219b89693);
+    if (isFrameUnusable(cache_frame_9f18279adaeb21d7617e26715c8ffcd4)) {
+        Py_XDECREF(cache_frame_9f18279adaeb21d7617e26715c8ffcd4);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_9d8e7e02ef5877a5b245a25219b89693 == NULL) {
+        if (cache_frame_9f18279adaeb21d7617e26715c8ffcd4 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_9d8e7e02ef5877a5b245a25219b89693 = MAKE_FUNCTION_FRAME(codeobj_9d8e7e02ef5877a5b245a25219b89693, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_9f18279adaeb21d7617e26715c8ffcd4 = MAKE_FUNCTION_FRAME(codeobj_9f18279adaeb21d7617e26715c8ffcd4, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_9d8e7e02ef5877a5b245a25219b89693->m_type_description == NULL);
-    frame_9d8e7e02ef5877a5b245a25219b89693 = cache_frame_9d8e7e02ef5877a5b245a25219b89693;
+    assert(cache_frame_9f18279adaeb21d7617e26715c8ffcd4->m_type_description == NULL);
+    frame_9f18279adaeb21d7617e26715c8ffcd4 = cache_frame_9f18279adaeb21d7617e26715c8ffcd4;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_9d8e7e02ef5877a5b245a25219b89693);
+    pushFrameStack(frame_9f18279adaeb21d7617e26715c8ffcd4);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_9d8e7e02ef5877a5b245a25219b89693) == 2); // Frame stack
+    assert(Py_REFCNT(frame_9f18279adaeb21d7617e26715c8ffcd4) == 2); // Frame stack
 
     // Framed code:
     {
@@ -23690,7 +23690,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__41_set_3d_propertie
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_9d8e7e02ef5877a5b245a25219b89693->m_frame.f_lineno = 478;
+        frame_9f18279adaeb21d7617e26715c8ffcd4->m_frame.f_lineno = 478;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[124]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -23720,7 +23720,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__41_set_3d_propertie
         }
 
         tmp_called_instance_2 = par_self;
-        frame_9d8e7e02ef5877a5b245a25219b89693->m_frame.f_lineno = 479;
+        frame_9f18279adaeb21d7617e26715c8ffcd4->m_frame.f_lineno = 479;
         tmp_assign_source_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_2, mod_consts[125]);
         if (tmp_assign_source_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24036,7 +24036,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__41_set_3d_propertie
         }
         CHECK_OBJECT(par_zs);
         tmp_args_element_name_4 = par_zs;
-        frame_9d8e7e02ef5877a5b245a25219b89693->m_frame.f_lineno = 485;
+        frame_9f18279adaeb21d7617e26715c8ffcd4->m_frame.f_lineno = 485;
         tmp_args_element_name_3 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[128], tmp_args_element_name_4);
         if (tmp_args_element_name_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24050,7 +24050,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__41_set_3d_propertie
         }
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_5 = par_zdir;
-        frame_9d8e7e02ef5877a5b245a25219b89693->m_frame.f_lineno = 485;
+        frame_9f18279adaeb21d7617e26715c8ffcd4->m_frame.f_lineno = 485;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_5};
             tmp_assattr_name_1 = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_1, call_args);
@@ -24110,7 +24110,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__41_set_3d_propertie
         }
 
         tmp_called_instance_4 = par_self;
-        frame_9d8e7e02ef5877a5b245a25219b89693->m_frame.f_lineno = 486;
+        frame_9f18279adaeb21d7617e26715c8ffcd4->m_frame.f_lineno = 486;
         tmp_assattr_name_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_4, mod_consts[96]);
         if (tmp_assattr_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24165,7 +24165,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__41_set_3d_propertie
         }
 
         tmp_called_instance_5 = par_self;
-        frame_9d8e7e02ef5877a5b245a25219b89693->m_frame.f_lineno = 487;
+        frame_9f18279adaeb21d7617e26715c8ffcd4->m_frame.f_lineno = 487;
         tmp_assattr_name_3 = CALL_METHOD_NO_ARGS(tmp_called_instance_5, mod_consts[130]);
         if (tmp_assattr_name_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24220,7 +24220,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__41_set_3d_propertie
         }
 
         tmp_called_instance_6 = par_self;
-        frame_9d8e7e02ef5877a5b245a25219b89693->m_frame.f_lineno = 488;
+        frame_9f18279adaeb21d7617e26715c8ffcd4->m_frame.f_lineno = 488;
         tmp_assattr_name_4 = CALL_METHOD_NO_ARGS(tmp_called_instance_6, mod_consts[144]);
         if (tmp_assattr_name_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24275,7 +24275,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__41_set_3d_propertie
         }
 
         tmp_called_instance_7 = par_self;
-        frame_9d8e7e02ef5877a5b245a25219b89693->m_frame.f_lineno = 489;
+        frame_9f18279adaeb21d7617e26715c8ffcd4->m_frame.f_lineno = 489;
         tmp_assattr_name_5 = CALL_METHOD_NO_ARGS(tmp_called_instance_7, mod_consts[146]);
         if (tmp_assattr_name_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24344,7 +24344,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__41_set_3d_propertie
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9d8e7e02ef5877a5b245a25219b89693);
+    RESTORE_FRAME_EXCEPTION(frame_9f18279adaeb21d7617e26715c8ffcd4);
 #endif
 
     // Put the previous frame back on top.
@@ -24355,18 +24355,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__41_set_3d_propertie
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9d8e7e02ef5877a5b245a25219b89693);
+    RESTORE_FRAME_EXCEPTION(frame_9f18279adaeb21d7617e26715c8ffcd4);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_9d8e7e02ef5877a5b245a25219b89693, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_9d8e7e02ef5877a5b245a25219b89693->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_9d8e7e02ef5877a5b245a25219b89693, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_9f18279adaeb21d7617e26715c8ffcd4, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_9f18279adaeb21d7617e26715c8ffcd4->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_9f18279adaeb21d7617e26715c8ffcd4, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_9d8e7e02ef5877a5b245a25219b89693,
+        frame_9f18279adaeb21d7617e26715c8ffcd4,
         type_description_1,
         par_self,
         par_zs,
@@ -24378,17 +24378,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__41_set_3d_propertie
 
 
     // Release cached frame if used for exception.
-    if (frame_9d8e7e02ef5877a5b245a25219b89693 == cache_frame_9d8e7e02ef5877a5b245a25219b89693) {
+    if (frame_9f18279adaeb21d7617e26715c8ffcd4 == cache_frame_9f18279adaeb21d7617e26715c8ffcd4) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_9d8e7e02ef5877a5b245a25219b89693);
-        cache_frame_9d8e7e02ef5877a5b245a25219b89693 = NULL;
+        Py_DECREF(cache_frame_9f18279adaeb21d7617e26715c8ffcd4);
+        cache_frame_9f18279adaeb21d7617e26715c8ffcd4 = NULL;
     }
 
-    assertFrameObject(frame_9d8e7e02ef5877a5b245a25219b89693);
+    assertFrameObject(frame_9f18279adaeb21d7617e26715c8ffcd4);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -24505,7 +24505,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
     PyObject *tmp_tuple_unpack_2__element_3 = NULL;
     PyObject *tmp_tuple_unpack_2__element_4 = NULL;
     PyObject *tmp_tuple_unpack_2__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_525e5049da746999f737807fc701aa50;
+    struct Nuitka_FrameObject *frame_aec5e178050cac6046fffe47015e5831;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -24530,7 +24530,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
     PyTracebackObject *exception_keeper_tb_4;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_4;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_525e5049da746999f737807fc701aa50 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_aec5e178050cac6046fffe47015e5831 = NULL;
     PyObject *exception_keeper_type_5;
     PyObject *exception_keeper_value_5;
     PyTracebackObject *exception_keeper_tb_5;
@@ -24538,31 +24538,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_525e5049da746999f737807fc701aa50)) {
-        Py_XDECREF(cache_frame_525e5049da746999f737807fc701aa50);
+    if (isFrameUnusable(cache_frame_aec5e178050cac6046fffe47015e5831)) {
+        Py_XDECREF(cache_frame_aec5e178050cac6046fffe47015e5831);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_525e5049da746999f737807fc701aa50 == NULL) {
+        if (cache_frame_aec5e178050cac6046fffe47015e5831 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_525e5049da746999f737807fc701aa50 = MAKE_FUNCTION_FRAME(codeobj_525e5049da746999f737807fc701aa50, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_aec5e178050cac6046fffe47015e5831 = MAKE_FUNCTION_FRAME(codeobj_aec5e178050cac6046fffe47015e5831, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_525e5049da746999f737807fc701aa50->m_type_description == NULL);
-    frame_525e5049da746999f737807fc701aa50 = cache_frame_525e5049da746999f737807fc701aa50;
+    assert(cache_frame_aec5e178050cac6046fffe47015e5831->m_type_description == NULL);
+    frame_aec5e178050cac6046fffe47015e5831 = cache_frame_aec5e178050cac6046fffe47015e5831;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_525e5049da746999f737807fc701aa50);
+    pushFrameStack(frame_aec5e178050cac6046fffe47015e5831);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_525e5049da746999f737807fc701aa50) == 2); // Frame stack
+    assert(Py_REFCNT(frame_aec5e178050cac6046fffe47015e5831) == 2); // Frame stack
 
     // Framed code:
     {
@@ -24587,7 +24587,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
         }
         CHECK_OBJECT(par_self);
         tmp_args_element_name_1 = par_self;
-        frame_525e5049da746999f737807fc701aa50->m_frame.f_lineno = 494;
+        frame_aec5e178050cac6046fffe47015e5831->m_frame.f_lineno = 494;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -24892,7 +24892,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_4;
         }
-        frame_525e5049da746999f737807fc701aa50->m_frame.f_lineno = 496;
+        frame_aec5e178050cac6046fffe47015e5831->m_frame.f_lineno = 496;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_iter_arg_2 = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_2, call_args);
@@ -25261,7 +25261,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
         }
         CHECK_OBJECT(var_vzs);
         tmp_args_element_name_7 = var_vzs;
-        frame_525e5049da746999f737807fc701aa50->m_frame.f_lineno = 498;
+        frame_aec5e178050cac6046fffe47015e5831->m_frame.f_lineno = 498;
         {
             PyObject *call_args[] = {tmp_args_element_name_6, tmp_args_element_name_7};
             tmp_assign_source_17 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -25404,7 +25404,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
         }
         CHECK_OBJECT(var_vzs);
         tmp_args_element_name_9 = var_vzs;
-        frame_525e5049da746999f737807fc701aa50->m_frame.f_lineno = 500;
+        frame_aec5e178050cac6046fffe47015e5831->m_frame.f_lineno = 500;
         {
             PyObject *call_args[] = {tmp_args_element_name_8, tmp_args_element_name_9};
             tmp_assign_source_18 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -25535,7 +25535,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
         }
         CHECK_OBJECT(var_vzs);
         tmp_args_element_name_10 = var_vzs;
-        frame_525e5049da746999f737807fc701aa50->m_frame.f_lineno = 508;
+        frame_aec5e178050cac6046fffe47015e5831->m_frame.f_lineno = 508;
         tmp_expression_name_12 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[148], tmp_args_element_name_10);
         if (tmp_expression_name_12 == NULL) {
             assert(ERROR_OCCURRED());
@@ -25962,7 +25962,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
         CHECK_OBJECT(var_vys);
         tmp_tuple_element_1 = var_vys;
         PyTuple_SET_ITEM0(tmp_args_element_name_11, 1, tmp_tuple_element_1);
-        frame_525e5049da746999f737807fc701aa50->m_frame.f_lineno = 522;
+        frame_aec5e178050cac6046fffe47015e5831->m_frame.f_lineno = 522;
         tmp_assign_source_29 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[81], tmp_args_element_name_11);
         Py_DECREF(tmp_args_element_name_11);
         if (tmp_assign_source_29 == NULL) {
@@ -26049,7 +26049,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
             type_description_1 = "ooooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_525e5049da746999f737807fc701aa50->m_frame.f_lineno = 524;
+        frame_aec5e178050cac6046fffe47015e5831->m_frame.f_lineno = 524;
         {
             PyObject *call_args[] = {tmp_args_element_name_12, tmp_args_element_name_13};
             tmp_assign_source_30 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_5, call_args);
@@ -26145,7 +26145,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
             type_description_1 = "ooooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_525e5049da746999f737807fc701aa50->m_frame.f_lineno = 525;
+        frame_aec5e178050cac6046fffe47015e5831->m_frame.f_lineno = 525;
         {
             PyObject *call_args[] = {tmp_args_element_name_14, tmp_args_element_name_15};
             tmp_assign_source_31 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_6, call_args);
@@ -26189,7 +26189,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
         tmp_called_instance_3 = par_self;
         CHECK_OBJECT(var_ecs);
         tmp_args_element_name_16 = var_ecs;
-        frame_525e5049da746999f737807fc701aa50->m_frame.f_lineno = 527;
+        frame_aec5e178050cac6046fffe47015e5831->m_frame.f_lineno = 527;
         tmp_call_result_2 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[137], tmp_args_element_name_16);
         if (tmp_call_result_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -26222,7 +26222,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
         tmp_called_instance_4 = par_self;
         CHECK_OBJECT(var_fcs);
         tmp_args_element_name_17 = var_fcs;
-        frame_525e5049da746999f737807fc701aa50->m_frame.f_lineno = 528;
+        frame_aec5e178050cac6046fffe47015e5831->m_frame.f_lineno = 528;
         tmp_call_result_3 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_4, mod_consts[136], tmp_args_element_name_17);
         if (tmp_call_result_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -26278,7 +26278,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
         }
 
         tmp_args_element_name_18 = var_sizes;
-        frame_525e5049da746999f737807fc701aa50->m_frame.f_lineno = 529;
+        frame_aec5e178050cac6046fffe47015e5831->m_frame.f_lineno = 529;
         tmp_call_result_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_7, tmp_args_element_name_18);
         Py_DECREF(tmp_called_name_7);
         if (tmp_call_result_4 == NULL) {
@@ -26335,7 +26335,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
         }
 
         tmp_args_element_name_19 = var_lws;
-        frame_525e5049da746999f737807fc701aa50->m_frame.f_lineno = 530;
+        frame_aec5e178050cac6046fffe47015e5831->m_frame.f_lineno = 530;
         tmp_call_result_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_8, tmp_args_element_name_19);
         Py_DECREF(tmp_called_name_8);
         if (tmp_call_result_5 == NULL) {
@@ -26398,7 +26398,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
         tmp_args_element_name_20 = par_self;
         CHECK_OBJECT(var_vps);
         tmp_args_element_name_21 = var_vps;
-        frame_525e5049da746999f737807fc701aa50->m_frame.f_lineno = 532;
+        frame_aec5e178050cac6046fffe47015e5831->m_frame.f_lineno = 532;
         {
             PyObject *call_args[] = {tmp_args_element_name_20, tmp_args_element_name_21};
             tmp_call_result_6 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_9, call_args);
@@ -26498,7 +26498,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
         }
 
         tmp_args_element_name_22 = var_vzs;
-        frame_525e5049da746999f737807fc701aa50->m_frame.f_lineno = 534;
+        frame_aec5e178050cac6046fffe47015e5831->m_frame.f_lineno = 534;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_10, tmp_args_element_name_22);
         Py_DECREF(tmp_called_name_10);
         if (tmp_return_value == NULL) {
@@ -26545,7 +26545,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_525e5049da746999f737807fc701aa50);
+    RESTORE_FRAME_EXCEPTION(frame_aec5e178050cac6046fffe47015e5831);
 #endif
 
     // Put the previous frame back on top.
@@ -26555,7 +26555,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_525e5049da746999f737807fc701aa50);
+    RESTORE_FRAME_EXCEPTION(frame_aec5e178050cac6046fffe47015e5831);
 #endif
 
     // Put the previous frame back on top.
@@ -26566,18 +26566,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_525e5049da746999f737807fc701aa50);
+    RESTORE_FRAME_EXCEPTION(frame_aec5e178050cac6046fffe47015e5831);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_525e5049da746999f737807fc701aa50, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_525e5049da746999f737807fc701aa50->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_525e5049da746999f737807fc701aa50, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_aec5e178050cac6046fffe47015e5831, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_aec5e178050cac6046fffe47015e5831->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_aec5e178050cac6046fffe47015e5831, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_525e5049da746999f737807fc701aa50,
+        frame_aec5e178050cac6046fffe47015e5831,
         type_description_1,
         par_self,
         par_renderer,
@@ -26598,17 +26598,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection
 
 
     // Release cached frame if used for exception.
-    if (frame_525e5049da746999f737807fc701aa50 == cache_frame_525e5049da746999f737807fc701aa50) {
+    if (frame_aec5e178050cac6046fffe47015e5831 == cache_frame_aec5e178050cac6046fffe47015e5831) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_525e5049da746999f737807fc701aa50);
-        cache_frame_525e5049da746999f737807fc701aa50 = NULL;
+        Py_DECREF(cache_frame_aec5e178050cac6046fffe47015e5831);
+        cache_frame_aec5e178050cac6046fffe47015e5831 = NULL;
     }
 
-    assertFrameObject(frame_525e5049da746999f737807fc701aa50);
+    assertFrameObject(frame_aec5e178050cac6046fffe47015e5831);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -26735,7 +26735,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__43__update_scalarma
     PyObject *par_sm = python_pars[0];
     PyObject *var_copy_state = NULL;
     PyObject *var_ret = NULL;
-    struct Nuitka_FrameObject *frame_24ef3eaffa95a6952d65244d94dfdceb;
+    struct Nuitka_FrameObject *frame_a304a22c244c411591ffccaf17317fb3;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -26743,7 +26743,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__43__update_scalarma
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_24ef3eaffa95a6952d65244d94dfdceb = NULL;
+    static struct Nuitka_FrameObject *cache_frame_a304a22c244c411591ffccaf17317fb3 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -26751,31 +26751,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__43__update_scalarma
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_24ef3eaffa95a6952d65244d94dfdceb)) {
-        Py_XDECREF(cache_frame_24ef3eaffa95a6952d65244d94dfdceb);
+    if (isFrameUnusable(cache_frame_a304a22c244c411591ffccaf17317fb3)) {
+        Py_XDECREF(cache_frame_a304a22c244c411591ffccaf17317fb3);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_24ef3eaffa95a6952d65244d94dfdceb == NULL) {
+        if (cache_frame_a304a22c244c411591ffccaf17317fb3 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_24ef3eaffa95a6952d65244d94dfdceb = MAKE_FUNCTION_FRAME(codeobj_24ef3eaffa95a6952d65244d94dfdceb, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_a304a22c244c411591ffccaf17317fb3 = MAKE_FUNCTION_FRAME(codeobj_a304a22c244c411591ffccaf17317fb3, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_24ef3eaffa95a6952d65244d94dfdceb->m_type_description == NULL);
-    frame_24ef3eaffa95a6952d65244d94dfdceb = cache_frame_24ef3eaffa95a6952d65244d94dfdceb;
+    assert(cache_frame_a304a22c244c411591ffccaf17317fb3->m_type_description == NULL);
+    frame_a304a22c244c411591ffccaf17317fb3 = cache_frame_a304a22c244c411591ffccaf17317fb3;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_24ef3eaffa95a6952d65244d94dfdceb);
+    pushFrameStack(frame_a304a22c244c411591ffccaf17317fb3);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_24ef3eaffa95a6952d65244d94dfdceb) == 2); // Frame stack
+    assert(Py_REFCNT(frame_a304a22c244c411591ffccaf17317fb3) == 2); // Frame stack
 
     // Framed code:
     {
@@ -26871,7 +26871,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__43__update_scalarma
         }
 
         tmp_called_instance_1 = par_sm;
-        frame_24ef3eaffa95a6952d65244d94dfdceb->m_frame.f_lineno = 600;
+        frame_a304a22c244c411591ffccaf17317fb3->m_frame.f_lineno = 600;
         tmp_assign_source_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[124]);
         if (tmp_assign_source_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -27122,7 +27122,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__43__update_scalarma
     branch_no_2:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_24ef3eaffa95a6952d65244d94dfdceb);
+    RESTORE_FRAME_EXCEPTION(frame_a304a22c244c411591ffccaf17317fb3);
 #endif
 
     // Put the previous frame back on top.
@@ -27132,7 +27132,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__43__update_scalarma
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_24ef3eaffa95a6952d65244d94dfdceb);
+    RESTORE_FRAME_EXCEPTION(frame_a304a22c244c411591ffccaf17317fb3);
 #endif
 
     // Put the previous frame back on top.
@@ -27143,18 +27143,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__43__update_scalarma
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_24ef3eaffa95a6952d65244d94dfdceb);
+    RESTORE_FRAME_EXCEPTION(frame_a304a22c244c411591ffccaf17317fb3);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_24ef3eaffa95a6952d65244d94dfdceb, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_24ef3eaffa95a6952d65244d94dfdceb->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_24ef3eaffa95a6952d65244d94dfdceb, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_a304a22c244c411591ffccaf17317fb3, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_a304a22c244c411591ffccaf17317fb3->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_a304a22c244c411591ffccaf17317fb3, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_24ef3eaffa95a6952d65244d94dfdceb,
+        frame_a304a22c244c411591ffccaf17317fb3,
         type_description_1,
         par_sm,
         var_copy_state,
@@ -27163,17 +27163,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__43__update_scalarma
 
 
     // Release cached frame if used for exception.
-    if (frame_24ef3eaffa95a6952d65244d94dfdceb == cache_frame_24ef3eaffa95a6952d65244d94dfdceb) {
+    if (frame_a304a22c244c411591ffccaf17317fb3 == cache_frame_a304a22c244c411591ffccaf17317fb3) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_24ef3eaffa95a6952d65244d94dfdceb);
-        cache_frame_24ef3eaffa95a6952d65244d94dfdceb = NULL;
+        Py_DECREF(cache_frame_a304a22c244c411591ffccaf17317fb3);
+        cache_frame_a304a22c244c411591ffccaf17317fb3 = NULL;
     }
 
-    assertFrameObject(frame_24ef3eaffa95a6952d65244d94dfdceb);
+    assertFrameObject(frame_a304a22c244c411591ffccaf17317fb3);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -27254,7 +27254,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__44_patch_collection
     PyObject *par_zs = python_pars[1];
     PyObject *par_zdir = python_pars[2];
     PyObject *par_depthshade = python_pars[3];
-    struct Nuitka_FrameObject *frame_05e5198d983f0aaef53582907daaf9ba;
+    struct Nuitka_FrameObject *frame_d376a0253a738d1ca16bd2d9711bb86e;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -27263,7 +27263,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__44_patch_collection
     int tmp_res;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_05e5198d983f0aaef53582907daaf9ba = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d376a0253a738d1ca16bd2d9711bb86e = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -27272,31 +27272,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__44_patch_collection
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_05e5198d983f0aaef53582907daaf9ba)) {
-        Py_XDECREF(cache_frame_05e5198d983f0aaef53582907daaf9ba);
+    if (isFrameUnusable(cache_frame_d376a0253a738d1ca16bd2d9711bb86e)) {
+        Py_XDECREF(cache_frame_d376a0253a738d1ca16bd2d9711bb86e);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_05e5198d983f0aaef53582907daaf9ba == NULL) {
+        if (cache_frame_d376a0253a738d1ca16bd2d9711bb86e == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_05e5198d983f0aaef53582907daaf9ba = MAKE_FUNCTION_FRAME(codeobj_05e5198d983f0aaef53582907daaf9ba, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_d376a0253a738d1ca16bd2d9711bb86e = MAKE_FUNCTION_FRAME(codeobj_d376a0253a738d1ca16bd2d9711bb86e, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_05e5198d983f0aaef53582907daaf9ba->m_type_description == NULL);
-    frame_05e5198d983f0aaef53582907daaf9ba = cache_frame_05e5198d983f0aaef53582907daaf9ba;
+    assert(cache_frame_d376a0253a738d1ca16bd2d9711bb86e->m_type_description == NULL);
+    frame_d376a0253a738d1ca16bd2d9711bb86e = cache_frame_d376a0253a738d1ca16bd2d9711bb86e;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_05e5198d983f0aaef53582907daaf9ba);
+    pushFrameStack(frame_d376a0253a738d1ca16bd2d9711bb86e);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_05e5198d983f0aaef53582907daaf9ba) == 2); // Frame stack
+    assert(Py_REFCNT(frame_d376a0253a738d1ca16bd2d9711bb86e) == 2); // Frame stack
 
     // Framed code:
     {
@@ -27481,7 +27481,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__44_patch_collection
         tmp_args_element_name_1 = par_zs;
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_2 = par_zdir;
-        frame_05e5198d983f0aaef53582907daaf9ba->m_frame.f_lineno = 631;
+        frame_d376a0253a738d1ca16bd2d9711bb86e->m_frame.f_lineno = 631;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS2(
@@ -27505,7 +27505,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__44_patch_collection
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_05e5198d983f0aaef53582907daaf9ba);
+    RESTORE_FRAME_EXCEPTION(frame_d376a0253a738d1ca16bd2d9711bb86e);
 #endif
 
     // Put the previous frame back on top.
@@ -27516,18 +27516,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__44_patch_collection
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_05e5198d983f0aaef53582907daaf9ba);
+    RESTORE_FRAME_EXCEPTION(frame_d376a0253a738d1ca16bd2d9711bb86e);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_05e5198d983f0aaef53582907daaf9ba, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_05e5198d983f0aaef53582907daaf9ba->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_05e5198d983f0aaef53582907daaf9ba, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d376a0253a738d1ca16bd2d9711bb86e, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d376a0253a738d1ca16bd2d9711bb86e->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d376a0253a738d1ca16bd2d9711bb86e, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_05e5198d983f0aaef53582907daaf9ba,
+        frame_d376a0253a738d1ca16bd2d9711bb86e,
         type_description_1,
         par_col,
         par_zs,
@@ -27537,17 +27537,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__44_patch_collection
 
 
     // Release cached frame if used for exception.
-    if (frame_05e5198d983f0aaef53582907daaf9ba == cache_frame_05e5198d983f0aaef53582907daaf9ba) {
+    if (frame_d376a0253a738d1ca16bd2d9711bb86e == cache_frame_d376a0253a738d1ca16bd2d9711bb86e) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_05e5198d983f0aaef53582907daaf9ba);
-        cache_frame_05e5198d983f0aaef53582907daaf9ba = NULL;
+        Py_DECREF(cache_frame_d376a0253a738d1ca16bd2d9711bb86e);
+        cache_frame_d376a0253a738d1ca16bd2d9711bb86e = NULL;
     }
 
-    assertFrameObject(frame_05e5198d983f0aaef53582907daaf9ba);
+    assertFrameObject(frame_d376a0253a738d1ca16bd2d9711bb86e);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -27635,7 +27635,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__45___init__(struct 
     PyObject *par_zsort = python_pars[2];
     PyObject *par_args = python_pars[3];
     PyObject *par_kwargs = python_pars[4];
-    struct Nuitka_FrameObject *frame_166100917f7a592c435b808f312d955d;
+    struct Nuitka_FrameObject *frame_1f16a44144fe99a39bbff51e31bd4d58;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -27643,7 +27643,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__45___init__(struct 
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_166100917f7a592c435b808f312d955d = NULL;
+    static struct Nuitka_FrameObject *cache_frame_1f16a44144fe99a39bbff51e31bd4d58 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -27652,31 +27652,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__45___init__(struct 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_166100917f7a592c435b808f312d955d)) {
-        Py_XDECREF(cache_frame_166100917f7a592c435b808f312d955d);
+    if (isFrameUnusable(cache_frame_1f16a44144fe99a39bbff51e31bd4d58)) {
+        Py_XDECREF(cache_frame_1f16a44144fe99a39bbff51e31bd4d58);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_166100917f7a592c435b808f312d955d == NULL) {
+        if (cache_frame_1f16a44144fe99a39bbff51e31bd4d58 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_166100917f7a592c435b808f312d955d = MAKE_FUNCTION_FRAME(codeobj_166100917f7a592c435b808f312d955d, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_1f16a44144fe99a39bbff51e31bd4d58 = MAKE_FUNCTION_FRAME(codeobj_1f16a44144fe99a39bbff51e31bd4d58, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_166100917f7a592c435b808f312d955d->m_type_description == NULL);
-    frame_166100917f7a592c435b808f312d955d = cache_frame_166100917f7a592c435b808f312d955d;
+    assert(cache_frame_1f16a44144fe99a39bbff51e31bd4d58->m_type_description == NULL);
+    frame_1f16a44144fe99a39bbff51e31bd4d58 = cache_frame_1f16a44144fe99a39bbff51e31bd4d58;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_166100917f7a592c435b808f312d955d);
+    pushFrameStack(frame_1f16a44144fe99a39bbff51e31bd4d58);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_166100917f7a592c435b808f312d955d) == 2); // Frame stack
+    assert(Py_REFCNT(frame_1f16a44144fe99a39bbff51e31bd4d58) == 2); // Frame stack
 
     // Framed code:
     {
@@ -27762,7 +27762,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__45___init__(struct 
         tmp_called_instance_1 = par_self;
         CHECK_OBJECT(par_zsort);
         tmp_args_element_name_1 = par_zsort;
-        frame_166100917f7a592c435b808f312d955d->m_frame.f_lineno = 674;
+        frame_1f16a44144fe99a39bbff51e31bd4d58->m_frame.f_lineno = 674;
         tmp_call_result_2 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[168], tmp_args_element_name_1);
         if (tmp_call_result_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -27807,7 +27807,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__45___init__(struct 
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_166100917f7a592c435b808f312d955d);
+    RESTORE_FRAME_EXCEPTION(frame_1f16a44144fe99a39bbff51e31bd4d58);
 #endif
 
     // Put the previous frame back on top.
@@ -27818,18 +27818,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__45___init__(struct 
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_166100917f7a592c435b808f312d955d);
+    RESTORE_FRAME_EXCEPTION(frame_1f16a44144fe99a39bbff51e31bd4d58);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_166100917f7a592c435b808f312d955d, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_166100917f7a592c435b808f312d955d->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_166100917f7a592c435b808f312d955d, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_1f16a44144fe99a39bbff51e31bd4d58, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_1f16a44144fe99a39bbff51e31bd4d58->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_1f16a44144fe99a39bbff51e31bd4d58, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_166100917f7a592c435b808f312d955d,
+        frame_1f16a44144fe99a39bbff51e31bd4d58,
         type_description_1,
         par_self,
         par_verts,
@@ -27841,17 +27841,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__45___init__(struct 
 
 
     // Release cached frame if used for exception.
-    if (frame_166100917f7a592c435b808f312d955d == cache_frame_166100917f7a592c435b808f312d955d) {
+    if (frame_1f16a44144fe99a39bbff51e31bd4d58 == cache_frame_1f16a44144fe99a39bbff51e31bd4d58) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_166100917f7a592c435b808f312d955d);
-        cache_frame_166100917f7a592c435b808f312d955d = NULL;
+        Py_DECREF(cache_frame_1f16a44144fe99a39bbff51e31bd4d58);
+        cache_frame_1f16a44144fe99a39bbff51e31bd4d58 = NULL;
     }
 
-    assertFrameObject(frame_166100917f7a592c435b808f312d955d);
+    assertFrameObject(frame_1f16a44144fe99a39bbff51e31bd4d58);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -27944,14 +27944,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__46_set_zsort(struct
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_zsort = python_pars[1];
-    struct Nuitka_FrameObject *frame_beec34d580ef781d2fe34f73ee1209b4;
+    struct Nuitka_FrameObject *frame_87e7883400ccbc9cd932ed7e438de200;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_beec34d580ef781d2fe34f73ee1209b4 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_87e7883400ccbc9cd932ed7e438de200 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -27960,31 +27960,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__46_set_zsort(struct
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_beec34d580ef781d2fe34f73ee1209b4)) {
-        Py_XDECREF(cache_frame_beec34d580ef781d2fe34f73ee1209b4);
+    if (isFrameUnusable(cache_frame_87e7883400ccbc9cd932ed7e438de200)) {
+        Py_XDECREF(cache_frame_87e7883400ccbc9cd932ed7e438de200);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_beec34d580ef781d2fe34f73ee1209b4 == NULL) {
+        if (cache_frame_87e7883400ccbc9cd932ed7e438de200 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_beec34d580ef781d2fe34f73ee1209b4 = MAKE_FUNCTION_FRAME(codeobj_beec34d580ef781d2fe34f73ee1209b4, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
+        cache_frame_87e7883400ccbc9cd932ed7e438de200 = MAKE_FUNCTION_FRAME(codeobj_87e7883400ccbc9cd932ed7e438de200, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_beec34d580ef781d2fe34f73ee1209b4->m_type_description == NULL);
-    frame_beec34d580ef781d2fe34f73ee1209b4 = cache_frame_beec34d580ef781d2fe34f73ee1209b4;
+    assert(cache_frame_87e7883400ccbc9cd932ed7e438de200->m_type_description == NULL);
+    frame_87e7883400ccbc9cd932ed7e438de200 = cache_frame_87e7883400ccbc9cd932ed7e438de200;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_beec34d580ef781d2fe34f73ee1209b4);
+    pushFrameStack(frame_87e7883400ccbc9cd932ed7e438de200);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_beec34d580ef781d2fe34f73ee1209b4) == 2); // Frame stack
+    assert(Py_REFCNT(frame_87e7883400ccbc9cd932ed7e438de200) == 2); // Frame stack
 
     // Framed code:
     {
@@ -28106,7 +28106,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__46_set_zsort(struct
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_beec34d580ef781d2fe34f73ee1209b4);
+    RESTORE_FRAME_EXCEPTION(frame_87e7883400ccbc9cd932ed7e438de200);
 #endif
 
     // Put the previous frame back on top.
@@ -28117,18 +28117,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__46_set_zsort(struct
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_beec34d580ef781d2fe34f73ee1209b4);
+    RESTORE_FRAME_EXCEPTION(frame_87e7883400ccbc9cd932ed7e438de200);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_beec34d580ef781d2fe34f73ee1209b4, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_beec34d580ef781d2fe34f73ee1209b4->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_beec34d580ef781d2fe34f73ee1209b4, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_87e7883400ccbc9cd932ed7e438de200, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_87e7883400ccbc9cd932ed7e438de200->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_87e7883400ccbc9cd932ed7e438de200, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_beec34d580ef781d2fe34f73ee1209b4,
+        frame_87e7883400ccbc9cd932ed7e438de200,
         type_description_1,
         par_self,
         par_zsort
@@ -28136,17 +28136,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__46_set_zsort(struct
 
 
     // Release cached frame if used for exception.
-    if (frame_beec34d580ef781d2fe34f73ee1209b4 == cache_frame_beec34d580ef781d2fe34f73ee1209b4) {
+    if (frame_87e7883400ccbc9cd932ed7e438de200 == cache_frame_87e7883400ccbc9cd932ed7e438de200) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_beec34d580ef781d2fe34f73ee1209b4);
-        cache_frame_beec34d580ef781d2fe34f73ee1209b4 = NULL;
+        Py_DECREF(cache_frame_87e7883400ccbc9cd932ed7e438de200);
+        cache_frame_87e7883400ccbc9cd932ed7e438de200 = NULL;
     }
 
-    assertFrameObject(frame_beec34d580ef781d2fe34f73ee1209b4);
+    assertFrameObject(frame_87e7883400ccbc9cd932ed7e438de200);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -28240,7 +28240,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__47_get_vector(struc
     PyObject *tmp_tuple_unpack_2__element_2 = NULL;
     PyObject *tmp_tuple_unpack_2__element_3 = NULL;
     PyObject *tmp_tuple_unpack_2__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_bfcaba8c3fb018c24c6475001699d5a3;
+    struct Nuitka_FrameObject *frame_ec2e59cdd36dbf9aa213ca339552a171;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -28264,18 +28264,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__47_get_vector(struc
     PyTracebackObject *exception_keeper_tb_4;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_4;
     bool tmp_result;
-    struct Nuitka_FrameObject *frame_8eb7d5b921f1224daef07841a65228da_2;
+    struct Nuitka_FrameObject *frame_b1a4627b52c6ae45d87aaa03209c2f02_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
     PyObject *exception_keeper_type_5;
     PyObject *exception_keeper_value_5;
     PyTracebackObject *exception_keeper_tb_5;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_5;
-    static struct Nuitka_FrameObject *cache_frame_8eb7d5b921f1224daef07841a65228da_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_b1a4627b52c6ae45d87aaa03209c2f02_2 = NULL;
     PyObject *exception_keeper_type_6;
     PyObject *exception_keeper_value_6;
     PyTracebackObject *exception_keeper_tb_6;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_6;
-    static struct Nuitka_FrameObject *cache_frame_bfcaba8c3fb018c24c6475001699d5a3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_ec2e59cdd36dbf9aa213ca339552a171 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_7;
     PyObject *exception_keeper_value_7;
@@ -28284,31 +28284,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__47_get_vector(struc
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_bfcaba8c3fb018c24c6475001699d5a3)) {
-        Py_XDECREF(cache_frame_bfcaba8c3fb018c24c6475001699d5a3);
+    if (isFrameUnusable(cache_frame_ec2e59cdd36dbf9aa213ca339552a171)) {
+        Py_XDECREF(cache_frame_ec2e59cdd36dbf9aa213ca339552a171);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_bfcaba8c3fb018c24c6475001699d5a3 == NULL) {
+        if (cache_frame_ec2e59cdd36dbf9aa213ca339552a171 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_bfcaba8c3fb018c24c6475001699d5a3 = MAKE_FUNCTION_FRAME(codeobj_bfcaba8c3fb018c24c6475001699d5a3, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_ec2e59cdd36dbf9aa213ca339552a171 = MAKE_FUNCTION_FRAME(codeobj_ec2e59cdd36dbf9aa213ca339552a171, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_bfcaba8c3fb018c24c6475001699d5a3->m_type_description == NULL);
-    frame_bfcaba8c3fb018c24c6475001699d5a3 = cache_frame_bfcaba8c3fb018c24c6475001699d5a3;
+    assert(cache_frame_ec2e59cdd36dbf9aa213ca339552a171->m_type_description == NULL);
+    frame_ec2e59cdd36dbf9aa213ca339552a171 = cache_frame_ec2e59cdd36dbf9aa213ca339552a171;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_bfcaba8c3fb018c24c6475001699d5a3);
+    pushFrameStack(frame_ec2e59cdd36dbf9aa213ca339552a171);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_bfcaba8c3fb018c24c6475001699d5a3) == 2); // Frame stack
+    assert(Py_REFCNT(frame_ec2e59cdd36dbf9aa213ca339552a171) == 2); // Frame stack
 
     // Framed code:
     {
@@ -28397,7 +28397,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__47_get_vector(struc
         }
 
         tmp_args_element_name_1 = par_segments3d;
-        frame_bfcaba8c3fb018c24c6475001699d5a3->m_frame.f_lineno = 700;
+        frame_ec2e59cdd36dbf9aa213ca339552a171->m_frame.f_lineno = 700;
         tmp_expression_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         if (tmp_expression_name_1 == NULL) {
@@ -28886,7 +28886,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__47_get_vector(struc
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_bfcaba8c3fb018c24c6475001699d5a3->m_frame.f_lineno = 703;
+        frame_ec2e59cdd36dbf9aa213ca339552a171->m_frame.f_lineno = 703;
         tmp_assign_source_15 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         Py_DECREF(tmp_args_element_name_2);
@@ -28961,7 +28961,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__47_get_vector(struc
         CHECK_OBJECT(var_ones);
         tmp_list_element_1 = var_ones;
         PyList_SET_ITEM0(tmp_args_element_name_3, 3, tmp_list_element_1);
-        frame_bfcaba8c3fb018c24c6475001699d5a3->m_frame.f_lineno = 704;
+        frame_ec2e59cdd36dbf9aa213ca339552a171->m_frame.f_lineno = 704;
         tmp_assattr_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_element_name_3);
@@ -29065,31 +29065,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__47_get_vector(struc
                 assert(tmp_listcomp_1__contraction == NULL);
                 tmp_listcomp_1__contraction = tmp_assign_source_18;
             }
-            if (isFrameUnusable(cache_frame_8eb7d5b921f1224daef07841a65228da_2)) {
-                Py_XDECREF(cache_frame_8eb7d5b921f1224daef07841a65228da_2);
+            if (isFrameUnusable(cache_frame_b1a4627b52c6ae45d87aaa03209c2f02_2)) {
+                Py_XDECREF(cache_frame_b1a4627b52c6ae45d87aaa03209c2f02_2);
 
 #if _DEBUG_REFCOUNTS
-                if (cache_frame_8eb7d5b921f1224daef07841a65228da_2 == NULL) {
+                if (cache_frame_b1a4627b52c6ae45d87aaa03209c2f02_2 == NULL) {
                     count_active_frame_cache_instances += 1;
                 } else {
                     count_released_frame_cache_instances += 1;
                 }
                 count_allocated_frame_cache_instances += 1;
 #endif
-                cache_frame_8eb7d5b921f1224daef07841a65228da_2 = MAKE_FUNCTION_FRAME(codeobj_8eb7d5b921f1224daef07841a65228da, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+                cache_frame_b1a4627b52c6ae45d87aaa03209c2f02_2 = MAKE_FUNCTION_FRAME(codeobj_b1a4627b52c6ae45d87aaa03209c2f02, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
             } else {
                 count_hit_frame_cache_instances += 1;
 #endif
             }
-            assert(cache_frame_8eb7d5b921f1224daef07841a65228da_2->m_type_description == NULL);
-            frame_8eb7d5b921f1224daef07841a65228da_2 = cache_frame_8eb7d5b921f1224daef07841a65228da_2;
+            assert(cache_frame_b1a4627b52c6ae45d87aaa03209c2f02_2->m_type_description == NULL);
+            frame_b1a4627b52c6ae45d87aaa03209c2f02_2 = cache_frame_b1a4627b52c6ae45d87aaa03209c2f02_2;
 
             // Push the new frame as the currently active one.
-            pushFrameStack(frame_8eb7d5b921f1224daef07841a65228da_2);
+            pushFrameStack(frame_b1a4627b52c6ae45d87aaa03209c2f02_2);
 
             // Mark the frame object as in use, ref count 1 will be up for reuse.
-            assert(Py_REFCNT(frame_8eb7d5b921f1224daef07841a65228da_2) == 2); // Frame stack
+            assert(Py_REFCNT(frame_b1a4627b52c6ae45d87aaa03209c2f02_2) == 2); // Frame stack
 
             // Framed code:
             // Tried code:
@@ -29220,7 +29220,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__47_get_vector(struc
             // End of try:
 
 #if 0
-            RESTORE_FRAME_EXCEPTION(frame_8eb7d5b921f1224daef07841a65228da_2);
+            RESTORE_FRAME_EXCEPTION(frame_b1a4627b52c6ae45d87aaa03209c2f02_2);
 #endif
 
             // Put the previous frame back on top.
@@ -29230,7 +29230,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__47_get_vector(struc
 
             frame_return_exit_1:;
 #if 0
-            RESTORE_FRAME_EXCEPTION(frame_8eb7d5b921f1224daef07841a65228da_2);
+            RESTORE_FRAME_EXCEPTION(frame_b1a4627b52c6ae45d87aaa03209c2f02_2);
 #endif
 
             // Put the previous frame back on top.
@@ -29241,35 +29241,35 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__47_get_vector(struc
             frame_exception_exit_2:;
 
 #if 0
-            RESTORE_FRAME_EXCEPTION(frame_8eb7d5b921f1224daef07841a65228da_2);
+            RESTORE_FRAME_EXCEPTION(frame_b1a4627b52c6ae45d87aaa03209c2f02_2);
 #endif
 
             if (exception_tb == NULL) {
-                exception_tb = MAKE_TRACEBACK(frame_8eb7d5b921f1224daef07841a65228da_2, exception_lineno);
-            } else if (exception_tb->tb_frame != &frame_8eb7d5b921f1224daef07841a65228da_2->m_frame) {
-                exception_tb = ADD_TRACEBACK(exception_tb, frame_8eb7d5b921f1224daef07841a65228da_2, exception_lineno);
+                exception_tb = MAKE_TRACEBACK(frame_b1a4627b52c6ae45d87aaa03209c2f02_2, exception_lineno);
+            } else if (exception_tb->tb_frame != &frame_b1a4627b52c6ae45d87aaa03209c2f02_2->m_frame) {
+                exception_tb = ADD_TRACEBACK(exception_tb, frame_b1a4627b52c6ae45d87aaa03209c2f02_2, exception_lineno);
             }
 
             // Attaches locals to frame if any.
             Nuitka_Frame_AttachLocals(
-                frame_8eb7d5b921f1224daef07841a65228da_2,
+                frame_b1a4627b52c6ae45d87aaa03209c2f02_2,
                 type_description_2,
                 outline_0_var_segment
             );
 
 
             // Release cached frame if used for exception.
-            if (frame_8eb7d5b921f1224daef07841a65228da_2 == cache_frame_8eb7d5b921f1224daef07841a65228da_2) {
+            if (frame_b1a4627b52c6ae45d87aaa03209c2f02_2 == cache_frame_b1a4627b52c6ae45d87aaa03209c2f02_2) {
 #if _DEBUG_REFCOUNTS
                 count_active_frame_cache_instances -= 1;
                 count_released_frame_cache_instances += 1;
 #endif
 
-                Py_DECREF(cache_frame_8eb7d5b921f1224daef07841a65228da_2);
-                cache_frame_8eb7d5b921f1224daef07841a65228da_2 = NULL;
+                Py_DECREF(cache_frame_b1a4627b52c6ae45d87aaa03209c2f02_2);
+                cache_frame_b1a4627b52c6ae45d87aaa03209c2f02_2 = NULL;
             }
 
-            assertFrameObject(frame_8eb7d5b921f1224daef07841a65228da_2);
+            assertFrameObject(frame_b1a4627b52c6ae45d87aaa03209c2f02_2);
 
             // Put the previous frame back on top.
             popFrameStack();
@@ -29317,7 +29317,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__47_get_vector(struc
             exception_lineno = 706;
             goto tuple_build_exception_1;
             outline_result_1:;
-            frame_bfcaba8c3fb018c24c6475001699d5a3->m_frame.f_lineno = 706;
+            frame_ec2e59cdd36dbf9aa213ca339552a171->m_frame.f_lineno = 706;
             tmp_tuple_element_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_4);
             Py_DECREF(tmp_called_name_4);
             Py_DECREF(tmp_args_element_name_4);
@@ -29401,7 +29401,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__47_get_vector(struc
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_bfcaba8c3fb018c24c6475001699d5a3->m_frame.f_lineno = 707;
+        frame_ec2e59cdd36dbf9aa213ca339552a171->m_frame.f_lineno = 707;
         {
             PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6, tmp_args_element_name_7};
             tmp_tuple_element_2 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_5, call_args);
@@ -29453,7 +29453,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__47_get_vector(struc
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_bfcaba8c3fb018c24c6475001699d5a3);
+    RESTORE_FRAME_EXCEPTION(frame_ec2e59cdd36dbf9aa213ca339552a171);
 #endif
 
     // Put the previous frame back on top.
@@ -29464,18 +29464,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__47_get_vector(struc
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_bfcaba8c3fb018c24c6475001699d5a3);
+    RESTORE_FRAME_EXCEPTION(frame_ec2e59cdd36dbf9aa213ca339552a171);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_bfcaba8c3fb018c24c6475001699d5a3, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_bfcaba8c3fb018c24c6475001699d5a3->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_bfcaba8c3fb018c24c6475001699d5a3, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_ec2e59cdd36dbf9aa213ca339552a171, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_ec2e59cdd36dbf9aa213ca339552a171->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_ec2e59cdd36dbf9aa213ca339552a171, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_bfcaba8c3fb018c24c6475001699d5a3,
+        frame_ec2e59cdd36dbf9aa213ca339552a171,
         type_description_1,
         par_self,
         par_segments3d,
@@ -29488,17 +29488,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__47_get_vector(struc
 
 
     // Release cached frame if used for exception.
-    if (frame_bfcaba8c3fb018c24c6475001699d5a3 == cache_frame_bfcaba8c3fb018c24c6475001699d5a3) {
+    if (frame_ec2e59cdd36dbf9aa213ca339552a171 == cache_frame_ec2e59cdd36dbf9aa213ca339552a171) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_bfcaba8c3fb018c24c6475001699d5a3);
-        cache_frame_bfcaba8c3fb018c24c6475001699d5a3 = NULL;
+        Py_DECREF(cache_frame_ec2e59cdd36dbf9aa213ca339552a171);
+        cache_frame_ec2e59cdd36dbf9aa213ca339552a171 = NULL;
     }
 
-    assertFrameObject(frame_bfcaba8c3fb018c24c6475001699d5a3);
+    assertFrameObject(frame_ec2e59cdd36dbf9aa213ca339552a171);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -29597,7 +29597,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__48_set_verts(struct
     PyObject *par_self = python_pars[0];
     PyObject *par_verts = python_pars[1];
     PyObject *par_closed = python_pars[2];
-    struct Nuitka_FrameObject *frame_9b3005b6cc92daf710b4c0176a0961ea;
+    struct Nuitka_FrameObject *frame_269b116253b99dcacd9c13c3cb35cafe;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -29605,7 +29605,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__48_set_verts(struct
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_9b3005b6cc92daf710b4c0176a0961ea = NULL;
+    static struct Nuitka_FrameObject *cache_frame_269b116253b99dcacd9c13c3cb35cafe = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -29614,31 +29614,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__48_set_verts(struct
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_9b3005b6cc92daf710b4c0176a0961ea)) {
-        Py_XDECREF(cache_frame_9b3005b6cc92daf710b4c0176a0961ea);
+    if (isFrameUnusable(cache_frame_269b116253b99dcacd9c13c3cb35cafe)) {
+        Py_XDECREF(cache_frame_269b116253b99dcacd9c13c3cb35cafe);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_9b3005b6cc92daf710b4c0176a0961ea == NULL) {
+        if (cache_frame_269b116253b99dcacd9c13c3cb35cafe == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_9b3005b6cc92daf710b4c0176a0961ea = MAKE_FUNCTION_FRAME(codeobj_9b3005b6cc92daf710b4c0176a0961ea, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_269b116253b99dcacd9c13c3cb35cafe = MAKE_FUNCTION_FRAME(codeobj_269b116253b99dcacd9c13c3cb35cafe, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_9b3005b6cc92daf710b4c0176a0961ea->m_type_description == NULL);
-    frame_9b3005b6cc92daf710b4c0176a0961ea = cache_frame_9b3005b6cc92daf710b4c0176a0961ea;
+    assert(cache_frame_269b116253b99dcacd9c13c3cb35cafe->m_type_description == NULL);
+    frame_269b116253b99dcacd9c13c3cb35cafe = cache_frame_269b116253b99dcacd9c13c3cb35cafe;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_9b3005b6cc92daf710b4c0176a0961ea);
+    pushFrameStack(frame_269b116253b99dcacd9c13c3cb35cafe);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_9b3005b6cc92daf710b4c0176a0961ea) == 2); // Frame stack
+    assert(Py_REFCNT(frame_269b116253b99dcacd9c13c3cb35cafe) == 2); // Frame stack
 
     // Framed code:
     {
@@ -29649,7 +29649,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__48_set_verts(struct
         tmp_called_instance_1 = par_self;
         CHECK_OBJECT(par_verts);
         tmp_args_element_name_1 = par_verts;
-        frame_9b3005b6cc92daf710b4c0176a0961ea->m_frame.f_lineno = 711;
+        frame_269b116253b99dcacd9c13c3cb35cafe->m_frame.f_lineno = 711;
         tmp_call_result_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[185], tmp_args_element_name_1);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -29712,7 +29712,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__48_set_verts(struct
         tmp_args_element_name_2 = par_self;
         tmp_args_element_name_3 = PyList_New(0);
         tmp_args_element_name_4 = Py_False;
-        frame_9b3005b6cc92daf710b4c0176a0961ea->m_frame.f_lineno = 713;
+        frame_269b116253b99dcacd9c13c3cb35cafe->m_frame.f_lineno = 713;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_call_result_2 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_1, call_args);
@@ -29764,7 +29764,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__48_set_verts(struct
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9b3005b6cc92daf710b4c0176a0961ea);
+    RESTORE_FRAME_EXCEPTION(frame_269b116253b99dcacd9c13c3cb35cafe);
 #endif
 
     // Put the previous frame back on top.
@@ -29775,18 +29775,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__48_set_verts(struct
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_9b3005b6cc92daf710b4c0176a0961ea);
+    RESTORE_FRAME_EXCEPTION(frame_269b116253b99dcacd9c13c3cb35cafe);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_9b3005b6cc92daf710b4c0176a0961ea, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_9b3005b6cc92daf710b4c0176a0961ea->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_9b3005b6cc92daf710b4c0176a0961ea, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_269b116253b99dcacd9c13c3cb35cafe, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_269b116253b99dcacd9c13c3cb35cafe->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_269b116253b99dcacd9c13c3cb35cafe, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_9b3005b6cc92daf710b4c0176a0961ea,
+        frame_269b116253b99dcacd9c13c3cb35cafe,
         type_description_1,
         par_self,
         par_verts,
@@ -29795,17 +29795,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__48_set_verts(struct
 
 
     // Release cached frame if used for exception.
-    if (frame_9b3005b6cc92daf710b4c0176a0961ea == cache_frame_9b3005b6cc92daf710b4c0176a0961ea) {
+    if (frame_269b116253b99dcacd9c13c3cb35cafe == cache_frame_269b116253b99dcacd9c13c3cb35cafe) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_9b3005b6cc92daf710b4c0176a0961ea);
-        cache_frame_9b3005b6cc92daf710b4c0176a0961ea = NULL;
+        Py_DECREF(cache_frame_269b116253b99dcacd9c13c3cb35cafe);
+        cache_frame_269b116253b99dcacd9c13c3cb35cafe = NULL;
     }
 
-    assertFrameObject(frame_9b3005b6cc92daf710b4c0176a0961ea);
+    assertFrameObject(frame_269b116253b99dcacd9c13c3cb35cafe);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -29887,7 +29887,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__49_set_verts_and_co
     PyObject *par_self = python_pars[0];
     PyObject *par_verts = python_pars[1];
     PyObject *par_codes = python_pars[2];
-    struct Nuitka_FrameObject *frame_0ff2516c755cc23ad5495db168b984e8;
+    struct Nuitka_FrameObject *frame_e2a316c5f084e5f7877d9cc6630e87bf;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -29895,7 +29895,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__49_set_verts_and_co
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_0ff2516c755cc23ad5495db168b984e8 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_e2a316c5f084e5f7877d9cc6630e87bf = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -29904,31 +29904,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__49_set_verts_and_co
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_0ff2516c755cc23ad5495db168b984e8)) {
-        Py_XDECREF(cache_frame_0ff2516c755cc23ad5495db168b984e8);
+    if (isFrameUnusable(cache_frame_e2a316c5f084e5f7877d9cc6630e87bf)) {
+        Py_XDECREF(cache_frame_e2a316c5f084e5f7877d9cc6630e87bf);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_0ff2516c755cc23ad5495db168b984e8 == NULL) {
+        if (cache_frame_e2a316c5f084e5f7877d9cc6630e87bf == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_0ff2516c755cc23ad5495db168b984e8 = MAKE_FUNCTION_FRAME(codeobj_0ff2516c755cc23ad5495db168b984e8, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_e2a316c5f084e5f7877d9cc6630e87bf = MAKE_FUNCTION_FRAME(codeobj_e2a316c5f084e5f7877d9cc6630e87bf, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_0ff2516c755cc23ad5495db168b984e8->m_type_description == NULL);
-    frame_0ff2516c755cc23ad5495db168b984e8 = cache_frame_0ff2516c755cc23ad5495db168b984e8;
+    assert(cache_frame_e2a316c5f084e5f7877d9cc6630e87bf->m_type_description == NULL);
+    frame_e2a316c5f084e5f7877d9cc6630e87bf = cache_frame_e2a316c5f084e5f7877d9cc6630e87bf;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_0ff2516c755cc23ad5495db168b984e8);
+    pushFrameStack(frame_e2a316c5f084e5f7877d9cc6630e87bf);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_0ff2516c755cc23ad5495db168b984e8) == 2); // Frame stack
+    assert(Py_REFCNT(frame_e2a316c5f084e5f7877d9cc6630e87bf) == 2); // Frame stack
 
     // Framed code:
     {
@@ -29956,7 +29956,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__49_set_verts_and_co
         tmp_args_name_1 = PyTuple_New(1);
         PyTuple_SET_ITEM0(tmp_args_name_1, 0, tmp_tuple_element_1);
         tmp_kwargs_name_1 = PyDict_Copy(mod_consts[190]);
-        frame_0ff2516c755cc23ad5495db168b984e8->m_frame.f_lineno = 720;
+        frame_e2a316c5f084e5f7877d9cc6630e87bf->m_frame.f_lineno = 720;
         tmp_call_result_1 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -30005,7 +30005,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__49_set_verts_and_co
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0ff2516c755cc23ad5495db168b984e8);
+    RESTORE_FRAME_EXCEPTION(frame_e2a316c5f084e5f7877d9cc6630e87bf);
 #endif
 
     // Put the previous frame back on top.
@@ -30016,18 +30016,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__49_set_verts_and_co
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0ff2516c755cc23ad5495db168b984e8);
+    RESTORE_FRAME_EXCEPTION(frame_e2a316c5f084e5f7877d9cc6630e87bf);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_0ff2516c755cc23ad5495db168b984e8, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_0ff2516c755cc23ad5495db168b984e8->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_0ff2516c755cc23ad5495db168b984e8, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_e2a316c5f084e5f7877d9cc6630e87bf, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_e2a316c5f084e5f7877d9cc6630e87bf->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_e2a316c5f084e5f7877d9cc6630e87bf, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_0ff2516c755cc23ad5495db168b984e8,
+        frame_e2a316c5f084e5f7877d9cc6630e87bf,
         type_description_1,
         par_self,
         par_verts,
@@ -30036,17 +30036,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__49_set_verts_and_co
 
 
     // Release cached frame if used for exception.
-    if (frame_0ff2516c755cc23ad5495db168b984e8 == cache_frame_0ff2516c755cc23ad5495db168b984e8) {
+    if (frame_e2a316c5f084e5f7877d9cc6630e87bf == cache_frame_e2a316c5f084e5f7877d9cc6630e87bf) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_0ff2516c755cc23ad5495db168b984e8);
-        cache_frame_0ff2516c755cc23ad5495db168b984e8 = NULL;
+        Py_DECREF(cache_frame_e2a316c5f084e5f7877d9cc6630e87bf);
+        cache_frame_e2a316c5f084e5f7877d9cc6630e87bf = NULL;
     }
 
-    assertFrameObject(frame_0ff2516c755cc23ad5495db168b984e8);
+    assertFrameObject(frame_e2a316c5f084e5f7877d9cc6630e87bf);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -30126,7 +30126,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__50_set_3d_propertie
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_5cf8f014787c829acc75007fe6987187;
+    struct Nuitka_FrameObject *frame_cdde693b9a3d8a1bdf4be4065bf14c58;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -30134,7 +30134,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__50_set_3d_propertie
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_5cf8f014787c829acc75007fe6987187 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_cdde693b9a3d8a1bdf4be4065bf14c58 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -30143,31 +30143,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__50_set_3d_propertie
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_5cf8f014787c829acc75007fe6987187)) {
-        Py_XDECREF(cache_frame_5cf8f014787c829acc75007fe6987187);
+    if (isFrameUnusable(cache_frame_cdde693b9a3d8a1bdf4be4065bf14c58)) {
+        Py_XDECREF(cache_frame_cdde693b9a3d8a1bdf4be4065bf14c58);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_5cf8f014787c829acc75007fe6987187 == NULL) {
+        if (cache_frame_cdde693b9a3d8a1bdf4be4065bf14c58 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_5cf8f014787c829acc75007fe6987187 = MAKE_FUNCTION_FRAME(codeobj_5cf8f014787c829acc75007fe6987187, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+        cache_frame_cdde693b9a3d8a1bdf4be4065bf14c58 = MAKE_FUNCTION_FRAME(codeobj_cdde693b9a3d8a1bdf4be4065bf14c58, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_5cf8f014787c829acc75007fe6987187->m_type_description == NULL);
-    frame_5cf8f014787c829acc75007fe6987187 = cache_frame_5cf8f014787c829acc75007fe6987187;
+    assert(cache_frame_cdde693b9a3d8a1bdf4be4065bf14c58->m_type_description == NULL);
+    frame_cdde693b9a3d8a1bdf4be4065bf14c58 = cache_frame_cdde693b9a3d8a1bdf4be4065bf14c58;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_5cf8f014787c829acc75007fe6987187);
+    pushFrameStack(frame_cdde693b9a3d8a1bdf4be4065bf14c58);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_5cf8f014787c829acc75007fe6987187) == 2); // Frame stack
+    assert(Py_REFCNT(frame_cdde693b9a3d8a1bdf4be4065bf14c58) == 2); // Frame stack
 
     // Framed code:
     {
@@ -30175,7 +30175,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__50_set_3d_propertie
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_5cf8f014787c829acc75007fe6987187->m_frame.f_lineno = 727;
+        frame_cdde693b9a3d8a1bdf4be4065bf14c58->m_frame.f_lineno = 727;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[124]);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -30234,7 +30234,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__50_set_3d_propertie
         }
 
         tmp_called_instance_2 = par_self;
-        frame_5cf8f014787c829acc75007fe6987187->m_frame.f_lineno = 729;
+        frame_cdde693b9a3d8a1bdf4be4065bf14c58->m_frame.f_lineno = 729;
         tmp_call_result_2 = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_2,
             mod_consts[168],
@@ -30299,7 +30299,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__50_set_3d_propertie
         }
 
         tmp_args_element_name_1 = par_self;
-        frame_5cf8f014787c829acc75007fe6987187->m_frame.f_lineno = 730;
+        frame_cdde693b9a3d8a1bdf4be4065bf14c58->m_frame.f_lineno = 730;
         tmp_assattr_name_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         Py_DECREF(tmp_called_name_1);
         if (tmp_assattr_name_2 == NULL) {
@@ -30384,7 +30384,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__50_set_3d_propertie
         }
 
         tmp_args_element_name_2 = par_self;
-        frame_5cf8f014787c829acc75007fe6987187->m_frame.f_lineno = 731;
+        frame_cdde693b9a3d8a1bdf4be4065bf14c58->m_frame.f_lineno = 731;
         tmp_assattr_name_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         if (tmp_assattr_name_3 == NULL) {
@@ -30469,7 +30469,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__50_set_3d_propertie
         }
 
         tmp_args_element_name_3 = par_self;
-        frame_5cf8f014787c829acc75007fe6987187->m_frame.f_lineno = 732;
+        frame_cdde693b9a3d8a1bdf4be4065bf14c58->m_frame.f_lineno = 732;
         tmp_assattr_name_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_3);
         if (tmp_assattr_name_4 == NULL) {
@@ -30539,7 +30539,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__50_set_3d_propertie
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_5cf8f014787c829acc75007fe6987187);
+    RESTORE_FRAME_EXCEPTION(frame_cdde693b9a3d8a1bdf4be4065bf14c58);
 #endif
 
     // Put the previous frame back on top.
@@ -30550,35 +30550,35 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__50_set_3d_propertie
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_5cf8f014787c829acc75007fe6987187);
+    RESTORE_FRAME_EXCEPTION(frame_cdde693b9a3d8a1bdf4be4065bf14c58);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_5cf8f014787c829acc75007fe6987187, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_5cf8f014787c829acc75007fe6987187->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_5cf8f014787c829acc75007fe6987187, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_cdde693b9a3d8a1bdf4be4065bf14c58, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_cdde693b9a3d8a1bdf4be4065bf14c58->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_cdde693b9a3d8a1bdf4be4065bf14c58, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_5cf8f014787c829acc75007fe6987187,
+        frame_cdde693b9a3d8a1bdf4be4065bf14c58,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_5cf8f014787c829acc75007fe6987187 == cache_frame_5cf8f014787c829acc75007fe6987187) {
+    if (frame_cdde693b9a3d8a1bdf4be4065bf14c58 == cache_frame_cdde693b9a3d8a1bdf4be4065bf14c58) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_5cf8f014787c829acc75007fe6987187);
-        cache_frame_5cf8f014787c829acc75007fe6987187 = NULL;
+        Py_DECREF(cache_frame_cdde693b9a3d8a1bdf4be4065bf14c58);
+        cache_frame_cdde693b9a3d8a1bdf4be4065bf14c58 = NULL;
     }
 
-    assertFrameObject(frame_5cf8f014787c829acc75007fe6987187);
+    assertFrameObject(frame_cdde693b9a3d8a1bdf4be4065bf14c58);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -30649,14 +30649,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__51_set_sort_zpos(st
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_val = python_pars[1];
-    struct Nuitka_FrameObject *frame_4647efa2e26c81116c813b07c08cdec3;
+    struct Nuitka_FrameObject *frame_24c6b5a617b08669296defb1247bebc4;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_4647efa2e26c81116c813b07c08cdec3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_24c6b5a617b08669296defb1247bebc4 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -30665,31 +30665,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__51_set_sort_zpos(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_4647efa2e26c81116c813b07c08cdec3)) {
-        Py_XDECREF(cache_frame_4647efa2e26c81116c813b07c08cdec3);
+    if (isFrameUnusable(cache_frame_24c6b5a617b08669296defb1247bebc4)) {
+        Py_XDECREF(cache_frame_24c6b5a617b08669296defb1247bebc4);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_4647efa2e26c81116c813b07c08cdec3 == NULL) {
+        if (cache_frame_24c6b5a617b08669296defb1247bebc4 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_4647efa2e26c81116c813b07c08cdec3 = MAKE_FUNCTION_FRAME(codeobj_4647efa2e26c81116c813b07c08cdec3, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
+        cache_frame_24c6b5a617b08669296defb1247bebc4 = MAKE_FUNCTION_FRAME(codeobj_24c6b5a617b08669296defb1247bebc4, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_4647efa2e26c81116c813b07c08cdec3->m_type_description == NULL);
-    frame_4647efa2e26c81116c813b07c08cdec3 = cache_frame_4647efa2e26c81116c813b07c08cdec3;
+    assert(cache_frame_24c6b5a617b08669296defb1247bebc4->m_type_description == NULL);
+    frame_24c6b5a617b08669296defb1247bebc4 = cache_frame_24c6b5a617b08669296defb1247bebc4;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_4647efa2e26c81116c813b07c08cdec3);
+    pushFrameStack(frame_24c6b5a617b08669296defb1247bebc4);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_4647efa2e26c81116c813b07c08cdec3) == 2); // Frame stack
+    assert(Py_REFCNT(frame_24c6b5a617b08669296defb1247bebc4) == 2); // Frame stack
 
     // Framed code:
     {
@@ -30731,7 +30731,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__51_set_sort_zpos(st
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4647efa2e26c81116c813b07c08cdec3);
+    RESTORE_FRAME_EXCEPTION(frame_24c6b5a617b08669296defb1247bebc4);
 #endif
 
     // Put the previous frame back on top.
@@ -30742,18 +30742,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__51_set_sort_zpos(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4647efa2e26c81116c813b07c08cdec3);
+    RESTORE_FRAME_EXCEPTION(frame_24c6b5a617b08669296defb1247bebc4);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_4647efa2e26c81116c813b07c08cdec3, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_4647efa2e26c81116c813b07c08cdec3->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_4647efa2e26c81116c813b07c08cdec3, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_24c6b5a617b08669296defb1247bebc4, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_24c6b5a617b08669296defb1247bebc4->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_24c6b5a617b08669296defb1247bebc4, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_4647efa2e26c81116c813b07c08cdec3,
+        frame_24c6b5a617b08669296defb1247bebc4,
         type_description_1,
         par_self,
         par_val
@@ -30761,17 +30761,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__51_set_sort_zpos(st
 
 
     // Release cached frame if used for exception.
-    if (frame_4647efa2e26c81116c813b07c08cdec3 == cache_frame_4647efa2e26c81116c813b07c08cdec3) {
+    if (frame_24c6b5a617b08669296defb1247bebc4 == cache_frame_24c6b5a617b08669296defb1247bebc4) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_4647efa2e26c81116c813b07c08cdec3);
-        cache_frame_4647efa2e26c81116c813b07c08cdec3 = NULL;
+        Py_DECREF(cache_frame_24c6b5a617b08669296defb1247bebc4);
+        cache_frame_24c6b5a617b08669296defb1247bebc4 = NULL;
     }
 
-    assertFrameObject(frame_4647efa2e26c81116c813b07c08cdec3);
+    assertFrameObject(frame_24c6b5a617b08669296defb1247bebc4);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -30882,7 +30882,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
     PyObject *tmp_tuple_unpack_2__element_4 = NULL;
     PyObject *tmp_tuple_unpack_2__element_5 = NULL;
     PyObject *tmp_tuple_unpack_2__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_d2fc00b0df82db560090bbcc1e8088ac;
+    struct Nuitka_FrameObject *frame_6f79e474c38ed7510c3056bcbbd21b8a;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -30898,14 +30898,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
-    struct Nuitka_FrameObject *frame_a3df94cc4d55d15155a170504bd5781a_2;
+    struct Nuitka_FrameObject *frame_a383b06051274f19fc97217a7b5ab4ca_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
     bool tmp_result;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_3;
-    static struct Nuitka_FrameObject *cache_frame_a3df94cc4d55d15155a170504bd5781a_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_a383b06051274f19fc97217a7b5ab4ca_2 = NULL;
     PyObject *exception_keeper_type_4;
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
@@ -30919,19 +30919,19 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
     PyObject *exception_keeper_value_6;
     PyTracebackObject *exception_keeper_tb_6;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_6;
-    struct Nuitka_FrameObject *frame_07618661fd1028ee8d3522a3686e0dd4_3;
+    struct Nuitka_FrameObject *frame_f69ffb4c16e1e16f1ab33fabbba9e195_3;
     NUITKA_MAY_BE_UNUSED char const *type_description_3 = NULL;
     PyObject *exception_keeper_type_7;
     PyObject *exception_keeper_value_7;
     PyTracebackObject *exception_keeper_tb_7;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_7;
-    static struct Nuitka_FrameObject *cache_frame_07618661fd1028ee8d3522a3686e0dd4_3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f69ffb4c16e1e16f1ab33fabbba9e195_3 = NULL;
     PyObject *exception_keeper_type_8;
     PyObject *exception_keeper_value_8;
     PyTracebackObject *exception_keeper_tb_8;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_8;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_d2fc00b0df82db560090bbcc1e8088ac = NULL;
+    static struct Nuitka_FrameObject *cache_frame_6f79e474c38ed7510c3056bcbbd21b8a = NULL;
     PyObject *exception_keeper_type_9;
     PyObject *exception_keeper_value_9;
     PyTracebackObject *exception_keeper_tb_9;
@@ -30939,31 +30939,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_d2fc00b0df82db560090bbcc1e8088ac)) {
-        Py_XDECREF(cache_frame_d2fc00b0df82db560090bbcc1e8088ac);
+    if (isFrameUnusable(cache_frame_6f79e474c38ed7510c3056bcbbd21b8a)) {
+        Py_XDECREF(cache_frame_6f79e474c38ed7510c3056bcbbd21b8a);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_d2fc00b0df82db560090bbcc1e8088ac == NULL) {
+        if (cache_frame_6f79e474c38ed7510c3056bcbbd21b8a == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_d2fc00b0df82db560090bbcc1e8088ac = MAKE_FUNCTION_FRAME(codeobj_d2fc00b0df82db560090bbcc1e8088ac, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_6f79e474c38ed7510c3056bcbbd21b8a = MAKE_FUNCTION_FRAME(codeobj_6f79e474c38ed7510c3056bcbbd21b8a, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_d2fc00b0df82db560090bbcc1e8088ac->m_type_description == NULL);
-    frame_d2fc00b0df82db560090bbcc1e8088ac = cache_frame_d2fc00b0df82db560090bbcc1e8088ac;
+    assert(cache_frame_6f79e474c38ed7510c3056bcbbd21b8a->m_type_description == NULL);
+    frame_6f79e474c38ed7510c3056bcbbd21b8a = cache_frame_6f79e474c38ed7510c3056bcbbd21b8a;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_d2fc00b0df82db560090bbcc1e8088ac);
+    pushFrameStack(frame_6f79e474c38ed7510c3056bcbbd21b8a);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_d2fc00b0df82db560090bbcc1e8088ac) == 2); // Frame stack
+    assert(Py_REFCNT(frame_6f79e474c38ed7510c3056bcbbd21b8a) == 2); // Frame stack
 
     // Framed code:
     {
@@ -30988,7 +30988,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
         }
         CHECK_OBJECT(Nuitka_Cell_GET(par_self));
         tmp_args_element_name_1 = Nuitka_Cell_GET(par_self);
-        frame_d2fc00b0df82db560090bbcc1e8088ac->m_frame.f_lineno = 745;
+        frame_6f79e474c38ed7510c3056bcbbd21b8a->m_frame.f_lineno = 745;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -31077,7 +31077,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
             type_description_1 = "coooooooooooooo";
             goto try_except_handler_2;
         }
-        frame_d2fc00b0df82db560090bbcc1e8088ac->m_frame.f_lineno = 747;
+        frame_6f79e474c38ed7510c3056bcbbd21b8a->m_frame.f_lineno = 747;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_iter_arg_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -31364,31 +31364,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
             assert(tmp_listcomp_1__contraction == NULL);
             tmp_listcomp_1__contraction = tmp_assign_source_10;
         }
-        if (isFrameUnusable(cache_frame_a3df94cc4d55d15155a170504bd5781a_2)) {
-            Py_XDECREF(cache_frame_a3df94cc4d55d15155a170504bd5781a_2);
+        if (isFrameUnusable(cache_frame_a383b06051274f19fc97217a7b5ab4ca_2)) {
+            Py_XDECREF(cache_frame_a383b06051274f19fc97217a7b5ab4ca_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_a3df94cc4d55d15155a170504bd5781a_2 == NULL) {
+            if (cache_frame_a383b06051274f19fc97217a7b5ab4ca_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_a3df94cc4d55d15155a170504bd5781a_2 = MAKE_FUNCTION_FRAME(codeobj_a3df94cc4d55d15155a170504bd5781a, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+            cache_frame_a383b06051274f19fc97217a7b5ab4ca_2 = MAKE_FUNCTION_FRAME(codeobj_a383b06051274f19fc97217a7b5ab4ca, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_a3df94cc4d55d15155a170504bd5781a_2->m_type_description == NULL);
-        frame_a3df94cc4d55d15155a170504bd5781a_2 = cache_frame_a3df94cc4d55d15155a170504bd5781a_2;
+        assert(cache_frame_a383b06051274f19fc97217a7b5ab4ca_2->m_type_description == NULL);
+        frame_a383b06051274f19fc97217a7b5ab4ca_2 = cache_frame_a383b06051274f19fc97217a7b5ab4ca_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_a3df94cc4d55d15155a170504bd5781a_2);
+        pushFrameStack(frame_a383b06051274f19fc97217a7b5ab4ca_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_a3df94cc4d55d15155a170504bd5781a_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_a383b06051274f19fc97217a7b5ab4ca_2) == 2); // Frame stack
 
         // Framed code:
         // Tried code:
@@ -31603,7 +31603,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
         // End of try:
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_a3df94cc4d55d15155a170504bd5781a_2);
+        RESTORE_FRAME_EXCEPTION(frame_a383b06051274f19fc97217a7b5ab4ca_2);
 #endif
 
         // Put the previous frame back on top.
@@ -31613,7 +31613,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
 
         frame_return_exit_2:;
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_a3df94cc4d55d15155a170504bd5781a_2);
+        RESTORE_FRAME_EXCEPTION(frame_a383b06051274f19fc97217a7b5ab4ca_2);
 #endif
 
         // Put the previous frame back on top.
@@ -31624,18 +31624,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_a3df94cc4d55d15155a170504bd5781a_2);
+        RESTORE_FRAME_EXCEPTION(frame_a383b06051274f19fc97217a7b5ab4ca_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_a3df94cc4d55d15155a170504bd5781a_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_a3df94cc4d55d15155a170504bd5781a_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_a3df94cc4d55d15155a170504bd5781a_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_a383b06051274f19fc97217a7b5ab4ca_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_a383b06051274f19fc97217a7b5ab4ca_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_a383b06051274f19fc97217a7b5ab4ca_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_a3df94cc4d55d15155a170504bd5781a_2,
+            frame_a383b06051274f19fc97217a7b5ab4ca_2,
             type_description_2,
             outline_0_var_sl,
             var_txs,
@@ -31645,17 +31645,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
 
 
         // Release cached frame if used for exception.
-        if (frame_a3df94cc4d55d15155a170504bd5781a_2 == cache_frame_a3df94cc4d55d15155a170504bd5781a_2) {
+        if (frame_a383b06051274f19fc97217a7b5ab4ca_2 == cache_frame_a383b06051274f19fc97217a7b5ab4ca_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_a3df94cc4d55d15155a170504bd5781a_2);
-            cache_frame_a3df94cc4d55d15155a170504bd5781a_2 = NULL;
+            Py_DECREF(cache_frame_a383b06051274f19fc97217a7b5ab4ca_2);
+            cache_frame_a383b06051274f19fc97217a7b5ab4ca_2 = NULL;
         }
 
-        assertFrameObject(frame_a3df94cc4d55d15155a170504bd5781a_2);
+        assertFrameObject(frame_a383b06051274f19fc97217a7b5ab4ca_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -31871,7 +31871,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
         tmp_args_name_1 = PyTuple_New(1);
         PyTuple_SET_ITEM(tmp_args_name_1, 0, tmp_tuple_element_2);
         tmp_kwargs_name_1 = PyDict_Copy(mod_consts[202]);
-        frame_d2fc00b0df82db560090bbcc1e8088ac->m_frame.f_lineno = 754;
+        frame_6f79e474c38ed7510c3056bcbbd21b8a->m_frame.f_lineno = 754;
         tmp_assign_source_15 = CALL_FUNCTION(tmp_called_name_3, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_name_1);
@@ -32078,7 +32078,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
         tmp_args_name_2 = PyTuple_New(1);
         PyTuple_SET_ITEM(tmp_args_name_2, 0, tmp_tuple_element_3);
         tmp_kwargs_name_2 = PyDict_Copy(mod_consts[202]);
-        frame_d2fc00b0df82db560090bbcc1e8088ac->m_frame.f_lineno = 759;
+        frame_6f79e474c38ed7510c3056bcbbd21b8a->m_frame.f_lineno = 759;
         tmp_assign_source_17 = CALL_FUNCTION(tmp_called_name_4, tmp_args_name_2, tmp_kwargs_name_2);
         Py_DECREF(tmp_called_name_4);
         Py_DECREF(tmp_args_name_2);
@@ -32162,7 +32162,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
             }
 
             tmp_args_element_name_7 = var_cedge;
-            frame_d2fc00b0df82db560090bbcc1e8088ac->m_frame.f_lineno = 765;
+            frame_6f79e474c38ed7510c3056bcbbd21b8a->m_frame.f_lineno = 765;
             {
                 PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6, tmp_args_element_name_7};
                 tmp_args_element_name_4 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_7, call_args);
@@ -32178,7 +32178,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
                 type_description_1 = "coooooooooooooo";
                 goto frame_exception_exit_1;
             }
-            frame_d2fc00b0df82db560090bbcc1e8088ac->m_frame.f_lineno = 765;
+            frame_6f79e474c38ed7510c3056bcbbd21b8a->m_frame.f_lineno = 765;
             tmp_iter_arg_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_4);
             Py_DECREF(tmp_args_element_name_4);
             if (tmp_iter_arg_3 == NULL) {
@@ -32248,7 +32248,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
         tmp_dict_value_1 = Py_True;
         tmp_res = PyDict_SetItem(tmp_kwargs_name_3, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_d2fc00b0df82db560090bbcc1e8088ac->m_frame.f_lineno = 762;
+        frame_6f79e474c38ed7510c3056bcbbd21b8a->m_frame.f_lineno = 762;
         tmp_assign_source_18 = CALL_FUNCTION(tmp_called_name_5, tmp_args_name_3, tmp_kwargs_name_3);
         Py_DECREF(tmp_args_name_3);
         Py_DECREF(tmp_kwargs_name_3);
@@ -32696,31 +32696,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
             assert(tmp_listcomp_2__contraction == NULL);
             tmp_listcomp_2__contraction = tmp_assign_source_31;
         }
-        if (isFrameUnusable(cache_frame_07618661fd1028ee8d3522a3686e0dd4_3)) {
-            Py_XDECREF(cache_frame_07618661fd1028ee8d3522a3686e0dd4_3);
+        if (isFrameUnusable(cache_frame_f69ffb4c16e1e16f1ab33fabbba9e195_3)) {
+            Py_XDECREF(cache_frame_f69ffb4c16e1e16f1ab33fabbba9e195_3);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_07618661fd1028ee8d3522a3686e0dd4_3 == NULL) {
+            if (cache_frame_f69ffb4c16e1e16f1ab33fabbba9e195_3 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_07618661fd1028ee8d3522a3686e0dd4_3 = MAKE_FUNCTION_FRAME(codeobj_07618661fd1028ee8d3522a3686e0dd4, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
+            cache_frame_f69ffb4c16e1e16f1ab33fabbba9e195_3 = MAKE_FUNCTION_FRAME(codeobj_f69ffb4c16e1e16f1ab33fabbba9e195, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_07618661fd1028ee8d3522a3686e0dd4_3->m_type_description == NULL);
-        frame_07618661fd1028ee8d3522a3686e0dd4_3 = cache_frame_07618661fd1028ee8d3522a3686e0dd4_3;
+        assert(cache_frame_f69ffb4c16e1e16f1ab33fabbba9e195_3->m_type_description == NULL);
+        frame_f69ffb4c16e1e16f1ab33fabbba9e195_3 = cache_frame_f69ffb4c16e1e16f1ab33fabbba9e195_3;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_07618661fd1028ee8d3522a3686e0dd4_3);
+        pushFrameStack(frame_f69ffb4c16e1e16f1ab33fabbba9e195_3);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_07618661fd1028ee8d3522a3686e0dd4_3) == 2); // Frame stack
+        assert(Py_REFCNT(frame_f69ffb4c16e1e16f1ab33fabbba9e195_3) == 2); // Frame stack
 
         // Framed code:
         // Tried code:
@@ -32878,7 +32878,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
         // End of try:
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_07618661fd1028ee8d3522a3686e0dd4_3);
+        RESTORE_FRAME_EXCEPTION(frame_f69ffb4c16e1e16f1ab33fabbba9e195_3);
 #endif
 
         // Put the previous frame back on top.
@@ -32888,7 +32888,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
 
         frame_return_exit_3:;
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_07618661fd1028ee8d3522a3686e0dd4_3);
+        RESTORE_FRAME_EXCEPTION(frame_f69ffb4c16e1e16f1ab33fabbba9e195_3);
 #endif
 
         // Put the previous frame back on top.
@@ -32899,18 +32899,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
         frame_exception_exit_3:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_07618661fd1028ee8d3522a3686e0dd4_3);
+        RESTORE_FRAME_EXCEPTION(frame_f69ffb4c16e1e16f1ab33fabbba9e195_3);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_07618661fd1028ee8d3522a3686e0dd4_3, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_07618661fd1028ee8d3522a3686e0dd4_3->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_07618661fd1028ee8d3522a3686e0dd4_3, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_f69ffb4c16e1e16f1ab33fabbba9e195_3, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_f69ffb4c16e1e16f1ab33fabbba9e195_3->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_f69ffb4c16e1e16f1ab33fabbba9e195_3, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_07618661fd1028ee8d3522a3686e0dd4_3,
+            frame_f69ffb4c16e1e16f1ab33fabbba9e195_3,
             type_description_2,
             outline_1_var_idx,
             par_self
@@ -32918,17 +32918,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
 
 
         // Release cached frame if used for exception.
-        if (frame_07618661fd1028ee8d3522a3686e0dd4_3 == cache_frame_07618661fd1028ee8d3522a3686e0dd4_3) {
+        if (frame_f69ffb4c16e1e16f1ab33fabbba9e195_3 == cache_frame_f69ffb4c16e1e16f1ab33fabbba9e195_3) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_07618661fd1028ee8d3522a3686e0dd4_3);
-            cache_frame_07618661fd1028ee8d3522a3686e0dd4_3 = NULL;
+            Py_DECREF(cache_frame_f69ffb4c16e1e16f1ab33fabbba9e195_3);
+            cache_frame_f69ffb4c16e1e16f1ab33fabbba9e195_3 = NULL;
         }
 
-        assertFrameObject(frame_07618661fd1028ee8d3522a3686e0dd4_3);
+        assertFrameObject(frame_f69ffb4c16e1e16f1ab33fabbba9e195_3);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -33030,7 +33030,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
         tmp_args_element_name_9 = var_segments_2d;
         CHECK_OBJECT(var_codes);
         tmp_args_element_name_10 = var_codes;
-        frame_d2fc00b0df82db560090bbcc1e8088ac->m_frame.f_lineno = 773;
+        frame_6f79e474c38ed7510c3056bcbbd21b8a->m_frame.f_lineno = 773;
         {
             PyObject *call_args[] = {tmp_args_element_name_8, tmp_args_element_name_9, tmp_args_element_name_10};
             tmp_call_result_2 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_8, call_args);
@@ -33125,7 +33125,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
             type_description_1 = "coooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_d2fc00b0df82db560090bbcc1e8088ac->m_frame.f_lineno = 775;
+        frame_6f79e474c38ed7510c3056bcbbd21b8a->m_frame.f_lineno = 775;
         {
             PyObject *call_args[] = {tmp_args_element_name_11, tmp_args_element_name_12, tmp_args_element_name_13};
             tmp_call_result_3 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_9, call_args);
@@ -33400,7 +33400,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
         goto frame_exception_exit_1;
         // Finished with no exception for list_build:
         list_build_noexception_1:;
-        frame_d2fc00b0df82db560090bbcc1e8088ac->m_frame.f_lineno = 782;
+        frame_6f79e474c38ed7510c3056bcbbd21b8a->m_frame.f_lineno = 782;
         tmp_assign_source_34 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_10, tmp_args_element_name_14);
         Py_DECREF(tmp_called_name_10);
         Py_DECREF(tmp_args_element_name_14);
@@ -33477,7 +33477,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
             type_description_1 = "coooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_d2fc00b0df82db560090bbcc1e8088ac->m_frame.f_lineno = 783;
+        frame_6f79e474c38ed7510c3056bcbbd21b8a->m_frame.f_lineno = 783;
         {
             PyObject *call_args[] = {tmp_args_element_name_15, tmp_args_element_name_16};
             tmp_assign_source_35 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_11, call_args);
@@ -33642,7 +33642,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
         }
 
         tmp_args_element_name_17 = var_tzs;
-        frame_d2fc00b0df82db560090bbcc1e8088ac->m_frame.f_lineno = 789;
+        frame_6f79e474c38ed7510c3056bcbbd21b8a->m_frame.f_lineno = 789;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_12, tmp_args_element_name_17);
         Py_DECREF(tmp_called_name_12);
         if (tmp_return_value == NULL) {
@@ -33694,7 +33694,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
     branch_end_6:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d2fc00b0df82db560090bbcc1e8088ac);
+    RESTORE_FRAME_EXCEPTION(frame_6f79e474c38ed7510c3056bcbbd21b8a);
 #endif
 
     // Put the previous frame back on top.
@@ -33704,7 +33704,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d2fc00b0df82db560090bbcc1e8088ac);
+    RESTORE_FRAME_EXCEPTION(frame_6f79e474c38ed7510c3056bcbbd21b8a);
 #endif
 
     // Put the previous frame back on top.
@@ -33715,18 +33715,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d2fc00b0df82db560090bbcc1e8088ac);
+    RESTORE_FRAME_EXCEPTION(frame_6f79e474c38ed7510c3056bcbbd21b8a);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_d2fc00b0df82db560090bbcc1e8088ac, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_d2fc00b0df82db560090bbcc1e8088ac->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_d2fc00b0df82db560090bbcc1e8088ac, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_6f79e474c38ed7510c3056bcbbd21b8a, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_6f79e474c38ed7510c3056bcbbd21b8a->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_6f79e474c38ed7510c3056bcbbd21b8a, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_d2fc00b0df82db560090bbcc1e8088ac,
+        frame_6f79e474c38ed7510c3056bcbbd21b8a,
         type_description_1,
         par_self,
         par_renderer,
@@ -33747,17 +33747,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
 
 
     // Release cached frame if used for exception.
-    if (frame_d2fc00b0df82db560090bbcc1e8088ac == cache_frame_d2fc00b0df82db560090bbcc1e8088ac) {
+    if (frame_6f79e474c38ed7510c3056bcbbd21b8a == cache_frame_6f79e474c38ed7510c3056bcbbd21b8a) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_d2fc00b0df82db560090bbcc1e8088ac);
-        cache_frame_d2fc00b0df82db560090bbcc1e8088ac = NULL;
+        Py_DECREF(cache_frame_6f79e474c38ed7510c3056bcbbd21b8a);
+        cache_frame_6f79e474c38ed7510c3056bcbbd21b8a = NULL;
     }
 
-    assertFrameObject(frame_d2fc00b0df82db560090bbcc1e8088ac);
+    assertFrameObject(frame_6f79e474c38ed7510c3056bcbbd21b8a);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -33990,7 +33990,7 @@ static PyObject *mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection$$$ge
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_m_frame = MAKE_FUNCTION_FRAME(codeobj_27dcc926c49eeb80de0f0c6c29fbb478, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_m_frame = MAKE_FUNCTION_FRAME(codeobj_05087e57ec33cdc8a3523d5e0992e90d, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
@@ -35014,7 +35014,7 @@ static PyObject *MAKE_GENERATOR_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_
 #if PYTHON_VERSION >= 0x350
         mod_consts[218],
 #endif
-        codeobj_27dcc926c49eeb80de0f0c6c29fbb478,
+        codeobj_05087e57ec33cdc8a3523d5e0992e90d,
         closure,
         2,
         sizeof(struct mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection$$$genexpr__1_genexpr_locals)
@@ -35030,14 +35030,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
 
     // Local variable declarations.
     PyObject *par_x = python_pars[0];
-    struct Nuitka_FrameObject *frame_c2fe34a743fb3f72716c632a8244ae77;
+    struct Nuitka_FrameObject *frame_e968b08aefb01c02feecc3d3386ed3f0;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_c2fe34a743fb3f72716c632a8244ae77 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_e968b08aefb01c02feecc3d3386ed3f0 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -35045,31 +35045,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_c2fe34a743fb3f72716c632a8244ae77)) {
-        Py_XDECREF(cache_frame_c2fe34a743fb3f72716c632a8244ae77);
+    if (isFrameUnusable(cache_frame_e968b08aefb01c02feecc3d3386ed3f0)) {
+        Py_XDECREF(cache_frame_e968b08aefb01c02feecc3d3386ed3f0);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_c2fe34a743fb3f72716c632a8244ae77 == NULL) {
+        if (cache_frame_e968b08aefb01c02feecc3d3386ed3f0 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_c2fe34a743fb3f72716c632a8244ae77 = MAKE_FUNCTION_FRAME(codeobj_c2fe34a743fb3f72716c632a8244ae77, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+        cache_frame_e968b08aefb01c02feecc3d3386ed3f0 = MAKE_FUNCTION_FRAME(codeobj_e968b08aefb01c02feecc3d3386ed3f0, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_c2fe34a743fb3f72716c632a8244ae77->m_type_description == NULL);
-    frame_c2fe34a743fb3f72716c632a8244ae77 = cache_frame_c2fe34a743fb3f72716c632a8244ae77;
+    assert(cache_frame_e968b08aefb01c02feecc3d3386ed3f0->m_type_description == NULL);
+    frame_e968b08aefb01c02feecc3d3386ed3f0 = cache_frame_e968b08aefb01c02feecc3d3386ed3f0;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_c2fe34a743fb3f72716c632a8244ae77);
+    pushFrameStack(frame_e968b08aefb01c02feecc3d3386ed3f0);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_c2fe34a743fb3f72716c632a8244ae77) == 2); // Frame stack
+    assert(Py_REFCNT(frame_e968b08aefb01c02feecc3d3386ed3f0) == 2); // Frame stack
 
     // Framed code:
     {
@@ -35093,7 +35093,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c2fe34a743fb3f72716c632a8244ae77);
+    RESTORE_FRAME_EXCEPTION(frame_e968b08aefb01c02feecc3d3386ed3f0);
 #endif
 
     // Put the previous frame back on top.
@@ -35103,7 +35103,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c2fe34a743fb3f72716c632a8244ae77);
+    RESTORE_FRAME_EXCEPTION(frame_e968b08aefb01c02feecc3d3386ed3f0);
 #endif
 
     // Put the previous frame back on top.
@@ -35114,35 +35114,35 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_c2fe34a743fb3f72716c632a8244ae77);
+    RESTORE_FRAME_EXCEPTION(frame_e968b08aefb01c02feecc3d3386ed3f0);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_c2fe34a743fb3f72716c632a8244ae77, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_c2fe34a743fb3f72716c632a8244ae77->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_c2fe34a743fb3f72716c632a8244ae77, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_e968b08aefb01c02feecc3d3386ed3f0, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_e968b08aefb01c02feecc3d3386ed3f0->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_e968b08aefb01c02feecc3d3386ed3f0, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_c2fe34a743fb3f72716c632a8244ae77,
+        frame_e968b08aefb01c02feecc3d3386ed3f0,
         type_description_1,
         par_x
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_c2fe34a743fb3f72716c632a8244ae77 == cache_frame_c2fe34a743fb3f72716c632a8244ae77) {
+    if (frame_e968b08aefb01c02feecc3d3386ed3f0 == cache_frame_e968b08aefb01c02feecc3d3386ed3f0) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_c2fe34a743fb3f72716c632a8244ae77);
-        cache_frame_c2fe34a743fb3f72716c632a8244ae77 = NULL;
+        Py_DECREF(cache_frame_e968b08aefb01c02feecc3d3386ed3f0);
+        cache_frame_e968b08aefb01c02feecc3d3386ed3f0 = NULL;
     }
 
-    assertFrameObject(frame_c2fe34a743fb3f72716c632a8244ae77);
+    assertFrameObject(frame_e968b08aefb01c02feecc3d3386ed3f0);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -35212,7 +35212,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__53_set_facecolor(st
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_colors = python_pars[1];
-    struct Nuitka_FrameObject *frame_27d43359c98aca3e5ba06fe2406a8663;
+    struct Nuitka_FrameObject *frame_d5d4b52d50387805428c7a7290dd29c1;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -35220,7 +35220,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__53_set_facecolor(st
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_27d43359c98aca3e5ba06fe2406a8663 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d5d4b52d50387805428c7a7290dd29c1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -35229,31 +35229,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__53_set_facecolor(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_27d43359c98aca3e5ba06fe2406a8663)) {
-        Py_XDECREF(cache_frame_27d43359c98aca3e5ba06fe2406a8663);
+    if (isFrameUnusable(cache_frame_d5d4b52d50387805428c7a7290dd29c1)) {
+        Py_XDECREF(cache_frame_d5d4b52d50387805428c7a7290dd29c1);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_27d43359c98aca3e5ba06fe2406a8663 == NULL) {
+        if (cache_frame_d5d4b52d50387805428c7a7290dd29c1 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_27d43359c98aca3e5ba06fe2406a8663 = MAKE_FUNCTION_FRAME(codeobj_27d43359c98aca3e5ba06fe2406a8663, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
+        cache_frame_d5d4b52d50387805428c7a7290dd29c1 = MAKE_FUNCTION_FRAME(codeobj_d5d4b52d50387805428c7a7290dd29c1, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_27d43359c98aca3e5ba06fe2406a8663->m_type_description == NULL);
-    frame_27d43359c98aca3e5ba06fe2406a8663 = cache_frame_27d43359c98aca3e5ba06fe2406a8663;
+    assert(cache_frame_d5d4b52d50387805428c7a7290dd29c1->m_type_description == NULL);
+    frame_d5d4b52d50387805428c7a7290dd29c1 = cache_frame_d5d4b52d50387805428c7a7290dd29c1;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_27d43359c98aca3e5ba06fe2406a8663);
+    pushFrameStack(frame_d5d4b52d50387805428c7a7290dd29c1);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_27d43359c98aca3e5ba06fe2406a8663) == 2); // Frame stack
+    assert(Py_REFCNT(frame_d5d4b52d50387805428c7a7290dd29c1) == 2); // Frame stack
 
     // Framed code:
     {
@@ -35281,7 +35281,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__53_set_facecolor(st
         tmp_args_element_name_1 = par_self;
         CHECK_OBJECT(par_colors);
         tmp_args_element_name_2 = par_colors;
-        frame_27d43359c98aca3e5ba06fe2406a8663->m_frame.f_lineno = 794;
+        frame_d5d4b52d50387805428c7a7290dd29c1->m_frame.f_lineno = 794;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS2(
@@ -35349,7 +35349,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__53_set_facecolor(st
         }
 
         tmp_args_element_name_3 = par_self;
-        frame_27d43359c98aca3e5ba06fe2406a8663->m_frame.f_lineno = 795;
+        frame_d5d4b52d50387805428c7a7290dd29c1->m_frame.f_lineno = 795;
         tmp_assattr_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_1);
         if (tmp_assattr_name_1 == NULL) {
@@ -35390,7 +35390,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__53_set_facecolor(st
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_27d43359c98aca3e5ba06fe2406a8663);
+    RESTORE_FRAME_EXCEPTION(frame_d5d4b52d50387805428c7a7290dd29c1);
 #endif
 
     // Put the previous frame back on top.
@@ -35401,18 +35401,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__53_set_facecolor(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_27d43359c98aca3e5ba06fe2406a8663);
+    RESTORE_FRAME_EXCEPTION(frame_d5d4b52d50387805428c7a7290dd29c1);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_27d43359c98aca3e5ba06fe2406a8663, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_27d43359c98aca3e5ba06fe2406a8663->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_27d43359c98aca3e5ba06fe2406a8663, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d5d4b52d50387805428c7a7290dd29c1, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d5d4b52d50387805428c7a7290dd29c1->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d5d4b52d50387805428c7a7290dd29c1, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_27d43359c98aca3e5ba06fe2406a8663,
+        frame_d5d4b52d50387805428c7a7290dd29c1,
         type_description_1,
         par_self,
         par_colors
@@ -35420,17 +35420,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__53_set_facecolor(st
 
 
     // Release cached frame if used for exception.
-    if (frame_27d43359c98aca3e5ba06fe2406a8663 == cache_frame_27d43359c98aca3e5ba06fe2406a8663) {
+    if (frame_d5d4b52d50387805428c7a7290dd29c1 == cache_frame_d5d4b52d50387805428c7a7290dd29c1) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_27d43359c98aca3e5ba06fe2406a8663);
-        cache_frame_27d43359c98aca3e5ba06fe2406a8663 = NULL;
+        Py_DECREF(cache_frame_d5d4b52d50387805428c7a7290dd29c1);
+        cache_frame_d5d4b52d50387805428c7a7290dd29c1 = NULL;
     }
 
-    assertFrameObject(frame_27d43359c98aca3e5ba06fe2406a8663);
+    assertFrameObject(frame_d5d4b52d50387805428c7a7290dd29c1);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -35505,7 +35505,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__54_set_edgecolor(st
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_colors = python_pars[1];
-    struct Nuitka_FrameObject *frame_5abf5cf7d56898633ff0079bbb435a2d;
+    struct Nuitka_FrameObject *frame_ef01ee12923ba17959e718a3074b3e34;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -35513,7 +35513,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__54_set_edgecolor(st
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_5abf5cf7d56898633ff0079bbb435a2d = NULL;
+    static struct Nuitka_FrameObject *cache_frame_ef01ee12923ba17959e718a3074b3e34 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -35522,31 +35522,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__54_set_edgecolor(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_5abf5cf7d56898633ff0079bbb435a2d)) {
-        Py_XDECREF(cache_frame_5abf5cf7d56898633ff0079bbb435a2d);
+    if (isFrameUnusable(cache_frame_ef01ee12923ba17959e718a3074b3e34)) {
+        Py_XDECREF(cache_frame_ef01ee12923ba17959e718a3074b3e34);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_5abf5cf7d56898633ff0079bbb435a2d == NULL) {
+        if (cache_frame_ef01ee12923ba17959e718a3074b3e34 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_5abf5cf7d56898633ff0079bbb435a2d = MAKE_FUNCTION_FRAME(codeobj_5abf5cf7d56898633ff0079bbb435a2d, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
+        cache_frame_ef01ee12923ba17959e718a3074b3e34 = MAKE_FUNCTION_FRAME(codeobj_ef01ee12923ba17959e718a3074b3e34, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_5abf5cf7d56898633ff0079bbb435a2d->m_type_description == NULL);
-    frame_5abf5cf7d56898633ff0079bbb435a2d = cache_frame_5abf5cf7d56898633ff0079bbb435a2d;
+    assert(cache_frame_ef01ee12923ba17959e718a3074b3e34->m_type_description == NULL);
+    frame_ef01ee12923ba17959e718a3074b3e34 = cache_frame_ef01ee12923ba17959e718a3074b3e34;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_5abf5cf7d56898633ff0079bbb435a2d);
+    pushFrameStack(frame_ef01ee12923ba17959e718a3074b3e34);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_5abf5cf7d56898633ff0079bbb435a2d) == 2); // Frame stack
+    assert(Py_REFCNT(frame_ef01ee12923ba17959e718a3074b3e34) == 2); // Frame stack
 
     // Framed code:
     {
@@ -35574,7 +35574,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__54_set_edgecolor(st
         tmp_args_element_name_1 = par_self;
         CHECK_OBJECT(par_colors);
         tmp_args_element_name_2 = par_colors;
-        frame_5abf5cf7d56898633ff0079bbb435a2d->m_frame.f_lineno = 798;
+        frame_ef01ee12923ba17959e718a3074b3e34->m_frame.f_lineno = 798;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS2(
@@ -35642,7 +35642,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__54_set_edgecolor(st
         }
 
         tmp_args_element_name_3 = par_self;
-        frame_5abf5cf7d56898633ff0079bbb435a2d->m_frame.f_lineno = 799;
+        frame_ef01ee12923ba17959e718a3074b3e34->m_frame.f_lineno = 799;
         tmp_assattr_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_3);
         Py_DECREF(tmp_called_name_1);
         if (tmp_assattr_name_1 == NULL) {
@@ -35683,7 +35683,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__54_set_edgecolor(st
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_5abf5cf7d56898633ff0079bbb435a2d);
+    RESTORE_FRAME_EXCEPTION(frame_ef01ee12923ba17959e718a3074b3e34);
 #endif
 
     // Put the previous frame back on top.
@@ -35694,18 +35694,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__54_set_edgecolor(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_5abf5cf7d56898633ff0079bbb435a2d);
+    RESTORE_FRAME_EXCEPTION(frame_ef01ee12923ba17959e718a3074b3e34);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_5abf5cf7d56898633ff0079bbb435a2d, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_5abf5cf7d56898633ff0079bbb435a2d->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_5abf5cf7d56898633ff0079bbb435a2d, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_ef01ee12923ba17959e718a3074b3e34, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_ef01ee12923ba17959e718a3074b3e34->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_ef01ee12923ba17959e718a3074b3e34, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_5abf5cf7d56898633ff0079bbb435a2d,
+        frame_ef01ee12923ba17959e718a3074b3e34,
         type_description_1,
         par_self,
         par_colors
@@ -35713,17 +35713,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__54_set_edgecolor(st
 
 
     // Release cached frame if used for exception.
-    if (frame_5abf5cf7d56898633ff0079bbb435a2d == cache_frame_5abf5cf7d56898633ff0079bbb435a2d) {
+    if (frame_ef01ee12923ba17959e718a3074b3e34 == cache_frame_ef01ee12923ba17959e718a3074b3e34) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_5abf5cf7d56898633ff0079bbb435a2d);
-        cache_frame_5abf5cf7d56898633ff0079bbb435a2d = NULL;
+        Py_DECREF(cache_frame_ef01ee12923ba17959e718a3074b3e34);
+        cache_frame_ef01ee12923ba17959e718a3074b3e34 = NULL;
     }
 
-    assertFrameObject(frame_5abf5cf7d56898633ff0079bbb435a2d);
+    assertFrameObject(frame_ef01ee12923ba17959e718a3074b3e34);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -35798,7 +35798,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__55_set_alpha(struct
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_alpha = python_pars[1];
-    struct Nuitka_FrameObject *frame_303576e9a876da764b8989ce9b6de16a;
+    struct Nuitka_FrameObject *frame_14657e559d0d4746a64210c5e6b2199c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
@@ -35829,7 +35829,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__55_set_alpha(struct
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_4;
-    static struct Nuitka_FrameObject *cache_frame_303576e9a876da764b8989ce9b6de16a = NULL;
+    static struct Nuitka_FrameObject *cache_frame_14657e559d0d4746a64210c5e6b2199c = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_5;
     PyObject *exception_keeper_value_5;
@@ -35838,31 +35838,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__55_set_alpha(struct
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_303576e9a876da764b8989ce9b6de16a)) {
-        Py_XDECREF(cache_frame_303576e9a876da764b8989ce9b6de16a);
+    if (isFrameUnusable(cache_frame_14657e559d0d4746a64210c5e6b2199c)) {
+        Py_XDECREF(cache_frame_14657e559d0d4746a64210c5e6b2199c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_303576e9a876da764b8989ce9b6de16a == NULL) {
+        if (cache_frame_14657e559d0d4746a64210c5e6b2199c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_303576e9a876da764b8989ce9b6de16a = MAKE_FUNCTION_FRAME(codeobj_303576e9a876da764b8989ce9b6de16a, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
+        cache_frame_14657e559d0d4746a64210c5e6b2199c = MAKE_FUNCTION_FRAME(codeobj_14657e559d0d4746a64210c5e6b2199c, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_303576e9a876da764b8989ce9b6de16a->m_type_description == NULL);
-    frame_303576e9a876da764b8989ce9b6de16a = cache_frame_303576e9a876da764b8989ce9b6de16a;
+    assert(cache_frame_14657e559d0d4746a64210c5e6b2199c->m_type_description == NULL);
+    frame_14657e559d0d4746a64210c5e6b2199c = cache_frame_14657e559d0d4746a64210c5e6b2199c;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_303576e9a876da764b8989ce9b6de16a);
+    pushFrameStack(frame_14657e559d0d4746a64210c5e6b2199c);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_303576e9a876da764b8989ce9b6de16a) == 2); // Frame stack
+    assert(Py_REFCNT(frame_14657e559d0d4746a64210c5e6b2199c) == 2); // Frame stack
 
     // Framed code:
     {
@@ -35902,7 +35902,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__55_set_alpha(struct
         tmp_args_element_name_1 = par_self;
         CHECK_OBJECT(par_alpha);
         tmp_args_element_name_2 = par_alpha;
-        frame_303576e9a876da764b8989ce9b6de16a->m_frame.f_lineno = 803;
+        frame_14657e559d0d4746a64210c5e6b2199c->m_frame.f_lineno = 803;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS2(
@@ -36012,7 +36012,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__55_set_alpha(struct
             type_description_1 = "oo";
             goto try_except_handler_2;
         }
-        frame_303576e9a876da764b8989ce9b6de16a->m_frame.f_lineno = 805;
+        frame_14657e559d0d4746a64210c5e6b2199c->m_frame.f_lineno = 805;
         {
             PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_assattr_name_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -36073,9 +36073,9 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__55_set_alpha(struct
     GET_CURRENT_EXCEPTION(&exception_preserved_type_1, &exception_preserved_value_1, &exception_preserved_tb_1);
 
     if (exception_keeper_tb_1 == NULL) {
-        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_303576e9a876da764b8989ce9b6de16a, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_14657e559d0d4746a64210c5e6b2199c, exception_keeper_lineno_1);
     } else if (exception_keeper_lineno_1 != 0) {
-        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_303576e9a876da764b8989ce9b6de16a, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_14657e559d0d4746a64210c5e6b2199c, exception_keeper_lineno_1);
     }
 
     NORMALIZE_EXCEPTION(&exception_keeper_type_1, &exception_keeper_value_1, &exception_keeper_tb_1);
@@ -36112,7 +36112,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__55_set_alpha(struct
         exception_lineno = 804;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_303576e9a876da764b8989ce9b6de16a->m_frame) frame_303576e9a876da764b8989ce9b6de16a->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_14657e559d0d4746a64210c5e6b2199c->m_frame) frame_14657e559d0d4746a64210c5e6b2199c->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "oo";
     goto try_except_handler_3;
     branch_no_1:;
@@ -36235,7 +36235,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__55_set_alpha(struct
             type_description_1 = "oo";
             goto try_except_handler_4;
         }
-        frame_303576e9a876da764b8989ce9b6de16a->m_frame.f_lineno = 810;
+        frame_14657e559d0d4746a64210c5e6b2199c->m_frame.f_lineno = 810;
         {
             PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6};
             tmp_assattr_name_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -36296,9 +36296,9 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__55_set_alpha(struct
     GET_CURRENT_EXCEPTION(&exception_preserved_type_2, &exception_preserved_value_2, &exception_preserved_tb_2);
 
     if (exception_keeper_tb_3 == NULL) {
-        exception_keeper_tb_3 = MAKE_TRACEBACK(frame_303576e9a876da764b8989ce9b6de16a, exception_keeper_lineno_3);
+        exception_keeper_tb_3 = MAKE_TRACEBACK(frame_14657e559d0d4746a64210c5e6b2199c, exception_keeper_lineno_3);
     } else if (exception_keeper_lineno_3 != 0) {
-        exception_keeper_tb_3 = ADD_TRACEBACK(exception_keeper_tb_3, frame_303576e9a876da764b8989ce9b6de16a, exception_keeper_lineno_3);
+        exception_keeper_tb_3 = ADD_TRACEBACK(exception_keeper_tb_3, frame_14657e559d0d4746a64210c5e6b2199c, exception_keeper_lineno_3);
     }
 
     NORMALIZE_EXCEPTION(&exception_keeper_type_3, &exception_keeper_value_3, &exception_keeper_tb_3);
@@ -36335,7 +36335,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__55_set_alpha(struct
         exception_lineno = 809;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_303576e9a876da764b8989ce9b6de16a->m_frame) frame_303576e9a876da764b8989ce9b6de16a->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_14657e559d0d4746a64210c5e6b2199c->m_frame) frame_14657e559d0d4746a64210c5e6b2199c->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "oo";
     goto try_except_handler_5;
     branch_no_2:;
@@ -36402,7 +36402,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__55_set_alpha(struct
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_303576e9a876da764b8989ce9b6de16a);
+    RESTORE_FRAME_EXCEPTION(frame_14657e559d0d4746a64210c5e6b2199c);
 #endif
 
     // Put the previous frame back on top.
@@ -36413,18 +36413,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__55_set_alpha(struct
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_303576e9a876da764b8989ce9b6de16a);
+    RESTORE_FRAME_EXCEPTION(frame_14657e559d0d4746a64210c5e6b2199c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_303576e9a876da764b8989ce9b6de16a, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_303576e9a876da764b8989ce9b6de16a->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_303576e9a876da764b8989ce9b6de16a, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_14657e559d0d4746a64210c5e6b2199c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_14657e559d0d4746a64210c5e6b2199c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_14657e559d0d4746a64210c5e6b2199c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_303576e9a876da764b8989ce9b6de16a,
+        frame_14657e559d0d4746a64210c5e6b2199c,
         type_description_1,
         par_self,
         par_alpha
@@ -36432,17 +36432,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__55_set_alpha(struct
 
 
     // Release cached frame if used for exception.
-    if (frame_303576e9a876da764b8989ce9b6de16a == cache_frame_303576e9a876da764b8989ce9b6de16a) {
+    if (frame_14657e559d0d4746a64210c5e6b2199c == cache_frame_14657e559d0d4746a64210c5e6b2199c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_303576e9a876da764b8989ce9b6de16a);
-        cache_frame_303576e9a876da764b8989ce9b6de16a = NULL;
+        Py_DECREF(cache_frame_14657e559d0d4746a64210c5e6b2199c);
+        cache_frame_14657e559d0d4746a64210c5e6b2199c = NULL;
     }
 
-    assertFrameObject(frame_303576e9a876da764b8989ce9b6de16a);
+    assertFrameObject(frame_14657e559d0d4746a64210c5e6b2199c);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -36516,14 +36516,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__56_get_facecolor(st
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_3202215492382951e5b600f541ea64b6;
+    struct Nuitka_FrameObject *frame_feada5e0596d26f7a8c18da5436848a9;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_3202215492382951e5b600f541ea64b6 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_feada5e0596d26f7a8c18da5436848a9 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -36531,31 +36531,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__56_get_facecolor(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_3202215492382951e5b600f541ea64b6)) {
-        Py_XDECREF(cache_frame_3202215492382951e5b600f541ea64b6);
+    if (isFrameUnusable(cache_frame_feada5e0596d26f7a8c18da5436848a9)) {
+        Py_XDECREF(cache_frame_feada5e0596d26f7a8c18da5436848a9);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_3202215492382951e5b600f541ea64b6 == NULL) {
+        if (cache_frame_feada5e0596d26f7a8c18da5436848a9 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_3202215492382951e5b600f541ea64b6 = MAKE_FUNCTION_FRAME(codeobj_3202215492382951e5b600f541ea64b6, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+        cache_frame_feada5e0596d26f7a8c18da5436848a9 = MAKE_FUNCTION_FRAME(codeobj_feada5e0596d26f7a8c18da5436848a9, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_3202215492382951e5b600f541ea64b6->m_type_description == NULL);
-    frame_3202215492382951e5b600f541ea64b6 = cache_frame_3202215492382951e5b600f541ea64b6;
+    assert(cache_frame_feada5e0596d26f7a8c18da5436848a9->m_type_description == NULL);
+    frame_feada5e0596d26f7a8c18da5436848a9 = cache_frame_feada5e0596d26f7a8c18da5436848a9;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_3202215492382951e5b600f541ea64b6);
+    pushFrameStack(frame_feada5e0596d26f7a8c18da5436848a9);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_3202215492382951e5b600f541ea64b6) == 2); // Frame stack
+    assert(Py_REFCNT(frame_feada5e0596d26f7a8c18da5436848a9) == 2); // Frame stack
 
     // Framed code:
     {
@@ -36577,7 +36577,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__56_get_facecolor(st
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3202215492382951e5b600f541ea64b6);
+    RESTORE_FRAME_EXCEPTION(frame_feada5e0596d26f7a8c18da5436848a9);
 #endif
 
     // Put the previous frame back on top.
@@ -36587,7 +36587,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__56_get_facecolor(st
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3202215492382951e5b600f541ea64b6);
+    RESTORE_FRAME_EXCEPTION(frame_feada5e0596d26f7a8c18da5436848a9);
 #endif
 
     // Put the previous frame back on top.
@@ -36598,35 +36598,35 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__56_get_facecolor(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_3202215492382951e5b600f541ea64b6);
+    RESTORE_FRAME_EXCEPTION(frame_feada5e0596d26f7a8c18da5436848a9);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_3202215492382951e5b600f541ea64b6, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_3202215492382951e5b600f541ea64b6->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_3202215492382951e5b600f541ea64b6, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_feada5e0596d26f7a8c18da5436848a9, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_feada5e0596d26f7a8c18da5436848a9->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_feada5e0596d26f7a8c18da5436848a9, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_3202215492382951e5b600f541ea64b6,
+        frame_feada5e0596d26f7a8c18da5436848a9,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_3202215492382951e5b600f541ea64b6 == cache_frame_3202215492382951e5b600f541ea64b6) {
+    if (frame_feada5e0596d26f7a8c18da5436848a9 == cache_frame_feada5e0596d26f7a8c18da5436848a9) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_3202215492382951e5b600f541ea64b6);
-        cache_frame_3202215492382951e5b600f541ea64b6 = NULL;
+        Py_DECREF(cache_frame_feada5e0596d26f7a8c18da5436848a9);
+        cache_frame_feada5e0596d26f7a8c18da5436848a9 = NULL;
     }
 
-    assertFrameObject(frame_3202215492382951e5b600f541ea64b6);
+    assertFrameObject(frame_feada5e0596d26f7a8c18da5436848a9);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -36693,14 +36693,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__57_get_edgecolor(st
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_0059c58759a24b4d9633ac0e2172e3bf;
+    struct Nuitka_FrameObject *frame_2c9659fa9b019156c36add753f796f46;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_0059c58759a24b4d9633ac0e2172e3bf = NULL;
+    static struct Nuitka_FrameObject *cache_frame_2c9659fa9b019156c36add753f796f46 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -36708,31 +36708,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__57_get_edgecolor(st
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_0059c58759a24b4d9633ac0e2172e3bf)) {
-        Py_XDECREF(cache_frame_0059c58759a24b4d9633ac0e2172e3bf);
+    if (isFrameUnusable(cache_frame_2c9659fa9b019156c36add753f796f46)) {
+        Py_XDECREF(cache_frame_2c9659fa9b019156c36add753f796f46);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_0059c58759a24b4d9633ac0e2172e3bf == NULL) {
+        if (cache_frame_2c9659fa9b019156c36add753f796f46 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_0059c58759a24b4d9633ac0e2172e3bf = MAKE_FUNCTION_FRAME(codeobj_0059c58759a24b4d9633ac0e2172e3bf, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+        cache_frame_2c9659fa9b019156c36add753f796f46 = MAKE_FUNCTION_FRAME(codeobj_2c9659fa9b019156c36add753f796f46, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_0059c58759a24b4d9633ac0e2172e3bf->m_type_description == NULL);
-    frame_0059c58759a24b4d9633ac0e2172e3bf = cache_frame_0059c58759a24b4d9633ac0e2172e3bf;
+    assert(cache_frame_2c9659fa9b019156c36add753f796f46->m_type_description == NULL);
+    frame_2c9659fa9b019156c36add753f796f46 = cache_frame_2c9659fa9b019156c36add753f796f46;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_0059c58759a24b4d9633ac0e2172e3bf);
+    pushFrameStack(frame_2c9659fa9b019156c36add753f796f46);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_0059c58759a24b4d9633ac0e2172e3bf) == 2); // Frame stack
+    assert(Py_REFCNT(frame_2c9659fa9b019156c36add753f796f46) == 2); // Frame stack
 
     // Framed code:
     {
@@ -36754,7 +36754,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__57_get_edgecolor(st
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0059c58759a24b4d9633ac0e2172e3bf);
+    RESTORE_FRAME_EXCEPTION(frame_2c9659fa9b019156c36add753f796f46);
 #endif
 
     // Put the previous frame back on top.
@@ -36764,7 +36764,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__57_get_edgecolor(st
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0059c58759a24b4d9633ac0e2172e3bf);
+    RESTORE_FRAME_EXCEPTION(frame_2c9659fa9b019156c36add753f796f46);
 #endif
 
     // Put the previous frame back on top.
@@ -36775,35 +36775,35 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__57_get_edgecolor(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_0059c58759a24b4d9633ac0e2172e3bf);
+    RESTORE_FRAME_EXCEPTION(frame_2c9659fa9b019156c36add753f796f46);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_0059c58759a24b4d9633ac0e2172e3bf, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_0059c58759a24b4d9633ac0e2172e3bf->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_0059c58759a24b4d9633ac0e2172e3bf, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_2c9659fa9b019156c36add753f796f46, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_2c9659fa9b019156c36add753f796f46->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_2c9659fa9b019156c36add753f796f46, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_0059c58759a24b4d9633ac0e2172e3bf,
+        frame_2c9659fa9b019156c36add753f796f46,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_0059c58759a24b4d9633ac0e2172e3bf == cache_frame_0059c58759a24b4d9633ac0e2172e3bf) {
+    if (frame_2c9659fa9b019156c36add753f796f46 == cache_frame_2c9659fa9b019156c36add753f796f46) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_0059c58759a24b4d9633ac0e2172e3bf);
-        cache_frame_0059c58759a24b4d9633ac0e2172e3bf = NULL;
+        Py_DECREF(cache_frame_2c9659fa9b019156c36add753f796f46);
+        cache_frame_2c9659fa9b019156c36add753f796f46 = NULL;
     }
 
-    assertFrameObject(frame_0059c58759a24b4d9633ac0e2172e3bf);
+    assertFrameObject(frame_2c9659fa9b019156c36add753f796f46);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -36877,7 +36877,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__58_poly_collection_
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_44234b8bfa29608065db8835256fe585;
+    struct Nuitka_FrameObject *frame_046c6a6c31af0e60f568521c624f4c61;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -36894,7 +36894,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__58_poly_collection_
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     bool tmp_result;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_44234b8bfa29608065db8835256fe585 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_046c6a6c31af0e60f568521c624f4c61 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
@@ -36903,31 +36903,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__58_poly_collection_
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_44234b8bfa29608065db8835256fe585)) {
-        Py_XDECREF(cache_frame_44234b8bfa29608065db8835256fe585);
+    if (isFrameUnusable(cache_frame_046c6a6c31af0e60f568521c624f4c61)) {
+        Py_XDECREF(cache_frame_046c6a6c31af0e60f568521c624f4c61);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_44234b8bfa29608065db8835256fe585 == NULL) {
+        if (cache_frame_046c6a6c31af0e60f568521c624f4c61 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_44234b8bfa29608065db8835256fe585 = MAKE_FUNCTION_FRAME(codeobj_44234b8bfa29608065db8835256fe585, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_046c6a6c31af0e60f568521c624f4c61 = MAKE_FUNCTION_FRAME(codeobj_046c6a6c31af0e60f568521c624f4c61, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_44234b8bfa29608065db8835256fe585->m_type_description == NULL);
-    frame_44234b8bfa29608065db8835256fe585 = cache_frame_44234b8bfa29608065db8835256fe585;
+    assert(cache_frame_046c6a6c31af0e60f568521c624f4c61->m_type_description == NULL);
+    frame_046c6a6c31af0e60f568521c624f4c61 = cache_frame_046c6a6c31af0e60f568521c624f4c61;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_44234b8bfa29608065db8835256fe585);
+    pushFrameStack(frame_046c6a6c31af0e60f568521c624f4c61);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_44234b8bfa29608065db8835256fe585) == 2); // Frame stack
+    assert(Py_REFCNT(frame_046c6a6c31af0e60f568521c624f4c61) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -36957,7 +36957,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__58_poly_collection_
         }
         CHECK_OBJECT(par_col);
         tmp_called_instance_1 = par_col;
-        frame_44234b8bfa29608065db8835256fe585->m_frame.f_lineno = 826;
+        frame_046c6a6c31af0e60f568521c624f4c61->m_frame.f_lineno = 826;
         tmp_args_element_name_1 = CALL_METHOD_NO_ARGS(tmp_called_instance_1, mod_consts[89]);
         if (tmp_args_element_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -36973,7 +36973,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__58_poly_collection_
         tmp_args_element_name_2 = par_zs;
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_3 = par_zdir;
-        frame_44234b8bfa29608065db8835256fe585->m_frame.f_lineno = 825;
+        frame_046c6a6c31af0e60f568521c624f4c61->m_frame.f_lineno = 825;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_iter_arg_1 = CALL_FUNCTION_WITH_ARGS3(tmp_called_name_1, call_args);
@@ -37233,7 +37233,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__58_poly_collection_
         tmp_args_element_name_4 = var_segments_3d;
         CHECK_OBJECT(var_codes);
         tmp_args_element_name_5 = var_codes;
-        frame_44234b8bfa29608065db8835256fe585->m_frame.f_lineno = 828;
+        frame_046c6a6c31af0e60f568521c624f4c61->m_frame.f_lineno = 828;
         {
             PyObject *call_args[] = {tmp_args_element_name_4, tmp_args_element_name_5};
             tmp_call_result_1 = CALL_METHOD_WITH_ARGS2(
@@ -37271,7 +37271,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__58_poly_collection_
         }
 
         tmp_called_instance_3 = par_col;
-        frame_44234b8bfa29608065db8835256fe585->m_frame.f_lineno = 829;
+        frame_046c6a6c31af0e60f568521c624f4c61->m_frame.f_lineno = 829;
         tmp_call_result_2 = CALL_METHOD_NO_ARGS(tmp_called_instance_3, mod_consts[22]);
         if (tmp_call_result_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -37287,7 +37287,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__58_poly_collection_
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_44234b8bfa29608065db8835256fe585);
+    RESTORE_FRAME_EXCEPTION(frame_046c6a6c31af0e60f568521c624f4c61);
 #endif
 
     // Put the previous frame back on top.
@@ -37298,18 +37298,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__58_poly_collection_
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_44234b8bfa29608065db8835256fe585);
+    RESTORE_FRAME_EXCEPTION(frame_046c6a6c31af0e60f568521c624f4c61);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_44234b8bfa29608065db8835256fe585, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_44234b8bfa29608065db8835256fe585->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_44234b8bfa29608065db8835256fe585, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_046c6a6c31af0e60f568521c624f4c61, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_046c6a6c31af0e60f568521c624f4c61->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_046c6a6c31af0e60f568521c624f4c61, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_44234b8bfa29608065db8835256fe585,
+        frame_046c6a6c31af0e60f568521c624f4c61,
         type_description_1,
         par_col,
         par_zs,
@@ -37320,17 +37320,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__58_poly_collection_
 
 
     // Release cached frame if used for exception.
-    if (frame_44234b8bfa29608065db8835256fe585 == cache_frame_44234b8bfa29608065db8835256fe585) {
+    if (frame_046c6a6c31af0e60f568521c624f4c61 == cache_frame_046c6a6c31af0e60f568521c624f4c61) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_44234b8bfa29608065db8835256fe585);
-        cache_frame_44234b8bfa29608065db8835256fe585 = NULL;
+        Py_DECREF(cache_frame_046c6a6c31af0e60f568521c624f4c61);
+        cache_frame_046c6a6c31af0e60f568521c624f4c61 = NULL;
     }
 
-    assertFrameObject(frame_44234b8bfa29608065db8835256fe585);
+    assertFrameObject(frame_046c6a6c31af0e60f568521c624f4c61);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -37423,14 +37423,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__59_juggle_axes(stru
     PyObject *par_ys = python_pars[1];
     PyObject *par_zs = python_pars[2];
     PyObject *par_zdir = python_pars[3];
-    struct Nuitka_FrameObject *frame_00eb5387ea643138fbe2b2885ce56667;
+    struct Nuitka_FrameObject *frame_4129542e15aaa02bf83768e90b5da699;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_00eb5387ea643138fbe2b2885ce56667 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_4129542e15aaa02bf83768e90b5da699 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -37438,31 +37438,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__59_juggle_axes(stru
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_00eb5387ea643138fbe2b2885ce56667)) {
-        Py_XDECREF(cache_frame_00eb5387ea643138fbe2b2885ce56667);
+    if (isFrameUnusable(cache_frame_4129542e15aaa02bf83768e90b5da699)) {
+        Py_XDECREF(cache_frame_4129542e15aaa02bf83768e90b5da699);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_00eb5387ea643138fbe2b2885ce56667 == NULL) {
+        if (cache_frame_4129542e15aaa02bf83768e90b5da699 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_00eb5387ea643138fbe2b2885ce56667 = MAKE_FUNCTION_FRAME(codeobj_00eb5387ea643138fbe2b2885ce56667, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_4129542e15aaa02bf83768e90b5da699 = MAKE_FUNCTION_FRAME(codeobj_4129542e15aaa02bf83768e90b5da699, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_00eb5387ea643138fbe2b2885ce56667->m_type_description == NULL);
-    frame_00eb5387ea643138fbe2b2885ce56667 = cache_frame_00eb5387ea643138fbe2b2885ce56667;
+    assert(cache_frame_4129542e15aaa02bf83768e90b5da699->m_type_description == NULL);
+    frame_4129542e15aaa02bf83768e90b5da699 = cache_frame_4129542e15aaa02bf83768e90b5da699;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_00eb5387ea643138fbe2b2885ce56667);
+    pushFrameStack(frame_4129542e15aaa02bf83768e90b5da699);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_00eb5387ea643138fbe2b2885ce56667) == 2); // Frame stack
+    assert(Py_REFCNT(frame_4129542e15aaa02bf83768e90b5da699) == 2); // Frame stack
 
     // Framed code:
     {
@@ -37662,7 +37662,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__59_juggle_axes(stru
         tmp_args_element_name_3 = par_zs;
         CHECK_OBJECT(par_zdir);
         tmp_args_element_name_4 = par_zdir;
-        frame_00eb5387ea643138fbe2b2885ce56667->m_frame.f_lineno = 843;
+        frame_4129542e15aaa02bf83768e90b5da699->m_frame.f_lineno = 843;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2, tmp_args_element_name_3, tmp_args_element_name_4};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS4(tmp_called_name_1, call_args);
@@ -37701,7 +37701,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__59_juggle_axes(stru
     branch_end_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_00eb5387ea643138fbe2b2885ce56667);
+    RESTORE_FRAME_EXCEPTION(frame_4129542e15aaa02bf83768e90b5da699);
 #endif
 
     // Put the previous frame back on top.
@@ -37711,7 +37711,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__59_juggle_axes(stru
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_00eb5387ea643138fbe2b2885ce56667);
+    RESTORE_FRAME_EXCEPTION(frame_4129542e15aaa02bf83768e90b5da699);
 #endif
 
     // Put the previous frame back on top.
@@ -37722,18 +37722,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__59_juggle_axes(stru
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_00eb5387ea643138fbe2b2885ce56667);
+    RESTORE_FRAME_EXCEPTION(frame_4129542e15aaa02bf83768e90b5da699);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_00eb5387ea643138fbe2b2885ce56667, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_00eb5387ea643138fbe2b2885ce56667->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_00eb5387ea643138fbe2b2885ce56667, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_4129542e15aaa02bf83768e90b5da699, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_4129542e15aaa02bf83768e90b5da699->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_4129542e15aaa02bf83768e90b5da699, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_00eb5387ea643138fbe2b2885ce56667,
+        frame_4129542e15aaa02bf83768e90b5da699,
         type_description_1,
         par_xs,
         par_ys,
@@ -37743,17 +37743,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__59_juggle_axes(stru
 
 
     // Release cached frame if used for exception.
-    if (frame_00eb5387ea643138fbe2b2885ce56667 == cache_frame_00eb5387ea643138fbe2b2885ce56667) {
+    if (frame_4129542e15aaa02bf83768e90b5da699 == cache_frame_4129542e15aaa02bf83768e90b5da699) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_00eb5387ea643138fbe2b2885ce56667);
-        cache_frame_00eb5387ea643138fbe2b2885ce56667 = NULL;
+        Py_DECREF(cache_frame_4129542e15aaa02bf83768e90b5da699);
+        cache_frame_4129542e15aaa02bf83768e90b5da699 = NULL;
     }
 
-    assertFrameObject(frame_00eb5387ea643138fbe2b2885ce56667);
+    assertFrameObject(frame_4129542e15aaa02bf83768e90b5da699);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -37843,14 +37843,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__60_rotate_axes(stru
     PyObject *par_ys = python_pars[1];
     PyObject *par_zs = python_pars[2];
     PyObject *par_zdir = python_pars[3];
-    struct Nuitka_FrameObject *frame_b707f78515e4977f19170cb2b9f24c80;
+    struct Nuitka_FrameObject *frame_78f37890def300391ac0a42d05bc7f48;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_b707f78515e4977f19170cb2b9f24c80 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_78f37890def300391ac0a42d05bc7f48 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -37858,31 +37858,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__60_rotate_axes(stru
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_b707f78515e4977f19170cb2b9f24c80)) {
-        Py_XDECREF(cache_frame_b707f78515e4977f19170cb2b9f24c80);
+    if (isFrameUnusable(cache_frame_78f37890def300391ac0a42d05bc7f48)) {
+        Py_XDECREF(cache_frame_78f37890def300391ac0a42d05bc7f48);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_b707f78515e4977f19170cb2b9f24c80 == NULL) {
+        if (cache_frame_78f37890def300391ac0a42d05bc7f48 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_b707f78515e4977f19170cb2b9f24c80 = MAKE_FUNCTION_FRAME(codeobj_b707f78515e4977f19170cb2b9f24c80, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_78f37890def300391ac0a42d05bc7f48 = MAKE_FUNCTION_FRAME(codeobj_78f37890def300391ac0a42d05bc7f48, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_b707f78515e4977f19170cb2b9f24c80->m_type_description == NULL);
-    frame_b707f78515e4977f19170cb2b9f24c80 = cache_frame_b707f78515e4977f19170cb2b9f24c80;
+    assert(cache_frame_78f37890def300391ac0a42d05bc7f48->m_type_description == NULL);
+    frame_78f37890def300391ac0a42d05bc7f48 = cache_frame_78f37890def300391ac0a42d05bc7f48;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_b707f78515e4977f19170cb2b9f24c80);
+    pushFrameStack(frame_78f37890def300391ac0a42d05bc7f48);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_b707f78515e4977f19170cb2b9f24c80) == 2); // Frame stack
+    assert(Py_REFCNT(frame_78f37890def300391ac0a42d05bc7f48) == 2); // Frame stack
 
     // Framed code:
     {
@@ -38129,7 +38129,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__60_rotate_axes(stru
     branch_end_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b707f78515e4977f19170cb2b9f24c80);
+    RESTORE_FRAME_EXCEPTION(frame_78f37890def300391ac0a42d05bc7f48);
 #endif
 
     // Put the previous frame back on top.
@@ -38139,7 +38139,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__60_rotate_axes(stru
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b707f78515e4977f19170cb2b9f24c80);
+    RESTORE_FRAME_EXCEPTION(frame_78f37890def300391ac0a42d05bc7f48);
 #endif
 
     // Put the previous frame back on top.
@@ -38150,18 +38150,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__60_rotate_axes(stru
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_b707f78515e4977f19170cb2b9f24c80);
+    RESTORE_FRAME_EXCEPTION(frame_78f37890def300391ac0a42d05bc7f48);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_b707f78515e4977f19170cb2b9f24c80, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_b707f78515e4977f19170cb2b9f24c80->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_b707f78515e4977f19170cb2b9f24c80, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_78f37890def300391ac0a42d05bc7f48, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_78f37890def300391ac0a42d05bc7f48->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_78f37890def300391ac0a42d05bc7f48, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_b707f78515e4977f19170cb2b9f24c80,
+        frame_78f37890def300391ac0a42d05bc7f48,
         type_description_1,
         par_xs,
         par_ys,
@@ -38171,17 +38171,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__60_rotate_axes(stru
 
 
     // Release cached frame if used for exception.
-    if (frame_b707f78515e4977f19170cb2b9f24c80 == cache_frame_b707f78515e4977f19170cb2b9f24c80) {
+    if (frame_78f37890def300391ac0a42d05bc7f48 == cache_frame_78f37890def300391ac0a42d05bc7f48) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_b707f78515e4977f19170cb2b9f24c80);
-        cache_frame_b707f78515e4977f19170cb2b9f24c80 = NULL;
+        Py_DECREF(cache_frame_78f37890def300391ac0a42d05bc7f48);
+        cache_frame_78f37890def300391ac0a42d05bc7f48 = NULL;
     }
 
-    assertFrameObject(frame_b707f78515e4977f19170cb2b9f24c80);
+    assertFrameObject(frame_78f37890def300391ac0a42d05bc7f48);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -38269,14 +38269,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__61__get_colors(stru
     // Local variable declarations.
     PyObject *par_c = python_pars[0];
     PyObject *par_num = python_pars[1];
-    struct Nuitka_FrameObject *frame_07f407febdae4d9e60cb960618cea20e;
+    struct Nuitka_FrameObject *frame_5059be3e41fd5774757e39fc72f28b2d;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_07f407febdae4d9e60cb960618cea20e = NULL;
+    static struct Nuitka_FrameObject *cache_frame_5059be3e41fd5774757e39fc72f28b2d = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -38284,31 +38284,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__61__get_colors(stru
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_07f407febdae4d9e60cb960618cea20e)) {
-        Py_XDECREF(cache_frame_07f407febdae4d9e60cb960618cea20e);
+    if (isFrameUnusable(cache_frame_5059be3e41fd5774757e39fc72f28b2d)) {
+        Py_XDECREF(cache_frame_5059be3e41fd5774757e39fc72f28b2d);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_07f407febdae4d9e60cb960618cea20e == NULL) {
+        if (cache_frame_5059be3e41fd5774757e39fc72f28b2d == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_07f407febdae4d9e60cb960618cea20e = MAKE_FUNCTION_FRAME(codeobj_07f407febdae4d9e60cb960618cea20e, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
+        cache_frame_5059be3e41fd5774757e39fc72f28b2d = MAKE_FUNCTION_FRAME(codeobj_5059be3e41fd5774757e39fc72f28b2d, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_07f407febdae4d9e60cb960618cea20e->m_type_description == NULL);
-    frame_07f407febdae4d9e60cb960618cea20e = cache_frame_07f407febdae4d9e60cb960618cea20e;
+    assert(cache_frame_5059be3e41fd5774757e39fc72f28b2d->m_type_description == NULL);
+    frame_5059be3e41fd5774757e39fc72f28b2d = cache_frame_5059be3e41fd5774757e39fc72f28b2d;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_07f407febdae4d9e60cb960618cea20e);
+    pushFrameStack(frame_5059be3e41fd5774757e39fc72f28b2d);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_07f407febdae4d9e60cb960618cea20e) == 2); // Frame stack
+    assert(Py_REFCNT(frame_5059be3e41fd5774757e39fc72f28b2d) == 2); // Frame stack
 
     // Framed code:
     {
@@ -38425,7 +38425,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__61__get_colors(stru
         }
 
         tmp_args_element_name_2 = par_c;
-        frame_07f407febdae4d9e60cb960618cea20e->m_frame.f_lineno = 871;
+        frame_5059be3e41fd5774757e39fc72f28b2d->m_frame.f_lineno = 871;
         tmp_args_element_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         Py_DECREF(tmp_called_name_2);
         if (tmp_args_element_name_1 == NULL) {
@@ -38448,7 +38448,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__61__get_colors(stru
         PyTuple_SET_ITEM0(tmp_args_element_name_3, 0, tmp_tuple_element_1);
         tmp_tuple_element_1 = mod_consts[236];
         PyTuple_SET_ITEM0(tmp_args_element_name_3, 1, tmp_tuple_element_1);
-        frame_07f407febdae4d9e60cb960618cea20e->m_frame.f_lineno = 870;
+        frame_5059be3e41fd5774757e39fc72f28b2d->m_frame.f_lineno = 870;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_3};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -38471,7 +38471,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__61__get_colors(stru
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_07f407febdae4d9e60cb960618cea20e);
+    RESTORE_FRAME_EXCEPTION(frame_5059be3e41fd5774757e39fc72f28b2d);
 #endif
 
     // Put the previous frame back on top.
@@ -38481,7 +38481,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__61__get_colors(stru
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_07f407febdae4d9e60cb960618cea20e);
+    RESTORE_FRAME_EXCEPTION(frame_5059be3e41fd5774757e39fc72f28b2d);
 #endif
 
     // Put the previous frame back on top.
@@ -38492,18 +38492,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__61__get_colors(stru
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_07f407febdae4d9e60cb960618cea20e);
+    RESTORE_FRAME_EXCEPTION(frame_5059be3e41fd5774757e39fc72f28b2d);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_07f407febdae4d9e60cb960618cea20e, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_07f407febdae4d9e60cb960618cea20e->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_07f407febdae4d9e60cb960618cea20e, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_5059be3e41fd5774757e39fc72f28b2d, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_5059be3e41fd5774757e39fc72f28b2d->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_5059be3e41fd5774757e39fc72f28b2d, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_07f407febdae4d9e60cb960618cea20e,
+        frame_5059be3e41fd5774757e39fc72f28b2d,
         type_description_1,
         par_c,
         par_num
@@ -38511,17 +38511,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__61__get_colors(stru
 
 
     // Release cached frame if used for exception.
-    if (frame_07f407febdae4d9e60cb960618cea20e == cache_frame_07f407febdae4d9e60cb960618cea20e) {
+    if (frame_5059be3e41fd5774757e39fc72f28b2d == cache_frame_5059be3e41fd5774757e39fc72f28b2d) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_07f407febdae4d9e60cb960618cea20e);
-        cache_frame_07f407febdae4d9e60cb960618cea20e = NULL;
+        Py_DECREF(cache_frame_5059be3e41fd5774757e39fc72f28b2d);
+        cache_frame_5059be3e41fd5774757e39fc72f28b2d = NULL;
     }
 
-    assertFrameObject(frame_07f407febdae4d9e60cb960618cea20e);
+    assertFrameObject(frame_5059be3e41fd5774757e39fc72f28b2d);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -38596,14 +38596,14 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__62__zalpha(struct N
     PyObject *var_norm = NULL;
     PyObject *var_sats = NULL;
     PyObject *var_rgba = NULL;
-    struct Nuitka_FrameObject *frame_d2c763baff12c0315aba171a2f2d1dfd;
+    struct Nuitka_FrameObject *frame_c564fe8c67123b7b88733850fbfc84a6;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_d2c763baff12c0315aba171a2f2d1dfd = NULL;
+    static struct Nuitka_FrameObject *cache_frame_c564fe8c67123b7b88733850fbfc84a6 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -38611,31 +38611,31 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__62__zalpha(struct N
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_d2c763baff12c0315aba171a2f2d1dfd)) {
-        Py_XDECREF(cache_frame_d2c763baff12c0315aba171a2f2d1dfd);
+    if (isFrameUnusable(cache_frame_c564fe8c67123b7b88733850fbfc84a6)) {
+        Py_XDECREF(cache_frame_c564fe8c67123b7b88733850fbfc84a6);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_d2c763baff12c0315aba171a2f2d1dfd == NULL) {
+        if (cache_frame_c564fe8c67123b7b88733850fbfc84a6 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_d2c763baff12c0315aba171a2f2d1dfd = MAKE_FUNCTION_FRAME(codeobj_d2c763baff12c0315aba171a2f2d1dfd, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_c564fe8c67123b7b88733850fbfc84a6 = MAKE_FUNCTION_FRAME(codeobj_c564fe8c67123b7b88733850fbfc84a6, module_mpl_toolkits$mplot3d$art3d, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_d2c763baff12c0315aba171a2f2d1dfd->m_type_description == NULL);
-    frame_d2c763baff12c0315aba171a2f2d1dfd = cache_frame_d2c763baff12c0315aba171a2f2d1dfd;
+    assert(cache_frame_c564fe8c67123b7b88733850fbfc84a6->m_type_description == NULL);
+    frame_c564fe8c67123b7b88733850fbfc84a6 = cache_frame_c564fe8c67123b7b88733850fbfc84a6;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_d2c763baff12c0315aba171a2f2d1dfd);
+    pushFrameStack(frame_c564fe8c67123b7b88733850fbfc84a6);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_d2c763baff12c0315aba171a2f2d1dfd) == 2); // Frame stack
+    assert(Py_REFCNT(frame_c564fe8c67123b7b88733850fbfc84a6) == 2); // Frame stack
 
     // Framed code:
     {
@@ -38726,7 +38726,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__62__zalpha(struct N
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_d2c763baff12c0315aba171a2f2d1dfd->m_frame.f_lineno = 882;
+        frame_c564fe8c67123b7b88733850fbfc84a6->m_frame.f_lineno = 882;
         tmp_return_value = CALL_METHOD_WITH_ARGS1(
             tmp_called_instance_1,
             mod_consts[238],
@@ -38786,7 +38786,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__62__zalpha(struct N
         }
 
         tmp_args_element_name_2 = par_zs;
-        frame_d2c763baff12c0315aba171a2f2d1dfd->m_frame.f_lineno = 883;
+        frame_c564fe8c67123b7b88733850fbfc84a6->m_frame.f_lineno = 883;
         tmp_args_element_name_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_2, tmp_args_element_name_2);
         if (tmp_args_element_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -38813,7 +38813,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__62__zalpha(struct N
         }
 
         tmp_args_element_name_4 = par_zs;
-        frame_d2c763baff12c0315aba171a2f2d1dfd->m_frame.f_lineno = 883;
+        frame_c564fe8c67123b7b88733850fbfc84a6->m_frame.f_lineno = 883;
         tmp_args_element_name_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_3, tmp_args_element_name_4);
         if (tmp_args_element_name_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -38825,7 +38825,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__62__zalpha(struct N
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_d2c763baff12c0315aba171a2f2d1dfd->m_frame.f_lineno = 883;
+        frame_c564fe8c67123b7b88733850fbfc84a6->m_frame.f_lineno = 883;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_3};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -38870,7 +38870,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__62__zalpha(struct N
         }
 
         tmp_args_element_name_5 = par_zs;
-        frame_d2c763baff12c0315aba171a2f2d1dfd->m_frame.f_lineno = 884;
+        frame_c564fe8c67123b7b88733850fbfc84a6->m_frame.f_lineno = 884;
         tmp_left_name_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_4, tmp_args_element_name_5);
         if (tmp_left_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -38989,7 +38989,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__62__zalpha(struct N
         }
 
         tmp_args_element_name_7 = par_colors;
-        frame_d2c763baff12c0315aba171a2f2d1dfd->m_frame.f_lineno = 885;
+        frame_c564fe8c67123b7b88733850fbfc84a6->m_frame.f_lineno = 885;
         tmp_args_element_name_6 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_6, tmp_args_element_name_7);
         Py_DECREF(tmp_called_name_6);
         if (tmp_args_element_name_6 == NULL) {
@@ -39032,7 +39032,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__62__zalpha(struct N
         PyTuple_SET_ITEM(tmp_args_element_name_8, 0, tmp_tuple_element_1);
         tmp_tuple_element_1 = mod_consts[236];
         PyTuple_SET_ITEM0(tmp_args_element_name_8, 1, tmp_tuple_element_1);
-        frame_d2c763baff12c0315aba171a2f2d1dfd->m_frame.f_lineno = 885;
+        frame_c564fe8c67123b7b88733850fbfc84a6->m_frame.f_lineno = 885;
         {
             PyObject *call_args[] = {tmp_args_element_name_6, tmp_args_element_name_8};
             tmp_assign_source_3 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_5, call_args);
@@ -39147,7 +39147,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__62__zalpha(struct N
         goto frame_exception_exit_1;
         // Finished with no exception for list_build:
         list_build_noexception_1:;
-        frame_d2c763baff12c0315aba171a2f2d1dfd->m_frame.f_lineno = 886;
+        frame_c564fe8c67123b7b88733850fbfc84a6->m_frame.f_lineno = 886;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_7, tmp_args_element_name_9);
         Py_DECREF(tmp_called_name_7);
         Py_DECREF(tmp_args_element_name_9);
@@ -39165,7 +39165,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__62__zalpha(struct N
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d2c763baff12c0315aba171a2f2d1dfd);
+    RESTORE_FRAME_EXCEPTION(frame_c564fe8c67123b7b88733850fbfc84a6);
 #endif
 
     // Put the previous frame back on top.
@@ -39175,7 +39175,7 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__62__zalpha(struct N
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d2c763baff12c0315aba171a2f2d1dfd);
+    RESTORE_FRAME_EXCEPTION(frame_c564fe8c67123b7b88733850fbfc84a6);
 #endif
 
     // Put the previous frame back on top.
@@ -39186,18 +39186,18 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__62__zalpha(struct N
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d2c763baff12c0315aba171a2f2d1dfd);
+    RESTORE_FRAME_EXCEPTION(frame_c564fe8c67123b7b88733850fbfc84a6);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_d2c763baff12c0315aba171a2f2d1dfd, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_d2c763baff12c0315aba171a2f2d1dfd->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_d2c763baff12c0315aba171a2f2d1dfd, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_c564fe8c67123b7b88733850fbfc84a6, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_c564fe8c67123b7b88733850fbfc84a6->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_c564fe8c67123b7b88733850fbfc84a6, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_d2c763baff12c0315aba171a2f2d1dfd,
+        frame_c564fe8c67123b7b88733850fbfc84a6,
         type_description_1,
         par_colors,
         par_zs,
@@ -39208,17 +39208,17 @@ static PyObject *impl_mpl_toolkits$mplot3d$art3d$$$function__62__zalpha(struct N
 
 
     // Release cached frame if used for exception.
-    if (frame_d2c763baff12c0315aba171a2f2d1dfd == cache_frame_d2c763baff12c0315aba171a2f2d1dfd) {
+    if (frame_c564fe8c67123b7b88733850fbfc84a6 == cache_frame_c564fe8c67123b7b88733850fbfc84a6) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_d2c763baff12c0315aba171a2f2d1dfd);
-        cache_frame_d2c763baff12c0315aba171a2f2d1dfd = NULL;
+        Py_DECREF(cache_frame_c564fe8c67123b7b88733850fbfc84a6);
+        cache_frame_c564fe8c67123b7b88733850fbfc84a6 = NULL;
     }
 
-    assertFrameObject(frame_d2c763baff12c0315aba171a2f2d1dfd);
+    assertFrameObject(frame_c564fe8c67123b7b88733850fbfc84a6);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -39299,9 +39299,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__10_set_3d_
         impl_mpl_toolkits$mplot3d$art3d$$$function__10_set_3d_properties,
         mod_consts[22],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[290],
+        mod_consts[289],
 #endif
-        codeobj_b484d416efb30dc980da12816857db56,
+        codeobj_edf0ba0694edae13b16dbe9d2ceccb1e,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39322,11 +39322,11 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__10_set_3d_
 static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__11_set_data_3d() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_mpl_toolkits$mplot3d$art3d$$$function__11_set_data_3d,
-        mod_consts[291],
+        mod_consts[290],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[292],
+        mod_consts[291],
 #endif
-        codeobj_ce2c957ff5cf8530fe78457cfdfc2eca,
+        codeobj_e2b538be8303821ed901499af0e537c4,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39347,11 +39347,11 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__11_set_dat
 static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__12_get_data_3d() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_mpl_toolkits$mplot3d$art3d$$$function__12_get_data_3d,
-        mod_consts[293],
+        mod_consts[292],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[294],
+        mod_consts[293],
 #endif
-        codeobj_d8fee9a5024e72fb7de7505cf756396b,
+        codeobj_f5f109e73b9339aa2efa87244987e383,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39374,9 +39374,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__13_draw() 
         impl_mpl_toolkits$mplot3d$art3d$$$function__13_draw,
         mod_consts[41],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[295],
+        mod_consts[294],
 #endif
-        codeobj_763d4ff5ee9d7383793532dccb0593f7,
+        codeobj_84014db248f881715aae0a3ca374ec6a,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39397,11 +39397,11 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__13_draw() 
 static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__14_line_2d_to_3d(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_mpl_toolkits$mplot3d$art3d$$$function__14_line_2d_to_3d,
-        mod_consts[296],
+        mod_consts[295],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_8c1667add019f719d24172b0d1c06955,
+        codeobj_05f3b669d2a3655a6a09b7c82fae102c,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39426,7 +39426,7 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__15__path_t
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_53ccc28474e683e42211d8aaedfd6ae1,
+        codeobj_0c5078ed52be3e8e8df8277e569dddc4,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39451,7 +39451,7 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__16__paths_
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_9b10165220f03b76c6ed94025c7dcb01,
+        codeobj_50cfc983dc49f4e95c760b36739e4b0b,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39476,7 +39476,7 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__17__path_t
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_c259580a2f7a26046813c4338c3bd4bc,
+        codeobj_293664f1a3eae1da3b665702d7c4a852,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39501,7 +39501,7 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__18__paths_
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_bd53a12fd9ba977f006da52347cfac08,
+        codeobj_d981b4c4ca72ca2c5a726b59af1ee0c1,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39522,11 +39522,11 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__18__paths_
 static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__19_set_sort_zpos() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_mpl_toolkits$mplot3d$art3d$$$function__19_set_sort_zpos,
-        mod_consts[298],
+        mod_consts[297],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[299],
+        mod_consts[298],
 #endif
-        codeobj_25387fa300c953e856d6cfc4c9f0e487,
+        codeobj_fa5aac9aaf4aa5d46bcab8134609f586,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39547,11 +39547,11 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__19_set_sor
 static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__1__norm_angle() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_mpl_toolkits$mplot3d$art3d$$$function__1__norm_angle,
-        mod_consts[267],
+        mod_consts[266],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_a9387996af37c5365d010f56b6d3a9c4,
+        codeobj_64e4ce53479dbfcaf13932d6ee71454b,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39574,9 +39574,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__20_set_seg
         impl_mpl_toolkits$mplot3d$art3d$$$function__20_set_segments,
         mod_consts[78],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[300],
+        mod_consts[299],
 #endif
-        codeobj_6c04f5093cbe157348c056bd1035f2a4,
+        codeobj_7259fbe7be6391cae6294b3c66cb7138,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39599,9 +39599,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_p
         impl_mpl_toolkits$mplot3d$art3d$$$function__21_do_3d_projection,
         mod_consts[87],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[301],
+        mod_consts[300],
 #endif
-        codeobj_2b3d6418cac66bd0040dd55e5f98be04,
+        codeobj_080f5b098ab90e0861feab8593a14934,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39624,9 +39624,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__22_draw(Py
         impl_mpl_toolkits$mplot3d$art3d$$$function__22_draw,
         mod_consts[41],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[303],
+        mod_consts[302],
 #endif
-        codeobj_52b08f94f62fede528501ebd12b585da,
+        codeobj_76305ac8068951c919f299417d93c772,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39647,11 +39647,11 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__22_draw(Py
 static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__23_line_collection_2d_to_3d(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_mpl_toolkits$mplot3d$art3d$$$function__23_line_collection_2d_to_3d,
-        mod_consts[304],
+        mod_consts[303],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_d69f5c7f50f74b8cb9c38bb0e2087a75,
+        codeobj_b52ae1a3dce04fe019b0824cba1fb8d9,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39674,9 +39674,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__24___init_
         impl_mpl_toolkits$mplot3d$art3d$$$function__24___init__,
         mod_consts[21],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[307],
+        mod_consts[306],
 #endif
-        codeobj_e47659c7c41a61f053cd23a6bdbe4c0c,
+        codeobj_b8087622e3aaaaaffe03f83e953cb4df,
         NULL,
 #if PYTHON_VERSION >= 0x300
         kw_defaults,
@@ -39699,9 +39699,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_
         impl_mpl_toolkits$mplot3d$art3d$$$function__25_set_3d_properties,
         mod_consts[22],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[308],
+        mod_consts[307],
 #endif
-        codeobj_02320c3e53dcf82a4d575cf3a3929478,
+        codeobj_0f554c3d385fa843287b4cdae82f3bd0,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39724,9 +39724,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__26_get_pat
         impl_mpl_toolkits$mplot3d$art3d$$$function__26_get_path,
         mod_consts[111],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[309],
+        mod_consts[308],
 #endif
-        codeobj_79208d6b9d371adc5e7320f1a8a33af2,
+        codeobj_f9f845e887972d445493300ac38dadfc,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39749,9 +39749,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__27_get_fac
         impl_mpl_toolkits$mplot3d$art3d$$$function__27_get_facecolor,
         mod_consts[96],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[310],
+        mod_consts[309],
 #endif
-        codeobj_d9c8f2bb65c910e3eb8e9e41907d0a82,
+        codeobj_f2dbf6fe79145f4dab9d3fe34f12ad3e,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39774,9 +39774,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__28_do_3d_p
         impl_mpl_toolkits$mplot3d$art3d$$$function__28_do_3d_projection,
         mod_consts[87],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[311],
+        mod_consts[310],
 #endif
-        codeobj_d1d9a2f1f5ca9791339da1416ce9e08e,
+        codeobj_d62bff6824f20219b0caccfd686e4201,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39799,9 +39799,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__29___init_
         impl_mpl_toolkits$mplot3d$art3d$$$function__29___init__,
         mod_consts[21],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[313],
+        mod_consts[312],
 #endif
-        codeobj_13ff6c34fade58011fd4e0381bc3392e,
+        codeobj_b299f38ea88c782d130e6fcc277fea74,
         NULL,
 #if PYTHON_VERSION >= 0x300
         kw_defaults,
@@ -39826,7 +39826,7 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__2__norm_te
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_4778a5978c7d8c06564775a095a247c2,
+        codeobj_16264440f8743f9d0b62d5162bc36db6,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39849,9 +39849,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__30_set_3d_
         impl_mpl_toolkits$mplot3d$art3d$$$function__30_set_3d_properties,
         mod_consts[22],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[314],
+        mod_consts[313],
 #endif
-        codeobj_a2aba7d00fc9ce139f14fa18a16f3a91,
+        codeobj_7e9a64fd7707da107a14f4d4f17b26a6,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39874,9 +39874,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__31_do_3d_p
         impl_mpl_toolkits$mplot3d$art3d$$$function__31_do_3d_projection,
         mod_consts[87],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[315],
+        mod_consts[314],
 #endif
-        codeobj_4f5de935fc76e6a7e2249d70d0d3aad1,
+        codeobj_1579f78ba25f77c59ff5df54bd9e4512,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39901,7 +39901,7 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__32__get_pa
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_8fa6aff5c2f4b92711e9c256d1f118c9,
+        codeobj_63fcf7ee625556a9f83956a7d7583329,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39922,11 +39922,11 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__32__get_pa
 static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__33_patch_2d_to_3d(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_mpl_toolkits$mplot3d$art3d$$$function__33_patch_2d_to_3d,
-        mod_consts[316],
+        mod_consts[315],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_7099c13384e90c3b98a789810a50bf53,
+        codeobj_8822f043da15b1564c0700e4dfa7b742,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39947,11 +39947,11 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__33_patch_2
 static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__34_pathpatch_2d_to_3d(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_mpl_toolkits$mplot3d$art3d$$$function__34_pathpatch_2d_to_3d,
-        mod_consts[317],
+        mod_consts[316],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_cbeacb49ddaada1e8679ae6dcdcef501,
+        codeobj_db4c638aa2717eb9251ef71fb4659b83,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -39974,9 +39974,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__35___init_
         impl_mpl_toolkits$mplot3d$art3d$$$function__35___init__,
         mod_consts[21],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[320],
+        mod_consts[319],
 #endif
-        codeobj_f110b211ada6e11b6d27aa9023d8f878,
+        codeobj_62e8fbbce515d7ed9365a0f40a7e1521,
         NULL,
 #if PYTHON_VERSION >= 0x300
         kw_defaults,
@@ -39997,11 +39997,11 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__35___init_
 static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__36_set_sort_zpos() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_mpl_toolkits$mplot3d$art3d$$$function__36_set_sort_zpos,
-        mod_consts[298],
+        mod_consts[297],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[321],
+        mod_consts[320],
 #endif
-        codeobj_ab29b294a6e0d3a3da251abbd778e806,
+        codeobj_09107cff93eae5653f257a274a280cee,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40024,9 +40024,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__37_set_3d_
         impl_mpl_toolkits$mplot3d$art3d$$$function__37_set_3d_properties,
         mod_consts[22],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[322],
+        mod_consts[321],
 #endif
-        codeobj_93fbeee15905192d01870bd9369d5046,
+        codeobj_a081f7e24f88a5b1e5ec16d12ef68699,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40049,9 +40049,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_p
         impl_mpl_toolkits$mplot3d$art3d$$$function__38_do_3d_projection,
         mod_consts[87],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[323],
+        mod_consts[322],
 #endif
-        codeobj_17c4fd654b64f23d19bf5168d7202ac7,
+        codeobj_19e9002d141ffae0decf6cf15a2b4d31,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40074,9 +40074,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__39___init_
         impl_mpl_toolkits$mplot3d$art3d$$$function__39___init__,
         mod_consts[21],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[325],
+        mod_consts[324],
 #endif
-        codeobj_08bc12f387a522999e6f55a77e2ff132,
+        codeobj_04dba8d4545bcdc9383259f777be02f0,
         NULL,
 #if PYTHON_VERSION >= 0x300
         kw_defaults,
@@ -40101,7 +40101,7 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__3_get_dir_
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_a58a591c84eb629606afa8d537e4d930,
+        codeobj_106c12281d82fb301190777e5f4adab0,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40122,11 +40122,11 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__3_get_dir_
 static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__40_set_sort_zpos() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_mpl_toolkits$mplot3d$art3d$$$function__40_set_sort_zpos,
-        mod_consts[298],
+        mod_consts[297],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[326],
+        mod_consts[325],
 #endif
-        codeobj_bd88637a561d6d49696e719f8f3ec799,
+        codeobj_bed77eb0d00065c145103ce4892f47ef,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40149,9 +40149,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__41_set_3d_
         impl_mpl_toolkits$mplot3d$art3d$$$function__41_set_3d_properties,
         mod_consts[22],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[327],
+        mod_consts[326],
 #endif
-        codeobj_9d8e7e02ef5877a5b245a25219b89693,
+        codeobj_9f18279adaeb21d7617e26715c8ffcd4,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40174,9 +40174,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_p
         impl_mpl_toolkits$mplot3d$art3d$$$function__42_do_3d_projection,
         mod_consts[87],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[328],
+        mod_consts[327],
 #endif
-        codeobj_525e5049da746999f737807fc701aa50,
+        codeobj_aec5e178050cac6046fffe47015e5831,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40201,7 +40201,7 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__43__update
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_24ef3eaffa95a6952d65244d94dfdceb,
+        codeobj_a304a22c244c411591ffccaf17317fb3,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40222,11 +40222,11 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__43__update
 static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__44_patch_collection_2d_to_3d(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_mpl_toolkits$mplot3d$art3d$$$function__44_patch_collection_2d_to_3d,
-        mod_consts[330],
+        mod_consts[329],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_05e5198d983f0aaef53582907daaf9ba,
+        codeobj_d376a0253a738d1ca16bd2d9711bb86e,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40249,9 +40249,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__45___init_
         impl_mpl_toolkits$mplot3d$art3d$$$function__45___init__,
         mod_consts[21],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[333],
+        mod_consts[332],
 #endif
-        codeobj_166100917f7a592c435b808f312d955d,
+        codeobj_1f16a44144fe99a39bbff51e31bd4d58,
         NULL,
 #if PYTHON_VERSION >= 0x300
         kw_defaults,
@@ -40274,9 +40274,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__46_set_zso
         impl_mpl_toolkits$mplot3d$art3d$$$function__46_set_zsort,
         mod_consts[168],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[335],
+        mod_consts[334],
 #endif
-        codeobj_beec34d580ef781d2fe34f73ee1209b4,
+        codeobj_87e7883400ccbc9cd932ed7e438de200,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40299,9 +40299,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__47_get_vec
         impl_mpl_toolkits$mplot3d$art3d$$$function__47_get_vector,
         mod_consts[185],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[336],
+        mod_consts[335],
 #endif
-        codeobj_bfcaba8c3fb018c24c6475001699d5a3,
+        codeobj_ec2e59cdd36dbf9aa213ca339552a171,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40324,9 +40324,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__48_set_ver
         impl_mpl_toolkits$mplot3d$art3d$$$function__48_set_verts,
         mod_consts[187],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[338],
+        mod_consts[337],
 #endif
-        codeobj_9b3005b6cc92daf710b4c0176a0961ea,
+        codeobj_269b116253b99dcacd9c13c3cb35cafe,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40349,9 +40349,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__49_set_ver
         impl_mpl_toolkits$mplot3d$art3d$$$function__49_set_verts_and_codes,
         mod_consts[212],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[339],
+        mod_consts[338],
 #endif
-        codeobj_0ff2516c755cc23ad5495db168b984e8,
+        codeobj_e2a316c5f084e5f7877d9cc6630e87bf,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40374,9 +40374,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__4___init__
         impl_mpl_toolkits$mplot3d$art3d$$$function__4___init__,
         mod_consts[21],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[279],
+        mod_consts[278],
 #endif
-        codeobj_752ba1fcbf2c7fdc68cf04330293cf29,
+        codeobj_d4a80e760b2893a0aab9549507ebf606,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40399,9 +40399,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__50_set_3d_
         impl_mpl_toolkits$mplot3d$art3d$$$function__50_set_3d_properties,
         mod_consts[22],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[340],
+        mod_consts[339],
 #endif
-        codeobj_5cf8f014787c829acc75007fe6987187,
+        codeobj_cdde693b9a3d8a1bdf4be4065bf14c58,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40422,11 +40422,11 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__50_set_3d_
 static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__51_set_sort_zpos() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_mpl_toolkits$mplot3d$art3d$$$function__51_set_sort_zpos,
-        mod_consts[298],
+        mod_consts[297],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[341],
+        mod_consts[340],
 #endif
-        codeobj_4647efa2e26c81116c813b07c08cdec3,
+        codeobj_24c6b5a617b08669296defb1247bebc4,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40449,9 +40449,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_p
         impl_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_projection,
         mod_consts[87],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[342],
+        mod_consts[341],
 #endif
-        codeobj_d2fc00b0df82db560090bbcc1e8088ac,
+        codeobj_6f79e474c38ed7510c3056bcbbd21b8a,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40476,7 +40476,7 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__52_do_3d_p
 #if PYTHON_VERSION >= 0x300
         mod_consts[207],
 #endif
-        codeobj_c2fe34a743fb3f72716c632a8244ae77,
+        codeobj_e968b08aefb01c02feecc3d3386ed3f0,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40499,9 +40499,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__53_set_fac
         impl_mpl_toolkits$mplot3d$art3d$$$function__53_set_facecolor,
         mod_consts[219],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[343],
+        mod_consts[342],
 #endif
-        codeobj_27d43359c98aca3e5ba06fe2406a8663,
+        codeobj_d5d4b52d50387805428c7a7290dd29c1,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40524,9 +40524,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__54_set_edg
         impl_mpl_toolkits$mplot3d$art3d$$$function__54_set_edgecolor,
         mod_consts[220],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[344],
+        mod_consts[343],
 #endif
-        codeobj_5abf5cf7d56898633ff0079bbb435a2d,
+        codeobj_ef01ee12923ba17959e718a3074b3e34,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40549,9 +40549,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__55_set_alp
         impl_mpl_toolkits$mplot3d$art3d$$$function__55_set_alpha,
         mod_consts[223],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[345],
+        mod_consts[344],
 #endif
-        codeobj_303576e9a876da764b8989ce9b6de16a,
+        codeobj_14657e559d0d4746a64210c5e6b2199c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40574,9 +40574,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__56_get_fac
         impl_mpl_toolkits$mplot3d$art3d$$$function__56_get_facecolor,
         mod_consts[96],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[346],
+        mod_consts[345],
 #endif
-        codeobj_3202215492382951e5b600f541ea64b6,
+        codeobj_feada5e0596d26f7a8c18da5436848a9,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40599,9 +40599,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__57_get_edg
         impl_mpl_toolkits$mplot3d$art3d$$$function__57_get_edgecolor,
         mod_consts[130],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[347],
+        mod_consts[346],
 #endif
-        codeobj_0059c58759a24b4d9633ac0e2172e3bf,
+        codeobj_2c9659fa9b019156c36add753f796f46,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40622,11 +40622,11 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__57_get_edg
 static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__58_poly_collection_2d_to_3d(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_mpl_toolkits$mplot3d$art3d$$$function__58_poly_collection_2d_to_3d,
-        mod_consts[348],
+        mod_consts[347],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_44234b8bfa29608065db8835256fe585,
+        codeobj_046c6a6c31af0e60f568521c624f4c61,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40651,7 +40651,7 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__59_juggle_
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_00eb5387ea643138fbe2b2885ce56667,
+        codeobj_4129542e15aaa02bf83768e90b5da699,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40674,9 +40674,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__5_set_3d_p
         impl_mpl_toolkits$mplot3d$art3d$$$function__5_set_3d_properties,
         mod_consts[22],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[281],
+        mod_consts[280],
 #endif
-        codeobj_ba78da36cfaae963e0af19754581b47f,
+        codeobj_abbb9b654cb05f8a4848267bc01ac4c6,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40701,7 +40701,7 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__60_rotate_
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_b707f78515e4977f19170cb2b9f24c80,
+        codeobj_78f37890def300391ac0a42d05bc7f48,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40722,11 +40722,11 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__60_rotate_
 static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__61__get_colors() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_mpl_toolkits$mplot3d$art3d$$$function__61__get_colors,
-        mod_consts[349],
+        mod_consts[348],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_07f407febdae4d9e60cb960618cea20e,
+        codeobj_5059be3e41fd5774757e39fc72f28b2d,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40751,7 +40751,7 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__62__zalpha
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_d2c763baff12c0315aba171a2f2d1dfd,
+        codeobj_c564fe8c67123b7b88733850fbfc84a6,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40774,9 +40774,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__6_draw() {
         impl_mpl_toolkits$mplot3d$art3d$$$function__6_draw,
         mod_consts[41],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[283],
+        mod_consts[282],
 #endif
-        codeobj_4d965b2b29384cc493657b22f6fc4ba7,
+        codeobj_36a3e666e299aad9a7ed599483c2710c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40797,11 +40797,11 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__6_draw() {
 static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__7_get_tightbbox() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_mpl_toolkits$mplot3d$art3d$$$function__7_get_tightbbox,
-        mod_consts[284],
+        mod_consts[283],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[285],
+        mod_consts[284],
 #endif
-        codeobj_6d2224ca244efe9d9c5479cb5bcac047,
+        codeobj_1669d78b2e89120affd8aac8baf1c331,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40822,11 +40822,11 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__7_get_tigh
 static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__8_text_2d_to_3d(PyObject *defaults) {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_mpl_toolkits$mplot3d$art3d$$$function__8_text_2d_to_3d,
-        mod_consts[287],
+        mod_consts[286],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_c041e4e65215769122804eeef8e73516,
+        codeobj_8a75d1d6e18010a608d2b5620b4c3758,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -40849,9 +40849,9 @@ static PyObject *MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__9___init__
         impl_mpl_toolkits$mplot3d$art3d$$$function__9___init__,
         mod_consts[21],
 #if PYTHON_VERSION >= 0x300
-        mod_consts[289],
+        mod_consts[288],
 #endif
-        codeobj_1a7952008aa34ca84573e7ec09c736ca,
+        codeobj_6c23e530b420d01fcb892a5adfcc4974,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -41351,7 +41351,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     PyObject *tmp_class_creation_8__prepared = NULL;
     PyObject *tmp_import_from_1__module = NULL;
     PyObject *tmp_import_from_2__module = NULL;
-    struct Nuitka_FrameObject *frame_444e3e6d8379edf10208f795889be03c;
+    struct Nuitka_FrameObject *frame_0b719ac8d47333bf91f57081ce2b482f;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -41371,9 +41371,9 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     PyObject *tmp_dictdel_key;
     PyObject *locals_mpl_toolkits$mplot3d$art3d$$$class__1_Text3D_74 = NULL;
     PyObject *tmp_dictset_value;
-    struct Nuitka_FrameObject *frame_13c767f091765adc8f651265de0d8849_2;
+    struct Nuitka_FrameObject *frame_75cdb105a84d8515d23b829258a05858_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_13c767f091765adc8f651265de0d8849_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_75cdb105a84d8515d23b829258a05858_2 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -41387,9 +41387,9 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     PyTracebackObject *exception_keeper_tb_5;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_5;
     PyObject *locals_mpl_toolkits$mplot3d$art3d$$$class__2_Line3D_128 = NULL;
-    struct Nuitka_FrameObject *frame_2c95d76f838cdcd546ac1fef951a424c_3;
+    struct Nuitka_FrameObject *frame_5e2c4cb624509251f84402cb0025e59f_3;
     NUITKA_MAY_BE_UNUSED char const *type_description_3 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_2c95d76f838cdcd546ac1fef951a424c_3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_5e2c4cb624509251f84402cb0025e59f_3 = NULL;
     PyObject *exception_keeper_type_6;
     PyObject *exception_keeper_value_6;
     PyTracebackObject *exception_keeper_tb_6;
@@ -41403,9 +41403,9 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     PyTracebackObject *exception_keeper_tb_8;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_8;
     PyObject *locals_mpl_toolkits$mplot3d$art3d$$$class__3_Line3DCollection_246 = NULL;
-    struct Nuitka_FrameObject *frame_bb7586f67a5f32bd053c702be1c2d874_4;
+    struct Nuitka_FrameObject *frame_24bf64935ec27e5edf66a6813c51d070_4;
     NUITKA_MAY_BE_UNUSED char const *type_description_4 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_bb7586f67a5f32bd053c702be1c2d874_4 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_24bf64935ec27e5edf66a6813c51d070_4 = NULL;
     PyObject *exception_keeper_type_9;
     PyObject *exception_keeper_value_9;
     PyTracebackObject *exception_keeper_tb_9;
@@ -41419,9 +41419,9 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     PyTracebackObject *exception_keeper_tb_11;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_11;
     PyObject *locals_mpl_toolkits$mplot3d$art3d$$$class__4_Patch3D_295 = NULL;
-    struct Nuitka_FrameObject *frame_35c53257df883d017862067a24d2b29d_5;
+    struct Nuitka_FrameObject *frame_1ea2e54f2ac84f954985355118b8a9ef_5;
     NUITKA_MAY_BE_UNUSED char const *type_description_5 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_35c53257df883d017862067a24d2b29d_5 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_1ea2e54f2ac84f954985355118b8a9ef_5 = NULL;
     PyObject *exception_keeper_type_12;
     PyObject *exception_keeper_value_12;
     PyTracebackObject *exception_keeper_tb_12;
@@ -41435,9 +41435,9 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     PyTracebackObject *exception_keeper_tb_14;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_14;
     PyObject *locals_mpl_toolkits$mplot3d$art3d$$$class__5_PathPatch3D_326 = NULL;
-    struct Nuitka_FrameObject *frame_6b5d3ce800897df02329afff84ed253c_6;
+    struct Nuitka_FrameObject *frame_5eefb1636aac3c578e9174782a01ab4c_6;
     NUITKA_MAY_BE_UNUSED char const *type_description_6 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_6b5d3ce800897df02329afff84ed253c_6 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_5eefb1636aac3c578e9174782a01ab4c_6 = NULL;
     PyObject *exception_keeper_type_15;
     PyObject *exception_keeper_value_15;
     PyTracebackObject *exception_keeper_tb_15;
@@ -41451,9 +41451,9 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     PyTracebackObject *exception_keeper_tb_17;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_17;
     PyObject *locals_mpl_toolkits$mplot3d$art3d$$$class__6_Patch3DCollection_377 = NULL;
-    struct Nuitka_FrameObject *frame_416628511ae61e6ee641ce28ad093b24_7;
+    struct Nuitka_FrameObject *frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7;
     NUITKA_MAY_BE_UNUSED char const *type_description_7 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_416628511ae61e6ee641ce28ad093b24_7 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7 = NULL;
     PyObject *exception_keeper_type_18;
     PyObject *exception_keeper_value_18;
     PyTracebackObject *exception_keeper_tb_18;
@@ -41467,9 +41467,9 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     PyTracebackObject *exception_keeper_tb_20;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_20;
     PyObject *locals_mpl_toolkits$mplot3d$art3d$$$class__7_Path3DCollection_445 = NULL;
-    struct Nuitka_FrameObject *frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8;
+    struct Nuitka_FrameObject *frame_e57809f6791e7499a3fdaa2b00b1ea8b_8;
     NUITKA_MAY_BE_UNUSED char const *type_description_8 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_e57809f6791e7499a3fdaa2b00b1ea8b_8 = NULL;
     PyObject *exception_keeper_type_21;
     PyObject *exception_keeper_value_21;
     PyTracebackObject *exception_keeper_tb_21;
@@ -41483,9 +41483,9 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     PyTracebackObject *exception_keeper_tb_23;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_23;
     PyObject *locals_mpl_toolkits$mplot3d$art3d$$$class__8_Poly3DCollection_634 = NULL;
-    struct Nuitka_FrameObject *frame_68ac56ea93fb1f5293e7a3a6619928b1_9;
+    struct Nuitka_FrameObject *frame_d0360fb44511b7cc96b287e29a6b9b18_9;
     NUITKA_MAY_BE_UNUSED char const *type_description_9 = NULL;
-    static struct Nuitka_FrameObject *cache_frame_68ac56ea93fb1f5293e7a3a6619928b1_9 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d0360fb44511b7cc96b287e29a6b9b18_9 = NULL;
     PyObject *exception_keeper_type_24;
     PyObject *exception_keeper_value_24;
     PyTracebackObject *exception_keeper_tb_24;
@@ -41507,30 +41507,30 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[249];
-        UPDATE_STRING_DICT0(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[250], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[249], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_444e3e6d8379edf10208f795889be03c = MAKE_MODULE_FRAME(codeobj_444e3e6d8379edf10208f795889be03c, module_mpl_toolkits$mplot3d$art3d);
+    frame_0b719ac8d47333bf91f57081ce2b482f = MAKE_MODULE_FRAME(codeobj_0b719ac8d47333bf91f57081ce2b482f, module_mpl_toolkits$mplot3d$art3d);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_444e3e6d8379edf10208f795889be03c);
-    assert(Py_REFCNT(frame_444e3e6d8379edf10208f795889be03c) == 2);
+    pushFrameStack(frame_0b719ac8d47333bf91f57081ce2b482f);
+    assert(Py_REFCNT(frame_0b719ac8d47333bf91f57081ce2b482f) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[249];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[251]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[250]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[251]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[250]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[252], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[251], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -41546,14 +41546,14 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[251]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[250]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[251]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[250]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[253], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[252], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -41568,7 +41568,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[254], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[253], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -41582,7 +41582,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         tmp_locals_arg_name_1 = Py_None;
         tmp_fromlist_name_1 = Py_None;
         tmp_level_name_1 = mod_consts[33];
-        frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 10;
+        frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 10;
         tmp_assign_source_4 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         assert(!(tmp_assign_source_4 == NULL));
         UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[35], tmp_assign_source_4);
@@ -41594,12 +41594,12 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_2;
         PyObject *tmp_fromlist_name_2;
         PyObject *tmp_level_name_2;
-        tmp_name_name_2 = mod_consts[255];
+        tmp_name_name_2 = mod_consts[254];
         tmp_globals_arg_name_2 = (PyObject *)moduledict_mpl_toolkits$mplot3d$art3d;
         tmp_locals_arg_name_2 = Py_None;
         tmp_fromlist_name_2 = Py_None;
         tmp_level_name_2 = mod_consts[33];
-        frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 12;
+        frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 12;
         tmp_assign_source_5 = IMPORT_MODULE5(tmp_name_name_2, tmp_globals_arg_name_2, tmp_locals_arg_name_2, tmp_fromlist_name_2, tmp_level_name_2);
         if (tmp_assign_source_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -41620,12 +41620,12 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_3;
         PyObject *tmp_fromlist_name_3;
         PyObject *tmp_level_name_3;
-        tmp_name_name_3 = mod_consts[256];
+        tmp_name_name_3 = mod_consts[255];
         tmp_globals_arg_name_3 = (PyObject *)moduledict_mpl_toolkits$mplot3d$art3d;
         tmp_locals_arg_name_3 = Py_None;
-        tmp_fromlist_name_3 = mod_consts[257];
+        tmp_fromlist_name_3 = mod_consts[256];
         tmp_level_name_3 = mod_consts[33];
-        frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 14;
+        frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 14;
         tmp_assign_source_6 = IMPORT_MODULE5(tmp_name_name_3, tmp_globals_arg_name_3, tmp_locals_arg_name_3, tmp_fromlist_name_3, tmp_level_name_3);
         if (tmp_assign_source_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -41734,11 +41734,11 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             tmp_assign_source_10 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_4,
                 (PyObject *)moduledict_mpl_toolkits$mplot3d$art3d,
-                mod_consts[258],
+                mod_consts[257],
                 mod_consts[33]
             );
         } else {
-            tmp_assign_source_10 = IMPORT_NAME(tmp_import_name_from_4, mod_consts[258]);
+            tmp_assign_source_10 = IMPORT_NAME(tmp_import_name_from_4, mod_consts[257]);
         }
 
         if (tmp_assign_source_10 == NULL) {
@@ -41815,12 +41815,12 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_4;
         PyObject *tmp_fromlist_name_4;
         PyObject *tmp_level_name_4;
-        tmp_name_name_4 = mod_consts[259];
+        tmp_name_name_4 = mod_consts[258];
         tmp_globals_arg_name_4 = (PyObject *)moduledict_mpl_toolkits$mplot3d$art3d;
         tmp_locals_arg_name_4 = Py_None;
-        tmp_fromlist_name_4 = mod_consts[260];
+        tmp_fromlist_name_4 = mod_consts[259];
         tmp_level_name_4 = mod_consts[33];
-        frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 16;
+        frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 16;
         tmp_assign_source_12 = IMPORT_MODULE5(tmp_name_name_4, tmp_globals_arg_name_4, tmp_locals_arg_name_4, tmp_fromlist_name_4, tmp_level_name_4);
         if (tmp_assign_source_12 == NULL) {
             assert(ERROR_OCCURRED());
@@ -41983,12 +41983,12 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_5;
         PyObject *tmp_fromlist_name_5;
         PyObject *tmp_level_name_5;
-        tmp_name_name_5 = mod_consts[261];
+        tmp_name_name_5 = mod_consts[260];
         tmp_globals_arg_name_5 = (PyObject *)moduledict_mpl_toolkits$mplot3d$art3d;
         tmp_locals_arg_name_5 = Py_None;
-        tmp_fromlist_name_5 = mod_consts[262];
+        tmp_fromlist_name_5 = mod_consts[261];
         tmp_level_name_5 = mod_consts[33];
-        frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 18;
+        frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 18;
         tmp_import_name_from_10 = IMPORT_MODULE5(tmp_name_name_5, tmp_globals_arg_name_5, tmp_locals_arg_name_5, tmp_fromlist_name_5, tmp_level_name_5);
         if (tmp_import_name_from_10 == NULL) {
             assert(ERROR_OCCURRED());
@@ -42032,12 +42032,12 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_6;
         PyObject *tmp_fromlist_name_6;
         PyObject *tmp_level_name_6;
-        tmp_name_name_6 = mod_consts[263];
+        tmp_name_name_6 = mod_consts[262];
         tmp_globals_arg_name_6 = (PyObject *)moduledict_mpl_toolkits$mplot3d$art3d;
         tmp_locals_arg_name_6 = Py_None;
-        tmp_fromlist_name_6 = mod_consts[264];
+        tmp_fromlist_name_6 = mod_consts[263];
         tmp_level_name_6 = mod_consts[33];
-        frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 19;
+        frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 19;
         tmp_import_name_from_11 = IMPORT_MODULE5(tmp_name_name_6, tmp_globals_arg_name_6, tmp_locals_arg_name_6, tmp_fromlist_name_6, tmp_level_name_6);
         if (tmp_import_name_from_11 == NULL) {
             assert(ERROR_OCCURRED());
@@ -42081,12 +42081,12 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_locals_arg_name_7;
         PyObject *tmp_fromlist_name_7;
         PyObject *tmp_level_name_7;
-        tmp_name_name_7 = mod_consts[265];
+        tmp_name_name_7 = mod_consts[264];
         tmp_globals_arg_name_7 = (PyObject *)moduledict_mpl_toolkits$mplot3d$art3d;
         tmp_locals_arg_name_7 = Py_None;
-        tmp_fromlist_name_7 = mod_consts[266];
+        tmp_fromlist_name_7 = mod_consts[265];
         tmp_level_name_7 = mod_consts[34];
-        frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 20;
+        frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 20;
         tmp_import_name_from_12 = IMPORT_MODULE5(tmp_name_name_7, tmp_globals_arg_name_7, tmp_locals_arg_name_7, tmp_fromlist_name_7, tmp_level_name_7);
         if (tmp_import_name_from_12 == NULL) {
             assert(ERROR_OCCURRED());
@@ -42128,7 +42128,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
         tmp_assign_source_20 = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__1__norm_angle();
 
-        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[267], tmp_assign_source_20);
+        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[266], tmp_assign_source_20);
     }
     {
         PyObject *tmp_assign_source_21;
@@ -42227,7 +42227,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_2;
         PyObject *tmp_subscript_name_1;
         PyObject *tmp_bases_name_1;
-        tmp_key_name_1 = mod_consts[268];
+        tmp_key_name_1 = mod_consts[267];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_1 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_1, tmp_key_name_1);
@@ -42241,7 +42241,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         condexpr_true_1:;
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_2 = tmp_class_creation_1__class_decl_dict;
-        tmp_key_name_2 = mod_consts[268];
+        tmp_key_name_2 = mod_consts[267];
         tmp_metaclass_name_1 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_2, tmp_key_name_2);
         if (tmp_metaclass_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -42327,7 +42327,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         nuitka_bool tmp_condition_result_3;
         PyObject *tmp_key_name_3;
         PyObject *tmp_dict_arg_name_3;
-        tmp_key_name_3 = mod_consts[268];
+        tmp_key_name_3 = mod_consts[267];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_3 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_3, tmp_key_name_3);
@@ -42342,7 +42342,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     branch_yes_1:;
     CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_1__class_decl_dict;
-    tmp_dictdel_key = mod_consts[268];
+    tmp_dictdel_key = mod_consts[267];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -42360,7 +42360,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_3;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_3 = tmp_class_creation_1__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_3, mod_consts[269]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_3, mod_consts[268]);
         tmp_condition_result_4 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_4 == NUITKA_BOOL_TRUE) {
             goto branch_yes_2;
@@ -42378,7 +42378,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_kwargs_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_4 = tmp_class_creation_1__metaclass;
-        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_4, mod_consts[269]);
+        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_4, mod_consts[268]);
         if (tmp_called_name_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -42397,7 +42397,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyTuple_SET_ITEM0(tmp_args_name_1, 1, tmp_tuple_element_2);
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_kwargs_name_1 = tmp_class_creation_1__class_decl_dict;
-        frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 74;
+        frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 74;
         tmp_assign_source_27 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         Py_DECREF(tmp_args_name_1);
@@ -42420,7 +42420,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_5;
         CHECK_OBJECT(tmp_class_creation_1__prepared);
         tmp_expression_name_5 = tmp_class_creation_1__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_5, mod_consts[270]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_5, mod_consts[269]);
         tmp_operand_name_1 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_1);
         if (tmp_res == -1) {
@@ -42451,11 +42451,11 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_getattr_attr_1;
         PyObject *tmp_getattr_default_1;
         tmp_raise_type_1 = PyExc_TypeError;
-        tmp_left_name_1 = mod_consts[271];
+        tmp_left_name_1 = mod_consts[270];
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_getattr_target_1 = tmp_class_creation_1__metaclass;
-        tmp_getattr_attr_1 = mod_consts[272];
-        tmp_getattr_default_1 = mod_consts[273];
+        tmp_getattr_attr_1 = mod_consts[271];
+        tmp_getattr_default_1 = mod_consts[272];
         tmp_tuple_element_3 = BUILTIN_GETATTR(tmp_getattr_target_1, tmp_getattr_attr_1, tmp_getattr_default_1);
         if (tmp_tuple_element_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -42476,7 +42476,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             tmp_type_arg_2 = tmp_class_creation_1__prepared;
             tmp_expression_name_6 = BUILTIN_TYPE1(tmp_type_arg_2);
             assert(!(tmp_expression_name_6 == NULL));
-            tmp_tuple_element_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_6, mod_consts[272]);
+            tmp_tuple_element_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_6, mod_consts[271]);
             Py_DECREF(tmp_expression_name_6);
             if (tmp_tuple_element_3 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -42538,8 +42538,8 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[274];
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__1_Text3D_74, mod_consts[275], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[273];
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__1_Text3D_74, mod_consts[274], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -42550,7 +42550,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             goto try_except_handler_5;
         }
-        tmp_dictset_value = mod_consts[276];
+        tmp_dictset_value = mod_consts[275];
         tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__1_Text3D_74, mod_consts[248], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -42563,7 +42563,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             goto try_except_handler_5;
         }
         tmp_dictset_value = mod_consts[43];
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__1_Text3D_74, mod_consts[277], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__1_Text3D_74, mod_consts[276], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -42574,36 +42574,36 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             goto try_except_handler_5;
         }
-        if (isFrameUnusable(cache_frame_13c767f091765adc8f651265de0d8849_2)) {
-            Py_XDECREF(cache_frame_13c767f091765adc8f651265de0d8849_2);
+        if (isFrameUnusable(cache_frame_75cdb105a84d8515d23b829258a05858_2)) {
+            Py_XDECREF(cache_frame_75cdb105a84d8515d23b829258a05858_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_13c767f091765adc8f651265de0d8849_2 == NULL) {
+            if (cache_frame_75cdb105a84d8515d23b829258a05858_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_13c767f091765adc8f651265de0d8849_2 = MAKE_FUNCTION_FRAME(codeobj_13c767f091765adc8f651265de0d8849, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+            cache_frame_75cdb105a84d8515d23b829258a05858_2 = MAKE_FUNCTION_FRAME(codeobj_75cdb105a84d8515d23b829258a05858, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_13c767f091765adc8f651265de0d8849_2->m_type_description == NULL);
-        frame_13c767f091765adc8f651265de0d8849_2 = cache_frame_13c767f091765adc8f651265de0d8849_2;
+        assert(cache_frame_75cdb105a84d8515d23b829258a05858_2->m_type_description == NULL);
+        frame_75cdb105a84d8515d23b829258a05858_2 = cache_frame_75cdb105a84d8515d23b829258a05858_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_13c767f091765adc8f651265de0d8849_2);
+        pushFrameStack(frame_75cdb105a84d8515d23b829258a05858_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_13c767f091765adc8f651265de0d8849_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_75cdb105a84d8515d23b829258a05858_2) == 2); // Frame stack
 
         // Framed code:
         {
             PyObject *tmp_defaults_1;
-            tmp_defaults_1 = mod_consts[278];
+            tmp_defaults_1 = mod_consts[277];
             Py_INCREF(tmp_defaults_1);
 
 
@@ -42624,7 +42624,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
         {
             PyObject *tmp_defaults_2;
-            tmp_defaults_2 = mod_consts[280];
+            tmp_defaults_2 = mod_consts[279];
             Py_INCREF(tmp_defaults_2);
 
 
@@ -42674,8 +42674,8 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             tmp_args_element_name_1 = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__6_draw();
 
-            frame_13c767f091765adc8f651265de0d8849_2->m_frame.f_lineno = 104;
-            tmp_dictset_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[282], tmp_args_element_name_1);
+            frame_75cdb105a84d8515d23b829258a05858_2->m_frame.f_lineno = 104;
+            tmp_dictset_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[281], tmp_args_element_name_1);
             Py_DECREF(tmp_called_instance_1);
             Py_DECREF(tmp_args_element_name_1);
             if (tmp_dictset_value == NULL) {
@@ -42705,7 +42705,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__7_get_tightbbox();
 
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__1_Text3D_74, mod_consts[284], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__1_Text3D_74, mod_consts[283], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -42719,7 +42719,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_13c767f091765adc8f651265de0d8849_2);
+        RESTORE_FRAME_EXCEPTION(frame_75cdb105a84d8515d23b829258a05858_2);
 #endif
 
         // Put the previous frame back on top.
@@ -42730,35 +42730,35 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_13c767f091765adc8f651265de0d8849_2);
+        RESTORE_FRAME_EXCEPTION(frame_75cdb105a84d8515d23b829258a05858_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_13c767f091765adc8f651265de0d8849_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_13c767f091765adc8f651265de0d8849_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_13c767f091765adc8f651265de0d8849_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_75cdb105a84d8515d23b829258a05858_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_75cdb105a84d8515d23b829258a05858_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_75cdb105a84d8515d23b829258a05858_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_13c767f091765adc8f651265de0d8849_2,
+            frame_75cdb105a84d8515d23b829258a05858_2,
             type_description_2,
             outline_0_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_13c767f091765adc8f651265de0d8849_2 == cache_frame_13c767f091765adc8f651265de0d8849_2) {
+        if (frame_75cdb105a84d8515d23b829258a05858_2 == cache_frame_75cdb105a84d8515d23b829258a05858_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_13c767f091765adc8f651265de0d8849_2);
-            cache_frame_13c767f091765adc8f651265de0d8849_2 = NULL;
+            Py_DECREF(cache_frame_75cdb105a84d8515d23b829258a05858_2);
+            cache_frame_75cdb105a84d8515d23b829258a05858_2 = NULL;
         }
 
-        assertFrameObject(frame_13c767f091765adc8f651265de0d8849_2);
+        assertFrameObject(frame_75cdb105a84d8515d23b829258a05858_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -42801,7 +42801,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         branch_yes_4:;
         CHECK_OBJECT(tmp_class_creation_1__bases_orig);
         tmp_dictset_value = tmp_class_creation_1__bases_orig;
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__1_Text3D_74, mod_consts[286], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__1_Text3D_74, mod_consts[285], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -42831,7 +42831,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_2, 2, tmp_tuple_element_4);
             CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
             tmp_kwargs_name_2 = tmp_class_creation_1__class_decl_dict;
-            frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 74;
+            frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 74;
             tmp_assign_source_30 = CALL_FUNCTION(tmp_called_name_2, tmp_args_name_2, tmp_kwargs_name_2);
             Py_DECREF(tmp_args_name_2);
             if (tmp_assign_source_30 == NULL) {
@@ -42960,13 +42960,13 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     {
         PyObject *tmp_assign_source_31;
         PyObject *tmp_defaults_3;
-        tmp_defaults_3 = mod_consts[280];
+        tmp_defaults_3 = mod_consts[279];
         Py_INCREF(tmp_defaults_3);
 
 
         tmp_assign_source_31 = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__8_text_2d_to_3d(tmp_defaults_3);
 
-        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[287], tmp_assign_source_31);
+        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[286], tmp_assign_source_31);
     }
     // Tried code:
     {
@@ -43049,7 +43049,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_8;
         PyObject *tmp_subscript_name_2;
         PyObject *tmp_bases_name_2;
-        tmp_key_name_4 = mod_consts[268];
+        tmp_key_name_4 = mod_consts[267];
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_4 = tmp_class_creation_2__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_4, tmp_key_name_4);
@@ -43063,7 +43063,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         condexpr_true_3:;
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_5 = tmp_class_creation_2__class_decl_dict;
-        tmp_key_name_5 = mod_consts[268];
+        tmp_key_name_5 = mod_consts[267];
         tmp_metaclass_name_2 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_5, tmp_key_name_5);
         if (tmp_metaclass_name_2 == NULL) {
             assert(ERROR_OCCURRED());
@@ -43149,7 +43149,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         nuitka_bool tmp_condition_result_9;
         PyObject *tmp_key_name_6;
         PyObject *tmp_dict_arg_name_6;
-        tmp_key_name_6 = mod_consts[268];
+        tmp_key_name_6 = mod_consts[267];
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_dict_arg_name_6 = tmp_class_creation_2__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_6, tmp_key_name_6);
@@ -43164,7 +43164,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     branch_yes_5:;
     CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_2__class_decl_dict;
-    tmp_dictdel_key = mod_consts[268];
+    tmp_dictdel_key = mod_consts[267];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -43182,7 +43182,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_9;
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_expression_name_9 = tmp_class_creation_2__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_9, mod_consts[269]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_9, mod_consts[268]);
         tmp_condition_result_10 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_10 == NUITKA_BOOL_TRUE) {
             goto branch_yes_6;
@@ -43200,7 +43200,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_kwargs_name_3;
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_expression_name_10 = tmp_class_creation_2__metaclass;
-        tmp_called_name_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_10, mod_consts[269]);
+        tmp_called_name_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_10, mod_consts[268]);
         if (tmp_called_name_3 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -43219,7 +43219,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyTuple_SET_ITEM0(tmp_args_name_3, 1, tmp_tuple_element_6);
         CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
         tmp_kwargs_name_3 = tmp_class_creation_2__class_decl_dict;
-        frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 128;
+        frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 128;
         tmp_assign_source_36 = CALL_FUNCTION(tmp_called_name_3, tmp_args_name_3, tmp_kwargs_name_3);
         Py_DECREF(tmp_called_name_3);
         Py_DECREF(tmp_args_name_3);
@@ -43242,7 +43242,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_11;
         CHECK_OBJECT(tmp_class_creation_2__prepared);
         tmp_expression_name_11 = tmp_class_creation_2__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_11, mod_consts[270]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_11, mod_consts[269]);
         tmp_operand_name_2 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_2);
         if (tmp_res == -1) {
@@ -43273,11 +43273,11 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_getattr_attr_2;
         PyObject *tmp_getattr_default_2;
         tmp_raise_type_2 = PyExc_TypeError;
-        tmp_left_name_2 = mod_consts[271];
+        tmp_left_name_2 = mod_consts[270];
         CHECK_OBJECT(tmp_class_creation_2__metaclass);
         tmp_getattr_target_2 = tmp_class_creation_2__metaclass;
-        tmp_getattr_attr_2 = mod_consts[272];
-        tmp_getattr_default_2 = mod_consts[273];
+        tmp_getattr_attr_2 = mod_consts[271];
+        tmp_getattr_default_2 = mod_consts[272];
         tmp_tuple_element_7 = BUILTIN_GETATTR(tmp_getattr_target_2, tmp_getattr_attr_2, tmp_getattr_default_2);
         if (tmp_tuple_element_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -43298,7 +43298,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             tmp_type_arg_4 = tmp_class_creation_2__prepared;
             tmp_expression_name_12 = BUILTIN_TYPE1(tmp_type_arg_4);
             assert(!(tmp_expression_name_12 == NULL));
-            tmp_tuple_element_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_12, mod_consts[272]);
+            tmp_tuple_element_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_12, mod_consts[271]);
             Py_DECREF(tmp_expression_name_12);
             if (tmp_tuple_element_7 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -43360,8 +43360,8 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[274];
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__2_Line3D_128, mod_consts[275], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[273];
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__2_Line3D_128, mod_consts[274], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -43372,7 +43372,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             goto try_except_handler_8;
         }
-        tmp_dictset_value = mod_consts[288];
+        tmp_dictset_value = mod_consts[287];
         tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__2_Line3D_128, mod_consts[248], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -43385,7 +43385,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             goto try_except_handler_8;
         }
         tmp_dictset_value = mod_consts[61];
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__2_Line3D_128, mod_consts[277], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__2_Line3D_128, mod_consts[276], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -43396,31 +43396,31 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             goto try_except_handler_8;
         }
-        if (isFrameUnusable(cache_frame_2c95d76f838cdcd546ac1fef951a424c_3)) {
-            Py_XDECREF(cache_frame_2c95d76f838cdcd546ac1fef951a424c_3);
+        if (isFrameUnusable(cache_frame_5e2c4cb624509251f84402cb0025e59f_3)) {
+            Py_XDECREF(cache_frame_5e2c4cb624509251f84402cb0025e59f_3);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_2c95d76f838cdcd546ac1fef951a424c_3 == NULL) {
+            if (cache_frame_5e2c4cb624509251f84402cb0025e59f_3 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_2c95d76f838cdcd546ac1fef951a424c_3 = MAKE_FUNCTION_FRAME(codeobj_2c95d76f838cdcd546ac1fef951a424c, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+            cache_frame_5e2c4cb624509251f84402cb0025e59f_3 = MAKE_FUNCTION_FRAME(codeobj_5e2c4cb624509251f84402cb0025e59f, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_2c95d76f838cdcd546ac1fef951a424c_3->m_type_description == NULL);
-        frame_2c95d76f838cdcd546ac1fef951a424c_3 = cache_frame_2c95d76f838cdcd546ac1fef951a424c_3;
+        assert(cache_frame_5e2c4cb624509251f84402cb0025e59f_3->m_type_description == NULL);
+        frame_5e2c4cb624509251f84402cb0025e59f_3 = cache_frame_5e2c4cb624509251f84402cb0025e59f_3;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_2c95d76f838cdcd546ac1fef951a424c_3);
+        pushFrameStack(frame_5e2c4cb624509251f84402cb0025e59f_3);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_2c95d76f838cdcd546ac1fef951a424c_3) == 2); // Frame stack
+        assert(Py_REFCNT(frame_5e2c4cb624509251f84402cb0025e59f_3) == 2); // Frame stack
 
         // Framed code:
 
@@ -43441,7 +43441,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
         {
             PyObject *tmp_defaults_4;
-            tmp_defaults_4 = mod_consts[280];
+            tmp_defaults_4 = mod_consts[279];
             Py_INCREF(tmp_defaults_4);
 
 
@@ -43464,7 +43464,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__11_set_data_3d();
 
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__2_Line3D_128, mod_consts[291], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__2_Line3D_128, mod_consts[290], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -43480,7 +43480,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__12_get_data_3d();
 
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__2_Line3D_128, mod_consts[293], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__2_Line3D_128, mod_consts[292], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -43523,8 +43523,8 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             tmp_args_element_name_2 = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__13_draw();
 
-            frame_2c95d76f838cdcd546ac1fef951a424c_3->m_frame.f_lineno = 181;
-            tmp_dictset_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[282], tmp_args_element_name_2);
+            frame_5e2c4cb624509251f84402cb0025e59f_3->m_frame.f_lineno = 181;
+            tmp_dictset_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_2, mod_consts[281], tmp_args_element_name_2);
             Py_DECREF(tmp_called_instance_2);
             Py_DECREF(tmp_args_element_name_2);
             if (tmp_dictset_value == NULL) {
@@ -43552,7 +43552,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_2c95d76f838cdcd546ac1fef951a424c_3);
+        RESTORE_FRAME_EXCEPTION(frame_5e2c4cb624509251f84402cb0025e59f_3);
 #endif
 
         // Put the previous frame back on top.
@@ -43563,35 +43563,35 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         frame_exception_exit_3:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_2c95d76f838cdcd546ac1fef951a424c_3);
+        RESTORE_FRAME_EXCEPTION(frame_5e2c4cb624509251f84402cb0025e59f_3);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_2c95d76f838cdcd546ac1fef951a424c_3, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_2c95d76f838cdcd546ac1fef951a424c_3->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_2c95d76f838cdcd546ac1fef951a424c_3, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_5e2c4cb624509251f84402cb0025e59f_3, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_5e2c4cb624509251f84402cb0025e59f_3->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_5e2c4cb624509251f84402cb0025e59f_3, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_2c95d76f838cdcd546ac1fef951a424c_3,
+            frame_5e2c4cb624509251f84402cb0025e59f_3,
             type_description_2,
             outline_1_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_2c95d76f838cdcd546ac1fef951a424c_3 == cache_frame_2c95d76f838cdcd546ac1fef951a424c_3) {
+        if (frame_5e2c4cb624509251f84402cb0025e59f_3 == cache_frame_5e2c4cb624509251f84402cb0025e59f_3) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_2c95d76f838cdcd546ac1fef951a424c_3);
-            cache_frame_2c95d76f838cdcd546ac1fef951a424c_3 = NULL;
+            Py_DECREF(cache_frame_5e2c4cb624509251f84402cb0025e59f_3);
+            cache_frame_5e2c4cb624509251f84402cb0025e59f_3 = NULL;
         }
 
-        assertFrameObject(frame_2c95d76f838cdcd546ac1fef951a424c_3);
+        assertFrameObject(frame_5e2c4cb624509251f84402cb0025e59f_3);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -43634,7 +43634,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         branch_yes_8:;
         CHECK_OBJECT(tmp_class_creation_2__bases_orig);
         tmp_dictset_value = tmp_class_creation_2__bases_orig;
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__2_Line3D_128, mod_consts[286], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__2_Line3D_128, mod_consts[285], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -43664,7 +43664,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_4, 2, tmp_tuple_element_8);
             CHECK_OBJECT(tmp_class_creation_2__class_decl_dict);
             tmp_kwargs_name_4 = tmp_class_creation_2__class_decl_dict;
-            frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 128;
+            frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 128;
             tmp_assign_source_39 = CALL_FUNCTION(tmp_called_name_4, tmp_args_name_4, tmp_kwargs_name_4);
             Py_DECREF(tmp_args_name_4);
             if (tmp_assign_source_39 == NULL) {
@@ -43793,18 +43793,18 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     {
         PyObject *tmp_assign_source_40;
         PyObject *tmp_defaults_5;
-        tmp_defaults_5 = mod_consts[280];
+        tmp_defaults_5 = mod_consts[279];
         Py_INCREF(tmp_defaults_5);
 
 
         tmp_assign_source_40 = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__14_line_2d_to_3d(tmp_defaults_5);
 
-        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[296], tmp_assign_source_40);
+        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[295], tmp_assign_source_40);
     }
     {
         PyObject *tmp_assign_source_41;
         PyObject *tmp_defaults_6;
-        tmp_defaults_6 = mod_consts[280];
+        tmp_defaults_6 = mod_consts[279];
         Py_INCREF(tmp_defaults_6);
 
 
@@ -43815,7 +43815,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     {
         PyObject *tmp_assign_source_42;
         PyObject *tmp_defaults_7;
-        tmp_defaults_7 = mod_consts[280];
+        tmp_defaults_7 = mod_consts[279];
         Py_INCREF(tmp_defaults_7);
 
 
@@ -43826,7 +43826,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     {
         PyObject *tmp_assign_source_43;
         PyObject *tmp_defaults_8;
-        tmp_defaults_8 = mod_consts[280];
+        tmp_defaults_8 = mod_consts[279];
         Py_INCREF(tmp_defaults_8);
 
 
@@ -43837,7 +43837,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     {
         PyObject *tmp_assign_source_44;
         PyObject *tmp_defaults_9;
-        tmp_defaults_9 = mod_consts[280];
+        tmp_defaults_9 = mod_consts[279];
         Py_INCREF(tmp_defaults_9);
 
 
@@ -43914,7 +43914,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_13;
         PyObject *tmp_subscript_name_3;
         PyObject *tmp_bases_name_3;
-        tmp_key_name_7 = mod_consts[268];
+        tmp_key_name_7 = mod_consts[267];
         CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
         tmp_dict_arg_name_7 = tmp_class_creation_3__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_7, tmp_key_name_7);
@@ -43928,7 +43928,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         condexpr_true_5:;
         CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
         tmp_dict_arg_name_8 = tmp_class_creation_3__class_decl_dict;
-        tmp_key_name_8 = mod_consts[268];
+        tmp_key_name_8 = mod_consts[267];
         tmp_metaclass_name_3 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_8, tmp_key_name_8);
         if (tmp_metaclass_name_3 == NULL) {
             assert(ERROR_OCCURRED());
@@ -44014,7 +44014,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         nuitka_bool tmp_condition_result_15;
         PyObject *tmp_key_name_9;
         PyObject *tmp_dict_arg_name_9;
-        tmp_key_name_9 = mod_consts[268];
+        tmp_key_name_9 = mod_consts[267];
         CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
         tmp_dict_arg_name_9 = tmp_class_creation_3__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_9, tmp_key_name_9);
@@ -44029,7 +44029,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     branch_yes_9:;
     CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_3__class_decl_dict;
-    tmp_dictdel_key = mod_consts[268];
+    tmp_dictdel_key = mod_consts[267];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -44047,7 +44047,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_14;
         CHECK_OBJECT(tmp_class_creation_3__metaclass);
         tmp_expression_name_14 = tmp_class_creation_3__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_14, mod_consts[269]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_14, mod_consts[268]);
         tmp_condition_result_16 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_16 == NUITKA_BOOL_TRUE) {
             goto branch_yes_10;
@@ -44065,7 +44065,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_kwargs_name_5;
         CHECK_OBJECT(tmp_class_creation_3__metaclass);
         tmp_expression_name_15 = tmp_class_creation_3__metaclass;
-        tmp_called_name_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_15, mod_consts[269]);
+        tmp_called_name_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_15, mod_consts[268]);
         if (tmp_called_name_5 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -44084,7 +44084,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyTuple_SET_ITEM0(tmp_args_name_5, 1, tmp_tuple_element_10);
         CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
         tmp_kwargs_name_5 = tmp_class_creation_3__class_decl_dict;
-        frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 246;
+        frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 246;
         tmp_assign_source_49 = CALL_FUNCTION(tmp_called_name_5, tmp_args_name_5, tmp_kwargs_name_5);
         Py_DECREF(tmp_called_name_5);
         Py_DECREF(tmp_args_name_5);
@@ -44107,7 +44107,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_16;
         CHECK_OBJECT(tmp_class_creation_3__prepared);
         tmp_expression_name_16 = tmp_class_creation_3__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_16, mod_consts[270]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_16, mod_consts[269]);
         tmp_operand_name_3 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_3);
         if (tmp_res == -1) {
@@ -44138,11 +44138,11 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_getattr_attr_3;
         PyObject *tmp_getattr_default_3;
         tmp_raise_type_3 = PyExc_TypeError;
-        tmp_left_name_3 = mod_consts[271];
+        tmp_left_name_3 = mod_consts[270];
         CHECK_OBJECT(tmp_class_creation_3__metaclass);
         tmp_getattr_target_3 = tmp_class_creation_3__metaclass;
-        tmp_getattr_attr_3 = mod_consts[272];
-        tmp_getattr_default_3 = mod_consts[273];
+        tmp_getattr_attr_3 = mod_consts[271];
+        tmp_getattr_default_3 = mod_consts[272];
         tmp_tuple_element_11 = BUILTIN_GETATTR(tmp_getattr_target_3, tmp_getattr_attr_3, tmp_getattr_default_3);
         if (tmp_tuple_element_11 == NULL) {
             assert(ERROR_OCCURRED());
@@ -44163,7 +44163,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             tmp_type_arg_6 = tmp_class_creation_3__prepared;
             tmp_expression_name_17 = BUILTIN_TYPE1(tmp_type_arg_6);
             assert(!(tmp_expression_name_17 == NULL));
-            tmp_tuple_element_11 = LOOKUP_ATTRIBUTE(tmp_expression_name_17, mod_consts[272]);
+            tmp_tuple_element_11 = LOOKUP_ATTRIBUTE(tmp_expression_name_17, mod_consts[271]);
             Py_DECREF(tmp_expression_name_17);
             if (tmp_tuple_element_11 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -44225,8 +44225,8 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[274];
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__3_Line3DCollection_246, mod_consts[275], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[273];
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__3_Line3DCollection_246, mod_consts[274], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -44237,7 +44237,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             goto try_except_handler_11;
         }
-        tmp_dictset_value = mod_consts[297];
+        tmp_dictset_value = mod_consts[296];
         tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__3_Line3DCollection_246, mod_consts[248], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -44250,7 +44250,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             goto try_except_handler_11;
         }
         tmp_dictset_value = mod_consts[90];
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__3_Line3DCollection_246, mod_consts[277], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__3_Line3DCollection_246, mod_consts[276], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -44261,38 +44261,38 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             goto try_except_handler_11;
         }
-        if (isFrameUnusable(cache_frame_bb7586f67a5f32bd053c702be1c2d874_4)) {
-            Py_XDECREF(cache_frame_bb7586f67a5f32bd053c702be1c2d874_4);
+        if (isFrameUnusable(cache_frame_24bf64935ec27e5edf66a6813c51d070_4)) {
+            Py_XDECREF(cache_frame_24bf64935ec27e5edf66a6813c51d070_4);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_bb7586f67a5f32bd053c702be1c2d874_4 == NULL) {
+            if (cache_frame_24bf64935ec27e5edf66a6813c51d070_4 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_bb7586f67a5f32bd053c702be1c2d874_4 = MAKE_FUNCTION_FRAME(codeobj_bb7586f67a5f32bd053c702be1c2d874, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+            cache_frame_24bf64935ec27e5edf66a6813c51d070_4 = MAKE_FUNCTION_FRAME(codeobj_24bf64935ec27e5edf66a6813c51d070, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_bb7586f67a5f32bd053c702be1c2d874_4->m_type_description == NULL);
-        frame_bb7586f67a5f32bd053c702be1c2d874_4 = cache_frame_bb7586f67a5f32bd053c702be1c2d874_4;
+        assert(cache_frame_24bf64935ec27e5edf66a6813c51d070_4->m_type_description == NULL);
+        frame_24bf64935ec27e5edf66a6813c51d070_4 = cache_frame_24bf64935ec27e5edf66a6813c51d070_4;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_bb7586f67a5f32bd053c702be1c2d874_4);
+        pushFrameStack(frame_24bf64935ec27e5edf66a6813c51d070_4);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_bb7586f67a5f32bd053c702be1c2d874_4) == 2); // Frame stack
+        assert(Py_REFCNT(frame_24bf64935ec27e5edf66a6813c51d070_4) == 2); // Frame stack
 
         // Framed code:
 
 
         tmp_dictset_value = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__19_set_sort_zpos();
 
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__3_Line3DCollection_246, mod_consts[298], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__3_Line3DCollection_246, mod_consts[297], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -44364,14 +44364,14 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
                 }
             }
 
-            tmp_defaults_10 = mod_consts[302];
+            tmp_defaults_10 = mod_consts[301];
             Py_INCREF(tmp_defaults_10);
 
 
             tmp_args_element_name_3 = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__22_draw(tmp_defaults_10);
 
-            frame_bb7586f67a5f32bd053c702be1c2d874_4->m_frame.f_lineno = 281;
-            tmp_dictset_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[282], tmp_args_element_name_3);
+            frame_24bf64935ec27e5edf66a6813c51d070_4->m_frame.f_lineno = 281;
+            tmp_dictset_value = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_3, mod_consts[281], tmp_args_element_name_3);
             Py_DECREF(tmp_called_instance_3);
             Py_DECREF(tmp_args_element_name_3);
             if (tmp_dictset_value == NULL) {
@@ -44399,7 +44399,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_bb7586f67a5f32bd053c702be1c2d874_4);
+        RESTORE_FRAME_EXCEPTION(frame_24bf64935ec27e5edf66a6813c51d070_4);
 #endif
 
         // Put the previous frame back on top.
@@ -44410,35 +44410,35 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         frame_exception_exit_4:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_bb7586f67a5f32bd053c702be1c2d874_4);
+        RESTORE_FRAME_EXCEPTION(frame_24bf64935ec27e5edf66a6813c51d070_4);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_bb7586f67a5f32bd053c702be1c2d874_4, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_bb7586f67a5f32bd053c702be1c2d874_4->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_bb7586f67a5f32bd053c702be1c2d874_4, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_24bf64935ec27e5edf66a6813c51d070_4, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_24bf64935ec27e5edf66a6813c51d070_4->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_24bf64935ec27e5edf66a6813c51d070_4, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_bb7586f67a5f32bd053c702be1c2d874_4,
+            frame_24bf64935ec27e5edf66a6813c51d070_4,
             type_description_2,
             outline_2_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_bb7586f67a5f32bd053c702be1c2d874_4 == cache_frame_bb7586f67a5f32bd053c702be1c2d874_4) {
+        if (frame_24bf64935ec27e5edf66a6813c51d070_4 == cache_frame_24bf64935ec27e5edf66a6813c51d070_4) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_bb7586f67a5f32bd053c702be1c2d874_4);
-            cache_frame_bb7586f67a5f32bd053c702be1c2d874_4 = NULL;
+            Py_DECREF(cache_frame_24bf64935ec27e5edf66a6813c51d070_4);
+            cache_frame_24bf64935ec27e5edf66a6813c51d070_4 = NULL;
         }
 
-        assertFrameObject(frame_bb7586f67a5f32bd053c702be1c2d874_4);
+        assertFrameObject(frame_24bf64935ec27e5edf66a6813c51d070_4);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -44481,7 +44481,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         branch_yes_12:;
         CHECK_OBJECT(tmp_class_creation_3__bases_orig);
         tmp_dictset_value = tmp_class_creation_3__bases_orig;
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__3_Line3DCollection_246, mod_consts[286], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__3_Line3DCollection_246, mod_consts[285], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -44511,7 +44511,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_6, 2, tmp_tuple_element_12);
             CHECK_OBJECT(tmp_class_creation_3__class_decl_dict);
             tmp_kwargs_name_6 = tmp_class_creation_3__class_decl_dict;
-            frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 246;
+            frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 246;
             tmp_assign_source_52 = CALL_FUNCTION(tmp_called_name_6, tmp_args_name_6, tmp_kwargs_name_6);
             Py_DECREF(tmp_args_name_6);
             if (tmp_assign_source_52 == NULL) {
@@ -44640,13 +44640,13 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     {
         PyObject *tmp_assign_source_53;
         PyObject *tmp_defaults_11;
-        tmp_defaults_11 = mod_consts[280];
+        tmp_defaults_11 = mod_consts[279];
         Py_INCREF(tmp_defaults_11);
 
 
         tmp_assign_source_53 = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__23_line_collection_2d_to_3d(tmp_defaults_11);
 
-        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[304], tmp_assign_source_53);
+        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[303], tmp_assign_source_53);
     }
     // Tried code:
     {
@@ -44717,7 +44717,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_18;
         PyObject *tmp_subscript_name_4;
         PyObject *tmp_bases_name_4;
-        tmp_key_name_10 = mod_consts[268];
+        tmp_key_name_10 = mod_consts[267];
         CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
         tmp_dict_arg_name_10 = tmp_class_creation_4__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_10, tmp_key_name_10);
@@ -44731,7 +44731,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         condexpr_true_7:;
         CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
         tmp_dict_arg_name_11 = tmp_class_creation_4__class_decl_dict;
-        tmp_key_name_11 = mod_consts[268];
+        tmp_key_name_11 = mod_consts[267];
         tmp_metaclass_name_4 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_11, tmp_key_name_11);
         if (tmp_metaclass_name_4 == NULL) {
             assert(ERROR_OCCURRED());
@@ -44817,7 +44817,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         nuitka_bool tmp_condition_result_21;
         PyObject *tmp_key_name_12;
         PyObject *tmp_dict_arg_name_12;
-        tmp_key_name_12 = mod_consts[268];
+        tmp_key_name_12 = mod_consts[267];
         CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
         tmp_dict_arg_name_12 = tmp_class_creation_4__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_12, tmp_key_name_12);
@@ -44832,7 +44832,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     branch_yes_13:;
     CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_4__class_decl_dict;
-    tmp_dictdel_key = mod_consts[268];
+    tmp_dictdel_key = mod_consts[267];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -44850,7 +44850,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_19;
         CHECK_OBJECT(tmp_class_creation_4__metaclass);
         tmp_expression_name_19 = tmp_class_creation_4__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_19, mod_consts[269]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_19, mod_consts[268]);
         tmp_condition_result_22 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_22 == NUITKA_BOOL_TRUE) {
             goto branch_yes_14;
@@ -44868,7 +44868,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_kwargs_name_7;
         CHECK_OBJECT(tmp_class_creation_4__metaclass);
         tmp_expression_name_20 = tmp_class_creation_4__metaclass;
-        tmp_called_name_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_20, mod_consts[269]);
+        tmp_called_name_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_20, mod_consts[268]);
         if (tmp_called_name_7 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -44887,7 +44887,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyTuple_SET_ITEM0(tmp_args_name_7, 1, tmp_tuple_element_14);
         CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
         tmp_kwargs_name_7 = tmp_class_creation_4__class_decl_dict;
-        frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 295;
+        frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 295;
         tmp_assign_source_58 = CALL_FUNCTION(tmp_called_name_7, tmp_args_name_7, tmp_kwargs_name_7);
         Py_DECREF(tmp_called_name_7);
         Py_DECREF(tmp_args_name_7);
@@ -44910,7 +44910,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_21;
         CHECK_OBJECT(tmp_class_creation_4__prepared);
         tmp_expression_name_21 = tmp_class_creation_4__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_21, mod_consts[270]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_21, mod_consts[269]);
         tmp_operand_name_4 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_4);
         if (tmp_res == -1) {
@@ -44941,11 +44941,11 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_getattr_attr_4;
         PyObject *tmp_getattr_default_4;
         tmp_raise_type_4 = PyExc_TypeError;
-        tmp_left_name_4 = mod_consts[271];
+        tmp_left_name_4 = mod_consts[270];
         CHECK_OBJECT(tmp_class_creation_4__metaclass);
         tmp_getattr_target_4 = tmp_class_creation_4__metaclass;
-        tmp_getattr_attr_4 = mod_consts[272];
-        tmp_getattr_default_4 = mod_consts[273];
+        tmp_getattr_attr_4 = mod_consts[271];
+        tmp_getattr_default_4 = mod_consts[272];
         tmp_tuple_element_15 = BUILTIN_GETATTR(tmp_getattr_target_4, tmp_getattr_attr_4, tmp_getattr_default_4);
         if (tmp_tuple_element_15 == NULL) {
             assert(ERROR_OCCURRED());
@@ -44966,7 +44966,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             tmp_type_arg_8 = tmp_class_creation_4__prepared;
             tmp_expression_name_22 = BUILTIN_TYPE1(tmp_type_arg_8);
             assert(!(tmp_expression_name_22 == NULL));
-            tmp_tuple_element_15 = LOOKUP_ATTRIBUTE(tmp_expression_name_22, mod_consts[272]);
+            tmp_tuple_element_15 = LOOKUP_ATTRIBUTE(tmp_expression_name_22, mod_consts[271]);
             Py_DECREF(tmp_expression_name_22);
             if (tmp_tuple_element_15 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -45028,8 +45028,8 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[274];
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__4_Patch3D_295, mod_consts[275], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[273];
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__4_Patch3D_295, mod_consts[274], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -45040,7 +45040,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             goto try_except_handler_14;
         }
-        tmp_dictset_value = mod_consts[305];
+        tmp_dictset_value = mod_consts[304];
         tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__4_Patch3D_295, mod_consts[248], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -45053,7 +45053,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             goto try_except_handler_14;
         }
         tmp_dictset_value = mod_consts[104];
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__4_Patch3D_295, mod_consts[277], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__4_Patch3D_295, mod_consts[276], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -45064,36 +45064,36 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             goto try_except_handler_14;
         }
-        if (isFrameUnusable(cache_frame_35c53257df883d017862067a24d2b29d_5)) {
-            Py_XDECREF(cache_frame_35c53257df883d017862067a24d2b29d_5);
+        if (isFrameUnusable(cache_frame_1ea2e54f2ac84f954985355118b8a9ef_5)) {
+            Py_XDECREF(cache_frame_1ea2e54f2ac84f954985355118b8a9ef_5);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_35c53257df883d017862067a24d2b29d_5 == NULL) {
+            if (cache_frame_1ea2e54f2ac84f954985355118b8a9ef_5 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_35c53257df883d017862067a24d2b29d_5 = MAKE_FUNCTION_FRAME(codeobj_35c53257df883d017862067a24d2b29d, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+            cache_frame_1ea2e54f2ac84f954985355118b8a9ef_5 = MAKE_FUNCTION_FRAME(codeobj_1ea2e54f2ac84f954985355118b8a9ef, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_35c53257df883d017862067a24d2b29d_5->m_type_description == NULL);
-        frame_35c53257df883d017862067a24d2b29d_5 = cache_frame_35c53257df883d017862067a24d2b29d_5;
+        assert(cache_frame_1ea2e54f2ac84f954985355118b8a9ef_5->m_type_description == NULL);
+        frame_1ea2e54f2ac84f954985355118b8a9ef_5 = cache_frame_1ea2e54f2ac84f954985355118b8a9ef_5;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_35c53257df883d017862067a24d2b29d_5);
+        pushFrameStack(frame_1ea2e54f2ac84f954985355118b8a9ef_5);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_35c53257df883d017862067a24d2b29d_5) == 2); // Frame stack
+        assert(Py_REFCNT(frame_1ea2e54f2ac84f954985355118b8a9ef_5) == 2); // Frame stack
 
         // Framed code:
         {
             PyObject *tmp_kw_defaults_1;
-            tmp_kw_defaults_1 = PyDict_Copy(mod_consts[306]);
+            tmp_kw_defaults_1 = PyDict_Copy(mod_consts[305]);
 
 
             tmp_dictset_value = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__24___init__(tmp_kw_defaults_1);
@@ -45113,7 +45113,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
         {
             PyObject *tmp_defaults_12;
-            tmp_defaults_12 = mod_consts[280];
+            tmp_defaults_12 = mod_consts[279];
             Py_INCREF(tmp_defaults_12);
 
 
@@ -45182,7 +45182,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_35c53257df883d017862067a24d2b29d_5);
+        RESTORE_FRAME_EXCEPTION(frame_1ea2e54f2ac84f954985355118b8a9ef_5);
 #endif
 
         // Put the previous frame back on top.
@@ -45193,35 +45193,35 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         frame_exception_exit_5:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_35c53257df883d017862067a24d2b29d_5);
+        RESTORE_FRAME_EXCEPTION(frame_1ea2e54f2ac84f954985355118b8a9ef_5);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_35c53257df883d017862067a24d2b29d_5, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_35c53257df883d017862067a24d2b29d_5->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_35c53257df883d017862067a24d2b29d_5, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_1ea2e54f2ac84f954985355118b8a9ef_5, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_1ea2e54f2ac84f954985355118b8a9ef_5->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_1ea2e54f2ac84f954985355118b8a9ef_5, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_35c53257df883d017862067a24d2b29d_5,
+            frame_1ea2e54f2ac84f954985355118b8a9ef_5,
             type_description_2,
             outline_3_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_35c53257df883d017862067a24d2b29d_5 == cache_frame_35c53257df883d017862067a24d2b29d_5) {
+        if (frame_1ea2e54f2ac84f954985355118b8a9ef_5 == cache_frame_1ea2e54f2ac84f954985355118b8a9ef_5) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_35c53257df883d017862067a24d2b29d_5);
-            cache_frame_35c53257df883d017862067a24d2b29d_5 = NULL;
+            Py_DECREF(cache_frame_1ea2e54f2ac84f954985355118b8a9ef_5);
+            cache_frame_1ea2e54f2ac84f954985355118b8a9ef_5 = NULL;
         }
 
-        assertFrameObject(frame_35c53257df883d017862067a24d2b29d_5);
+        assertFrameObject(frame_1ea2e54f2ac84f954985355118b8a9ef_5);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -45264,7 +45264,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         branch_yes_16:;
         CHECK_OBJECT(tmp_class_creation_4__bases_orig);
         tmp_dictset_value = tmp_class_creation_4__bases_orig;
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__4_Patch3D_295, mod_consts[286], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__4_Patch3D_295, mod_consts[285], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -45294,7 +45294,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_8, 2, tmp_tuple_element_16);
             CHECK_OBJECT(tmp_class_creation_4__class_decl_dict);
             tmp_kwargs_name_8 = tmp_class_creation_4__class_decl_dict;
-            frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 295;
+            frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 295;
             tmp_assign_source_61 = CALL_FUNCTION(tmp_called_name_8, tmp_args_name_8, tmp_kwargs_name_8);
             Py_DECREF(tmp_args_name_8);
             if (tmp_assign_source_61 == NULL) {
@@ -45489,7 +45489,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_23;
         PyObject *tmp_subscript_name_5;
         PyObject *tmp_bases_name_5;
-        tmp_key_name_13 = mod_consts[268];
+        tmp_key_name_13 = mod_consts[267];
         CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
         tmp_dict_arg_name_13 = tmp_class_creation_5__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_13, tmp_key_name_13);
@@ -45503,7 +45503,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         condexpr_true_9:;
         CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
         tmp_dict_arg_name_14 = tmp_class_creation_5__class_decl_dict;
-        tmp_key_name_14 = mod_consts[268];
+        tmp_key_name_14 = mod_consts[267];
         tmp_metaclass_name_5 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_14, tmp_key_name_14);
         if (tmp_metaclass_name_5 == NULL) {
             assert(ERROR_OCCURRED());
@@ -45589,7 +45589,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         nuitka_bool tmp_condition_result_27;
         PyObject *tmp_key_name_15;
         PyObject *tmp_dict_arg_name_15;
-        tmp_key_name_15 = mod_consts[268];
+        tmp_key_name_15 = mod_consts[267];
         CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
         tmp_dict_arg_name_15 = tmp_class_creation_5__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_15, tmp_key_name_15);
@@ -45604,7 +45604,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     branch_yes_17:;
     CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_5__class_decl_dict;
-    tmp_dictdel_key = mod_consts[268];
+    tmp_dictdel_key = mod_consts[267];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -45622,7 +45622,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_24;
         CHECK_OBJECT(tmp_class_creation_5__metaclass);
         tmp_expression_name_24 = tmp_class_creation_5__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_24, mod_consts[269]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_24, mod_consts[268]);
         tmp_condition_result_28 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_28 == NUITKA_BOOL_TRUE) {
             goto branch_yes_18;
@@ -45640,7 +45640,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_kwargs_name_9;
         CHECK_OBJECT(tmp_class_creation_5__metaclass);
         tmp_expression_name_25 = tmp_class_creation_5__metaclass;
-        tmp_called_name_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_25, mod_consts[269]);
+        tmp_called_name_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_25, mod_consts[268]);
         if (tmp_called_name_9 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -45659,7 +45659,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyTuple_SET_ITEM0(tmp_args_name_9, 1, tmp_tuple_element_18);
         CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
         tmp_kwargs_name_9 = tmp_class_creation_5__class_decl_dict;
-        frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 326;
+        frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 326;
         tmp_assign_source_66 = CALL_FUNCTION(tmp_called_name_9, tmp_args_name_9, tmp_kwargs_name_9);
         Py_DECREF(tmp_called_name_9);
         Py_DECREF(tmp_args_name_9);
@@ -45682,7 +45682,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_26;
         CHECK_OBJECT(tmp_class_creation_5__prepared);
         tmp_expression_name_26 = tmp_class_creation_5__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_26, mod_consts[270]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_26, mod_consts[269]);
         tmp_operand_name_5 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_5);
         if (tmp_res == -1) {
@@ -45713,11 +45713,11 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_getattr_attr_5;
         PyObject *tmp_getattr_default_5;
         tmp_raise_type_5 = PyExc_TypeError;
-        tmp_left_name_5 = mod_consts[271];
+        tmp_left_name_5 = mod_consts[270];
         CHECK_OBJECT(tmp_class_creation_5__metaclass);
         tmp_getattr_target_5 = tmp_class_creation_5__metaclass;
-        tmp_getattr_attr_5 = mod_consts[272];
-        tmp_getattr_default_5 = mod_consts[273];
+        tmp_getattr_attr_5 = mod_consts[271];
+        tmp_getattr_default_5 = mod_consts[272];
         tmp_tuple_element_19 = BUILTIN_GETATTR(tmp_getattr_target_5, tmp_getattr_attr_5, tmp_getattr_default_5);
         if (tmp_tuple_element_19 == NULL) {
             assert(ERROR_OCCURRED());
@@ -45738,7 +45738,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             tmp_type_arg_10 = tmp_class_creation_5__prepared;
             tmp_expression_name_27 = BUILTIN_TYPE1(tmp_type_arg_10);
             assert(!(tmp_expression_name_27 == NULL));
-            tmp_tuple_element_19 = LOOKUP_ATTRIBUTE(tmp_expression_name_27, mod_consts[272]);
+            tmp_tuple_element_19 = LOOKUP_ATTRIBUTE(tmp_expression_name_27, mod_consts[271]);
             Py_DECREF(tmp_expression_name_27);
             if (tmp_tuple_element_19 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -45800,8 +45800,8 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[274];
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__5_PathPatch3D_326, mod_consts[275], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[273];
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__5_PathPatch3D_326, mod_consts[274], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -45812,7 +45812,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             goto try_except_handler_17;
         }
-        tmp_dictset_value = mod_consts[312];
+        tmp_dictset_value = mod_consts[311];
         tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__5_PathPatch3D_326, mod_consts[248], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -45825,7 +45825,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             goto try_except_handler_17;
         }
         tmp_dictset_value = mod_consts[119];
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__5_PathPatch3D_326, mod_consts[277], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__5_PathPatch3D_326, mod_consts[276], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -45836,36 +45836,36 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             goto try_except_handler_17;
         }
-        if (isFrameUnusable(cache_frame_6b5d3ce800897df02329afff84ed253c_6)) {
-            Py_XDECREF(cache_frame_6b5d3ce800897df02329afff84ed253c_6);
+        if (isFrameUnusable(cache_frame_5eefb1636aac3c578e9174782a01ab4c_6)) {
+            Py_XDECREF(cache_frame_5eefb1636aac3c578e9174782a01ab4c_6);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_6b5d3ce800897df02329afff84ed253c_6 == NULL) {
+            if (cache_frame_5eefb1636aac3c578e9174782a01ab4c_6 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_6b5d3ce800897df02329afff84ed253c_6 = MAKE_FUNCTION_FRAME(codeobj_6b5d3ce800897df02329afff84ed253c, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+            cache_frame_5eefb1636aac3c578e9174782a01ab4c_6 = MAKE_FUNCTION_FRAME(codeobj_5eefb1636aac3c578e9174782a01ab4c, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_6b5d3ce800897df02329afff84ed253c_6->m_type_description == NULL);
-        frame_6b5d3ce800897df02329afff84ed253c_6 = cache_frame_6b5d3ce800897df02329afff84ed253c_6;
+        assert(cache_frame_5eefb1636aac3c578e9174782a01ab4c_6->m_type_description == NULL);
+        frame_5eefb1636aac3c578e9174782a01ab4c_6 = cache_frame_5eefb1636aac3c578e9174782a01ab4c_6;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_6b5d3ce800897df02329afff84ed253c_6);
+        pushFrameStack(frame_5eefb1636aac3c578e9174782a01ab4c_6);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_6b5d3ce800897df02329afff84ed253c_6) == 2); // Frame stack
+        assert(Py_REFCNT(frame_5eefb1636aac3c578e9174782a01ab4c_6) == 2); // Frame stack
 
         // Framed code:
         {
             PyObject *tmp_kw_defaults_2;
-            tmp_kw_defaults_2 = PyDict_Copy(mod_consts[306]);
+            tmp_kw_defaults_2 = PyDict_Copy(mod_consts[305]);
 
 
             tmp_dictset_value = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__29___init__(tmp_kw_defaults_2);
@@ -45885,7 +45885,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
         {
             PyObject *tmp_defaults_13;
-            tmp_defaults_13 = mod_consts[280];
+            tmp_defaults_13 = mod_consts[279];
             Py_INCREF(tmp_defaults_13);
 
 
@@ -45922,7 +45922,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_6b5d3ce800897df02329afff84ed253c_6);
+        RESTORE_FRAME_EXCEPTION(frame_5eefb1636aac3c578e9174782a01ab4c_6);
 #endif
 
         // Put the previous frame back on top.
@@ -45933,35 +45933,35 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         frame_exception_exit_6:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_6b5d3ce800897df02329afff84ed253c_6);
+        RESTORE_FRAME_EXCEPTION(frame_5eefb1636aac3c578e9174782a01ab4c_6);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_6b5d3ce800897df02329afff84ed253c_6, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_6b5d3ce800897df02329afff84ed253c_6->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_6b5d3ce800897df02329afff84ed253c_6, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_5eefb1636aac3c578e9174782a01ab4c_6, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_5eefb1636aac3c578e9174782a01ab4c_6->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_5eefb1636aac3c578e9174782a01ab4c_6, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_6b5d3ce800897df02329afff84ed253c_6,
+            frame_5eefb1636aac3c578e9174782a01ab4c_6,
             type_description_2,
             outline_4_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_6b5d3ce800897df02329afff84ed253c_6 == cache_frame_6b5d3ce800897df02329afff84ed253c_6) {
+        if (frame_5eefb1636aac3c578e9174782a01ab4c_6 == cache_frame_5eefb1636aac3c578e9174782a01ab4c_6) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_6b5d3ce800897df02329afff84ed253c_6);
-            cache_frame_6b5d3ce800897df02329afff84ed253c_6 = NULL;
+            Py_DECREF(cache_frame_5eefb1636aac3c578e9174782a01ab4c_6);
+            cache_frame_5eefb1636aac3c578e9174782a01ab4c_6 = NULL;
         }
 
-        assertFrameObject(frame_6b5d3ce800897df02329afff84ed253c_6);
+        assertFrameObject(frame_5eefb1636aac3c578e9174782a01ab4c_6);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -46004,7 +46004,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         branch_yes_20:;
         CHECK_OBJECT(tmp_class_creation_5__bases_orig);
         tmp_dictset_value = tmp_class_creation_5__bases_orig;
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__5_PathPatch3D_326, mod_consts[286], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__5_PathPatch3D_326, mod_consts[285], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -46034,7 +46034,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_10, 2, tmp_tuple_element_20);
             CHECK_OBJECT(tmp_class_creation_5__class_decl_dict);
             tmp_kwargs_name_10 = tmp_class_creation_5__class_decl_dict;
-            frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 326;
+            frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 326;
             tmp_assign_source_69 = CALL_FUNCTION(tmp_called_name_10, tmp_args_name_10, tmp_kwargs_name_10);
             Py_DECREF(tmp_args_name_10);
             if (tmp_assign_source_69 == NULL) {
@@ -46171,24 +46171,24 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     {
         PyObject *tmp_assign_source_71;
         PyObject *tmp_defaults_14;
-        tmp_defaults_14 = mod_consts[280];
+        tmp_defaults_14 = mod_consts[279];
         Py_INCREF(tmp_defaults_14);
 
 
         tmp_assign_source_71 = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__33_patch_2d_to_3d(tmp_defaults_14);
 
-        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[316], tmp_assign_source_71);
+        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[315], tmp_assign_source_71);
     }
     {
         PyObject *tmp_assign_source_72;
         PyObject *tmp_defaults_15;
-        tmp_defaults_15 = mod_consts[280];
+        tmp_defaults_15 = mod_consts[279];
         Py_INCREF(tmp_defaults_15);
 
 
         tmp_assign_source_72 = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__34_pathpatch_2d_to_3d(tmp_defaults_15);
 
-        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[317], tmp_assign_source_72);
+        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[316], tmp_assign_source_72);
     }
     // Tried code:
     {
@@ -46259,7 +46259,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_28;
         PyObject *tmp_subscript_name_6;
         PyObject *tmp_bases_name_6;
-        tmp_key_name_16 = mod_consts[268];
+        tmp_key_name_16 = mod_consts[267];
         CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
         tmp_dict_arg_name_16 = tmp_class_creation_6__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_16, tmp_key_name_16);
@@ -46273,7 +46273,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         condexpr_true_11:;
         CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
         tmp_dict_arg_name_17 = tmp_class_creation_6__class_decl_dict;
-        tmp_key_name_17 = mod_consts[268];
+        tmp_key_name_17 = mod_consts[267];
         tmp_metaclass_name_6 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_17, tmp_key_name_17);
         if (tmp_metaclass_name_6 == NULL) {
             assert(ERROR_OCCURRED());
@@ -46359,7 +46359,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         nuitka_bool tmp_condition_result_33;
         PyObject *tmp_key_name_18;
         PyObject *tmp_dict_arg_name_18;
-        tmp_key_name_18 = mod_consts[268];
+        tmp_key_name_18 = mod_consts[267];
         CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
         tmp_dict_arg_name_18 = tmp_class_creation_6__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_18, tmp_key_name_18);
@@ -46374,7 +46374,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     branch_yes_21:;
     CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_6__class_decl_dict;
-    tmp_dictdel_key = mod_consts[268];
+    tmp_dictdel_key = mod_consts[267];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -46392,7 +46392,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_29;
         CHECK_OBJECT(tmp_class_creation_6__metaclass);
         tmp_expression_name_29 = tmp_class_creation_6__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_29, mod_consts[269]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_29, mod_consts[268]);
         tmp_condition_result_34 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_34 == NUITKA_BOOL_TRUE) {
             goto branch_yes_22;
@@ -46410,7 +46410,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_kwargs_name_11;
         CHECK_OBJECT(tmp_class_creation_6__metaclass);
         tmp_expression_name_30 = tmp_class_creation_6__metaclass;
-        tmp_called_name_11 = LOOKUP_ATTRIBUTE(tmp_expression_name_30, mod_consts[269]);
+        tmp_called_name_11 = LOOKUP_ATTRIBUTE(tmp_expression_name_30, mod_consts[268]);
         if (tmp_called_name_11 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -46429,7 +46429,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyTuple_SET_ITEM0(tmp_args_name_11, 1, tmp_tuple_element_22);
         CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
         tmp_kwargs_name_11 = tmp_class_creation_6__class_decl_dict;
-        frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 377;
+        frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 377;
         tmp_assign_source_77 = CALL_FUNCTION(tmp_called_name_11, tmp_args_name_11, tmp_kwargs_name_11);
         Py_DECREF(tmp_called_name_11);
         Py_DECREF(tmp_args_name_11);
@@ -46452,7 +46452,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_31;
         CHECK_OBJECT(tmp_class_creation_6__prepared);
         tmp_expression_name_31 = tmp_class_creation_6__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_31, mod_consts[270]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_31, mod_consts[269]);
         tmp_operand_name_6 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_6);
         if (tmp_res == -1) {
@@ -46483,11 +46483,11 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_getattr_attr_6;
         PyObject *tmp_getattr_default_6;
         tmp_raise_type_6 = PyExc_TypeError;
-        tmp_left_name_6 = mod_consts[271];
+        tmp_left_name_6 = mod_consts[270];
         CHECK_OBJECT(tmp_class_creation_6__metaclass);
         tmp_getattr_target_6 = tmp_class_creation_6__metaclass;
-        tmp_getattr_attr_6 = mod_consts[272];
-        tmp_getattr_default_6 = mod_consts[273];
+        tmp_getattr_attr_6 = mod_consts[271];
+        tmp_getattr_default_6 = mod_consts[272];
         tmp_tuple_element_23 = BUILTIN_GETATTR(tmp_getattr_target_6, tmp_getattr_attr_6, tmp_getattr_default_6);
         if (tmp_tuple_element_23 == NULL) {
             assert(ERROR_OCCURRED());
@@ -46508,7 +46508,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             tmp_type_arg_12 = tmp_class_creation_6__prepared;
             tmp_expression_name_32 = BUILTIN_TYPE1(tmp_type_arg_12);
             assert(!(tmp_expression_name_32 == NULL));
-            tmp_tuple_element_23 = LOOKUP_ATTRIBUTE(tmp_expression_name_32, mod_consts[272]);
+            tmp_tuple_element_23 = LOOKUP_ATTRIBUTE(tmp_expression_name_32, mod_consts[271]);
             Py_DECREF(tmp_expression_name_32);
             if (tmp_tuple_element_23 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -46570,8 +46570,8 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[274];
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__6_Patch3DCollection_377, mod_consts[275], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[273];
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__6_Patch3DCollection_377, mod_consts[274], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -46582,7 +46582,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             goto try_except_handler_20;
         }
-        tmp_dictset_value = mod_consts[318];
+        tmp_dictset_value = mod_consts[317];
         tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__6_Patch3DCollection_377, mod_consts[248], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -46595,7 +46595,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             goto try_except_handler_20;
         }
         tmp_dictset_value = mod_consts[166];
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__6_Patch3DCollection_377, mod_consts[277], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__6_Patch3DCollection_377, mod_consts[276], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -46606,37 +46606,37 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             goto try_except_handler_20;
         }
-        if (isFrameUnusable(cache_frame_416628511ae61e6ee641ce28ad093b24_7)) {
-            Py_XDECREF(cache_frame_416628511ae61e6ee641ce28ad093b24_7);
+        if (isFrameUnusable(cache_frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7)) {
+            Py_XDECREF(cache_frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_416628511ae61e6ee641ce28ad093b24_7 == NULL) {
+            if (cache_frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_416628511ae61e6ee641ce28ad093b24_7 = MAKE_FUNCTION_FRAME(codeobj_416628511ae61e6ee641ce28ad093b24, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+            cache_frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7 = MAKE_FUNCTION_FRAME(codeobj_9dcfc0e8873478eae4b293b0bd6ad4ed, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_416628511ae61e6ee641ce28ad093b24_7->m_type_description == NULL);
-        frame_416628511ae61e6ee641ce28ad093b24_7 = cache_frame_416628511ae61e6ee641ce28ad093b24_7;
+        assert(cache_frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7->m_type_description == NULL);
+        frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7 = cache_frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_416628511ae61e6ee641ce28ad093b24_7);
+        pushFrameStack(frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_416628511ae61e6ee641ce28ad093b24_7) == 2); // Frame stack
+        assert(Py_REFCNT(frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7) == 2); // Frame stack
 
         // Framed code:
         {
             PyObject *tmp_kw_defaults_3;
             struct Nuitka_CellObject *tmp_closure_1[1];
-            tmp_kw_defaults_3 = PyDict_Copy(mod_consts[319]);
+            tmp_kw_defaults_3 = PyDict_Copy(mod_consts[318]);
 
             tmp_closure_1[0] = outline_5_var___class__;
             Py_INCREF(tmp_closure_1[0]);
@@ -46660,7 +46660,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__36_set_sort_zpos();
 
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__6_Patch3DCollection_377, mod_consts[298], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__6_Patch3DCollection_377, mod_consts[297], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -46706,7 +46706,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_416628511ae61e6ee641ce28ad093b24_7);
+        RESTORE_FRAME_EXCEPTION(frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7);
 #endif
 
         // Put the previous frame back on top.
@@ -46717,35 +46717,35 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         frame_exception_exit_7:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_416628511ae61e6ee641ce28ad093b24_7);
+        RESTORE_FRAME_EXCEPTION(frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_416628511ae61e6ee641ce28ad093b24_7, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_416628511ae61e6ee641ce28ad093b24_7->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_416628511ae61e6ee641ce28ad093b24_7, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_416628511ae61e6ee641ce28ad093b24_7,
+            frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7,
             type_description_2,
             outline_5_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_416628511ae61e6ee641ce28ad093b24_7 == cache_frame_416628511ae61e6ee641ce28ad093b24_7) {
+        if (frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7 == cache_frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_416628511ae61e6ee641ce28ad093b24_7);
-            cache_frame_416628511ae61e6ee641ce28ad093b24_7 = NULL;
+            Py_DECREF(cache_frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7);
+            cache_frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7 = NULL;
         }
 
-        assertFrameObject(frame_416628511ae61e6ee641ce28ad093b24_7);
+        assertFrameObject(frame_9dcfc0e8873478eae4b293b0bd6ad4ed_7);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -46788,7 +46788,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         branch_yes_24:;
         CHECK_OBJECT(tmp_class_creation_6__bases_orig);
         tmp_dictset_value = tmp_class_creation_6__bases_orig;
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__6_Patch3DCollection_377, mod_consts[286], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__6_Patch3DCollection_377, mod_consts[285], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -46818,7 +46818,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_12, 2, tmp_tuple_element_24);
             CHECK_OBJECT(tmp_class_creation_6__class_decl_dict);
             tmp_kwargs_name_12 = tmp_class_creation_6__class_decl_dict;
-            frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 377;
+            frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 377;
             tmp_assign_source_80 = CALL_FUNCTION(tmp_called_name_12, tmp_args_name_12, tmp_kwargs_name_12);
             Py_DECREF(tmp_args_name_12);
             if (tmp_assign_source_80 == NULL) {
@@ -47020,7 +47020,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_33;
         PyObject *tmp_subscript_name_7;
         PyObject *tmp_bases_name_7;
-        tmp_key_name_19 = mod_consts[268];
+        tmp_key_name_19 = mod_consts[267];
         CHECK_OBJECT(tmp_class_creation_7__class_decl_dict);
         tmp_dict_arg_name_19 = tmp_class_creation_7__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_19, tmp_key_name_19);
@@ -47034,7 +47034,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         condexpr_true_13:;
         CHECK_OBJECT(tmp_class_creation_7__class_decl_dict);
         tmp_dict_arg_name_20 = tmp_class_creation_7__class_decl_dict;
-        tmp_key_name_20 = mod_consts[268];
+        tmp_key_name_20 = mod_consts[267];
         tmp_metaclass_name_7 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_20, tmp_key_name_20);
         if (tmp_metaclass_name_7 == NULL) {
             assert(ERROR_OCCURRED());
@@ -47120,7 +47120,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         nuitka_bool tmp_condition_result_39;
         PyObject *tmp_key_name_21;
         PyObject *tmp_dict_arg_name_21;
-        tmp_key_name_21 = mod_consts[268];
+        tmp_key_name_21 = mod_consts[267];
         CHECK_OBJECT(tmp_class_creation_7__class_decl_dict);
         tmp_dict_arg_name_21 = tmp_class_creation_7__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_21, tmp_key_name_21);
@@ -47135,7 +47135,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     branch_yes_25:;
     CHECK_OBJECT(tmp_class_creation_7__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_7__class_decl_dict;
-    tmp_dictdel_key = mod_consts[268];
+    tmp_dictdel_key = mod_consts[267];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -47153,7 +47153,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_34;
         CHECK_OBJECT(tmp_class_creation_7__metaclass);
         tmp_expression_name_34 = tmp_class_creation_7__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_34, mod_consts[269]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_34, mod_consts[268]);
         tmp_condition_result_40 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_40 == NUITKA_BOOL_TRUE) {
             goto branch_yes_26;
@@ -47171,7 +47171,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_kwargs_name_13;
         CHECK_OBJECT(tmp_class_creation_7__metaclass);
         tmp_expression_name_35 = tmp_class_creation_7__metaclass;
-        tmp_called_name_13 = LOOKUP_ATTRIBUTE(tmp_expression_name_35, mod_consts[269]);
+        tmp_called_name_13 = LOOKUP_ATTRIBUTE(tmp_expression_name_35, mod_consts[268]);
         if (tmp_called_name_13 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -47190,7 +47190,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyTuple_SET_ITEM0(tmp_args_name_13, 1, tmp_tuple_element_26);
         CHECK_OBJECT(tmp_class_creation_7__class_decl_dict);
         tmp_kwargs_name_13 = tmp_class_creation_7__class_decl_dict;
-        frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 445;
+        frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 445;
         tmp_assign_source_85 = CALL_FUNCTION(tmp_called_name_13, tmp_args_name_13, tmp_kwargs_name_13);
         Py_DECREF(tmp_called_name_13);
         Py_DECREF(tmp_args_name_13);
@@ -47213,7 +47213,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_36;
         CHECK_OBJECT(tmp_class_creation_7__prepared);
         tmp_expression_name_36 = tmp_class_creation_7__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_36, mod_consts[270]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_36, mod_consts[269]);
         tmp_operand_name_7 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_7);
         if (tmp_res == -1) {
@@ -47244,11 +47244,11 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_getattr_attr_7;
         PyObject *tmp_getattr_default_7;
         tmp_raise_type_7 = PyExc_TypeError;
-        tmp_left_name_7 = mod_consts[271];
+        tmp_left_name_7 = mod_consts[270];
         CHECK_OBJECT(tmp_class_creation_7__metaclass);
         tmp_getattr_target_7 = tmp_class_creation_7__metaclass;
-        tmp_getattr_attr_7 = mod_consts[272];
-        tmp_getattr_default_7 = mod_consts[273];
+        tmp_getattr_attr_7 = mod_consts[271];
+        tmp_getattr_default_7 = mod_consts[272];
         tmp_tuple_element_27 = BUILTIN_GETATTR(tmp_getattr_target_7, tmp_getattr_attr_7, tmp_getattr_default_7);
         if (tmp_tuple_element_27 == NULL) {
             assert(ERROR_OCCURRED());
@@ -47269,7 +47269,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             tmp_type_arg_14 = tmp_class_creation_7__prepared;
             tmp_expression_name_37 = BUILTIN_TYPE1(tmp_type_arg_14);
             assert(!(tmp_expression_name_37 == NULL));
-            tmp_tuple_element_27 = LOOKUP_ATTRIBUTE(tmp_expression_name_37, mod_consts[272]);
+            tmp_tuple_element_27 = LOOKUP_ATTRIBUTE(tmp_expression_name_37, mod_consts[271]);
             Py_DECREF(tmp_expression_name_37);
             if (tmp_tuple_element_27 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -47331,8 +47331,8 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[274];
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__7_Path3DCollection_445, mod_consts[275], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[273];
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__7_Path3DCollection_445, mod_consts[274], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -47343,7 +47343,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             goto try_except_handler_23;
         }
-        tmp_dictset_value = mod_consts[324];
+        tmp_dictset_value = mod_consts[323];
         tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__7_Path3DCollection_445, mod_consts[248], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -47356,7 +47356,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             goto try_except_handler_23;
         }
         tmp_dictset_value = mod_consts[165];
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__7_Path3DCollection_445, mod_consts[277], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__7_Path3DCollection_445, mod_consts[276], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -47367,37 +47367,37 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             goto try_except_handler_23;
         }
-        if (isFrameUnusable(cache_frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8)) {
-            Py_XDECREF(cache_frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8);
+        if (isFrameUnusable(cache_frame_e57809f6791e7499a3fdaa2b00b1ea8b_8)) {
+            Py_XDECREF(cache_frame_e57809f6791e7499a3fdaa2b00b1ea8b_8);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8 == NULL) {
+            if (cache_frame_e57809f6791e7499a3fdaa2b00b1ea8b_8 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8 = MAKE_FUNCTION_FRAME(codeobj_b7cfacc99a9d0fa80237d1a7f46f6c25, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+            cache_frame_e57809f6791e7499a3fdaa2b00b1ea8b_8 = MAKE_FUNCTION_FRAME(codeobj_e57809f6791e7499a3fdaa2b00b1ea8b, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8->m_type_description == NULL);
-        frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8 = cache_frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8;
+        assert(cache_frame_e57809f6791e7499a3fdaa2b00b1ea8b_8->m_type_description == NULL);
+        frame_e57809f6791e7499a3fdaa2b00b1ea8b_8 = cache_frame_e57809f6791e7499a3fdaa2b00b1ea8b_8;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8);
+        pushFrameStack(frame_e57809f6791e7499a3fdaa2b00b1ea8b_8);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8) == 2); // Frame stack
+        assert(Py_REFCNT(frame_e57809f6791e7499a3fdaa2b00b1ea8b_8) == 2); // Frame stack
 
         // Framed code:
         {
             PyObject *tmp_kw_defaults_4;
             struct Nuitka_CellObject *tmp_closure_2[1];
-            tmp_kw_defaults_4 = PyDict_Copy(mod_consts[319]);
+            tmp_kw_defaults_4 = PyDict_Copy(mod_consts[318]);
 
             tmp_closure_2[0] = outline_6_var___class__;
             Py_INCREF(tmp_closure_2[0]);
@@ -47421,7 +47421,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__40_set_sort_zpos();
 
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__7_Path3DCollection_445, mod_consts[298], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__7_Path3DCollection_445, mod_consts[297], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -47467,7 +47467,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8);
+        RESTORE_FRAME_EXCEPTION(frame_e57809f6791e7499a3fdaa2b00b1ea8b_8);
 #endif
 
         // Put the previous frame back on top.
@@ -47478,35 +47478,35 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         frame_exception_exit_8:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8);
+        RESTORE_FRAME_EXCEPTION(frame_e57809f6791e7499a3fdaa2b00b1ea8b_8);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_e57809f6791e7499a3fdaa2b00b1ea8b_8, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_e57809f6791e7499a3fdaa2b00b1ea8b_8->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_e57809f6791e7499a3fdaa2b00b1ea8b_8, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8,
+            frame_e57809f6791e7499a3fdaa2b00b1ea8b_8,
             type_description_2,
             outline_6_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8 == cache_frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8) {
+        if (frame_e57809f6791e7499a3fdaa2b00b1ea8b_8 == cache_frame_e57809f6791e7499a3fdaa2b00b1ea8b_8) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8);
-            cache_frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8 = NULL;
+            Py_DECREF(cache_frame_e57809f6791e7499a3fdaa2b00b1ea8b_8);
+            cache_frame_e57809f6791e7499a3fdaa2b00b1ea8b_8 = NULL;
         }
 
-        assertFrameObject(frame_b7cfacc99a9d0fa80237d1a7f46f6c25_8);
+        assertFrameObject(frame_e57809f6791e7499a3fdaa2b00b1ea8b_8);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -47549,7 +47549,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         branch_yes_28:;
         CHECK_OBJECT(tmp_class_creation_7__bases_orig);
         tmp_dictset_value = tmp_class_creation_7__bases_orig;
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__7_Path3DCollection_445, mod_consts[286], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__7_Path3DCollection_445, mod_consts[285], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -47579,7 +47579,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_14, 2, tmp_tuple_element_28);
             CHECK_OBJECT(tmp_class_creation_7__class_decl_dict);
             tmp_kwargs_name_14 = tmp_class_creation_7__class_decl_dict;
-            frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 445;
+            frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 445;
             tmp_assign_source_88 = CALL_FUNCTION(tmp_called_name_14, tmp_args_name_14, tmp_kwargs_name_14);
             Py_DECREF(tmp_args_name_14);
             if (tmp_assign_source_88 == NULL) {
@@ -47723,13 +47723,13 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     {
         PyObject *tmp_assign_source_90;
         PyObject *tmp_defaults_16;
-        tmp_defaults_16 = mod_consts[329];
+        tmp_defaults_16 = mod_consts[328];
         Py_INCREF(tmp_defaults_16);
 
 
         tmp_assign_source_90 = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__44_patch_collection_2d_to_3d(tmp_defaults_16);
 
-        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[330], tmp_assign_source_90);
+        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[329], tmp_assign_source_90);
     }
     // Tried code:
     {
@@ -47800,7 +47800,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_38;
         PyObject *tmp_subscript_name_8;
         PyObject *tmp_bases_name_8;
-        tmp_key_name_22 = mod_consts[268];
+        tmp_key_name_22 = mod_consts[267];
         CHECK_OBJECT(tmp_class_creation_8__class_decl_dict);
         tmp_dict_arg_name_22 = tmp_class_creation_8__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_22, tmp_key_name_22);
@@ -47814,7 +47814,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         condexpr_true_15:;
         CHECK_OBJECT(tmp_class_creation_8__class_decl_dict);
         tmp_dict_arg_name_23 = tmp_class_creation_8__class_decl_dict;
-        tmp_key_name_23 = mod_consts[268];
+        tmp_key_name_23 = mod_consts[267];
         tmp_metaclass_name_8 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_23, tmp_key_name_23);
         if (tmp_metaclass_name_8 == NULL) {
             assert(ERROR_OCCURRED());
@@ -47900,7 +47900,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         nuitka_bool tmp_condition_result_45;
         PyObject *tmp_key_name_24;
         PyObject *tmp_dict_arg_name_24;
-        tmp_key_name_24 = mod_consts[268];
+        tmp_key_name_24 = mod_consts[267];
         CHECK_OBJECT(tmp_class_creation_8__class_decl_dict);
         tmp_dict_arg_name_24 = tmp_class_creation_8__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_24, tmp_key_name_24);
@@ -47915,7 +47915,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     branch_yes_29:;
     CHECK_OBJECT(tmp_class_creation_8__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_8__class_decl_dict;
-    tmp_dictdel_key = mod_consts[268];
+    tmp_dictdel_key = mod_consts[267];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -47933,7 +47933,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_39;
         CHECK_OBJECT(tmp_class_creation_8__metaclass);
         tmp_expression_name_39 = tmp_class_creation_8__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_39, mod_consts[269]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_39, mod_consts[268]);
         tmp_condition_result_46 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_46 == NUITKA_BOOL_TRUE) {
             goto branch_yes_30;
@@ -47951,7 +47951,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_kwargs_name_15;
         CHECK_OBJECT(tmp_class_creation_8__metaclass);
         tmp_expression_name_40 = tmp_class_creation_8__metaclass;
-        tmp_called_name_15 = LOOKUP_ATTRIBUTE(tmp_expression_name_40, mod_consts[269]);
+        tmp_called_name_15 = LOOKUP_ATTRIBUTE(tmp_expression_name_40, mod_consts[268]);
         if (tmp_called_name_15 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -47970,7 +47970,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyTuple_SET_ITEM0(tmp_args_name_15, 1, tmp_tuple_element_30);
         CHECK_OBJECT(tmp_class_creation_8__class_decl_dict);
         tmp_kwargs_name_15 = tmp_class_creation_8__class_decl_dict;
-        frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 634;
+        frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 634;
         tmp_assign_source_95 = CALL_FUNCTION(tmp_called_name_15, tmp_args_name_15, tmp_kwargs_name_15);
         Py_DECREF(tmp_called_name_15);
         Py_DECREF(tmp_args_name_15);
@@ -47993,7 +47993,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_expression_name_41;
         CHECK_OBJECT(tmp_class_creation_8__prepared);
         tmp_expression_name_41 = tmp_class_creation_8__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_41, mod_consts[270]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_41, mod_consts[269]);
         tmp_operand_name_8 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_8);
         if (tmp_res == -1) {
@@ -48024,11 +48024,11 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         PyObject *tmp_getattr_attr_8;
         PyObject *tmp_getattr_default_8;
         tmp_raise_type_8 = PyExc_TypeError;
-        tmp_left_name_8 = mod_consts[271];
+        tmp_left_name_8 = mod_consts[270];
         CHECK_OBJECT(tmp_class_creation_8__metaclass);
         tmp_getattr_target_8 = tmp_class_creation_8__metaclass;
-        tmp_getattr_attr_8 = mod_consts[272];
-        tmp_getattr_default_8 = mod_consts[273];
+        tmp_getattr_attr_8 = mod_consts[271];
+        tmp_getattr_default_8 = mod_consts[272];
         tmp_tuple_element_31 = BUILTIN_GETATTR(tmp_getattr_target_8, tmp_getattr_attr_8, tmp_getattr_default_8);
         if (tmp_tuple_element_31 == NULL) {
             assert(ERROR_OCCURRED());
@@ -48049,7 +48049,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             tmp_type_arg_16 = tmp_class_creation_8__prepared;
             tmp_expression_name_42 = BUILTIN_TYPE1(tmp_type_arg_16);
             assert(!(tmp_expression_name_42 == NULL));
-            tmp_tuple_element_31 = LOOKUP_ATTRIBUTE(tmp_expression_name_42, mod_consts[272]);
+            tmp_tuple_element_31 = LOOKUP_ATTRIBUTE(tmp_expression_name_42, mod_consts[271]);
             Py_DECREF(tmp_expression_name_42);
             if (tmp_tuple_element_31 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -48111,8 +48111,8 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[274];
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__8_Poly3DCollection_634, mod_consts[275], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[273];
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__8_Poly3DCollection_634, mod_consts[274], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -48123,7 +48123,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             goto try_except_handler_26;
         }
-        tmp_dictset_value = mod_consts[331];
+        tmp_dictset_value = mod_consts[330];
         tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__8_Poly3DCollection_634, mod_consts[248], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -48136,7 +48136,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             goto try_except_handler_26;
         }
         tmp_dictset_value = mod_consts[226];
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__8_Poly3DCollection_634, mod_consts[277], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__8_Poly3DCollection_634, mod_consts[276], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -48147,37 +48147,37 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
             goto try_except_handler_26;
         }
-        if (isFrameUnusable(cache_frame_68ac56ea93fb1f5293e7a3a6619928b1_9)) {
-            Py_XDECREF(cache_frame_68ac56ea93fb1f5293e7a3a6619928b1_9);
+        if (isFrameUnusable(cache_frame_d0360fb44511b7cc96b287e29a6b9b18_9)) {
+            Py_XDECREF(cache_frame_d0360fb44511b7cc96b287e29a6b9b18_9);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_68ac56ea93fb1f5293e7a3a6619928b1_9 == NULL) {
+            if (cache_frame_d0360fb44511b7cc96b287e29a6b9b18_9 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_68ac56ea93fb1f5293e7a3a6619928b1_9 = MAKE_FUNCTION_FRAME(codeobj_68ac56ea93fb1f5293e7a3a6619928b1, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
+            cache_frame_d0360fb44511b7cc96b287e29a6b9b18_9 = MAKE_FUNCTION_FRAME(codeobj_d0360fb44511b7cc96b287e29a6b9b18, module_mpl_toolkits$mplot3d$art3d, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_68ac56ea93fb1f5293e7a3a6619928b1_9->m_type_description == NULL);
-        frame_68ac56ea93fb1f5293e7a3a6619928b1_9 = cache_frame_68ac56ea93fb1f5293e7a3a6619928b1_9;
+        assert(cache_frame_d0360fb44511b7cc96b287e29a6b9b18_9->m_type_description == NULL);
+        frame_d0360fb44511b7cc96b287e29a6b9b18_9 = cache_frame_d0360fb44511b7cc96b287e29a6b9b18_9;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_68ac56ea93fb1f5293e7a3a6619928b1_9);
+        pushFrameStack(frame_d0360fb44511b7cc96b287e29a6b9b18_9);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_68ac56ea93fb1f5293e7a3a6619928b1_9) == 2); // Frame stack
+        assert(Py_REFCNT(frame_d0360fb44511b7cc96b287e29a6b9b18_9) == 2); // Frame stack
 
         // Framed code:
         {
             PyObject *tmp_kw_defaults_5;
             struct Nuitka_CellObject *tmp_closure_3[1];
-            tmp_kw_defaults_5 = PyDict_Copy(mod_consts[332]);
+            tmp_kw_defaults_5 = PyDict_Copy(mod_consts[331]);
 
             tmp_closure_3[0] = outline_7_var___class__;
             Py_INCREF(tmp_closure_3[0]);
@@ -48201,7 +48201,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             PyObject *tmp_dict_key_1;
             PyObject *tmp_dict_value_1;
             PyObject *tmp_expression_name_43;
-            tmp_dict_key_1 = mod_consts[334];
+            tmp_dict_key_1 = mod_consts[333];
             tmp_expression_name_43 = PyObject_GetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__8_Poly3DCollection_634, mod_consts[6]);
 
             if (tmp_expression_name_43 == NULL) {
@@ -48226,7 +48226,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
                 }
             }
 
-            tmp_dict_value_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_43, mod_consts[334]);
+            tmp_dict_value_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_43, mod_consts[333]);
             Py_DECREF(tmp_expression_name_43);
             if (tmp_dict_value_1 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -48380,7 +48380,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
         {
             PyObject *tmp_defaults_17;
-            tmp_defaults_17 = mod_consts[337];
+            tmp_defaults_17 = mod_consts[336];
             Py_INCREF(tmp_defaults_17);
 
 
@@ -48435,7 +48435,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
         tmp_dictset_value = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__51_set_sort_zpos();
 
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__8_Poly3DCollection_634, mod_consts[298], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__8_Poly3DCollection_634, mod_consts[297], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -48545,7 +48545,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_68ac56ea93fb1f5293e7a3a6619928b1_9);
+        RESTORE_FRAME_EXCEPTION(frame_d0360fb44511b7cc96b287e29a6b9b18_9);
 #endif
 
         // Put the previous frame back on top.
@@ -48556,35 +48556,35 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         frame_exception_exit_9:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_68ac56ea93fb1f5293e7a3a6619928b1_9);
+        RESTORE_FRAME_EXCEPTION(frame_d0360fb44511b7cc96b287e29a6b9b18_9);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_68ac56ea93fb1f5293e7a3a6619928b1_9, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_68ac56ea93fb1f5293e7a3a6619928b1_9->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_68ac56ea93fb1f5293e7a3a6619928b1_9, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_d0360fb44511b7cc96b287e29a6b9b18_9, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_d0360fb44511b7cc96b287e29a6b9b18_9->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_d0360fb44511b7cc96b287e29a6b9b18_9, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_68ac56ea93fb1f5293e7a3a6619928b1_9,
+            frame_d0360fb44511b7cc96b287e29a6b9b18_9,
             type_description_2,
             outline_7_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_68ac56ea93fb1f5293e7a3a6619928b1_9 == cache_frame_68ac56ea93fb1f5293e7a3a6619928b1_9) {
+        if (frame_d0360fb44511b7cc96b287e29a6b9b18_9 == cache_frame_d0360fb44511b7cc96b287e29a6b9b18_9) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_68ac56ea93fb1f5293e7a3a6619928b1_9);
-            cache_frame_68ac56ea93fb1f5293e7a3a6619928b1_9 = NULL;
+            Py_DECREF(cache_frame_d0360fb44511b7cc96b287e29a6b9b18_9);
+            cache_frame_d0360fb44511b7cc96b287e29a6b9b18_9 = NULL;
         }
 
-        assertFrameObject(frame_68ac56ea93fb1f5293e7a3a6619928b1_9);
+        assertFrameObject(frame_d0360fb44511b7cc96b287e29a6b9b18_9);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -48627,7 +48627,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
         branch_yes_32:;
         CHECK_OBJECT(tmp_class_creation_8__bases_orig);
         tmp_dictset_value = tmp_class_creation_8__bases_orig;
-        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__8_Poly3DCollection_634, mod_consts[286], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_mpl_toolkits$mplot3d$art3d$$$class__8_Poly3DCollection_634, mod_consts[285], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -48657,7 +48657,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
             PyTuple_SET_ITEM0(tmp_args_name_16, 2, tmp_tuple_element_32);
             CHECK_OBJECT(tmp_class_creation_8__class_decl_dict);
             tmp_kwargs_name_16 = tmp_class_creation_8__class_decl_dict;
-            frame_444e3e6d8379edf10208f795889be03c->m_frame.f_lineno = 634;
+            frame_0b719ac8d47333bf91f57081ce2b482f->m_frame.f_lineno = 634;
             tmp_assign_source_98 = CALL_FUNCTION(tmp_called_name_16, tmp_args_name_16, tmp_kwargs_name_16);
             Py_DECREF(tmp_args_name_16);
             if (tmp_assign_source_98 == NULL) {
@@ -48781,23 +48781,23 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_444e3e6d8379edf10208f795889be03c);
+    RESTORE_FRAME_EXCEPTION(frame_0b719ac8d47333bf91f57081ce2b482f);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_444e3e6d8379edf10208f795889be03c);
+    assertFrameObject(frame_0b719ac8d47333bf91f57081ce2b482f);
 
     goto frame_no_exception_9;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_444e3e6d8379edf10208f795889be03c);
+    RESTORE_FRAME_EXCEPTION(frame_0b719ac8d47333bf91f57081ce2b482f);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_444e3e6d8379edf10208f795889be03c, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_444e3e6d8379edf10208f795889be03c->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_444e3e6d8379edf10208f795889be03c, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_0b719ac8d47333bf91f57081ce2b482f, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_0b719ac8d47333bf91f57081ce2b482f->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_0b719ac8d47333bf91f57081ce2b482f, exception_lineno);
     }
 
     // Put the previous frame back on top.
@@ -48822,13 +48822,13 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
     {
         PyObject *tmp_assign_source_99;
         PyObject *tmp_defaults_18;
-        tmp_defaults_18 = mod_consts[280];
+        tmp_defaults_18 = mod_consts[279];
         Py_INCREF(tmp_defaults_18);
 
 
         tmp_assign_source_99 = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__58_poly_collection_2d_to_3d(tmp_defaults_18);
 
-        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[348], tmp_assign_source_99);
+        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[347], tmp_assign_source_99);
     }
     {
         PyObject *tmp_assign_source_100;
@@ -48852,7 +48852,7 @@ PyObject *modulecode_mpl_toolkits$mplot3d$art3d(PyObject *module, struct Nuitka_
 
         tmp_assign_source_102 = MAKE_FUNCTION_mpl_toolkits$mplot3d$art3d$$$function__61__get_colors();
 
-        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[349], tmp_assign_source_102);
+        UPDATE_STRING_DICT1(moduledict_mpl_toolkits$mplot3d$art3d, (Nuitka_StringObject *)mod_consts[348], tmp_assign_source_102);
     }
     {
         PyObject *tmp_assign_source_103;

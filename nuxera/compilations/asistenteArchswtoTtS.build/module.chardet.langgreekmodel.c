@@ -65,11 +65,11 @@ void checkModuleConstants_chardet$langgreekmodel(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_4707987625ddba9e9779357797691ac9;
+static PyCodeObject *codeobj_fa8763d888ba7689a3eb8e271e99ec0d;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[1]; CHECK_OBJECT(module_filename_obj);
-    codeobj_4707987625ddba9e9779357797691ac9 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[25], NULL, NULL, 0, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[24]); CHECK_OBJECT(module_filename_obj);
+    codeobj_fa8763d888ba7689a3eb8e271e99ec0d = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[25], NULL, NULL, 0, 0, 0);
 }
 
 // The module function declarations.
@@ -449,7 +449,7 @@ PyObject *modulecode_chardet$langgreekmodel(PyObject *module, struct Nuitka_Meta
 #endif
 
     // Temp variables if any
-    struct Nuitka_FrameObject *frame_4707987625ddba9e9779357797691ac9;
+    struct Nuitka_FrameObject *frame_fa8763d888ba7689a3eb8e271e99ec0d;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -466,30 +466,30 @@ PyObject *modulecode_chardet$langgreekmodel(PyObject *module, struct Nuitka_Meta
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[1];
-        UPDATE_STRING_DICT0(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[2], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[1], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_4707987625ddba9e9779357797691ac9 = MAKE_MODULE_FRAME(codeobj_4707987625ddba9e9779357797691ac9, module_chardet$langgreekmodel);
+    frame_fa8763d888ba7689a3eb8e271e99ec0d = MAKE_MODULE_FRAME(codeobj_fa8763d888ba7689a3eb8e271e99ec0d, module_chardet$langgreekmodel);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_4707987625ddba9e9779357797691ac9);
-    assert(Py_REFCNT(frame_4707987625ddba9e9779357797691ac9) == 2);
+    pushFrameStack(frame_fa8763d888ba7689a3eb8e271e99ec0d);
+    assert(Py_REFCNT(frame_fa8763d888ba7689a3eb8e271e99ec0d) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[1];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[3]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[2]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[2]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[4], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[3], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -505,14 +505,14 @@ PyObject *modulecode_chardet$langgreekmodel(PyObject *module, struct Nuitka_Meta
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[3]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[2]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[2]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[5], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[4], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -527,23 +527,23 @@ PyObject *modulecode_chardet$langgreekmodel(PyObject *module, struct Nuitka_Meta
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4707987625ddba9e9779357797691ac9);
+    RESTORE_FRAME_EXCEPTION(frame_fa8763d888ba7689a3eb8e271e99ec0d);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_4707987625ddba9e9779357797691ac9);
+    assertFrameObject(frame_fa8763d888ba7689a3eb8e271e99ec0d);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4707987625ddba9e9779357797691ac9);
+    RESTORE_FRAME_EXCEPTION(frame_fa8763d888ba7689a3eb8e271e99ec0d);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_4707987625ddba9e9779357797691ac9, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_4707987625ddba9e9779357797691ac9->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_4707987625ddba9e9779357797691ac9, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_fa8763d888ba7689a3eb8e271e99ec0d, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_fa8763d888ba7689a3eb8e271e99ec0d->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_fa8763d888ba7689a3eb8e271e99ec0d, exception_lineno);
     }
 
     // Put the previous frame back on top.
@@ -556,108 +556,108 @@ PyObject *modulecode_chardet$langgreekmodel(PyObject *module, struct Nuitka_Meta
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[6], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[5], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
-        tmp_assign_source_4 = mod_consts[7];
-        UPDATE_STRING_DICT0(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[8], tmp_assign_source_4);
+        tmp_assign_source_4 = mod_consts[6];
+        UPDATE_STRING_DICT0(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[7], tmp_assign_source_4);
     }
     {
         PyObject *tmp_assign_source_5;
-        tmp_assign_source_5 = mod_consts[9];
-        UPDATE_STRING_DICT0(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[10], tmp_assign_source_5);
+        tmp_assign_source_5 = mod_consts[8];
+        UPDATE_STRING_DICT0(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[9], tmp_assign_source_5);
     }
     {
         PyObject *tmp_assign_source_6;
-        tmp_assign_source_6 = mod_consts[11];
-        UPDATE_STRING_DICT0(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[12], tmp_assign_source_6);
+        tmp_assign_source_6 = mod_consts[10];
+        UPDATE_STRING_DICT0(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[11], tmp_assign_source_6);
     }
     {
         PyObject *tmp_assign_source_7;
         PyObject *tmp_dict_key_1;
         PyObject *tmp_dict_value_1;
-        tmp_dict_key_1 = mod_consts[13];
-        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[8]);
+        tmp_dict_key_1 = mod_consts[12];
+        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[7]);
 
         if (unlikely(tmp_dict_value_1 == NULL)) {
-            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[8]);
+            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[7]);
         }
 
         assert(!(tmp_dict_value_1 == NULL));
         tmp_assign_source_7 = _PyDict_NewPresized( 6 );
         tmp_res = PyDict_SetItem(tmp_assign_source_7, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        tmp_dict_key_1 = mod_consts[14];
-        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[12]);
+        tmp_dict_key_1 = mod_consts[13];
+        tmp_dict_value_1 = GET_STRING_DICT_VALUE(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[11]);
 
         if (unlikely(tmp_dict_value_1 == NULL)) {
-            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[12]);
+            tmp_dict_value_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[11]);
         }
 
         assert(!(tmp_dict_value_1 == NULL));
         tmp_res = PyDict_SetItem(tmp_assign_source_7, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        tmp_dict_key_1 = mod_consts[15];
-        tmp_dict_value_1 = mod_consts[16];
+        tmp_dict_key_1 = mod_consts[14];
+        tmp_dict_value_1 = mod_consts[15];
         tmp_res = PyDict_SetItem(tmp_assign_source_7, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        tmp_dict_key_1 = mod_consts[17];
+        tmp_dict_key_1 = mod_consts[16];
         tmp_dict_value_1 = Py_False;
         tmp_res = PyDict_SetItem(tmp_assign_source_7, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        tmp_dict_key_1 = mod_consts[18];
-        tmp_dict_value_1 = mod_consts[19];
+        tmp_dict_key_1 = mod_consts[17];
+        tmp_dict_value_1 = mod_consts[18];
         tmp_res = PyDict_SetItem(tmp_assign_source_7, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        tmp_dict_key_1 = mod_consts[20];
-        tmp_dict_value_1 = mod_consts[21];
+        tmp_dict_key_1 = mod_consts[19];
+        tmp_dict_value_1 = mod_consts[20];
         tmp_res = PyDict_SetItem(tmp_assign_source_7, tmp_dict_key_1, tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        UPDATE_STRING_DICT1(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[22], tmp_assign_source_7);
+        UPDATE_STRING_DICT1(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[21], tmp_assign_source_7);
     }
     {
         PyObject *tmp_assign_source_8;
         PyObject *tmp_dict_key_2;
         PyObject *tmp_dict_value_2;
-        tmp_dict_key_2 = mod_consts[13];
-        tmp_dict_value_2 = GET_STRING_DICT_VALUE(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[10]);
+        tmp_dict_key_2 = mod_consts[12];
+        tmp_dict_value_2 = GET_STRING_DICT_VALUE(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[9]);
 
         if (unlikely(tmp_dict_value_2 == NULL)) {
-            tmp_dict_value_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[10]);
+            tmp_dict_value_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[9]);
         }
 
         assert(!(tmp_dict_value_2 == NULL));
         tmp_assign_source_8 = _PyDict_NewPresized( 6 );
         tmp_res = PyDict_SetItem(tmp_assign_source_8, tmp_dict_key_2, tmp_dict_value_2);
         assert(!(tmp_res != 0));
-        tmp_dict_key_2 = mod_consts[14];
-        tmp_dict_value_2 = GET_STRING_DICT_VALUE(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[12]);
+        tmp_dict_key_2 = mod_consts[13];
+        tmp_dict_value_2 = GET_STRING_DICT_VALUE(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[11]);
 
         if (unlikely(tmp_dict_value_2 == NULL)) {
-            tmp_dict_value_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[12]);
+            tmp_dict_value_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[11]);
         }
 
         assert(!(tmp_dict_value_2 == NULL));
         tmp_res = PyDict_SetItem(tmp_assign_source_8, tmp_dict_key_2, tmp_dict_value_2);
         assert(!(tmp_res != 0));
-        tmp_dict_key_2 = mod_consts[15];
-        tmp_dict_value_2 = mod_consts[16];
+        tmp_dict_key_2 = mod_consts[14];
+        tmp_dict_value_2 = mod_consts[15];
         tmp_res = PyDict_SetItem(tmp_assign_source_8, tmp_dict_key_2, tmp_dict_value_2);
         assert(!(tmp_res != 0));
-        tmp_dict_key_2 = mod_consts[17];
+        tmp_dict_key_2 = mod_consts[16];
         tmp_dict_value_2 = Py_False;
         tmp_res = PyDict_SetItem(tmp_assign_source_8, tmp_dict_key_2, tmp_dict_value_2);
         assert(!(tmp_res != 0));
-        tmp_dict_key_2 = mod_consts[18];
-        tmp_dict_value_2 = mod_consts[23];
+        tmp_dict_key_2 = mod_consts[17];
+        tmp_dict_value_2 = mod_consts[22];
         tmp_res = PyDict_SetItem(tmp_assign_source_8, tmp_dict_key_2, tmp_dict_value_2);
         assert(!(tmp_res != 0));
-        tmp_dict_key_2 = mod_consts[20];
-        tmp_dict_value_2 = mod_consts[21];
+        tmp_dict_key_2 = mod_consts[19];
+        tmp_dict_value_2 = mod_consts[20];
         tmp_res = PyDict_SetItem(tmp_assign_source_8, tmp_dict_key_2, tmp_dict_value_2);
         assert(!(tmp_res != 0));
-        UPDATE_STRING_DICT1(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[24], tmp_assign_source_8);
+        UPDATE_STRING_DICT1(moduledict_chardet$langgreekmodel, (Nuitka_StringObject *)mod_consts[23], tmp_assign_source_8);
     }
 
     return module_chardet$langgreekmodel;

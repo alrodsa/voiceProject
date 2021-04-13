@@ -65,33 +65,33 @@ void checkModuleConstants_numpy$lib$mixins(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_d9f00e2a9e9c294a1ab13e6262a180f8;
-static PyCodeObject *codeobj_c60521632f115bdc501330ed9d5019b8;
-static PyCodeObject *codeobj_780f97679f07d5fcc36b50f534bdedad;
-static PyCodeObject *codeobj_efa45f493bda22ad40b1a21f61136b8b;
-static PyCodeObject *codeobj_ef537c44abdefda078d2a2f59581aba8;
-static PyCodeObject *codeobj_7ecc0dc8c2aa54a594027cfa07588209;
-static PyCodeObject *codeobj_dd5289da927a79e1b423ff06c2dd7a5f;
-static PyCodeObject *codeobj_6fa6d1223075d100ef84e46f64b58663;
-static PyCodeObject *codeobj_a0af5b1eb9dffcf34221e6d4b7cfdb20;
-static PyCodeObject *codeobj_ae599b6ff2a78eee8239d757de3c64ae;
-static PyCodeObject *codeobj_4f0eaa5bdf3edbf906742a8efe4f7646;
-static PyCodeObject *codeobj_2ba73249d58d691f7a014f1ff771bee3;
+static PyCodeObject *codeobj_28af77d99a4adc21aa4d296e94caae0a;
+static PyCodeObject *codeobj_6413e156119efda793f4d165b06b2e34;
+static PyCodeObject *codeobj_2f18c7f0f671abe0d844e75926e8b3ba;
+static PyCodeObject *codeobj_86853195c338f8fea9136970ce60a33f;
+static PyCodeObject *codeobj_d127ff2dd2923480ef54d461ae0655fc;
+static PyCodeObject *codeobj_8e4352db17f1fe57671f8cb48db28e36;
+static PyCodeObject *codeobj_5e046856f5bdfcb07cae54790f27ecbc;
+static PyCodeObject *codeobj_c7c967abbebe859d9a6bd0c5f5094375;
+static PyCodeObject *codeobj_2a5aaf14d400e0fa891b45d45ec78f40;
+static PyCodeObject *codeobj_fecc3425152d6acd3cd19289bfc590f2;
+static PyCodeObject *codeobj_738b273a6fdda7497a52725a9e6d81a4;
+static PyCodeObject *codeobj_73623c3c74d32d44b729ed1aa227f8ef;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[25]; CHECK_OBJECT(module_filename_obj);
-    codeobj_d9f00e2a9e9c294a1ab13e6262a180f8 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[148], NULL, NULL, 0, 0, 0);
-    codeobj_c60521632f115bdc501330ed9d5019b8 = MAKE_CODEOBJECT(module_filename_obj, 59, CO_NOFREE, mod_consts[50], mod_consts[149], NULL, 0, 0, 0);
-    codeobj_780f97679f07d5fcc36b50f534bdedad = MAKE_CODEOBJECT(module_filename_obj, 16, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[17], mod_consts[150], NULL, 2, 0, 0);
-    codeobj_efa45f493bda22ad40b1a21f61136b8b = MAKE_CODEOBJECT(module_filename_obj, 8, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[8], mod_consts[151], NULL, 1, 0, 0);
-    codeobj_ef537c44abdefda078d2a2f59581aba8 = MAKE_CODEOBJECT(module_filename_obj, 36, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[19], mod_consts[150], NULL, 2, 0, 0);
-    codeobj_7ecc0dc8c2aa54a594027cfa07588209 = MAKE_CODEOBJECT(module_filename_obj, 44, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[38], mod_consts[152], NULL, 2, 0, 0);
-    codeobj_dd5289da927a79e1b423ff06c2dd7a5f = MAKE_CODEOBJECT(module_filename_obj, 26, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[18], mod_consts[150], NULL, 2, 0, 0);
-    codeobj_6fa6d1223075d100ef84e46f64b58663 = MAKE_CODEOBJECT(module_filename_obj, 51, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[39], mod_consts[150], NULL, 2, 0, 0);
-    codeobj_a0af5b1eb9dffcf34221e6d4b7cfdb20 = MAKE_CODEOBJECT(module_filename_obj, 18, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[2], mod_consts[153], mod_consts[154], 2, 0, 0);
-    codeobj_ae599b6ff2a78eee8239d757de3c64ae = MAKE_CODEOBJECT(module_filename_obj, 28, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[2], mod_consts[153], mod_consts[154], 2, 0, 0);
-    codeobj_4f0eaa5bdf3edbf906742a8efe4f7646 = MAKE_CODEOBJECT(module_filename_obj, 38, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[2], mod_consts[153], mod_consts[154], 2, 0, 0);
-    codeobj_2ba73249d58d691f7a014f1ff771bee3 = MAKE_CODEOBJECT(module_filename_obj, 53, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[2], mod_consts[155], mod_consts[154], 1, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[147]); CHECK_OBJECT(module_filename_obj);
+    codeobj_28af77d99a4adc21aa4d296e94caae0a = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[148], NULL, NULL, 0, 0, 0);
+    codeobj_6413e156119efda793f4d165b06b2e34 = MAKE_CODEOBJECT(module_filename_obj, 59, CO_NOFREE, mod_consts[49], mod_consts[149], NULL, 0, 0, 0);
+    codeobj_2f18c7f0f671abe0d844e75926e8b3ba = MAKE_CODEOBJECT(module_filename_obj, 16, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[17], mod_consts[150], NULL, 2, 0, 0);
+    codeobj_86853195c338f8fea9136970ce60a33f = MAKE_CODEOBJECT(module_filename_obj, 8, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[8], mod_consts[151], NULL, 1, 0, 0);
+    codeobj_d127ff2dd2923480ef54d461ae0655fc = MAKE_CODEOBJECT(module_filename_obj, 36, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[19], mod_consts[150], NULL, 2, 0, 0);
+    codeobj_8e4352db17f1fe57671f8cb48db28e36 = MAKE_CODEOBJECT(module_filename_obj, 44, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[37], mod_consts[152], NULL, 2, 0, 0);
+    codeobj_5e046856f5bdfcb07cae54790f27ecbc = MAKE_CODEOBJECT(module_filename_obj, 26, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[18], mod_consts[150], NULL, 2, 0, 0);
+    codeobj_c7c967abbebe859d9a6bd0c5f5094375 = MAKE_CODEOBJECT(module_filename_obj, 51, CO_OPTIMIZED | CO_NEWLOCALS | CO_NOFREE, mod_consts[38], mod_consts[150], NULL, 2, 0, 0);
+    codeobj_2a5aaf14d400e0fa891b45d45ec78f40 = MAKE_CODEOBJECT(module_filename_obj, 18, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[2], mod_consts[153], mod_consts[154], 2, 0, 0);
+    codeobj_fecc3425152d6acd3cd19289bfc590f2 = MAKE_CODEOBJECT(module_filename_obj, 28, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[2], mod_consts[153], mod_consts[154], 2, 0, 0);
+    codeobj_738b273a6fdda7497a52725a9e6d81a4 = MAKE_CODEOBJECT(module_filename_obj, 38, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[2], mod_consts[153], mod_consts[154], 2, 0, 0);
+    codeobj_73623c3c74d32d44b729ed1aa227f8ef = MAKE_CODEOBJECT(module_filename_obj, 53, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[2], mod_consts[155], mod_consts[154], 1, 0, 0);
 }
 
 // The module function declarations.
@@ -134,7 +134,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__1__disables_array_ufunc(struc
 
     // Local variable declarations.
     PyObject *par_obj = python_pars[0];
-    struct Nuitka_FrameObject *frame_efa45f493bda22ad40b1a21f61136b8b;
+    struct Nuitka_FrameObject *frame_86853195c338f8fea9136970ce60a33f;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
@@ -154,7 +154,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__1__disables_array_ufunc(struc
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
-    static struct Nuitka_FrameObject *cache_frame_efa45f493bda22ad40b1a21f61136b8b = NULL;
+    static struct Nuitka_FrameObject *cache_frame_86853195c338f8fea9136970ce60a33f = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -162,31 +162,31 @@ static PyObject *impl_numpy$lib$mixins$$$function__1__disables_array_ufunc(struc
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_efa45f493bda22ad40b1a21f61136b8b)) {
-        Py_XDECREF(cache_frame_efa45f493bda22ad40b1a21f61136b8b);
+    if (isFrameUnusable(cache_frame_86853195c338f8fea9136970ce60a33f)) {
+        Py_XDECREF(cache_frame_86853195c338f8fea9136970ce60a33f);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_efa45f493bda22ad40b1a21f61136b8b == NULL) {
+        if (cache_frame_86853195c338f8fea9136970ce60a33f == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_efa45f493bda22ad40b1a21f61136b8b = MAKE_FUNCTION_FRAME(codeobj_efa45f493bda22ad40b1a21f61136b8b, module_numpy$lib$mixins, sizeof(void *));
+        cache_frame_86853195c338f8fea9136970ce60a33f = MAKE_FUNCTION_FRAME(codeobj_86853195c338f8fea9136970ce60a33f, module_numpy$lib$mixins, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_efa45f493bda22ad40b1a21f61136b8b->m_type_description == NULL);
-    frame_efa45f493bda22ad40b1a21f61136b8b = cache_frame_efa45f493bda22ad40b1a21f61136b8b;
+    assert(cache_frame_86853195c338f8fea9136970ce60a33f->m_type_description == NULL);
+    frame_86853195c338f8fea9136970ce60a33f = cache_frame_86853195c338f8fea9136970ce60a33f;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_efa45f493bda22ad40b1a21f61136b8b);
+    pushFrameStack(frame_86853195c338f8fea9136970ce60a33f);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_efa45f493bda22ad40b1a21f61136b8b) == 2); // Frame stack
+    assert(Py_REFCNT(frame_86853195c338f8fea9136970ce60a33f) == 2); // Frame stack
 
     // Framed code:
     // Tried code:
@@ -230,9 +230,9 @@ static PyObject *impl_numpy$lib$mixins$$$function__1__disables_array_ufunc(struc
     GET_CURRENT_EXCEPTION(&exception_preserved_type_1, &exception_preserved_value_1, &exception_preserved_tb_1);
 
     if (exception_keeper_tb_1 == NULL) {
-        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_efa45f493bda22ad40b1a21f61136b8b, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_86853195c338f8fea9136970ce60a33f, exception_keeper_lineno_1);
     } else if (exception_keeper_lineno_1 != 0) {
-        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_efa45f493bda22ad40b1a21f61136b8b, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_86853195c338f8fea9136970ce60a33f, exception_keeper_lineno_1);
     }
 
     NORMALIZE_EXCEPTION(&exception_keeper_type_1, &exception_keeper_value_1, &exception_keeper_tb_1);
@@ -265,7 +265,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__1__disables_array_ufunc(struc
         exception_lineno = 10;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_efa45f493bda22ad40b1a21f61136b8b->m_frame) frame_efa45f493bda22ad40b1a21f61136b8b->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_86853195c338f8fea9136970ce60a33f->m_frame) frame_86853195c338f8fea9136970ce60a33f->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "o";
     goto try_except_handler_3;
     branch_end_1:;
@@ -302,7 +302,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__1__disables_array_ufunc(struc
     // End of try:
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_efa45f493bda22ad40b1a21f61136b8b);
+    RESTORE_FRAME_EXCEPTION(frame_86853195c338f8fea9136970ce60a33f);
 #endif
 
     // Put the previous frame back on top.
@@ -312,7 +312,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__1__disables_array_ufunc(struc
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_efa45f493bda22ad40b1a21f61136b8b);
+    RESTORE_FRAME_EXCEPTION(frame_86853195c338f8fea9136970ce60a33f);
 #endif
 
     // Put the previous frame back on top.
@@ -323,35 +323,35 @@ static PyObject *impl_numpy$lib$mixins$$$function__1__disables_array_ufunc(struc
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_efa45f493bda22ad40b1a21f61136b8b);
+    RESTORE_FRAME_EXCEPTION(frame_86853195c338f8fea9136970ce60a33f);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_efa45f493bda22ad40b1a21f61136b8b, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_efa45f493bda22ad40b1a21f61136b8b->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_efa45f493bda22ad40b1a21f61136b8b, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_86853195c338f8fea9136970ce60a33f, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_86853195c338f8fea9136970ce60a33f->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_86853195c338f8fea9136970ce60a33f, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_efa45f493bda22ad40b1a21f61136b8b,
+        frame_86853195c338f8fea9136970ce60a33f,
         type_description_1,
         par_obj
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_efa45f493bda22ad40b1a21f61136b8b == cache_frame_efa45f493bda22ad40b1a21f61136b8b) {
+    if (frame_86853195c338f8fea9136970ce60a33f == cache_frame_86853195c338f8fea9136970ce60a33f) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_efa45f493bda22ad40b1a21f61136b8b);
-        cache_frame_efa45f493bda22ad40b1a21f61136b8b = NULL;
+        Py_DECREF(cache_frame_86853195c338f8fea9136970ce60a33f);
+        cache_frame_86853195c338f8fea9136970ce60a33f = NULL;
     }
 
-    assertFrameObject(frame_efa45f493bda22ad40b1a21f61136b8b);
+    assertFrameObject(frame_86853195c338f8fea9136970ce60a33f);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -420,14 +420,14 @@ static PyObject *impl_numpy$lib$mixins$$$function__2__binary_method(struct Nuitk
     struct Nuitka_CellObject *par_ufunc = Nuitka_Cell_New1(python_pars[0]);
     PyObject *par_name = python_pars[1];
     PyObject *var_func = NULL;
-    struct Nuitka_FrameObject *frame_780f97679f07d5fcc36b50f534bdedad;
+    struct Nuitka_FrameObject *frame_2f18c7f0f671abe0d844e75926e8b3ba;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_780f97679f07d5fcc36b50f534bdedad = NULL;
+    static struct Nuitka_FrameObject *cache_frame_2f18c7f0f671abe0d844e75926e8b3ba = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -448,31 +448,31 @@ static PyObject *impl_numpy$lib$mixins$$$function__2__binary_method(struct Nuitk
         var_func = tmp_assign_source_1;
     }
     // Tried code:
-    if (isFrameUnusable(cache_frame_780f97679f07d5fcc36b50f534bdedad)) {
-        Py_XDECREF(cache_frame_780f97679f07d5fcc36b50f534bdedad);
+    if (isFrameUnusable(cache_frame_2f18c7f0f671abe0d844e75926e8b3ba)) {
+        Py_XDECREF(cache_frame_2f18c7f0f671abe0d844e75926e8b3ba);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_780f97679f07d5fcc36b50f534bdedad == NULL) {
+        if (cache_frame_2f18c7f0f671abe0d844e75926e8b3ba == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_780f97679f07d5fcc36b50f534bdedad = MAKE_FUNCTION_FRAME(codeobj_780f97679f07d5fcc36b50f534bdedad, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_2f18c7f0f671abe0d844e75926e8b3ba = MAKE_FUNCTION_FRAME(codeobj_2f18c7f0f671abe0d844e75926e8b3ba, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_780f97679f07d5fcc36b50f534bdedad->m_type_description == NULL);
-    frame_780f97679f07d5fcc36b50f534bdedad = cache_frame_780f97679f07d5fcc36b50f534bdedad;
+    assert(cache_frame_2f18c7f0f671abe0d844e75926e8b3ba->m_type_description == NULL);
+    frame_2f18c7f0f671abe0d844e75926e8b3ba = cache_frame_2f18c7f0f671abe0d844e75926e8b3ba;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_780f97679f07d5fcc36b50f534bdedad);
+    pushFrameStack(frame_2f18c7f0f671abe0d844e75926e8b3ba);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_780f97679f07d5fcc36b50f534bdedad) == 2); // Frame stack
+    assert(Py_REFCNT(frame_2f18c7f0f671abe0d844e75926e8b3ba) == 2); // Frame stack
 
     // Framed code:
     {
@@ -483,7 +483,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__2__binary_method(struct Nuitk
         tmp_called_instance_1 = mod_consts[4];
         CHECK_OBJECT(par_name);
         tmp_args_element_name_1 = par_name;
-        frame_780f97679f07d5fcc36b50f534bdedad->m_frame.f_lineno = 22;
+        frame_2f18c7f0f671abe0d844e75926e8b3ba->m_frame.f_lineno = 22;
         tmp_assattr_name_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[5], tmp_args_element_name_1);
         if (tmp_assattr_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -512,7 +512,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__2__binary_method(struct Nuitk
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_780f97679f07d5fcc36b50f534bdedad);
+    RESTORE_FRAME_EXCEPTION(frame_2f18c7f0f671abe0d844e75926e8b3ba);
 #endif
 
     // Put the previous frame back on top.
@@ -523,18 +523,18 @@ static PyObject *impl_numpy$lib$mixins$$$function__2__binary_method(struct Nuitk
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_780f97679f07d5fcc36b50f534bdedad);
+    RESTORE_FRAME_EXCEPTION(frame_2f18c7f0f671abe0d844e75926e8b3ba);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_780f97679f07d5fcc36b50f534bdedad, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_780f97679f07d5fcc36b50f534bdedad->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_780f97679f07d5fcc36b50f534bdedad, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_2f18c7f0f671abe0d844e75926e8b3ba, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_2f18c7f0f671abe0d844e75926e8b3ba->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_2f18c7f0f671abe0d844e75926e8b3ba, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_780f97679f07d5fcc36b50f534bdedad,
+        frame_2f18c7f0f671abe0d844e75926e8b3ba,
         type_description_1,
         par_ufunc,
         par_name,
@@ -543,17 +543,17 @@ static PyObject *impl_numpy$lib$mixins$$$function__2__binary_method(struct Nuitk
 
 
     // Release cached frame if used for exception.
-    if (frame_780f97679f07d5fcc36b50f534bdedad == cache_frame_780f97679f07d5fcc36b50f534bdedad) {
+    if (frame_2f18c7f0f671abe0d844e75926e8b3ba == cache_frame_2f18c7f0f671abe0d844e75926e8b3ba) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_780f97679f07d5fcc36b50f534bdedad);
-        cache_frame_780f97679f07d5fcc36b50f534bdedad = NULL;
+        Py_DECREF(cache_frame_2f18c7f0f671abe0d844e75926e8b3ba);
+        cache_frame_2f18c7f0f671abe0d844e75926e8b3ba = NULL;
     }
 
-    assertFrameObject(frame_780f97679f07d5fcc36b50f534bdedad);
+    assertFrameObject(frame_2f18c7f0f671abe0d844e75926e8b3ba);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -637,14 +637,14 @@ static PyObject *impl_numpy$lib$mixins$$$function__2__binary_method$$$function__
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_other = python_pars[1];
-    struct Nuitka_FrameObject *frame_a0af5b1eb9dffcf34221e6d4b7cfdb20;
+    struct Nuitka_FrameObject *frame_2a5aaf14d400e0fa891b45d45ec78f40;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_a0af5b1eb9dffcf34221e6d4b7cfdb20 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_2a5aaf14d400e0fa891b45d45ec78f40 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -652,31 +652,31 @@ static PyObject *impl_numpy$lib$mixins$$$function__2__binary_method$$$function__
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_a0af5b1eb9dffcf34221e6d4b7cfdb20)) {
-        Py_XDECREF(cache_frame_a0af5b1eb9dffcf34221e6d4b7cfdb20);
+    if (isFrameUnusable(cache_frame_2a5aaf14d400e0fa891b45d45ec78f40)) {
+        Py_XDECREF(cache_frame_2a5aaf14d400e0fa891b45d45ec78f40);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_a0af5b1eb9dffcf34221e6d4b7cfdb20 == NULL) {
+        if (cache_frame_2a5aaf14d400e0fa891b45d45ec78f40 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_a0af5b1eb9dffcf34221e6d4b7cfdb20 = MAKE_FUNCTION_FRAME(codeobj_a0af5b1eb9dffcf34221e6d4b7cfdb20, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_2a5aaf14d400e0fa891b45d45ec78f40 = MAKE_FUNCTION_FRAME(codeobj_2a5aaf14d400e0fa891b45d45ec78f40, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_a0af5b1eb9dffcf34221e6d4b7cfdb20->m_type_description == NULL);
-    frame_a0af5b1eb9dffcf34221e6d4b7cfdb20 = cache_frame_a0af5b1eb9dffcf34221e6d4b7cfdb20;
+    assert(cache_frame_2a5aaf14d400e0fa891b45d45ec78f40->m_type_description == NULL);
+    frame_2a5aaf14d400e0fa891b45d45ec78f40 = cache_frame_2a5aaf14d400e0fa891b45d45ec78f40;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_a0af5b1eb9dffcf34221e6d4b7cfdb20);
+    pushFrameStack(frame_2a5aaf14d400e0fa891b45d45ec78f40);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_a0af5b1eb9dffcf34221e6d4b7cfdb20) == 2); // Frame stack
+    assert(Py_REFCNT(frame_2a5aaf14d400e0fa891b45d45ec78f40) == 2); // Frame stack
 
     // Framed code:
     {
@@ -703,7 +703,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__2__binary_method$$$function__
         }
         CHECK_OBJECT(par_other);
         tmp_args_element_name_1 = par_other;
-        frame_a0af5b1eb9dffcf34221e6d4b7cfdb20->m_frame.f_lineno = 19;
+        frame_2a5aaf14d400e0fa891b45d45ec78f40->m_frame.f_lineno = 19;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -760,7 +760,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__2__binary_method$$$function__
         tmp_args_element_name_2 = par_self;
         CHECK_OBJECT(par_other);
         tmp_args_element_name_3 = par_other;
-        frame_a0af5b1eb9dffcf34221e6d4b7cfdb20->m_frame.f_lineno = 21;
+        frame_2a5aaf14d400e0fa891b45d45ec78f40->m_frame.f_lineno = 21;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -780,7 +780,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__2__binary_method$$$function__
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a0af5b1eb9dffcf34221e6d4b7cfdb20);
+    RESTORE_FRAME_EXCEPTION(frame_2a5aaf14d400e0fa891b45d45ec78f40);
 #endif
 
     // Put the previous frame back on top.
@@ -790,7 +790,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__2__binary_method$$$function__
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a0af5b1eb9dffcf34221e6d4b7cfdb20);
+    RESTORE_FRAME_EXCEPTION(frame_2a5aaf14d400e0fa891b45d45ec78f40);
 #endif
 
     // Put the previous frame back on top.
@@ -801,18 +801,18 @@ static PyObject *impl_numpy$lib$mixins$$$function__2__binary_method$$$function__
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_a0af5b1eb9dffcf34221e6d4b7cfdb20);
+    RESTORE_FRAME_EXCEPTION(frame_2a5aaf14d400e0fa891b45d45ec78f40);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a0af5b1eb9dffcf34221e6d4b7cfdb20, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a0af5b1eb9dffcf34221e6d4b7cfdb20->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a0af5b1eb9dffcf34221e6d4b7cfdb20, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_2a5aaf14d400e0fa891b45d45ec78f40, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_2a5aaf14d400e0fa891b45d45ec78f40->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_2a5aaf14d400e0fa891b45d45ec78f40, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_a0af5b1eb9dffcf34221e6d4b7cfdb20,
+        frame_2a5aaf14d400e0fa891b45d45ec78f40,
         type_description_1,
         par_self,
         par_other,
@@ -821,17 +821,17 @@ static PyObject *impl_numpy$lib$mixins$$$function__2__binary_method$$$function__
 
 
     // Release cached frame if used for exception.
-    if (frame_a0af5b1eb9dffcf34221e6d4b7cfdb20 == cache_frame_a0af5b1eb9dffcf34221e6d4b7cfdb20) {
+    if (frame_2a5aaf14d400e0fa891b45d45ec78f40 == cache_frame_2a5aaf14d400e0fa891b45d45ec78f40) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_a0af5b1eb9dffcf34221e6d4b7cfdb20);
-        cache_frame_a0af5b1eb9dffcf34221e6d4b7cfdb20 = NULL;
+        Py_DECREF(cache_frame_2a5aaf14d400e0fa891b45d45ec78f40);
+        cache_frame_2a5aaf14d400e0fa891b45d45ec78f40 = NULL;
     }
 
-    assertFrameObject(frame_a0af5b1eb9dffcf34221e6d4b7cfdb20);
+    assertFrameObject(frame_2a5aaf14d400e0fa891b45d45ec78f40);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -908,14 +908,14 @@ static PyObject *impl_numpy$lib$mixins$$$function__3__reflected_binary_method(st
     struct Nuitka_CellObject *par_ufunc = Nuitka_Cell_New1(python_pars[0]);
     PyObject *par_name = python_pars[1];
     PyObject *var_func = NULL;
-    struct Nuitka_FrameObject *frame_dd5289da927a79e1b423ff06c2dd7a5f;
+    struct Nuitka_FrameObject *frame_5e046856f5bdfcb07cae54790f27ecbc;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_dd5289da927a79e1b423ff06c2dd7a5f = NULL;
+    static struct Nuitka_FrameObject *cache_frame_5e046856f5bdfcb07cae54790f27ecbc = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -936,31 +936,31 @@ static PyObject *impl_numpy$lib$mixins$$$function__3__reflected_binary_method(st
         var_func = tmp_assign_source_1;
     }
     // Tried code:
-    if (isFrameUnusable(cache_frame_dd5289da927a79e1b423ff06c2dd7a5f)) {
-        Py_XDECREF(cache_frame_dd5289da927a79e1b423ff06c2dd7a5f);
+    if (isFrameUnusable(cache_frame_5e046856f5bdfcb07cae54790f27ecbc)) {
+        Py_XDECREF(cache_frame_5e046856f5bdfcb07cae54790f27ecbc);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_dd5289da927a79e1b423ff06c2dd7a5f == NULL) {
+        if (cache_frame_5e046856f5bdfcb07cae54790f27ecbc == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_dd5289da927a79e1b423ff06c2dd7a5f = MAKE_FUNCTION_FRAME(codeobj_dd5289da927a79e1b423ff06c2dd7a5f, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_5e046856f5bdfcb07cae54790f27ecbc = MAKE_FUNCTION_FRAME(codeobj_5e046856f5bdfcb07cae54790f27ecbc, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_dd5289da927a79e1b423ff06c2dd7a5f->m_type_description == NULL);
-    frame_dd5289da927a79e1b423ff06c2dd7a5f = cache_frame_dd5289da927a79e1b423ff06c2dd7a5f;
+    assert(cache_frame_5e046856f5bdfcb07cae54790f27ecbc->m_type_description == NULL);
+    frame_5e046856f5bdfcb07cae54790f27ecbc = cache_frame_5e046856f5bdfcb07cae54790f27ecbc;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_dd5289da927a79e1b423ff06c2dd7a5f);
+    pushFrameStack(frame_5e046856f5bdfcb07cae54790f27ecbc);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_dd5289da927a79e1b423ff06c2dd7a5f) == 2); // Frame stack
+    assert(Py_REFCNT(frame_5e046856f5bdfcb07cae54790f27ecbc) == 2); // Frame stack
 
     // Framed code:
     {
@@ -971,7 +971,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__3__reflected_binary_method(st
         tmp_called_instance_1 = mod_consts[11];
         CHECK_OBJECT(par_name);
         tmp_args_element_name_1 = par_name;
-        frame_dd5289da927a79e1b423ff06c2dd7a5f->m_frame.f_lineno = 32;
+        frame_5e046856f5bdfcb07cae54790f27ecbc->m_frame.f_lineno = 32;
         tmp_assattr_name_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[5], tmp_args_element_name_1);
         if (tmp_assattr_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1000,7 +1000,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__3__reflected_binary_method(st
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_dd5289da927a79e1b423ff06c2dd7a5f);
+    RESTORE_FRAME_EXCEPTION(frame_5e046856f5bdfcb07cae54790f27ecbc);
 #endif
 
     // Put the previous frame back on top.
@@ -1011,18 +1011,18 @@ static PyObject *impl_numpy$lib$mixins$$$function__3__reflected_binary_method(st
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_dd5289da927a79e1b423ff06c2dd7a5f);
+    RESTORE_FRAME_EXCEPTION(frame_5e046856f5bdfcb07cae54790f27ecbc);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_dd5289da927a79e1b423ff06c2dd7a5f, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_dd5289da927a79e1b423ff06c2dd7a5f->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_dd5289da927a79e1b423ff06c2dd7a5f, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_5e046856f5bdfcb07cae54790f27ecbc, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_5e046856f5bdfcb07cae54790f27ecbc->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_5e046856f5bdfcb07cae54790f27ecbc, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_dd5289da927a79e1b423ff06c2dd7a5f,
+        frame_5e046856f5bdfcb07cae54790f27ecbc,
         type_description_1,
         par_ufunc,
         par_name,
@@ -1031,17 +1031,17 @@ static PyObject *impl_numpy$lib$mixins$$$function__3__reflected_binary_method(st
 
 
     // Release cached frame if used for exception.
-    if (frame_dd5289da927a79e1b423ff06c2dd7a5f == cache_frame_dd5289da927a79e1b423ff06c2dd7a5f) {
+    if (frame_5e046856f5bdfcb07cae54790f27ecbc == cache_frame_5e046856f5bdfcb07cae54790f27ecbc) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_dd5289da927a79e1b423ff06c2dd7a5f);
-        cache_frame_dd5289da927a79e1b423ff06c2dd7a5f = NULL;
+        Py_DECREF(cache_frame_5e046856f5bdfcb07cae54790f27ecbc);
+        cache_frame_5e046856f5bdfcb07cae54790f27ecbc = NULL;
     }
 
-    assertFrameObject(frame_dd5289da927a79e1b423ff06c2dd7a5f);
+    assertFrameObject(frame_5e046856f5bdfcb07cae54790f27ecbc);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1125,14 +1125,14 @@ static PyObject *impl_numpy$lib$mixins$$$function__3__reflected_binary_method$$$
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_other = python_pars[1];
-    struct Nuitka_FrameObject *frame_ae599b6ff2a78eee8239d757de3c64ae;
+    struct Nuitka_FrameObject *frame_fecc3425152d6acd3cd19289bfc590f2;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_ae599b6ff2a78eee8239d757de3c64ae = NULL;
+    static struct Nuitka_FrameObject *cache_frame_fecc3425152d6acd3cd19289bfc590f2 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -1140,31 +1140,31 @@ static PyObject *impl_numpy$lib$mixins$$$function__3__reflected_binary_method$$$
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ae599b6ff2a78eee8239d757de3c64ae)) {
-        Py_XDECREF(cache_frame_ae599b6ff2a78eee8239d757de3c64ae);
+    if (isFrameUnusable(cache_frame_fecc3425152d6acd3cd19289bfc590f2)) {
+        Py_XDECREF(cache_frame_fecc3425152d6acd3cd19289bfc590f2);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ae599b6ff2a78eee8239d757de3c64ae == NULL) {
+        if (cache_frame_fecc3425152d6acd3cd19289bfc590f2 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ae599b6ff2a78eee8239d757de3c64ae = MAKE_FUNCTION_FRAME(codeobj_ae599b6ff2a78eee8239d757de3c64ae, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_fecc3425152d6acd3cd19289bfc590f2 = MAKE_FUNCTION_FRAME(codeobj_fecc3425152d6acd3cd19289bfc590f2, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ae599b6ff2a78eee8239d757de3c64ae->m_type_description == NULL);
-    frame_ae599b6ff2a78eee8239d757de3c64ae = cache_frame_ae599b6ff2a78eee8239d757de3c64ae;
+    assert(cache_frame_fecc3425152d6acd3cd19289bfc590f2->m_type_description == NULL);
+    frame_fecc3425152d6acd3cd19289bfc590f2 = cache_frame_fecc3425152d6acd3cd19289bfc590f2;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ae599b6ff2a78eee8239d757de3c64ae);
+    pushFrameStack(frame_fecc3425152d6acd3cd19289bfc590f2);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ae599b6ff2a78eee8239d757de3c64ae) == 2); // Frame stack
+    assert(Py_REFCNT(frame_fecc3425152d6acd3cd19289bfc590f2) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1191,7 +1191,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__3__reflected_binary_method$$$
         }
         CHECK_OBJECT(par_other);
         tmp_args_element_name_1 = par_other;
-        frame_ae599b6ff2a78eee8239d757de3c64ae->m_frame.f_lineno = 29;
+        frame_fecc3425152d6acd3cd19289bfc590f2->m_frame.f_lineno = 29;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         if (tmp_call_result_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1248,7 +1248,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__3__reflected_binary_method$$$
         tmp_args_element_name_2 = par_other;
         CHECK_OBJECT(par_self);
         tmp_args_element_name_3 = par_self;
-        frame_ae599b6ff2a78eee8239d757de3c64ae->m_frame.f_lineno = 31;
+        frame_fecc3425152d6acd3cd19289bfc590f2->m_frame.f_lineno = 31;
         {
             PyObject *call_args[] = {tmp_args_element_name_2, tmp_args_element_name_3};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -1268,7 +1268,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__3__reflected_binary_method$$$
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ae599b6ff2a78eee8239d757de3c64ae);
+    RESTORE_FRAME_EXCEPTION(frame_fecc3425152d6acd3cd19289bfc590f2);
 #endif
 
     // Put the previous frame back on top.
@@ -1278,7 +1278,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__3__reflected_binary_method$$$
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ae599b6ff2a78eee8239d757de3c64ae);
+    RESTORE_FRAME_EXCEPTION(frame_fecc3425152d6acd3cd19289bfc590f2);
 #endif
 
     // Put the previous frame back on top.
@@ -1289,18 +1289,18 @@ static PyObject *impl_numpy$lib$mixins$$$function__3__reflected_binary_method$$$
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ae599b6ff2a78eee8239d757de3c64ae);
+    RESTORE_FRAME_EXCEPTION(frame_fecc3425152d6acd3cd19289bfc590f2);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ae599b6ff2a78eee8239d757de3c64ae, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ae599b6ff2a78eee8239d757de3c64ae->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ae599b6ff2a78eee8239d757de3c64ae, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_fecc3425152d6acd3cd19289bfc590f2, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_fecc3425152d6acd3cd19289bfc590f2->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_fecc3425152d6acd3cd19289bfc590f2, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ae599b6ff2a78eee8239d757de3c64ae,
+        frame_fecc3425152d6acd3cd19289bfc590f2,
         type_description_1,
         par_self,
         par_other,
@@ -1309,17 +1309,17 @@ static PyObject *impl_numpy$lib$mixins$$$function__3__reflected_binary_method$$$
 
 
     // Release cached frame if used for exception.
-    if (frame_ae599b6ff2a78eee8239d757de3c64ae == cache_frame_ae599b6ff2a78eee8239d757de3c64ae) {
+    if (frame_fecc3425152d6acd3cd19289bfc590f2 == cache_frame_fecc3425152d6acd3cd19289bfc590f2) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ae599b6ff2a78eee8239d757de3c64ae);
-        cache_frame_ae599b6ff2a78eee8239d757de3c64ae = NULL;
+        Py_DECREF(cache_frame_fecc3425152d6acd3cd19289bfc590f2);
+        cache_frame_fecc3425152d6acd3cd19289bfc590f2 = NULL;
     }
 
-    assertFrameObject(frame_ae599b6ff2a78eee8239d757de3c64ae);
+    assertFrameObject(frame_fecc3425152d6acd3cd19289bfc590f2);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1396,14 +1396,14 @@ static PyObject *impl_numpy$lib$mixins$$$function__4__inplace_binary_method(stru
     struct Nuitka_CellObject *par_ufunc = Nuitka_Cell_New1(python_pars[0]);
     PyObject *par_name = python_pars[1];
     PyObject *var_func = NULL;
-    struct Nuitka_FrameObject *frame_ef537c44abdefda078d2a2f59581aba8;
+    struct Nuitka_FrameObject *frame_d127ff2dd2923480ef54d461ae0655fc;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_ef537c44abdefda078d2a2f59581aba8 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d127ff2dd2923480ef54d461ae0655fc = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -1424,31 +1424,31 @@ static PyObject *impl_numpy$lib$mixins$$$function__4__inplace_binary_method(stru
         var_func = tmp_assign_source_1;
     }
     // Tried code:
-    if (isFrameUnusable(cache_frame_ef537c44abdefda078d2a2f59581aba8)) {
-        Py_XDECREF(cache_frame_ef537c44abdefda078d2a2f59581aba8);
+    if (isFrameUnusable(cache_frame_d127ff2dd2923480ef54d461ae0655fc)) {
+        Py_XDECREF(cache_frame_d127ff2dd2923480ef54d461ae0655fc);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ef537c44abdefda078d2a2f59581aba8 == NULL) {
+        if (cache_frame_d127ff2dd2923480ef54d461ae0655fc == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ef537c44abdefda078d2a2f59581aba8 = MAKE_FUNCTION_FRAME(codeobj_ef537c44abdefda078d2a2f59581aba8, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_d127ff2dd2923480ef54d461ae0655fc = MAKE_FUNCTION_FRAME(codeobj_d127ff2dd2923480ef54d461ae0655fc, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_ef537c44abdefda078d2a2f59581aba8->m_type_description == NULL);
-    frame_ef537c44abdefda078d2a2f59581aba8 = cache_frame_ef537c44abdefda078d2a2f59581aba8;
+    assert(cache_frame_d127ff2dd2923480ef54d461ae0655fc->m_type_description == NULL);
+    frame_d127ff2dd2923480ef54d461ae0655fc = cache_frame_d127ff2dd2923480ef54d461ae0655fc;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_ef537c44abdefda078d2a2f59581aba8);
+    pushFrameStack(frame_d127ff2dd2923480ef54d461ae0655fc);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_ef537c44abdefda078d2a2f59581aba8) == 2); // Frame stack
+    assert(Py_REFCNT(frame_d127ff2dd2923480ef54d461ae0655fc) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1459,7 +1459,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__4__inplace_binary_method(stru
         tmp_called_instance_1 = mod_consts[14];
         CHECK_OBJECT(par_name);
         tmp_args_element_name_1 = par_name;
-        frame_ef537c44abdefda078d2a2f59581aba8->m_frame.f_lineno = 40;
+        frame_d127ff2dd2923480ef54d461ae0655fc->m_frame.f_lineno = 40;
         tmp_assattr_name_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[5], tmp_args_element_name_1);
         if (tmp_assattr_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -1488,7 +1488,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__4__inplace_binary_method(stru
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ef537c44abdefda078d2a2f59581aba8);
+    RESTORE_FRAME_EXCEPTION(frame_d127ff2dd2923480ef54d461ae0655fc);
 #endif
 
     // Put the previous frame back on top.
@@ -1499,18 +1499,18 @@ static PyObject *impl_numpy$lib$mixins$$$function__4__inplace_binary_method(stru
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_ef537c44abdefda078d2a2f59581aba8);
+    RESTORE_FRAME_EXCEPTION(frame_d127ff2dd2923480ef54d461ae0655fc);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ef537c44abdefda078d2a2f59581aba8, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ef537c44abdefda078d2a2f59581aba8->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ef537c44abdefda078d2a2f59581aba8, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d127ff2dd2923480ef54d461ae0655fc, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d127ff2dd2923480ef54d461ae0655fc->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d127ff2dd2923480ef54d461ae0655fc, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ef537c44abdefda078d2a2f59581aba8,
+        frame_d127ff2dd2923480ef54d461ae0655fc,
         type_description_1,
         par_ufunc,
         par_name,
@@ -1519,17 +1519,17 @@ static PyObject *impl_numpy$lib$mixins$$$function__4__inplace_binary_method(stru
 
 
     // Release cached frame if used for exception.
-    if (frame_ef537c44abdefda078d2a2f59581aba8 == cache_frame_ef537c44abdefda078d2a2f59581aba8) {
+    if (frame_d127ff2dd2923480ef54d461ae0655fc == cache_frame_d127ff2dd2923480ef54d461ae0655fc) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_ef537c44abdefda078d2a2f59581aba8);
-        cache_frame_ef537c44abdefda078d2a2f59581aba8 = NULL;
+        Py_DECREF(cache_frame_d127ff2dd2923480ef54d461ae0655fc);
+        cache_frame_d127ff2dd2923480ef54d461ae0655fc = NULL;
     }
 
-    assertFrameObject(frame_ef537c44abdefda078d2a2f59581aba8);
+    assertFrameObject(frame_d127ff2dd2923480ef54d461ae0655fc);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1613,7 +1613,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__4__inplace_binary_method$$$fu
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_other = python_pars[1];
-    struct Nuitka_FrameObject *frame_4f0eaa5bdf3edbf906742a8efe4f7646;
+    struct Nuitka_FrameObject *frame_738b273a6fdda7497a52725a9e6d81a4;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
@@ -1621,7 +1621,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__4__inplace_binary_method$$$fu
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
-    static struct Nuitka_FrameObject *cache_frame_4f0eaa5bdf3edbf906742a8efe4f7646 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_738b273a6fdda7497a52725a9e6d81a4 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -1629,31 +1629,31 @@ static PyObject *impl_numpy$lib$mixins$$$function__4__inplace_binary_method$$$fu
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_4f0eaa5bdf3edbf906742a8efe4f7646)) {
-        Py_XDECREF(cache_frame_4f0eaa5bdf3edbf906742a8efe4f7646);
+    if (isFrameUnusable(cache_frame_738b273a6fdda7497a52725a9e6d81a4)) {
+        Py_XDECREF(cache_frame_738b273a6fdda7497a52725a9e6d81a4);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_4f0eaa5bdf3edbf906742a8efe4f7646 == NULL) {
+        if (cache_frame_738b273a6fdda7497a52725a9e6d81a4 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_4f0eaa5bdf3edbf906742a8efe4f7646 = MAKE_FUNCTION_FRAME(codeobj_4f0eaa5bdf3edbf906742a8efe4f7646, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_738b273a6fdda7497a52725a9e6d81a4 = MAKE_FUNCTION_FRAME(codeobj_738b273a6fdda7497a52725a9e6d81a4, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_4f0eaa5bdf3edbf906742a8efe4f7646->m_type_description == NULL);
-    frame_4f0eaa5bdf3edbf906742a8efe4f7646 = cache_frame_4f0eaa5bdf3edbf906742a8efe4f7646;
+    assert(cache_frame_738b273a6fdda7497a52725a9e6d81a4->m_type_description == NULL);
+    frame_738b273a6fdda7497a52725a9e6d81a4 = cache_frame_738b273a6fdda7497a52725a9e6d81a4;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_4f0eaa5bdf3edbf906742a8efe4f7646);
+    pushFrameStack(frame_738b273a6fdda7497a52725a9e6d81a4);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_4f0eaa5bdf3edbf906742a8efe4f7646) == 2); // Frame stack
+    assert(Py_REFCNT(frame_738b273a6fdda7497a52725a9e6d81a4) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1693,7 +1693,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__4__inplace_binary_method$$$fu
         tmp_res = PyDict_SetItem(tmp_kwargs_name_1, tmp_dict_key_1, tmp_dict_value_1);
         Py_DECREF(tmp_dict_value_1);
         assert(!(tmp_res != 0));
-        frame_4f0eaa5bdf3edbf906742a8efe4f7646->m_frame.f_lineno = 39;
+        frame_738b273a6fdda7497a52725a9e6d81a4->m_frame.f_lineno = 39;
         tmp_return_value = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_args_name_1);
         Py_DECREF(tmp_kwargs_name_1);
@@ -1711,7 +1711,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__4__inplace_binary_method$$$fu
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4f0eaa5bdf3edbf906742a8efe4f7646);
+    RESTORE_FRAME_EXCEPTION(frame_738b273a6fdda7497a52725a9e6d81a4);
 #endif
 
     // Put the previous frame back on top.
@@ -1721,7 +1721,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__4__inplace_binary_method$$$fu
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4f0eaa5bdf3edbf906742a8efe4f7646);
+    RESTORE_FRAME_EXCEPTION(frame_738b273a6fdda7497a52725a9e6d81a4);
 #endif
 
     // Put the previous frame back on top.
@@ -1732,18 +1732,18 @@ static PyObject *impl_numpy$lib$mixins$$$function__4__inplace_binary_method$$$fu
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_4f0eaa5bdf3edbf906742a8efe4f7646);
+    RESTORE_FRAME_EXCEPTION(frame_738b273a6fdda7497a52725a9e6d81a4);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_4f0eaa5bdf3edbf906742a8efe4f7646, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_4f0eaa5bdf3edbf906742a8efe4f7646->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_4f0eaa5bdf3edbf906742a8efe4f7646, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_738b273a6fdda7497a52725a9e6d81a4, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_738b273a6fdda7497a52725a9e6d81a4->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_738b273a6fdda7497a52725a9e6d81a4, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_4f0eaa5bdf3edbf906742a8efe4f7646,
+        frame_738b273a6fdda7497a52725a9e6d81a4,
         type_description_1,
         par_self,
         par_other,
@@ -1752,17 +1752,17 @@ static PyObject *impl_numpy$lib$mixins$$$function__4__inplace_binary_method$$$fu
 
 
     // Release cached frame if used for exception.
-    if (frame_4f0eaa5bdf3edbf906742a8efe4f7646 == cache_frame_4f0eaa5bdf3edbf906742a8efe4f7646) {
+    if (frame_738b273a6fdda7497a52725a9e6d81a4 == cache_frame_738b273a6fdda7497a52725a9e6d81a4) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_4f0eaa5bdf3edbf906742a8efe4f7646);
-        cache_frame_4f0eaa5bdf3edbf906742a8efe4f7646 = NULL;
+        Py_DECREF(cache_frame_738b273a6fdda7497a52725a9e6d81a4);
+        cache_frame_738b273a6fdda7497a52725a9e6d81a4 = NULL;
     }
 
-    assertFrameObject(frame_4f0eaa5bdf3edbf906742a8efe4f7646);
+    assertFrameObject(frame_738b273a6fdda7497a52725a9e6d81a4);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -1838,14 +1838,14 @@ static PyObject *impl_numpy$lib$mixins$$$function__5__numeric_methods(struct Nui
     // Local variable declarations.
     PyObject *par_ufunc = python_pars[0];
     PyObject *par_name = python_pars[1];
-    struct Nuitka_FrameObject *frame_7ecc0dc8c2aa54a594027cfa07588209;
+    struct Nuitka_FrameObject *frame_8e4352db17f1fe57671f8cb48db28e36;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_7ecc0dc8c2aa54a594027cfa07588209 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_8e4352db17f1fe57671f8cb48db28e36 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -1853,31 +1853,31 @@ static PyObject *impl_numpy$lib$mixins$$$function__5__numeric_methods(struct Nui
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_7ecc0dc8c2aa54a594027cfa07588209)) {
-        Py_XDECREF(cache_frame_7ecc0dc8c2aa54a594027cfa07588209);
+    if (isFrameUnusable(cache_frame_8e4352db17f1fe57671f8cb48db28e36)) {
+        Py_XDECREF(cache_frame_8e4352db17f1fe57671f8cb48db28e36);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_7ecc0dc8c2aa54a594027cfa07588209 == NULL) {
+        if (cache_frame_8e4352db17f1fe57671f8cb48db28e36 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_7ecc0dc8c2aa54a594027cfa07588209 = MAKE_FUNCTION_FRAME(codeobj_7ecc0dc8c2aa54a594027cfa07588209, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *));
+        cache_frame_8e4352db17f1fe57671f8cb48db28e36 = MAKE_FUNCTION_FRAME(codeobj_8e4352db17f1fe57671f8cb48db28e36, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_7ecc0dc8c2aa54a594027cfa07588209->m_type_description == NULL);
-    frame_7ecc0dc8c2aa54a594027cfa07588209 = cache_frame_7ecc0dc8c2aa54a594027cfa07588209;
+    assert(cache_frame_8e4352db17f1fe57671f8cb48db28e36->m_type_description == NULL);
+    frame_8e4352db17f1fe57671f8cb48db28e36 = cache_frame_8e4352db17f1fe57671f8cb48db28e36;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_7ecc0dc8c2aa54a594027cfa07588209);
+    pushFrameStack(frame_8e4352db17f1fe57671f8cb48db28e36);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_7ecc0dc8c2aa54a594027cfa07588209) == 2); // Frame stack
+    assert(Py_REFCNT(frame_8e4352db17f1fe57671f8cb48db28e36) == 2); // Frame stack
 
     // Framed code:
     {
@@ -1905,7 +1905,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__5__numeric_methods(struct Nui
         tmp_args_element_name_1 = par_ufunc;
         CHECK_OBJECT(par_name);
         tmp_args_element_name_2 = par_name;
-        frame_7ecc0dc8c2aa54a594027cfa07588209->m_frame.f_lineno = 46;
+        frame_8e4352db17f1fe57671f8cb48db28e36->m_frame.f_lineno = 46;
         {
             PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
             tmp_tuple_element_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_1, call_args);
@@ -1950,7 +1950,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__5__numeric_methods(struct Nui
             tmp_args_element_name_3 = par_ufunc;
             CHECK_OBJECT(par_name);
             tmp_args_element_name_4 = par_name;
-            frame_7ecc0dc8c2aa54a594027cfa07588209->m_frame.f_lineno = 47;
+            frame_8e4352db17f1fe57671f8cb48db28e36->m_frame.f_lineno = 47;
             {
                 PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
                 tmp_tuple_element_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -1987,7 +1987,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__5__numeric_methods(struct Nui
             tmp_args_element_name_5 = par_ufunc;
             CHECK_OBJECT(par_name);
             tmp_args_element_name_6 = par_name;
-            frame_7ecc0dc8c2aa54a594027cfa07588209->m_frame.f_lineno = 48;
+            frame_8e4352db17f1fe57671f8cb48db28e36->m_frame.f_lineno = 48;
             {
                 PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6};
                 tmp_tuple_element_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -2016,7 +2016,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__5__numeric_methods(struct Nui
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_7ecc0dc8c2aa54a594027cfa07588209);
+    RESTORE_FRAME_EXCEPTION(frame_8e4352db17f1fe57671f8cb48db28e36);
 #endif
 
     // Put the previous frame back on top.
@@ -2026,7 +2026,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__5__numeric_methods(struct Nui
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_7ecc0dc8c2aa54a594027cfa07588209);
+    RESTORE_FRAME_EXCEPTION(frame_8e4352db17f1fe57671f8cb48db28e36);
 #endif
 
     // Put the previous frame back on top.
@@ -2037,18 +2037,18 @@ static PyObject *impl_numpy$lib$mixins$$$function__5__numeric_methods(struct Nui
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_7ecc0dc8c2aa54a594027cfa07588209);
+    RESTORE_FRAME_EXCEPTION(frame_8e4352db17f1fe57671f8cb48db28e36);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_7ecc0dc8c2aa54a594027cfa07588209, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_7ecc0dc8c2aa54a594027cfa07588209->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_7ecc0dc8c2aa54a594027cfa07588209, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_8e4352db17f1fe57671f8cb48db28e36, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_8e4352db17f1fe57671f8cb48db28e36->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_8e4352db17f1fe57671f8cb48db28e36, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_7ecc0dc8c2aa54a594027cfa07588209,
+        frame_8e4352db17f1fe57671f8cb48db28e36,
         type_description_1,
         par_ufunc,
         par_name
@@ -2056,17 +2056,17 @@ static PyObject *impl_numpy$lib$mixins$$$function__5__numeric_methods(struct Nui
 
 
     // Release cached frame if used for exception.
-    if (frame_7ecc0dc8c2aa54a594027cfa07588209 == cache_frame_7ecc0dc8c2aa54a594027cfa07588209) {
+    if (frame_8e4352db17f1fe57671f8cb48db28e36 == cache_frame_8e4352db17f1fe57671f8cb48db28e36) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_7ecc0dc8c2aa54a594027cfa07588209);
-        cache_frame_7ecc0dc8c2aa54a594027cfa07588209 = NULL;
+        Py_DECREF(cache_frame_8e4352db17f1fe57671f8cb48db28e36);
+        cache_frame_8e4352db17f1fe57671f8cb48db28e36 = NULL;
     }
 
-    assertFrameObject(frame_7ecc0dc8c2aa54a594027cfa07588209);
+    assertFrameObject(frame_8e4352db17f1fe57671f8cb48db28e36);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2143,14 +2143,14 @@ static PyObject *impl_numpy$lib$mixins$$$function__6__unary_method(struct Nuitka
     struct Nuitka_CellObject *par_ufunc = Nuitka_Cell_New1(python_pars[0]);
     PyObject *par_name = python_pars[1];
     PyObject *var_func = NULL;
-    struct Nuitka_FrameObject *frame_6fa6d1223075d100ef84e46f64b58663;
+    struct Nuitka_FrameObject *frame_c7c967abbebe859d9a6bd0c5f5094375;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
-    static struct Nuitka_FrameObject *cache_frame_6fa6d1223075d100ef84e46f64b58663 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_c7c967abbebe859d9a6bd0c5f5094375 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -2171,31 +2171,31 @@ static PyObject *impl_numpy$lib$mixins$$$function__6__unary_method(struct Nuitka
         var_func = tmp_assign_source_1;
     }
     // Tried code:
-    if (isFrameUnusable(cache_frame_6fa6d1223075d100ef84e46f64b58663)) {
-        Py_XDECREF(cache_frame_6fa6d1223075d100ef84e46f64b58663);
+    if (isFrameUnusable(cache_frame_c7c967abbebe859d9a6bd0c5f5094375)) {
+        Py_XDECREF(cache_frame_c7c967abbebe859d9a6bd0c5f5094375);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_6fa6d1223075d100ef84e46f64b58663 == NULL) {
+        if (cache_frame_c7c967abbebe859d9a6bd0c5f5094375 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_6fa6d1223075d100ef84e46f64b58663 = MAKE_FUNCTION_FRAME(codeobj_6fa6d1223075d100ef84e46f64b58663, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_c7c967abbebe859d9a6bd0c5f5094375 = MAKE_FUNCTION_FRAME(codeobj_c7c967abbebe859d9a6bd0c5f5094375, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_6fa6d1223075d100ef84e46f64b58663->m_type_description == NULL);
-    frame_6fa6d1223075d100ef84e46f64b58663 = cache_frame_6fa6d1223075d100ef84e46f64b58663;
+    assert(cache_frame_c7c967abbebe859d9a6bd0c5f5094375->m_type_description == NULL);
+    frame_c7c967abbebe859d9a6bd0c5f5094375 = cache_frame_c7c967abbebe859d9a6bd0c5f5094375;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_6fa6d1223075d100ef84e46f64b58663);
+    pushFrameStack(frame_c7c967abbebe859d9a6bd0c5f5094375);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_6fa6d1223075d100ef84e46f64b58663) == 2); // Frame stack
+    assert(Py_REFCNT(frame_c7c967abbebe859d9a6bd0c5f5094375) == 2); // Frame stack
 
     // Framed code:
     {
@@ -2206,7 +2206,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__6__unary_method(struct Nuitka
         tmp_called_instance_1 = mod_consts[4];
         CHECK_OBJECT(par_name);
         tmp_args_element_name_1 = par_name;
-        frame_6fa6d1223075d100ef84e46f64b58663->m_frame.f_lineno = 55;
+        frame_c7c967abbebe859d9a6bd0c5f5094375->m_frame.f_lineno = 55;
         tmp_assattr_name_1 = CALL_METHOD_WITH_SINGLE_ARG(tmp_called_instance_1, mod_consts[5], tmp_args_element_name_1);
         if (tmp_assattr_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -2235,7 +2235,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__6__unary_method(struct Nuitka
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6fa6d1223075d100ef84e46f64b58663);
+    RESTORE_FRAME_EXCEPTION(frame_c7c967abbebe859d9a6bd0c5f5094375);
 #endif
 
     // Put the previous frame back on top.
@@ -2246,18 +2246,18 @@ static PyObject *impl_numpy$lib$mixins$$$function__6__unary_method(struct Nuitka
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_6fa6d1223075d100ef84e46f64b58663);
+    RESTORE_FRAME_EXCEPTION(frame_c7c967abbebe859d9a6bd0c5f5094375);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_6fa6d1223075d100ef84e46f64b58663, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_6fa6d1223075d100ef84e46f64b58663->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_6fa6d1223075d100ef84e46f64b58663, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_c7c967abbebe859d9a6bd0c5f5094375, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_c7c967abbebe859d9a6bd0c5f5094375->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_c7c967abbebe859d9a6bd0c5f5094375, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_6fa6d1223075d100ef84e46f64b58663,
+        frame_c7c967abbebe859d9a6bd0c5f5094375,
         type_description_1,
         par_ufunc,
         par_name,
@@ -2266,17 +2266,17 @@ static PyObject *impl_numpy$lib$mixins$$$function__6__unary_method(struct Nuitka
 
 
     // Release cached frame if used for exception.
-    if (frame_6fa6d1223075d100ef84e46f64b58663 == cache_frame_6fa6d1223075d100ef84e46f64b58663) {
+    if (frame_c7c967abbebe859d9a6bd0c5f5094375 == cache_frame_c7c967abbebe859d9a6bd0c5f5094375) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_6fa6d1223075d100ef84e46f64b58663);
-        cache_frame_6fa6d1223075d100ef84e46f64b58663 = NULL;
+        Py_DECREF(cache_frame_c7c967abbebe859d9a6bd0c5f5094375);
+        cache_frame_c7c967abbebe859d9a6bd0c5f5094375 = NULL;
     }
 
-    assertFrameObject(frame_6fa6d1223075d100ef84e46f64b58663);
+    assertFrameObject(frame_c7c967abbebe859d9a6bd0c5f5094375);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2359,14 +2359,14 @@ static PyObject *impl_numpy$lib$mixins$$$function__6__unary_method$$$function__1
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_2ba73249d58d691f7a014f1ff771bee3;
+    struct Nuitka_FrameObject *frame_73623c3c74d32d44b729ed1aa227f8ef;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_2ba73249d58d691f7a014f1ff771bee3 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_73623c3c74d32d44b729ed1aa227f8ef = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -2374,31 +2374,31 @@ static PyObject *impl_numpy$lib$mixins$$$function__6__unary_method$$$function__1
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_2ba73249d58d691f7a014f1ff771bee3)) {
-        Py_XDECREF(cache_frame_2ba73249d58d691f7a014f1ff771bee3);
+    if (isFrameUnusable(cache_frame_73623c3c74d32d44b729ed1aa227f8ef)) {
+        Py_XDECREF(cache_frame_73623c3c74d32d44b729ed1aa227f8ef);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_2ba73249d58d691f7a014f1ff771bee3 == NULL) {
+        if (cache_frame_73623c3c74d32d44b729ed1aa227f8ef == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_2ba73249d58d691f7a014f1ff771bee3 = MAKE_FUNCTION_FRAME(codeobj_2ba73249d58d691f7a014f1ff771bee3, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *));
+        cache_frame_73623c3c74d32d44b729ed1aa227f8ef = MAKE_FUNCTION_FRAME(codeobj_73623c3c74d32d44b729ed1aa227f8ef, module_numpy$lib$mixins, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
-    assert(cache_frame_2ba73249d58d691f7a014f1ff771bee3->m_type_description == NULL);
-    frame_2ba73249d58d691f7a014f1ff771bee3 = cache_frame_2ba73249d58d691f7a014f1ff771bee3;
+    assert(cache_frame_73623c3c74d32d44b729ed1aa227f8ef->m_type_description == NULL);
+    frame_73623c3c74d32d44b729ed1aa227f8ef = cache_frame_73623c3c74d32d44b729ed1aa227f8ef;
 
     // Push the new frame as the currently active one.
-    pushFrameStack(frame_2ba73249d58d691f7a014f1ff771bee3);
+    pushFrameStack(frame_73623c3c74d32d44b729ed1aa227f8ef);
 
     // Mark the frame object as in use, ref count 1 will be up for reuse.
-    assert(Py_REFCNT(frame_2ba73249d58d691f7a014f1ff771bee3) == 2); // Frame stack
+    assert(Py_REFCNT(frame_73623c3c74d32d44b729ed1aa227f8ef) == 2); // Frame stack
 
     // Framed code:
     {
@@ -2419,7 +2419,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__6__unary_method$$$function__1
         tmp_called_name_1 = Nuitka_Cell_GET(self->m_closure[0]);
         CHECK_OBJECT(par_self);
         tmp_args_element_name_1 = par_self;
-        frame_2ba73249d58d691f7a014f1ff771bee3->m_frame.f_lineno = 54;
+        frame_73623c3c74d32d44b729ed1aa227f8ef->m_frame.f_lineno = 54;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tmp_called_name_1, tmp_args_element_name_1);
         if (tmp_return_value == NULL) {
             assert(ERROR_OCCURRED());
@@ -2435,7 +2435,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__6__unary_method$$$function__1
     }
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_2ba73249d58d691f7a014f1ff771bee3);
+    RESTORE_FRAME_EXCEPTION(frame_73623c3c74d32d44b729ed1aa227f8ef);
 #endif
 
     // Put the previous frame back on top.
@@ -2445,7 +2445,7 @@ static PyObject *impl_numpy$lib$mixins$$$function__6__unary_method$$$function__1
 
     frame_return_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_2ba73249d58d691f7a014f1ff771bee3);
+    RESTORE_FRAME_EXCEPTION(frame_73623c3c74d32d44b729ed1aa227f8ef);
 #endif
 
     // Put the previous frame back on top.
@@ -2456,18 +2456,18 @@ static PyObject *impl_numpy$lib$mixins$$$function__6__unary_method$$$function__1
     frame_exception_exit_1:;
 
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_2ba73249d58d691f7a014f1ff771bee3);
+    RESTORE_FRAME_EXCEPTION(frame_73623c3c74d32d44b729ed1aa227f8ef);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_2ba73249d58d691f7a014f1ff771bee3, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_2ba73249d58d691f7a014f1ff771bee3->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_2ba73249d58d691f7a014f1ff771bee3, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_73623c3c74d32d44b729ed1aa227f8ef, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_73623c3c74d32d44b729ed1aa227f8ef->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_73623c3c74d32d44b729ed1aa227f8ef, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_2ba73249d58d691f7a014f1ff771bee3,
+        frame_73623c3c74d32d44b729ed1aa227f8ef,
         type_description_1,
         par_self,
         self->m_closure[0]
@@ -2475,17 +2475,17 @@ static PyObject *impl_numpy$lib$mixins$$$function__6__unary_method$$$function__1
 
 
     // Release cached frame if used for exception.
-    if (frame_2ba73249d58d691f7a014f1ff771bee3 == cache_frame_2ba73249d58d691f7a014f1ff771bee3) {
+    if (frame_73623c3c74d32d44b729ed1aa227f8ef == cache_frame_73623c3c74d32d44b729ed1aa227f8ef) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
 
-        Py_DECREF(cache_frame_2ba73249d58d691f7a014f1ff771bee3);
-        cache_frame_2ba73249d58d691f7a014f1ff771bee3 = NULL;
+        Py_DECREF(cache_frame_73623c3c74d32d44b729ed1aa227f8ef);
+        cache_frame_73623c3c74d32d44b729ed1aa227f8ef = NULL;
     }
 
-    assertFrameObject(frame_2ba73249d58d691f7a014f1ff771bee3);
+    assertFrameObject(frame_73623c3c74d32d44b729ed1aa227f8ef);
 
     // Put the previous frame back on top.
     popFrameStack();
@@ -2554,7 +2554,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$mixins$$$function__1__disables_array_uf
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_efa45f493bda22ad40b1a21f61136b8b,
+        codeobj_86853195c338f8fea9136970ce60a33f,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2579,7 +2579,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$mixins$$$function__2__binary_method() {
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_780f97679f07d5fcc36b50f534bdedad,
+        codeobj_2f18c7f0f671abe0d844e75926e8b3ba,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2604,7 +2604,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$mixins$$$function__2__binary_method$$$f
 #if PYTHON_VERSION >= 0x300
         mod_consts[3],
 #endif
-        codeobj_a0af5b1eb9dffcf34221e6d4b7cfdb20,
+        codeobj_2a5aaf14d400e0fa891b45d45ec78f40,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2629,7 +2629,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$mixins$$$function__3__reflected_binary_
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_dd5289da927a79e1b423ff06c2dd7a5f,
+        codeobj_5e046856f5bdfcb07cae54790f27ecbc,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2654,7 +2654,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$mixins$$$function__3__reflected_binary_
 #if PYTHON_VERSION >= 0x300
         mod_consts[10],
 #endif
-        codeobj_ae599b6ff2a78eee8239d757de3c64ae,
+        codeobj_fecc3425152d6acd3cd19289bfc590f2,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2679,7 +2679,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$mixins$$$function__4__inplace_binary_me
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_ef537c44abdefda078d2a2f59581aba8,
+        codeobj_d127ff2dd2923480ef54d461ae0655fc,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2704,7 +2704,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$mixins$$$function__4__inplace_binary_me
 #if PYTHON_VERSION >= 0x300
         mod_consts[13],
 #endif
-        codeobj_4f0eaa5bdf3edbf906742a8efe4f7646,
+        codeobj_738b273a6fdda7497a52725a9e6d81a4,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2725,11 +2725,11 @@ static PyObject *MAKE_FUNCTION_numpy$lib$mixins$$$function__4__inplace_binary_me
 static PyObject *MAKE_FUNCTION_numpy$lib$mixins$$$function__5__numeric_methods() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$lib$mixins$$$function__5__numeric_methods,
-        mod_consts[38],
+        mod_consts[37],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_7ecc0dc8c2aa54a594027cfa07588209,
+        codeobj_8e4352db17f1fe57671f8cb48db28e36,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2750,11 +2750,11 @@ static PyObject *MAKE_FUNCTION_numpy$lib$mixins$$$function__5__numeric_methods()
 static PyObject *MAKE_FUNCTION_numpy$lib$mixins$$$function__6__unary_method() {
     struct Nuitka_FunctionObject *result = Nuitka_Function_New(
         impl_numpy$lib$mixins$$$function__6__unary_method,
-        mod_consts[39],
+        mod_consts[38],
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_6fa6d1223075d100ef84e46f64b58663,
+        codeobj_c7c967abbebe859d9a6bd0c5f5094375,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -2779,7 +2779,7 @@ static PyObject *MAKE_FUNCTION_numpy$lib$mixins$$$function__6__unary_method$$$fu
 #if PYTHON_VERSION >= 0x300
         mod_consts[21],
 #endif
-        codeobj_2ba73249d58d691f7a014f1ff771bee3,
+        codeobj_73623c3c74d32d44b729ed1aa227f8ef,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -3232,7 +3232,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
     PyObject *tmp_class_creation_1__class_decl_dict = NULL;
     PyObject *tmp_class_creation_1__metaclass = NULL;
     PyObject *tmp_class_creation_1__prepared = NULL;
-    struct Nuitka_FrameObject *frame_d9f00e2a9e9c294a1ab13e6262a180f8;
+    struct Nuitka_FrameObject *frame_28af77d99a4adc21aa4d296e94caae0a;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -3244,7 +3244,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
     PyObject *tmp_dictdel_key;
     PyObject *locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59 = NULL;
     PyObject *tmp_dictset_value;
-    struct Nuitka_FrameObject *frame_c60521632f115bdc501330ed9d5019b8_2;
+    struct Nuitka_FrameObject *frame_6413e156119efda793f4d165b06b2e34_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
     PyObject *tmp_iterator_attempt;
     PyObject *exception_keeper_type_1;
@@ -3351,7 +3351,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
     PyObject *exception_keeper_value_26;
     PyTracebackObject *exception_keeper_tb_26;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_26;
-    static struct Nuitka_FrameObject *cache_frame_c60521632f115bdc501330ed9d5019b8_2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_6413e156119efda793f4d165b06b2e34_2 = NULL;
     PyObject *exception_keeper_type_27;
     PyObject *exception_keeper_value_27;
     PyTracebackObject *exception_keeper_tb_27;
@@ -3373,30 +3373,30 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[25];
-        UPDATE_STRING_DICT0(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[26], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[25], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_d9f00e2a9e9c294a1ab13e6262a180f8 = MAKE_MODULE_FRAME(codeobj_d9f00e2a9e9c294a1ab13e6262a180f8, module_numpy$lib$mixins);
+    frame_28af77d99a4adc21aa4d296e94caae0a = MAKE_MODULE_FRAME(codeobj_28af77d99a4adc21aa4d296e94caae0a, module_numpy$lib$mixins);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_d9f00e2a9e9c294a1ab13e6262a180f8);
-    assert(Py_REFCNT(frame_d9f00e2a9e9c294a1ab13e6262a180f8) == 2);
+    pushFrameStack(frame_28af77d99a4adc21aa4d296e94caae0a);
+    assert(Py_REFCNT(frame_28af77d99a4adc21aa4d296e94caae0a) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[25];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[27]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[26]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[27]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[26]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[28], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[27], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -3412,14 +3412,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[27]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[26]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[27]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[26]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[29], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[28], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -3434,7 +3434,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[30], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[29], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
@@ -3444,12 +3444,12 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         PyObject *tmp_locals_arg_name_1;
         PyObject *tmp_fromlist_name_1;
         PyObject *tmp_level_name_1;
-        tmp_name_name_1 = mod_consts[31];
+        tmp_name_name_1 = mod_consts[30];
         tmp_globals_arg_name_1 = (PyObject *)moduledict_numpy$lib$mixins;
         tmp_locals_arg_name_1 = Py_None;
-        tmp_fromlist_name_1 = mod_consts[32];
-        tmp_level_name_1 = mod_consts[33];
-        frame_d9f00e2a9e9c294a1ab13e6262a180f8->m_frame.f_lineno = 2;
+        tmp_fromlist_name_1 = mod_consts[31];
+        tmp_level_name_1 = mod_consts[32];
+        frame_28af77d99a4adc21aa4d296e94caae0a->m_frame.f_lineno = 2;
         tmp_import_name_from_1 = IMPORT_MODULE5(tmp_name_name_1, tmp_globals_arg_name_1, tmp_locals_arg_name_1, tmp_fromlist_name_1, tmp_level_name_1);
         if (tmp_import_name_from_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3465,11 +3465,11 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             tmp_assign_source_4 = IMPORT_NAME_OR_MODULE(
                 tmp_import_name_from_1,
                 (PyObject *)moduledict_numpy$lib$mixins,
-                mod_consts[34],
-                mod_consts[33]
+                mod_consts[33],
+                mod_consts[32]
             );
         } else {
-            tmp_assign_source_4 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[34]);
+            tmp_assign_source_4 = IMPORT_NAME(tmp_import_name_from_1, mod_consts[33]);
         }
 
         Py_DECREF(tmp_import_name_from_1);
@@ -3483,12 +3483,12 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
             goto frame_exception_exit_1;
         }
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35], tmp_assign_source_4);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34], tmp_assign_source_4);
     }
     {
         PyObject *tmp_assign_source_5;
-        tmp_assign_source_5 = LIST_COPY(mod_consts[36]);
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[37], tmp_assign_source_5);
+        tmp_assign_source_5 = LIST_COPY(mod_consts[35]);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[36], tmp_assign_source_5);
     }
     {
         PyObject *tmp_assign_source_6;
@@ -3528,7 +3528,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         tmp_assign_source_10 = MAKE_FUNCTION_numpy$lib$mixins$$$function__5__numeric_methods();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38], tmp_assign_source_10);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[37], tmp_assign_source_10);
     }
     {
         PyObject *tmp_assign_source_11;
@@ -3536,7 +3536,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         tmp_assign_source_11 = MAKE_FUNCTION_numpy$lib$mixins$$$function__6__unary_method();
 
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[39], tmp_assign_source_11);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38], tmp_assign_source_11);
     }
     {
         PyObject *tmp_assign_source_12;
@@ -3554,7 +3554,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         PyObject *tmp_dict_arg_name_2;
         PyObject *tmp_key_name_2;
         PyObject *tmp_bases_name_1;
-        tmp_key_name_1 = mod_consts[40];
+        tmp_key_name_1 = mod_consts[39];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_1 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_1, tmp_key_name_1);
@@ -3568,7 +3568,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         condexpr_true_1:;
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_2 = tmp_class_creation_1__class_decl_dict;
-        tmp_key_name_2 = mod_consts[40];
+        tmp_key_name_2 = mod_consts[39];
         tmp_metaclass_name_1 = DICT_GET_ITEM_WITH_ERROR(tmp_dict_arg_name_2, tmp_key_name_2);
         if (tmp_metaclass_name_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3585,7 +3585,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         tmp_metaclass_name_1 = (PyObject *)&PyType_Type;
         Py_INCREF(tmp_metaclass_name_1);
         condexpr_end_1:;
-        tmp_bases_name_1 = mod_consts[41];
+        tmp_bases_name_1 = mod_consts[40];
         tmp_assign_source_13 = SELECT_METACLASS(tmp_metaclass_name_1, tmp_bases_name_1);
         Py_DECREF(tmp_metaclass_name_1);
         if (tmp_assign_source_13 == NULL) {
@@ -3605,7 +3605,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         nuitka_bool tmp_condition_result_2;
         PyObject *tmp_key_name_3;
         PyObject *tmp_dict_arg_name_3;
-        tmp_key_name_3 = mod_consts[40];
+        tmp_key_name_3 = mod_consts[39];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_dict_arg_name_3 = tmp_class_creation_1__class_decl_dict;
         tmp_res = DICT_HAS_ITEM(tmp_dict_arg_name_3, tmp_key_name_3);
@@ -3620,7 +3620,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
     branch_yes_1:;
     CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
     tmp_dictdel_dict = tmp_class_creation_1__class_decl_dict;
-    tmp_dictdel_key = mod_consts[40];
+    tmp_dictdel_key = mod_consts[39];
     tmp_result = DICT_REMOVE_ITEM(tmp_dictdel_dict, tmp_dictdel_key);
     if (tmp_result == false) {
         assert(ERROR_OCCURRED());
@@ -3638,7 +3638,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         PyObject *tmp_expression_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_1 = tmp_class_creation_1__metaclass;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_1, mod_consts[42]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_1, mod_consts[41]);
         tmp_condition_result_3 = (tmp_result) ? NUITKA_BOOL_TRUE : NUITKA_BOOL_FALSE;
         if (tmp_condition_result_3 == NUITKA_BOOL_TRUE) {
             goto branch_yes_2;
@@ -3655,7 +3655,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         PyObject *tmp_kwargs_name_1;
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_expression_name_2 = tmp_class_creation_1__metaclass;
-        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_2, mod_consts[42]);
+        tmp_called_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_2, mod_consts[41]);
         if (tmp_called_name_1 == NULL) {
             assert(ERROR_OCCURRED());
 
@@ -3666,10 +3666,10 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
             goto try_except_handler_1;
         }
-        tmp_args_name_1 = mod_consts[43];
+        tmp_args_name_1 = mod_consts[42];
         CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
         tmp_kwargs_name_1 = tmp_class_creation_1__class_decl_dict;
-        frame_d9f00e2a9e9c294a1ab13e6262a180f8->m_frame.f_lineno = 59;
+        frame_28af77d99a4adc21aa4d296e94caae0a->m_frame.f_lineno = 59;
         tmp_assign_source_14 = CALL_FUNCTION(tmp_called_name_1, tmp_args_name_1, tmp_kwargs_name_1);
         Py_DECREF(tmp_called_name_1);
         if (tmp_assign_source_14 == NULL) {
@@ -3691,7 +3691,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         PyObject *tmp_expression_name_3;
         CHECK_OBJECT(tmp_class_creation_1__prepared);
         tmp_expression_name_3 = tmp_class_creation_1__prepared;
-        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_3, mod_consts[44]);
+        tmp_result = HAS_ATTR_BOOL(tmp_expression_name_3, mod_consts[43]);
         tmp_operand_name_1 = (tmp_result) ? Py_True : Py_False;
         tmp_res = CHECK_IF_TRUE(tmp_operand_name_1);
         if (tmp_res == -1) {
@@ -3722,11 +3722,11 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         PyObject *tmp_getattr_attr_1;
         PyObject *tmp_getattr_default_1;
         tmp_raise_type_1 = PyExc_TypeError;
-        tmp_left_name_1 = mod_consts[45];
+        tmp_left_name_1 = mod_consts[44];
         CHECK_OBJECT(tmp_class_creation_1__metaclass);
         tmp_getattr_target_1 = tmp_class_creation_1__metaclass;
         tmp_getattr_attr_1 = mod_consts[6];
-        tmp_getattr_default_1 = mod_consts[46];
+        tmp_getattr_default_1 = mod_consts[45];
         tmp_tuple_element_1 = BUILTIN_GETATTR(tmp_getattr_target_1, tmp_getattr_attr_1, tmp_getattr_default_1);
         if (tmp_tuple_element_1 == NULL) {
             assert(ERROR_OCCURRED());
@@ -3809,8 +3809,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         }
         // Tried code:
         // Tried code:
-        tmp_dictset_value = mod_consts[47];
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[48], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[46];
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[47], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -3821,7 +3821,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
             goto try_except_handler_3;
         }
-        tmp_dictset_value = mod_consts[49];
+        tmp_dictset_value = mod_consts[48];
         tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[24], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
@@ -3833,8 +3833,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
             goto try_except_handler_3;
         }
-        tmp_dictset_value = mod_consts[50];
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[51], tmp_dictset_value);
+        tmp_dictset_value = mod_consts[49];
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[50], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -3845,31 +3845,31 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
             goto try_except_handler_3;
         }
-        if (isFrameUnusable(cache_frame_c60521632f115bdc501330ed9d5019b8_2)) {
-            Py_XDECREF(cache_frame_c60521632f115bdc501330ed9d5019b8_2);
+        if (isFrameUnusable(cache_frame_6413e156119efda793f4d165b06b2e34_2)) {
+            Py_XDECREF(cache_frame_6413e156119efda793f4d165b06b2e34_2);
 
 #if _DEBUG_REFCOUNTS
-            if (cache_frame_c60521632f115bdc501330ed9d5019b8_2 == NULL) {
+            if (cache_frame_6413e156119efda793f4d165b06b2e34_2 == NULL) {
                 count_active_frame_cache_instances += 1;
             } else {
                 count_released_frame_cache_instances += 1;
             }
             count_allocated_frame_cache_instances += 1;
 #endif
-            cache_frame_c60521632f115bdc501330ed9d5019b8_2 = MAKE_FUNCTION_FRAME(codeobj_c60521632f115bdc501330ed9d5019b8, module_numpy$lib$mixins, sizeof(void *));
+            cache_frame_6413e156119efda793f4d165b06b2e34_2 = MAKE_FUNCTION_FRAME(codeobj_6413e156119efda793f4d165b06b2e34, module_numpy$lib$mixins, sizeof(void *));
 #if _DEBUG_REFCOUNTS
         } else {
             count_hit_frame_cache_instances += 1;
 #endif
         }
-        assert(cache_frame_c60521632f115bdc501330ed9d5019b8_2->m_type_description == NULL);
-        frame_c60521632f115bdc501330ed9d5019b8_2 = cache_frame_c60521632f115bdc501330ed9d5019b8_2;
+        assert(cache_frame_6413e156119efda793f4d165b06b2e34_2->m_type_description == NULL);
+        frame_6413e156119efda793f4d165b06b2e34_2 = cache_frame_6413e156119efda793f4d165b06b2e34_2;
 
         // Push the new frame as the currently active one.
-        pushFrameStack(frame_c60521632f115bdc501330ed9d5019b8_2);
+        pushFrameStack(frame_6413e156119efda793f4d165b06b2e34_2);
 
         // Mark the frame object as in use, ref count 1 will be up for reuse.
-        assert(Py_REFCNT(frame_c60521632f115bdc501330ed9d5019b8_2) == 2); // Frame stack
+        assert(Py_REFCNT(frame_6413e156119efda793f4d165b06b2e34_2) == 2); // Frame stack
 
         // Framed code:
         {
@@ -3901,14 +3901,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_5 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_5 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_5 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_5 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_5 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_5 == NULL)) {
-                        tmp_expression_name_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_5 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_5 == NULL) {
@@ -3925,7 +3925,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_5, mod_consts[52]);
+            tmp_args_element_name_1 = LOOKUP_ATTRIBUTE(tmp_expression_name_5, mod_consts[51]);
             Py_DECREF(tmp_expression_name_5);
             if (tmp_args_element_name_1 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -3937,8 +3937,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_2 = mod_consts[53];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 140;
+            tmp_args_element_name_2 = mod_consts[52];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 140;
             {
                 PyObject *call_args[] = {tmp_args_element_name_1, tmp_args_element_name_2};
                 tmp_dictset_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_2, call_args);
@@ -3956,7 +3956,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[54], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[53], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -3998,14 +3998,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_6 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_6 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_6 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_6 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_6 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_6 == NULL)) {
-                        tmp_expression_name_6 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_6 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_6 == NULL) {
@@ -4022,7 +4022,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_6, mod_consts[55]);
+            tmp_args_element_name_3 = LOOKUP_ATTRIBUTE(tmp_expression_name_6, mod_consts[54]);
             Py_DECREF(tmp_expression_name_6);
             if (tmp_args_element_name_3 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -4034,8 +4034,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_4 = mod_consts[56];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 141;
+            tmp_args_element_name_4 = mod_consts[55];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 141;
             {
                 PyObject *call_args[] = {tmp_args_element_name_3, tmp_args_element_name_4};
                 tmp_dictset_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_3, call_args);
@@ -4053,7 +4053,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[57], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[56], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -4095,14 +4095,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_7 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_7 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_7 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_7 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_7 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_7 == NULL)) {
-                        tmp_expression_name_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_7 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_7 == NULL) {
@@ -4119,7 +4119,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_7, mod_consts[58]);
+            tmp_args_element_name_5 = LOOKUP_ATTRIBUTE(tmp_expression_name_7, mod_consts[57]);
             Py_DECREF(tmp_expression_name_7);
             if (tmp_args_element_name_5 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -4131,8 +4131,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_6 = mod_consts[59];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 142;
+            tmp_args_element_name_6 = mod_consts[58];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 142;
             {
                 PyObject *call_args[] = {tmp_args_element_name_5, tmp_args_element_name_6};
                 tmp_dictset_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_4, call_args);
@@ -4150,7 +4150,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[60], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[59], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -4192,14 +4192,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_8 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_8 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_8 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_8 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_8 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_8 == NULL)) {
-                        tmp_expression_name_8 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_8 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_8 == NULL) {
@@ -4216,7 +4216,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_8, mod_consts[61]);
+            tmp_args_element_name_7 = LOOKUP_ATTRIBUTE(tmp_expression_name_8, mod_consts[60]);
             Py_DECREF(tmp_expression_name_8);
             if (tmp_args_element_name_7 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -4228,8 +4228,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_8 = mod_consts[62];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 143;
+            tmp_args_element_name_8 = mod_consts[61];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 143;
             {
                 PyObject *call_args[] = {tmp_args_element_name_7, tmp_args_element_name_8};
                 tmp_dictset_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_5, call_args);
@@ -4247,7 +4247,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[63], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[62], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -4289,14 +4289,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_9 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_9 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_9 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_9 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_9 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_9 == NULL)) {
-                        tmp_expression_name_9 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_9 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_9 == NULL) {
@@ -4313,7 +4313,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_9, mod_consts[64]);
+            tmp_args_element_name_9 = LOOKUP_ATTRIBUTE(tmp_expression_name_9, mod_consts[63]);
             Py_DECREF(tmp_expression_name_9);
             if (tmp_args_element_name_9 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -4325,8 +4325,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_10 = mod_consts[65];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 144;
+            tmp_args_element_name_10 = mod_consts[64];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 144;
             {
                 PyObject *call_args[] = {tmp_args_element_name_9, tmp_args_element_name_10};
                 tmp_dictset_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_6, call_args);
@@ -4344,7 +4344,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[66], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[65], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -4386,14 +4386,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_10 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_10 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_10 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_10 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_10 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_10 == NULL)) {
-                        tmp_expression_name_10 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_10 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_10 == NULL) {
@@ -4410,7 +4410,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_11 = LOOKUP_ATTRIBUTE(tmp_expression_name_10, mod_consts[67]);
+            tmp_args_element_name_11 = LOOKUP_ATTRIBUTE(tmp_expression_name_10, mod_consts[66]);
             Py_DECREF(tmp_expression_name_10);
             if (tmp_args_element_name_11 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -4422,8 +4422,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_12 = mod_consts[68];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 145;
+            tmp_args_element_name_12 = mod_consts[67];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 145;
             {
                 PyObject *call_args[] = {tmp_args_element_name_11, tmp_args_element_name_12};
                 tmp_dictset_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_7, call_args);
@@ -4441,7 +4441,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[69], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[68], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -4462,14 +4462,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_13;
             PyObject *tmp_expression_name_11;
             PyObject *tmp_args_element_name_14;
-            tmp_called_name_8 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
+            tmp_called_name_8 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[37]);
 
             if (tmp_called_name_8 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_8 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
+                    tmp_called_name_8 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[37]);
 
                     if (unlikely(tmp_called_name_8 == NULL)) {
-                        tmp_called_name_8 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
+                        tmp_called_name_8 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[37]);
                     }
 
                     if (tmp_called_name_8 == NULL) {
@@ -4486,14 +4486,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_11 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_11 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_11 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_11 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_11 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_11 == NULL)) {
-                        tmp_expression_name_11 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_11 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_11 == NULL) {
@@ -4510,7 +4510,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_13 = LOOKUP_ATTRIBUTE(tmp_expression_name_11, mod_consts[70]);
+            tmp_args_element_name_13 = LOOKUP_ATTRIBUTE(tmp_expression_name_11, mod_consts[69]);
             Py_DECREF(tmp_expression_name_11);
             if (tmp_args_element_name_13 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -4522,8 +4522,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto try_except_handler_4;
             }
-            tmp_args_element_name_14 = mod_consts[70];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 148;
+            tmp_args_element_name_14 = mod_consts[69];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 148;
             {
                 PyObject *call_args[] = {tmp_args_element_name_13, tmp_args_element_name_14};
                 tmp_iter_arg_1 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_8, call_args);
@@ -4657,7 +4657,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
                 exception_type = PyExc_ValueError;
                 Py_INCREF(PyExc_ValueError);
-                exception_value = mod_consts[71];
+                exception_value = mod_consts[70];
                 Py_INCREF(exception_value);
                 exception_tb = NULL;
 
@@ -4693,7 +4693,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         tmp_NDArrayOperatorsMixin$tuple_unpack_1__source_iter = NULL;
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_1__element_1);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_1__element_1;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[72], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[71], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -4709,7 +4709,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_1__element_2);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_1__element_2;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[73], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[72], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -4725,7 +4725,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_1__element_3);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_1__element_3;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[74], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[73], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -4780,14 +4780,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_15;
             PyObject *tmp_expression_name_12;
             PyObject *tmp_args_element_name_16;
-            tmp_called_name_9 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
+            tmp_called_name_9 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[37]);
 
             if (tmp_called_name_9 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_9 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
+                    tmp_called_name_9 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[37]);
 
                     if (unlikely(tmp_called_name_9 == NULL)) {
-                        tmp_called_name_9 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
+                        tmp_called_name_9 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[37]);
                     }
 
                     if (tmp_called_name_9 == NULL) {
@@ -4804,14 +4804,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_12 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_12 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_12 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_12 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_12 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_12 == NULL)) {
-                        tmp_expression_name_12 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_12 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_12 == NULL) {
@@ -4828,7 +4828,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_15 = LOOKUP_ATTRIBUTE(tmp_expression_name_12, mod_consts[75]);
+            tmp_args_element_name_15 = LOOKUP_ATTRIBUTE(tmp_expression_name_12, mod_consts[74]);
             Py_DECREF(tmp_expression_name_12);
             if (tmp_args_element_name_15 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -4840,8 +4840,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto try_except_handler_6;
             }
-            tmp_args_element_name_16 = mod_consts[76];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 149;
+            tmp_args_element_name_16 = mod_consts[75];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 149;
             {
                 PyObject *call_args[] = {tmp_args_element_name_15, tmp_args_element_name_16};
                 tmp_iter_arg_2 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_9, call_args);
@@ -4975,7 +4975,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
                 exception_type = PyExc_ValueError;
                 Py_INCREF(PyExc_ValueError);
-                exception_value = mod_consts[71];
+                exception_value = mod_consts[70];
                 Py_INCREF(exception_value);
                 exception_tb = NULL;
 
@@ -5011,7 +5011,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         tmp_NDArrayOperatorsMixin$tuple_unpack_2__source_iter = NULL;
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_2__element_1);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_2__element_1;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[77], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[76], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -5027,7 +5027,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_2__element_2);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_2__element_2;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[78], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[77], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -5043,7 +5043,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_2__element_3);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_2__element_3;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[79], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[78], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -5098,14 +5098,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_17;
             PyObject *tmp_expression_name_13;
             PyObject *tmp_args_element_name_18;
-            tmp_called_name_10 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
+            tmp_called_name_10 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[37]);
 
             if (tmp_called_name_10 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_10 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
+                    tmp_called_name_10 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[37]);
 
                     if (unlikely(tmp_called_name_10 == NULL)) {
-                        tmp_called_name_10 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
+                        tmp_called_name_10 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[37]);
                     }
 
                     if (tmp_called_name_10 == NULL) {
@@ -5122,14 +5122,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_13 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_13 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_13 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_13 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_13 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_13 == NULL)) {
-                        tmp_expression_name_13 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_13 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_13 == NULL) {
@@ -5146,7 +5146,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_17 = LOOKUP_ATTRIBUTE(tmp_expression_name_13, mod_consts[80]);
+            tmp_args_element_name_17 = LOOKUP_ATTRIBUTE(tmp_expression_name_13, mod_consts[79]);
             Py_DECREF(tmp_expression_name_13);
             if (tmp_args_element_name_17 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -5158,8 +5158,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto try_except_handler_8;
             }
-            tmp_args_element_name_18 = mod_consts[81];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 150;
+            tmp_args_element_name_18 = mod_consts[80];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 150;
             {
                 PyObject *call_args[] = {tmp_args_element_name_17, tmp_args_element_name_18};
                 tmp_iter_arg_3 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_10, call_args);
@@ -5293,7 +5293,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
                 exception_type = PyExc_ValueError;
                 Py_INCREF(PyExc_ValueError);
-                exception_value = mod_consts[71];
+                exception_value = mod_consts[70];
                 Py_INCREF(exception_value);
                 exception_tb = NULL;
 
@@ -5329,7 +5329,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         tmp_NDArrayOperatorsMixin$tuple_unpack_3__source_iter = NULL;
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_3__element_1);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_3__element_1;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[82], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[81], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -5345,7 +5345,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_3__element_2);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_3__element_2;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[83], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[82], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -5361,7 +5361,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_3__element_3);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_3__element_3;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[84], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[83], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -5416,14 +5416,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_19;
             PyObject *tmp_expression_name_14;
             PyObject *tmp_args_element_name_20;
-            tmp_called_name_11 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
+            tmp_called_name_11 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[37]);
 
             if (tmp_called_name_11 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_11 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
+                    tmp_called_name_11 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[37]);
 
                     if (unlikely(tmp_called_name_11 == NULL)) {
-                        tmp_called_name_11 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
+                        tmp_called_name_11 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[37]);
                     }
 
                     if (tmp_called_name_11 == NULL) {
@@ -5440,14 +5440,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_14 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_14 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_14 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_14 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_14 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_14 == NULL)) {
-                        tmp_expression_name_14 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_14 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_14 == NULL) {
@@ -5464,7 +5464,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_19 = LOOKUP_ATTRIBUTE(tmp_expression_name_14, mod_consts[85]);
+            tmp_args_element_name_19 = LOOKUP_ATTRIBUTE(tmp_expression_name_14, mod_consts[84]);
             Py_DECREF(tmp_expression_name_14);
             if (tmp_args_element_name_19 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -5476,8 +5476,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto try_except_handler_10;
             }
-            tmp_args_element_name_20 = mod_consts[85];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 151;
+            tmp_args_element_name_20 = mod_consts[84];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 151;
             {
                 PyObject *call_args[] = {tmp_args_element_name_19, tmp_args_element_name_20};
                 tmp_iter_arg_4 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_11, call_args);
@@ -5611,7 +5611,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
                 exception_type = PyExc_ValueError;
                 Py_INCREF(PyExc_ValueError);
-                exception_value = mod_consts[71];
+                exception_value = mod_consts[70];
                 Py_INCREF(exception_value);
                 exception_tb = NULL;
 
@@ -5647,7 +5647,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         tmp_NDArrayOperatorsMixin$tuple_unpack_4__source_iter = NULL;
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_4__element_1);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_4__element_1;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[86], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[85], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -5663,7 +5663,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_4__element_2);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_4__element_2;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[87], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[86], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -5679,7 +5679,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_4__element_3);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_4__element_3;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[88], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[87], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -5734,14 +5734,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_21;
             PyObject *tmp_expression_name_15;
             PyObject *tmp_args_element_name_22;
-            tmp_called_name_12 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
+            tmp_called_name_12 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[37]);
 
             if (tmp_called_name_12 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_12 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
+                    tmp_called_name_12 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[37]);
 
                     if (unlikely(tmp_called_name_12 == NULL)) {
-                        tmp_called_name_12 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
+                        tmp_called_name_12 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[37]);
                     }
 
                     if (tmp_called_name_12 == NULL) {
@@ -5758,14 +5758,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_15 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_15 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_15 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_15 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_15 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_15 == NULL)) {
-                        tmp_expression_name_15 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_15 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_15 == NULL) {
@@ -5782,7 +5782,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_21 = LOOKUP_ATTRIBUTE(tmp_expression_name_15, mod_consts[89]);
+            tmp_args_element_name_21 = LOOKUP_ATTRIBUTE(tmp_expression_name_15, mod_consts[88]);
             Py_DECREF(tmp_expression_name_15);
             if (tmp_args_element_name_21 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -5794,8 +5794,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto try_except_handler_12;
             }
-            tmp_args_element_name_22 = mod_consts[90];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 154;
+            tmp_args_element_name_22 = mod_consts[89];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 154;
             {
                 PyObject *call_args[] = {tmp_args_element_name_21, tmp_args_element_name_22};
                 tmp_iter_arg_5 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_12, call_args);
@@ -5929,7 +5929,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
                 exception_type = PyExc_ValueError;
                 Py_INCREF(PyExc_ValueError);
-                exception_value = mod_consts[71];
+                exception_value = mod_consts[70];
                 Py_INCREF(exception_value);
                 exception_tb = NULL;
 
@@ -5965,7 +5965,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         tmp_NDArrayOperatorsMixin$tuple_unpack_5__source_iter = NULL;
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_5__element_1);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_5__element_1;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[91], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[90], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -5981,7 +5981,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_5__element_2);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_5__element_2;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[92], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[91], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -5997,7 +5997,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_5__element_3);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_5__element_3;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[93], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[92], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -6052,14 +6052,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_23;
             PyObject *tmp_expression_name_16;
             PyObject *tmp_args_element_name_24;
-            tmp_called_name_13 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
+            tmp_called_name_13 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[37]);
 
             if (tmp_called_name_13 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_13 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
+                    tmp_called_name_13 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[37]);
 
                     if (unlikely(tmp_called_name_13 == NULL)) {
-                        tmp_called_name_13 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
+                        tmp_called_name_13 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[37]);
                     }
 
                     if (tmp_called_name_13 == NULL) {
@@ -6076,14 +6076,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_16 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_16 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_16 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_16 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_16 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_16 == NULL)) {
-                        tmp_expression_name_16 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_16 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_16 == NULL) {
@@ -6100,7 +6100,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_23 = LOOKUP_ATTRIBUTE(tmp_expression_name_16, mod_consts[94]);
+            tmp_args_element_name_23 = LOOKUP_ATTRIBUTE(tmp_expression_name_16, mod_consts[93]);
             Py_DECREF(tmp_expression_name_16);
             if (tmp_args_element_name_23 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -6112,8 +6112,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto try_except_handler_14;
             }
-            tmp_args_element_name_24 = mod_consts[95];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 156;
+            tmp_args_element_name_24 = mod_consts[94];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 156;
             {
                 PyObject *call_args[] = {tmp_args_element_name_23, tmp_args_element_name_24};
                 tmp_iter_arg_6 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_13, call_args);
@@ -6247,7 +6247,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
                 exception_type = PyExc_ValueError;
                 Py_INCREF(PyExc_ValueError);
-                exception_value = mod_consts[71];
+                exception_value = mod_consts[70];
                 Py_INCREF(exception_value);
                 exception_tb = NULL;
 
@@ -6283,7 +6283,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         tmp_NDArrayOperatorsMixin$tuple_unpack_6__source_iter = NULL;
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_6__element_1);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_6__element_1;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[96], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[95], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -6299,7 +6299,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_6__element_2);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_6__element_2;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[97], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[96], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -6315,7 +6315,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_6__element_3);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_6__element_3;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[98], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[97], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -6370,14 +6370,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_25;
             PyObject *tmp_expression_name_17;
             PyObject *tmp_args_element_name_26;
-            tmp_called_name_14 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
+            tmp_called_name_14 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[37]);
 
             if (tmp_called_name_14 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_14 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
+                    tmp_called_name_14 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[37]);
 
                     if (unlikely(tmp_called_name_14 == NULL)) {
-                        tmp_called_name_14 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
+                        tmp_called_name_14 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[37]);
                     }
 
                     if (tmp_called_name_14 == NULL) {
@@ -6394,14 +6394,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_17 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_17 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_17 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_17 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_17 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_17 == NULL)) {
-                        tmp_expression_name_17 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_17 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_17 == NULL) {
@@ -6418,7 +6418,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_25 = LOOKUP_ATTRIBUTE(tmp_expression_name_17, mod_consts[99]);
+            tmp_args_element_name_25 = LOOKUP_ATTRIBUTE(tmp_expression_name_17, mod_consts[98]);
             Py_DECREF(tmp_expression_name_17);
             if (tmp_args_element_name_25 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -6430,8 +6430,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto try_except_handler_16;
             }
-            tmp_args_element_name_26 = mod_consts[100];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 158;
+            tmp_args_element_name_26 = mod_consts[99];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 158;
             {
                 PyObject *call_args[] = {tmp_args_element_name_25, tmp_args_element_name_26};
                 tmp_iter_arg_7 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_14, call_args);
@@ -6565,7 +6565,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
                 exception_type = PyExc_ValueError;
                 Py_INCREF(PyExc_ValueError);
-                exception_value = mod_consts[71];
+                exception_value = mod_consts[70];
                 Py_INCREF(exception_value);
                 exception_tb = NULL;
 
@@ -6601,7 +6601,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         tmp_NDArrayOperatorsMixin$tuple_unpack_7__source_iter = NULL;
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_7__element_1);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_7__element_1;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[101], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[100], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -6617,7 +6617,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_7__element_2);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_7__element_2;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[102], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[101], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -6633,7 +6633,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_7__element_3);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_7__element_3;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[103], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[102], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -6709,14 +6709,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_18 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_18 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_18 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_18 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_18 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_18 == NULL)) {
-                        tmp_expression_name_18 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_18 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_18 == NULL) {
@@ -6733,7 +6733,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_27 = LOOKUP_ATTRIBUTE(tmp_expression_name_18, mod_consts[104]);
+            tmp_args_element_name_27 = LOOKUP_ATTRIBUTE(tmp_expression_name_18, mod_consts[103]);
             Py_DECREF(tmp_expression_name_18);
             if (tmp_args_element_name_27 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -6745,8 +6745,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_28 = mod_consts[104];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 159;
+            tmp_args_element_name_28 = mod_consts[103];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 159;
             {
                 PyObject *call_args[] = {tmp_args_element_name_27, tmp_args_element_name_28};
                 tmp_dictset_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_15, call_args);
@@ -6764,7 +6764,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[105], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[104], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -6806,14 +6806,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_19 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_19 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_19 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_19 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_19 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_19 == NULL)) {
-                        tmp_expression_name_19 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_19 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_19 == NULL) {
@@ -6830,7 +6830,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_29 = LOOKUP_ATTRIBUTE(tmp_expression_name_19, mod_consts[104]);
+            tmp_args_element_name_29 = LOOKUP_ATTRIBUTE(tmp_expression_name_19, mod_consts[103]);
             Py_DECREF(tmp_expression_name_19);
             if (tmp_args_element_name_29 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -6842,8 +6842,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_30 = mod_consts[104];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 160;
+            tmp_args_element_name_30 = mod_consts[103];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 160;
             {
                 PyObject *call_args[] = {tmp_args_element_name_29, tmp_args_element_name_30};
                 tmp_dictset_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_16, call_args);
@@ -6861,7 +6861,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[106], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[105], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -6882,14 +6882,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_31;
             PyObject *tmp_expression_name_20;
             PyObject *tmp_args_element_name_32;
-            tmp_called_name_17 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
+            tmp_called_name_17 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[37]);
 
             if (tmp_called_name_17 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_17 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
+                    tmp_called_name_17 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[37]);
 
                     if (unlikely(tmp_called_name_17 == NULL)) {
-                        tmp_called_name_17 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
+                        tmp_called_name_17 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[37]);
                     }
 
                     if (tmp_called_name_17 == NULL) {
@@ -6906,14 +6906,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_20 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_20 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_20 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_20 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_20 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_20 == NULL)) {
-                        tmp_expression_name_20 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_20 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_20 == NULL) {
@@ -6930,7 +6930,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_31 = LOOKUP_ATTRIBUTE(tmp_expression_name_20, mod_consts[107]);
+            tmp_args_element_name_31 = LOOKUP_ATTRIBUTE(tmp_expression_name_20, mod_consts[106]);
             Py_DECREF(tmp_expression_name_20);
             if (tmp_args_element_name_31 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -6942,8 +6942,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto try_except_handler_18;
             }
-            tmp_args_element_name_32 = mod_consts[108];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 163;
+            tmp_args_element_name_32 = mod_consts[107];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 163;
             {
                 PyObject *call_args[] = {tmp_args_element_name_31, tmp_args_element_name_32};
                 tmp_iter_arg_8 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_17, call_args);
@@ -7077,7 +7077,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
                 exception_type = PyExc_ValueError;
                 Py_INCREF(PyExc_ValueError);
-                exception_value = mod_consts[71];
+                exception_value = mod_consts[70];
                 Py_INCREF(exception_value);
                 exception_tb = NULL;
 
@@ -7113,7 +7113,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         tmp_NDArrayOperatorsMixin$tuple_unpack_8__source_iter = NULL;
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_8__element_1);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_8__element_1;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[109], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[108], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -7129,7 +7129,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_8__element_2);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_8__element_2;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[110], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[109], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -7145,7 +7145,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_8__element_3);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_8__element_3;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[111], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[110], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -7200,14 +7200,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_33;
             PyObject *tmp_expression_name_21;
             PyObject *tmp_args_element_name_34;
-            tmp_called_name_18 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
+            tmp_called_name_18 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[37]);
 
             if (tmp_called_name_18 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_18 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
+                    tmp_called_name_18 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[37]);
 
                     if (unlikely(tmp_called_name_18 == NULL)) {
-                        tmp_called_name_18 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
+                        tmp_called_name_18 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[37]);
                     }
 
                     if (tmp_called_name_18 == NULL) {
@@ -7224,14 +7224,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_21 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_21 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_21 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_21 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_21 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_21 == NULL)) {
-                        tmp_expression_name_21 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_21 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_21 == NULL) {
@@ -7248,7 +7248,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_33 = LOOKUP_ATTRIBUTE(tmp_expression_name_21, mod_consts[112]);
+            tmp_args_element_name_33 = LOOKUP_ATTRIBUTE(tmp_expression_name_21, mod_consts[111]);
             Py_DECREF(tmp_expression_name_21);
             if (tmp_args_element_name_33 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -7260,8 +7260,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto try_except_handler_20;
             }
-            tmp_args_element_name_34 = mod_consts[113];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 164;
+            tmp_args_element_name_34 = mod_consts[112];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 164;
             {
                 PyObject *call_args[] = {tmp_args_element_name_33, tmp_args_element_name_34};
                 tmp_iter_arg_9 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_18, call_args);
@@ -7395,7 +7395,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
                 exception_type = PyExc_ValueError;
                 Py_INCREF(PyExc_ValueError);
-                exception_value = mod_consts[71];
+                exception_value = mod_consts[70];
                 Py_INCREF(exception_value);
                 exception_tb = NULL;
 
@@ -7431,7 +7431,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         tmp_NDArrayOperatorsMixin$tuple_unpack_9__source_iter = NULL;
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_9__element_1);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_9__element_1;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[114], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[113], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -7447,7 +7447,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_9__element_2);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_9__element_2;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[115], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[114], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -7463,7 +7463,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_9__element_3);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_9__element_3;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[116], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[115], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -7518,14 +7518,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_35;
             PyObject *tmp_expression_name_22;
             PyObject *tmp_args_element_name_36;
-            tmp_called_name_19 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
+            tmp_called_name_19 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[37]);
 
             if (tmp_called_name_19 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_19 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
+                    tmp_called_name_19 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[37]);
 
                     if (unlikely(tmp_called_name_19 == NULL)) {
-                        tmp_called_name_19 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
+                        tmp_called_name_19 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[37]);
                     }
 
                     if (tmp_called_name_19 == NULL) {
@@ -7542,14 +7542,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_22 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_22 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_22 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_22 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_22 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_22 == NULL)) {
-                        tmp_expression_name_22 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_22 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_22 == NULL) {
@@ -7566,7 +7566,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_35 = LOOKUP_ATTRIBUTE(tmp_expression_name_22, mod_consts[117]);
+            tmp_args_element_name_35 = LOOKUP_ATTRIBUTE(tmp_expression_name_22, mod_consts[116]);
             Py_DECREF(tmp_expression_name_22);
             if (tmp_args_element_name_35 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -7578,8 +7578,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto try_except_handler_22;
             }
-            tmp_args_element_name_36 = mod_consts[118];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 166;
+            tmp_args_element_name_36 = mod_consts[117];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 166;
             {
                 PyObject *call_args[] = {tmp_args_element_name_35, tmp_args_element_name_36};
                 tmp_iter_arg_10 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_19, call_args);
@@ -7713,7 +7713,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
                 exception_type = PyExc_ValueError;
                 Py_INCREF(PyExc_ValueError);
-                exception_value = mod_consts[71];
+                exception_value = mod_consts[70];
                 Py_INCREF(exception_value);
                 exception_tb = NULL;
 
@@ -7749,7 +7749,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         tmp_NDArrayOperatorsMixin$tuple_unpack_10__source_iter = NULL;
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_10__element_1);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_10__element_1;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[119], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[118], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -7765,7 +7765,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_10__element_2);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_10__element_2;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[120], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[119], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -7781,7 +7781,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_10__element_3);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_10__element_3;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[121], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[120], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -7836,14 +7836,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_37;
             PyObject *tmp_expression_name_23;
             PyObject *tmp_args_element_name_38;
-            tmp_called_name_20 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
+            tmp_called_name_20 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[37]);
 
             if (tmp_called_name_20 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_20 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
+                    tmp_called_name_20 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[37]);
 
                     if (unlikely(tmp_called_name_20 == NULL)) {
-                        tmp_called_name_20 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
+                        tmp_called_name_20 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[37]);
                     }
 
                     if (tmp_called_name_20 == NULL) {
@@ -7860,14 +7860,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_23 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_23 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_23 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_23 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_23 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_23 == NULL)) {
-                        tmp_expression_name_23 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_23 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_23 == NULL) {
@@ -7884,7 +7884,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_37 = LOOKUP_ATTRIBUTE(tmp_expression_name_23, mod_consts[122]);
+            tmp_args_element_name_37 = LOOKUP_ATTRIBUTE(tmp_expression_name_23, mod_consts[121]);
             Py_DECREF(tmp_expression_name_23);
             if (tmp_args_element_name_37 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -7896,8 +7896,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto try_except_handler_24;
             }
-            tmp_args_element_name_38 = mod_consts[123];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 168;
+            tmp_args_element_name_38 = mod_consts[122];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 168;
             {
                 PyObject *call_args[] = {tmp_args_element_name_37, tmp_args_element_name_38};
                 tmp_iter_arg_11 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_20, call_args);
@@ -8031,7 +8031,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
                 exception_type = PyExc_ValueError;
                 Py_INCREF(PyExc_ValueError);
-                exception_value = mod_consts[71];
+                exception_value = mod_consts[70];
                 Py_INCREF(exception_value);
                 exception_tb = NULL;
 
@@ -8067,7 +8067,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         tmp_NDArrayOperatorsMixin$tuple_unpack_11__source_iter = NULL;
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_11__element_1);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_11__element_1;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[124], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[123], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -8083,7 +8083,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_11__element_2);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_11__element_2;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[125], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[124], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -8099,7 +8099,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_11__element_3);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_11__element_3;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[126], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[125], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -8154,14 +8154,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_39;
             PyObject *tmp_expression_name_24;
             PyObject *tmp_args_element_name_40;
-            tmp_called_name_21 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
+            tmp_called_name_21 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[37]);
 
             if (tmp_called_name_21 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_21 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
+                    tmp_called_name_21 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[37]);
 
                     if (unlikely(tmp_called_name_21 == NULL)) {
-                        tmp_called_name_21 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
+                        tmp_called_name_21 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[37]);
                     }
 
                     if (tmp_called_name_21 == NULL) {
@@ -8178,14 +8178,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_24 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_24 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_24 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_24 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_24 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_24 == NULL)) {
-                        tmp_expression_name_24 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_24 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_24 == NULL) {
@@ -8202,7 +8202,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_39 = LOOKUP_ATTRIBUTE(tmp_expression_name_24, mod_consts[127]);
+            tmp_args_element_name_39 = LOOKUP_ATTRIBUTE(tmp_expression_name_24, mod_consts[126]);
             Py_DECREF(tmp_expression_name_24);
             if (tmp_args_element_name_39 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -8214,8 +8214,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto try_except_handler_26;
             }
-            tmp_args_element_name_40 = mod_consts[128];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 169;
+            tmp_args_element_name_40 = mod_consts[127];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 169;
             {
                 PyObject *call_args[] = {tmp_args_element_name_39, tmp_args_element_name_40};
                 tmp_iter_arg_12 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_21, call_args);
@@ -8349,7 +8349,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
                 exception_type = PyExc_ValueError;
                 Py_INCREF(PyExc_ValueError);
-                exception_value = mod_consts[71];
+                exception_value = mod_consts[70];
                 Py_INCREF(exception_value);
                 exception_tb = NULL;
 
@@ -8385,7 +8385,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         tmp_NDArrayOperatorsMixin$tuple_unpack_12__source_iter = NULL;
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_12__element_1);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_12__element_1;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[129], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[128], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -8401,7 +8401,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_12__element_2);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_12__element_2;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[130], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[129], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -8417,7 +8417,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_12__element_3);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_12__element_3;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[131], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[130], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -8472,14 +8472,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_41;
             PyObject *tmp_expression_name_25;
             PyObject *tmp_args_element_name_42;
-            tmp_called_name_22 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
+            tmp_called_name_22 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[37]);
 
             if (tmp_called_name_22 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_22 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
+                    tmp_called_name_22 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[37]);
 
                     if (unlikely(tmp_called_name_22 == NULL)) {
-                        tmp_called_name_22 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
+                        tmp_called_name_22 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[37]);
                     }
 
                     if (tmp_called_name_22 == NULL) {
@@ -8496,14 +8496,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_25 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_25 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_25 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_25 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_25 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_25 == NULL)) {
-                        tmp_expression_name_25 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_25 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_25 == NULL) {
@@ -8520,7 +8520,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_41 = LOOKUP_ATTRIBUTE(tmp_expression_name_25, mod_consts[132]);
+            tmp_args_element_name_41 = LOOKUP_ATTRIBUTE(tmp_expression_name_25, mod_consts[131]);
             Py_DECREF(tmp_expression_name_25);
             if (tmp_args_element_name_41 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -8532,8 +8532,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto try_except_handler_28;
             }
-            tmp_args_element_name_42 = mod_consts[133];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 170;
+            tmp_args_element_name_42 = mod_consts[132];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 170;
             {
                 PyObject *call_args[] = {tmp_args_element_name_41, tmp_args_element_name_42};
                 tmp_iter_arg_13 = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_22, call_args);
@@ -8667,7 +8667,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
                 exception_type = PyExc_ValueError;
                 Py_INCREF(PyExc_ValueError);
-                exception_value = mod_consts[71];
+                exception_value = mod_consts[70];
                 Py_INCREF(exception_value);
                 exception_tb = NULL;
 
@@ -8703,7 +8703,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         tmp_NDArrayOperatorsMixin$tuple_unpack_13__source_iter = NULL;
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_13__element_1);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_13__element_1;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[134], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[133], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -8719,7 +8719,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_13__element_2);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_13__element_2;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[135], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[134], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -8735,7 +8735,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
         CHECK_OBJECT(tmp_NDArrayOperatorsMixin$tuple_unpack_13__element_3);
         tmp_dictset_value = tmp_NDArrayOperatorsMixin$tuple_unpack_13__element_3;
-        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[136], tmp_dictset_value);
+        tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[135], tmp_dictset_value);
         if (tmp_res != 0) {
             assert(ERROR_OCCURRED());
 
@@ -8787,14 +8787,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_43;
             PyObject *tmp_expression_name_26;
             PyObject *tmp_args_element_name_44;
-            tmp_called_name_23 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[39]);
+            tmp_called_name_23 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
 
             if (tmp_called_name_23 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_23 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[39]);
+                    tmp_called_name_23 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
 
                     if (unlikely(tmp_called_name_23 == NULL)) {
-                        tmp_called_name_23 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[39]);
+                        tmp_called_name_23 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
                     }
 
                     if (tmp_called_name_23 == NULL) {
@@ -8811,14 +8811,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_26 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_26 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_26 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_26 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_26 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_26 == NULL)) {
-                        tmp_expression_name_26 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_26 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_26 == NULL) {
@@ -8835,7 +8835,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_43 = LOOKUP_ATTRIBUTE(tmp_expression_name_26, mod_consts[137]);
+            tmp_args_element_name_43 = LOOKUP_ATTRIBUTE(tmp_expression_name_26, mod_consts[136]);
             Py_DECREF(tmp_expression_name_26);
             if (tmp_args_element_name_43 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -8847,8 +8847,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_44 = mod_consts[138];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 173;
+            tmp_args_element_name_44 = mod_consts[137];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 173;
             {
                 PyObject *call_args[] = {tmp_args_element_name_43, tmp_args_element_name_44};
                 tmp_dictset_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_23, call_args);
@@ -8866,7 +8866,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[139], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[138], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -8884,14 +8884,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_45;
             PyObject *tmp_expression_name_27;
             PyObject *tmp_args_element_name_46;
-            tmp_called_name_24 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[39]);
+            tmp_called_name_24 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
 
             if (tmp_called_name_24 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_24 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[39]);
+                    tmp_called_name_24 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
 
                     if (unlikely(tmp_called_name_24 == NULL)) {
-                        tmp_called_name_24 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[39]);
+                        tmp_called_name_24 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
                     }
 
                     if (tmp_called_name_24 == NULL) {
@@ -8908,14 +8908,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_27 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_27 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_27 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_27 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_27 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_27 == NULL)) {
-                        tmp_expression_name_27 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_27 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_27 == NULL) {
@@ -8932,7 +8932,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_45 = LOOKUP_ATTRIBUTE(tmp_expression_name_27, mod_consts[140]);
+            tmp_args_element_name_45 = LOOKUP_ATTRIBUTE(tmp_expression_name_27, mod_consts[139]);
             Py_DECREF(tmp_expression_name_27);
             if (tmp_args_element_name_45 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -8944,8 +8944,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_46 = mod_consts[141];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 174;
+            tmp_args_element_name_46 = mod_consts[140];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 174;
             {
                 PyObject *call_args[] = {tmp_args_element_name_45, tmp_args_element_name_46};
                 tmp_dictset_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_24, call_args);
@@ -8963,7 +8963,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[142], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[141], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -8981,14 +8981,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_47;
             PyObject *tmp_expression_name_28;
             PyObject *tmp_args_element_name_48;
-            tmp_called_name_25 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[39]);
+            tmp_called_name_25 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
 
             if (tmp_called_name_25 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_25 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[39]);
+                    tmp_called_name_25 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
 
                     if (unlikely(tmp_called_name_25 == NULL)) {
-                        tmp_called_name_25 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[39]);
+                        tmp_called_name_25 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
                     }
 
                     if (tmp_called_name_25 == NULL) {
@@ -9005,14 +9005,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_28 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_28 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_28 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_28 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_28 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_28 == NULL)) {
-                        tmp_expression_name_28 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_28 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_28 == NULL) {
@@ -9029,7 +9029,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_47 = LOOKUP_ATTRIBUTE(tmp_expression_name_28, mod_consts[143]);
+            tmp_args_element_name_47 = LOOKUP_ATTRIBUTE(tmp_expression_name_28, mod_consts[142]);
             Py_DECREF(tmp_expression_name_28);
             if (tmp_args_element_name_47 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -9041,8 +9041,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_48 = mod_consts[144];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 175;
+            tmp_args_element_name_48 = mod_consts[143];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 175;
             {
                 PyObject *call_args[] = {tmp_args_element_name_47, tmp_args_element_name_48};
                 tmp_dictset_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_25, call_args);
@@ -9060,7 +9060,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[145], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[144], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -9078,14 +9078,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_args_element_name_49;
             PyObject *tmp_expression_name_29;
             PyObject *tmp_args_element_name_50;
-            tmp_called_name_26 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[39]);
+            tmp_called_name_26 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[38]);
 
             if (tmp_called_name_26 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_called_name_26 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[39]);
+                    tmp_called_name_26 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[38]);
 
                     if (unlikely(tmp_called_name_26 == NULL)) {
-                        tmp_called_name_26 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[39]);
+                        tmp_called_name_26 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[38]);
                     }
 
                     if (tmp_called_name_26 == NULL) {
@@ -9102,14 +9102,14 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_expression_name_29 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[35]);
+            tmp_expression_name_29 = PyObject_GetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[34]);
 
             if (tmp_expression_name_29 == NULL) {
                 if (CHECK_AND_CLEAR_KEY_ERROR_OCCURRED()) {
-                    tmp_expression_name_29 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[35]);
+                    tmp_expression_name_29 = GET_STRING_DICT_VALUE(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[34]);
 
                     if (unlikely(tmp_expression_name_29 == NULL)) {
-                        tmp_expression_name_29 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[35]);
+                        tmp_expression_name_29 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[34]);
                     }
 
                     if (tmp_expression_name_29 == NULL) {
@@ -9126,7 +9126,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 }
             }
 
-            tmp_args_element_name_49 = LOOKUP_ATTRIBUTE(tmp_expression_name_29, mod_consts[146]);
+            tmp_args_element_name_49 = LOOKUP_ATTRIBUTE(tmp_expression_name_29, mod_consts[145]);
             Py_DECREF(tmp_expression_name_29);
             if (tmp_args_element_name_49 == NULL) {
                 assert(ERROR_OCCURRED());
@@ -9138,8 +9138,8 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_args_element_name_50 = mod_consts[146];
-            frame_c60521632f115bdc501330ed9d5019b8_2->m_frame.f_lineno = 176;
+            tmp_args_element_name_50 = mod_consts[145];
+            frame_6413e156119efda793f4d165b06b2e34_2->m_frame.f_lineno = 176;
             {
                 PyObject *call_args[] = {tmp_args_element_name_49, tmp_args_element_name_50};
                 tmp_dictset_value = CALL_FUNCTION_WITH_ARGS2(tmp_called_name_26, call_args);
@@ -9157,7 +9157,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[147], tmp_dictset_value);
+            tmp_res = PyObject_SetItem(locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59, mod_consts[146], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(ERROR_OCCURRED());
@@ -9172,7 +9172,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         }
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_c60521632f115bdc501330ed9d5019b8_2);
+        RESTORE_FRAME_EXCEPTION(frame_6413e156119efda793f4d165b06b2e34_2);
 #endif
 
         // Put the previous frame back on top.
@@ -9183,35 +9183,35 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         frame_exception_exit_2:;
 
 #if 0
-        RESTORE_FRAME_EXCEPTION(frame_c60521632f115bdc501330ed9d5019b8_2);
+        RESTORE_FRAME_EXCEPTION(frame_6413e156119efda793f4d165b06b2e34_2);
 #endif
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_c60521632f115bdc501330ed9d5019b8_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_c60521632f115bdc501330ed9d5019b8_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_c60521632f115bdc501330ed9d5019b8_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_6413e156119efda793f4d165b06b2e34_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_6413e156119efda793f4d165b06b2e34_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_6413e156119efda793f4d165b06b2e34_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_c60521632f115bdc501330ed9d5019b8_2,
+            frame_6413e156119efda793f4d165b06b2e34_2,
             type_description_2,
             outline_0_var___class__
         );
 
 
         // Release cached frame if used for exception.
-        if (frame_c60521632f115bdc501330ed9d5019b8_2 == cache_frame_c60521632f115bdc501330ed9d5019b8_2) {
+        if (frame_6413e156119efda793f4d165b06b2e34_2 == cache_frame_6413e156119efda793f4d165b06b2e34_2) {
 #if _DEBUG_REFCOUNTS
             count_active_frame_cache_instances -= 1;
             count_released_frame_cache_instances += 1;
 #endif
 
-            Py_DECREF(cache_frame_c60521632f115bdc501330ed9d5019b8_2);
-            cache_frame_c60521632f115bdc501330ed9d5019b8_2 = NULL;
+            Py_DECREF(cache_frame_6413e156119efda793f4d165b06b2e34_2);
+            cache_frame_6413e156119efda793f4d165b06b2e34_2 = NULL;
         }
 
-        assertFrameObject(frame_c60521632f115bdc501330ed9d5019b8_2);
+        assertFrameObject(frame_6413e156119efda793f4d165b06b2e34_2);
 
         // Put the previous frame back on top.
         popFrameStack();
@@ -9233,16 +9233,16 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
             PyObject *tmp_kwargs_name_2;
             CHECK_OBJECT(tmp_class_creation_1__metaclass);
             tmp_called_name_27 = tmp_class_creation_1__metaclass;
-            tmp_tuple_element_2 = mod_consts[50];
+            tmp_tuple_element_2 = mod_consts[49];
             tmp_args_name_2 = PyTuple_New(3);
             PyTuple_SET_ITEM0(tmp_args_name_2, 0, tmp_tuple_element_2);
-            tmp_tuple_element_2 = mod_consts[41];
+            tmp_tuple_element_2 = mod_consts[40];
             PyTuple_SET_ITEM0(tmp_args_name_2, 1, tmp_tuple_element_2);
             tmp_tuple_element_2 = locals_numpy$lib$mixins$$$class__1_NDArrayOperatorsMixin_59;
             PyTuple_SET_ITEM0(tmp_args_name_2, 2, tmp_tuple_element_2);
             CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
             tmp_kwargs_name_2 = tmp_class_creation_1__class_decl_dict;
-            frame_d9f00e2a9e9c294a1ab13e6262a180f8->m_frame.f_lineno = 59;
+            frame_28af77d99a4adc21aa4d296e94caae0a->m_frame.f_lineno = 59;
             tmp_assign_source_69 = CALL_FUNCTION(tmp_called_name_27, tmp_args_name_2, tmp_kwargs_name_2);
             Py_DECREF(tmp_args_name_2);
             if (tmp_assign_source_69 == NULL) {
@@ -9323,7 +9323,7 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
         exception_lineno = 59;
         goto try_except_handler_1;
         outline_result_1:;
-        UPDATE_STRING_DICT1(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[50], tmp_assign_source_16);
+        UPDATE_STRING_DICT1(moduledict_numpy$lib$mixins, (Nuitka_StringObject *)mod_consts[49], tmp_assign_source_16);
     }
     goto try_end_27;
     // Exception handler code:
@@ -9355,23 +9355,23 @@ PyObject *modulecode_numpy$lib$mixins(PyObject *module, struct Nuitka_MetaPathBa
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d9f00e2a9e9c294a1ab13e6262a180f8);
+    RESTORE_FRAME_EXCEPTION(frame_28af77d99a4adc21aa4d296e94caae0a);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_d9f00e2a9e9c294a1ab13e6262a180f8);
+    assertFrameObject(frame_28af77d99a4adc21aa4d296e94caae0a);
 
     goto frame_no_exception_2;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_d9f00e2a9e9c294a1ab13e6262a180f8);
+    RESTORE_FRAME_EXCEPTION(frame_28af77d99a4adc21aa4d296e94caae0a);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_d9f00e2a9e9c294a1ab13e6262a180f8, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_d9f00e2a9e9c294a1ab13e6262a180f8->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_d9f00e2a9e9c294a1ab13e6262a180f8, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_28af77d99a4adc21aa4d296e94caae0a, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_28af77d99a4adc21aa4d296e94caae0a->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_28af77d99a4adc21aa4d296e94caae0a, exception_lineno);
     }
 
     // Put the previous frame back on top.

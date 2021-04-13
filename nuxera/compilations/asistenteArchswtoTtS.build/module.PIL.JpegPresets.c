@@ -65,11 +65,11 @@ void checkModuleConstants_PIL$JpegPresets(void) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_047e1cb68d7a37c6f81ae588a315bc60;
+static PyCodeObject *codeobj_b0cecb4edb7e1045368034492a83080c;
 
 static void createModuleCodeObjects(void) {
-    module_filename_obj = mod_consts[2]; CHECK_OBJECT(module_filename_obj);
-    codeobj_047e1cb68d7a37c6f81ae588a315bc60 = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[10], NULL, NULL, 0, 0, 0);
+    module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[9]); CHECK_OBJECT(module_filename_obj);
+    codeobj_b0cecb4edb7e1045368034492a83080c = MAKE_CODEOBJECT(module_filename_obj, 1, CO_NOFREE, mod_consts[10], NULL, NULL, 0, 0, 0);
 }
 
 // The module function declarations.
@@ -449,7 +449,7 @@ PyObject *modulecode_PIL$JpegPresets(PyObject *module, struct Nuitka_MetaPathBas
 #endif
 
     // Temp variables if any
-    struct Nuitka_FrameObject *frame_047e1cb68d7a37c6f81ae588a315bc60;
+    struct Nuitka_FrameObject *frame_b0cecb4edb7e1045368034492a83080c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
@@ -465,30 +465,30 @@ PyObject *modulecode_PIL$JpegPresets(PyObject *module, struct Nuitka_MetaPathBas
     }
     {
         PyObject *tmp_assign_source_2;
-        tmp_assign_source_2 = mod_consts[2];
-        UPDATE_STRING_DICT0(moduledict_PIL$JpegPresets, (Nuitka_StringObject *)mod_consts[3], tmp_assign_source_2);
+        tmp_assign_source_2 = module_filename_obj;
+        UPDATE_STRING_DICT0(moduledict_PIL$JpegPresets, (Nuitka_StringObject *)mod_consts[2], tmp_assign_source_2);
     }
     // Frame without reuse.
-    frame_047e1cb68d7a37c6f81ae588a315bc60 = MAKE_MODULE_FRAME(codeobj_047e1cb68d7a37c6f81ae588a315bc60, module_PIL$JpegPresets);
+    frame_b0cecb4edb7e1045368034492a83080c = MAKE_MODULE_FRAME(codeobj_b0cecb4edb7e1045368034492a83080c, module_PIL$JpegPresets);
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStack(frame_047e1cb68d7a37c6f81ae588a315bc60);
-    assert(Py_REFCNT(frame_047e1cb68d7a37c6f81ae588a315bc60) == 2);
+    pushFrameStack(frame_b0cecb4edb7e1045368034492a83080c);
+    assert(Py_REFCNT(frame_b0cecb4edb7e1045368034492a83080c) == 2);
 
     // Framed code:
     {
         PyObject *tmp_assattr_name_1;
         PyObject *tmp_assattr_target_1;
-        tmp_assattr_name_1 = mod_consts[2];
-        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_PIL$JpegPresets, (Nuitka_StringObject *)mod_consts[4]);
+        tmp_assattr_name_1 = module_filename_obj;
+        tmp_assattr_target_1 = GET_STRING_DICT_VALUE(moduledict_PIL$JpegPresets, (Nuitka_StringObject *)mod_consts[3]);
 
         if (unlikely(tmp_assattr_target_1 == NULL)) {
-            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[4]);
+            tmp_assattr_target_1 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
         }
 
         assert(!(tmp_assattr_target_1 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[5], tmp_assattr_name_1);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_1, mod_consts[4], tmp_assattr_name_1);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -504,14 +504,14 @@ PyObject *modulecode_PIL$JpegPresets(PyObject *module, struct Nuitka_MetaPathBas
         PyObject *tmp_assattr_name_2;
         PyObject *tmp_assattr_target_2;
         tmp_assattr_name_2 = Py_True;
-        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_PIL$JpegPresets, (Nuitka_StringObject *)mod_consts[4]);
+        tmp_assattr_target_2 = GET_STRING_DICT_VALUE(moduledict_PIL$JpegPresets, (Nuitka_StringObject *)mod_consts[3]);
 
         if (unlikely(tmp_assattr_target_2 == NULL)) {
-            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[4]);
+            tmp_assattr_target_2 = GET_MODULE_VARIABLE_VALUE_FALLBACK(mod_consts[3]);
         }
 
         assert(!(tmp_assattr_target_2 == NULL));
-        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[6], tmp_assattr_name_2);
+        tmp_result = SET_ATTRIBUTE(tmp_assattr_target_2, mod_consts[5], tmp_assattr_name_2);
         if (tmp_result == false) {
             assert(ERROR_OCCURRED());
 
@@ -526,23 +526,23 @@ PyObject *modulecode_PIL$JpegPresets(PyObject *module, struct Nuitka_MetaPathBas
 
     // Restore frame exception if necessary.
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_047e1cb68d7a37c6f81ae588a315bc60);
+    RESTORE_FRAME_EXCEPTION(frame_b0cecb4edb7e1045368034492a83080c);
 #endif
     popFrameStack();
 
-    assertFrameObject(frame_047e1cb68d7a37c6f81ae588a315bc60);
+    assertFrameObject(frame_b0cecb4edb7e1045368034492a83080c);
 
     goto frame_no_exception_1;
 
     frame_exception_exit_1:;
 #if 0
-    RESTORE_FRAME_EXCEPTION(frame_047e1cb68d7a37c6f81ae588a315bc60);
+    RESTORE_FRAME_EXCEPTION(frame_b0cecb4edb7e1045368034492a83080c);
 #endif
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_047e1cb68d7a37c6f81ae588a315bc60, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_047e1cb68d7a37c6f81ae588a315bc60->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_047e1cb68d7a37c6f81ae588a315bc60, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_b0cecb4edb7e1045368034492a83080c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_b0cecb4edb7e1045368034492a83080c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_b0cecb4edb7e1045368034492a83080c, exception_lineno);
     }
 
     // Put the previous frame back on top.
@@ -555,12 +555,12 @@ PyObject *modulecode_PIL$JpegPresets(PyObject *module, struct Nuitka_MetaPathBas
     {
         PyObject *tmp_assign_source_3;
         tmp_assign_source_3 = Py_None;
-        UPDATE_STRING_DICT0(moduledict_PIL$JpegPresets, (Nuitka_StringObject *)mod_consts[7], tmp_assign_source_3);
+        UPDATE_STRING_DICT0(moduledict_PIL$JpegPresets, (Nuitka_StringObject *)mod_consts[6], tmp_assign_source_3);
     }
     {
         PyObject *tmp_assign_source_4;
-        tmp_assign_source_4 = DEEP_COPY(mod_consts[8]);
-        UPDATE_STRING_DICT1(moduledict_PIL$JpegPresets, (Nuitka_StringObject *)mod_consts[9], tmp_assign_source_4);
+        tmp_assign_source_4 = DEEP_COPY(mod_consts[7]);
+        UPDATE_STRING_DICT1(moduledict_PIL$JpegPresets, (Nuitka_StringObject *)mod_consts[8], tmp_assign_source_4);
     }
 
     return module_PIL$JpegPresets;
