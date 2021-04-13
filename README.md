@@ -39,7 +39,7 @@ Pasos para su ejecución
 ```
 
 ### »Super Mario Voice, mítico juego de Super Mario World de la SNES pero jugado mediante voz.
-![Super Mario World](https://miro.medium.com/max/1012/1*bN5k5RVQnXGHb-UvdOB9IA.gif)
+![Super Mario World](https://github.com/UzuRodri95/voiceProject/blob/main/images/mario.gif)
 
 * Instalación de dependencias
 
