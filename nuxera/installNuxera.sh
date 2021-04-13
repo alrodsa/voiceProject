@@ -3,7 +3,7 @@
 #Fuente: https://github.com/UzuRodri95/voiceProject
 #Asignatura: SMII
 #Dependencias a instalar:
-# PIP3, PortAudio2, Vosk, SoundDevice, TQDM
+# PIP3, PortAudio2, Vosk, SoundDevice, TQDM, gTTS, pyTTS, libspeak1, playsound and GTS
 #Creado para UBUNTU 20.04
 #Prerequisitos: tener el sistema al dia --> sudo apt-get update && sudo apt-get upgrade
 #Ejecutar el script con sudo para permitir las instalaciones sin errores
