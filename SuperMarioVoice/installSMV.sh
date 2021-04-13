@@ -55,6 +55,7 @@ fi
 
 sleep 0.2s
 
+cp rom/rom.zip ~
 git clone https://github.com/snes9xgit/snes9x.git
 
 sleep 0.2s
