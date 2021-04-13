@@ -3,7 +3,7 @@
 #Fuente: https://github.com/UzuRodri95/voiceProject
 #Asignatura: SMII
 #Dependencias a instalar:
-# PIP3, PortAudio2, Vosk, SoundDevice, TQDM, gTTS, pyTTS, libspeak1, playsound and GTS
+# PIP3, PortAudio2, Vosk, SoundDevice, TQDM, gTTS, pyTTS, libspeak1, mpg123 and GTS
 #Creado para UBUNTU 20.04
 #Prerequisitos: tener el sistema al dia --> sudo apt-get update && sudo apt-get upgrade
 #Ejecutar el script con sudo para permitir las instalaciones sin errores
@@ -86,6 +86,20 @@ fi
 
 sleep 0.2s
 
+mpg='mpg123'
+
+dpkg -s $mpg &> /dev/null
+
+if [ $? -ne 0 ] 
+    then 
+        echo "[!]MPG123 no satisfecho, se va a instalar" 
+        sudo apt-get install $mpg
+        dpkg -s $mpg &> /dev/null && echo "[*]MPG123 instalado exitosamente"
+        
+    else 
+        echo "[!]MPG123 satisfecho" 
+    
+fi
 
 echo "[*]Comprobando dependencias PIP3"
 
@@ -148,16 +162,6 @@ if [ "$pytts" ]
     else
         echo "[!] PYTTS no satisfecho, se va a instalar"
         pip3 install pyttsx3
-fi
-
-playsound=$(pip3 list | grep playsound)
-
-if [ "$playsound" ]
-    then
-        echo "[!] Playsound satisfecho"
-    else
-        echo "[!] Playsound no satisfecho, se va a instalar"
-        pip3 install playsound
 fi
 
 sleep 0.5s
