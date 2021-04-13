@@ -39,7 +39,8 @@ Pasos para su ejecución
 ```
 
 ### »Super Mario Voice, mítico juego de Super Mario World de la SNES pero jugado mediante voz.
-![Texto alternativo](https://miro.medium.com/max/1012/1*bN5k5RVQnXGHb-UvdOB9IA.gif "Título alternativo")
+![Super Mario World](https://miro.medium.com/max/1012/1*bN5k5RVQnXGHb-UvdOB9IA.gif)
+
 * Instalación de dependencias
 
 ```Bash
@@ -47,10 +48,10 @@ Pasos para su ejecución
 > sudo ./installSMV.sh
 ```
 
-* Una vez instaladas las dependencias, simplemente ejecuta con Python 3 el programa deseado:
+* Ejecución del juego:
 
 ```Bash 
-> python3 asistenteSMV.py
+> python3 SuperMarioVoice.py
 ```
 * Por último, asegurate de tener la carpeta *model* en el mismo directorio del programa, la puedes encontrar en la carpeta de cada proyecto o descargarla desde la documentación de [vosk](https://alphacephei.com/vosk/models), puedes elegir el idioma que desees y descargar el modelo de ese idioma.
 
