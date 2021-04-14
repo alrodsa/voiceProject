@@ -33,13 +33,13 @@ dpkg -s $pip &> /dev/null
 
 if [ $? -ne 0 ] 
     then 
-        echo "[!]Pip3 no satisfecho, se va a instalar" 
+        echo "[!] Pip3 no satisfecho, se va a instalar" 
         carga &
         sudo apt-get install $pip &>/dev/null
         kill "$!"
         echo -n "> 100%"
         printf "\n"
-        dpkg -s $pip &> /dev/null && echo "[*]Pip3 instalado exitosamente"
+        dpkg -s $pip &> /dev/null && echo "[*] Pip3 instalado exitosamente"
         
     else 
         echo "[!]Pip3 satisfecho" 
