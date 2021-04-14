@@ -53,13 +53,13 @@ Pasos para su ejecución
 
 ```Bash
 > chmod +x installSMV.sh
-> sudo ./installSMV.sh
+> sudo sh installSMV.sh
 ```
 
 * Ejecución del juego:
 
 ```Bash 
-> sh SuperMarioVoice.sh
+> sudo sh SuperMarioVoice.sh
 ```
 
 ## Construido con 🛠️
