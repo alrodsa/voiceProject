@@ -44,7 +44,10 @@ Pasos para su ejecución
 * Por último, asegurate de tener la carpeta *model* en el mismo directorio del programa, la puedes encontrar en la carpeta de cada proyecto o descargarla desde la documentación de [vosk](https://alphacephei.com/vosk/models), puedes elegir el idioma que desees y descargar el modelo de ese idioma.
 
 ### »Super Mario Voice, mítico juego de Super Mario World de la SNES pero jugado mediante voz. 🎮
-<img src="https://github.com/UzuRodri95/voiceProject/blob/main/images/mario.gif" alt="drawing"/>
+
+<p align="center">
+ <img src="https://github.com/UzuRodri95/voiceProject/blob/main/images/mario.gif" alt="drawing"/>
+</p>
                          
 * Instalación de dependencias y emulador snes9x:
 
