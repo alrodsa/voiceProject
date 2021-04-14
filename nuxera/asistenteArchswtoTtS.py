@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+#[!]Ten encuenta las tildes a la hora de crear las acciones
 #Esta version no incluye el text to speech,
 #para los dispositivos que no soportan esta caracterirtica
 
@@ -14,10 +14,6 @@ import sys
 from time import sleep
 from subprocess import call
 from tqdm import tqdm
-import subprocess, platform
-from gtts import gTTS
-import pyttsx3
-from playsound import playsound
 
 q = queue.Queue()
 

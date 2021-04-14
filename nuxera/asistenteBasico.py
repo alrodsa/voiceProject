@@ -118,19 +118,9 @@ def cabecera():
     print('='*52)
 
 
-def setup():
-    if(os.path.isfile(".setup")):
-        print("................................\n Set up leido y programa preparado \n................................\n")
-    else:
-        file = open(".setup", "w")
-        file.write("ARCHIVO DE SETUP PARA ASISTENTE")
-        file.close
-        print("creado")
-
 
 try:
     cabecera()
-    setup()
     for i in tqdm(range(100)):
         sleep(0.05)
 
@@ -188,7 +178,7 @@ try:
                 
 
 except KeyboardInterrupt:
-    print('\nDone')
+    print('\n[*]Cerrando')
     parser.exit(0)
 except Exception as e:
     parser.exit(type(e).__name__ + ': ' + str(e))

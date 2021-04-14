@@ -17,7 +17,6 @@ from tqdm import tqdm
 import subprocess, platform
 from gtts import gTTS
 import pyttsx3
-from playsound import playsound
 
 q = queue.Queue()
 
@@ -100,7 +99,8 @@ def speech_google(texto):
     
     tts = gTTS(texto, lang = 'es', tld= 'es')
     tts.save("speaked.mp3")
-    playsound("speaked.mp3")
+    file = "speaked.mp3"
+    os.system("mpg123 " + file + " >/dev/null 2>&1")
     #Para borrar el archivo que ha creado Gtts
     os.remove("speaked.mp3")
     
