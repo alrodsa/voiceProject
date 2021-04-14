@@ -59,6 +59,8 @@ Pasos para su ejecución
 
 * [Vosk](https://alphacephei.com/vosk/) - La librería de voz usada
 * [Python 3](https://docs.python.org/3/) - El lenguaje de programación usado
+* [PyTTS](https://pypi.org/project/pyttsx3/) - Modelo de text to speech offline.
+* [gTTS](https://gtts.readthedocs.io/en/latest/) - Modelo de text to speech online.
 
 
 
