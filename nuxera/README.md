@@ -1,7 +1,5 @@
 # Nuxera, un asistente para GNU/Linux.
 
-Como se comente en el [Readme](https://github.com/UzuRodri95/voiceProject) principal, esto son los pasos para instalar las dependencias de este pequeño proyecto:
-
 ### Instalación 🔧
 
 A continuación se indican los pasos para la instalación de un proyecto. Cada proyecto cuenta con un script único de instalación de dependencias:
@@ -37,3 +35,5 @@ También encontrarás una carpeta *model* que contiene el modelo en castellano d
 * [Python 3](https://docs.python.org/3/) - El lenguaje de programación usado
 * [PyTTS](https://pypi.org/project/pyttsx3/) - Modelo de text to speech offline.
 * [gTTS](https://gtts.readthedocs.io/en/latest/) - Modelo de text to speech online.
+
+Para más dudas leer el [Readme](https://github.com/UzuRodri95/voiceProject) principal.
