@@ -1,3 +1,5 @@
+<img src="https://github.com/UzuRodri95/voiceProject/blob/main/images/logoVoicejpg" alt="drawing"/>
+
 change to english version [🇬🇧](https://github.com/UzuRodri95/voiceProject/blob/main/README_en.md)
 # VoiceProject 🔊
 
