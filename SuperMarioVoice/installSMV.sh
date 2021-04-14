@@ -55,7 +55,6 @@ fi
 
 sleep 0.2s
 
-cp rom/rom.zip ~
 git clone https://github.com/snes9xgit/snes9x.git
 
 sleep 0.2s
@@ -65,6 +64,7 @@ sleep 0.2s
 zlib1g='zlib1g-dev'
 libpng='libpng-dev'
 xorg='xorg-dev'
+pulseaudio='pulseaudio'
 
 dpkg -s $zlib1g &> /dev/null
 
@@ -106,6 +106,21 @@ if [ $? -ne 0 ]
         
     else 
         echo "[!]xorg satisfecho" 
+    
+fi
+
+sleep 0.2s
+
+dpkg -s $pulseaudio &> /dev/null
+
+if [ $? -ne 0 ] 
+    then 
+        echo "[!]pulseaudio no satisfecho, se va a instalar" 
+        sudo apt-get install $pulseaudio
+        dpkg -s $pulseaudio &> /dev/null && echo "[*]pulseaudio instalado exitosamente"
+        
+    else 
+        echo "[!]pulseaudio satisfecho" 
     
 fi
 
