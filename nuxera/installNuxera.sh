@@ -8,6 +8,15 @@
 #Prerequisitos: tener el sistema al dia --> sudo apt-get update && sudo apt-get upgrade
 #Ejecutar el script con sudo para permitir las instalaciones sin errores
 
+carga() {
+    sleep 0.1
+    echo -n '0%  <'
+    while sleep 0.1; do
+        printf '='
+    done
+}
+
+
 printf "========================================================================\n"
 printf '================Bienvenido a la instalacion de NUXERA:==================\n'
 printf '==============Comprobacion e instalacion de dependencias================\n'
@@ -25,7 +34,11 @@ dpkg -s $pip &> /dev/null
 if [ $? -ne 0 ] 
     then 
         echo "[!]Pip3 no satisfecho, se va a instalar" 
-        sudo apt-get install $pip
+        carga &
+        sudo apt-get install $pip &>/dev/null
+        kill "$!"
+        echo -n "> 100%"
+        printf "\n"
         dpkg -s $pip &> /dev/null && echo "[*]Pip3 instalado exitosamente"
         
     else 
@@ -42,8 +55,12 @@ dpkg -s $audio &> /dev/null
 if [ $? -ne 0 ] 
     then 
         echo "[!]PortAudio2 no satisfecho, se va a instalar" 
-        sudo apt-get install $audio
-        dpkg -s $pip &> /dev/null && echo "[*]PortAudio2 instalado exitosamente"
+        carga &
+        sudo apt-get install $audio &>/dev/null
+        kill "$!"
+        echo -n "> 100%"
+        printf "\n"
+        dpkg -s $audio &> /dev/null && echo "[*]PortAudio2 instalado exitosamente"
         
     else 
         echo "[!]PortAudio2 satisfecho" 
@@ -59,7 +76,11 @@ dpkg -s $gst &> /dev/null
 if [ $? -ne 0 ] 
     then 
         echo "[!]GST no satisfecho, se va a instalar" 
-        sudo apt-get install $gst
+        carga &
+        sudo apt-get install $gst &>/dev/null
+        kill "$!"
+        echo -n "> 100%"
+        printf "\n"
         dpkg -s $gst &> /dev/null && echo "[*]GST instalado exitosamente"
         
     else 
@@ -76,7 +97,11 @@ dpkg -s $speak &> /dev/null
 if [ $? -ne 0 ] 
     then 
         echo "[!]SPEAK1 no satisfecho, se va a instalar" 
-        sudo apt-get install $speak
+        carga &
+        sudo apt-get install $speak &>/dev/null
+        kill "$!"
+        echo -n "> 100%"
+        printf "\n"
         dpkg -s $speak &> /dev/null && echo "[*]SPEAK1 instalado exitosamente"
         
     else 
@@ -93,7 +118,11 @@ dpkg -s $mpg &> /dev/null
 if [ $? -ne 0 ] 
     then 
         echo "[!]MPG123 no satisfecho, se va a instalar" 
-        sudo apt-get install $mpg
+        carga &
+        sudo apt-get install $mpg &>/dev/null
+        kill "$!"
+        echo -n "> 100%"
+        printf "\n"
         dpkg -s $mpg &> /dev/null && echo "[*]MPG123 instalado exitosamente"
         
     else 
@@ -112,7 +141,11 @@ if [ "$sound" ]
         echo "[!] SoundDevice satisfecho"
     else
         echo "[!]SoundDevie no satisfecho, se va a instalar"
-        pip3 install sounddevice
+        carga &
+        sudo pip3 install sounddevice &>/dev/null
+        kill "$!"
+        echo -n "> 100%"
+        printf "\n"
 fi
 
 
@@ -125,7 +158,11 @@ if [ "$voz" ]
         echo "[!] Vosk satisfecho"
     else
         echo "[!]Vosk no satisfecho, se va a instalar"
-        pip3 install vosk
+        carga &
+        sudo pip3 install vosk &>/dev/null
+        kill "$!"
+        echo -n "> 100%"
+        printf "\n"
 fi
 
 sleep 0.2s
@@ -137,7 +174,11 @@ if [ "$cargas" ]
         echo "[!] TQDM satisfecho"
     else
         echo "[!]TQDM no satisfecho, se va a instalar"
-        pip3 install tqdm
+        carga &
+        sudo pip3 install tqdm &>/dev/null
+        kill "$!"
+        echo -n "> 100%"
+        printf "\n"
 fi
 
 sleep 0.2s
@@ -149,7 +190,11 @@ if [ "$gtts" ]
         echo "[!] GTTS satisfecho"
     else
         echo "[!]GTTS no satisfecho, se va a instalar"
-        pip3 install gtts
+        carga &
+        sudo pip3 install gtts &>/dev/null
+        kill "$!"
+        echo -n "> 100%"
+        printf "\n"
 fi
 
 sleep 0.2s
@@ -161,7 +206,11 @@ if [ "$pytts" ]
         echo "[!] PYTTS satisfecho"
     else
         echo "[!] PYTTS no satisfecho, se va a instalar"
-        pip3 install pyttsx3
+        carga &
+        sudo pip3 install pyttsx3 &>/dev/null
+        kill "$!"
+        echo -n "> 100%"
+        printf "\n"
 fi
 
 sleep 0.5s
