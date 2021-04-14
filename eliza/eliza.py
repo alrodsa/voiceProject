@@ -361,7 +361,7 @@ def speech_pyttsx(texto):
 # ----------------------------------------------------------------------
 def command_interface():
 
-    print('Psicoloco\n---------')
+    print('Psicólogo\n---------')
     print('Habla con el programa-')        
     print('escribe "quit" para salir')
     print('='*72)
