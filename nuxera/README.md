@@ -1,12 +1,19 @@
 # Nuxera, un asistente para GNU/Linux.
 
-### Instalación 🔧
+
+##  Contenido 📋
+
+En esta carpeta encontrarás, un archivo de [instalacion](https://github.com/UzuRodri95/voiceProject/blob/main/nuxera/installNuxera.sh) , un archivo con posibles [acciones](https://github.com/UzuRodri95/voiceProject/blob/main/nuxera/acciones.txt) para el asistente, un programa básico del asistente llamado [asistente básico](https://github.com/UzuRodri95/voiceProject/blob/main/nuxera/asistenteBasico.py) , un programa avanzando del [asistente sin text to speech](https://github.com/UzuRodri95/voiceProject/blob/main/nuxera/asistenteArchswtoTtS.py) y un [asistente completo](https://github.com/UzuRodri95/voiceProject/blob/main/nuxera/asistenteArchs.py)
+
+También encontrarás una carpeta *model* que contiene el modelo en castellano de [vosk](https://alphacephei.com/vosk/models), el asistente básico necesitará ser ejecutado en castellano pero las otras versiones no requieren de esa versión del modelo y pueden utilizar cualquier otro, diponible en la documentación de [vosk](https://alphacephei.com/vosk/models).
+
+## Instalación 🔧
 
 A continuación se indican los pasos para la instalación de un proyecto. Cada proyecto cuenta con un script único de instalación de dependencias:
 
 Pasos para su ejecución
 
-### »Nuxera, un asistente básico de voz para GNU/Linux.
+## »Nuxera, un asistente básico de voz para GNU/Linux.
 
 * Instalación de dependencias
 
@@ -23,12 +30,52 @@ Pasos para su ejecución
 * Por último, asegurate de tener la carpeta *model* en el mismo directorio del programa, la puedes encontrar en la carpeta de cada proyecto o descargarla desde la documentación de [vosk](https://alphacephei.com/vosk/models), puedes elegir el idioma que desees y descargar el modelo de ese idioma.
 
 
-###  Contenido 📋
+## Uso de Nuxera 💻
 
-En esta carpeta encontrarás, un archivo de [instalacion](https://github.com/UzuRodri95/voiceProject/blob/main/nuxera/installNuxera.sh) , un archivo con posibles [acciones](https://github.com/UzuRodri95/voiceProject/blob/main/nuxera/acciones.txt) para el asistente, un programa básico del asistente llamado [asistente básico](https://github.com/UzuRodri95/voiceProject/blob/main/nuxera/asistenteBasico.py) , un programa avanzando del [asistente sin text to speech](https://github.com/UzuRodri95/voiceProject/blob/main/nuxera/asistenteArchswtoTtS.py) y un [asistente completo](https://github.com/UzuRodri95/voiceProject/blob/main/nuxera/asistenteArchs.py)
+Como hemos visto en la sección anterior para ejecutar el programa hay que ejecutar la siguiente orden en el directorio del trabajo:
 
-También encontrarás una carpeta *model* que contiene el modelo en castellano de [vosk](https://alphacephei.com/vosk/models), el asistente básico necesitará ser ejecutado en castellano pero las otras versiones no requieren de esa versión del modelo y pueden utilizar cualquier otro, diponible en la documentación de [vosk](https://alphacephei.com/vosk/models).
+```Bash 
+> python3 asistenteArch.py
+```
+Las versiones avanzadas cuentan con dos estados principales. La creación de *acciones* y la ejecución de estas.
 
+### ¿Cómo se crean las acciones?
+
+Las acciones se pueden crear de dos formas. El
+
+* Si no existe el fichero *acciones.txt* el programa al ser ejecutado normalmente creará el fichero y ejecutará el menú de creación de acciones. El menú tiene las siguientes partes.
+
+    1) Acción que el asistente espera oir. Este campo es obligatorio, hay que escribir exactamente la acción que se quiere pronunciar, tildes incluídas.
+
+    2) Acción que se ejecutará en Bash, esta acción tiene que ser valida en el sistema que se ejecuta. Este campo, por lo tanto, es obligatorio.
+
+    3) Contestación del asistente, este campo es opcional, en el caso del asistente con text to speech será el que se lea y imprima por pantalla, y en caso sin text to speech será solamente impreso por pantalla.
+
+* La otra manera de entrar en la creación de acciones es con la flag *-i* o *--instructions*, esta flag permite añadir acciones, manteniendo las anteriores, desplega el mismo menú que en el caso anterior.
+
+Una vez creadas las acciones el programa terminará su ejecución listo para ejecutarse y tener una ejecución normal.
+
+### Otras opciones 
+
+Todas las versiones cuentan con la flag *-h* o *--help*, esta flag permite ver todas las opciones del programa, incluyendo las que otorga Vosk:
+
+```Bash
+> python3 asistenteArchs.py -h
+usage: asistenteArchs.py [-h] [-l] [-f FILENAME] [-m MODEL_PATH] [-d DEVICE] [-r SAMPLERATE] [-i]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -l, --list-devices    show list of audio devices and exit
+  -f FILENAME, --filename FILENAME
+                        audio file to store recording to
+  -m MODEL_PATH, --model MODEL_PATH
+                        Path to the model
+  -d DEVICE, --device DEVICE
+                        input device (numeric ID or substring)
+  -r SAMPLERATE, --samplerate SAMPLERATE
+                        sampling rate
+  -i, --instructions    This flag is used to add instructions to the actions file
+```
 ## Construido con 🛠️
 
 * [Vosk](https://alphacephei.com/vosk/) - La librería de voz usada
