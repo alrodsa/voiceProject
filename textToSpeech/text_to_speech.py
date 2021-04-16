@@ -5,7 +5,7 @@ import pyttsx3
 
 #Funcion principal
 def text_to_speech(texto):
-    hay_web = pingOk("google.es")
+    hay_web = pingOk("google.es");
     
     #para pruebas con pyttsx
     #hay_web = pingOk("no_hay_web.es")
@@ -21,10 +21,10 @@ def pingOk(sHost):
         output = subprocess.check_output("ping -{} 1 {}".format('n' if platform.system().lower()=="windows" else 'c', sHost), shell=True)
 
     except Exception:
-        print("No hay conexión.")
+        #print("No hay conexión.")
         return False
 
-    print("Hay conexión.")
+    #print("Hay conexión.")
     return True
 
 
@@ -44,8 +44,9 @@ def speech_pyttsx(texto):
     
     engine = pyttsx3.init()
     engine.setProperty('voice', "spanish")
+    engine.setProperty('rate', 140)
     engine.say(texto)
     engine.runAndWait();
     
 #Para probar la función    
-text_to_speech("Vamos a hablar un poquito")
+#text_to_speech("Vamos a hablar un poquito")

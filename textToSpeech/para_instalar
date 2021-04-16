@@ -19,3 +19,15 @@ Para Gtts se debe instalar Playsound para que se reproduzca el audio
 Para Playsound es necesario instalar una libería adicional para que funcione en sistemas Linux:
 
     sudo apt install python3-gst-1.0
+
+    
+    
+Alvaro utilizó mpg123 en vez de Playsound:
+
+    sudo apt install mpg123
+    
+    
+    
+El pdftotext se instala con:
+
+    sudo apt install poppler-utils
