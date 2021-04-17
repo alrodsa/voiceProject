@@ -2,10 +2,20 @@ import subprocess, platform
 from gtts import gTTS
 import os
 import pyttsx3
+import signal
+import sys
+
+
+def signal_handler(key, frame):
+	print("\n\n[*] Cerrando ...\n")
+	sys.exit(1)
+
+signal = signal.signal(signal.SIGINT, signal_handler)
+
 
 #Funcion principal
 def text_to_speech(texto):
-    hay_web = pingOk("google.es");
+    hay_web = pingOk("google.es")
     
     #para pruebas con pyttsx
     #hay_web = pingOk("no_hay_web.es")
@@ -50,3 +60,9 @@ def speech_pyttsx(texto):
     
 #Para probar la función    
 #text_to_speech("Vamos a hablar un poquito")
+
+def main():
+    text_to_speech("la prueba funciona")
+
+if __name__ == "__main__":
+    main()
