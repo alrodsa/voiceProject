@@ -150,7 +150,7 @@ def realizarAccion(speech):
 def rellenar():
     file = open("./acciones.txt", "r")
     print()
-    print("                  .. Rellenando acciones ..                    ")
+    print('-'*15, 'Rellenando  acciones', '-'*15)
     print()
     for vector in file:
         print("-", end='')

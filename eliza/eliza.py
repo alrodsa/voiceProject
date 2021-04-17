@@ -97,8 +97,7 @@ gReflections = {
 # ----------------------------------------------------------------------
 # gPats, the main response table.  Each element of the list is a
 #  two-element list; the first is a regexp, and the second is a
-#  list of possible responses, with group-macros labelled as
-#  %1, %2, etc.
+#  list of possible responses.
 # ----------------------------------------------------------------------
 gPats = [
     [r'necesito(.*)',
