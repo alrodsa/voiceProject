@@ -3,6 +3,7 @@ import sys
 import signal
 from text_to_speech import text_to_speech
 
+#TODO: accept txt directly and chose pdftotext automatically
 
 def signal_handler(key, frame):
 	print("\n\n[*] Cerrando 1...\n")
