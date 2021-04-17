@@ -11,7 +11,7 @@ carga() {
 
 
 printf "========================================================================\n"
-printf '=============Bienvenido a la instalacion de TextToSpeech:===============\n'
+printf '==========Bienvenido a la instalacion de Lectura de Archivos:===========\n'
 printf '==============Comprobacion e instalacion de dependencias================\n'
 printf "========================================================================\n"
 sleep 0.2s
@@ -37,6 +37,27 @@ if [ $? -ne 0 ]
         
     else 
         echo "[!]Pip3 satisfecho" 
+    
+fi
+
+sleep 0.2s
+
+pdf='poppler-utils'
+
+dpkg -s $pdf &> /dev/null
+
+if [ $? -ne 0 ] 
+    then 
+        echo "[!] Poppler-utils no satisfecho, se va a instalar" 
+        carga &
+        sudo apt-get install $pip &>/dev/null
+        kill "$!"
+        echo -n "> 100%"
+        printf "\n"
+        dpkg -s $pip &> /dev/null && echo "[*] Popper-utils instalado exitosamente"
+        
+    else 
+        echo "[!]Popper-utils satisfecho" 
     
 fi
 
