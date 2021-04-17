@@ -23,10 +23,22 @@ def lectura_pdf(nom_pdf, nom_arch_sal):
     datos2 = []
     file = open(nom_arch_sal, 'r')
 
+    frase= ''
+
     for line in file:
-        print(line, end='')
-        if ('\n' != line):
-            text_to_speech(str(line))
+        if '\n' != line:
+            for x in range(0, len(line)):
+                if line[x] == '.' and line[x+1] == ' ':
+                    print(frase + '. ', end= '')
+                    text_to_speech(frase)
+                    frase = ''
+                    break;
+                frase += line[x]
+
+
+        
+
+
     print ("Terminamos aquí")
         
     os.remove(nom_arch_sal)
