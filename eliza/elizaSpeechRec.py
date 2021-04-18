@@ -16,7 +16,6 @@ import subprocess, platform
 from gtts import gTTS
 import pyttsx3
 
-
 q = queue.Queue()
 
 
@@ -428,11 +427,14 @@ def contestacion(speech):
 def cabecera():
     os.system('clear')
         
-    print('='*52)
-    print('='*15,'Tu Psicólogo Virtual','='*15)
-    print('='*52)
+    print('='*120)
+    print('='*49,'Tu Psicólogx Virtual','='*49)
+    print('='*120)
 
-
+def dibujo():
+    file = open('dibujo.txt', 'r')
+    for line in file:
+        print(line, end = '')
 
 try:
     cabecera()
@@ -467,9 +469,11 @@ try:
             os.system('clear')
 
             cabecera()
-            print('                Habla con el programa')        
-            print('    teclea dos veces seguidas [CTRL+C] para salir')
-            print('-'*52)
+            print(' '*53 + 'Ya puedes hablar' + ' '*51)        
+            print(' '*40 + 'teclea dos veces seguidas [CTRL+C] para salir' + ' '*49)
+            print('-'*120)
+            dibujo()
+            print('\n\n' + ' '* 50 + '#Si no visualizas bien la imagen, haz la ventana más grande#')
             text_to_speech('Hola, ¿Cómo te sientes hoy?')
 
             therapist = Eliza()
@@ -499,6 +503,7 @@ try:
                 
 
 except KeyboardInterrupt:
+    os.system('clear')
     print('\n[*]Cerrando')
     parser.exit(0)
 except Exception as e:
