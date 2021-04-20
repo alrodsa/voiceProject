@@ -1,4 +1,14 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+# ----------------------------------------------------------------------
+#  eliza.py
+#
+# Eliza hecho a partir de la version en inglés de jezhiggins y de la versión en castellano en python2 de marcobaturan
+# la version en inglés se puede encontrar en https://github.com/jezhiggins/eliza.py/blob/main/eliza.py
+# y la de castellano en https://github.com/marcobaturan/Eliza/blob/master/simphaty.py 
+# ----------------------------------------------------------------------
+
 
 import argparse
 import os
@@ -12,9 +22,7 @@ from tqdm import tqdm
 import sys
 import re
 import random
-import subprocess, platform
-from gtts import gTTS
-import pyttsx3
+from text_to_speech import text_to_speech
 
 q = queue.Queue()
 
@@ -27,14 +35,14 @@ q = queue.Queue()
 dictPalabras = {}
 
 def int_or_str(text):
-    """Helper function for argument parsing."""
+
     try:
         return int(text)
     except ValueError:
         return text
 
 def callback(indata, frames, time, status):
-    """This is called (from a separate thread) for each audio block."""
+
     if status:
         print(status, file=sys.stderr)
     q.put(bytes(indata))
@@ -64,23 +72,12 @@ parser.add_argument(
     '-r', '--samplerate', type=int, help='sampling rate')
 args = parser.parse_args(remaining)
 
-'''
-    Filtramos la cadena que nos venga del microfono introduciendo las palabras
-    en el diccionario
-
-
-'''
-
 
 class Eliza:
     def __init__(self):
         self.keys = list(map(lambda x: re.compile(x[0], re.IGNORECASE), gPats))
         self.values = list(map(lambda x: x[1], gPats))
 
-    # ----------------------------------------------------------------------
-    # translate: take a string, replace any words found in vocabulary.keys()
-    #  with the corresponding vocabulary.values()
-    # ----------------------------------------------------------------------
     def translate(self, text, vocabulary):
         words = text.lower().split()
         keys = vocabulary.keys()
@@ -89,20 +86,13 @@ class Eliza:
                 words[i] = vocabulary[words[i]]
         return ' '.join(words)
 
-    # ----------------------------------------------------------------------
-    #  respond: take a string, a set of regexps, and a corresponding
-    #    set of response lists; find a match, and return a randomly
-    #    chosen response from the corresponding list.
-    # ----------------------------------------------------------------------
     def respond(self, text):
-        # find a match among keys
+
         for i in range(0, len(self.keys)):
             match = self.keys[i].match(text)
             if match:
-                # found a match ... stuff with corresponding value
-                # chosen randomly from among the available options
+
                 resp = random.choice(self.values[i])
-                # we've got a response... stuff in reflected text where indicated
                 pos = resp.find('%')
                 while pos > -1:
                     num = int(resp[pos+1:pos+2])
@@ -110,7 +100,6 @@ class Eliza:
                         self.translate(match.group(num), gReflections) + \
                         resp[pos+2:]
                     pos = resp.find('%')
-                # fix munged punctuation at the end
                 if resp[-2:] == '?.':
                     resp = resp[:-2] + '.'
                 if resp[-2:] == '??':
@@ -352,53 +341,6 @@ gPats = [
         "¿Cómo te sientes cuando dices eso?"]]
 ]
 
-
-
-
-#Funcion principal
-def text_to_speech(texto):
-    hay_web = pingOk("google.es")
-    
-    #para pruebas con pyttsx
-    #hay_web = pingOk("no_hay_web.es")
-    
-    if (hay_web):
-        speech_google(texto)
-    else:
-        speech_pyttsx(texto)
-
-#Funcion para comprobar si hay conexión
-def pingOk(sHost):
-    try:
-        output = subprocess.check_output("ping -{} 1 {}".format('n' if platform.system().lower()=="windows" else 'c', sHost), shell=True)
-
-    except Exception:
-        #print("No hay conexión.")
-        return False
-
-    #print("Hay conexión.")
-    return True
-
-
-#Funcion para convertir texto a voz con libreria Gtts de Google
-def speech_google(texto):
-    
-    tts = gTTS(texto, lang = 'es', tld= 'es')
-    tts.save("speaked.mp3")
-    file = "speaked.mp3"
-    os.system("mpg123 " + file + " >/dev/null 2>&1")
-    #Para borrar el archivo que ha creado Gtts
-    os.remove("speaked.mp3")
-    
-
-#Funcion para convertir texto a voz con libreria pyttsx
-def speech_pyttsx(texto):
-    
-    engine = pyttsx3.init()
-    engine.setProperty('voice', "spanish")
-    engine.say(texto)
-    engine.runAndWait();
-
 def filtrarPartialSpeech(partial_speech):
     partial_speech = partial_speech.replace("\"","").replace("{","").replace("}","").replace("partial : ","").replace("\n","");
     partial_speech = partial_speech.split(' ')
@@ -408,9 +350,7 @@ def filtrarPartialSpeech(partial_speech):
             #print(dictPalabras)
     return partial_speech
 
-'''
-    Vamos a pasarle un array con las palabras para ver si le corresponde una accion
-'''
+
 def contestacion(speech):
     ocupado = False
     frase = ''
