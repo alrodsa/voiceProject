@@ -3,19 +3,19 @@
  <img src="https://github.com/UzuRodri95/voiceProject/blob/main/images/mario.gif" alt="drawing"/>
 </p>
 
-##  Contenido 📋
+## 📋 Contenido 📋
 
    - Archivo de [instalacion] (https://github.com/alrodsa/voiceProject/blob/main/SuperMarioVoice/installSMV.sh).
    - Archivo de [ejecucion] (https://github.com/alrodsa/voiceProject/blob/main/SuperMarioVoice/SuperMarioVoice.sh) que hace uso del resto de directorios y archivos.
 
-## Instalación 🔧
+## 🔧 Instalación 🔧
 * Instalación de dependencias y emulador snes9x:
 ```Bash
 > chmod +x installSMV.sh
 > sudo sh installSMV.sh
 ```
 
-## Ejecución 🔧
+## 🕹 Ejecución 🕹 
 * Ejecución del juego:
 ```Bash 
 > sudo sh SuperMarioVoice.sh
@@ -24,11 +24,11 @@
 <p align="center">
  <img src="https://github.com/UzuRodri95/voiceProject/blob/main/images/mario_ejecucion.png" alt="drawing"/>
 </p>
-[NOTA]: El foco de la ejecución tiene que estar en la pantalla del emulador, es decir, es necesario clickar en la pantalla del emulador para 
+[NOTA] El foco de la ejecución tiene que estar en la pantalla del emulador, es decir, es necesario clickar en la pantalla del emulador para 
 poder jugar.
 
 
-## Acciones Super Mario Voice 💻
+## 💻 Acciones Super Mario Voice 💻
 Las acciones que se pueden realizar con la voz son los siguientes:
 
  | ACCIONES | COMANDO DE VOZ |
@@ -42,7 +42,7 @@ Las acciones que se pueden realizar con la voz son los siguientes:
  |CORRER                | "corre"/"correr"|
  |PARAR                 | "para"/"parar"|                                  |
 
-## Construido con 🛠️
+## 🛠️ Construido con 🛠️
 * [Vosk](https://alphacephei.com/vosk/) - La librería de voz usada
 * [Python 3](https://docs.python.org/3/) - El lenguaje de programación usado
 * [Snes9x](https://www.snes9x.com/) - Emulador de la SNES.
