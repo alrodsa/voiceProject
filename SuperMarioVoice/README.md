@@ -24,7 +24,8 @@
 <p align="center">
  <img src="https://github.com/UzuRodri95/voiceProject/blob/main/images/mario_ejecucion.png" alt="drawing"/>
 </p>
-
+[NOTA]: El foco de la ejecución tiene que estar en la pantalla del emulador, es decir, es necesario clickar en la pantalla del emulador para 
+poder jugar.
 
 
 ## Acciones Super Mario Voice 💻
