@@ -43,12 +43,67 @@ dpkg -s $git &> /dev/null
 if [ $? -ne 0 ] 
     then 
         echo "[!]git no satisfecho, se va a instalar" 
-        sudo apt-get install $pip
-        dpkg -s $pip &> /dev/null && echo "[*]git instalado exitosamente"
+        sudo apt-get install $git
+        dpkg -s $git &> /dev/null && echo "[*]git instalado exitosamente"
         
     else 
         echo "[!]git satisfecho" 
     
+fi
+
+######################################################################################
+
+sleep 0.2s
+
+make='make'
+
+dpkg -s $make &> /dev/null
+
+if [ $? -ne 0 ]
+    then
+        echo "[!]make no satisfecho, se va a instalar"
+        sudo apt-get install $make
+        dpkg -s $make &> /dev/null && echo "[*]make instalado exitosamente"
+
+    else
+        echo "[!]make satisfecho"
+
+fi
+
+######################################################################################
+
+sleep 0.2s
+
+gcc='gcc'
+
+dpkg -s $gcc &> /dev/null
+
+if [ $? -ne 0 ]
+    then
+        echo "[!]gcc no satisfecho, se va a instalar"
+        sudo apt-get install $gcc
+        dpkg -s $gcc &> /dev/null && echo "[*]gcc instalado exitosamente"
+
+    else
+        echo "[!]gcc satisfecho"
+
+fi
+
+sleep 0.2s
+
+pip='python3-pip'
+
+dpkg -s $pip &> /dev/null
+
+if [ $? -ne 0 ]
+    then
+        echo "[!]pip no satisfecho, se va a instalar"
+        sudo apt-get install $pip
+        dpkg -s $pip &> /dev/null && echo "[*]pip instalado exitosamente"
+
+    else
+        echo "[!]pip satisfecho"
+
 fi
 
 ######################################################################################
@@ -65,6 +120,22 @@ zlib1g='zlib1g-dev'
 libpng='libpng-dev'
 xorg='xorg-dev'
 pulseaudio='pulseaudio'
+libasound='libportaudio2'
+
+dpkg -s $libasound &> /dev/null
+
+if [ $? -ne 0 ]
+    then
+        echo "[!]libasound no satisfecho, se va a instalar"
+        sudo apt-get install $libasound
+        dpkg -s $libasound &> /dev/null && echo "[*]libasound instalado exitosamente"
+
+    else
+        echo "[!]libasound satisfecho"
+
+fi
+
+sleep 0.2s
 
 dpkg -s $zlib1g &> /dev/null
 
@@ -126,6 +197,8 @@ fi
 
 ######################################################################################
 
+sudo apt install autoconf
+sudo pip3 vosk tqdm sounddevice keyboard
 sleep 0.2s
 cd snes9x/unix;sudo autoconf;ls -l
 sleep 0.2s
