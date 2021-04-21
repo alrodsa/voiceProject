@@ -21,6 +21,10 @@
 > sudo sh SuperMarioVoice.sh
 ```
 
+<p align="center">
+ <img src="https://github.com/UzuRodri95/voiceProject/blob/main/images/mario_ejecucion.jpg" alt="drawing"/>
+</p>
+
 ## Acciones Super Mario Voice 💻
 | ACCIONES | COMANDO DE VOZ |
 | -- | -- |
