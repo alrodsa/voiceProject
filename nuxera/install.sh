@@ -35,7 +35,7 @@ if [ $? -ne 0 ]
     then 
         echo "[!] Pip3 no satisfecho, se va a instalar" 
         carga &
-        sudo apt-get install $pip &>/dev/null
+        sudo apt-get install $pip -y &>/dev/null
         kill "$!"
         echo -n "> 100%"
         printf "\n"
@@ -56,7 +56,7 @@ if [ $? -ne 0 ]
     then 
         echo "[!]PortAudio2 no satisfecho, se va a instalar" 
         carga &
-        sudo apt-get install $audio &>/dev/null
+        sudo apt-get install $audio -y &>/dev/null
         kill "$!"
         echo -n "> 100%"
         printf "\n"
@@ -77,7 +77,7 @@ if [ $? -ne 0 ]
     then 
         echo "[!]GST no satisfecho, se va a instalar" 
         carga &
-        sudo apt-get install $gst &>/dev/null
+        sudo apt-get install $gst -y &>/dev/null
         kill "$!"
         echo -n "> 100%"
         printf "\n"
@@ -98,7 +98,7 @@ if [ $? -ne 0 ]
     then 
         echo "[!]SPEAK1 no satisfecho, se va a instalar" 
         carga &
-        sudo apt-get install $speak &>/dev/null
+        sudo apt-get install $speak -y &>/dev/null
         kill "$!"
         echo -n "> 100%"
         printf "\n"
@@ -119,7 +119,7 @@ if [ $? -ne 0 ]
     then 
         echo "[!]MPG123 no satisfecho, se va a instalar" 
         carga &
-        sudo apt-get install $mpg &>/dev/null
+        sudo apt-get install $mpg -y &>/dev/null
         kill "$!"
         echo -n "> 100%"
         printf "\n"
