@@ -1,9 +1,12 @@
-# Nuxera, un asistente para GNU/Linux.
-
+# Super Mario Voice, mítico juego de Super Mario World de la SNES pero jugado mediante voz.
+<p align="center">
+ <img src="https://github.com/UzuRodri95/voiceProject/blob/main/images/mario.gif" alt="drawing"/>
+</p>
 
 ##  Contenido 📋
 
-En esta carpeta encontrarás, un archivo de [instalacion](https://github.com/UzuRodri95/voiceProject/blob/main/nuxera/installNuxera.sh) , un archivo con posibles [acciones](https://github.com/UzuRodri95/voiceProject/blob/main/nuxera/acciones.txt) para el asistente, un programa básico del asistente llamado [asistente básico](https://github.com/UzuRodri95/voiceProject/blob/main/nuxera/asistenteBasico.py) , un programa avanzando del [asistente sin text to speech](https://github.com/UzuRodri95/voiceProject/blob/main/nuxera/asistenteArchswtoTtS.py) y un [asistente completo](https://github.com/UzuRodri95/voiceProject/blob/main/nuxera/asistenteArchs.py)
+   1. Archivo de [instalacion] (https://github.com/alrodsa/voiceProject/blob/main/SuperMarioVoice/installSMV.sh)
+   2. Archivo de [ejecución] que hace uso del resto de directorios y archivos (https://github.com/alrodsa/voiceProject/blob/main/SuperMarioVoice/SuperMarioVoice.sh)
 
 También encontrarás una carpeta *model* que contiene el modelo en castellano de [vosk](https://alphacephei.com/vosk/models), el asistente básico necesitará ser ejecutado en castellano pero las otras versiones no requieren de esa versión del modelo y pueden utilizar cualquier otro, diponible en la documentación de [vosk](https://alphacephei.com/vosk/models).
 
