@@ -5,10 +5,8 @@
 
 ##  Contenido 📋
 
-   1. Archivo de [instalacion] (https://github.com/alrodsa/voiceProject/blob/main/SuperMarioVoice/installSMV.sh)
-   2. Archivo de [ejecución] que hace uso del resto de directorios y archivos (https://github.com/alrodsa/voiceProject/blob/main/SuperMarioVoice/SuperMarioVoice.sh)
-
-También encontrarás una carpeta *model* que contiene el modelo en castellano de [vosk](https://alphacephei.com/vosk/models), el asistente básico necesitará ser ejecutado en castellano pero las otras versiones no requieren de esa versión del modelo y pueden utilizar cualquier otro, diponible en la documentación de [vosk](https://alphacephei.com/vosk/models).
+   - Archivo de [instalacion] (https://github.com/alrodsa/voiceProject/blob/main/SuperMarioVoice/installSMV.sh).
+   - Archivo de [ejecucion] (https://github.com/alrodsa/voiceProject/blob/main/SuperMarioVoice/SuperMarioVoice.sh) que hace uso del resto de directorios y archivos.
 
 ## Instalación 🔧
 
