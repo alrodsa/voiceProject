@@ -1,5 +1,5 @@
 #!/bin/bash
-#instlacion de depndencias para los prqueños proyectos de uso de text to speech
+#instalacion de depndencias para la lectura de arhcivos
 
 carga() {
     sleep 0.1

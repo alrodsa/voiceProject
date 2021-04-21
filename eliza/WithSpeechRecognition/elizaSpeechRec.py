@@ -377,7 +377,7 @@ def dibujo():
         print(line, end = '')
 
 try:
-    print("\x1b[8;40;80t")
+    print("\x1b[8;60;120t")
     cabecera()
     for i in tqdm(range(100)):
         sleep(0.05)
