@@ -9,27 +9,17 @@
    - Archivo de [ejecucion] (https://github.com/alrodsa/voiceProject/blob/main/SuperMarioVoice/SuperMarioVoice.sh) que hace uso del resto de directorios y archivos.
 
 ## Instalación 🔧
-
-A continuación se indican los pasos para la instalación de un proyecto. Cada proyecto cuenta con un script único de instalación de dependencias:
-
-Pasos para su ejecución
-
-## »Nuxera, un asistente básico de voz para GNU/Linux.
-
-* Instalación de dependencias
-
+* Instalación de dependencias y emulador snes9x:
 ```Bash
-> chmod +x installNuxera.sh
-> sudo ./installNuxera.sh
+> chmod +x installSMV.sh
+> sudo sh installSMV.sh
 ```
 
-* Una vez instaladas las dependencias, simplemente ejecuta con Python 3 el programa deseado:
-
+## Ejecución 🔧
+* Ejecución del juego:
 ```Bash 
-> python3 asistenteArch.py
+> sudo sh SuperMarioVoice.sh
 ```
-* Por último, asegurate de tener la carpeta *model* en el mismo directorio del programa, la puedes encontrar en la carpeta de cada proyecto o descargarla desde la documentación de [vosk](https://alphacephei.com/vosk/models), puedes elegir el idioma que desees y descargar el modelo de ese idioma.
-
 
 ## Uso de Nuxera 💻
 
