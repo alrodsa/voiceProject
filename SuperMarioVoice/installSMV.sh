@@ -198,6 +198,10 @@ fi
 ######################################################################################
 
 sudo apt install autoconf
+sudo apt install libx11-dev
+sudo apt install libglu1-mesa-dev
+sudo apt-get install libxcomposite-dev libxdamage-dev libxrender-dev libxv-dev
+
 sudo pip3 vosk tqdm sounddevice keyboard
 sleep 0.2s
 cd snes9x/unix;sudo autoconf;ls -l
