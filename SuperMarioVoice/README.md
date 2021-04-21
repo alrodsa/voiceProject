@@ -25,18 +25,22 @@
  <img src="https://github.com/UzuRodri95/voiceProject/blob/main/images/mario_ejecucion.png" alt="drawing"/>
 </p>
 
-## Acciones Super Mario Voice 💻
-| ACCIONES | COMANDO DE VOZ |
-| -- | -- |
-|ACEPTAR en menu/nivel | "aceptar"/"okay"|
-|IR DERECHA            | "derecha"/"derechas"|
-|IR IZQUIERDA          | "izquierda"/"izquierdas"|
-|IR ARRIBA             | "arriba"/"sube"/"subir"|
-|IR ABAJO              | "abajo"/"bajo"/"baja"/"bajar"|
-|SALTAR                | "saltar"/"salta"/"saltas"/"saltos"/"salto"|
-|CORRER                | "corre"/"correr"|
-|PARAR                 | "para"/"parar"|                                  |
 
+
+## Acciones Super Mario Voice 💻
+Las acciones que se pueden realizar con la voz son los siguientes:
+<p align="center">
+ | ACCIONES | COMANDO DE VOZ |
+ | -- | -- |
+ |ACEPTAR en menu/nivel | "aceptar"/"okay"|
+ |IR DERECHA            | "derecha"/"derechas"|
+ |IR IZQUIERDA          | "izquierda"/"izquierdas"|
+ |IR ARRIBA             | "arriba"/"sube"/"subir"|
+ |IR ABAJO              | "abajo"/"bajo"/"baja"/"bajar"|
+ |SALTAR                | "saltar"/"salta"/"saltas"/"saltos"/"salto"|
+ |CORRER                | "corre"/"correr"|
+ |PARAR                 | "para"/"parar"|                                  |
+</p>
 
 ## Construido con 🛠️
 * [Vosk](https://alphacephei.com/vosk/) - La librería de voz usada
