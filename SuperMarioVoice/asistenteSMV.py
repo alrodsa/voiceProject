@@ -157,13 +157,64 @@ def realizarAccion(speech):
 def cabecera():
     os.system('clear')
         
-    print('='*52)
-    print('='*14,'MarioVoiceProject v1.0','='*14)
-    print('='*52)
+    print('###########################################################################')
+    print('####################### MarioVoiceProject v1.0 ############################')
+    print('###########################################################################\n')
+
+    print(' ==========================================================================')
+    print('|        ACCION        ||                  COMANDO VOZ                     |')
+    print(' ==========================================================================')
+    print('|ACEPTAR en menu/nivel || "aceptar"/"okay"                                 |')
+    print('---------------------------------------------------------------------------')
+    print('|IR DERECHA            || "derecha"/"derechas"                             |')
+    print('---------------------------------------------------------------------------')
+    print('|IR IZQUIERDA          || "izquierda"/"izquierdas"                         |')
+    print('---------------------------------------------------------------------------')
+    print('|IR ARRIBA             || "arriba"/"sube"/"subir"                          |')
+    print('---------------------------------------------------------------------------')
+    print('|IR ABAJO              || "abajo"/"bajo"/"baja"/"bajar"                    |')
+    print('---------------------------------------------------------------------------')
+    print('|SALTAR                || "saltar"/"salta"/"saltas"/"saltos"/"salto"       |')
+    print('---------------------------------------------------------------------------')
+    print('|CORRER                || "corre"/"correr"                                 |')
+    print('---------------------------------------------------------------------------')
+    print('|PARAR                 || "para"/"parar"                                   |')
+    print('---------------------------------------------------------------------------')
+
+
 
 
 try:
-    cabecera()
+    mario = '''                                                                                               
+                               `-:/:-`                                          
+                            ./oyyyo://-                                         
+                          .+syyyyy++--//                                        
+                         /syhhhyyyyo++os/:.                                     
+                      `.+yhhhhyyyhdyyyhdhhh-                                    
+                     `oyhddddyyydysy//syyo-                                     
+                     `yhhmmmdo+::s+--.+.                                        
+                      -:/ohdds:-:hy.:/:-..`                                     
+                      --+oshh:-:hdyyho+:--.                                     
+                   ``.-//+oo////oshmmmhys+  ``                                  
+                ```-syyyyyysyso++///+oo+-./..:-.`                               
+              ``   `.syhhyyyyyhhyso+/:.` :soos+:.`                              
+         `--.```   `---:hddhhyyhyhhdy++syso+oyy+:.                              
+          :++/-.....    yhhhyyyyyssyhhhdddo/oo+/.                               
+           .os+:-o:`   -hhhhhyyyy--yy+sso/:..                                   
+             `-+ss+`  .shhhhhhyyhhyys.                                          
+             .shddmh/-+hddhhhhhhhhhho                                           
+            -shhdmmmddyddddhhhhyyyyy/                                           
+          -shhhdmmmmmmdddmddhhhhyyyyys.                                         
+         `yhhhhmmmmmmmmmmmdmmdddhhhyyys.`-//:.                                  
+          -syyo.``-/+ssso/-.:oydddhhyyyyhyss+o/                                 
+                               .hddhhyhhhhyysyo                                 
+                                .hddhhhhhhhhy:                                  
+                                 `yddddddhs:`                                   
+                                  `sdddh+`                                      
+                                    .::`                                        
+                                                                                
+            '''
+
     for i in tqdm(range(100)):
         sleep(0.05)
 
@@ -193,6 +244,8 @@ try:
             
             while True:
                 cabecera()
+                print(mario)
+
                 data = q.get()
                 if rec.AcceptWaveform(data):
                     os.system('clear')
