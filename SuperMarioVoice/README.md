@@ -29,7 +29,7 @@
 
 ## Acciones Super Mario Voice 💻
 Las acciones que se pueden realizar con la voz son los siguientes:
-<p align="center">
+
  | ACCIONES | COMANDO DE VOZ |
  | -- | -- |
  |ACEPTAR en menu/nivel | "aceptar"/"okay"|
@@ -40,7 +40,6 @@ Las acciones que se pueden realizar con la voz son los siguientes:
  |SALTAR                | "saltar"/"salta"/"saltas"/"saltos"/"salto"|
  |CORRER                | "corre"/"correr"|
  |PARAR                 | "para"/"parar"|                                  |
-</p>
 
 ## Construido con 🛠️
 * [Vosk](https://alphacephei.com/vosk/) - La librería de voz usada
