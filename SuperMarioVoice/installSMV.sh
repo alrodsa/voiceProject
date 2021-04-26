@@ -196,20 +196,26 @@ if [ $? -ne 0 ]
 fi
 
 ######################################################################################
-
+sudo apt-get upgrade
 sudo apt install autoconf
+
+sudo apt-get upgrade
 sudo apt install libx11-dev
 sudo apt install libglu1-mesa-dev
 sudo apt-get install libxcomposite-dev libxdamage-dev libxrender-dev libxv-dev
+sudo apt-get install libportaudio2
+sudo apt install libc6-dev
+sudo apt-get install gcc gpp
+sudo apt-get install python3-pip
+sudo apt-get upgrade
 
-sudo pip3 vosk tqdm sounddevice keyboard
+sudo pip3 install tqdm sounddevice keyboard vosk
 sleep 0.2s
-cd snes9x/unix;sudo autoconf;ls -l
+
+cd snes9x/unix;sudo autoconf;sudo ./configure --enable-netplay;sudo make
+
 sleep 0.2s
-sudo ./configure --enable-netplay
-sleep 0.2s
-sudo make
-sleep 0.2s
+ls
 sudo cp snes9x /usr/bin/
 sleep 0.2s
 sudo chown root:root /usr/bin/snes9x
