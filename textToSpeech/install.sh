@@ -1,6 +1,6 @@
 #!/bin/bash
 #instlacion de depndencias para los prqueños proyectos de uso de text to speech
-
+#TODO añadir playsound para pyttsx
 carga() {
     sleep 0.1
     echo -n '0%  <'

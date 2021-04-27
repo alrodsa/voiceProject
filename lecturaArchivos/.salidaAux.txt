@@ -1,0 +1,666 @@
+BLINDAT
+ALCANCE DEL PROYECTO
+Versión 1.2
+10/03/2021
+
+[]
+
+BlindaT ALCANCE DEL PROYECTO
+Versión: <1.2>
+
+HISTÓRICO DE VERSIONES
+Versión
+#
+
+Realizado
+por
+
+1.0
+
+Sergio Benlloch
+
+07/03/2021
+
+Vicente
+Rodrigo
+
+09/03/2021
+
+1.0
+
+Vicente Rodrigo
+
+07/03/2021
+
+Sergio
+Benlloch
+
+09/03/2021
+
+1.0
+
+Enrique Tello
+
+07/03/2021
+
+Vicente
+Rodrigo
+
+09/07/2021
+
+1.2
+
+Juanjo Silgo
+
+09/03/2021
+
+Sergio
+Benlloch
+
+10/03/2021
+
+Fecha Revisión: 25/04/2021
+
+Fecha
+Revisión
+
+Aprobado
+por
+
+Fecha
+Aprobación
+
+Comentario
+
+Pag. 2 de 13
+
+BlindaT ALCANCE DEL PROYECTO
+Versión: <1.2>
+
+TABLA DE CONTENIDOS
+INTRODUCCIÓN
+PROPÓSITO DE LA DECLARACIÓN DE ALCANCE
+
+4
+4
+
+RESUMEN DEL PROYECTO
+
+4
+
+JUSTIFICACIÓN
+NECESIDADES DETECTADAS
+ESTRATEGIA A DESARROLLAR
+
+4
+4
+5
+
+ENUNCIADO DEL ALCANCE
+MISIÓN
+OBJETIVOS
+REQUERIMIENTOS
+RESTRICCIONES
+ASUNCIONES Y SUPUESTOS
+ENTREGABLES
+LÍMITES
+
+5
+5
+5
+5
+9
+9
+10
+11
+
+ORGANIZACIÓN DEL PROYECTO
+ROLES Y RESPONSABILIDADES
+IMPLICADOS
+
+12
+12
+12
+
+Fecha Revisión: 25/04/2021
+
+Pag. 3 de 13
+
+BlindaT ALCANCE DEL PROYECTO
+Versión: <1.2>
+
+1 INTRODUCCIÓN
+1.1
+
+PROPÓSITO DE LA DECLARACIÓN DE ALCANCE
+La declaración de Alcance asociada al proyecto BLINDAT trata de describir los
+procesos necesarios para que este pueda llevarse a cabo con éxito.
+A continuación, se proporciona un breve resumen del proyecto así como la
+Justificación del mismo y se indican los principales elementos que forman parte
+de dicha declaración.
+
+2 RESUMEN DEL PROYECTO
+BlindaT abarca el área de la ciberseguridad, pretende ser la unión entre los
+clientes, que serian las empresas en busca de mejor ciberseguridad y los
+profesionales de la ciberseguridad que trabajan como freelance, BlindaT quiere
+encargarse de mantener auditorías y controles de seguridad a las empresas
+contratantes pero a diferencia de otras empresas, aparte de contar con sus
+equipos propios también quiere contar con profesionales que se interesen por un
+programa de recompensas y que sumen esfuerzos en busca de una mejor
+seguridad.
+El cliente podrá contratar varios planes con pago mensual donde se incluyen los
+servicios de todas las partes de la empresa, siendo el más avanzado el que
+también le otorga soluciones y documentación respecto a las vulnerabilidades
+encontradas.
+
+3 JUSTIFICACIÓN
+Vemos necesario el cambio de paradigma en el sector, donde los trabajadores
+externos formen parte de la mejora, muchas grandes empresas tienen planes de
+recompensa por encontrar vulnerabilidades, pero la gran mayoría de las pymes y
+algunas de las grandes empresas no tienen los mecanismos para poder crear y
+mantener estos proyectos, BlindaT, a parte de otorgar la seguridad ya conocida en
+el sector, pretende conectar a todos los puntos del sector y mejorar la seguridad
+de nuestros clientes.
+3.1
+
+NECESIDADES DETECTADAS
+Las necesidades encontradas principalmente son falta de conocimiento del sector
+y problemas que no se esperaban y que preocupan a las empresas y a los
+clientes de estas.
+Las grandes empresas tecnológicas pueden permitirse crear internamente todos
+estos mecanismos, pero las pymes no tienen los recursos y las grandes empresas
+de otros sectores no tienen los mecanismos de seguridad creados internamente
+en su mayoría.
+
+Fecha Revisión: 25/04/2021
+
+Pag. 4 de 13
+
+BlindaT ALCANCE DEL PROYECTO
+Versión: <1.2>
+
+Esto se pretende solucionar permitiendo a las empresas contratar diferentes
+planes de seguridad, que incluya todos los mecanismos que la empresa puede
+necesitar.
+3.2
+
+ESTRATEGIA A DESARROLLAR
+
+1. Registro de empresas
+2. Registro de usuarios anónimos (pentesters)
+3. Equipo de contacto con las empresas y equipo de contacto con los pentesters.
+4. Equipo de pentesters interno y equipo de seguridad defensiva ( red team y blue
+team)
+
+4 ENUNCIADO DEL ALCANCE
+4.1
+
+MISIÓN
+El propósito fundamental del proyecto BlindaT es conseguir el mejor equipo de
+trabajo en el campo de la ciberseguridad.
+
+4.2
+
+OBJETIVOS
+
+Los objetivos principales del proyecto se centran en dos aspectos:
+● Brindar a las empresas de un ecosistema donde puedan ser puestas a
+prueba y atesoradas para una mayor defensa ante posibles ataques y
+malas intenciones.
+● Conectar a toda una comunidad de especialistas en ciberseguridad los
+cuales ofrecen sus servicios a cambio de unas recompensas acordes a su
+trabajo. Es decir, un sistema meritocrático.
+● Facilitar a cualquier empresa por pequeña que sea el derecho que tiene
+de sentirse segura ante un mundo cada vez más conectado y dotado de
+habilidades que puedan ser usadas en su contra.
+
+4.3
+
+REQUERIMIENTOS
+Este apartado contiene los principales requerimientos del proyecto agrupados por
+tipo y ámbito de actuación. En primer lugar, se indicarán los requerimientos de
+tipo funcional y no funcional. Para ello se deben completar los huecos por cada
+ámbito señalado.
+
+Fecha Revisión: 25/04/2021
+
+Pag. 5 de 13
+
+BlindaT ALCANCE DEL PROYECTO
+Versión: <1.2>
+
+Requisitos Funcionales
+<Administración de usuarios>
+Req. #
+
+Descripción
+
+Adm1
+
+Permitir el alta, consulta, modificación o borrado Empleado
+(operaciones CRUD) de los clientes de la plataforma.
+
+Adm2
+
+Posibilitar la búsqueda de un usuario, empresa en Admin
+base a ciertos parámetros.
+Empleado
+
+Adm3
+
+Los usuarios se identificarán en la aplicación
+mediante login y contraseña, en caso de ser de una
+empresa cliente, con correo corporativo.
+
+Todos
+
+Adm4
+
+Cualquier empresa podrá solicitar la póliza para ser
+partícipes de la plataforma, admitiendo así el derecho
+de los usuarios de poner a prueba sus sistemas. Esto
+se hará efectivo rellenando un formulario con sus
+necesidades, y forma de pago (mensual, anual).
+
+Cliente
+Empleado
+
+Adm5
+
+Se podrá eliminar a un usuario o a una empresa del
+sistema en caso de que no cumpla con las normas
+preestablecidas y/o las cláusulas de su contrato.
+
+Cliente
+Empleado
+
+Fecha Revisión: 25/04/2021
+
+Actor
+
+Pag. 6 de 13
+
+BlindaT ALCANCE DEL PROYECTO
+Versión: <1.2>
+
+<Gestión de vulnerabilidades y reportes>
+Req. #
+
+Descripción
+
+Actor
+
+Vul1
+
+Se podrá realizar una búsqueda en la base Empresa cliente en cuestión
+de datos de una vulnerabilidad x en cierta Admin.
+empresa, en base a unos parámetros.
+Empleado
+
+Vul2
+
+Las vulnerabilidades serán reportadas Cliente.
+mediante un formato concreto de reporte.
+Admin.
+
+Vul3
+
+Se evaluará la magnitud de la
+vulnerabilidad reportada, para
+posteriormente, remitir al usuario
+reportador la recompensa por su servicio.
+
+Vul4
+
+Se recogerán en un informe trimestral las Admin.
+vulnerabilidades más reportadas en ese
+periodo, creando así un documento el cual
+será remitido a las empresas a modo de
+aviso.
+
+Vul5
+
+Las vulnerabilidades reportadas serán Admin.
+puestas en conocimiento de la empresa en
+el momento en el que se evalúe la
+veracidad de las mismas.
+
+Vul6
+
+Se podrá realizar una búsqueda de un Empleado
+reporte atendiendo a unos parámetros Admin.
+establecidos.
+
+Vul7
+
+Permitir el alta, consulta, modificación o Admin.
+borrado (operaciones CRUD) de los
+reportes.
+
+Fecha Revisión: 25/04/2021
+
+Admin.
+Cliente
+
+Pag. 7 de 13
+
+BlindaT ALCANCE DEL PROYECTO
+Versión: <1.2>
+
+<Gestión administrativa>
+Req. #
+
+Descripción
+
+Actor
+
+GesAdm2
+
+Permitir el alta, consulta, modificación o borrado Admin.
+(operaciones CRUD) de convenios con empresas.
+Especificando el tipo de convenio y el descuento que
+se proporciona a una determinada empresa.
+
+GesAdm3
+
+Permitir el alta, consulta, modificación o borrado
+(operaciones CRUD) de personal de la empresa
+cliente.
+
+Admin.
+
+GesAdm4
+
+Realizar un listado de pagos pendientes por servicio.
+
+Admin.
+
+GesAdm5
+
+Comprobar que las incidencias que han podido ser Admin.
+reportadas por fallos en la aplicación, tanto por parte
+de clientes como de trabajadores.
+
+Fecha Revisión: 25/04/2021
+
+Pag. 8 de 13
+
+BlindaT ALCANCE DEL PROYECTO
+Versión: <1.2>
+
+Requisitos NO Funcionales
+Req. #
+
+4.4
+
+Descripción
+
+ReqNF1
+
+Garantizar que el acceso a la información de los usuarios cumple la
+legislación vigente en materia de privacidad.
+
+ReqNF2
+
+Realizar una copia de seguridad de los datos de forma diaria.
+
+ReqNF3
+
+Garantizar la disponibilidad de la aplicación 24/7.
+
+ReqNF4
+
+Garantizar la máxima efectividad a la hora de transmitir las
+vulnerabilidades (rapidez y cifrado).
+
+ReqNF5
+
+La aplicación estará disponible en castellano e inglés.
+
+ReqNF6
+
+Definir claramente los límites de actuación de los usuarios atacantes.
+
+RESTRICCIONES
+● El proyecto se llevará a cabo con un presupuesto predefinido, limitando así los
+costes.
+● El proyecto tiene una fecha de entrega por lo tanto el tiempo es limitado para el
+mismo.
+● Alcanzar un resultado exacto con una calidad deseada.
+● Recursos necesarios para llevar a cabo la realización del proyecto desde un
+inicio.
+● Satisfacción del cliente o interesados.
+● Ser capaces de gestionar de forma correcta los riesgos del proyecto así como
+los inconvenientes que puedan ir surgiendo .
+
+4.5
+
+ASUNCIONES Y SUPUESTOS
+● Se asume que todos los procesos que se den dentro del proyecto se entregarán
+bajo el tiempo y condiciones pactadas.
+● Se asume que el presupuesto pactado en un principio se respetará a lo largo
+del mismo.
+● Se asume que se tendrá en disponibilidad todos los recursos necesarios para
+poder llevar a cabo el proyecto en su mejor manera.
+
+Fecha Revisión: 25/04/2021
+
+Pag. 9 de 13
+
+BlindaT ALCANCE DEL PROYECTO
+Versión: <1.2>
+
+● Se asume que todo servicio ofrecido por BlindaT es el adecuado para poder
+llevar al cliente a un nivel de seguridad mayor.
+● El personal de BlindaT estará disponible en las fechas y horarios establecidos
+en caso de que ocurriese alguna incidencia que necesitase atención inmediata.
+
+4.6
+
+ENTREGABLES
+Nombre
+
+Descripción
+
+Construcción de un Lanzar un portal web donde los clientes/interesados
+portal web.
+pueden solicitar el servicio deseado.
+
+Instalación del
+software y pruebas
+del sistema.
+
+Preparar los equipos del personal con los recursos y
+herramientas necesarios con el fin de ofrecer el mejor
+servicio posible.
+
+Planificación
+
+Un Planning de cómo se debería llevar a cabo el
+desarrollo del proyecto.
+
+Informe de
+Pruebas
+
+Después de completar cada proceso se deberá
+presentar un informe con las pruebas necesarias y de
+interés.
+
+Acta de
+constitución
+
+Presentación del acta con el fin de empezar el
+proyecto.
+
+Informe de
+auditoría
+
+Después de la realización de cada auditoría se deberá
+presentar un informe correspondiente con datos de
+interés a fin de evaluar la calidad del servicio prestado.
+
+Presupuestos
+
+Documento/Informe con todos los gastos previstos que
+se necesitarán para ofrecer el servicio esperado.
+
+Fecha Revisión: 25/04/2021
+
+Pag. 10 de 13
+
+BlindaT ALCANCE DEL PROYECTO
+Versión: <1.2>
+
+Informe de
+seguridad
+
+LÍMITES
+
+4.7
+●
+●
+●
+●
+●
+4.8
+
+Al finalizar una auditoría, se deberá entregar un informe
+al cliente con datos de interés sobre las acciones
+realizadas y vulnerabilidades encontradas en su
+sistema.
+
+Inexperiencia del sector en España con la seguridad informática
+Los pagos se tramitarán en euros
+La inversión inicial será de capital reducido
+Se depende en gran medida de trabajadores autónomos
+Las empresas deben conceder acceso suficiente a sus sistemas
+
+CRITERIOS DE ÉXITO
+● Aumentar un 20% los clientes suscritos en el primer año de actividad
+● Incrementar en un 70% los expertos adscritos a la plataforma tras un año de
+actividad
+● Creación en los primeros 3 meses de actividad de un equipo solvente
+● Posicionarse entre las 50 consultoras más reconocidas del sector
+● Informe de satisfacción de los primeros 20 clientes con resultado favorable (nota
+cualificable sobre 5, esperando un mínimo de 4)
+● Incrementar la eficiencia de resolución de incidencias en un 30% en los primeros
+6 meses
+
+Fecha Revisión: 25/04/2021
+
+Pag. 11 de 13
+
+BlindaT ALCANCE DEL PROYECTO
+Versión: <1.2>
+
+5 ORGANIZACIÓN DEL PROYECTO
+5.1 ROLES Y RESPONSABILIDADES
+A continuación y a modo de ejemplo, se introducen algunos de los responsables
+del proyecto y los principales roles que desarrollan en el mismo.
+
+5.2
+
+Nombre
+
+Rol
+
+Responsabilidades
+
+Sergio
+Benlloch
+
+Jefe del proyecto Dirige la evolución del proyecto, asegurando
+(CEO)
+la correcta comunicación entre todas las
+partes involucradas en él. Encarga el trabajo
+genérico a cada uno del resto de
+responsables del proyecto, para que lo
+distribuyan/realicen conforme establezcan.
+
+Enrique Tello
+
+Líder de equipo
+(CTO)
+
+Se encuentra al mando del equipo de
+expertos, dirigiendolos y distribuyendo los
+encargos; además de ser la conexión entre
+ellos y el Jefe del proyecto. Adicionalmente
+está a cargo de asegurar el correcto
+funcionamiento de las infraestructuras,
+permitiendo que las herramientas del
+proyecto funcionen correctamente.
+
+Vicente
+Rodrigo
+
+Encargado de
+ventas (CMO)
+
+Su deber es ser el enlace entre los clientes y
+el resto del proyecto, asegurando ventas,
+recogiendo
+opiniones
+y
+sugerencias,
+interactuando con la competencia e
+informándose sobre el mercado competente.
+Debe informar al Encargado de finanzas de
+los ingresos conseguidos.
+
+Juanjo Silgo
+
+Encargado de
+finanzas (CFO)
+
+En continua comunicación con el resto de
+responsables debe ser consciente en todo
+momento de los gastos e ingresos relativos
+al proyecto, permitiendo aumentar la
+inversión de ser posible o avisando de la
+necesidad de realizar recortes con la
+suficiente antelación.
+
+IMPLICADOS
+En este apartado se incluyen aquellas personas que forman parte de la empresa
+Desarrolladora, así como actores externos que puedan estar implicados en el
+proyecto.
+
+Fecha Revisión: 25/04/2021
+
+Pag. 12 de 13
+
+BlindaT ALCANCE DEL PROYECTO
+Versión: <1.2>
+
+En el entorno de la empresa desarrolladora se pueden citar los siguientes
+participantes:
+●
+●
+●
+●
+●
+
+Técnicos informáticos.
+Expertos en ciberseguridad.
+Personal de ventas.
+Responsables.
+Inversores.
+En cuanto a los actores externos, estos pueden pertenecer a organismos o
+asociaciones que tengan alguna relación con el alcance del proyecto:
+
+●
+●
+●
+●
+
+Agencia Española de Protección de Datos (AEPD).
+Instituto Nacional de Ciberseguridad de España (INCIBE).
+Código de Ética y Conducta Profesional de ACM.
+Asociación Española de Empresas de Consultoría (AEC).
+
+Fecha Revisión: 25/04/2021
+
+Pag. 13 de 13
+
+
