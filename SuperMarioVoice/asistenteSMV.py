@@ -75,7 +75,7 @@ def filtrarPartialSpeech(partial_speech):
 '''
 def realizarAccion(speech):
     cabecera()
-    print(speech)
+    #print(speech)
     
     for s in speech:
         if 'aceptar' in s or 'acepta' in s:
@@ -157,64 +157,36 @@ def realizarAccion(speech):
 def cabecera():
     os.system('clear')
         
-    print('###########################################################################')
-    print('######################## SuperMarioVoice v1.0 #############################')
-    print('###########################################################################\n')
-
-    print(' ==========================================================================')
-    print('|        ACCION        ||                  COMANDO VOZ                     |')
-    print(' ==========================================================================')
-    print('|ACEPTAR en menu/nivel || "aceptar"/"okay"                                 |')
-    print('---------------------------------------------------------------------------')
-    print('|IR DERECHA            || "derecha"/"derechas"                             |')
-    print('---------------------------------------------------------------------------')
-    print('|IR IZQUIERDA          || "izquierda"/"izquierdas"                         |')
-    print('---------------------------------------------------------------------------')
-    print('|IR ARRIBA             || "arriba"/"sube"/"subir"                          |')
-    print('---------------------------------------------------------------------------')
-    print('|IR ABAJO              || "abajo"/"bajo"/"baja"/"bajar"                    |')
-    print('---------------------------------------------------------------------------')
-    print('|SALTAR                || "saltar"/"salta"/"saltas"/"saltos"/"salto"       |')
-    print('---------------------------------------------------------------------------')
-    print('|CORRER                || "corre"/"correr"                                 |')
-    print('---------------------------------------------------------------------------')
-    print('|PARAR                 || "para"/"parar"                                   |')
-    print('---------------------------------------------------------------------------')
-
+    print('###########################################################################                       `-:/:-`                ')
+    print('####################### MarioVoiceProject v1.0 ############################                    ./oyyyo://-               ')
+    print('###########################################################################                 .+syyyyy++--//              ')
+    print(' ==========================================================================                 /syhhhyyyyo++os/:.           ')
+    print('|        ACCION        ||                  COMANDO VOZ                     |             `.+yhhhhyyyhdyyyhdhhh-          ')
+    print(' ==========================================================================             `oyhddddyyydysy//syyo-           ')
+    print('|ACEPTAR en menu/nivel || "aceptar"/"okay"                                 |            `yhhmmmdo+::s+--.+.              ')
+    print('---------------------------------------------------------------------------              -:/ohdds:-:hy.:/:-..`           ')
+    print('|IR DERECHA            || "derecha"/"derechas"                             |             --+oshh:-:hdyyho+:--.           ')
+    print('---------------------------------------------------------------------------           ``.-//+oo////oshmmmhys+  ``        ')
+    print('|IR IZQUIERDA          || "izquierda"/"izquierdas"                         |       ```-syyyyyysyso++///+oo+-./..:-.`     ')
+    print('---------------------------------------------------------------------------      ``   `.syhhyyyyyhhyso+/:.` :soos+:.`    ')
+    print('|IR ARRIBA             || "arriba"/"sube"/"subir"                          |`--.```   `---:hddhhyyhyhhdy++syso+oyy+:.    ')
+    print('---------------------------------------------------------------------------  :++/-.....    yhhhyyyyyssyhhhdddo/oo+/.     ')
+    print('|IR ABAJO              || "abajo"/"bajo"/"baja"/"bajar"                    |  .os+:-o:`   -hhhhhyyyy--yy+sso/:..         ')
+    print('---------------------------------------------------------------------------     `-+ss+`  .shhhhhhyyhhyys.                ')
+    print('|SALTAR                || "saltar"/"salta"/"saltas"/"saltos"/"salto"       |    .shddmh/-+hddhhhhhhhhhho                 ')
+    print('---------------------------------------------------------------------------    -shhdmmmddyddddhhhhyyyyy/                 ')
+    print('|CORRER                || "corre"/"correr"                                 |  -shhhdmmmmmmdddmddhhhhyyyyys.              ')
+    print('---------------------------------------------------------------------------  `yhhhhmmmmmmmmmmmdmmdddhhhyyys.`-//:.       ')
+    print('|PARAR                 || "para"/"parar"                                   |  -syyo.``-/+ssso/-.:oydddhhyyyyhyss+o/      ')
+    print('---------------------------------------------------------------------------                        .hddhhyhhhhyysyo      ')
+    print('                                                                                                    .hddhhhhhhhhy:       ')
+    print('                                                                                                     `yddddddhs:`        ')
+    print('                                                                                                      `sdddh+`           ')
+    print('                                                                                                        .::`             ')
 
 
 
 try:
-    mario = '''                                                                                               
-                               `-:/:-`                                          
-                            ./oyyyo://-                                         
-                          .+syyyyy++--//                                        
-                         /syhhhyyyyo++os/:.                                     
-                      `.+yhhhhyyyhdyyyhdhhh-                                    
-                     `oyhddddyyydysy//syyo-                                     
-                     `yhhmmmdo+::s+--.+.                                        
-                      -:/ohdds:-:hy.:/:-..`                                     
-                      --+oshh:-:hdyyho+:--.                                     
-                   ``.-//+oo////oshmmmhys+  ``                                  
-                ```-syyyyyysyso++///+oo+-./..:-.`                               
-              ``   `.syhhyyyyyhhyso+/:.` :soos+:.`                              
-         `--.```   `---:hddhhyyhyhhdy++syso+oyy+:.                              
-          :++/-.....    yhhhyyyyyssyhhhdddo/oo+/.                               
-           .os+:-o:`   -hhhhhyyyy--yy+sso/:..                                   
-             `-+ss+`  .shhhhhhyyhhyys.                                          
-             .shddmh/-+hddhhhhhhhhhho                                           
-            -shhdmmmddyddddhhhhyyyyy/                                           
-          -shhhdmmmmmmdddmddhhhhyyyyys.                                         
-         `yhhhhmmmmmmmmmmmdmmdddhhhyyys.`-//:.                                  
-          -syyo.``-/+ssso/-.:oydddhhyyyyhyss+o/                                 
-                               .hddhhyhhhhyysyo                                 
-                                .hddhhhhhhhhy:                                  
-                                 `yddddddhs:`                                   
-                                  `sdddh+`                                      
-                                    .::`                                        
-                                                                                
-            '''
-
     for i in tqdm(range(100)):
         sleep(0.05)
 
@@ -244,7 +216,6 @@ try:
             
             while True:
                 cabecera()
-                print(mario)
 
                 data = q.get()
                 if rec.AcceptWaveform(data):
