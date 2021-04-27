@@ -9,6 +9,10 @@ carga() {
     done
 }
 
+if [[ $EUID -ne 0 ]]; then
+    echo "El script se tiene que ejecutar como sudo" 
+    exit 1
+fi
 
 printf "========================================================================\n"
 printf '==========Bienvenido a la instalacion de Lectura de Archivos:===========\n'
