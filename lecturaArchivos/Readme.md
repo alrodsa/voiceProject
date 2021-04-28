@@ -2,7 +2,7 @@
 
 ##  Contenido 📋
 
-En esta parte del proyecto encontrarás un pequeño programa caaz de leerte documentos pdf y txt, mostrandote lo que se este leyendo por pantalla.
+En esta parte del proyecto encontrarás un pequeño programa capaz de leerte documentos pdf y txt, mostrandote lo que se este leyendo por pantalla.
 
 
 ## Instalación 🔧
