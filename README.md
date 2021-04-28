@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://github.com/UzuRodri95/voiceProject/blob/main/images/logoVoice2.png" alt="drawing"/>
+  <img src="https://github.com/alrodsa/voiceProject/blob/main/images/logoVoice2.png" alt="drawing"/>
 </p>
 
-change to english version [🇬🇧](https://github.com/UzuRodri95/voiceProject/blob/main/README_en.md)
+change to english version [🇬🇧](https://github.com/alrodsa/voiceProject/blob/main/README_en.md)
 # VoiceProject 🔊
 
 VoiceProject en un proyecto de la asignatura Sistemas multimedia interactivos e inmersivos (SMII), optativa de cuarto curso de Ingenieria Informatica de la UPV. Este proyecto pretende ser una demostración de diferentes usos de librerías de reconocimiento y síntesis de voz 🔊.
 
 ## ¿Qué puedes encontrar en este repo? 🚀
 
-En este proyecto puedes encontrar un asistente básico hecho con VOSK llamado [Nuxera](https://github.com/UzuRodri95/voiceProject/tree/main/nuxera), una automatización para jugar con la voz de [SuperMario](https://github.com/UzuRodri95/voiceProject/tree/main/SuperMarioVoice) para SNES o un Eliza con voz entre otros.
+En este proyecto puedes encontrar un asistente básico hecho con VOSK llamado [Nuxera](https://github.com/alrodsa/voiceProject/tree/main/nuxera), una automatización para jugar con la voz de [SuperMario](https://github.com/alrodsa/voiceProject/tree/main/SuperMarioVoice) para SNES o un Eliza con voz entre otros.
 
 ### Pre-requisitos 📋
 
@@ -75,14 +75,14 @@ Pasos para su ejecución
 
 
 * **Sergio Benlloch**  - [sg1o](https://github.com/sg1o)
-* **Álvaro Rodríguez**  - [UzuRodri95](https://github.com/UzuRodri95)
+* **Álvaro Rodríguez**  - [alrodsa](https://github.com/alrodsa)
 * **Dimitar Todorov**  - [enmitko1](https://github.com/enmitko1)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/UzuRodri95/voiceProject/contributors) que han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/alrodsa/voiceProject/contributors) que han participado en este proyecto. 
 
 ## Licencia 📄
 
-Este proyecto es totalmente libre, puedes usarlo y modificarlo a tu gusto. Para mas detalles sobre la licencia lee [LICENSE](https://github.com/UzuRodri95/voiceProject/blob/main/LICENSE)
+Este proyecto es totalmente libre, puedes usarlo y modificarlo a tu gusto. Para mas detalles sobre la licencia lee [LICENSE](https://github.com/alrodsa/voiceProject/blob/main/LICENSE)
 
 ## Contacto 📫
 

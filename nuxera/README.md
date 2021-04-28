@@ -18,7 +18,7 @@ Pasos para su ejecución
 * Instalación de dependencias
 
 ```Bash
-> chmod +x installNuxera.sh
+> chmod +x install.sh
 > sudo ./installNuxera.sh
 ```
 
