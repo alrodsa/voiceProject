@@ -65,7 +65,7 @@ Pasos para su ejecución
 * Ejecución del juego con feedback:
 
 ```Bash 
-> sudo sh SuperMarioVoice.sh
+> sudo sh SuperMarioVoice.sh -fe
 ```
 
 ## Construido con 🛠️
