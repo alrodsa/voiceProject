@@ -2,7 +2,6 @@ import subprocess, platform
 from gtts import gTTS
 import os
 import pyttsx3
-from playsound import playsound
 
 #Funcion principal
 def text_to_speech(texto):
