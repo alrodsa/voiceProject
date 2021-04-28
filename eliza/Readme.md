@@ -40,7 +40,7 @@ Cualquiera de las opciones de ELiza se puede ejecutar con la siguiente linea:
 > python3 elizaSpeechRec.py 
 ```
 
-Pero, antes de nada, asegurar de tener el modelo de vosk y el programa de text to speech en el mismo directorio.
+Pero, antes de nada, asegurarse de tener el modelo de vosk y el programa de text to speech en el mismo directorio.
 ## Construido con 🛠️
 
 * [Vosk](https://alphacephei.com/vosk/) - La librería de voz usada
