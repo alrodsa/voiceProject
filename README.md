@@ -62,6 +62,12 @@ Pasos para su ejecución
 > sudo sh SuperMarioVoice.sh
 ```
 
+* Ejecución del juego con feedback:
+
+```Bash 
+> sudo sh SuperMarioVoice.sh
+```
+
 ## Construido con 🛠️
 
 * [Vosk](https://alphacephei.com/vosk/) - La librería de voz usada
