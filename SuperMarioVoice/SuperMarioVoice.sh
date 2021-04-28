@@ -5,5 +5,10 @@ printf "========================================================================
 SCRIPT=$(readlink -f $0);
 dir_base=`dirname $SCRIPT`;
 
-padsp snes9x $dir_base/rom/rom.sfc &>/dev/null
-sudo python3 asistenteSMV.py
+if [ "$#" -eq 0 ];then
+    padsp snes9x $dir_base/rom/rom.sfc &>/dev/null
+    sudo python3 asistenteSMV.py
+    else
+        padsp snes9x $dir_base/rom/rom.sfc &>/dev/null
+        sudo python3 asistenteSMV.py -fe
+fi;

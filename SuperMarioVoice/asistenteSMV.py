@@ -12,6 +12,10 @@ from tqdm import tqdm
 import keyboard
 
 q = queue.Queue()
+feedback = False
+
+if len(sys.argv) == 2 and sys.argv[1] == '-fe':
+    feedback = True
 
 '''
     Creamos un diccionario para ir guardando las palabras como clave
@@ -67,37 +71,37 @@ def filtrarPartialSpeech(partial_speech):
     for palabra in partial_speech:
         if palabra != '':
             dictPalabras[palabra] = 0
-            print(dictPalabras)
     return partial_speech
 
 '''
     Vamos a pasarle un array con las palabras para ver si le corresponde una accion
 '''
-def realizarAccion(speech):
-    cabecera()
-    #print(speech)
-    
+def realizarAccion(speech):    
     for s in speech:
         if 'aceptar' in s or 'acepta' in s:
-            print("-> ACEPTAR")
+            if feedback:
+                print("-> ACEPTAR")
             keyboard.press('c')
             sleep(0.1)
             keyboard.release('c')
         
         if 'ok' in s:
-            print("-> OKAY")
+            if feedback:
+                print("-> OKAY")
             keyboard.press('x')
             sleep(0.1)
             keyboard.release('x')
         
         if 'iniciar' in s or 'inicia' in s:
-            print("-> INICIAR")
+            if feedback:
+                print("-> INICIAR")
             keyboard.press('enter')
             sleep(0.1)
             keyboard.release('enter')
 
         if 'saltar' == s or 'salta' == s or 'saltas' == s or 'salto' == s or 'saltos' == s:
-            print("-> SALTAR")
+            if feedback:
+                print("-> SALTAR")
             sleep(0.5)
             keyboard.press('c')
             sleep(0.5)
@@ -106,27 +110,31 @@ def realizarAccion(speech):
         if 'derecha' in s or'derechas' in s :
             if keyboard.is_pressed('left arrow'):
                 keyboard.release('left arrow')
-            print("-> DERECHA")
+            if feedback:
+                print("-> DERECHA")
             sleep(0.5)
             keyboard.press('right arrow')
             sleep(0.1)
         
         if 'arriba' in s or 'sube' in s or 'subir' in s :
             keyboard.press('up arrow')
-            print("-> ARRIBA")
+            if feedback:
+                print("-> ARRIBA")
             sleep(0.2)
             keyboard.release('up arrow')
             sleep(0.1)
         
         if 'abajo' in s or 'bajo' in s or 'baja' in s or 'bajar' in s :
             keyboard.press('down arrow')
-            print("-> ABAJO")
+            if feedback:
+                print("-> ABAJO")
             sleep(0.2)
             keyboard.release('down arrow')
             sleep(0.1)
 
         if 'parar' in s or 'para' in s:
-            print("-> PARAR")
+            if feedback:
+                print("-> PARAR")
             sleep(0.1)
             if keyboard.is_pressed('right arrow'):
                 keyboard.release('right arrow')
@@ -137,22 +145,25 @@ def realizarAccion(speech):
         if 'izquierda' in s:
             if keyboard.is_pressed('right arrow'):
                 keyboard.release('right arrow')
-            
-            print("-> IZQUIERDA")
+            if feedback:
+                print("-> IZQUIERDA")
             sleep(0.5)
             keyboard.press('left arrow')
             sleep(0.1)
 
         if 'correr' in s or 'corre' in s:
-            print("-> CORRER")
+            if feedback:
+                print("-> CORRER")
             sleep(0.5)
             if keyboard.is_pressed('s'):
-                print("ESTA PRESIONADA")
+                if feedback:
+                    print("ESTA PRESIONADA")
                 sleep(0.1)
                 keyboard.release('s')
             else:
                 keyboard.press('s')
             sleep(0.1)
+        cabecera()
 
 def cabecera():
     os.system('clear')
@@ -179,10 +190,13 @@ def cabecera():
     print('---------------------------------------------------------------------------  `yhhhhmmmmmmmmmmmdmmdddhhhyyys.`-//:.       ')
     print('|PARAR                 || "para"/"parar"                                   |  -syyo.``-/+ssso/-.:oydddhhyyyyhyss+o/      ')
     print('---------------------------------------------------------------------------                        .hddhhyhhhhyysyo      ')
-    print('                                                                                                    .hddhhhhhhhhy:       ')
-    print('                                                                                                     `yddddddhs:`        ')
+    print('                                                                           |                       .hddhhhhhhhhy:       ')
+    print('==================== CLICKA EN LA PANTALLA DEL EMULADOR ===================                          `yddddddhs:`        ')
     print('                                                                                                      `sdddh+`           ')
     print('                                                                                                        .::`             ')
+
+    if feedback:
+        print('-----------------------> FEEDBACK ACTIVADO <------------------------')
 
 
 
@@ -213,13 +227,12 @@ try:
 
             rec = vosk.KaldiRecognizer(model, args.samplerate)
             os.system('clear')
-            
-            while True:
-                cabecera()
+            cabecera()
 
+            while True:
                 data = q.get()
                 if rec.AcceptWaveform(data):
-                    os.system('clear')
+                    #os.system('clear')
                     '''Cuando el speech parcial termine, vendra aqui'''
                     speech = rec.Result()
 
@@ -230,7 +243,7 @@ try:
                     palabras = dictPalabras.keys()
                     realizarAccion(palabras)
 
-                    '''Borramos el diccionario para escucharl la nueva entrada'''
+                    '''Borramos el diccionario para escuchar la nueva entrada'''
                     dictPalabras.clear()
                 else:
                     '''Aqui vamos metiendo palabras del speech parcial'''
