@@ -16,15 +16,22 @@
 ```
 
 ## 🕹 Ejecución 🕹 
-* Ejecución del juego:
+Para la ejecución de Super Mario Voice nos encontramos con 2 posibles formas de realizarlo:
+
+1. Ejecución normal del juego:
 ```Bash 
 > sudo sh SuperMarioVoice.sh
 ```
 
+2. Ejecución con feedback:
+ ```Bash 
+> sudo sh SuperMarioVoice.sh -fe
+```
 <p align="center">
  <img src="https://github.com/UzuRodri95/voiceProject/blob/main/images/mario_ejecucion.png" alt="drawing"/>
 </p>
-[NOTA] El foco de la ejecución tiene que estar en la pantalla del emulador, es decir, es necesario clickar en la pantalla del emulador para 
+[NOTA 1] El modo feedback hace que te muestre por pantalla los comandos que se han reconocido y que se están ejecutando.
+[NOTA 2] El foco de la ejecución tiene que estar en la pantalla del emulador, es decir, es necesario clickar en la pantalla del emulador para 
 poder jugar.
 
 
