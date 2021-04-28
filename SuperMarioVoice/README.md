@@ -27,7 +27,7 @@ Para la ejecución de Super Mario Voice nos encontramos con 2 posibles formas de
  ```Bash 
 > sudo sh SuperMarioVoice.sh -fe
 ```
-[NOTA 1] El modo feedback hace que te muestre por pantalla los comandos que se han reconocido y que se están ejecutando.
+[NOTA 1] El modo feedback hace que te muestre por pantalla los comandos que se han reconocido y que se están ejecutando. Este modo puede ralentizar el reconocimiento de voz y la ejecución de los comandos.
 
 <p align="center">
  <img src="https://github.com/UzuRodri95/voiceProject/blob/main/images/mario_ejecucion.png" alt="drawing"/>
