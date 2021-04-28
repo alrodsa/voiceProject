@@ -35,6 +35,11 @@ def lectura_pdf(nom_archs):
                     frase = ''
                 frase += line[x]
 
+
+    if frase != '' or frase == ' ':
+                    print(frase, end='')
+                    text_to_speech(frase)
+                    
     print ("Terminamos aquí")
 
 def main():
