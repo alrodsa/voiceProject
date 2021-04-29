@@ -5,8 +5,8 @@
 
 ## 📋 Contenido 📋
 
-   - Archivo de [instalacion] (https://github.com/alrodsa/voiceProject/blob/main/SuperMarioVoice/installSMV.sh).
-   - Archivo de [ejecucion] (https://github.com/alrodsa/voiceProject/blob/main/SuperMarioVoice/SuperMarioVoice.sh) que hace uso del resto de directorios y archivos.
+   - Archivo de [instalacion](https://github.com/alrodsa/voiceProject/blob/main/SuperMarioVoice/installSMV.sh).
+   - Archivo de [ejecucion](https://github.com/alrodsa/voiceProject/blob/main/SuperMarioVoice/SuperMarioVoice.sh) que hace uso del resto de directorios y archivos.
 
 ## 🔧 Instalación 🔧
 * Instalación de dependencias y emulador snes9x:
