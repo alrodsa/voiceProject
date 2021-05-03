@@ -254,4 +254,5 @@ try:
                     dump_fn.write(data)
 
 except Exception as e:
+    print("[*] Saliendo ...")
     parser.exit(type(e).__name__ + ': ' + str(e))
