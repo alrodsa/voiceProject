@@ -45,10 +45,41 @@ Steps for its execution
 * [Vosk](https://alphacephei.com/vosk/) - The used voice library
 * [Python 3](https://docs.python.org/3/) - The programming language used
 
+### »Super Mario Voice, the mythical Super Mario World game for the SNES but played by voice. 🎮
 
+<p align="center">
+ <img src="https://github.com/UzuRodri95/voiceProject/blob/main/images/mario.gif" alt="drawing"/>
+</p>
+                         
+* Installing dependencies and snes9x emulator:
+
+```Bash
+> chmod +x installSMV.sh
+> sudo sh installSMV.sh
+```
+
+* Launch the game:
+
+```Bash 
+> sudo sh SuperMarioVoice.sh
+```
+
+* Launch the game with feedback:
+
+```Bash 
+> sudo sh SuperMarioVoice.sh -fe
+```
+
+## Build with 🛠️
+
+* [Vosk](https://alphacephei.com/vosk/) - La librería de voz usada
+* [Python 3](https://docs.python.org/3/) - El lenguaje de programación usado
+* [PyTTS](https://pypi.org/project/pyttsx3/) - Modelo de text to speech offline.
+* [gTTS](https://gtts.readthedocs.io/en/latest/) - Modelo de text to speech online.
+* [Snes9x](https://www.snes9x.com/) - Emulador de la SNES.
+* [pdftotext](https://pdftotext.com/es/) - Programa que nos facilita la lectura de pdfs.
 
 ## Authors ✒️
-
 
 * **Sergio Benlloch**  - [sg1o](https://github.com/sg1o)
 * **Álvaro Rodríguez**  - [UzuRodri95](https://github.com/UzuRodri95)
