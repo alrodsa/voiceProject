@@ -57,3 +57,6 @@ Las acciones que se pueden realizar con la voz son los siguientes:
 * [Snes9x](https://www.snes9x.com/) - Emulador de la SNES.
 
 Para más dudas leer el [Readme](https://github.com/alrodsa/voiceProject) principal.
+
+Para este proyecto es necesario tener en un directorio junto al proyecto un directorio rom/ con la rom de Super Mario World llamada como rom.sfc:
+    /rom/rom.sfc
